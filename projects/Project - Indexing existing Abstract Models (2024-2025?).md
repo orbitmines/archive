@@ -1,0 +1,103 @@
+---
+Stackexchange: https://proofassistants.stackexchange.com/
+---
+
+# Some Interface design projects
+
+- [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer)
+
+
+
+---
+
+Once a proper interface for Rays is setup, one of the things I'd like to do with it, is to point it to a lot of existing abstract models of computation/mathematics/calculi/theorem-provers/compilers/proof assistants/automated program synthesizers/.../programming languages. And create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.
+
+---
+
+### This is a current list of the projects I found so far related to this project - and possibly some to apply the beast to:
+
+[Chyp](https://github.com/akissinger/chyp), [Coq](https://github.com/coq/coq), [Agda](https://github.com/agda/agda), [LLVM](https://github.com/llvm), [Unicode](https://github.com/unicode-org), [nLab](https://ncatlab.org/nlab/show/HomePage), [Category Theory](https://en.wikipedia.org/wiki/Category_theory), [WebAssembly](https://webassembly.org/), [WebAssembly System Interface](https://github.com/WebAssembly/WASI), [Wasm SpecTec](https://github.com/WebAssembly/spec), [OCaml](https://github.com/ocaml/ocaml), [Backus-Naur Form (BNF)](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form), [UniMath](https://github.com/UniMath), [Lean](https://github.com/leanprover), [Type Theory](https://en.wikipedia.org/wiki/Type_theory), [Set Theory](https://en.wikipedia.org/wiki/Set_theory), [Metamath](https://github.com/metamath), [Mizar System](https://en.wikipedia.org/wiki/Mizar_system), [NuPRL](https://en.wikipedia.org/wiki/Nuprl), [HOL](https://en.wikipedia.org/wiki/HOL_(proof_assistant)), [Homotopy Type Theory](http://homotopytypetheory.org), [Dependent Type Theory](https://en.wikipedia.org/wiki/Dependent_type), [Hopf algebdra](https://en.wikipedia.org/wiki/Hopf_algebra), [Prover9](https://en.wikipedia.org/wiki/Prover9), [Otter](https://en.wikipedia.org/wiki/Otter_(theorem_prover)), [Z3](https://github.com/Z3Prover), [CUDA](https://developer.nvidia.com/cuda-toolkit), [x86](https://en.wikipedia.org/wiki/X86), [HVM, HOL, Kind](https://github.com/HigherOrderCO/), [Haskell](https://github.com/haskell), [WebGPU](https://www.w3.org/TR/webgpu/), [Treesitter](https://github.com/tree-sitter), [MathJax](https://www.mathjax.org/), [Gen.jl](https://github.com/probcomp/Gen.jl), [Julia](https://julialang.org/), [Idris](https://www.idris-lang.org/), [Quantomatic](https://github.com/Quantomatic), [Interaction nets](https://en.wikipedia.org/wiki/Interaction_nets), [Petri net](https://en.wikipedia.org/wiki/Petri_net), [Lie algebra](https://en.wikipedia.org/wiki/Lie_algebra), [Rzk](https://github.com/rzk-lang), [cubicaltt](https://github.com/mortberg/cubicaltt), [SageMath](https://www.sagemath.org/), [Xena Project](https://github.com/kbuzzard/xena), [Formal Abstract (FAbstracts)](https://github.com/formalabstracts), [Dedukti](https://github.com/Deducteam), [TPTP](https://github.com/TPTPWorld), [Isabelle](https://github.com/isabelle-prover), [Nekoka](https://github.com/nekoka-project), [E (Theorem Prover)](https://github.com/eprover), [SPASS](https://en.wikipedia.org/wiki/SPASS), [CVC](https://github.com/cvc5), [Wolfram Language](https://en.wikipedia.org/wiki/Wolfram_Language), [MiniSat](http://www.minisat.se/), [PicoSAT](http://fmv.jku.at/picosat) , [microsat](https://github.com/glnc/microsat), [SPUR](https://github.com/ZaydH/spur), [miniC2D](http://reasoning.cs.ucla.edu/minic2d), [clasp](https://potassco.org/clasp), [sat-research](https://github.com/Mateusz-Grzelinski/sat-research), [Project Everest](https://project-everest.github.io/), [pyfolderol](https://github.com/akissinger/pyfolderol), [Research in Software Engineering (RiSE)](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/), [LFSC Checker](https://github.com/cvc5/LFSC), [nunchaku](https://github.com/nunchaku-inria/nunchaku/), [CaDiCaL](https://github.com/arminbiere/cadical), [Boolector](https://boolector.github.io/), [ddSMT](https://github.com/ddsmt/ddSMT), [Bitwuzla](https://bitwuzla.github.io/), [Quantumcodes.io](https://gui.quantumcodes.io/3d), [pl-catalog](https://github.com/prathyvsh/pl-catalog), [Group Explorer](https://github.com/nathancarter/group-explorer), [lambda-calculus-visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations), [Cohomology](https://en.wikipedia.org/wiki/Cohomology), [yatima](https://github.com/lurk-lab/yatima), [Paper-Proof](https://github.com/Paper-Proof/paperproof)
+
+[switchboard](https://github.com/zeroasiccorp/switchboard/), [Why3](https://www.why3.org/), [pyzx](https://github.com/Quantomatic/pyzx), [homotopy.io](https://homotopy.io/), [The Incredible Proof Machine](https://incredible.pm/), [formal-proofs](https://github.com/starkware-libs/formal-proofs), [Formal Verification](https://github.com/formalverification), [Leo](https://github.com/leoprover), [ProofNet Isabelle](https://github.com/Wenda302/ProofNet_Isabelle), [Unilab](https://github.com/AnthonyBordg/UniLab), [MetiTarski](https://www.cl.cam.ac.uk/~lp15/papers/Arith/), [eo](https://github.com/objectionary/eo), [Clojure](https://clojure.org/), [Glencoe](https://github.com/glnc), [aeneas](https://github.com/AeneasVerif/aeneas), [GAPT](https://github.com/gapt), [coch-demo](https://github.com/marijnheule/coch-demo), [NQTHM](https://en.wikipedia.org/wiki/Nqthm), [ACL2](https://en.wikipedia.org/wiki/ACL2), [LEGO](https://en.wikipedia.org/wiki/LEGO_(proof_assistant)), [ALF](https://en.wikipedia.org/wiki/ALF_(proof_assistant)),  [Twelf](https://en.wikipedia.org/wiki/Twelf),  [Epigram](https://en.wikipedia.org/wiki/Epigram_(programming_language), [Saturn](https://github.com/siddhartha-gadgil/Saturn), [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround), [Elm](https://github.com/elm), [Lua](https://www.lua.org/), [Qt](https://www.qt.io/), [Bazel](https://bazel.build/), [Docker](https://www.docker.com/), [pp](https://github.com/RobArthan/pp), [GrapeVine](https://github.com/jenshweber/grape), [HOL Light](https://github.com/jrh13/hol-light), [itex2MML](https://github.com/ncatlab/itex2MML), [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText), [Cyc](https://github.com/asanchez75/opencyc), [Combinators](https://en.wikipedia.org/wiki/Combinatorics), [IPFS](https://ipfs.tech/), [IPLD](https://ipld.io/), [Pandoc](https://pandoc.org/), [LaTeX](https://www.latex-project.org/), [dolmen](https://github.com/Gbury/dolmen), [Andromeda](https://github.com/Andromedans/andromeda), [QED](https://github.com/teorth/QED), 
+
+### Some other names I found but didn't save a link to: 
+*DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
+
+# Some other ways of possibly extending this list (non-completed tangents):
+- [ ] Is there someone who has compiled something like this yet?
+- [ ] Quick/automatic GitHub/.../Gitlab search.
+- [ ] https://www.cs.ru.nl/~freek/100/
+- [ ] https://www.tptp.org/CASC/ - https://www.tptp.org/CASC/ - https://www.tptp.org/cgi-bin/SystemOnTPTP
+- [ ] https://proofwiki.org/wiki/Main_Page
+- [ ] https://proofassistants.stackexchange.com/
+- [ ] https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html
+- [ ] https://europroofnet.github.io/tools/
+- [ ] https://wtgowers.github.io/human-style-atp/
+- [ ] https://coq-tactician.github.io/
+- [ ] https://github.com/jaalonso/Lecturas_GLC
+- [ ] https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
+- [ ] https://github.com/berenoguz/Math
+- [ ] https://github.com/alexkrauss/isabelle-zf-experiments
+- [ ] https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false
+- [ ] http://satcompetition.org/
+
+---
+
+# Some interesting/pending questions regarding this project:
+- [ ] What are mistakes in trying to spin up new projects/languages?
+- [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
+	- [ ] Apply this question again by loosely changing constraints?
+- [ ] Compiled grammar vs analysis of runtimes?
+- [ ] *Just exclude the ones without open licenses.*
+
+---
+
+**This is probably a very relevant thing: Where invariance in this case is something like a branching ray as a cursor along a ray indicating an invariance: i.e. copies over every entry.**
+
+*"Also, interesting to note might be that Von Neumann and Birkhoff attempted to ground quantum mechanics using order theory (their attempt was not very successful at that)."
+Me: "I think my intuition is trying to say something like. I want it ordered to talk about it usefully. But high-arity cases are probably more in line with ignoring/invariances of that order."*
+Feb 22.
+
+---
+
+Rays are probably a [Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
+
+### Some more:
+[Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language), [metalang99](https://github.com/Hirrolot/metalang99), [SL](https://github.com/sl-lang/sll), [Abstract object theory (AOT)](https://en.wikipedia.org/wiki/Abstract_object_theory), [Causal graph](https://en.wikipedia.org/wiki/Causal_graph), [chemlambda](https://chemlambda.github.io/), [Representation theory](https://en.wikipedia.org/wiki/Representation_theory), [Lattice theory](https://en.wikipedia.org/wiki/Lattice_(order)), [Metamathematics](https://www.wolfram-media.com/products/metamathematics-foundations-and-physicalization/), [archon](https://homepage.divms.uiowa.edu/~astump/papers/archon.pdf)
+Ro, aUI
+
+### Some more relevant historical stuff: 
+[Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis), [Lingua_generalis](https://en.wikipedia.org/wiki/Lingua_generalis), [Philosophical_language](https://en.wikipedia.org/wiki/Philosophical_language), [Proofs_from_THE_BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK), [The_Glass_Bead_Game](https://en.wikipedia.org/wiki/The_Glass_Bead_Game), [Universal_language](https://en.wikipedia.org/wiki/Universal_language), [Langlands program](https://en.wikipedia.org/wiki/Langlands_program), [Mathesis universalis](https://en.wikipedia.org/wiki/Mathesis_universalis)
+
+[Phenomenology](https://en.wikipedia.org/wiki/Phenomenology_(philosophy) apparently [also interested](https://twitter.com/JohannesKleiner/status/1762893159044931637) in these things
+### Some more ways to extend the list (non-completed tangents):
+- [ ] https://jesper.sikanda.be/links.html
+    - [ ] & similar lists of people online (i.e. followers of followers)
+    - [ ] https://github.com/sw1sh
+- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
+- [ ] [[Jasmin Christian Blanchette]]
+- [ ] [[Simon Cruanes]]
+- [ ] Biology/Chemistry/... other fields
+- [ ] Computational Metaphysics
+	- [ ] https://mally.stanford.edu/cm/
+	- [ ] https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/
+
+## This entire thing should be compiled into a writing/study of existing stuff
+- [ ] Compile into a writing
+
+---
+
+---
+Proof Assistant exploration
+- [[Proof_assistant.pdf]]
+- [[Formal_verification.pdf]]
+- [[Computer-assisted_proof.pdf]]
+- [[Automated_reasoning.pdf]]
+- [[QED_manifesto.pdf]]
+- [[Proof_compression.pdf]]
+- [[Automated_theorem_proving.pdf]]
+- [[Compiler-compiler.pdf]]
+- [[History_of_compiler_construction.pdf]]
+- [[Compiler.pdf]]
+- [[Decompiler.pdf]]
+- [[Corrado Böhm]]
