@@ -194,3 +194,33 @@ servers
 
 
 ```
+
+```
+./_legacy_backup/8tb-hdd-I/backup_ssd_500/Fadi PC Backup/PC Backup 2015-08-03/Minecraft Server  Ben & Vrienden/server.properties
+
+./_legacy_backup/Backup.2020/ssd/fadi_laptop_msi/Documents/nora/server.properties
+./_legacy_backup/Backup.2020/ssd/fadi_laptop_msi/Documents/Nora backup/server.properties
+
+./_legacy_backup/backup_II/_backupdocs/minecraft/nora_survival_island/server.properties
+./_legacy_backup/backup_II/_backupdocs/minecraft/nora_skygrid/server.properties
+./_legacy_backup/backup_II/projects/mc-fs/test/.server/server.properties
+./_legacy_backup/backup_II/backup/projects/mc-fs/test/.server/server.properties
+./_legacy_backup/backup_II/backup/minecraft/servers/TODO_test/server.properties
+./_legacy_backup/backup_II/backup/minecraft/servers/TODO_name_server/server.properties
+./_legacy_backup/backup_II/backup/minecraft/servers/TODO_niels/server.properties
+./_legacy_backup/backup_II/backup/minecraft/servers/TODO_Mieke/server.properties
+./_legacy_backup/backup_II/minecraft/nora_survival_island/server.properties
+./_legacy_backup/backup_II/minecraft/nora_skygrid/server.properties
+./_legacy_backup/backup_II/minecraft/servers/TODO_test/server.properties
+./_legacy_backup/backup_II/minecraft/servers/TODO_name_server/server.properties
+./_legacy_backup/backup_II/minecraft/servers/TODO_niels/server.properties
+./_legacy_backup/backup_II/minecraft/servers/TODO_Mieke/server.properties
+
+./_legacy_backup/backup_II/_500gb_disk_data/Backup laptop windows 10/Files/test/server.properties
+./_legacy_backup/backup_II/_500gb_disk_data/Backup laptop windows 10/Files/backup PC/backup/Minecraft/t/server.properties
+./_legacy_backup/backup_II/_500gb_disk_data/Backup laptop windows 10/Files/backup/backup/Minecraft/t/server.properties
+./_legacy_backup/backup_II/_500gb_disk_data/Backup laptop windows 10/Files/niels/server.properties
+./_legacy_backup/backup_II/_500gb_disk_data/Backup laptop windows 10/Files/Minecraft/Mieke/server.properties
+./_legacy_backup/backup_II/_500gb_disk_data/Backup laptop windows 10/Nora backup/server.properties
+./_legacy_backup/Backup.2020/_doc_2023/minecraft/hardcore #1 nora/server.properties
+```
