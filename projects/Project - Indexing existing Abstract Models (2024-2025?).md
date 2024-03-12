@@ -4,7 +4,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 
 # Some Interface design projects
 
-- [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), 
+- [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), 
 - [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), 
 
 Possible extensions:
