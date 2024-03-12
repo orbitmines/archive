@@ -12,6 +12,7 @@ Possible extensions:
 - [ ] Through GitHub topics
 	- [ ] https://github.com/topics/interaction-design
 
+- [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory)
 
 ---
 
