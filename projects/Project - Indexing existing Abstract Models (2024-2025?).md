@@ -11,6 +11,7 @@ Possible extensions:
 - [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
 - [ ] Through GitHub topics
 	- [ ] https://github.com/topics/interaction-design
+- [ ] https://github.com/Liyubov?tab=repositories
 
 - [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory)
 
