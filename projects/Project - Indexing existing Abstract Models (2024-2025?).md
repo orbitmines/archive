@@ -13,7 +13,7 @@ Possible extensions:
 	- [ ] https://github.com/topics/interaction-design
 - [ ] https://github.com/Liyubov?tab=repositories
 
-- [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Python: wolfram_model](https://github.com/phcerdan/wolfram_model), 
+- [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Python: wolfram_model](https://github.com/phcerdan/wolfram_model), [SetReplace](https://github.com/maxitg/SetReplace)
 
 ---
 
