@@ -4,9 +4,13 @@ Stackexchange: https://proofassistants.stackexchange.com/
 
 # Some Interface design projects
 
-- [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/)
-- [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer)
+- [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), 
+- [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), 
 
+Possible extensions:
+- [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
+- [ ] Through GitHub topics
+	- [ ] https://github.com/topics/interaction-design
 
 
 ---
