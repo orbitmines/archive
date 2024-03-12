@@ -5,7 +5,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 # Some Interface design projects
 
 - [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), 
-- [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), 
+- [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer),
 
 Possible extensions:
 - [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
@@ -13,7 +13,7 @@ Possible extensions:
 	- [ ] https://github.com/topics/interaction-design
 - [ ] https://github.com/Liyubov?tab=repositories
 
-- [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory)
+- [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Python: wolfram_model](https://github.com/phcerdan/wolfram_model), 
 
 ---
 
