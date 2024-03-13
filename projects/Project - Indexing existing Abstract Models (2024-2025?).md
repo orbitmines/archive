@@ -17,7 +17,7 @@ Possible extensions:
 - [ ] https://iquilezles.org/articles/
 - [ ] 
 
-- [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Python: wolfram_model](https://github.com/phcerdan/wolfram_model), [SetReplace](https://github.com/maxitg/SetReplace), [hypercore-decomposition](https://github.com/marco-mancastroppa/hypercore-decomposition), [higher-order-motifs](https://github.com/FraLotito/higher-order-motifs), [XGI](https://github.com/xgi-org), [hypergraphx](https://github.com/HGX-Team/hypergraphx)
+- [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Python: wolfram_model](https://github.com/phcerdan/wolfram_model), [SetReplace](https://github.com/maxitg/SetReplace), [hypercore-decomposition](https://github.com/marco-mancastroppa/hypercore-decomposition), [higher-order-motifs](https://github.com/FraLotito/higher-order-motifs), [XGI](https://github.com/xgi-org), [hypergraphx](https://github.com/HGX-Team/hypergraphx), [Probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming), 
 
 ---
 
