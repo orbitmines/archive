@@ -4,7 +4,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 
 # Some Interface design projects
 
-- [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), 
+- [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), [nannou](https://github.com/nannou-org/nannou), 
 
 Possible extensions:
 - [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
@@ -12,6 +12,7 @@ Possible extensions:
 	- [ ] https://github.com/topics/interaction-design
 - [ ] https://github.com/Liyubov?tab=repositories
 - [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
+- [ ] "Creative coding?"
 
 - [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Python: wolfram_model](https://github.com/phcerdan/wolfram_model), [SetReplace](https://github.com/maxitg/SetReplace), [hypercore-decomposition](https://github.com/marco-mancastroppa/hypercore-decomposition), [higher-order-motifs](https://github.com/FraLotito/higher-order-motifs), [XGI](https://github.com/xgi-org), [hypergraphx](https://github.com/HGX-Team/hypergraphx)
 
