@@ -11,7 +11,7 @@ Possible extensions:
 - [ ] Through GitHub (& search elsewhere) topics: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation)
 - [ ] https://github.com/Liyubov?tab=repositories
 - [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
-- [ ] "Creative coding?"
+- [ ] "Creative coding?" - mostly some art stuff, though probably has some practical applications hidding somewhere too
 - [ ] Lot of interesting things here: https://github.com/thi-ng/umbrella?tab=readme-ov-file
 - [ ] https://iquilezles.org/articles/
 - [ ] 
