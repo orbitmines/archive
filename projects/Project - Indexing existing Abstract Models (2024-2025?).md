@@ -4,8 +4,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 
 # Some Interface design projects
 
-- [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), 
-- [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer),
+- [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), 
 
 Possible extensions:
 - [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
