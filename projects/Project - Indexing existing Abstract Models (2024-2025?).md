@@ -14,6 +14,8 @@ Possible extensions:
 - [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
 - [ ] "Creative coding?"
 - [ ] Lot of interesting things here: https://github.com/thi-ng/umbrella?tab=readme-ov-file
+- [ ] https://iquilezles.org/articles/
+- [ ] 
 
 - [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Python: wolfram_model](https://github.com/phcerdan/wolfram_model), [SetReplace](https://github.com/maxitg/SetReplace), [hypercore-decomposition](https://github.com/marco-mancastroppa/hypercore-decomposition), [higher-order-motifs](https://github.com/FraLotito/higher-order-motifs), [XGI](https://github.com/xgi-org), [hypergraphx](https://github.com/HGX-Team/hypergraphx)
 
