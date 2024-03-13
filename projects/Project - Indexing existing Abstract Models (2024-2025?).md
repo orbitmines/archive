@@ -9,7 +9,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 
 Possible extensions:
 - [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
-- [ ] Through GitHub (& search elsewhere) topics: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome)
+- [ ] Through GitHub (& search elsewhere) topics: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), 
 - [ ] https://github.com/Liyubov?tab=repositories
 - [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
 - [ ] "Creative coding?" - mostly some art stuff, though probably has some practical applications hidding somewhere too
@@ -19,7 +19,7 @@ Possible extensions:
 	- [ ] Analytica, bayesloop, Bean Machine, CuPPL, Venture, Probabilistic-C, Anglican, IBAL, BayesDB, PRISM, Infer.NET, dimple, chimple, BLOG, diff-SAT, PSQL, BUGS, FACTORIE, PMTK, Alchemy, Dyna, Figaro, Church, ProbLog, ProBT, Stan, Hakaru, BAli-Phy, ProbCog, Gamble, PWhile, Tuffy, PyMC, Rainier, greta, pomegranate, Lea, WebPPL, Let's Chance, Picture, [Turing.jl](https://github.com/TuringLang/Turing.jl), Low-level First-order PPL, Troll, Edward, TensorFlow Probability, Edward2, Pyro, NumPyro, Saul, RankPL, Birch, PSI, Blang, MultiVerse
 - [ ] 
 
-- [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Python: wolfram_model](https://github.com/phcerdan/wolfram_model), [SetReplace](https://github.com/maxitg/SetReplace), [hypercore-decomposition](https://github.com/marco-mancastroppa/hypercore-decomposition), [higher-order-motifs](https://github.com/FraLotito/higher-order-motifs), [XGI](https://github.com/xgi-org), [hypergraphx](https://github.com/HGX-Team/hypergraphx), [Probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming), [BoomFilters](https://github.com/tylertreat/BoomFilters), [MJr](https://github.com/kaya3/MJr), 
+- [Spectral graph theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Python: wolfram_model](https://github.com/phcerdan/wolfram_model), [SetReplace](https://github.com/maxitg/SetReplace), [hypercore-decomposition](https://github.com/marco-mancastroppa/hypercore-decomposition), [higher-order-motifs](https://github.com/FraLotito/higher-order-motifs), [XGI](https://github.com/xgi-org), [hypergraphx](https://github.com/HGX-Team/hypergraphx), [Probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming), [BoomFilters](https://github.com/tylertreat/BoomFilters), [MJr](https://github.com/kaya3/MJr)
 
 ---
 
