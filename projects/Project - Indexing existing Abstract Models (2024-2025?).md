@@ -8,8 +8,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 
 Possible extensions:
 - [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
-- [ ] Through GitHub topics
-	- [ ] https://github.com/topics/interaction-design
+- [ ] Through GitHub (& search elsewhere) topics: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation)
 - [ ] https://github.com/Liyubov?tab=repositories
 - [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
 - [ ] "Creative coding?"
