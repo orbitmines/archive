@@ -20,6 +20,8 @@ In mathematics or other ways of phrasing it, there's then the concept of bigger,
 - [ ] https://github.com/prathyvsh/category-theory-resources
 - [ ] [[Categorica]]
 - [ ] https://github.com/statusfailed/catgrad
+- [ ] https://github.com/abuseofnotation/category-theory-illustrated
+- [ ] 
 
 ---
 
