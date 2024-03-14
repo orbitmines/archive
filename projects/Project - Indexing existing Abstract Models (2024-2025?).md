@@ -100,6 +100,44 @@ Ro, aUI
 
 ---
 
+### Some old notes for possible ways to expand the list:
+###### Indexing existing archives/knowledge bases for preservation and possible future analysis...
+  - Github  
+  - gitlab  
+  - https://www.ietf.org/,   
+  - Google Scholar...  
+  - https://numenta.com/neuroscience-research/research-publications/papers/  
+  - https://www.pnas.org/  
+  - https://figshare.com/ (; datasets; found after toroidal topology paper)  
+  - Kaggle.com  
+  - arXiv dataset (https://info.arxiv.org/help/bulk_data/index.html)  
+  - https://www.sciencedirect.com/  
+  - other journals...  
+  - https://iopscience.iop.org/  
+  - https://dl.acm.org/  
+  - https://en.wikipedia.org/wiki/MathSciNet  
+  - https://github.com/keras-team/keras (François Chollet)  
+  - https://github.com/CarperAI/OpenELM  
+  - https://huggingface.co/  
+  - https://research.tudelft.nl/en/publications/ ( other uniss.)
+  - (collects models & datasets;) https://github.com/intel/dffml  
+  - Theorems/mathematics/proofs/grammers...  
+  - https://theoretics.episciences.org/
+  - https://eprint.iacr.org/
+Some tooling?/datasets  
+  - https://en.wikipedia.org/wiki/Wikipedia:Database_download#Where_do_I_get_it?  
+  - https://resources.wolframcloud.com/  
+  - https://www.wolframphysics.org/archives/index/  
+  - https://openlibrary.org/  
+  - https://archiveprogram.github.com/  
+  - https://archive.org/  
+  - Crawling [[IPFS]]: https://github.com/adlrocha/go-libp2p-crawler  
+  - digital library: [[JSTOR]]  
+  - https://github.com/hartator/wayback-machine-downloader  
+  - https://mathshistory.st-andrews.ac.uk/
+  - https://www.connectedpapers.com/
+
+
 ---
 Proof Assistant exploration
 - [[Proof_assistant.pdf]]
