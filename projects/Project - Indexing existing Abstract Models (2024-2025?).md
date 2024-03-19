@@ -7,6 +7,7 @@ Interface..
 - Blender tools (Geometry Nodes?. etc..)
 
 - [ ] https://github.com/martinescardo/TypeTopology
+- [ ] https://scholar.archive.org/
 
 ---
 
