@@ -3,6 +3,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 ---
 
 - [liquidsoap](https://github.com/savonet/liquidsoap), 
+- Blender
 
 - [ ] https://github.com/martinescardo/TypeTopology
 
