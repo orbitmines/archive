@@ -8,6 +8,8 @@ Interface..
 
 - [ ] https://github.com/martinescardo/TypeTopology
 - [ ] https://scholar.archive.org/
+- [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
+- [ ] 
 
 ---
 
