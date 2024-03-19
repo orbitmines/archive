@@ -2,14 +2,14 @@
 Stackexchange: https://proofassistants.stackexchange.com/
 ---
 
-- [liquidsoap](https://github.com/savonet/liquidsoap), 
+- [liquidsoap](https://github.com/savonet/liquidsoap), [The Munich Quantum Toolkit (MQT)](https://github.com/cda-tum/mqt), 
 Interface..
 - Blender tools (Geometry Nodes?. etc..)
 
 - [ ] https://github.com/martinescardo/TypeTopology
 - [ ] https://scholar.archive.org/
 - [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
-- [ ] 
+- [ ] https://github.com/cda-tum
 
 ---
 
