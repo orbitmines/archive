@@ -4,7 +4,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 
 - [liquidsoap](https://github.com/savonet/liquidsoap), 
 Interface..
-- Blender tools (Geometry Nodes?...)
+- Blender tools (Geometry Nodes?. etc..)
 
 - [ ] https://github.com/martinescardo/TypeTopology
 
