@@ -6,4 +6,4 @@ Continuing implementation work on Rays tomorrow: let's see how far I can get bef
 
 Doing work in a separate repository: https://github.com/orbitmines/ray
 
-Notice me @NGI @nlnet, exploratory 
+Notice me @NGI @nlnet, exploratory research is the future~
