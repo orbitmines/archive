@@ -3,6 +3,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 ---
 
 - [ ] Whole project makes it necessary to get the practical low-level systems in this too.
+	- [ ] Lookup existing projects in that space, decompilers, interfaces for binary analysis etc..
 
 - [HoTT Game](https://github.com/thehottgame/theHoTTGame), 
 
