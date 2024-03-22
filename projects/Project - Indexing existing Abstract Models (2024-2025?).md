@@ -3,7 +3,7 @@ Stackexchange: https://proofassistants.stackexchange.com/
 ---
 
 Interface...
-[AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), 
+[AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), [tikzit](https://github.com/tikzit)
 
 ...
 [Solid](https://github.com/solid/), 
