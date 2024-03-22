@@ -8,6 +8,10 @@ Interface...
 ...
 [Solid](https://github.com/solid/), 
 
+
+Chemistry (though obviously more generally applicable);
+[Assembly Theory](http://assembly-theory.com/learn/)
+
 ---
 
 - [ ] Whole project makes it necessary to get the practical low-level systems in this too.
