@@ -2,10 +2,12 @@
 Stackexchange: https://proofassistants.stackexchange.com/
 ---
 
+More random
+
 Interface...
 [AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), [tikzit](https://github.com/tikzit)
 
-...
+....
 [Solid](https://github.com/solid/), 
 - [ ] https://www.cl.cam.ac.uk/~jdy22/projects/frex/
 
