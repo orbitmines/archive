@@ -2,16 +2,18 @@
 Stackexchange: https://proofassistants.stackexchange.com/
 ---
 
-More random
+#### I'll organize this properly later
 
 Interface...
 [AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), [tikzit](https://github.com/tikzit)
 
 ....
 [Solid](https://github.com/solid/), 
-- [ ] https://www.cl.cam.ac.uk/~jdy22/projects/frex/
 
 Chemistry: [Assembly Theory](http://assembly-theory.com/learn/)
+
+More expansions
+- [ ] https://www.cl.cam.ac.uk/~jdy22/projects/frex/
 
 ---
 
