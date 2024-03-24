@@ -5,6 +5,7 @@ Related:
 TODO:
 - [ ] Better organizations
 - [ ] some realistic things to get working, just temp working things to be replaced with something better later
+- [ ] Automatically sync "GITh"
 
 ---
 
