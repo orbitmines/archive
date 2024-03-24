@@ -247,7 +247,7 @@ l any topos is an adhesive category?
 
 - [ ] How to phrase contravariant?/Profunctor In the sense of having no reversibility (generally), and not being able to match the initial side to some other initial side at the ignorant point/frame. ; Abstractly you can already represent this, so having that possibility already there isn't the issue, its some other constraints which are not kept here, probably in the sense of equating all the steps of the functions as next time steps and only outgoing arrows is next? ; Yes, it's about flowing in one direction (can of course split of into superpositions), and having at my terminal end the definition of the next step (which in category theory is some looping identity/some next step).
 
-- [ ] One gets (using [[Jonathan Gorard]]'s naming of this concept) covariant computation, "out of the box" with this abstraction. - I told him I was thinking similarly at [[SEMF]] after his 3rd lecture. - What was the first time I realized it could be used this way?
+- [ ] One gets (using [[Jonathan Gorard]]'s naming of this concept) covariant computation, "out of the box" with this abstraction. - I told him I was thinking similarly at [[Society for Multidisciplinary and Fundamental Research (SEMF)]] after his 3rd lecture. - What was the first time I realized it could be used this way?
 
 ---
 
