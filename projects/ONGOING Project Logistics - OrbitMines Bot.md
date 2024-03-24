@@ -5,7 +5,8 @@ Related:
 TODO:
 - [ ] Better organizations
 - [ ] some realistic things to get working, just temp working things to be replaced with something better later
-- [ ] Automatically sync "GITh"
+- [ ] Automatically sync "GitHub issues", the archive repo & the discord posts.
+
 
 ---
 
