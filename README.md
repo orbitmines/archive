@@ -6,4 +6,4 @@
 ###### What's excluded?
 - People-specific information, except for their relevance to certain projects.
 - Offline-held copies of publications - instead replaced with a link.
-- A backward log before the public side of journal was setup (< [[2024-03-07]]).
+- A backward log before the public side of the journal was setup (< [[2024-03-07]]).
