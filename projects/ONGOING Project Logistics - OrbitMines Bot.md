@@ -18,6 +18,13 @@ Incorporate mailing lists, & things like ([[n-Category Café]])
 
 
 ---
+
+What was this for?
+[[Mastodon]] setup through restricted Gmail SMTP:
+https://support.google.com/a/answer/176600?hl=en
+
+
+---
 For [[ONGOING Project - Funding]]
 - [ ] Setup checks for new https://www.rvo.nl/subsidies-financiering  
 - [ ] Index potential other EU grants ; https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search  
