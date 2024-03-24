@@ -1,0 +1,14 @@
+5%  Iron Pickaxe (Efficiency IV, Unbreaking V)
+20%  10000 Gold
+15%  2500 Gold
+5%  2 Gamble Tickets
+15%  5000 Gold
+10%  Iron Pickaxe (Efficiency III)
+1%  1 Rare Chest
+1%  Diamond Pickaxe (Efficiency IV, Unbreaking V)
+10%  100 Gold
+5%  20000 Gold
+1%  Diamond Pickaxe (Efficiency IV)
+10%  1 Gamble Ticket
+
+2%  30000 Gold
