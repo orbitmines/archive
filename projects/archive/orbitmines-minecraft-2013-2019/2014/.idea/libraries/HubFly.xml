@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HubFly">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Plugins (Old)/HubFly/HubFly.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

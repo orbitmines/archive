@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Poll">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/polls/SkyBlockBlocksBetween/Poll.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

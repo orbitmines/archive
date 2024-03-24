@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Poll1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/polls/WhereDidYouFind/Poll.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
