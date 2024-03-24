@@ -1,0 +1,543 @@
+Messages:
+  RespectingClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Claim ignoring \xa7c\xa7lDISABLED\xa77!"
+  IgnoringClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Claim ignoring \xa7a\xa7lENABLED\xa77!"
+  SuccessfulAbandonExcludingLocked:
+    Text: "\xa78\xa7lClaim \xa78| \xa77All Claims abandoned! (Except locked claims)\
+      \ \xa77Available Claimblocks: \xa76{0}\xa77."
+    Notes: '0: remaining blocks'
+  SuccessfulAbandonIncludingLocked:
+    Text: "\xa78\xa7lClaim \xa78| \xa77All Claims abandoned! \xa77Available Claimblocks:\
+      \ \xa76{0}\xa77."
+    Notes: '0: remaining blocks'
+  RestoreNatureActivate:
+    Text: "\xa78\xa7lClaim \xa78| \xa7aRestore Nature\xa77 mode \xa7a\xa7lENABLED\xa7\
+      7! Use \xa7a/BasicClaims\xa77 to stop."
+  RestoreNatureAggressiveActivate:
+    Text: "\xa78\xa7lClaim \xa78| \xa7cAggresive Restore Nature\xa77 mode \xa7a\xa7\
+      lENABLED\xa77! Use \xa7a/BasicClaims\xa77 to stop."
+  FillModeActive:
+    Text: "\xa78\xa7lClaim \xa78| \xa7eFill\xa77 mode \xa7a\xa7lENABLED\xa77! (\xa7\
+      6{0}\xa77)"
+    Notes: '0: fill radius'
+  TransferClaimPermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa74\xa7lDENIED\xa77! You have to be an \xa74\xa7\
+      lOwner\xa77 to do this!"
+  TransferClaimMissing:
+    Text: "\xa78\xa7lClaim \xa78| \xa77No claim here."
+  TransferClaimAdminOnly:
+    Text: "\xa78\xa7lClaim \xa78| \xa74\xa7lDENIED\xa77! You have to be an \xa74\xa7\
+      lOwner\xa77 to do this!"
+  PlayerNotFound:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Player doesn't exist."
+  TransferTopLevel:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Only top level claims can be transferred."
+  TransferSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Claim transferred."
+  TrustListNoClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You have to stand inside a Claim!"
+  ClearPermsOwnerOnly:
+    Text: "\xa78\xa7lClaim \xa78| \xa74\xa7lDENIED\xa77! You have to be the Claim\
+      \ Owner to do this!"
+  UntrustIndividualAllClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Revoked {0}'s access to all your claims. (Stand\
+      \ inside a claim to edit it)"
+    Notes: '0: untrusted player'
+  UntrustEveryoneAllClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Revoked all access to all your claims. (Stand\
+      \ inside a claim to edit it)"
+  NoPermissionTrust:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This area has been claimed by \xa76{0}\xa7\
+      7!"
+    Notes: '0: claim owner''s name'
+  ClearPermissionsOneClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Revoked all access to this claim. (Stand outside\
+      \ a claim to edit all claims)"
+  UntrustIndividualSingleClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Revoked {0}'s access to this claim. (Stand\
+      \ outside a claim to edit all claims)"
+    Notes: '0: untrusted player'
+  OnlySellBlocks:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot sell Claimblocks."
+  BlockPurchaseCost:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Price per block: \xa76{0}$\xa77. Your balance:\
+      \ \xa76{1}$\xa77."
+    Notes: '0: cost of one block; 1: player''s account balance'
+  ClaimBlockLimit:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Reached Claimblock limit. You cannot buy more."
+  InsufficientFunds:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You don't have enough money."
+    Notes: '0: total cost; 1: player''s account balance'
+  PurchaseConfirmation:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Available Claimblocks: \xa76{1}\xa77. Price:\
+      \ \xa76{0}$\xa77."
+    Notes: '0: total cost; 1: remaining blocks'
+  OnlyPurchaseBlocks:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot purchase Claimblocks."
+  BlockSaleValue:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Price for 1 Claimblock: \xa76{0}$\xa77. Claimblocks\
+      \ for sale: \xa76{1}\xa77."
+    Notes: '0: block value; 1: available blocks'
+  NotEnoughBlocksForSale:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You don't have that much Claimblocks."
+  BlockSaleConfirmation:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Available Claimblocks: \xa76{1}\xa77. Earned:\
+      \ \xa76{0}$\xa77."
+    Notes: '0: amount deposited; 1: remaining blocks'
+  AdminClaimsMode:
+    Text: "\xa78\xa7lClaim \xa78| \xa7cAdmin\xa77 mode \xa7a\xa7lENABLED\xa77!"
+  BasicClaimsMode:
+    Text: "\xa78\xa7lClaim \xa78| \xa7aNormal\xa77 mode \xa7a\xa7lENABLED\xa77!"
+  SubdivisionMode:
+    Text: "\xa78\xa7lClaim \xa78| \xa7eSubdivision\xa77 mode \xa7a\xa7lENABLED\xa7\
+      7! \xa77Use /BasicClaims to stop."
+  SubdivisionDemo:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Claim Tutorial: \xa76/claimtutorial\xa77."
+  DeleteClaimMissing:
+    Text: "\xa78\xa7lClaim \xa78| \xa77No claim here."
+  DeletionSubdivisionWarning:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim has subvisions, use /DeleteClaim\
+      \ again to confirm."
+  DeleteSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Claim deleted."
+  CantDeleteAdminClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa74\xa7lDENIED\xa77! You have to be an \xa74\xa7\
+      lOwner\xa77 to do this!"
+  DeleteAllSuccessExcludingLocked:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Deleted all of \xa76{0}'s\xa77 claims. (Except\
+      \ locked claims)"
+    Notes: '0: owner''s name'
+  DeleteAllSuccessIncludingLocked:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Deleted all of \xa76{0}'s\xa77 claims."
+    Notes: '0: owner''s name'
+  NoDeletePermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa74\xa7lDENIED\xa77! You have to be an \xa74\xa7\
+      lOwner\xa77 to do this!"
+  AllAdminDeleted:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Deleted all admin claims."
+  AdjustBlocksSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Gave {0}\xa76 {1} Claimblocks. New amount:\
+      \ \xa76{2}\xa77."
+    Notes: '0: player; 1: adjustment; 2: new total'
+  NotTrappedHere:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You can build here, get out yourself."
+  TrappedOnCooldown:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You have to wait \xa76{1}\xa77 more minute(s)s\
+      \ to do this again."
+    Notes: '0: default cooldown hours; 1: remaining minutes'
+  RescuePending:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Don't move for \xa7610 seconds\xa77."
+  NonSiegeWorld:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Siege is \xa7c\xa7lDISABLED\xa77."
+  AlreadySieging:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You are already in a Siege."
+  NotSiegableThere:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0} \xa77isn't protected there."
+    Notes: '0: defending player'
+  SiegeTooFarAway:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You are to far away from a Siege."
+  NoSiegeDefenseless:
+    Text: "\xa78\xa7lClaim \xa78| \xa77They can't defense themselves. Find someone\
+      \ else."
+  AlreadyUnderSiegePlayer:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0} \xa77is under Siege!"
+    Notes: '0: defending player'
+  AlreadyUnderSiegeArea:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This area is already under Siege!"
+  NoSiegeAdminClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa7c\xa7lDISABLED\xa77 Siege in this area!"
+  SiegeOnCooldown:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This Siege is on cooldown!"
+  SiegeAlert:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You are under Siege by \xa76{0}!\xa77 Don't\
+      \ log out!"
+    Notes: '0: attacker name'
+  SiegeConfirmed:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You are attacking \xa76{0}!\xa77 Don't log\
+      \ out!"
+    Notes: '0: defender name'
+  AbandonClaimMissing:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Stand in one of your claims. \xa77Use \xa7\
+      6/AbandonAllClaims\xa77 to delete all of your claims."
+  NotYourClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This isn't your claim!"
+  DeleteTopLevelClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Stand inside a subvision to delete it. \xa7\
+      7Use \xa76/AbandonTopLevelClaim\xa77 to delete this claim and all subdivisions."
+  AbandonSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Abandoned this claim! \xa77Available Claimblocks:\
+      \ \xa76{0}\xa77."
+    Notes: '0: remaining claim blocks'
+  CantGrantThatPermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot give yourself that permission."
+  GrantPermissionNoClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Stand inside a claim where you want to give\
+      \ yourself permission."
+  GrantPermissionConfirmation:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Granted \xa76{0}\xa77 permission to {1} {2}."
+    Notes: '0: target player; 1: permission description; 2: scope (changed claims)'
+  ManageUniversalPermissionsInstruction:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Stand outside a claim to edit all your claims."
+  ManageOneClaimPermissionsInstruction:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Stand inside a claim to edit it."
+  CollectivePublic:
+    Text: "\xa76Public Access"
+    Notes: as in 'granted the public permission to...'
+  BuildPermission:
+    Text: "\xa76Build Access"
+  ContainersPermission:
+    Text: "\xa76Container & Animal Access"
+  AccessPermission:
+    Text: "\xa76Access to buttons and levers"
+  PermissionsPermission:
+    Text: "\xa76Access to manage permissions"
+  LocationCurrentClaim:
+    Text: This Claim
+  LocationAllClaims:
+    Text: In all your Claims
+  PvPImmunityStart:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You can't be attacked by other players as long\
+      \ as your inventory is empty."
+  SiegeNoDrop:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You can't drop items while in a Siege."
+  DonateItemsInstruction:
+    Text: "\xa78\xa7lClaim \xa78| \xa76Left-Click\xa77 again to put the items from\
+      \ your hand in the chest."
+  ChestFull:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This chest is \xa7cfull\xa77."
+  DonationSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Added items in your hand to this chest."
+  PlayerTooCloseForFire:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0} \xa77is nearby. You can't place fire that\
+      \ close to a player."
+    Notes: '0: other player''s name'
+  TooDeepToClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This chest is too deep underground. It's not\
+      \ protected!"
+  ChestClaimConfirmation:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This chest is protected."
+  AutomaticClaimNotification:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This chest and nearby blocks are protected."
+  TrustCommandAdvertisement:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Use \xa76/trust <player>\xa77 to trust a player\
+      \ to your claim. (Your own responsibility)"
+  GoldenShovelAdvertisement:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You'l need a Stone Hoe to claim land."
+  UnprotectedChestWarning:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This chest isn't protected claim it with a\
+      \ Stone Hoe!"
+  ThatPlayerPvPImmune:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This player is defenceless!"
+  CantFightWhileImmune:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This player is protected from PvP!"
+  NoDamageClaimedEntity:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This belongs to \xa76{0}\xa77."
+    Notes: '0: owner name'
+  ShovelBasicClaimMode:
+    Text: "\xa78\xa7lClaim \xa78| \xa7aBasic\xa77 mode \xa7a\xa7lENABLED\xa77."
+  RemainingBlocks:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Available Claimblocks: \xa76{0}\xa77."
+    Notes: '0: remaining blocks'
+  CreativeBasicsDemoAdvertisement:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Use \xa76/claimtutorial\xa77 for a Claim Tutorial."
+  SurvivalBasicsDemoAdvertisement:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Use \xa76/claimtutorial\xa77 for a Claim Tutorial."
+  TrappedChatKeyword:
+    Text: trapped
+    Notes: When mentioned in chat, players get information about the /trapped command.
+  TrappedInstructions:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Are you trapped in someones claim? Try \xa7\
+      6/trapped\xa77!"
+  PvPNoDrop:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot drop items while in combat!"
+  SiegeNoTeleport:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot teleport out of a besieged area!"
+  BesiegedNoTeleport:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot teleport in to a besiege area!"
+  SiegeNoContainers:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot access containers while in a siege!"
+  PvPNoContainers:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot access containers while in PvP!"
+  PvPImmunityEnd:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You can no fight with other players!"
+  NoBedPermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0} \xa77doesn't give your permission to sleep\
+      \ here."
+    Notes: '0: claim owner'
+  NoWildernessBuckets:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot use buckets here!"
+  NoLavaNearOtherPlayer:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0}\xa77 is nearby. You can't place lava buckets\
+      \ that close to a player."
+    Notes: '0: nearby player'
+  TooFarAway:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Too far away."
+  BlockNotClaimed:
+    Text: "\xa78\xa7lClaim \xa78| \xa77No one has claimed this block."
+  BlockClaimed:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0}\xa77 claimed this block."
+    Notes: '0: claim owner'
+  SiegeNoShovel:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot claim while in a siege."
+  RestoreNaturePlayerInChunk:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Unable to restore, \xa76{0}\xa77 is nearby."
+    Notes: '0: nearby player'
+  NoCreateClaimPermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You aren't allowed to claim."
+  ResizeClaimTooSmall:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim is too small! (Atleast \xa76{0}\xa7\
+      7 by \xa76{0}\xa77)"
+    Notes: '0: minimum claim size'
+  ResizeNeedMoreBlocks:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You need \xa76{0}\xa77 more Claimblocks to\
+      \ claim this."
+    Notes: '0: how many needed'
+  NoCreativeUnClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You can't unclaim this land."
+  ClaimResizeSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Claim Resized. \xa77Available Claimblocks:\
+      \ \xa76{0}\xa77."
+    Notes: '0: remaining blocks'
+  ResizeFailOverlap:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This overlaps an other claim!"
+  ResizeStart:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Resizing Claim. \xa76Right-Click \xa77again\
+      \ to set this corner."
+  ResizeFailOverlapSubdivision:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This overlaps an other claim!"
+  SubdivisionStart:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Subvision corner set!"
+  CreateSubdivisionOverlap:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This overlaps an other subvision!"
+  SubdivisionSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Subvision created! Use \xa76/trust <player>\xa7\
+      7 to trust friends! (Your own responsibility)"
+  CreateClaimFailOverlap:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This overlaps an other claim! \xa77(Resize\
+      \ it by clicking on the corner or use \xa76/abandonclaim\xa77."
+  CreateClaimFailOverlapOtherPlayer:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This overlaps \xa76{0}'s \xa77claim!"
+    Notes: '0: other claim owner'
+  ClaimsDisabledWorld:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot claim in this world."
+  ClaimStart:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Corner set! \xa76Right-Click\xa77 again for\
+      \ the opposite corner."
+  NewClaimTooSmall:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim is too small! (Atleast \xa76{0}\xa7\
+      7 by \xa76{0}\xa77)"
+    Notes: '0: minimum claim size'
+  CreateClaimInsufficientBlocks:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You need \xa76{0}\xa77 more Claimblocks to\
+      \ claim this."
+    Notes: '0: additional blocks needed'
+  AbandonClaimAdvertisement:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Delete a claim by standing in it and typing\
+      \ \xa76/abandonclaim\xa77."
+  CreateClaimFailOverlapShort:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This overlaps an other existing claim!"
+  CreateClaimSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Claim Created! \xa77Trust your friends with\
+      \ \xa76/trust <player>\xa77. (Your own responsibility)"
+  SiegeWinDoorsOpen:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Buttons and levers are unlocked for \xa765\
+      \ minutes\xa77!"
+  RescueAbortedMoved:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Rescue cancelled! (You moved)"
+  SiegeDoorsLockedEjection:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Looting time is up!"
+  NoModifyDuringSiege:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You can't modify claims while in a Siege!"
+  OnlyOwnersModifyClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Only\xa76 {0}\xa77 can modify this claim."
+    Notes: '0: owner name'
+  NoBuildUnderSiege:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim is under \xa76Siege\xa77 by \xa7\
+      6{0}\xa77. (You can't build here.)"
+    Notes: '0: attacker name'
+  NoBuildPvP:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot build in claims while being in combat."
+  NoBuildPermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0}\xa77 didn't gave you the permission to\
+      \ build here."
+    Notes: '0: owner name'
+  NonSiegeMaterial:
+    Text: "\xa78\xa7lClaim \xa78| \xa77That material cannot be broken."
+  NoOwnerBuildUnderSiege:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot build while under Siege."
+  NoAccessPermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0}\xa77 didn't gave you the permission to\
+      \ use that."
+    Notes: '0: owner name.  access permission controls buttons, levers, and beds'
+  NoContainersSiege:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim is under \xa76Siege\xa77 by \xa7\
+      6{0}\xa77. (You can't build here.)"
+    Notes: '0: attacker name'
+  NoContainersPermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0}\xa77 didn't gave you the permission to\
+      \ use that."
+    Notes: '0: owner''s name.  containers also include crafting blocks'
+  OwnerNameForAdminClaims:
+    Text: an administrator
+    Notes: as in 'You don't have an administrator's permission to build here.'
+  ClaimTooSmallForEntities:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim isn't big enough for that."
+  TooManyEntitiesInClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim has too many entities in it. Try\
+      \ making it larger or remove some."
+  YouHaveNoClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You do not have any claims."
+  ConfirmFluidRemoval:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Abandoning this claim will remove all water\
+      \ and lava in it! Type /abandonclaim again to confirm."
+  AutoBanNotify:
+    Text: Auto-banned {0}({1}).  See logs for details.
+  AdjustGroupBlocksSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Gave {0}\xa76 {1}\xc2\xa77 Claimblocks. New\
+      \ amount: \xa76{2}\xa77."
+    Notes: '0: permission; 1: adjustment amount; 2: new total bonus'
+  InvalidPermissionID:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Specify the player name or use [permission]."
+  UntrustOwnerOnly:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Only \xa76{0}\xa77 can revoke here."
+    Notes: '0: claim owner''s name'
+  HowToClaimRegex:
+    Text: (^|.*\W)how\W.*\W(claim|protect|lock)(\W.*|$)
+    Notes: This is a Java Regular Expression.  Look it up before editing!  It's used to tell players about the demo video when they ask how to claim land.
+  NoBuildOutsideClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You have to claim this land before building\
+      \ here."
+  PlayerOfflineTime:
+    Text: "\xa77Last login: \xa76{0}\xa77 days ago."
+    Notes: '0: number of full days since last login'
+  BuildingOutsideClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Other players can build here! Claim it with\
+      \ a Stone Hoe!"
+  TrappedWontWorkHere:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Unable to find a safe location."
+  CommandBannedInPvP:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot use this command while in combat."
+  UnclaimCleanupWarning:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Other players can now build here."
+  BuySellNotConfigured:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You can buy Claimblocks at Spawn at the OMT\
+      \ Shop!"
+  NoTeleportPvPCombat:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot teleport while in combat."
+  NoTNTDamageAboveSeaLevel:
+    Text: "\xa78\xa7lClaim \xa78| \xa77TNT will not destroy blocks above sea level."
+  NoTNTDamageClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77TNT will not destroy claimed blocks."
+  IgnoreClaimsAdvertisement:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Use \xa76/IgnoreClaims\xa77 to override."
+  NoPermissionForCommand:
+    Text: "\xa78\xa7lClaim \xa78| \xa74\xa7lDENIED\xa77! You don't have permission\
+      \ to do that."
+  ClaimsListNoPermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa74\xa7lDENIED\xa77! You don't have permission\
+      \ to do that."
+  ExplosivesDisabled:
+    Text: "\xa78\xa7lClaim \xa78| \xa7c\xa7lDISABLED\xa77 explosions in this claim.\
+      \ \xa77Use \xa76/ClaimExplosions to \xa7a\xa7lENABLED\xa77."
+  ExplosivesEnabled:
+    Text: "\xa78\xa7lClaim \xa78| \xa7a\xa7lENABLED\xa77 explosions in this claim.\
+      \ \xa77Use \xa76/ClaimExplosions to \xa7c\xa7lDISABLED\xa77."
+  ClaimExplosivesAdvertisement:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Use \xa76/ClaimExplosions\xa77 to toggle explosions\
+      \ in a claim."
+  PlayerInPvPSafeZone:
+    Text: "\xa78\xa7lClaim \xa78| \xa77That player is in a PvP free zone."
+  ClaimLocked:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim has been \xa74locked\xa77. Use \xa7\
+      6/unlockclaim \xa77to unlock."
+  ClaimUnlocked:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim has been \xa7aunlocked\xa77."
+  DeleteLockedClaimWarning:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim is \xa74locked\xa77. Use \xa76/DeleteClaim\
+      \ \xa77again to confirm."
+  ConfirmAbandonLockedClaim:
+    Text: "\xa78\xa7lClaim \xa78| \xa77This claim is \xa74locked\xa77. Use \xa76/AbandonClaim\
+      \ \xa77again to confirm."
+  LoginSpamWait:
+    Text: "\xa7a\xa7lSurvival \xa78| \xa77Wait \xa76{0}\xa77 more seconds to login\
+      \ again."
+  SuccessfulAbandon:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Claims Abanoned. \xa77Available Claimblocks:\
+      \ \xa76{0}\xa77."
+    Notes: '0: remaining blocks'
+  PlayerNotFound2:
+    Text: "\xa78\xa7lClaim \xa78| \xa77That player hasn't logged in recently."
+  SubdivisionVideo2:
+    Text: "\xa78\xa7lClaim \xa78| \xa77For subvision help use \xa76/claimtutorial\xa7\
+      7."
+    Notes: 0:video URL
+  DeleteAllSuccess:
+    Text: "\xa78\xa7lClaim \xa78| \xa77For claim help use \xa76/claimtutorial\xa7\
+      7."
+    Notes: '0: owner''s name'
+  CreativeBasicsVideo2:
+    Text: "\xa78\xa7lClaim \xa78| \xa77For claim help use \xa76/claimtutorial\xa7\
+      7."
+    Notes: '{0}: video URL'
+  SurvivalBasicsVideo2:
+    Text: "\xa78\xa7lClaim \xa78| \xa77For claim help use \xa76/claimtutorial\xa7\
+      7."
+    Notes: '{0}: video URL'
+  NoPistonsOutsideClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Pistons won't work outside claims."
+  SoftMuted:
+    Text: Soft-muted {0}.
+    Notes: '0: The changed player''s name.'
+  UnSoftMuted:
+    Text: Un-soft-muted {0}.
+    Notes: '0: The changed player''s name.'
+  DropUnlockAdvertisement:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Use \xa76/UnlockDrops\xa77 so other players\
+      \ can pickup your loot."
+  PickupBlockedExplanation:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0}\xa77 has to use \xa76/UnlockDrops\xa77\
+      \ so you can pick this up."
+    Notes: '0: The item stack''s owner.'
+  DropUnlockConfirmation:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Other players can now pick up your dead loot."
+  AdvertiseACandACB:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Use \xa76/ACB \xa77for more claimblocks and\
+      \ \xa76/AdminClaims\xa77 for administrative claims."
+  AdvertiseAdminClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Use can use administrative claims."
+  AdvertiseACB:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Use \xa76/ACB\xa77 to give yourself more Claimblocks."
+  NotYourPet:
+    Text: "\xa78\xa7lClaim \xa78| \xa77That belongs to \xa76{6}\xa77. (They can use\
+      \ /GivePet <player>)"
+    Notes: '0: owner name'
+  PetGiveawayConfirmation:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Pet transferred."
+  PetTransferCancellation:
+    Text: "\xa78\xa7lClaim \xa78| \xa7cCancelled\xa77 Pet giveaway."
+  ReadyToTransferPet:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Ready to transfer! \xa76Right-Click\xa77 a\
+      \ Pet to give it away! (Use \xa76/GivePet cancel\xa77 to cancel)"
+  AvoidGriefClaimLand:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Prevent grief by claiming land with a Stone\
+      \ Hoe."
+  BecomeMayor:
+    Text: "\xa78\xa7lClaim \xa78| \xa77Subdive your claims and become a mayor."
+  ClaimCreationFailedOverClaimCountLimit:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You reached the limited amount of claims. You\
+      \ can use \xa76/abandonclaim\xa77 to remove claims."
+  CreateClaimFailOverlapRegion:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You cannot claim this!"
+  ResizeFailOverlapRegion:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You do not have permission to build and claim\
+      \ here!"
+  NoBuildPortalPermission:
+    Text: "\xa78\xa7lClaim \xa78| \xa77You can't use this portal! (It will end up\
+      \ in \xa76{0}'s\xa77 claim)"
+    Notes: '0: Destination land claim owner''s name.'
+  ShowNearbyClaims:
+    Text: "\xa78\xa7lClaim \xa78| \xa76{0}\xa77 claims found."
+    Notes: '0: Number of claims found.'
+  NoChatUntilMove:
+    Text: "\xa7a\xa7lSurvival \xa78| \xa77Move to \xa7a\xa7lENABLED\xa77 your chat."
