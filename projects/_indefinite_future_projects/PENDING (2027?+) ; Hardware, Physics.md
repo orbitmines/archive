@@ -1,8 +1,7 @@
 
 Physics
-
 - [ ] https://en.wikipedia.org/wiki/History_of_Maxwell's_equations
-- [ ] 
+- [ ] [[GKEYLL]]
 
 ---
 
