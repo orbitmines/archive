@@ -69,11 +69,11 @@ Scaling?
 	- [ ] Doesn't really align well with the other things I want to do. This will probably be a last resort before joining other projects.
 
 ##### Dead ones
-- [ ] https://www.heliumgrant.org/
-- [ ] https://5x5night.com/
-- [ ] https://twitter.com/cachemoneyxyz
-- [ ] https://indie-fund.com/
-- [ ] https://research.google/outreach/research-scholar-program/
+- [x] https://www.heliumgrant.org/
+- [x] https://5x5night.com/
+- [x] https://twitter.com/cachemoneyxyz
+- [x] https://indie-fund.com/
+- [x] https://research.google/outreach/research-scholar-program/
 - [ ] 
 
 

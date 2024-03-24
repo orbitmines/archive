@@ -1,0 +1,1 @@
+50% coverage up to 9000 for University interaction ; https://www.rvo.nl/subsidies-financiering/mit/kennisvouchers/definitie-kennisinstelling

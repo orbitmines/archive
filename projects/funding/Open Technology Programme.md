@@ -1,0 +1,1 @@
+Have to convince a 10-12 multidisciplinary board: https://www.nwo.nl/en/calls/open-technology-programme-2023, so far the most interesting looking one. Technically signalled for a associate professor, but we'll see.
