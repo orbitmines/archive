@@ -22,7 +22,7 @@ Process:
 - [ ] [[Incoherent Tangents]]
 - [ ] [[Incoherent Examples]]
 - [ ] [[Quantum Physics]]
-- [ ] [[Postponed to 2024 paper]]
+- [ ] [[Unprocessed thoughts (<2024) - Postponed to 2024 thoughts]]
 
 ---
 
