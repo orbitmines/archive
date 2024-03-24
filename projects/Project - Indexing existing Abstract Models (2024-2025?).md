@@ -2,6 +2,10 @@
 Stackexchange: https://proofassistants.stackexchange.com/
 ---
 
+- [[Mealy machines]]
+
+---
+
 #### I'll organize this properly later
 
 Interface...
