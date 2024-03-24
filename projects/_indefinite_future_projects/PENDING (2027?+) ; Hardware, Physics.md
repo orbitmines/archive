@@ -23,8 +23,9 @@ Read
 	- chyplet style? grid-communciation problem; data communication
 %% 	- AMD firmware in RDNA? %%
 
-- AMD docs: https://gitlab.freedesktop.org/tomstdenis/umr
-	- 
+- https://discord.com/channels/1068976834382925865/1068976834928193609/1221543200213176340
+	- AMD docs: https://gitlab.freedesktop.org/tomstdenis/umr
+		- 
 
 dwave?
 
