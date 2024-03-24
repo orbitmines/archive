@@ -1,0 +1,38 @@
+name: Prison
+author: O_o_Fadi_o_O
+version: 1
+description: Prison by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.Prison.Start
+commands:
+  servers:
+    description: Server Selector!
+  vippoints:
+    description: VIP Points
+  omt:
+    description: OMT
+  perks:
+    description: Cosmetic Perks
+  votes:
+    description: Votes
+  vote:
+    description: Vote
+  pay:
+    description: Pay
+  money:
+    description: Gold
+  gold:
+    description: Gold
+  opmode:
+    description: OP Mode
+  shop:
+    description: Shop
+  gtickets:
+    description: GambleTickets
+  gambletickets:
+    description: GambleTickets
+  staffhelp:
+    description: Staff Help
+  rarechest:
+    description: Rare Chest
+depend: [LibsDisguises]
+depend: [HolographicDisplays]

@@ -1,0 +1,15 @@
+name: SkyBlock
+author: O_o_Fadi_o_O
+version: 1
+description: SkyBlock by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.SkyBlock.Start
+commands:
+  servers:
+    description: Server Selector!
+  vippoints:
+    description: VIP Points
+  omt:
+    description: OMT
+  perks:
+    description: Cosmetic Perks
+depend: [LibsDisguises]

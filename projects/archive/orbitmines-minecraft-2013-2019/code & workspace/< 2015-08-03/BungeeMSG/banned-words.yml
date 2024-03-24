@@ -1,0 +1,4 @@
+BannedWords: 
+- 'BannedWord1|ReplacedWord1'
+- 'BannedWord2|ReplacedWord2'
+- 'BannedWord3'

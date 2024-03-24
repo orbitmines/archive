@@ -1,0 +1,31 @@
+name: OrbitMines
+author: O_o_Fadi_o_O
+version: 1
+description: OrbitMines by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.OrbitMines.Start
+commands:
+  setlastdonator:
+    description: OrbitMines Command.
+  setvip:
+    description: OrbitMines Command.
+  setstaff:
+    description: OrbitMines Command.
+  resetMonthlyVIPPoints:
+    description: OrbitMines Command.
+  giveMonthlyVIPPoints:
+    description: OrbitMines Command.
+  votes:
+    description: OrbitMines Command.
+  vippoints:
+    description: OrbitMines Command.
+  omt:
+    description: OrbitMines Command.
+  money:
+    description: OrbitMines Command.
+  addhomes:
+    description: OrbitMines Command.
+  addshops:
+    description: OrbitMines Command.
+  addwarps:
+    description: OrbitMines Command.
+depend: [Vault, Votifier]

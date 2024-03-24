@@ -1,0 +1,9 @@
+name: SpigotSpleef
+softdepend: [Vault]
+author: O_o_Fadi_o_O
+version: 1.4.2
+description: SpigotSpleef by O_o_Fadi_o_O - OrbitMines
+main: me.O_o_Fadi_o_O.SpigotSpleef.Start
+commands:
+  spleef:
+    description: Spleef Command!

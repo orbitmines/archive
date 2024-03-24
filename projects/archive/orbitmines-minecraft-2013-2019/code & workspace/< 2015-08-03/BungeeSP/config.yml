@@ -1,0 +1,10 @@
+Log:
+  UseLog: true
+  ReadLogins: true
+  ReadFalseLogins: true
+  ReadReloads: false
+  ReadReloadData: false
+  
+Commands:
+  Login:
+  -

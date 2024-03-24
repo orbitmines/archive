@@ -1,0 +1,8 @@
+name: OrbitMinesNoVoidWorldGenerator
+author: O_o_Fadi_o_O
+load: STARTUP
+version: 1
+description: OrbitMinesNoVoidWorldGenerator by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.OrbitMinesNoVoidWorldGenerator.Start
+commands:
+depend: [Multiverse-Core]

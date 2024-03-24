@@ -1,0 +1,7 @@
+name: KitPvPMoneyOnKill
+author: O_o_Fadi_o_O
+version: 1
+description: KitPvPMoneyOnKill by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.KitPvPMoneyOnKill.Start
+commands:
+depend: [Vault]

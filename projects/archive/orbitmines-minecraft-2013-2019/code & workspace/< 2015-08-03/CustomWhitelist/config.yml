@@ -1,0 +1,7 @@
+# Default Config
+# CustomWhitelist Plugin Made by O_o_Fadi_o_O
+# Got any Suggestions or Errors? http://dev.bukkit.org/bukkit-plugins/customwhitelist/
+# Use %player% for the Players name.
+# You can use ColorCodes: &a, &b, &c, &d, &e, &f, &0, &1, &2, &3, &4, &5, &6, &7, &8, &9, &l, &k, &m, &n, &r
+
+KickMessage: '&6CustomWhitelist by O_o_Fadi_o_O'

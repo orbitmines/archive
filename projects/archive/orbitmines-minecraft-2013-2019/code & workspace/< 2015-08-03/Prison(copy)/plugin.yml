@@ -1,0 +1,82 @@
+name: Prison
+author: O_o_Fadi_o_O
+version: 1
+description: Prison by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.Prison.Start
+commands:
+  servers:
+    description: Server Selector!
+  vippoints:
+    description: VIP Points
+  omt:
+    description: OMT
+  perks:
+    description: Cosmetic Perks
+  votes:
+    description: Votes
+  vote:
+    description: Vote
+  opmode:
+    description: OP Mode
+  eat:
+    description: Feed Command.
+  feed:
+    description: Feed Command.
+  fly:
+    description: Fly Command.
+  gm:
+    description: Gamemode Command.
+  gamemode:
+    description: Gamemode Command.
+  gms:
+    description: Gamemode Command.
+  gmc:
+    description: Gamemode Command.
+  gma:
+    description: Gamemode Command.
+  gmspec:
+    description: Gamemode Command.
+  skull:
+    description: Skull Command.
+  give:
+    description: Give Command.
+  teleport:
+    description: Teleport Command.
+  tp:
+    description: Teleport Command.
+  setvip:
+    description: SetVIP Command.
+  setstaff:
+    description: SetStaff Command.
+  disguise:
+    description: Disguise Command.
+  undisguise:
+    description: Undisguise Command.
+  nick:
+    description: Nickname Command.
+  afk:
+    description: AFK Command.
+  ban:
+    description: Ban Command.
+  unban:
+    description: Unban Command.
+  kick:
+    description: Kick Command.
+  kickall:
+    description: Kickall Command.
+  money:
+    description: Gold Command.
+  spawn:
+    description: Spawn Command.
+  gold:
+    description: Gold Command.
+  gtickets:
+    description: Gamble Tickets Command.
+  gambletickets:
+    description: Gamble Tickets Command.
+  rarechest:
+    description: Rare Chest Command.
+  pay:
+    description: Pay Command.
+depend: [Multiverse-Core]
+depend: [Votifier]

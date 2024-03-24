@@ -1,0 +1,13 @@
+name: OnKill
+author: O_o_Fadi_o_O
+version: 1.2.1
+description: OnKill by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.OnKill.Start
+commands:
+   onkill:
+     description: Show OnKill Help
+   stats:
+     description: Show your Stats
+   mystats:
+     description: /stats Alias
+softdepend: [Vault]

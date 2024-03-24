@@ -1,0 +1,87 @@
+name: SkyBlock
+author: O_o_Fadi_o_O
+version: 1
+load: STARTUP
+description: SkyBlock by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.SkyBlock.Start
+commands:
+  island:
+    description: Island Command!
+  is:
+    description: Island Command!
+  servers:
+    description: Server Selector!
+  vippoints:
+    description: VIP Points
+  omt:
+    description: OMT
+  perks:
+    description: Cosmetic Perks
+  votes:
+    description: Votes
+  vote:
+    description: Vote
+  opmode:
+    description: OP Mode
+  eat:
+    description: Feed Command.
+  feed:
+    description: Feed Command.
+  fly:
+    description: Fly Command.
+  gm:
+    description: Gamemode Command.
+  gamemode:
+    description: Gamemode Command.
+  gms:
+    description: Gamemode Command.
+  gmc:
+    description: Gamemode Command.
+  gma:
+    description: Gamemode Command.
+  gmspec:
+    description: Gamemode Command.
+  skull:
+    description: Skull Command.
+  give:
+    description: Give Command.
+  teleport:
+    description: Teleport Command.
+  tp:
+    description: Teleport Command.
+  setvip:
+    description: SetVIP Command.
+  setstaff:
+    description: SetStaff Command.
+  disguise:
+    description: Disguise Command.
+  undisguise:
+    description: Undisguise Command.
+  nick:
+    description: Nickname Command.
+  afk:
+    description: AFK Command.
+  ban:
+    description: Ban Command.
+  unban:
+    description: Unban Command.
+  kick:
+    description: Kick Command.
+  kickall:
+    description: Kickall Command.
+  money:
+    description: Money Command.
+  spawn:
+    description: Spawn Command.
+  heal:
+    description: Heal Command.
+  sethome:
+    description: Sethome Command.
+  delhome:
+    description: Delhome Command.
+  home:
+    description: Home Command.
+  homes:
+    description: Homes Command.
+depend: [Multiverse-Core]
+depend: [Votifier]

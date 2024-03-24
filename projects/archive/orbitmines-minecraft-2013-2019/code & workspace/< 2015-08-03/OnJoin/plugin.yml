@@ -1,0 +1,8 @@
+name: OnJoin
+author: O_o_Fadi_o_O
+version: 1.0
+description: OnJoin by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.OnJoin.Start
+commands:
+   onjoin:
+     description: Show OnJoin Help

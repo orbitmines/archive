@@ -1,0 +1,30 @@
+# Default Config
+# OnKill Plugin Made by O_o_Fadi_o_O
+# Got any Suggestions or Errors? http://dev.bukkit.org/bukkit-plugins/on-kill/
+# You can use ColorCodes! &a, &b, &c, &d, &e, &f, &0, &1, &2, &3, &4, &5, &6, &7, &8, &9, &l, &n, &m, &k, &o
+# This plugin uses Vault: http://dev.bukkit.org/bukkit-plugins/vault/
+# Use false to Disable and true to Enable.
+# Available Variables: %killer% %player% %kills% %deaths% %money%
+
+EnableKillerMessage: true
+KillerMessage: '&8[&c&lOnKill&8] &7Good Job &c%killer%&7! You just killed &c%player%&7! (&c+100$&7)'
+
+EnablePlayerMessage: false
+PlayerMessage: '&8[&c&lOnKill&8] &7You just got killed by &c%killer%&7!'
+
+EnableReward: true
+KillerReward: 100
+
+EnableSubtract: false
+PlayerSubtract: 5
+
+EnableKills: true
+EnableDeaths: true
+
+UseScoreboard: true
+
+StatsMessage:
+  - '&8[&c&lOnKill&8] &7Stats: (&c%player%&7)' 
+  - '&8[&c&lOnKill&8] &7Deaths: &c%deaths%'
+  - '&8[&c&lOnKill&8] &7Kills: &c%kills%'
+  - '&8[&c&lOnKill&8] &7Money: &c%money%'

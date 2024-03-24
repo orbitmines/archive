@@ -1,0 +1,9 @@
+name: Poll
+author: O_o_Fadi_o_O
+version: 1
+description: Poll by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.Poll.Start
+commands:
+  pollvote:
+    description: Poll Vote!
+depend: [Hub]

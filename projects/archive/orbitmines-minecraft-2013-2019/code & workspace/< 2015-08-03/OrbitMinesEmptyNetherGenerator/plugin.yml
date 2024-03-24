@@ -1,0 +1,8 @@
+name: OrbitMinesEmptyNetherGenerator
+author: O_o_Fadi_o_O
+load: STARTUP
+version: 1
+description: OrbitMinesEmptyNetherGenerator by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.OrbitMinesEmptyNetherGenerator.Start
+commands:
+depend: [Multiverse-Core]

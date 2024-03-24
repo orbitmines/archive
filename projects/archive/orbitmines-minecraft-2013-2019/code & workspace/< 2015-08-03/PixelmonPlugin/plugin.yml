@@ -1,0 +1,12 @@
+name: PixelmonPlugin
+author: O_o_Fadi_o_O
+version: 1
+description: PixelmonPlugin by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.PixelmonPlugin.Start
+commands:
+   givedays:
+     description: Give Days!
+   givelifetime:
+     description: Give Lifetime!
+   days:
+     description: Show Days!

@@ -1,0 +1,14 @@
+package me.O_o_Fadi_o_O.Prison.utils;
+
+public enum Gadget {
+
+	STACKER, 
+	PAINTBALLS, 
+	CREEPER_LAUNCHER, 
+	PET_RIDE, 
+	BOOK_EXPLOSION, 
+	SWAP_TELEPORTER, 
+	FIREWORK_GUN, 
+	MAGMACUBE_SOCCER,
+	SNOWMAN_ATTACK;
+}

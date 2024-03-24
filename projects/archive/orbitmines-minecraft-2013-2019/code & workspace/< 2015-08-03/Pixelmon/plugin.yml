@@ -1,0 +1,12 @@
+name: Pixelmon
+author: O_o_Fadi_o_O
+version: 1
+description: Pixelmon by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.Pixelmon.Start
+commands:
+   givedays:
+     description: Give Days!
+   givelifetime:
+     description: Give Lifetime!
+   days:
+     description: Show Days!

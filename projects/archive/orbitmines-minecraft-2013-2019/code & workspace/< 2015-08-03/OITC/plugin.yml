@@ -1,0 +1,10 @@
+name: OITC
+author: O_o_Fadi_o_O
+version: 1
+description: OITC by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.OITC.Start
+commands:
+   stats:
+     description: Show Your Stats
+   oitc:
+     description: OITC Help

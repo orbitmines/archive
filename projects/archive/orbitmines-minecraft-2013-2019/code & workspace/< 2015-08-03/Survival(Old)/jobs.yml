@@ -1,0 +1,8 @@
+Hours: 24
+players:
+  Player:
+    JobName: 'Lumberjack'
+    JobLevel: 1
+    JobEXP: 3
+    DaylyQuestUsed: false
+    

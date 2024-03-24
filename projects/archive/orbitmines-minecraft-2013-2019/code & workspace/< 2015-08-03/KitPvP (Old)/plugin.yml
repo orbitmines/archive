@@ -1,0 +1,26 @@
+name: KitPvP
+author: O_o_Fadi_o_O
+version: 1
+description: KitPvP by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.KitPvP.Start
+commands:
+  kit:
+    description: Test Inv!
+  kitpvp:
+    description: KitPvP!
+  tradecoins:
+     description: Coins for Money
+  servers:
+    description: Server Selector!
+  vippoints:
+    description: VIP Points
+  omt:
+    description: OMT
+  perks:
+    description: Cosmetic Perks
+  vote:
+    description: Vote
+  votes:
+    description: Votes
+softdepend: [Vault]
+depend: [Votifier]

@@ -1,0 +1,10 @@
+name: OrbitMinesPvP
+author: O_o_Fadi_o_O
+version: 1
+description: OrbitMinesPvP by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.OrbitMinesPvP.Start
+commands:
+   sellshop:
+     description: Open the Sell Shop
+   swordshop:
+     description: Open the Sword Shop

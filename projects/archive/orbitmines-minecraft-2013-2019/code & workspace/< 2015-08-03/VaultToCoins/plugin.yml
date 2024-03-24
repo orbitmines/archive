@@ -1,0 +1,9 @@
+name: VaultToCoins
+author: O_o_Fadi_o_O
+version: 1.0
+description: VaultToCoins by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.VaultToCoins.Start
+commands:
+   coins:
+     description: Coins for Money
+softdepend: [Vault]

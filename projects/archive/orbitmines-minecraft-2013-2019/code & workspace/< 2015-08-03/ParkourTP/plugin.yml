@@ -1,0 +1,8 @@
+name: ParkourTP
+author: O_o_Fadi_o_O
+version: 1
+description: ParkourTP by O_o_Fadi_o_O
+main: me.O_o_Fadi_o_O.ParkourTP.Start
+commands:
+   parkourtp:
+     description: TP to the Parkour

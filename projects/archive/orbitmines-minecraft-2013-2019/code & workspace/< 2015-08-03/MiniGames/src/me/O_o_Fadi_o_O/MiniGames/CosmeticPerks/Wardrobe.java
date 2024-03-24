@@ -1,0 +1,431 @@
+package me.O_o_Fadi_o_O.MiniGames.CosmeticPerks;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import me.O_o_Fadi_o_O.MiniGames.Start;
+import me.O_o_Fadi_o_O.MiniGames.managers.PlayerManager;
+import me.O_o_Fadi_o_O.MiniGames.managers.StorageManager;
+import me.O_o_Fadi_o_O.MiniGames.utils.VIPRank;
+
+import org.bukkit.Bukkit;
+import org.bukkit.Color;
+import org.bukkit.Material;
+import org.bukkit.entity.Player;
+import org.bukkit.inventory.Inventory;
+import org.bukkit.inventory.ItemStack;
+import org.bukkit.inventory.meta.ItemMeta;
+import org.bukkit.inventory.meta.LeatherArmorMeta;
+
+public class Wardrobe {
+
+	Start start = Start.getInstance();
+	
+	public static Inventory getWardrobeInv(Player p){
+		
+		final Inventory inv = Bukkit.createInventory(null, 54, "§0§lWardrobe");
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§fWhite Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.WHITE).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.WHITE);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(10, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§9Blue Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.BLUE).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.BLUE);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(11, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§2Green Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.GREEN).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.GREEN);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(12, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§0Black Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.BLACK).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.BLACK);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(13, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§bLight Blue Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.AQUA).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.AQUA);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(14, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§dPink Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.FUCHSIA).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.FUCHSIA);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(15, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§aLight Green Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.LIME).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.LIME);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(16, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§1Dark Blue Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.NAVY).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.NAVY);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(19, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§5Purple Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.PURPLE).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.PURPLE);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(20, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§6Orange Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.ORANGE).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.ORANGE);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(21, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§cRed Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.RED).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.RED);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(22, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§3Cyan Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.TEAL).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.TEAL);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(23, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§eYellow Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.YELLOW).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.YELLOW);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(24, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+			LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+			itemmeta.setDisplayName("§7Gray Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!StorageManager.wardrobearmor.get(Color.GRAY).contains(p)){
+				itemlore.add("§c§oPrice: §b250 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setColor(Color.GRAY);
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(25, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.IRON_CHESTPLATE, 1);
+			ItemMeta itemmeta = item.getItemMeta();
+			itemmeta.setDisplayName("§7Iron Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!PlayerManager.hasVIPPerms(p, VIPRank.Iron_VIP)){
+				itemlore.add("§c§oRequired: §7§lIron VIP");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(29, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.GOLD_CHESTPLATE, 1);
+			ItemMeta itemmeta = item.getItemMeta();
+			itemmeta.setDisplayName("§6Gold Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!PlayerManager.hasVIPPerms(p, VIPRank.Gold_VIP)){
+				itemlore.add("§c§oRequired: §6§lGold VIP");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(30, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.DIAMOND_CHESTPLATE, 1);
+			ItemMeta itemmeta = item.getItemMeta();
+			itemmeta.setDisplayName("§bDiamond Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!PlayerManager.hasVIPPerms(p, VIPRank.Diamond_VIP)){
+				itemlore.add("§c§oRequired: §b§lDiamond VIP");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(32, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.CHAINMAIL_CHESTPLATE, 1);
+			ItemMeta itemmeta = item.getItemMeta();
+			itemmeta.setDisplayName("§7Chainmail Armor");
+			List<String> itemlore = new ArrayList<String>();
+			itemlore.add("");
+			if(!PlayerManager.hasVIPPerms(p, VIPRank.Emerald_VIP)){
+				itemlore.add("§c§oRequired: §a§lEmerald VIP");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+			itemlore.add("");
+			itemmeta.setLore(itemlore);
+			item.setItemMeta(itemmeta);
+			inv.setItem(33, item);
+		}
+		
+		setDiscoItem(inv, p, Color.AQUA, "§b");
+		
+		{
+			ItemStack item = new ItemStack(Material.ENDER_CHEST, 1);
+			ItemMeta itemmeta = item.getItemMeta();
+			itemmeta.setDisplayName("§9§nCosmetic Perks");
+			item.setItemMeta(itemmeta);
+			inv.setItem(48, item);
+		}
+		{
+			ItemStack item = new ItemStack(Material.LAVA_BUCKET, 1);
+			ItemMeta itemmeta = item.getItemMeta();
+			itemmeta.setDisplayName("§4§nRemove Current Armor");
+			item.setItemMeta(itemmeta);
+			inv.setItem(50, item);
+		}
+		return inv;
+	}
+	
+	public static void setDiscoItem(Inventory inv, Player p, Color c, String colorDisplay){
+	
+		ItemStack item = new ItemStack(Material.LEATHER_CHESTPLATE, 1);
+		LeatherArmorMeta itemmeta = (LeatherArmorMeta) item.getItemMeta();
+		itemmeta.setDisplayName(colorDisplay + "Disco Armor");
+		List<String> itemlore = new ArrayList<String>();
+		itemlore.add("§7§o(Uses your unlocked Armor)");
+		itemlore.add("");
+		
+		int i = StorageManager.wardrobeunlockedcolors.get(p).size();
+		
+		if(i >= 2){
+			if(!StorageManager.wardrobedisco.containsKey(p)){
+				itemlore.add("§c§oPrice: §b500 VIP Points");
+				itemlore.add("§7§o§nClick Here to Buy");
+			}
+			else{
+				itemlore.add("§a§lUnlocked");
+				itemlore.add("§7§o§nClick Here to Activate");
+			}
+		}
+		else{
+			itemlore.add("§c§oPrice: §b500 VIP Points");
+			itemlore.add("§c§oRequired: " + colorDisplay + "2 Armor Sets");
+		}
+		itemlore.add("");
+		itemmeta.setColor(c);
+		itemmeta.setLore(itemlore);
+		item.setItemMeta(itemmeta);
+		inv.setItem(31, item);
+		
+	}
+}

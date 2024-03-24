@@ -1,0 +1,307 @@
+Messages:
+  PlayerJoin: 
+    Message: '&6&lSpigot&7&lSpleef &7| &6%player% &7joined. (&6%players%&7/&6%max-players%&7)' 
+  PlayerQuit: 
+    Message: '&6&lSpigot&7&lSpleef &7| &6%player% &7left. (&6%players%&7/&6%max-players%&7)'
+  SpectatorJoin: 
+    Message: '&6&lSpigot&7&lSpleef &7| &6%player% &7joined. (Spectator)'
+  SpectatorQuit: 
+    Message: '&6&lSpigot&7&lSpleef &7| &6%player% &7left. (Spectator)' 
+  Starting: 
+    Title:
+      Title: ''
+      Subtitle: '&7Starting in &6%seconds%&7...'
+      Settings: 0|0|2
+    Sound: CLICK
+  Started:
+    Messages:
+    - '&7&m------------------------------'
+    - ''
+    - ' &6&lSpigot&7&lSpleef &7| Starting in &6%seconds%&7.'
+    - '    &7- Be the last one alive.'
+    - '    &7- Kill other players by removing space beneath their feet.'
+    - ''
+    - '&7&m------------------------------'
+    Sound: WITHER_DEATH
+
+  GameStarted: 
+    Message: '&6&lSpigot&7&lSpleef &7| &7Started the Game! It ends in &6%minutes%m %seconds%s&7.'
+    Sound: LEVEL_UP
+   
+  Ending: 
+    ActionBar: '&6&lSpigot&7&lSpleef &7| The Game ends in &6%minutes%m %seconds%s&7.'
+    Sound: CLICK
+    
+  Ended:
+    Messages:
+    - '&7&m------------------------------'
+    - ''
+    - ' &6&lSpigot&7&lSpleef &7| Restarting in &6%seconds%&7.'
+    - '    &6&l1st: &7%player-1%'
+    - '    &7&l2nd: &7%player-2%'
+    - '    &c&l3rd: &7%player-3%'
+    - ''
+    - '&7&m------------------------------'
+    Sound: WITHER_DEATH
+
+  TokensReceived:
+    Messages:
+    - '&7&m------------------------------'
+    - ''
+    - '&f&lSpleefTokens Received:'
+    - ' &f&l+%kills-reward%%multiplier-name% &7(%round-kills% %kill-grammer%&7)'
+    - ' &f&l+%placement-reward%%multiplier-name% &7(%placement-grammer% Place)'
+    - ' &7Total Tokens Received: &f&l%received-tokens%'
+    - ''
+    - '&7&m------------------------------'
+    Sound: LEVEL_UP
+
+  CommandInGame: 
+    Message: '&6&lSpigot&7&lSpleef &7| &7You cannot perform commands while playing Spleef!'
+   
+  DeathMessageToPlayer: 
+    Message: '&6&lSpigot&7&lSpleef &7| You have been killed by &6%player%&7.'
+  DeathMessageToPlayerUnknownKiller:
+    Message: '&6&lSpigot&7&lSpleef &7| You died.'
+  DeathMessageToKiller: 
+    Message: '&6&lSpigot&7&lSpleef &7| You killed &6%player-2%&7!'
+  DeathMessage: 
+    Message: '&6&lSpigot&7&lSpleef &7| &6%player-2%&7 was killed by &6%player%&7.'
+  DeathMessageUnknownKiller: 
+    Message: '&6&lSpigot&7&lSpleef &7| &6%player-2%&7 died.'
+
+  JumpUsage:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You used &6Jump&7!'
+  JumpOnCooldown:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You can use &6Jump&7 in &6%cooldown%&7...'
+  ThrowEggOnCooldown:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You can use &6Throw Egg&7 in &6%cooldown%&7...'
+  SpeedBoostUsage:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You used &6Speed Boost&7!'
+  SpeedBoostOnCooldown:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You can use &6Speed Boost&7 in &6%cooldown%&7...'
+
+  SelectKit:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Selected &6%kit-name%&7!'
+    Sound: SUCCESSFUL_HIT
+  BoughtKit:
+    Messages: 
+    - ''
+    - '&6&lSpigot&7&lSpleef &7| &7You''ve bought &6%kit-name%&7!'
+    - '&6&lSpigot&7&lSpleef &7| &7Price: &6%price%&7.'
+    Sound: LEVEL_UP
+
+  HelpMessage:
+    Messages:
+    - '&6&lSpigot&7Spleef &7- &6%version%'
+    - ' &6/spleef help &7- Show the Help Menu.'
+    - ' &6/spleef reload &7- Reload the Plugin (Will cancel all active Arenas).'
+    - ' &6/spleef setlobby &7- Set MiniGames Lobby (When Game Ended).'
+    - ' &6/spleef editnpc &7- Edit the closest NPC.'
+    - ' &6/spleef addAS &7- Add an Arena Selector at your location.'
+    - ' &6/spleef removeAS &7- Remove the closest Arena Selector.'
+    - ' &6/spleef addKS &7- Add a Kit Selector at your location.'
+    - ' &6/spleef removeKS &7- Remove the closest Kit Selector.'
+    - ' &6/spleef setupmap <map-id> &7- Enter the Map Setup Mode.'
+    - ' &6/spleef setuparena <arena-id> &7- Enter the Arena Setup Mode.'
+    - ' &6/spleef stats <player> &7- Show the Statistics of a Player.'
+    - ' &6/spleef tokens show <player> &7- Show Tokens.'
+    - ' &6/spleef tokens add <player> <amount> &7- Add Tokens.'
+    - ' &6/spleef tokens remove <player> <amount> &7- Remove Tokens.'
+    - ' &6/spleef openas &7- Open the Arena Selector.'
+    - ' &6/spleef openks <kit-id> &7- Open a Kit Selector.'
+  
+  WrongUsageSetupMap:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Use &6/spleef setupmap <map-id>&7.'
+  WrongUsageSetupArena:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Use &6/spleef setuparena <arena-id>&7.'
+  WrongUsageStats:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Use &6/spleef stats <player>&7.'
+  WrongUsageShowTokens:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Use &6/spleef tokens show <player>&7.'
+  WrongUsageAddTokens:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Use &6/spleef tokens add <player>&7.'
+  WrongUsageRemoveTokens:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Use &6/spleef tokens remove <player>&7.'
+  WrongUsageTokens:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Use &6/spleef tokens add|remove|show <player> (amount)&7.'
+  WrongUsageOpenKitSelector:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Use &6/spleef openks|openkitselector <kit-id>&7.'
+
+  NotOnline:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Player &6%player%&7 isn''t &aOnline&7!'
+  NotANumber:
+    Message: '&6&lSpigot&7&lSpleef &7| &6%arg%&7 isn''t a number!'
+  ThroughConsole:
+    Message: '&6&lSpigot&7&lSpleef &7| You cannot use that command through the Console!'
+  NoNearbyNPC:
+    Message: '&6&lSpigot&7&lSpleef &7| Cannot find any nearby &6NPCs&7!'
+  ArenaIsFull:
+    Message: '&6&lSpigot&7&lSpleef &7| &6Arena #%arena-id%&7 is &4&lFull&7!'
+  NotEnoughTokens:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You need &6&l%tokens-needed%&7 more &f&lSpleef Tokens&7!'
+  UnknownKit:
+    Message: '&6&lSpigot&7&lSpleef &7| &7That &6Kit&7 doesn''t exist!'
+  NotInArena:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You''re not in an &6Arena&7!'
+
+  SetLobby:
+    Message: '&6&lSpigot&7&lSpleef &7| Set MiniGames Lobby!'
+  SpawnArenaSelector:
+    Message: '&6&lSpigot&7&lSpleef &7| Spawned an &6Arena Selector&7!'
+  RemoveArenaSelector:
+    Message: '&6&lSpigot&7&lSpleef &7| Removed an &6Arena Selector&7!'
+  SpawnKitSelector:
+    Message: '&6&lSpigot&7&lSpleef &7| Spawned a &6Kit Selector&7!'
+  RemoveKitSelector:
+    Message: '&6&lSpigot&7&lSpleef &7| Removed a &6Kit Selector&7!'
+  ShowTokens:
+    Message: '&6&lSpigot&7&lSpleef &7| &6%player%&7 has &6%tokens% Tokens&7.'
+  AddTokensToSender:
+    Message: '&6&lSpigot&7&lSpleef &7| You gave &6%player% &6%amount% Tokens&7!'
+  AddTokensToReceiver:
+    ActionBar: '&f&l+ %amount% Tokens'
+  RemoveTokensToSender:
+    Message: '&6&lSpigot&7&lSpleef &7| You removed &6%amount% Tokens&7 from &6%player%&7!'
+  RemoveTokensToReceiver:
+    ActionBar: '&f&l- %amount% Tokens'
+  Stats:
+    Messages:
+    - '&6&lStats &7(&6%player%&7)'
+    - ' &6&lGames Won: &7%won%'
+    - ' &6&lGames Lost: &7%lost%'
+    - ' &6&lKills: &7%kills%'
+    - ' &6&lSpleef Tokens: &7%tokens%'
+
+  NoPermissionHelp:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionReload:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionSetLobby:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionEditNPC:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionAddArenaSelector:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionRemoveArenaSelector:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionAddKitSelector:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionRemoveKitSelector:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionSetupMap:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionSetupArena:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionStats:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionShowTokens:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionAddTokens:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+  NoPermissionRemoveTokens:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You do not have access to this command!'
+    
+  NoMapAvailable:
+    Message: '&6&lSpigot&7&lSpleef &7| There is no Map available to create a new arena!'
+  EnterArenaSetup:
+    Messages:
+    - ''
+    - '&6&lSpigot&7&lSpleef &7| Entered &6Arena Setup Mode&7!'
+    - ' &6&lLeft Click&7 to open the Setup Menu.'
+    - ' &6&lLeft Click a Sign&7 to make it connect to this Arena.'
+    Sound: CLICK
+  OpenArenaSetup:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Opening the &6Arena Setup Menu&7...'
+  SetArenaLobbySpawnpoint:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Set Arena &6%arena-id%&7''s lobby spawnpoint!'
+    Sound: LEVEL_UP
+  NewArenaSign:
+    Message: '&6&lSpigot&7&lSpleef &7| This sign is now an &6Arena Sign&7!'
+    Sound: LEVEL_UP
+  AlreadyArenaSign:
+    Message: '&6&lSpigot&7&lSpleef &7| &7This sign is already an &6Arena Sign&7!'
+  FinishArenaSetup:
+    Messages:
+    - ''
+    - '&6&lSpigot&7&lSpleef &7| &7Finished &6Arena Setup&7! (&6#%arena-id%&7)'
+    Sound: LEVEL_UP
+  DeleteArena:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Deleted &6Arena #%arena-id%&7!'
+    Sound: LEVEL_UP
+
+  MapCurrentlyInUse:
+    Message: '&6&lSpigot&7&lSpleef &7| This map is currently in use. You cannot edit it!'
+  EnterMapSetup:
+    Messages:
+    - ''
+    - '&6&lSpigot&7&lSpleef &7| Entered &6Map Setup Mode&7!'
+    - ' &6&lLeft Click&7 to open the Setup Menu.'
+    Sound: CLICK
+  OpenMapSetup:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Opening the &6Map Setup Menu&7...'
+  OpenMapSetupNameEditor:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Opening the &6Map Setup Name Editor Menu&7...'
+  SetMapName:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Set Map &6#%map-id%&7''s name to &6%map-name%&7!'
+    Sound: LEVEL_UP
+  SetNextMapSpawnpoint:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Set Map &6#%map-id%&7''s next spawnpoint! (&6#%spawn-id%&7)'
+    Sound: LEVEL_UP
+  SetMapSpectatorSpawnpoint:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Set Map &6#%map-id%&7''s spectator spawnpoint!'
+    Sound: LEVEL_UP
+  FinishMapSetup:
+    Messages:
+    - ''
+    - '&6&lSpigot&7&lSpleef &7| &7Finished &6Map Setup&7! (&6#%map-id%&7)'
+  DeleteMap:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Deleted &6Map #%map-id%&7!'
+    Sound: LEVEL_UP
+
+  AlreadyInSetupMode:
+    Message: '&6&lSpigot&7&lSpleef &7| &7You''re already in a &6Setup Mode&7!'
+
+  OpenNPCEditor:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Opening the &6NPC Editor Menu&7...'
+  OpenNPCNameEditor:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Opening the &6NPC Name Editor Menu&7...'
+  OpenNPCMobEditor:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Opening the &6NPC Mob Editor Menu&7...'
+  OpenNPCKitEditor:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Opening the &6NPC Kit Editor Menu&7...'
+  SetNPCName:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Set NPC name to &6%npc-name%&7!'
+    Sound: LEVEL_UP
+  SetNPCMob:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Set NPC Mob to &6%mob-name%&7!'
+    Sound: LEVEL_UP
+  SetNPCKit:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Set NPC Kit to &6%kit-name%&7!'
+    Sound: LEVEL_UP
+  SaveNPCEditor:
+    Message: '&6&lSpigot&7&lSpleef &7| &7Your changes to this NPC have been saved.'
+    Sound: LEVEL_UP
+
+OtherMessages:
+  ChatPrefixIfNotPerArena: '&7[&6Spleef-%arena-id%&7] '
+  LobbyChatPrefixIfNotPerArena: '&7[&6Lobby&7] '
+   
+  AnimatedRightClick:
+  - '&6(Right Click)'
+  - '&e(Right Click)'
+  
+  AnimatedRightClickOnCooldown: '&8(%cooldown%...)'
+  
+  AnimatedDots:
+  - '.'
+  - '..'
+  - '...'
+  
+  KillGrammerOne: 'Kill'
+  KillGrammerMultiple: 'Kills'
+  
+  PlacementGrammer:
+    '1': '1st'
+    '2': '2nd'
+    '3': '3rd'

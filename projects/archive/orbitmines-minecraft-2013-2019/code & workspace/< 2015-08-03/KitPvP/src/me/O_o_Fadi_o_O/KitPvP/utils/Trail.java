@@ -1,0 +1,23 @@
+package me.O_o_Fadi_o_O.KitPvP.utils;
+
+public enum Trail {
+
+	FIREWORK_SPARK,
+	HAPPY_VILLAGER,
+	HEART,
+	TNT,
+	MAGIC,
+	ANGRY_VILLAGER,
+	LAVA,
+	SLIME,
+	SMOKE,
+	WITCH,
+	CRIT,
+	WATER,
+	MUSIC,
+	SNOW,
+	ENCHANTMENT_TABLE,
+	RAINBOW,
+	BUBBLE,
+	MOB_SPAWNER;
+}

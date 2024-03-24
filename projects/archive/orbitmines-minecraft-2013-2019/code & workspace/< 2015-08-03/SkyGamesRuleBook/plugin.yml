@@ -1,0 +1,6 @@
+name: SkyGamesRuleBook
+author: O_o_Fadi_o_O
+version: 1.0
+description: SkyGamesRuleBook by O_o_Fadi_o_O - OrbitMines
+main: me.O_o_Fadi_o_O.SkyGamesRuleBook.Start
+commands:

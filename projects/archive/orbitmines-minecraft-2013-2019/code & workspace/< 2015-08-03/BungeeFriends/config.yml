@@ -1,0 +1,46 @@
+NoReloadPermission: '&7You do not have access to this command!'
+
+HasMaxFriends: '&7You reached the maximum amount of friends! (&6%max%&7)'
+AlreadyFriend: '&7You are already friends with &6%invited%&7!'
+ToThemselves: '&7You cannot invite yourself as a friend.'
+PlayerNotOnline: '&6%invited% &7isn''t Online!'
+NotYourFriend: '&6%removed%&7 isn''t your friend!'
+Removed: '&7Removed &6%removed% &7from your friends!'
+RemovedFriend: '&6%remover%&7 removed you from their friends!'
+AcceptInvited: '&7You''re now friends with &6%inviter%&7!'
+AcceptInviter: '&6%invited% &7accepted your friend request!'
+DenyInvited: '&7You denied &6%inviter%''s&7 friend request!'
+DenyInviter: '&6%invited% &7denied your friend request!'
+NoRequest: '&7Nobody invited you to their friends!'
+
+MaxFriends: 5
+
+StatusColor:
+  Online: '&a'
+  Offline: '&4'
+ServerNames:
+  hub: '&b&lHub'
+  sg-1: '&6SG-1'
+
+RemoveButton: '&cRemove Friend'
+AcceptButton: '&aAccept'
+DenyButton: '&cDeny'
+
+HoverFriendOnlineButton: '&7&lInfo:\n &7UUID: &6%uuid%\n &7Status: &aOnline'
+HoverFriendOfflineButton: '&7&lInfo:\n &7UUID: &6%uuid%\n &7Last Online: &6%last-online% &7Last Seen: &6%last-server%\n &7Status: &4Offline'
+HoverServerButton: '&7Click to connect to &6%server-name%&7.'
+HoverRemoveButton: '&7Click to remove &6%friend-name%&7.'
+HoverAcceptButton: '&7Click here to &aaccept&7!'
+HoverDenyButton: '&7Click here to &cdeny&7!'
+
+FriendsMessage:
+- '&7&lBungee&6&lFriends'
+- '%if-no-friends% &7Invite friends with &6/friends invite <player>&7.'
+- '%import-all-friends% %online-color%%friend-name% &7| %server-name% &7| %remove-button%'
+
+InvitedMessage:
+- '&6%inviter% &7wants to be friends!'
+- '%accept-button% &7or %deny-button%'
+
+InviterMessage:
+- '&7You sent a friend request to &6%invited%&7!'
