@@ -20,7 +20,7 @@ A lot of my current thinking can be linked back to struggling (incredibly naivel
 
 Process:
 - [ ] [[Incoherent Tangents]]
-- [ ] [[(Unprocessed <2024) Incoherent Examples]]
+- [ ] [[Incoherent Examples]]
 - [ ] [[Quantum Physics]]
 - [ ] [[Unprocessed thoughts (<2024) - Postponed to 2024 thoughts]]
 
