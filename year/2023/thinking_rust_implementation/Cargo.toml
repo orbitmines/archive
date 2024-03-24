@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+#    "crates/equivalence",
+    "crates/ipfs",
+#    "crates/observer",
+    "crates/explorer",
+    "crates/explorer-wasm",
+#    "crates/operating-system"
+]
