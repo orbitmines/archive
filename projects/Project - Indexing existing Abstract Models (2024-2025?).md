@@ -1,6 +1,4 @@
----
-Stackexchange: https://proofassistants.stackexchange.com/
----
+# Project - Indexing existing Abstract Models (2024-2025?)
 
 - [[Mealy machines]]
 
