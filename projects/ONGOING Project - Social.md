@@ -1,6 +1,10 @@
 Live changes of roadmap-related things can now also be found in the  https://github.com/orbitmines/archive/tree/main/projects repository. (Basically for high-frequency changes) I'll put a general "roadmap" of projects in there in the coming weeks.
 
-I'll still use the ⁠https://discord.orbitmines.com for lower-frequency updates on the projects. Social media & here and there beginnings of streams for more general information. I think I now finally understand the problem space properly and am turning my eye to implementation only from now on. Depending on a few factors (mainly funding for now) the project will probably start accelerating in scope this year. ; This will probably mainly start becoming obvious once I get a simple example of ⁠Implementing Chyp into OrbitMin… working.
+I'll still use the ⁠https://discord.orbitmines.com for lower-frequency updates on the projects. Social media & and the beginnings of streams for more general information. 
+
+I think I now finally understand the problem space properly and am turning my eye to implementation only from now on.
+
+Depending on a few factors (mainly funding for now) the project will probably start accelerating in scope this year.
 
 ---
 
