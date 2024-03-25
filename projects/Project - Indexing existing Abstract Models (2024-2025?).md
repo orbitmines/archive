@@ -12,6 +12,9 @@ HSA, HIP, CUDA, firmware, .....
 - [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr
 - [ ] 
 
+expand...
+- [ ] https://proofassistants.stackexchange.com/
+
 ---
 
 #### I'll organize this properly later
