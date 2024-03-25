@@ -5,6 +5,8 @@ Stackexchange: https://proofassistants.stackexchange.com/
 - [[Mealy machines]]
 
 Hardware/firmware/embedded systems etc...
+*TODO Actually expand this list...*
+HSA, HIP, CUDA, firmware, ..... 
 - [ ] https://github.com/GPUOpen-Tools,
 - [ ] https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html
 - [ ] https://martty.github.io/
