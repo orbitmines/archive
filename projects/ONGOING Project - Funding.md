@@ -5,7 +5,6 @@
 Retry
 - [ ] https://www.sidnfonds.nl/
 Pending
-- [ ] https://apply.opentech.fund/apply/submissions/16507/#submission-details
 - [ ] https://openwebsearch.eu/community/3rdparty-calls/call2/
 - [ ] https://nlnet.nl/core/
 Done
@@ -67,6 +66,8 @@ Scaling?
 	- This sort of thing won't be sustainable, just more of the `longshots` above. It works more for understanding code-bases.
 - [x] [[A letter to all university professors whom in may concern (2023) - Project PHD?]]
 	- [ ] Doesn't really align well with the other things I want to do. This will probably be a last resort before joining other projects.
+- [x] https://apply.opentech.fund/apply/submissions/16507/#submission-details
+	- Doesn't align with their objectives. (Weird? Probably didn't communicate that aspect properly)
 
 ##### Dead ones
 - [x] https://www.heliumgrant.org/
