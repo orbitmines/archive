@@ -9,6 +9,7 @@ Pending
 - [ ] https://nlnet.nl/core/
 Done
 - [x] WBSO re-apply (2024 - Set base date from jan 1 - base hours on that)
+	- [ ] WBSO 2024: Done for 1200 hours for [[Fadi Shawki]] - 
 - [x] https://github.com/nayafia/microgrants
 - [x] https://github.com/ralphtheninja/open-funding
 Read
