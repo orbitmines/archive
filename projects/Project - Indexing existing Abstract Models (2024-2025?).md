@@ -99,7 +99,7 @@
 	- [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
 	- [ ] https://github.com/cda-tum
 	- [ ] https://github.com/totogo/awesome-knowledge-graph
-- GKEYLL
+- GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 
 ---
 
