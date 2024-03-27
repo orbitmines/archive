@@ -31,7 +31,6 @@ Interface...
 Chemistry: [Assembly Theory](http://assembly-theory.com/learn/)
 
 More expansions
-- [ ] https://www.cl.cam.ac.uk/~jdy22/projects/frex/
 
 ---
 
@@ -170,13 +169,7 @@ Some tooling?/datasets
   - https://www.connectedpapers.com/
   - https://universaldependencies.org/
 
-
 ---
-Proof Assistant exploration
-- [[Proof_assistant.pdf]]
-- [[Formal_verification.pdf]]
-- [[Computer-assisted_proof.pdf]]
-- [[Automated_reasoning.pdf]]
-- [[QED_manifesto.pdf]]
-- [[Proof_compression.pdf]]
-- [[Automated_theorem_proving.pdf]], [[Compiler-compiler.pdf]], [[History_of_compiler_construction.pdf]], [[Compiler.pdf]], [[Decompiler.pdf]], [[Corrado Böhm]]
+
+Proof Assistant exploration, [[Proof_assistant.pdf]], [[Formal_verification.pdf]], [[Computer-assisted_proof.pdf]], [[Automated_reasoning.pdf]], [[QED_manifesto.pdf]], [[Proof_compression.pdf]]
+,[[Automated_theorem_proving.pdf]], [[Compiler-compiler.pdf]],[[History_of_compiler_construction.pdf]], [[Compiler.pdf]], [[Decompiler.pdf]], [[Corrado Böhm]]
