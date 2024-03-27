@@ -5,29 +5,13 @@
 
 - [ ] This entire thing should be compiled into a writing/study of existing stuff
 
-Hardware/firmware/embedded systems etc...
-*TODO Actually expand this list...*
-HSA, HIP, CUDA, firmware, ..... 
-- [ ] https://github.com/GPUOpen-Tools,
-- [ ] https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html
-- [ ] https://martty.github.io/
-- [ ] https://themaister.net/blog/
-- [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr
-- [ ] 
-
-expand...
-- [ ] https://proofassistants.stackexchange.com/
-
 ---
-
-
 
 - [ ] Whole project makes it necessary to get the practical low-level systems in this too.
 	- [ ] Lookup existing projects in that space, decompilers, interfaces for binary analysis etc..
 
 ---
 
-- [liquidsoap](https://github.com/savonet/liquidsoap), [The Munich Quantum Toolkit (MQT)](https://github.com/cda-tum/mqt), 
 
 Interface..
 - Blender tools (Geometry Nodes?. etc..), [gephi](https://github.com/gephi/gephi), 
@@ -74,6 +58,8 @@ more expansions...
 - [ ] Quick/automatic GitHub/.../Gitlab search.
 
 - 
+	- [ ] https://proofassistants.stackexchange.com/
+- 
 	- [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
 	- [ ] Through GitHub (& search elsewhere) topics: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
 	- [ ] https://github.com/Liyubov?tab=repositories
@@ -111,7 +97,14 @@ more expansions...
 - 
 	- [[Mealy machines]]
 	- Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
-- Hardware/
+- Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
+	- HSA, HIP, CUDA, firmware, ..... 
+	- [ ] https://github.com/GPUOpen-Tools,
+	- [ ] https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html
+	- [ ] https://martty.github.io/
+	- [ ] https://themaister.net/blog/
+	- [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr
+	- [ ] 
 
 ---
 
