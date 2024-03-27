@@ -100,6 +100,7 @@
 	- [ ] https://github.com/cda-tum
 	- [ ] https://github.com/totogo/awesome-knowledge-graph
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
+- Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 
 ---
 
