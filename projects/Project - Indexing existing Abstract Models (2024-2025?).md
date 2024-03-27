@@ -12,19 +12,6 @@
 
 ---
 
-
-Interface..
-- Blender tools (Geometry Nodes?. etc..), [gephi](https://github.com/gephi/gephi), 
-
-more expansions...
-- [ ] https://github.com/martinescardo/TypeTopology
-- [ ] https://scholar.archive.org/
-- [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
-- [ ] https://github.com/cda-tum
-- [ ] https://github.com/totogo/awesome-knowledge-graph
-
----
-
 ### This is a current list of the projects I found so far related to this project - and possibly some to apply the beast to:
 
 - [Chyp](https://github.com/akissinger/chyp), [Coq](https://github.com/coq/coq), [Agda](https://github.com/agda/agda), [LLVM](https://github.com/llvm), [Unicode](https://github.com/unicode-org), [nLab](https://ncatlab.org/nlab/show/HomePage), [Category Theory](https://en.wikipedia.org/wiki/Category_theory), [WebAssembly](https://webassembly.org/), [WebAssembly System Interface](https://github.com/WebAssembly/WASI), [Wasm SpecTec](https://github.com/WebAssembly/spec), [OCaml](https://github.com/ocaml/ocaml), [Backus-Naur Form (BNF)](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form), [UniMath](https://github.com/UniMath), [Lean](https://github.com/leanprover), [Type Theory](https://en.wikipedia.org/wiki/Type_theory), [Set Theory](https://en.wikipedia.org/wiki/Set_theory), [Metamath](https://github.com/metamath), [Mizar System](https://en.wikipedia.org/wiki/Mizar_system), [NuPRL](https://en.wikipedia.org/wiki/Nuprl), [HOL](https://en.wikipedia.org/wiki/HOL_(proof_assistant)), [Homotopy Type Theory](http://homotopytypetheory.org), [Dependent Type Theory](https://en.wikipedia.org/wiki/Dependent_type), [Hopf algebdra](https://en.wikipedia.org/wiki/Hopf_algebra), [Prover9](https://en.wikipedia.org/wiki/Prover9), [Otter](https://en.wikipedia.org/wiki/Otter_(theorem_prover)), [Z3](https://github.com/Z3Prover), [CUDA](https://developer.nvidia.com/cuda-toolkit), [x86](https://en.wikipedia.org/wiki/X86), [HVM, HOL, Kind](https://github.com/HigherOrderCO/), [Haskell](https://github.com/haskell), [WebGPU](https://www.w3.org/TR/webgpu/), [Treesitter](https://github.com/tree-sitter), [MathJax](https://www.mathjax.org/), [Gen.jl](https://github.com/probcomp/Gen.jl), [Julia](https://julialang.org/), [Idris](https://www.idris-lang.org/), [Quantomatic](https://github.com/Quantomatic), [Interaction nets](https://en.wikipedia.org/wiki/Interaction_nets), [Petri net](https://en.wikipedia.org/wiki/Petri_net), [Lie algebra](https://en.wikipedia.org/wiki/Lie_algebra), [Rzk](https://github.com/rzk-lang), [cubicaltt](https://github.com/mortberg/cubicaltt), [SageMath](https://www.sagemath.org/), [Xena Project](https://github.com/kbuzzard/xena), [Formal Abstract (FAbstracts)](https://github.com/formalabstracts), [Dedukti](https://github.com/Deducteam), [TPTP](https://github.com/TPTPWorld), [Isabelle](https://github.com/isabelle-prover), [Nekoka](https://github.com/nekoka-project), [E (Theorem Prover)](https://github.com/eprover), [SPASS](https://en.wikipedia.org/wiki/SPASS), [CVC](https://github.com/cvc5), [Wolfram Language](https://en.wikipedia.org/wiki/Wolfram_Language), [MiniSat](http://www.minisat.se/), [PicoSAT](http://fmv.jku.at/picosat) , [microsat](https://github.com/glnc/microsat), [SPUR](https://github.com/ZaydH/spur), [miniC2D](http://reasoning.cs.ucla.edu/minic2d), [clasp](https://potassco.org/clasp), [sat-research](https://github.com/Mateusz-Grzelinski/sat-research), [Project Everest](https://project-everest.github.io/), [pyfolderol](https://github.com/akissinger/pyfolderol), [Research in Software Engineering (RiSE)](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/), [LFSC Checker](https://github.com/cvc5/LFSC), [nunchaku](https://github.com/nunchaku-inria/nunchaku/), [CaDiCaL](https://github.com/arminbiere/cadical), [Boolector](https://boolector.github.io/), [ddSMT](https://github.com/ddsmt/ddSMT), [Bitwuzla](https://bitwuzla.github.io/), [Quantumcodes.io](https://gui.quantumcodes.io/3d), [pl-catalog](https://github.com/prathyvsh/pl-catalog), [Group Explorer](https://github.com/nathancarter/group-explorer), [lambda-calculus-visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations), [Cohomology](https://en.wikipedia.org/wiki/Cohomology), [yatima](https://github.com/lurk-lab/yatima), [Paper-Proof](https://github.com/Paper-Proof/paperproof)
@@ -35,6 +22,7 @@ more expansions...
 - [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language), [metalang99](https://github.com/Hirrolot/metalang99), [SL](https://github.com/sl-lang/sll), [Abstract object theory (AOT)](https://en.wikipedia.org/wiki/Abstract_object_theory), [Causal graph](https://en.wikipedia.org/wiki/Causal_graph), [chemlambda](https://chemlambda.github.io/), [Representation theory](https://en.wikipedia.org/wiki/Representation_theory), [Lattice theory](https://en.wikipedia.org/wiki/Lattice_(order)), [Metamathematics](https://www.wolfram-media.com/products/metamathematics-foundations-and-physicalization/), [archon](https://homepage.divms.uiowa.edu/~astump/papers/archon.pdf)
 - [Solid](https://github.com/solid/), 
 - Chemistry: [Assembly Theory](http://assembly-theory.com/learn/)
+- [liquidsoap](https://github.com/savonet/liquidsoap), [The Munich Quantum Toolkit (MQT)](https://github.com/cda-tum/mqt), 
 
 ### Some other names I found but didn't save a link to: 
 - *DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
@@ -45,6 +33,7 @@ more expansions...
 - [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), [nannou](https://github.com/nannou-org/nannou), [thi-ng/umbrella](https://github.com/thi-ng/umbrella), [toxiclibsjs](https://github.com/hapticdata/toxiclibsjs), [vertexshadeart](https://www.vertexshaderart.com/), [openrndr](https://github.com/openrndr), [vizhub](https://vizhub.com/), [utymap](https://github.com/reinterpretcat/utymap), [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/), [voxel-builder](https://nimadez.github.io/voxel-builder/), [differentiable-graphics](https://tiarkrompf.github.io/notes/?/differentiable-graphics/), [g9](https://github.com/bijection/g9), [Apparatus](https://github.com/cdglabs/apparatus), [sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch), [observablehq](https://observablehq.com/), [printeff(...)](https://twitter.com/printeff_app), [badspreadsheet](https://github.com/adam-james-v/badspreadsheet), [uwdata/mosaic](https://github.com/uwdata/mosaic), [natto.dev](https://natto.dev/), [Bunkatopics](https://github.com/charlesdedampierre/BunkaTopics), [HoTT Game](https://github.com/thehottgame/theHoTTGame), 
 - [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator), [veloren](https://github.com/veloren/veloren?tab=readme-ov-file), 
 - [AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), [tikzit](https://github.com/tikzit)
+- Blender tools (Geometry Nodes?. etc..), [gephi](https://github.com/gephi/gephi), 
 
 # Some interesting/pending questions regarding this project:
 - [ ] What are mistakes in trying to spin up new projects/languages?
@@ -104,7 +93,12 @@ more expansions...
 	- [ ] https://martty.github.io/
 	- [ ] https://themaister.net/blog/
 	- [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr
-	- [ ] 
+- 
+	- [ ] https://github.com/martinescardo/TypeTopology
+	- [ ] https://scholar.archive.org/
+	- [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
+	- [ ] https://github.com/cda-tum
+	- [ ] https://github.com/totogo/awesome-knowledge-graph
 
 ---
 
