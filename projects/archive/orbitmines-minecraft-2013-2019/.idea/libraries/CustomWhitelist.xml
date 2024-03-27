@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="CustomWhitelist">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/2014/Plugins (Old)/CustomWhitelist/CustomWhitelist.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
