@@ -1,6 +1,6 @@
 # Project - Indexing existing Abstract Models (2024-2025?)
 
-- [[Mealy machines
+- [[Mealy machines]]
 - Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
 
 Hardware/firmware/embedded systems etc...
