@@ -108,27 +108,24 @@ more expansions...
 	- [ ] https://github.com/alexkrauss/isabelle-zf-experiments
 	- [ ] https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false
 	- [ ] http://satcompetition.org/
+- 
+	- [ ] https://jesper.sikanda.be/links.html
+	    - [ ] & similar lists of people online (i.e. followers of followers)
+	    - [ ] https://github.com/sw1sh
+	- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
+	- [ ] [[Jasmin Christian Blanchette]]
+	- [ ] [[Simon Cruanes]]
+	- [ ] Biology/Chemistry/... other fields
+	- [ ] Computational Metaphysics
+		- [ ] https://mally.stanford.edu/cm/
+		- [ ] https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/
 
 ---
 
 ### Some more relevant historical stuff: 
-[Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis), [Lingua_generalis](https://en.wikipedia.org/wiki/Lingua_generalis), [Philosophical_language](https://en.wikipedia.org/wiki/Philosophical_language), [Proofs_from_THE_BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK), [The_Glass_Bead_Game](https://en.wikipedia.org/wiki/The_Glass_Bead_Game), [Universal_language](https://en.wikipedia.org/wiki/Universal_language), [Langlands program](https://en.wikipedia.org/wiki/Langlands_program), [Mathesis universalis](https://en.wikipedia.org/wiki/Mathesis_universalis)
+- [Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis), [Lingua_generalis](https://en.wikipedia.org/wiki/Lingua_generalis), [Philosophical_language](https://en.wikipedia.org/wiki/Philosophical_language), [Proofs_from_THE_BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK), [The_Glass_Bead_Game](https://en.wikipedia.org/wiki/The_Glass_Bead_Game), [Universal_language](https://en.wikipedia.org/wiki/Universal_language), [Langlands program](https://en.wikipedia.org/wiki/Langlands_program), [Mathesis universalis](https://en.wikipedia.org/wiki/Mathesis_universalis)
 
-[Phenomenology](https://en.wikipedia.org/wiki/Phenomenology_(philosophy) apparently [also interested](https://twitter.com/JohannesKleiner/status/1762893159044931637) in these things
-### Some more ways to extend the list (non-completed tangents):
-- [ ] https://jesper.sikanda.be/links.html
-    - [ ] & similar lists of people online (i.e. followers of followers)
-    - [ ] https://github.com/sw1sh
-- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
-- [ ] [[Jasmin Christian Blanchette]]
-- [ ] [[Simon Cruanes]]
-- [ ] Biology/Chemistry/... other fields
-- [ ] Computational Metaphysics
-	- [ ] https://mally.stanford.edu/cm/
-	- [ ] https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/
-
-## This entire thing should be compiled into a writing/study of existing stuff
-- [ ] Compile into a writing
+- [Phenomenology](https://en.wikipedia.org/wiki/Phenomenology_(philosophy) apparently [also interested](https://twitter.com/JohannesKleiner/status/1762893159044931637) in these things
 
 ---
 
