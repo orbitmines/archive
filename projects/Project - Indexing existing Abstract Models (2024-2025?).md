@@ -1,6 +1,7 @@
 # Project - Indexing existing Abstract Models (2024-2025?)
 *Once a proper interface for Rays is setup, one of the things I'd like to do with it, is to point it to a lot of existing abstract models of computation/mathematics/calculi/theorem-provers/compilers/proof assistants/automated program synthesizers/.../programming languages. And create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.*
 
+- Rays are probably a [Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
 
 - [[Mealy machines]]
 - Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
@@ -71,38 +72,6 @@ more expansions...
 
 - [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), [nannou](https://github.com/nannou-org/nannou), [thi-ng/umbrella](https://github.com/thi-ng/umbrella), [toxiclibsjs](https://github.com/hapticdata/toxiclibsjs), [vertexshadeart](https://www.vertexshaderart.com/), [openrndr](https://github.com/openrndr), [vizhub](https://vizhub.com/), [utymap](https://github.com/reinterpretcat/utymap), [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/), [voxel-builder](https://nimadez.github.io/voxel-builder/), [differentiable-graphics](https://tiarkrompf.github.io/notes/?/differentiable-graphics/), [g9](https://github.com/bijection/g9), [Apparatus](https://github.com/cdglabs/apparatus), [sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch), [observablehq](https://observablehq.com/), [printeff(...)](https://twitter.com/printeff_app), [badspreadsheet](https://github.com/adam-james-v/badspreadsheet), [uwdata/mosaic](https://github.com/uwdata/mosaic), [natto.dev](https://natto.dev/), [Bunkatopics](https://github.com/charlesdedampierre/BunkaTopics), 
 - [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator), [veloren](https://github.com/veloren/veloren?tab=readme-ov-file), 
-### Some other ways of possibly extending this list (non-completed tangents):
-
-
-
-- [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
-- [ ] Through GitHub (& search elsewhere) topics: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
-- [ ] https://github.com/Liyubov?tab=repositories
-- [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
-- [ ] "Creative coding?" - mostly some art stuff, though probably has some practical applications hidding somewhere too
-- [ ] Lot of interesting things here: https://github.com/thi-ng/umbrella?tab=readme-ov-file
-- [ ] https://iquilezles.org/articles/
-- [ ] 
-
-
----
-
-- [ ] https://www.cs.ru.nl/~freek/100/
-- [ ] https://www.tptp.org/CASC/ - https://www.tptp.org/CASC/ - https://www.tptp.org/cgi-bin/SystemOnTPTP
-- [ ] https://proofwiki.org/wiki/Main_Page
-- [ ] https://proofassistants.stackexchange.com/
-- [ ] https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html
-- [ ] https://europroofnet.github.io/tools/
-- [ ] https://wtgowers.github.io/human-style-atp/
-- [ ] https://coq-tactician.github.io/
-- [ ] https://github.com/jaalonso/Lecturas_GLC
-- [ ] https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
-- [ ] https://github.com/berenoguz/Math
-- [ ] https://github.com/alexkrauss/isabelle-zf-experiments
-- [ ] https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false
-- [ ] http://satcompetition.org/
-
----
 
 # Some interesting/pending questions regarding this project:
 - [ ] What are mistakes in trying to spin up new projects/languages?
@@ -110,10 +79,37 @@ more expansions...
 	- [ ] Apply this question again by loosely changing constraints?
 - [ ] Compiled grammar vs analysis of runtimes?
 - [ ] *Just exclude the ones without open licenses.*
+### Some other ways of possibly extending this list (non-completed tangents):
+
+- [ ] Is there someone who has compiled something like this yet?
+- [ ] Quick/automatic GitHub/.../Gitlab search.
+
+- 
+	- [ ] https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file
+	- [ ] Through GitHub (& search elsewhere) topics: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
+	- [ ] https://github.com/Liyubov?tab=repositories
+	- [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
+	- [ ] "Creative coding?" - mostly some art stuff, though probably has some practical applications hidding somewhere too
+	- [ ] Lot of interesting things here: https://github.com/thi-ng/umbrella?tab=readme-ov-file
+	- [ ] https://iquilezles.org/articles/
+	- [ ] 
+- 
+	- [ ] https://www.cs.ru.nl/~freek/100/
+	- [ ] https://www.tptp.org/CASC/ - https://www.tptp.org/CASC/ - https://www.tptp.org/cgi-bin/SystemOnTPTP
+	- [ ] https://proofwiki.org/wiki/Main_Page
+	- [ ] https://proofassistants.stackexchange.com/
+	- [ ] https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html
+	- [ ] https://europroofnet.github.io/tools/
+	- [ ] https://wtgowers.github.io/human-style-atp/
+	- [ ] https://coq-tactician.github.io/
+	- [ ] https://github.com/jaalonso/Lecturas_GLC
+	- [ ] https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
+	- [ ] https://github.com/berenoguz/Math
+	- [ ] https://github.com/alexkrauss/isabelle-zf-experiments
+	- [ ] https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false
+	- [ ] http://satcompetition.org/
 
 ---
-
-Rays are probably a [Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
 
 ### Some more:
 [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language), [metalang99](https://github.com/Hirrolot/metalang99), [SL](https://github.com/sl-lang/sll), [Abstract object theory (AOT)](https://en.wikipedia.org/wiki/Abstract_object_theory), [Causal graph](https://en.wikipedia.org/wiki/Causal_graph), [chemlambda](https://chemlambda.github.io/), [Representation theory](https://en.wikipedia.org/wiki/Representation_theory), [Lattice theory](https://en.wikipedia.org/wiki/Lattice_(order)), [Metamathematics](https://www.wolfram-media.com/products/metamathematics-foundations-and-physicalization/), [archon](https://homepage.divms.uiowa.edu/~astump/papers/archon.pdf)
