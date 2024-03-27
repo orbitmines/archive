@@ -20,19 +20,7 @@ expand...
 
 ---
 
-#### I'll organize this properly later
 
-Interface...
-[AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), [tikzit](https://github.com/tikzit)
-
-....
-[Solid](https://github.com/solid/), 
-
-Chemistry: [Assembly Theory](http://assembly-theory.com/learn/)
-
-More expansions
-
----
 
 - [ ] Whole project makes it necessary to get the practical low-level systems in this too.
 	- [ ] Lookup existing projects in that space, decompilers, interfaces for binary analysis etc..
@@ -61,6 +49,8 @@ more expansions...
 - [ ] https://en.wikipedia.org/wiki/Probabilistic_programming
 	- [ ] Analytica, bayesloop, Bean Machine, CuPPL, Venture, Probabilistic-C, Anglican, IBAL, BayesDB, PRISM, Infer.NET, dimple, chimple, BLOG, diff-SAT, PSQL, BUGS, FACTORIE, PMTK, Alchemy, Dyna, Figaro, Church, ProbLog, ProBT, Stan, Hakaru, BAli-Phy, ProbCog, Gamble, PWhile, Tuffy, PyMC, Rainier, greta, pomegranate, Lea, WebPPL, Let's Chance, Picture, [Turing.jl](https://github.com/TuringLang/Turing.jl), Low-level First-order PPL, Troll, Edward, TensorFlow Probability, Edward2, Pyro, NumPyro, Saul, RankPL, Birch, PSI, Blang, MultiVerse
 - [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language), [metalang99](https://github.com/Hirrolot/metalang99), [SL](https://github.com/sl-lang/sll), [Abstract object theory (AOT)](https://en.wikipedia.org/wiki/Abstract_object_theory), [Causal graph](https://en.wikipedia.org/wiki/Causal_graph), [chemlambda](https://chemlambda.github.io/), [Representation theory](https://en.wikipedia.org/wiki/Representation_theory), [Lattice theory](https://en.wikipedia.org/wiki/Lattice_(order)), [Metamathematics](https://www.wolfram-media.com/products/metamathematics-foundations-and-physicalization/), [archon](https://homepage.divms.uiowa.edu/~astump/papers/archon.pdf)
+- [Solid](https://github.com/solid/), 
+- Chemistry: [Assembly Theory](http://assembly-theory.com/learn/)
 
 ### Some other names I found but didn't save a link to: 
 - *DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
@@ -70,6 +60,7 @@ more expansions...
 
 - [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), [nannou](https://github.com/nannou-org/nannou), [thi-ng/umbrella](https://github.com/thi-ng/umbrella), [toxiclibsjs](https://github.com/hapticdata/toxiclibsjs), [vertexshadeart](https://www.vertexshaderart.com/), [openrndr](https://github.com/openrndr), [vizhub](https://vizhub.com/), [utymap](https://github.com/reinterpretcat/utymap), [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/), [voxel-builder](https://nimadez.github.io/voxel-builder/), [differentiable-graphics](https://tiarkrompf.github.io/notes/?/differentiable-graphics/), [g9](https://github.com/bijection/g9), [Apparatus](https://github.com/cdglabs/apparatus), [sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch), [observablehq](https://observablehq.com/), [printeff(...)](https://twitter.com/printeff_app), [badspreadsheet](https://github.com/adam-james-v/badspreadsheet), [uwdata/mosaic](https://github.com/uwdata/mosaic), [natto.dev](https://natto.dev/), [Bunkatopics](https://github.com/charlesdedampierre/BunkaTopics), [HoTT Game](https://github.com/thehottgame/theHoTTGame), 
 - [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator), [veloren](https://github.com/veloren/veloren?tab=readme-ov-file), 
+- [AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), [tikzit](https://github.com/tikzit)
 
 # Some interesting/pending questions regarding this project:
 - [ ] What are mistakes in trying to spin up new projects/languages?
@@ -120,7 +111,7 @@ more expansions...
 - 
 	- [[Mealy machines]]
 	- Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
-
+- Hardware/
 
 ---
 
