@@ -1,4 +1,6 @@
 # Project - Indexing existing Abstract Models (2024-2025?)
+*Once a proper interface for Rays is setup, one of the things I'd like to do with it, is to point it to a lot of existing abstract models of computation/mathematics/calculi/theorem-provers/compilers/proof assistants/automated program synthesizers/.../programming languages. And create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.*
+
 
 - [[Mealy machines]]
 - Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
@@ -75,7 +77,6 @@ more expansions...
 
 ---
 
-Once a proper interface for Rays is setup, one of the things I'd like to do with it, is to point it to a lot of existing abstract models of computation/mathematics/calculi/theorem-provers/compilers/proof assistants/automated program synthesizers/.../programming languages. And create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.
 
 ---
 
