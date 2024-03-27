@@ -20,12 +20,13 @@ Notice me @NGI4eu @NLnetFDN, exploratory research is the future~
 
 ---
 
- [[2024-02-20]]-[[2024-02-22]] [[Project - OrbitMines as a Game (2025-2026?)]] 
+[[2024-02-20]]-[[2024-02-22]] [[Project - OrbitMines as a Game (2025-2026?)]] 
 ## OrbitMines as ** Project
+https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project
 
-<Arc head="Introduction">  
   I'm finding myself having to write something along these lines more often recently, so I'm not even sure what a thing like this should be called. Perhaps this is a comprehensive guide on how to be frustrated with pixels. Containing a bit of personal history, a bit of future projections and too many vague ideas which need a practical handle - Ah, that'll be the future projection part.  
   
+<Arc head="Introduction">  
   <BR/><BR/>  
   
   Perhaps this should make communicating these things easier by just being able to share a link. An online copy of this can be found <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'here', link: 'https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project'}} />.  
