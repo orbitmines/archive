@@ -79,3 +79,27 @@ Big challenge is probably ignoring an existing generated world, and instantiatin
 
 Stability of Space
 Non-stability of arbitrary complicated information
+
+---
+
+# [[2024-02-02]] A quick introduction to OrbitMines
+https://twitter.com/_FadiShawki/status/1753543155092234463
+
+Arguably, *the* goal of OrbitMines, is to bridge the gap between Languages, Interfaces and Video Games. Perhaps you might find this a bit odd at first: You should start by abandoning the notion anyone has about IDEs, games, programming ... and operating systems. For they are merely an incredibly useful, but restrictive case. And if these ideas can be executed properly, they will **all** blend together.
+
+Though that might sound interesting, how do you *actually* make that happen? A question which has been digging at me for a long time.
+
+This starts with a few complicated but simple ideas:
+- Whatever it is (programming) languages are currently doing, they will never get there: This will **never** be possible in *just* the textual interface any programmer is familiar with.
+- For some reason, it's incredibly hard to apply the mode of thinking which allows for the creation in, ... of a programming language, to the interface in which one programs.
+- It is incredibly hard to throw away all historical context and actually start from something **new**, while still having a practical handle on anything others have done before. Try doing that, while everyone is doing that.
+- Whatever this interface will look like, it necessitates conveniently being able to change **anything** about how it looks, ..., how it operates *from the interface itself*. This introduces a hard problem on the side of the implementer: How do you possibly account for that? Or perhaps: Why is that a problem in the first case?
+- Whatever function it is that platforms and interfaces serve, they will probably converge to being more of a theme applied on a particular type of structure. Only as a supply of resources (access to certain kinds of information/compute) will they persist. They will not persist as separable interfaces.
+- You need to be able to deal in *questions* of different levels of abstraction, description, ..., scales, when each layer introduces arbitrary complexity. This is not simple scale invariance.
+- Any scale, ..., any language will in some respect introduce this arbitrary complexity. The only way to properly deal with that is the possibility of exploration. You cannot have this without an open world generation aspect.
+- Any translation between any layer necessarily contains something which *cannot* be translated.
+- You will have to deal with being able to move in certain data structures for which there might not (yet) be a nice translation to something you can understand.
+- Whatever sets up this open world generation must rely on existing structure, information. You can set up something more random, sure. But the only possibility of some feedback on this generation must be some generalization of existing knowledge. Whatever (entropically relevant) information, structure, ..., items have been found.
+- This means open world generation must support arbitrary information which will **not** be available in the design of this game/interface.
+
+These are some high-level questions, I'll return to these in more detail at some point.
