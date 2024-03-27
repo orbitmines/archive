@@ -3,8 +3,7 @@
 
 - Rays are probably a [Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
 
-- [[Mealy machines]]
-- Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
+- [ ] This entire thing should be compiled into a writing/study of existing stuff
 
 Hardware/firmware/embedded systems etc...
 *TODO Actually expand this list...*
@@ -119,6 +118,10 @@ more expansions...
 	- [ ] Computational Metaphysics
 		- [ ] https://mally.stanford.edu/cm/
 		- [ ] https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/
+- 
+	- [[Mealy machines]]
+	- Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
+
 
 ---
 
@@ -176,9 +179,4 @@ Proof Assistant exploration
 - [[Automated_reasoning.pdf]]
 - [[QED_manifesto.pdf]]
 - [[Proof_compression.pdf]]
-- [[Automated_theorem_proving.pdf]]
-- [[Compiler-compiler.pdf]]
-- [[History_of_compiler_construction.pdf]]
-- [[Compiler.pdf]]
-- [[Decompiler.pdf]]
-- [[Corrado Böhm]]
+- [[Automated_theorem_proving.pdf]], [[Compiler-compiler.pdf]], [[History_of_compiler_construction.pdf]], [[Compiler.pdf]], [[Decompiler.pdf]], [[Corrado Böhm]]
