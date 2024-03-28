@@ -29,4 +29,4 @@ The basic premise is this, there might be arbitrarily complex structure around m
 - Rewriting as placing the direction encoded as `.type` of initial/vertex headed to terminal. Where terminal is undecided (from the perspective of `.terminal`, can recursively be the case for any of these.) - So .initial is VERTEX, .self is TERMINAL, which means this .terminal returns ... (Basically abstraction layer fitting the structure - See [[2024-03-28]] note.)
 
 With some possible physics connections here as well:
-Then energy conservation (if it holds up), 
+Then energy conservation (if it holds up), could be using anything to the initial sides (casual histories/or some structure/.../topology) and shove them in the traversing direction untill there's nothing there. And hence we stop branching and in some ways collapsing i
