@@ -22,3 +22,7 @@ The basic premise is this, there might be arbitrarily complex structure around m
 
 - Context is defines what something looks like from a particular perspective: Or: "What it is"
 
+### Traversing
+-  Dereferencing is likely in many cases quickly subject to infinite stepping (similar to INITIAL -> INITIAL, TERMINAL -> TERMINAL, VERTEX -> VERTEX. (Could be that this means that there's no continuation, a self-reference defined here, or it's some mechanism of halting.)
+	- Simple example of infinitely finding terminals, or a reference to 'nothing - infinitely'.
+	- If both are references, allow deref of both in parallel?
