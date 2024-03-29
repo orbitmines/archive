@@ -10,6 +10,7 @@ Read
 - [ ] https://github.com/fail0verflow/radeon-tools/tree/master/f32
 	- [ ] [[fail0verflow]]
 - [ ] https://github.com/AMDESE/amd_ucode_info
+- [ ] https://www.mov-axbx.com/wopr/wopr_concept.html
 
 
 - AMD rant from George - some important stuff
