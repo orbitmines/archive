@@ -16,7 +16,6 @@ Read
 - [ ] https://github.com/nayafia/lemonade-stand
 Possible
 - [ ] https://www.nwo.nl/en/calls/open-competition-domain-science-m-2023/2024
-- [ ] https://www.aria.org.uk/faqs-funding/
 - [ ] 
 
 Scaling?
