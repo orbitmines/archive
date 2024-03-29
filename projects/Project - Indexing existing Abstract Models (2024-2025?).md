@@ -99,6 +99,9 @@
 	- [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
 	- [ ] https://github.com/cda-tum
 	- [ ] https://github.com/totogo/awesome-knowledge-graph
+	- [ ] Emulators, ... devkits etc..
+		- [ ] https://www.synopsys.com/verification/emulation/zebu-ep1.html
+		- [ ] 
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/

@@ -16,6 +16,8 @@ Read
 - [ ] https://github.com/nayafia/lemonade-stand
 Possible
 - [ ] https://www.nwo.nl/en/calls/open-competition-domain-science-m-2023/2024
+- [ ] https://www.aria.org.uk/faqs-funding/
+- [ ] 
 
 Scaling?
 - [ ] I just need time to work on the ideas, there's not a lot other than a small compute station or involving other in costs for now, so these probably don't make much sense yet. Maybe would want to involve other people soon though.
