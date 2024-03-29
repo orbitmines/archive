@@ -11,6 +11,7 @@ Read
 	- [ ] [[fail0verflow]]
 - [ ] https://github.com/AMDESE/amd_ucode_info
 - [ ] https://www.mov-axbx.com/wopr/wopr_concept.html
+- [ ] https://github.com/hughperkins/VeriGPU
 
 
 - AMD rant from George - some important stuff
