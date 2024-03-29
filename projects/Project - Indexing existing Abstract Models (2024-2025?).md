@@ -103,6 +103,8 @@
 		- [ ] https://www.synopsys.com/verification/emulation/zebu-ep1.html
 	- [ ] rocm (amd)
 	- [ ] https://en.wikipedia.org/wiki/STMicroelectronics
+	- [ ] [Tenstorrent](https://github.com/tenstorrent)
+	- [ ] 
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
