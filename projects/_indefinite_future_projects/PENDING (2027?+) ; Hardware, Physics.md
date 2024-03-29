@@ -9,6 +9,7 @@ Read
 - [ ] https://www.reddit.com/r/archlinux/comments/6la6n5/trying_to_understand_drm_dri_mesa_radeon_gallium/
 - [ ] https://github.com/fail0verflow/radeon-tools/tree/master/f32
 	- [ ] [[fail0verflow]]
+- [ ] https://github.com/AMDESE/amd_ucode_info
 
 
 - AMD rant from George - some important stuff
