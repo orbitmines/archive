@@ -104,7 +104,7 @@
 	- [ ] rocm (amd)
 	- [ ] https://en.wikipedia.org/wiki/STMicroelectronics
 	- [ ] [Tenstorrent](https://github.com/tenstorrent)
-	- [ ] 
+	- [ ] [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
