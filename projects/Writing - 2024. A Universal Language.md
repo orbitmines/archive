@@ -1,4 +1,5 @@
 
+I suspect that a large number of problems arise from a rather simple conceptual mistake: . Now admittedly, 
 
 
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
