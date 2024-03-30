@@ -2,7 +2,8 @@
 [[2024-03-30]]
 The Glass Bead Game but the solution to The Glass Bead Game is The Glass Bead Game. 🤔
 
-[[2024-03-30]] A Universal Language coming to a screen near you in 2024
+[[2024-03-30]] 
+A Universal Language coming to a screen near you in 2024!
 
 ![[Screenshot from 2024-03-30 15-18-22.png]]
 
