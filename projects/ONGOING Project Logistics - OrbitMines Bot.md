@@ -25,6 +25,7 @@ What was this for?
 [[Mastodon]] setup through restricted Gmail SMTP:
 https://support.google.com/a/answer/176600?hl=en
 
+Sim
 
 ---
 For [[ONGOING Project - Funding]]
