@@ -1,5 +1,5 @@
 
-I suspect that a large number of problems arise from a rather simple conceptual mistake: . Now admittedly, saying this is a "conceptual mistake" is making a similar mistake: Ignorances, ..., inconsistencies are often quite irrelevant for many practical problems. 
+I suspect that a large number of problems arise from a rather simple conceptual mistake: Instead of recursively defining problems and defining things that break that recursion. Now admittedly, saying this is a "conceptual mistake" is making a similar mistake: Ignorances, ..., inconsistencies are often quite irrelevant for many problems.
 
 
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
