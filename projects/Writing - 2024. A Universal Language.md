@@ -35,3 +35,15 @@ With some possible physics connections here as well:
 - Could like this be much more non-trivial based on the structure being pushed in exploring the branches ; i.e. like that similarly determining which and how the branches are explored.
 - FItting another layer of abstraction on the structure which determines the following direction (or generally this could be phrased as inferred from context) .terminal here is possibly undefined. ONly needs presence, no recursion checks. Concurrency issues then in many cases resolved, through always being associated with a particular direction. (See note)
 ![[PXL_20240328_160945724.jpg]]
+
+
+#### Meh, need a good introduction, this isnt it
+I suspect that a large number of problems arise from a rather simple conceptual mistake. We build languages, ..., interfaces as tools for understanding certain complexities. Yet we fail to realize proper tools for saying: Sure, those symmetries make sense in your language. But the moment you take in additional context, your symmetries fall apart.  
+  
+<BR/>  
+  
+Now similarly, calling this a "conceptual mistake" is itself also a mistake.  
+  
+<BR/>  
+  
+This is, in essence, a language to understand inconsistencies.
