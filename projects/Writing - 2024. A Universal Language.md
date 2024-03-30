@@ -1,8 +1,5 @@
 
-
-
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
-
 
 - ? Better variant of : *Compose as Equivalence as Compose*
 
