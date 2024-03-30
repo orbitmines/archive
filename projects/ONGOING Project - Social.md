@@ -1,4 +1,8 @@
 
+[[2024-03-30]]
+The Glass Bead Game but the solution to The Glass Bead Game is The Glass Bead Game.🤔
+
+---
 
 [[2024-03-25]]
 Depending on a few factors (mainly funding for now) the @OrbitMines project will probably start accelerating in scope this year.
