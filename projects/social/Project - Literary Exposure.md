@@ -57,8 +57,8 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - :youtube: :tinycorp: [Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA](https://www.youtube.com/watch?v=rUsx1b7rQ8Q&t=9910s) ; *George Hotz*
 - :youtube: :tinycorp: [Programming | writing a fuzzer and not getting triggered when the AMD GPU crashes UMR](https://www.youtube.com/watch?v=BCnTXwhzzxA&t=9780s) ; *George Hotz*
 - :youtube: :tinycorp: [Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD](https://www.youtube.com/watch?v=-iH5wvFnsKs) ; *George Hotz
-- :youtube: [E169: Elon sues OpenAI, Apple's decline, TikTok ban, Bitcoin $100K?, Science corner: Microplastics](https://www.youtube.com/watch?v=snbTCWL6rxo)*
-- :youtube: [E170: Tech's Vibe Shift, TikTok ban debate, Vertical AI boom, Florida bans lab-grown meat & more](https://www.youtube.com/watch?v=uMajFsCkzxY
+- :youtube: [All-In Podcast E169 (2024)](https://www.youtube.com/watch?v=snbTCWL6rxo) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
+- :youtube: [E170: Tech's Vibe Shift, TikTok ban debate, Vertical AI boom, Florida bans lab-grown meat & more](https://www.youtube.com/watch?v=uMajFsCkzxY) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
 - :youtube: [E172: SBF gets 25 years, Trump's meme stock, RFK Jr picks VP, Biden's 2025 budget & more](https://www.youtube.com/watch?v=4t4YkHSTZbw)
 - :youtube: [Shannon Luminary Lecture Series - Stephen Fry, actor, comedian, journalist, author](https://www.youtube.com/watch?v=24F6C1KfbjM)
 - :youtube: [Community Livestream | Bioelectricity](https://www.youtube.com/watch?v=XBNh3Yoxei0)
