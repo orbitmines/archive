@@ -111,7 +111,9 @@
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
-- All the [[PENDING (2027?+) ; Hardware, Physics]] things... String theories, ..., co
+- All the [[PENDING (2027?+) ; Hardware, Physics]] things... String theories, ..., constructor theory etc... 
+	- Expand for any field
+
 ---
 
 ### Some more relevant historical stuff: 
