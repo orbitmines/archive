@@ -57,7 +57,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - :youtube: :toe: [The String Theory Iceberg EXPLAINED (2024)](https://www.youtube.com/watch?v=X4PdPnQuwjY&t=9496s) ; *Curt Jaimungal*
 - :youtube: :tinycorp: [Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA (2024)](https://www.youtube.com/watch?v=rUsx1b7rQ8Q&t=9910s) ; *George Hotz*
 - :youtube: :tinycorp: [Programming | writing a fuzzer and not getting triggered when the AMD GPU crashes UMR (2024)](https://www.youtube.com/watch?v=BCnTXwhzzxA&t=9780s) ; *George Hotz*
-- :youtube: :tinycorp: [Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD (2024)](https://www.youtube.com/watch?v=-iH5wvFnsKs) ; *George Hotz
+- :youtube: :tinycorp: [Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD (2024)](https://www.youtube.com/watch?v=-iH5wvFnsKs) ; *George Hotz*
 - :youtube: :all_in: [All-In Podcast E169 (2024)](https://www.youtube.com/watch?v=snbTCWL6rxo) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
 - :youtube: :all_in: [All-In Podcast E170 (2024)](https://www.youtube.com/watch?v=uMajFsCkzxY) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
 - :youtube: :all_in: [All-In Podcast E171 (2024)](https://www.youtube.com/watch?v=3tEcLAud7Nc) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
