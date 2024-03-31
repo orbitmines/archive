@@ -37,6 +37,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - :orbitmines: [OrbitMines as a Game Project (2024)](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project)
 
 ### Literary Exposure
+- [Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited (2004)](https://www.researchgate.net/publication/228386287_Calculus_Ratiocinator_vs_Characteristica_Universalis_The_two_traditions_in_logic_revisited) ; *Volker Peckhaus*
 - 
 
 ---
