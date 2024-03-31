@@ -42,7 +42,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - [Millions of children learn only very little. How can the world provide a better education to the next generation? (2022)](https://ourworldindata.org/better-learning) ; *Max Roser*
 - [Stripe's 2023 annual letter (2024)](https://stripe.com/en-nl/annual-updates/2023) ; *Patrick Collison, John Collison*
 - [Playing, Valuing, and Living: Examining Nietzsche’s Playful Response to Nihilism (2015)](https://philpapers.org/rec/HARPVA-2) ; *Aaron Harper*
-- 
+- [The Build Your Own Open Games Engine Bootcamp — Part I: Lenses (2024)](https://blog.20squares.xyz/open-games-bootcamp-i/) ; *Daniele Palombi*
 
 ---
 
