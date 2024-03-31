@@ -51,6 +51,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - [The Build Your Own Open Games Engine Bootcamp — Part I: Lenses (2024)](https://blog.20squares.xyz/open-games-bootcamp-i/) ; *Daniele Palombi*
 - [Can AI Solve Science? (2024)](https://writings.stephenwolfram.com/2024/03/can-ai-solve-science/) ; *Stephen Wolfram, Richard Assar, Nik Murzin*
 
+- :youtube: :semf: [Community Livestream | Bioelectricity (2024)](https://www.youtube.com/watch?v=XBNh3Yoxei0)
 - :youtube: :toe: [Quantum Gravity & Wolfram Physics Project (2024)](https://www.youtube.com/watch?v=ioXwL-c1RXQ) ; *Jonathan Gorard, Curt Jaimungal*
 - :youtube: :toe: [Paradigm Shift, Ghost Particles, Constructor Theory (2024)](https://www.youtube.com/watch?v=40CB12cj_aM&t=6443s) ; *Chiara Marletto, Curt Jaimungal*
 - :youtube: :toe: [The String Theory Iceberg EXPLAINED (2024)](https://www.youtube.com/watch?v=X4PdPnQuwjY&t=9496s) ; *Curt Jaimungal*
@@ -61,14 +62,9 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - :youtube: [All-In Podcast E170 (2024)](https://www.youtube.com/watch?v=uMajFsCkzxY) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
 - :youtube: [All-In Podcast E171 (2024)](https://www.youtube.com/watch?v=3tEcLAud7Nc) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
 - :youtube: [All-In Podcast E172 (2024)](https://www.youtube.com/watch?v=4t4YkHSTZbw) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
-- :youtube: [Shannon Luminary Lecture Series - Stephen Fry, actor, comedian, journalist, author (2017)](https://www.youtube.com/watch?v=24F6C1KfbjM) ; *Stephen Fry*
-- :youtube: :semf: [Community Livestream | Bioelectricity (2024)](https://www.youtube.com/watch?v=XBNh3Yoxei0)
-- :youtube: [Containers for compiler architecture (Andre Videla)](https://www.youtube.com/watch?v=BnzAxT-O0Y8)
-- :youtube: [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M&t=4s) ; *@[
-
-### Veritasium
-
-](https://www.youtube.com/@veritasium)*
+- :youtube: [Shannon Luminary Lecture Series - Stephen Fry (2017)](https://www.youtube.com/watch?v=24F6C1KfbjM) ; *Stephen Fry*
+- :youtube: [Containers for compiler architecture (2024)](https://www.youtube.com/watch?v=BnzAxT-O0Y8) ; *Andre Videla*
+- :youtube: [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M&t=4s) ; *@
 - :youtube: [Jules Hedges | Compositional Game Theory – Towards Incentives Modelling at Scale](https://www.youtube.com/watch?v=2b4hxOP7g9I&t=845s)
 - :youtube: [Mindscape 268 | Matt Strassler on Relativity, Fields, and the Language of Reality](https://www.youtube.com/watch?v=kCpELmx425w)
 - :youtube: [ActInf MathStream 009.1 ~ Jonathan Gorard: A computational perspective on observation and cognition (2024)](https://www.youtube.com/watch?v=I3rhsT-8isk)
