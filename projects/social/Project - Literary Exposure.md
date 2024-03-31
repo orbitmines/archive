@@ -56,12 +56,13 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - :youtube: :toe: [The String Theory Iceberg EXPLAINED (2024)](https://www.youtube.com/watch?v=X4PdPnQuwjY&t=9496s) ; *Curt Jaimungal*
 - :youtube: :tinycorp: [Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA](https://www.youtube.com/watch?v=rUsx1b7rQ8Q&t=9910s) ; *George Hotz*
 - :youtube: :tinycorp: [Programming | writing a fuzzer and not getting triggered when the AMD GPU crashes UMR](https://www.youtube.com/watch?v=BCnTXwhzzxA&t=9780s) ; *George Hotz*
-- :youtube: :tinycorp: [Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD](https://www.youtube.com/watch?v=-iH5wvFnsKs) ; *George Hotz
+- :youtube: :tinycorp: [Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD (2024)](https://www.youtube.com/watch?v=-iH5wvFnsKs) ; *George Hotz
 - :youtube: [All-In Podcast E169 (2024)](https://www.youtube.com/watch?v=snbTCWL6rxo) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
-- :youtube: [E170: Tech's Vibe Shift, TikTok ban debate, Vertical AI boom, Florida bans lab-grown meat & more](https://www.youtube.com/watch?v=uMajFsCkzxY) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
-- :youtube: [E172: SBF gets 25 years, Trump's meme stock, RFK Jr picks VP, Biden's 2025 budget & more](https://www.youtube.com/watch?v=4t4YkHSTZbw)
+- :youtube: [All-In Podcast E170 (2024)](https://www.youtube.com/watch?v=uMajFsCkzxY) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
+- :youtube: [All-In Podcast E171 (2024)](https://www.youtube.com/watch?v=3tEcLAud7Nc) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
+- :youtube: [All-In Podcast E172 (2024)](https://www.youtube.com/watch?v=4t4YkHSTZbw) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
 - :youtube: [Shannon Luminary Lecture Series - Stephen Fry, actor, comedian, journalist, author](https://www.youtube.com/watch?v=24F6C1KfbjM)
-- :youtube: [Community Livestream | Bioelectricity](https://www.youtube.com/watch?v=XBNh3Yoxei0)
+- :youtube: :semf: [Community Livestream | Bioelectricity](https://www.youtube.com/watch?v=XBNh3Yoxei0)
 - :youtube: [Containers for compiler architecture (Andre Videla)](https://www.youtube.com/watch?v=BnzAxT-O0Y8)
 - :youtube: [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M&t=4s)
 - :youtube: [Jules Hedges | Compositional Game Theory – Towards Incentives Modelling at Scale](https://www.youtube.com/watch?v=2b4hxOP7g9I&t=845s)
