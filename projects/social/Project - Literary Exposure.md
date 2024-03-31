@@ -51,6 +51,23 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - [The Build Your Own Open Games Engine Bootcamp — Part I: Lenses (2024)](https://blog.20squares.xyz/open-games-bootcamp-i/) ; *Daniele Palombi*
 - [Can AI Solve Science? (2024)](https://writings.stephenwolfram.com/2024/03/can-ai-solve-science/) ; *Stephen Wolfram, Richard Assar, Nik Murzin*
 
+- :youtube: [Paradigm Shift, Ghost Particles, Constructor Theory | Chiara Marletto](https://www.youtube.com/watch?v=40CB12cj_aM&t=6443s) ; *Curt Jaimungal, *
+- :youtube: [The String Theory Iceberg EXPLAINED](https://www.youtube.com/watch?v=X4PdPnQuwjY&t=9496s) ; *Curt Jaimungal*
+- :youtube: [E172: SBF gets 25 years, Trump's meme stock, RFK Jr picks VP, Biden's 2025 budget & more](https://www.youtube.com/watch?v=4t4YkHSTZbw)
+- :youtube: [Jonathan Gorard: Quantum Gravity & Wolfram Physics Project](https://www.youtube.com/watch?v=ioXwL-c1RXQ)
+- :youtube: [George Hotz | Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA](https://www.youtube.com/watch?v=rUsx1b7rQ8Q&t=9910s)
+- :youtube: [George Hotz | Programming | writing a fuzzer and not getting triggered when the AMD GPU crashes UMR](https://www.youtube.com/watch?v=BCnTXwhzzxA&t=9780s)
+- :youtube: [George Hotz | Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD](https://www.youtube.com/watch?v=-iH5wvFnsKs)
+- :youtube: [E170: Tech's Vibe Shift, TikTok ban debate, Vertical AI boom, Florida bans lab-grown meat & more](https://www.youtube.com/watch?v=uMajFsCkzxY
+- :youtube: [Shannon Luminary Lecture Series - Stephen Fry, actor, comedian, journalist, author](https://www.youtube.com/watch?v=24F6C1KfbjM)
+- :youtube: [E169: Elon sues OpenAI, Apple's decline, TikTok ban, Bitcoin $100K?, Science corner: Microplastics](https://www.youtube.com/watch?v=snbTCWL6rxo)
+- :youtube: [Community Livestream | Bioelectricity](https://www.youtube.com/watch?v=XBNh3Yoxei0)
+- :youtube: [Containers for compiler architecture (Andre Videla)](https://www.youtube.com/watch?v=BnzAxT-O0Y8)
+- :youtube: [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M&t=4s)
+- :youtube: [Jules Hedges | Compositional Game Theory – Towards Incentives Modelling at Scale](https://www.youtube.com/watch?v=2b4hxOP7g9I&t=845s)
+- :youtube: [Mindscape 268 | Matt Strassler on Relativity, Fields, and the Language of Reality](https://www.youtube.com/watch?v=kCpELmx425w)
+- :youtube: [ActInf MathStream 009.1 ~ Jonathan Gorard: A computational perspective on observation and cognition (2024)](https://www.youtube.com/watch?v=I3rhsT-8isk)
+
 - :wikipedia: Wikipedia Articles: [École_polytechnique](https://en.wikipedia.org/wiki/École_polytechnique), [Golan_Levin](https://en.wikipedia.org/wiki/Golan_Levin), [Institut_de_recherche_en_informatique_fondamentale](https://en.wikipedia.org/wiki/Institut_de_recherche_en_informatique_fondamentale), [Interaction_Design_Foundation](https://en.wikipedia.org/wiki/Interaction_Design_Foundation), [Jonathan_Oppenheim](https://en.wikipedia.org/wiki/Jonathan_Oppenheim), [Mark_Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg), [Max_Roser](https://en.wikipedia.org/wiki/Max_Roser), [Mehrnoosh_Sadrzadeh](https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh), [Olivia_Caramello](https://en.wikipedia.org/wiki/Olivia_Caramello), [Our_World_in_Data](https://en.wikipedia.org/wiki/Our_World_in_Data), [Probabilistic_programming](https://en.wikipedia.org/wiki/Probabilistic_programming), [Procedural_generation](https://en.wikipedia.org/wiki/Procedural_generation), [Slow_science](https://en.wikipedia.org/wiki/Slow_science), [Spectral_graph_theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Tallinn_University_of_Technology](https://en.wikipedia.org/wiki/Tallinn_University_of_Technology), [University_of_Birmingham](https://en.wikipedia.org/wiki/University_of_Birmingham)
 
 ---
