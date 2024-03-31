@@ -45,6 +45,8 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - [The Build Your Own Open Games Engine Bootcamp — Part I: Lenses (2024)](https://blog.20squares.xyz/open-games-bootcamp-i/) ; *Daniele Palombi*
 - [Can AI Solve Science? (2024)](https://writings.stephenwolfram.com/2024/03/can-ai-solve-science/) ; *Stephen Wolfram, Richard Assar, Nik Murzin*
 
+- :wikipedia: Wikipedia Articles: [École_polytechnique](https://en.wikipedia.org/wiki/École_polytechnique), [Golan_Levin](https://en.wikipedia.org/wiki/Golan_Levin), [Institut_de_recherche_en_informatique_fondamentale](https://en.wikipedia.org/wiki/Institut_de_recherche_en_informatique_fondamentale), [Interaction_Design_Foundation](https://en.wikipedia.org/wiki/Interaction_Design_Foundation), [Jonathan_Oppenheim](https://en.wikipedia.org/wiki/Jonathan_Oppenheim), [Mark_Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg), [Max_Roser](https://en.wikipedia.org/wiki/Max_Roser), [Mehrnoosh_Sadrzadeh](https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh), [Olivia_Caramello](https://en.wikipedia.org/wiki/Olivia_Caramello), [Our_World_in_Data](https://en.wikipedia.org/wiki/Our_World_in_Data), [Probabilistic_programming](https://en.wikipedia.org/wiki/Probabilistic_programming), [Procedural_generation](https://en.wikipedia.org/wiki/Procedural_generation), [Slow_science](https://en.wikipedia.org/wiki/Slow_science), [Spectral_graph_theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Tallinn_University_of_Technology](https://en.wikipedia.org/wiki/Tallinn_University_of_Technology), [University_of_Birmingham](https://en.wikipedia.org/wiki/University_of_Birmingham)
+
 ---
 
 # 2024, February - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
