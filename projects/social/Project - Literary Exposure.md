@@ -43,7 +43,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - [Stripe's 2023 annual letter (2024)](https://stripe.com/en-nl/annual-updates/2023) ; *Patrick Collison, John Collison*
 - [Playing, Valuing, and Living: Examining Nietzsche’s Playful Response to Nihilism (2015)](https://philpapers.org/rec/HARPVA-2) ; *Aaron Harper*
 - [The Build Your Own Open Games Engine Bootcamp — Part I: Lenses (2024)](https://blog.20squares.xyz/open-games-bootcamp-i/) ; *Daniele Palombi*
-- [Can AI Solve Science? (2024)](https://writings.stephenwolfram.com/2024/03/can-ai-solve-science/) ; *Stephen Wolfram*
+- [Can AI Solve Science? (2024)](https://writings.stephenwolfram.com/2024/03/can-ai-solve-science/) ; *Stephen Wolfram, Richard Assar, Nik Murzin*
 
 ---
 
