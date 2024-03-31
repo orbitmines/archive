@@ -51,10 +51,10 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - [The Build Your Own Open Games Engine Bootcamp — Part I: Lenses (2024)](https://blog.20squares.xyz/open-games-bootcamp-i/) ; *Daniele Palombi*
 - [Can AI Solve Science? (2024)](https://writings.stephenwolfram.com/2024/03/can-ai-solve-science/) ; *Stephen Wolfram, Richard Assar, Nik Murzin*
 
-- :youtube: :toe: [Jonathan Gorard: Quantum Gravity & Wolfram Physics Project (2024)](https://www.youtube.com/watch?v=ioXwL-c1RXQ) ; *Jonathan Gorard, Curt Jaimungal*
-- :youtube: :toe: [Paradigm Shift, Ghost Particles, Constructor Theory | Chiara Marletto (2024)](https://www.youtube.com/watch?v=40CB12cj_aM&t=6443s) ; *Chiara Marletto, Curt Jaimungal*
+- :youtube: :toe: [Quantum Gravity & Wolfram Physics Project (2024)](https://www.youtube.com/watch?v=ioXwL-c1RXQ) ; *Jonathan Gorard, Curt Jaimungal*
+- :youtube: :toe: [Paradigm Shift, Ghost Particles, Constructor Theory (2024)](https://www.youtube.com/watch?v=40CB12cj_aM&t=6443s) ; *Chiara Marletto, Curt Jaimungal*
 - :youtube: :toe: [The String Theory Iceberg EXPLAINED](https://www.youtube.com/watch?v=X4PdPnQuwjY&t=9496s) ; *Curt Jaimungal*
-- :youtube: [George Hotz | Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA](https://www.youtube.com/watch?v=rUsx1b7rQ8Q&t=9910s)
+- :youtube: :tinycorp: [Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA](https://www.youtube.com/watch?v=rUsx1b7rQ8Q&t=9910s) ; *George Hotz*
 - :youtube: [George Hotz | Programming | writing a fuzzer and not getting triggered when the AMD GPU crashes UMR](https://www.youtube.com/watch?v=BCnTXwhzzxA&t=9780s)
 - :youtube: [George Hotz | Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD](https://www.youtube.com/watch?v=-iH5wvFnsKs)
 - :youtube: [E170: Tech's Vibe Shift, TikTok ban debate, Vertical AI boom, Florida bans lab-grown meat & more](https://www.youtube.com/watch?v=uMajFsCkzxY
