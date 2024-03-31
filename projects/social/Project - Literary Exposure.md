@@ -2,9 +2,9 @@
 
 
 ```shell
-cd /home/fs/Documents/github.com/orbitmines/workspace/github.com/FadiShawki/journal/
+cd ~/Desktop/orbitmines/private-journal/
 
-find ./_/attachments/read/ -type f -newermt 2024-02-01
+find ./_/attachments/read/ -type f -newermt 2024-03-05
 
  git whatchanged --since '2023/12/01' --until '2023/12/31' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia
  
