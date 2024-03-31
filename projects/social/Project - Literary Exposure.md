@@ -51,7 +51,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - [The Build Your Own Open Games Engine Bootcamp — Part I: Lenses (2024)](https://blog.20squares.xyz/open-games-bootcamp-i/) ; *Daniele Palombi*
 - [Can AI Solve Science? (2024)](https://writings.stephenwolfram.com/2024/03/can-ai-solve-science/) ; *Stephen Wolfram, Richard Assar, Nik Murzin*
 
-- :youtube: [Paradigm Shift, Ghost Particles, Constructor Theory | Chiara Marletto](https://www.youtube.com/watch?v=40CB12cj_aM&t=6443s) ; *Curt Jaimungal, *
+- :youtube: :toe: [Paradigm Shift, Ghost Particles, Constructor Theory | Chiara Marletto](https://www.youtube.com/watch?v=40CB12cj_aM&t=6443s) ; *Curt Jaimungal, Chiara Marletto*
 - :youtube: [The String Theory Iceberg EXPLAINED](https://www.youtube.com/watch?v=X4PdPnQuwjY&t=9496s) ; *Curt Jaimungal*
 - :youtube: [E172: SBF gets 25 years, Trump's meme stock, RFK Jr picks VP, Biden's 2025 budget & more](https://www.youtube.com/watch?v=4t4YkHSTZbw)
 - :youtube: [Jonathan Gorard: Quantum Gravity & Wolfram Physics Project](https://www.youtube.com/watch?v=ioXwL-c1RXQ)
