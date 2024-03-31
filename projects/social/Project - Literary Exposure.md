@@ -62,9 +62,13 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - :youtube: [All-In Podcast E171 (2024)](https://www.youtube.com/watch?v=3tEcLAud7Nc) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
 - :youtube: [All-In Podcast E172 (2024)](https://www.youtube.com/watch?v=4t4YkHSTZbw) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
 - :youtube: [Shannon Luminary Lecture Series - Stephen Fry, actor, comedian, journalist, author (2017)](https://www.youtube.com/watch?v=24F6C1KfbjM) ; *Stephen Fry*
-- :youtube: :semf: [Community Livestream | Bioelectricity](https://www.youtube.com/watch?v=XBNh3Yoxei0)
+- :youtube: :semf: [Community Livestream | Bioelectricity (2024)](https://www.youtube.com/watch?v=XBNh3Yoxei0)
 - :youtube: [Containers for compiler architecture (Andre Videla)](https://www.youtube.com/watch?v=BnzAxT-O0Y8)
-- :youtube: [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M&t=4s)
+- :youtube: [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M&t=4s) ; *@[
+
+### Veritasium
+
+](https://www.youtube.com/@veritasium)*
 - :youtube: [Jules Hedges | Compositional Game Theory – Towards Incentives Modelling at Scale](https://www.youtube.com/watch?v=2b4hxOP7g9I&t=845s)
 - :youtube: [Mindscape 268 | Matt Strassler on Relativity, Fields, and the Language of Reality](https://www.youtube.com/watch?v=kCpELmx425w)
 - :youtube: [ActInf MathStream 009.1 ~ Jonathan Gorard: A computational perspective on observation and cognition (2024)](https://www.youtube.com/watch?v=I3rhsT-8isk)
