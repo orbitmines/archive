@@ -39,7 +39,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 ### Literary Exposure
 - [Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited (2004)](https://www.researchgate.net/publication/228386287_Calculus_Ratiocinator_vs_Characteristica_Universalis_The_two_traditions_in_logic_revisited) ; *Volker Peckhaus*
 - [Cargo Cult Science (1974)](https://calteches.library.caltech.edu/51/2/CargoCult.htm) ; *Richard P. Feynman*
-- 
+- [Millions of children learn only very little. How can the world provide a better education to the next generation? (2022)](https://ourworldindata.org/better-learning) ; *Max Roser*
 
 ---
 
