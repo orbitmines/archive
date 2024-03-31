@@ -32,6 +32,15 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 
 ---
 
+# 2024, March - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+### :orbitmines: OrbitMines Excerpt
+- :orbitmines: [OrbitMines as a Game Project (2024)](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project)
+
+### Literary Exposure
+- 
+
+---
+
 # 2024, February - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 *till 2024, March 05*
 
