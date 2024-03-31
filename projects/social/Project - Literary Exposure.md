@@ -41,7 +41,8 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - [Cargo Cult Science (1974)](https://calteches.library.caltech.edu/51/2/CargoCult.htm) ; *Richard P. Feynman*
 - [Millions of children learn only very little. How can the world provide a better education to the next generation? (2022)](https://ourworldindata.org/better-learning) ; *Max Roser*
 - [Stripe's 2023 annual letter (2024)](https://stripe.com/en-nl/annual-updates/2023) ; *Patrick Collison, John Collison*
-- [Playing, Valuing, and Living: Examining Nietzsche’s Playful Response to Nihilism ()]
+- [Playing, Valuing, and Living: Examining Nietzsche’s Playful Response to Nihilism (2015)](https://philpapers.org/rec/HARPVA-2)
+- 
 
 ---
 
