@@ -8,7 +8,7 @@ find ./_/attachments/read/ -type f -newermt 2024-03-05
 
  git whatchanged --since '2023/12/01' --until '2023/12/31' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia
  
- git whatchanged --since '2024/02/01' --until '2024/03/05' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
+ git whatchanged --since '2024/03/06' --until '2024/03/31' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
 
 find ./_/attachments/read/ -type f -newermt 2023-12-01 | grep /read/wikipedia
 
