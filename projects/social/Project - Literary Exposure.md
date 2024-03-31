@@ -39,6 +39,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 # 2024, March - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 ### :orbitmines: OrbitMines Excerpt
 - :orbitmines: [A Universal Language coming to pixels near you sometime soon™™ in 2024! The Glass Bead Game but the solution to The Glass Bead Game is The Glass Bead Game.🤔](https://twitter.com/_FadiShawki/status/1774086843765530833)
+- :youtube: :semf: [In-Person Workshop | Into the Information Continuum](https://www.youtube.com/watch?v=KM97bUcVPDE&t=2786s)
 
 ### Literary Exposure
 - [Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited (2004)](https://www.researchgate.net/publication/228386287_Calculus_Ratiocinator_vs_Characteristica_Universalis_The_two_traditions_in_logic_revisited) ; *Volker Peckhaus*
