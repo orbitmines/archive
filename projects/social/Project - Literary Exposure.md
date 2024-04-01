@@ -36,6 +36,8 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 
 ---
 
+![[Pasted image 20240401022536.png]]
+
 # 2024, March - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 ### :orbitmines: OrbitMines Excerpt
 - :orbitmines: [A Universal Language coming to pixels near you sometime soon™™ in 2024! The Glass Bead Game but the solution to The Glass Bead Game is The Glass Bead Game.🤔](https://twitter.com/_FadiShawki/status/1774086843765530833)
