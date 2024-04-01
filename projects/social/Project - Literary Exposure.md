@@ -24,7 +24,7 @@ console.log([...document.querySelectorAll("#video-title")].filter(video => video
 
 ---
 
-2024, February - A monthly excerpt of my Literary Exposure.
+2024, March - A monthly excerpt of my Literary Exposure.
 
 See @OrbitMines ' Community Discord: https://discord.orbitmines.com, for more information on my projects.
 
