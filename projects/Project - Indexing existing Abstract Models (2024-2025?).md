@@ -23,7 +23,7 @@
 - [Solid](https://github.com/solid/), 
 - Chemistry: [Assembly Theory](http://assembly-theory.com/learn/)
 - [liquidsoap](https://github.com/savonet/liquidsoap), [The Munich Quantum Toolkit (MQT)](https://github.com/cda-tum/mqt), 
-- https://github.com/StructuralXplorationLab/Libra
+- https://github.com/StructuralXplorationLab/Libra (Parametric Design)
 - 
 
 ### Some other names I found but didn't save a link to: 
