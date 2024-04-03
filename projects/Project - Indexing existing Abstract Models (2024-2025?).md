@@ -115,6 +115,7 @@
 - https://www.mathstat.dal.ca/~selinger/quipper/
 - All the [[PENDING (2027?+) ; Hardware, Physics]] things... String theories, ..., constructor theory etc... 
 	- Expand for any field
+	- https://github.com/gnif/LookingGlass
 
 ---
 
