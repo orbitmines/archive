@@ -110,7 +110,7 @@
 	- [ ] [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
 	- Compiler toolchains etc..
 		- [XLA](https://openxla.org/)
-	- [ ] https://github.com/gnif/LookingGlass (... others)
+	- [ ] https://github.com/gnif/LookingGlass (... others, throughput channels ..)
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
