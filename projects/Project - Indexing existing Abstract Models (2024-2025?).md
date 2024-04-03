@@ -110,12 +110,13 @@
 	- [ ] [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
 	- Compiler toolchains etc..
 		- [XLA](https://openxla.org/)
+	- [ ] https://github.com/gnif/LookingGlass (... others)
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
 - All the [[PENDING (2027?+) ; Hardware, Physics]] things... String theories, ..., constructor theory etc... 
 	- Expand for any field
-	- https://github.com/gnif/LookingGlass
+	- 
 
 ---
 
