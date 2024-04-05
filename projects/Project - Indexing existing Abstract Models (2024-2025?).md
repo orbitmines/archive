@@ -5,6 +5,16 @@
 
 - [[Society for Multidisciplinary and Fundamental Research (SEMF)]] discord equivalent: https://discord.com/channels/844566471501414463/1225907185079287971
 
+---
+Comments on [[2024-04-05]]
+
+>
+This thing is probably way too big a project, but thinking about it will probably get much easier in the coming years. I'm preemptively putting this here mainly because I want to find out if there are currently (or have been) people attempting something like this.
+
+The only stuff I've been able to find so far is either incredibly limited in scope or is doing too much of this by hand. Would love to find out that there's someone who has been working on this already though :upside_down:
+
+---
+
 - [ ] This entire thing should be compiled into a writing/study of existing stuff
 
 ---
