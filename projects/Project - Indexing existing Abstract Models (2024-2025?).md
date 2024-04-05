@@ -8,10 +8,12 @@
 ---
 Comments on [[2024-04-05]]
 
+>This thing is probably way too big a project, but thinking about it will probably get much easier in the coming years. I'm preemptively putting this here mainly because I want to find out if there are currently (or have been) people attempting something like this.
 >
-This thing is probably way too big a project, but thinking about it will probably get much easier in the coming years. I'm preemptively putting this here mainly because I want to find out if there are currently (or have been) people attempting something like this.
+> The only stuff I've been able to find so far is either incredibly limited in scope or is doing too much of this by hand. Would love to find out that there's someone who has been working on this already though :upside_down:
+> 
+> Seamless direct (partial) inter-compilation/.../translation of things will probably become much more tractable at some point in the near future ^ Though all the more insane complexity of software/firmware/hardware to me seem to pose the most challenges.
 
-The only stuff I've been able to find so far is either incredibly limited in scope or is doing too much of this by hand. Would love to find out that there's someone who has been working on this already though :upside_down:
 
 ---
 
