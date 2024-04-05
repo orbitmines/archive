@@ -3,6 +3,8 @@
 
 - Rays are probably a [Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis) (Or rather a Universal Language, or as [[Jonathan Gorard]] phrased a similar concept; a "general theory of graphs" (See [[Category Theory]] notes when at [[Society for Multidisciplinary and Fundamental Research (SEMF)]]))
 
+- [[Society for Multidisciplinary and Fundamental Research (SEMF)]] discord equivalent: https://discord.com/channels/844566471501414463/1225907185079287971
+
 - [ ] This entire thing should be compiled into a writing/study of existing stuff
 
 ---
