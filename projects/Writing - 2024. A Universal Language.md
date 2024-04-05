@@ -51,3 +51,10 @@ This is, in essence, a language to understand inconsistencies.
 #### mEHbe
 This thing is, in essence, a language to understand inconsistencies. A conceptual framework to make sense of ambiguity: A story of how destructively confusing languages can be. Though to me, most importantly, it is here as infrastructure. Infrastructure for the design and implementation of a different category of (programming) interfaces.
 
+
+Refs
+- https://www.youtube.com/watch?v=p2vadd_6550&list=PLtbvsohNkWeUItHqZ9LAn4Qnz8hT6JMhY
+	- Covariant computation & [[Jonathan Gorard]]'s mentioning of graphs
+- The [[Bob Coecke]] & [[Stephen Wolfram]] conversation
+-  
+- 
