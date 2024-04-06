@@ -51,7 +51,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Amin Karamlou](https://aminkaramlou.github.io/ "Amin Karamlou's personal website"), Oxford*
 - Aziz Kharoof, University of Haifa*
 - Benjamin Rodatz, University of Oxford*
-- Brayan Escobar, Universidad Nacional de Colombia
+- [[Brayan Escobar]], Universidad Nacional de Colombia
 - [Bruno Gavranović](https://www.brunogavranovic.com/ "Bruno Gavranović's personal website"), Symbolica*
 - [Bruno da Rocha Paiva](https://brunorochapaiva.github.io/ "Bruno da Rocha Paiva's personal website"), University of Birmingham*
 - [Calin Tataru](https://www.cst.cam.ac.uk/people/ct608 "Calin Tataru's personal website"), University of Cambridge*
