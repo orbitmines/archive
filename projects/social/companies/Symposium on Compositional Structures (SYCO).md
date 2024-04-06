@@ -39,6 +39,69 @@ openreview: https://openreview.net/group?id=cl.cam.ac.uk/SYCO/2024/Symposium&ref
 	- Game-enriched categories
 
 
+## Attendees
+
+Attendees marked with an asterisk * will attend physically.
+
+- [Adrián Doña Mateo](https://www.maths.ed.ac.uk/~adona/ "Adrián Doña Mateo's personal website"), University of Edinburgh*
+- [Alessandro Di Giorgio](https://alessandrodgr.github.io/ "Alessandro Di Giorgio's personal website"), University College London*
+- [Alexei Lisitsa](https://www.csc.liv.ac.uk/~alexei/ "Alexei Lisitsa's personal website"), University of Liverpool*
+- Aloïs Rosset, Vrije Universiteit Amsterdam*
+- Alöna Litovinskaia
+- [Amin Karamlou](https://aminkaramlou.github.io/ "Amin Karamlou's personal website"), Oxford*
+- Aziz Kharoof, University of Haifa*
+- Benjamin Rodatz, University of Oxford*
+- Brayan Escobar, Universidad Nacional de Colombia
+- [Bruno Gavranović](https://www.brunogavranovic.com/ "Bruno Gavranović's personal website"), Symbolica*
+- [Bruno da Rocha Paiva](https://brunorochapaiva.github.io/ "Bruno da Rocha Paiva's personal website"), University of Birmingham*
+- [Calin Tataru](https://www.cst.cam.ac.uk/people/ct608 "Calin Tataru's personal website"), University of Cambridge*
+- Carmen Constantin, UCL*
+- David Forsman, Université catholique de Louvain*
+- Elena Isasi Theus, Universitat Politécnica de Catalunya
+- [Elies Harington](https://www.lix.polytechnique.fr/Labo/Elies.HARINGTON/ "Elies Harington's personal website"), Ecole Polytechnique
+- [Fadi Shawki](https://orbitmines.com/ "Fadi Shawki's personal website"), OrbitMines*
+- [George Kaye](https://georgejkaye.com/ "George Kaye's personal website"), University of Birmingham*
+- Gordon Plotkin, University of Edinburgh
+- [Grégoire Sergeant-Perthuis](https://www.gregoiresergeant-perthuis.com/research.html "Grégoire Sergeant-Perthuis's personal website"), Sorbonne Université*
+- Harsh Beohar, The University of Sheffield*
+- [Heitor Baldo](https://heitorbaldo.github.io/ "Heitor Baldo's personal website"), University of São Paulo
+- [Ioannis Markakis](https://jmarkakis.github.io/ "Ioannis Markakis's personal website"), University of Cambridge*
+- [Jingjie Yang](https://www.cs.ox.ac.uk/people/jingjie.yang/ "Jingjie Yang's personal website"), University of Oxford*
+- [Joshua Wrigley](https://jlwrigley.github.io/ "Joshua Wrigley's personal website")*
+- [Jules Hedges](https://julesh.com/ "Jules Hedges's personal website"), University of Strathclyde / CyberCat Institute*
+- [Leo Lobski](https://leolob.ski/ "Leo Lobski's personal website"), University College London*
+- [Maaike Zwart](https://maaikezwart.com/ "Maaike Zwart's personal website"), IT University of Copenhagen
+- [Marc Thatcher](https://marcthatcher.github.io/ "Marc Thatcher's personal website"), University of Sussex
+- [Marco Abbadini](https://marcoabbadini-uni.github.io/ "Marco Abbadini's personal website"), University of Birmingham*
+- [Miriam Backens](https://members.loria.fr/MBackens/ "Miriam Backens's personal website"), Inria*
+- [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/ "Morgan Rogers's personal website"), LIPN
+- [Nathanael Arkor](https://arkor.co/ "Nathanael Arkor's personal website"), Tallinn University of Technology
+- Nayan Rajesh, University of Manchester
+- [Nick Hu](https://nickx.hu/ "Nick Hu's personal website"), University of Oxford*
+- Nigel Burke
+- [Noah Chrein](https://nchrein.github.io/ "Noah Chrein's personal website"), UMD
+- Paaras Padhiar, University of Birmingham*
+- [Pablo Donato](https://www.lix.polytechnique.fr/Labo/Pablo.DONATO/ "Pablo Donato's personal website")*
+- [Paul Blain Levy](https://www.cs.bham.ac.uk/~pbl "Paul Blain Levy's personal website"), University of Birmingham*
+- [Paul Taylor](https://www.paultaylor.eu/ "Paul Taylor's personal website"), U of Birmingham (honorary)*
+- Poyraz Yılan, Institut Polytechnique de Paris
+- [Quan Long](https://www.long.direct/ "Quan Long's personal website"), ENS Paris Saclay*
+- [Ramneet Singh](https://ramneet-singh.netlify.app/ "Ramneet Singh's personal website"), Georgia Tech
+- Razin Shaikh, University of Oxford*
+- [Rich Hilliard](https://www.mit.edu/~richh "Rich Hilliard's personal website")
+- [Sam Speight](https://slspeight.github.io/ "Sam Speight's personal website"), University of Birmingham*
+- Samuel Knutsen, University of Nottingham*
+- [Sean Moss](https://seankmoss.bitbucket.io/ "Sean Moss's personal website"), University of Birmingham*
+- Tanguy Massacrier, Université Claude Bernard Lyon 1*
+- [Thibaut Benjamin](https://thibautbenjamin.github.io/ "Thibaut Benjamin's personal website"), University of Cambridge*
+- Till Rampe, University of Birmingham*
+- [Todd Ambridge](https://www.cs.bham.ac.uk/~txw467 "Todd Ambridge's personal website"), University of Birmingham*
+- Tommy McElvanney, University of Birmingham*
+- [Valeria de Paiva](https://vcvpaiva.github.io/ "Valeria de Paiva's personal website"), Topos Institute
+- Vincent Rahli, University of Birmingham*
+- Wilf Offord, University of Cambridge*
+- Yiqi Xu, Universität Stuttgart
+- [Zanzi Mihejevs](https://zanzix.github.io/ "Zanzi Mihejevs's personal website")*
 
 ---
 
