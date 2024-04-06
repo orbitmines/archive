@@ -51,6 +51,7 @@ Comments on [[2024-04-05]]
 - [AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), [tikzit](https://github.com/tikzit)
 - Blender tools (Geometry Nodes?. etc..), [gephi](https://github.com/gephi/gephi), 
 - [Builder.io](https://github.com/BuilderIO), [pflow.dev](https://github.com/pFlow-dev), 
+- https://github.com/chrxh/alien
 
 # Some interesting/pending questions regarding this project:
 - [ ] What are mistakes in trying to spin up new projects/languages?
