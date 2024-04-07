@@ -63,5 +63,5 @@ Some notes on controls from yesterday;
 		- it is confluent if any pair of hypergraphs (or terms, etc.) arising from G by a sequence of rewriting steps can eventually be rewritten to the same hypergraph
 		- Taken together, these properties imply the existence of unique normal forms.
 	- Frobenius semi-algebras are Frobenius algebras lacking the unit and counit equations (No termination, no instantiation?, still dup/merge though as a form of termination/instantiation)
-		- [ ] [[Quantum Physics]] ; relevant to quantum theory, such as H*-algebras
+		- [ ] [[Quantum Physics (2023)]] ; relevant to quantum theory, such as H*-algebras
 - [[string-diagram-rewrite-theory-iii-confluence-with-and-without-frobenius.pdf|String diagram rewrite theory III: Confluence with and without Frobenius]]
