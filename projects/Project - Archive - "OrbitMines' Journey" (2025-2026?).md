@@ -13,6 +13,9 @@ The currently uploaded Minecraft archives includes:
 - [2019-10-10 KitPvP Lobby](https://archive.orbitmines.com/minecraft/kitpvp/2019-10-10_OrbitMines_KitPvP_Lobby.zip)
 
 ---
+ 
+- Better solution for archive project to get around distribution bs (links, offline copies, redundancy sources etc...)
+
 
 ```
 <Arc head="Arc: OrbitMines' Timeline (2013-2023)">  
