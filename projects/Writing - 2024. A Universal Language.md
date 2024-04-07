@@ -1,5 +1,8 @@
 
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
+- [ ] Not quite sure about the last paragraph of whether to mention existing projects (infrageometry, lingua universalis etc...) in the introduction or the first few things after the introduction, but this for now
+
+
 
 - ? Better variant of : *Compose as Equivalence as Compose*
 
@@ -59,3 +62,31 @@ This one will need some refs/hooks into literature
 - [[Chyp (Cospans of HYPergraphs)]] & [[Aleks Kissinger]]
 - [[Alexander Grothendieck]]
 - ...
+
+---
+
+# A Universal Language
+*One Ray to rule them all, One Ray to find them, One Ray to bring them all, and in the darkness bind them: Explore a technical deep dive into Rays. Accompanied by a simple implementation of Aleks Kissinger's Chyp (Cospans of HYPergraphs).*
+
+<Section head="Introduction">  
+  This thing is, in essence, a language to understand inconsistencies. A conceptual framework to make sense of ambiguity: A story of how destructively confusing languages can be. Though to me, most importantly, it is here as infrastructure. Infrastructure for the design and implementation of a <Reference is="reference" index={referenceCounter()} reference={{link: _2024_02_ORBITMINES_AS_A_GAME_PROJECT.reference.link, title: "different category of (programming) interfaces"}} simple inline />.  
+  
+  <BR/>  
+  
+  <span style={{textAlign: 'left', minWidth: '100%'}}>A simple way of phrasing this, is that the concept of a <span  
+      className="bp5-text-muted"><span  
+      className="bp5-text-disabled">(hyper-/)</span>'Vertex', <span  
+      className="bp5-text-disabled">(hyper-/)</span>'Edge', <span  
+      className="bp5-text-disabled">(hyper-/)</span>'Graph', <span  
+      className="bp5-text-disabled">(hyper-/)</span>'Rule', <span  
+      className="bp5-text-disabled">(hyper-/)</span>'Tactic', <span  
+      className="bp5-text-disabled">(hyper-/)</span>..., <span  
+      className="bp5-text-disabled">(hyper-/)</span>'Rewrite'</span> are merged into one thing: a Ray. It handles <span  
+      className="bp5-text-muted">surrounding context, ignorances, equivalences, ..., differentiation</span> (And if it cannot, then it offers a way of implementing it for all of the above).</span>  
+  
+  <BR/>  
+  <span style={{textAlign: 'left', minWidth: '100%'}}>Though quite importantly, even if those previous words are complete nonsense to you: Either this, or projects following from this, will aid in your understanding. This is the start of a story which will provide infrastructure for communication between all <span className="bp5-text-muted">sciences, (programming) languages, compilers, interfaces, ..., videogames</span>.</span>  
+  
+  <BR/>  
+  Let me show you how.  
+</Section>
