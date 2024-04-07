@@ -9,3 +9,5 @@
 - A backward log before the public side of the journal was setup (< [[2024-03-07]]).
 - Stuff I would deem too confused that evidently I flagged it for exclusion (more likely to be social-related things)
 - Private documents not designed for publication (Letters, invoices etc...)
+
+---
