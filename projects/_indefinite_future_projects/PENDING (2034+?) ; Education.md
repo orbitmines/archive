@@ -9,3 +9,9 @@ Very simple, ignore the stuff around highschools universities and governments. J
 ---
 
 Innovation research, James Evans from Georgia Tech ?
+
+---
+
+Some project
+- https://www.youtube.com/watch?v=5J1vit-3Y0U
+- 
