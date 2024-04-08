@@ -6,3 +6,5 @@ Just higher arity composed lines connected toegether, just local structures beco
 
 People
 - [[Sabine Stanley]]
+
+https://github.com/JonathanGorard/Cosmos
