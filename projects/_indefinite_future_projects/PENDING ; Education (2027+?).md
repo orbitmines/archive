@@ -1,4 +1,8 @@
-I'm putting this here mainly as an invitation for anyone to contribute. All OrbitMines projects, notable: [OrbitMines as a Game Project](), 
+I'm putting this here mainly as an invitation for anyone to contribute. All OrbitMines projects, notably: 
+- [OrbitMines as a Game Project]()
+- [Project - Research towards Designs (2024)]()
+
+Will make it possible to design a completely different category of educational systems.
 
 Basically using this project education/university stuff in teaching full science-related things.
 
