@@ -2,9 +2,7 @@ I'm putting this here mainly as an invitation for anyone to contribute. All Orbi
 - [OrbitMines as a Game Project]()
 - [Project - Research towards Designs (2024)]()
 
-Will make it possible to design a completely different category of educational systems.
-
-Basically using this project education/university stuff in teaching full science-related things.
+Will make it possible to design a completely different category of educational systems. This is an incredibly complex problem, but everything about around OrbitMines will make thinking about these problems much easier. (It will take )
 
 Lots of time needs to go into the project before it's remotely ready for this.
 
