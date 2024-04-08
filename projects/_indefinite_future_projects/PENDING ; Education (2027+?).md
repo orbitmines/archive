@@ -1,3 +1,5 @@
+I'm putting this here mainly as an invitation for anyone to contribute. All OrbitMines projects, notable: [OrbitMines as a Game Project](), 
+
 Basically using this project education/university stuff in teaching full science-related things.
 
 Lots of time needs to go into the project before it's remotely ready for this.
