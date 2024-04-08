@@ -6,6 +6,8 @@ Will make it possible to design a completely different category of educational s
 
 Simply phrased it's the following: Ignore all the bullshit of education around highschools, universities, ..., governments. And just focus on creating an education tool so good people just start playing it instead of other games. Forcing adaption of old systems.
 
+- This will also require some research into finding projects that have similar goals, I've not yet done this properly.
+
 ---
 
 Innovation research, James Evans from Georgia Tech ?
