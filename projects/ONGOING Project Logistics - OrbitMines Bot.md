@@ -4,7 +4,7 @@ Related:
 ---
 TODO:
 - [ ] Better organizations
-	- [ ] orbitmines.com needs a refactor/reorganization, isolate functionlity, simply ..., perhaps at some point move ar
+	- [ ] orbitmines.com needs a refactor/reorganization, isolate functionlity, simply ..., at some point probably move away react as the default, just a similar setup for now.
 - [ ] some realistic things to get working, just temp working things to be replaced with something better later
 - [ ] Automatically sync "GitHub issues", the archive repo & the discord posts.
 
