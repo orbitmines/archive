@@ -50,7 +50,7 @@ Comments on [[2024-04-05]]
 - [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator), [veloren](https://github.com/veloren/veloren?tab=readme-ov-file), 
 - [AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), [tikzit](https://github.com/tikzit)
 - Blender tools (Geometry Nodes?. etc..), [gephi](https://github.com/gephi/gephi), 
-- [Builder.io](https://github.com/BuilderIO), [pflow.dev](https://github.com/pFlow-dev), 
+- [Builder.io](https://github.com/BuilderIO), [pflow.dev](https://github.com/pFlow-dev), [Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D)
 - https://github.com/chrxh/alien
 
 # Some interesting/pending questions regarding this project:
