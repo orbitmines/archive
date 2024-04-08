@@ -4,7 +4,7 @@ I'm putting this here mainly as an invitation for anyone interested to contribut
 
 Will make it possible to design a completely different category of educational systems. This is an incredibly complex problem, but everything about around OrbitMines will make thinking about these problems much easier. (It will take some time before the project is ready for this)
 
-Simply phrased it's the following: Ignore all the bullshit of education around highschools, ..., universities. And just focus on creating an education tool so good people just start playing it instead of other games. Forcing adaption of old systems.
+Simply phrased it's the following: Ignore all the bullshit of education around highschools, ..., universities. And just focus on creating an education tool so good people just start playing it instead of other games. Forcing adaptation of old systems.
 
 - [ ] This will also require some research into finding projects that have similar goals, I've not yet done this properly.
 
