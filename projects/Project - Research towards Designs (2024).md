@@ -2,3 +2,8 @@ Once a simple interface is setup, we'll start to be able to design the next gene
 
 See: :orbitmines: https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=A%20quick%20step%20towards%20Design
 
+It's very simple:
+
+> This problem, though filled with incredible technical complexity, in its essence is a visual design problem: What should it feel like? What should it look like?
+
+*:orbitmines: :github: Archive equivalent*
