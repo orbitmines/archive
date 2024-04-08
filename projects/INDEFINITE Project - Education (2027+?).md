@@ -9,7 +9,7 @@ Simply phrased it's the following: Ignore all the bullshit of education around h
 - [ ] This will also require some research into finding projects that have similar goals, I've not yet done this properly.
 
 *:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/INDEFINITE%20Project%20-%20Education%20(2027%2B%3F).md)*
-*:orbitmines: :discord: [*
+*:orbitmines: :discord: [Discord equivalent](https://discord.com/channels/1055502602365845534/1226870001584312361)*
 
 ---
 
