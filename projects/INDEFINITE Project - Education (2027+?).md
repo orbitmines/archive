@@ -1,6 +1,6 @@
 I'm putting this here mainly as an invitation for anyone interested to contribute. All OrbitMines projects, notably: 
-- [OrbitMines as a Game Project](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project)
-- [Project - Research towards Designs (2024)](https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Research%20towards%20Designs%20(2024).md)
+- :orbitmines: [OrbitMines as a Game Project](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project)
+- :orbitmines: :github: [Project - Research towards Designs (2024)](https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Research%20towards%20Designs%20(2024).md)
 
 Will make it possible to design a completely different category of educational systems. This is an incredibly complex problem, but everything about around OrbitMines will make thinking about these problems much easier. (It will take some time before the project is ready for this)
 
