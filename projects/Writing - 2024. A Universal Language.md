@@ -1,4 +1,4 @@
-- "Can just draw a line (or any structure really)"
+- "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 - [ ] Not quite sure about the last paragraph of whether to mention existing projects (infrageometry, lingua universalis etc...) in the introduction or the first few things after the introduction, but this for now
