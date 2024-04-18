@@ -295,7 +295,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Nathan Corbyn]]
 - [[Nathan Haydon]]
 - [[Nayan Rajesh]]
-- [Nick Hu](https://nickx.hu/ "Nick Hu's personal website"), University of Oxford*  
+- [[Nick Hu]]
 - [[Nigel Burke]] 
 - [[Noah Chrein]]
 - [[Paaras Padhiar]]  
@@ -324,7 +324,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Zanzi Mihejevs]]
   
 ---  
-  
+
 - [[Aleks Kissinger]]  
 - [[Jean-Simon Pacaud Lemay]]  
 - [[Paul Blain Levy]]  
