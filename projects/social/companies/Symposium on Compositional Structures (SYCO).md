@@ -2,6 +2,8 @@
 Website:
   - https://www.cl.cam.ac.uk/events/syco/12/
 openreview: https://openreview.net/group?id=cl.cam.ac.uk/SYCO/2024/Symposium&referrer=%5BHomepage%5D(%2F)#tab-recent-activity
+YouTube:
+  - https://www.youtube.com/@syco12bham/streams
 ---
 
 [https://twitter.com/ctjlewis/status/1779740038852690393?t=5avrq9OCE_gmrv5UHjzsIQ&s=19](https://twitter.com/ctjlewis/status/1779740038852690393?t=5avrq9OCE_gmrv5UHjzsIQ&s=19)  
