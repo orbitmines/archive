@@ -276,7 +276,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Fadi Shawki](https://orbitmines.com/ "Fadi Shawki's personal website"), OrbitMines*  
 - [George Kaye](https://georgejkaye.com/ "George Kaye's personal website"), University of Birmingham*  
 - Gordon Plotkin, University of Edinburgh  
-- [Grégoire Sergeant-Perthuis](https://www.gregoiresergeant-perthuis.com/research.html "Grégoire Sergeant-Perthuis's personal website"), Sorbonne Université*  
+- [[Grégoire Sergeant-Perthuis]]
 - Harsh Beohar, The University of Sheffield*  
 - [[Heitor Baldo]]
 - [[Ioannis Markakis]]
