@@ -271,7 +271,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Calin Tataru]]
 - Carmen Constantin, UCL*  
 - David Forsman, Université catholique de Louvain*  
-- Elena Isasi Theus, Universitat Politécnica de Catalunya  
+- [[Elena Isasi Theus]]  
 - [[Elies Harington]]  
 - [[Fadi Shawki]]
 - [[George Kaye]]
