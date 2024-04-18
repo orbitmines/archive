@@ -274,7 +274,7 @@ Attendees marked with an asterisk * will attend physically.
 - Elena Isasi Theus, Universitat Politécnica de Catalunya  
 - [Elies Harington](https://www.lix.polytechnique.fr/Labo/Elies.HARINGTON/ "Elies Harington's personal website"), Ecole Polytechnique  
 - [Fadi Shawki](https://orbitmines.com/ "Fadi Shawki's personal website"), OrbitMines*  
-- [George Kaye](https://georgejkaye.com/ "George Kaye's personal website"), University of Birmingham*  
+- [[George Kaye]]
 - Gordon Plotkin, University of Edinburgh  
 - [[Grégoire Sergeant-Perthuis]]
 - Harsh Beohar, The University of Sheffield*  
