@@ -279,7 +279,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Grégoire Sergeant-Perthuis](https://www.gregoiresergeant-perthuis.com/research.html "Grégoire Sergeant-Perthuis's personal website"), Sorbonne Université*  
 - Harsh Beohar, The University of Sheffield*  
 - [Heitor Baldo](https://heitorbaldo.github.io/ "Heitor Baldo's personal website"), University of São Paulo  
-- [Ioannis Markakis](https://jmarkakis.github.io/ "Ioannis Markakis's personal website"), University of Cambridge*  
+- [[Ioannis Markakis]]
 - [[Jingjie Yang]]
 - [[Joshua L. Wrigley]]
 - [[Jules Hedges]]
