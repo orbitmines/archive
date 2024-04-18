@@ -297,7 +297,7 @@ Attendees marked with an asterisk * will attend physically.
 - Paaras Padhiar, University of Birmingham*  
 - [Pablo Donato](https://www.lix.polytechnique.fr/Labo/Pablo.DONATO/ "Pablo Donato's personal website")*  
 - [Paul Blain Levy](https://www.cs.bham.ac.uk/~pbl "Paul Blain Levy's personal website"), University of Birmingham*  
-- [Paul Taylor](https://www.paultaylor.eu/ "Paul Taylor's personal website"), U of Birmingham (honorary)*  
+- [[Paul Taylor]]
 - Poyraz Yılan, Institut Polytechnique de Paris  
 - [[Quan Long]]
 - [[Ramneet Singh]]
