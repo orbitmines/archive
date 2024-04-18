@@ -300,7 +300,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Paul Taylor](https://www.paultaylor.eu/ "Paul Taylor's personal website"), U of Birmingham (honorary)*  
 - Poyraz Yılan, Institut Polytechnique de Paris  
 - [Quan Long](https://www.long.direct/ "Quan Long's personal website"), ENS Paris Saclay*  
-- [Ramneet Singh](https://ramneet-singh.netlify.app/ "Ramneet Singh's personal website"), Georgia Tech  
+- [[Ramneet Singh]]
 - Razin Shaikh, University of Oxford*  
 - [[Rich Hilliard]]  
 - [[Sam Speight]]
