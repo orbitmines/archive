@@ -299,10 +299,10 @@ Attendees marked with an asterisk * will attend physically.
 - [[Pablo Donato]]
 - [[Paul Blain Levy]] 
 - [[Paul Taylor]]
-- Poyraz Yılan, Institut Polytechnique de Paris  
+- [[Poyraz Yılan]]
 - [[Quan Long]]
 - [[Ramneet Singh]]
-- [[Razin Shaikh]]
+- [[Razin A. Shaikh]]
 - [[Rich Hilliard]]  
 - [[Sam Speight]]
 - [[Samuel Knutsen]]  
