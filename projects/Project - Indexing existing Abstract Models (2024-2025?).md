@@ -56,7 +56,7 @@ Comments on [[2024-04-05]]
 - Blender tools (Geometry Nodes?. etc..), [gephi](https://github.com/gephi/gephi), 
 - [Builder.io](https://github.com/BuilderIO), [pflow.dev](https://github.com/pFlow-dev), [Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D)
 	- [ ] https://en.wikipedia.org/wiki/Visual_programming_language
-- https://github.com/chrxh/alien
+- https://github.com/chrxh/alien, [Nomic Atlas](https://github.com/nomic-ai/nomic)
 
 # Some interesting/pending questions regarding this project:
 - [ ] What are mistakes in trying to spin up new projects/languages?
