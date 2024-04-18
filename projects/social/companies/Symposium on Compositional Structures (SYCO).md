@@ -313,7 +313,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Samuel Knutsen]]  
 - [[Sean Moss]]
 - [[Tanguy Massacrier]] 
-- [[Thibaut Benjamin]], University of Cambridge*  
+- [[Thibaut Benjamin]]
 - [[Till Rampe]]
 - [[Todd Waugh Ambridge]]
 - [[Tommy McElvanney]]
