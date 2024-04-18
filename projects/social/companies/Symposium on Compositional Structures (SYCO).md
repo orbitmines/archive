@@ -309,7 +309,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Sean Moss]]
 - Tanguy Massacrier, Université Claude Bernard Lyon 1*  
 - [[Thibaut Benjamin]], University of Cambridge*  
-- Till Rampe, University of Birmingham*  
+- [[Till Rampe]]
 - [[Todd Waugh Ambridge]]
 - [[Tommy McElvanney]]
 - [[Valeria de Paiva]]
