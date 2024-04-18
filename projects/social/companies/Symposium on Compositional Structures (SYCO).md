@@ -283,7 +283,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Jingjie Yang](https://www.cs.ox.ac.uk/people/jingjie.yang/ "Jingjie Yang's personal website"), University of Oxford*  
 - [Joshua Wrigley](https://jlwrigley.github.io/ "Joshua Wrigley's personal website")*  
 - [Jules Hedges](https://julesh.com/ "Jules Hedges's personal website"), University of Strathclyde / CyberCat Institute*  
-- [Leo Lobski](https://leolob.ski/ "Leo Lobski's personal website"), University College London*  
+- [[Leo Lobski]]
 - [[Maaike Zwart]]
 - [[Marc Thatcher]]
 - [[Marco Abbadini]]
