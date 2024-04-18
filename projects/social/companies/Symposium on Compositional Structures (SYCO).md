@@ -277,7 +277,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[George Kaye]]
 - Gordon Plotkin, University of Edinburgh  
 - [[Grégoire Sergeant-Perthuis]]
-- Harsh Beohar, The University of Sheffield*  
+- [[Harsh Beohar]]
 - [[Heitor Baldo]]
 - [[Ioannis Markakis]]
 - [[Jingjie Yang]]
