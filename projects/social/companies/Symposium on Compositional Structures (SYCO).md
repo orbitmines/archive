@@ -295,7 +295,7 @@ Attendees marked with an asterisk * will attend physically.
 - Nigel Burke  
 - [Noah Chrein](https://nchrein.github.io/ "Noah Chrein's personal website"), UMD  
 - Paaras Padhiar, University of Birmingham*  
-- [[Pablo ]]
+- [[Pablo Donato]]
 - [[Paul Blain Levy]] 
 - [[Paul Taylor]]
 - Poyraz Yılan, Institut Polytechnique de Paris  
