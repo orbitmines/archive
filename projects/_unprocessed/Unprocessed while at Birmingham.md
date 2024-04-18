@@ -156,3 +156,7 @@ Even wrong profram dynamics still work
 ---
 
 single line on literary exposure?
+
+---
+
+The biggest solved problem in string/... theory is the language they use to communicate
