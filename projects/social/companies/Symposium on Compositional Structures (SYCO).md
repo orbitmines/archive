@@ -303,7 +303,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Ramneet Singh](https://ramneet-singh.netlify.app/ "Ramneet Singh's personal website"), Georgia Tech  
 - Razin Shaikh, University of Oxford*  
 - [Rich Hilliard](https://www.mit.edu/~richh "Rich Hilliard's personal website")  
-- [Sam Speight](https://slspeight.github.io/ "Sam Speight's personal website"), University of Birmingham*  
+- [[Sam Speight]]
 - Samuel Knutsen, University of Nottingham*  
 - [[Sean Moss]]
 - Tanguy Massacrier, Université Claude Bernard Lyon 1*  
