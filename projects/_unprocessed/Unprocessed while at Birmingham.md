@@ -8,4 +8,17 @@ Arguably the goal of OrbitMines is to bridge the gap between languages, interfac
   
 github embed
 
---
+---
+
+Many of these steps are still quite uncertain, but the direction is clear.  
+  
+All ongoing projects in a single overview.  
+  
+  
+percolation  
+  
+back and forth of anything, what bunss to what that way just one direction or many
+
+---
+
+This is a live document generates from here
