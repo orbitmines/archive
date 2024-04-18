@@ -269,7 +269,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Bruno Gavranović]]
 - [[Bruno da Rocha Paiva]]
 - [[Calin Tataru]]
-- Carmen Constantin, UCL*  
+- [[Carmen Constantin]]
 - [[David Forsman]]
 - [[Dhurim Cakiqi]]
 - [[Elena Isasi Theus]]  
