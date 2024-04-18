@@ -293,7 +293,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Nathan Corbyn]]
 - Nayan Rajesh, University of Manchester  
 - [Nick Hu](https://nickx.hu/ "Nick Hu's personal website"), University of Oxford*  
-- Nigel Burke  
+- [[Nigel Burke]] 
 - [[Noah Chrein]]
 - [[Paaras Padhiar]]  
 - [[Pablo Donato]]
