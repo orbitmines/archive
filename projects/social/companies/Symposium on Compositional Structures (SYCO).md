@@ -299,6 +299,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Pablo Donato]]
 - [[Paul Blain Levy]] 
 - [[Paul Taylor]]
+- [[Paul Wang]]
 - [[Poyraz Yılan]]
 - [[Quan Long]]
 - [[Ramneet Singh]]
