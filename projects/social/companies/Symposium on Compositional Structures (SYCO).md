@@ -302,7 +302,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Quan Long](https://www.long.direct/ "Quan Long's personal website"), ENS Paris Saclay*  
 - [Ramneet Singh](https://ramneet-singh.netlify.app/ "Ramneet Singh's personal website"), Georgia Tech  
 - Razin Shaikh, University of Oxford*  
-- [Rich Hilliard](https://www.mit.edu/~richh "Rich Hilliard's personal website")  
+- [[Rich Hilliard]]  
 - [[Sam Speight]]
 - Samuel Knutsen, University of Nottingham*  
 - [[Sean Moss]]
