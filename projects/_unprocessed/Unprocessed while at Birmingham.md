@@ -110,3 +110,24 @@ Promised Nick Hi to come back to him with it after kissingers chyp
 ---
 
 mistakes what list
+
+---
+
+Not technical deep dive something else  
+  
+turings famous paper  
+  
+  
+This monoidal thing with "formal" in quoates on nlab, some identity associator thing which isn't right but widley accepted, maybe not right  
+  
+  
+abstracting away as simulation from perspective of category ( ; guy
+
+---
+
+what was gping on peopees head euqlids elemnts  
+  
+the scientificof physics describing only relovtionaries never met  
+  
+history
+
