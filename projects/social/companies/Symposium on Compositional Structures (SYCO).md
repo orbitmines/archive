@@ -281,8 +281,8 @@ Attendees marked with an asterisk * will attend physically.
 - [Heitor Baldo](https://heitorbaldo.github.io/ "Heitor Baldo's personal website"), University of São Paulo  
 - [Ioannis Markakis](https://jmarkakis.github.io/ "Ioannis Markakis's personal website"), University of Cambridge*  
 - [Jingjie Yang](https://www.cs.ox.ac.uk/people/jingjie.yang/ "Jingjie Yang's personal website"), University of Oxford*  
-- [Joshua Wrigley](https://jlwrigley.github.io/ "Joshua Wrigley's personal website")*  
-- [Jules Hedges](https://julesh.com/ "Jules Hedges's personal website"), University of Strathclyde / CyberCat Institute*  
+- [[Joshua L. Wrigley]]
+- [[Jules Hedges]]
 - [[Leo Lobski]]
 - [[Maaike Zwart]]
 - [[Marc Thatcher]]
