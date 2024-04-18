@@ -144,3 +144,15 @@ Paul said very good to be in so many fields
 paul - implementation not translation  
   
 poly rnglish was lowertier school, then french opposite
+
+---
+
+Random lone draw of stuff
+
+---
+
+Even wrong profram dynamics still work
+
+---
+
+single line on literary exposure?
