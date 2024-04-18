@@ -266,7 +266,7 @@ Attendees marked with an asterisk * will attend physically.
 - Aziz Kharoof, University of Haifa*  
 - Benjamin Rodatz, University of Oxford*  
 - [[Brayan Escobar]], Universidad Nacional de Colombia  
-- [Bruno Gavranović](https://www.brunogavranovic.com/ "Bruno Gavranović's personal website"), Symbolica*  
+- [[Bruno Gavranović]]
 - [[Bruno da Rocha Paiva]]
 - [[Calin Tataru]]
 - Carmen Constantin, UCL*  
