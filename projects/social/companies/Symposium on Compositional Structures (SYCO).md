@@ -258,8 +258,8 @@ AGAIN THIS IDEA OF MAAPING NAES TO THAT STRUCTURE, SEPARABLE INSEPERATBLE FOR SO
 Attendees marked with an asterisk * will attend physically.  
   
 - [Adrián Doña Mateo](https://www.maths.ed.ac.uk/~adona/ "Adrián Doña Mateo's personal website"), University of Edinburgh*  
-- [Alessandro Di Giorgio](https://alessandrodgr.github.io/ "Alessandro Di Giorgio's personal website"), University College London*  
-- [Alexei Lisitsa](https://www.csc.liv.ac.uk/~alexei/ "Alexei Lisitsa's personal website"), University of Liverpool*  
+- [[Alessandro Di Giorgio]]
+- [[Alexei Lisitsa]]
 - Aloïs Rosset, Vrije Universiteit Amsterdam*  
 - Alöna Litovinskaia  
 - [[Amin Karamlou]]
