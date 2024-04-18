@@ -299,7 +299,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Paul Blain Levy](https://www.cs.bham.ac.uk/~pbl "Paul Blain Levy's personal website"), University of Birmingham*  
 - [Paul Taylor](https://www.paultaylor.eu/ "Paul Taylor's personal website"), U of Birmingham (honorary)*  
 - Poyraz Yılan, Institut Polytechnique de Paris  
-- [Quan Long](https://www.long.direct/ "Quan Long's personal website"), ENS Paris Saclay*  
+- [[Quan Long]]
 - [[Ramneet Singh]]
 - Razin Shaikh, University of Oxford*  
 - [[Rich Hilliard]]  
