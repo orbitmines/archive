@@ -275,7 +275,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Elies Harington]]  
 - [[Fadi Shawki]]
 - [[George Kaye]]
-- Gordon Plotkin, University of Edinburgh  
+- [[Gordon Plotkin]]
 - [[Grégoire Sergeant-Perthuis]]
 - [[Harsh Beohar]]
 - [[Heitor Baldo]]
