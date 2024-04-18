@@ -160,3 +160,17 @@ single line on literary exposure?
 ---
 
 The biggest solved problem in string/... theory is the language they use to communicate
+
+---
+
+Many ways of phrasing noen, it's explored bit dies, looked st then ignored.
+
+---
+
+The interface/data etc just in anyway stored anywhere and just deal with it through some simple interface
+
+---
+
+Yep basically composition is the higehr order variant of equivalence, what does it mean for this to go uo in arity?  
+  
+.traverse is move self to .terminal
