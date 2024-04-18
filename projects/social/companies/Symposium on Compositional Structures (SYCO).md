@@ -309,7 +309,7 @@ Attendees marked with an asterisk * will attend physically.
 - Tanguy Massacrier, Université Claude Bernard Lyon 1*  
 - [Thibaut Benjamin](https://thibautbenjamin.github.io/ "Thibaut Benjamin's personal website"), University of Cambridge*  
 - Till Rampe, University of Birmingham*  
-- [Todd Ambridge](https://www.cs.bham.ac.uk/~txw467 "Todd Ambridge's personal website"), University of Birmingham*  
+- [[Todd Waugh Ambridge]]
 - Tommy McElvanney, University of Birmingham*  
 - [Valeria de Paiva](https://vcvpaiva.github.io/ "Valeria de Paiva's personal website"), Topos Institute  
 - Vincent Rahli, University of Birmingham*  
