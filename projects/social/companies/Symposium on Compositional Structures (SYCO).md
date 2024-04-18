@@ -305,9 +305,9 @@ Attendees marked with an asterisk * will attend physically.
 - Razin Shaikh, University of Oxford*  
 - [[Rich Hilliard]]  
 - [[Sam Speight]]
-- Samuel Knutsen, University of Nottingham*  
+- [[Samuel Knutsen]]  
 - [[Sean Moss]]
-- Tanguy Massacrier, Université Claude Bernard Lyon 1*  
+- [[Tanguy Massacrier]] 
 - [[Thibaut Benjamin]], University of Cambridge*  
 - [[Till Rampe]]
 - [[Todd Waugh Ambridge]]
