@@ -7,8 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="KitPvP (Old)" />
     <orderEntry type="module" module-name="KitPvP(Old2)" />
+    <orderEntry type="module" module-name="KitPvP (Old)" />
     <orderEntry type="module" module-name="KitPvP" />
   </component>
 </module>
