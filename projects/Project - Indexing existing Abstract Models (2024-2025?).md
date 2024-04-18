@@ -42,7 +42,7 @@ Comments on [[2024-04-05]]
 - [liquidsoap](https://github.com/savonet/liquidsoap), [The Munich Quantum Toolkit (MQT)](https://github.com/cda-tum/mqt), 
 - https://github.com/StructuralXplorationLab/Libra (Parametric Design)
 - [Guppy](https://github.com/CQCL/guppylang), 
-- [OpenQL](https://github.com/QuTech-Delft/OpenQL)
+- [OpenQL](https://github.com/QuTech-Delft/OpenQL), [Narya](https://github.com/mikeshulman/narya)
 
 ### Some other names I found but didn't save a link to: 
 - *DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
@@ -96,7 +96,8 @@ Comments on [[2024-04-05]]
 	- [ ] https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false
 	- [ ] http://satcompetition.org/
 	- [ ] Games
-		- [ ] https://github.com/threerings/narya (accidentl)
+		- [ ] https://github.com/threerings/narya (accidentally found)
+		- [ ] 
 - 
 	- [ ] https://jesper.sikanda.be/links.html
 	    - [ ] & similar lists of people online (i.e. followers of followers)
