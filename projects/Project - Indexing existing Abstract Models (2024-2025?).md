@@ -95,6 +95,8 @@ Comments on [[2024-04-05]]
 	- [ ] https://github.com/alexkrauss/isabelle-zf-experiments
 	- [ ] https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false
 	- [ ] http://satcompetition.org/
+	- [ ] Games
+		- [ ] https://github.com/threerings/narya (accidentl)
 - 
 	- [ ] https://jesper.sikanda.be/links.html
 	    - [ ] & similar lists of people online (i.e. followers of followers)
