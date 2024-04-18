@@ -265,7 +265,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Amin Karamlou]]
 - Aziz Kharoof, University of Haifa*  
 - Benjamin Rodatz, University of Oxford*  
-- [[Brayan Escobar]], Universidad Nacional de Colombia  
+- [[Brayan Escobar]] 
 - [[Bruno Gavranović]]
 - [[Bruno da Rocha Paiva]]
 - [[Calin Tataru]]
