@@ -98,6 +98,7 @@ Comments on [[2024-04-05]]
 	- [ ] https://github.com/alexkrauss/isabelle-zf-experiments
 	- [ ] https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false
 	- [ ] http://satcompetition.org/
+	- [ ] https://www.lix.polytechnique.fr/team/5/view
 	- [ ] Games
 		- [ ] https://github.com/threerings/narya (accidentally found)
 		- [ ] 
