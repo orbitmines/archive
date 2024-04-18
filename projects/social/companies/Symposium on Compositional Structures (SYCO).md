@@ -313,7 +313,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Todd Waugh Ambridge]]
 - Tommy McElvanney, University of Birmingham*  
 - [[Valeria de Paiva]]
-- Vincent Rahli, University of Birmingham*  
+- [[Vincent Rahli]]  
 - [[Wilf Offord]]
 - [[Yiqi Xu]]
 - [[Zanzi Mihejevs]]
