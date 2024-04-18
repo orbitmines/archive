@@ -280,7 +280,7 @@ Attendees marked with an asterisk * will attend physically.
 - Harsh Beohar, The University of Sheffield*  
 - [Heitor Baldo](https://heitorbaldo.github.io/ "Heitor Baldo's personal website"), University of São Paulo  
 - [Ioannis Markakis](https://jmarkakis.github.io/ "Ioannis Markakis's personal website"), University of Cambridge*  
-- [Jingjie Yang](https://www.cs.ox.ac.uk/people/jingjie.yang/ "Jingjie Yang's personal website"), University of Oxford*  
+- [[Jingjie Yang]]
 - [[Joshua L. Wrigley]]
 - [[Jules Hedges]]
 - [[Leo Lobski]]
