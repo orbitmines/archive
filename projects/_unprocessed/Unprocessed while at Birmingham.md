@@ -131,3 +131,16 @@ the scientificof physics describing only relovtionaries never met
   
 history
 
+---
+
+girard paulw rbsite  
+  
+paul didnt work with girard (u pleasant personality according ot him) with Yvan Yves  
+  
+poly in polytechnic not living up to the name - paulo  
+  
+Paul said very good to be in so many fields  
+  
+paul - implementation not translation  
+  
+poly rnglish was lowertier school, then french opposite
