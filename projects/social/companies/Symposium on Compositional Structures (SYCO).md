@@ -257,7 +257,7 @@ AGAIN THIS IDEA OF MAAPING NAES TO THAT STRUCTURE, SEPARABLE INSEPERATBLE FOR SO
   
 Attendees marked with an asterisk * will attend physically.  
   
-- [Adrián Doña Mateo](https://www.maths.ed.ac.uk/~adona/ "Adrián Doña Mateo's personal website"), University of Edinburgh*  
+- [[Adrián Doña Mateo]]
 - [[Alessandro Di Giorgio]]
 - [[Alexei Lisitsa]]
 - Aloïs Rosset, Vrije Universiteit Amsterdam*  
@@ -312,7 +312,7 @@ Attendees marked with an asterisk * will attend physically.
 - Till Rampe, University of Birmingham*  
 - [[Todd Waugh Ambridge]]
 - Tommy McElvanney, University of Birmingham*  
-- [Valeria de Paiva](https://vcvpaiva.github.io/ "Valeria de Paiva's personal website"), Topos Institute  
+- [[Valeria de Paiva]]
 - Vincent Rahli, University of Birmingham*  
 - Wilf Offord, University of Cambridge*  
 - Yiqi Xu, Universität Stuttgart  
