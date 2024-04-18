@@ -289,7 +289,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Marco Abbadini](https://marcoabbadini-uni.github.io/ "Marco Abbadini's personal website"), University of Birmingham*  
 - [Miriam Backens](https://members.loria.fr/MBackens/ "Miriam Backens's personal website"), Inria*  
 - [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/ "Morgan Rogers's personal website"), LIPN  
-- [Nathanael Arkor](https://arkor.co/ "Nathanael Arkor's personal website"), Tallinn University of Technology  
+- [[Nathanael Arkor]]  
 - Nayan Rajesh, University of Manchester  
 - [Nick Hu](https://nickx.hu/ "Nick Hu's personal website"), University of Oxford*  
 - Nigel Burke  
