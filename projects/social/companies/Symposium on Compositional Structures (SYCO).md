@@ -272,7 +272,7 @@ Attendees marked with an asterisk * will attend physically.
 - Carmen Constantin, UCL*  
 - David Forsman, Université catholique de Louvain*  
 - Elena Isasi Theus, Universitat Politécnica de Catalunya  
-- [Elies Harington](https://www.lix.polytechnique.fr/Labo/Elies.HARINGTON/ "Elies Harington's personal website"), Ecole Polytechnique  
+- [[Elies Haringto]]  
 - [Fadi Shawki](https://orbitmines.com/ "Fadi Shawki's personal website"), OrbitMines*  
 - [[George Kaye]]
 - Gordon Plotkin, University of Edinburgh  
