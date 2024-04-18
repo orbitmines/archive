@@ -42,7 +42,7 @@ Comments on [[2024-04-05]]
 - [liquidsoap](https://github.com/savonet/liquidsoap), [The Munich Quantum Toolkit (MQT)](https://github.com/cda-tum/mqt), 
 - https://github.com/StructuralXplorationLab/Libra (Parametric Design)
 - [Guppy](https://github.com/CQCL/guppylang), 
-- [OpenQL](https://github.com/QuTech-Delft/OpenQL), [Narya](https://github.com/mikeshulman/narya)
+- [OpenQL](https://github.com/QuTech-Delft/OpenQL), [Narya](https://github.com/mikeshulman/narya), [NuprlinCoq](https://github.com/vrahli/NuprlInCoq), 
 - https://en.wikipedia.org/wiki/Spinor
 
 ### Some other names I found but didn't save a link to: 

@@ -311,7 +311,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Thibaut Benjamin]], University of Cambridge*  
 - Till Rampe, University of Birmingham*  
 - [[Todd Waugh Ambridge]]
-- Tommy McElvanney, University of Birmingham*  
+- [[Tommy McElvanney]]
 - [[Valeria de Paiva]]
 - [[Vincent Rahli]]  
 - [[Wilf Offord]]
