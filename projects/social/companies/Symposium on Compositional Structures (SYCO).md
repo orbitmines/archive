@@ -264,7 +264,7 @@ Attendees marked with an asterisk * will attend physically.
 - Alöna Litovinskaia  
 - [[Amin Karamlou]]
 - Aziz Kharoof, University of Haifa*  
-- Benjamin Rodatz, University of Oxford*  
+- [[Benjamin Rodatz]]
 - [[Brayan Escobar]] 
 - [[Bruno Gavranović]]
 - [[Bruno da Rocha Paiva]]
