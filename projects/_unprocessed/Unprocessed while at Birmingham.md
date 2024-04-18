@@ -174,3 +174,22 @@ The interface/data etc just in anyway stored anywhere and just deal with it thro
 Yep basically composition is the higehr order variant of equivalence, what does it mean for this to go uo in arity?  
   
 .traverse is move self to .terminal
+
+---
+
+Decentralization  
+Education  
+Metaverse  
+And many standing problems in science
+
+---
+
+Grid woth a ray split off on higher abstraction level, shows the loopiness pf the gridd
+
+---
+
+At every branch comtains the one added thing necessary for spliiting the vranch for conservation, but that destroys the embedding if that wnats to be prrserved, ?
+
+---
+
+writing on one side, interactive on the other
