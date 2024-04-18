@@ -69,6 +69,7 @@ Comments on [[2024-04-05]]
 ### Some other ways of possibly extending this list (non-completed tangents):
 
 - [ ] Is there someone who has compiled something like this yet?
+- [ ] All the people I've followed GitHub, Twitter, etc... & some distance away as preference
 - [ ] Quick/automatic GitHub/.../Gitlab search.
 
 - 
