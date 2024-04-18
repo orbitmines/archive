@@ -316,7 +316,7 @@ Attendees marked with an asterisk * will attend physically.
 - Vincent Rahli, University of Birmingham*  
 - Wilf Offord, University of Cambridge*  
 - Yiqi Xu, Universität Stuttgart  
-- [Zanzi Mihejevs](https://zanzix.github.io/ "Zanzi Mihejevs's personal website")*  
+- [[Zanzi Mihejevs]]
   
 ---  
   
