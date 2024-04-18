@@ -295,12 +295,13 @@ Attendees marked with an asterisk * will attend physically.
 - [Nick Hu](https://nickx.hu/ "Nick Hu's personal website"), University of Oxford*  
 - Nigel Burke  
 - [[Noah Chrein]]
-- Paaras Padhiar, University of Birmingham*  
+- [[Paaras Padhiar]]  
 - [[Pablo Donato]]
 - [[Paul Blain Levy]] 
 - [[Paul Taylor]]
 - [[Paul Wang]]
 - [[Poyraz Yılan]]
+- [[Piotr Mitosek]]
 - [[Quan Long]]
 - [[Ramneet Singh]]
 - [[Razin A. Shaikh]]
