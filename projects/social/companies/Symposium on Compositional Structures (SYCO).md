@@ -284,7 +284,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Joshua Wrigley](https://jlwrigley.github.io/ "Joshua Wrigley's personal website")*  
 - [Jules Hedges](https://julesh.com/ "Jules Hedges's personal website"), University of Strathclyde / CyberCat Institute*  
 - [Leo Lobski](https://leolob.ski/ "Leo Lobski's personal website"), University College London*  
-- [Maaike Zwart](https://maaikezwart.com/ "Maaike Zwart's personal website"), IT University of Copenhagen  
+- [[Maaike Zwart]]
 - [[Marc Thatcher]]
 - [[Marco Abbadini]]
 - [[Miriam Backens]]
