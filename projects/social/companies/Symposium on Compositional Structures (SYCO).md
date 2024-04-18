@@ -267,8 +267,8 @@ Attendees marked with an asterisk * will attend physically.
 - Benjamin Rodatz, University of Oxford*  
 - [[Brayan Escobar]], Universidad Nacional de Colombia  
 - [Bruno Gavranović](https://www.brunogavranovic.com/ "Bruno Gavranović's personal website"), Symbolica*  
-- [Bruno da Rocha Paiva](https://brunorochapaiva.github.io/ "Bruno da Rocha Paiva's personal website"), University of Birmingham*  
-- [Calin Tataru](https://www.cst.cam.ac.uk/people/ct608 "Calin Tataru's personal website"), University of Cambridge*  
+- [[Bruno da Rocha Paiva]]
+- [[Calin Tataru]]
 - Carmen Constantin, UCL*  
 - David Forsman, Université catholique de Louvain*  
 - Elena Isasi Theus, Universitat Politécnica de Catalunya  
