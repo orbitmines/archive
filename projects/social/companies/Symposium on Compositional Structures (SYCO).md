@@ -270,7 +270,8 @@ Attendees marked with an asterisk * will attend physically.
 - [[Bruno da Rocha Paiva]]
 - [[Calin Tataru]]
 - Carmen Constantin, UCL*  
-- David Forsman, Université catholique de Louvain*  
+- David Forsman, Université catholique de Louvain*
+- [[Dhurim Cakiqi]]
 - [[Elena Isasi Theus]]  
 - [[Elies Harington]]  
 - [[Fadi Shawki]]
