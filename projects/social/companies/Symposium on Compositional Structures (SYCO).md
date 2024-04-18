@@ -287,8 +287,8 @@ Attendees marked with an asterisk * will attend physically.
 - [Maaike Zwart](https://maaikezwart.com/ "Maaike Zwart's personal website"), IT University of Copenhagen  
 - [Marc Thatcher](https://marcthatcher.github.io/ "Marc Thatcher's personal website"), University of Sussex  
 - [Marco Abbadini](https://marcoabbadini-uni.github.io/ "Marco Abbadini's personal website"), University of Birmingham*  
-- [Miriam Backens](https://members.loria.fr/MBackens/ "Miriam Backens's personal website"), Inria*  
-- [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/ "Morgan Rogers's personal website"), LIPN  
+- [[Miriam Backens]]
+- [[Morgan Rogers]]
 - [[Nathanael Arkor]]  
 - [[Nathan Corbyn]]
 - Nayan Rajesh, University of Manchester  
