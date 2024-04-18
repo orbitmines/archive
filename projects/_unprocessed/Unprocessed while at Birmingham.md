@@ -70,3 +70,34 @@ It's not just about being able to work with unique data, but also about what you
 ---
 
 Spreads ro sll possible until another is better and the kthers contracts, adtercseeing lightning,?
+
+---
+
+rsy visualizations together  
+  
+recursive generation etc .  
+  
+for index go through discord, zulip users of...  
+  
+compile lists of peojects  
+  
+  
+35 m  
+  
+live roadmap, history can be seen here  
+  
+  
+hidden something learning vertically not ?  
+  
+  
+High fos water dropplet bounching off water myltiple times, each time higher the smaller it is, then merging witht he water structure below, local gravitational pressure breaks and then merges partially, shockwave below- interesting
+
+---
+
+pablo:
+future of programming  
+  
+lunwilson  
+  
+send loat of project to pablo
+
