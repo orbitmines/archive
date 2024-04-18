@@ -40,7 +40,7 @@ Read
 - [[Alexander Grothendieck]]
 
 ##### People
-- [[Michael Shulman]]
+- [[Michael (Mike) Shulman]]
 - [[Steve Awodey]]
 - [[Michael A. Warren]]
 - [[Peter Henry George Aczel]]
