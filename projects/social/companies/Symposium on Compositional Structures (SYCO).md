@@ -293,7 +293,7 @@ Attendees marked with an asterisk * will attend physically.
 - Nayan Rajesh, University of Manchester  
 - [Nick Hu](https://nickx.hu/ "Nick Hu's personal website"), University of Oxford*  
 - Nigel Burke  
-- [Noah Chrein](https://nchrein.github.io/ "Noah Chrein's personal website"), UMD  
+- [[]]
 - Paaras Padhiar, University of Birmingham*  
 - [[Pablo Donato]]
 - [[Paul Blain Levy]] 
