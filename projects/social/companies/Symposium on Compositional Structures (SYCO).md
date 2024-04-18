@@ -262,7 +262,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Alexei Lisitsa](https://www.csc.liv.ac.uk/~alexei/ "Alexei Lisitsa's personal website"), University of Liverpool*  
 - Aloïs Rosset, Vrije Universiteit Amsterdam*  
 - Alöna Litovinskaia  
-- [Amin Karamlou](https://aminkaramlou.github.io/ "Amin Karamlou's personal website"), Oxford*  
+- [[Amin Karamlou]]
 - Aziz Kharoof, University of Haifa*  
 - Benjamin Rodatz, University of Oxford*  
 - [[Brayan Escobar]], Universidad Nacional de Colombia  
