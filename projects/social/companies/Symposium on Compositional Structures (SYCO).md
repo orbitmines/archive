@@ -290,6 +290,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Miriam Backens](https://members.loria.fr/MBackens/ "Miriam Backens's personal website"), Inria*  
 - [Morgan Rogers](https://lipn.univ-paris13.fr/~rogers/ "Morgan Rogers's personal website"), LIPN  
 - [[Nathanael Arkor]]  
+- [[Nathan Corbyn]]
 - Nayan Rajesh, University of Manchester  
 - [Nick Hu](https://nickx.hu/ "Nick Hu's personal website"), University of Oxford*  
 - Nigel Burke  
