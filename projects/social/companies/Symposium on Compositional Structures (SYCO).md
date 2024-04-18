@@ -291,7 +291,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Morgan Rogers]]
 - [[Nathanael Arkor]]  
 - [[Nathan Corbyn]]
-- Nayan Rajesh, University of Manchester  
+- [[Nayan Rajesh]]
 - [Nick Hu](https://nickx.hu/ "Nick Hu's personal website"), University of Oxford*  
 - [[Nigel Burke]] 
 - [[Noah Chrein]]
