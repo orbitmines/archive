@@ -19,6 +19,9 @@ Comments on [[2024-04-05]]
 
 - [ ] This entire thing should be compiled into a writing/study of existing stuff
 
+- [ ] Measurement of category if diversity for the thing its useful for
+- [ ] 
+
 ---
 
 - [ ] Whole project makes it necessary to get the practical low-level systems in this too.
