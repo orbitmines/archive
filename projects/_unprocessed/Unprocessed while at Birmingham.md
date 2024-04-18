@@ -1,6 +1,6 @@
-"SIDN rejected but good feedback when asked for clarification"
+"SIDN rejected but good feedback when asked for clarification, will resubmit"
 "NLnet, rejected, no response when asked for feedback"
-"NLnet r"
+"NLnet, rejected, sent [] to ask for feedback"
 
 while at [[Symposium on Compositional Structures (SYCO)]]
 
