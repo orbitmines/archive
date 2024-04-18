@@ -131,6 +131,8 @@ Comments on [[2024-04-05]]
 	- Compiler toolchains etc..
 		- [XLA](https://openxla.org/)
 	- [ ] https://github.com/gnif/LookingGlass (... others, throughput channels ..)
+	- [ ] https://binvis.io/#/
+	- [ ] 
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
