@@ -260,7 +260,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Adrián Doña Mateo]]
 - [[Alessandro Di Giorgio]]
 - [[Alexei Lisitsa]]
-- Aloïs Rosset, Vrije Universiteit Amsterdam*  
+- [[Aloïs Rosset]]
 - [[Alöna Litovinskaia]] 
 - [[Amin Karamlou]]
 - [[Aziz Kharoof]]  
