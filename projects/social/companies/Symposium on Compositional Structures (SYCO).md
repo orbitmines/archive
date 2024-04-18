@@ -261,9 +261,9 @@ Attendees marked with an asterisk * will attend physically.
 - [[Alessandro Di Giorgio]]
 - [[Alexei Lisitsa]]
 - Aloïs Rosset, Vrije Universiteit Amsterdam*  
-- Alöna Litovinskaia  
+- [[Alöna Litovinskaia]] 
 - [[Amin Karamlou]]
-- Aziz Kharoof, University of Haifa*  
+- [[Aziz Kharoof]]  
 - [[Benjamin Rodatz]]
 - [[Brayan Escobar]] 
 - [[Bruno Gavranović]]
