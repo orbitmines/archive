@@ -1,3 +1,7 @@
+"SIDN rejected but good feedback when asked for clarification"
+"NLnet, rejected, no response when asked for feedback"
+"NLnet r"
+
 while at [[Symposium on Compositional Structures (SYCO)]]
 
 This means better infrastructure for dissemblers
