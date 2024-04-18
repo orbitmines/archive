@@ -286,7 +286,7 @@ Attendees marked with an asterisk * will attend physically.
 - [Leo Lobski](https://leolob.ski/ "Leo Lobski's personal website"), University College London*  
 - [Maaike Zwart](https://maaikezwart.com/ "Maaike Zwart's personal website"), IT University of Copenhagen  
 - [Marc Thatcher](https://marcthatcher.github.io/ "Marc Thatcher's personal website"), University of Sussex  
-- [Marco Abbadini](https://marcoabbadini-uni.github.io/ "Marco Abbadini's personal website"), University of Birmingham*  
+- [[Marco Abbadini]]
 - [[Miriam Backens]]
 - [[Morgan Rogers]]
 - [[Nathanael Arkor]]  
