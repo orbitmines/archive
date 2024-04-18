@@ -302,7 +302,7 @@ Attendees marked with an asterisk * will attend physically.
 - Poyraz Yılan, Institut Polytechnique de Paris  
 - [[Quan Long]]
 - [[Ramneet Singh]]
-- Razin Shaikh, University of Oxford*  
+- [[Razin Shaikh]]
 - [[Rich Hilliard]]  
 - [[Sam Speight]]
 - [[Samuel Knutsen]]  
