@@ -43,6 +43,7 @@ Scaling?
 
 #### Loans
 - ![[Vroegefasefinanciering (VFF)]]
+	- [[UNIIQ]] https://uniiq.nl/en/innovative-startup-founder/
 - 
 
 ---
