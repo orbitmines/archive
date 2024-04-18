@@ -305,9 +305,9 @@ Attendees marked with an asterisk * will attend physically.
 - [Rich Hilliard](https://www.mit.edu/~richh "Rich Hilliard's personal website")  
 - [Sam Speight](https://slspeight.github.io/ "Sam Speight's personal website"), University of Birmingham*  
 - Samuel Knutsen, University of Nottingham*  
-- [Sean Moss](https://seankmoss.bitbucket.io/ "Sean Moss's personal website"), University of Birmingham*  
+- [[Sean Moss]]
 - Tanguy Massacrier, Université Claude Bernard Lyon 1*  
-- [Thibaut Benjamin](https://thibautbenjamin.github.io/ "Thibaut Benjamin's personal website"), University of Cambridge*  
+- [[Thibaut Benjamin]], University of Cambridge*  
 - Till Rampe, University of Birmingham*  
 - [[Todd Waugh Ambridge]]
 - Tommy McElvanney, University of Birmingham*  
