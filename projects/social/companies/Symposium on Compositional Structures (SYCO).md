@@ -315,7 +315,7 @@ Attendees marked with an asterisk * will attend physically.
 - [[Valeria de Paiva]]
 - Vincent Rahli, University of Birmingham*  
 - Wilf Offord, University of Cambridge*  
-- Yiqi Xu, Universität Stuttgart  
+- [[Yiqi Xu]]
 - [[Zanzi Mihejevs]]
   
 ---  
