@@ -151,6 +151,8 @@ Comments on [[2024-04-05]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
 - All the [[PENDING (2027?+) ; Hardware, Physics]] things... String theories, ..., constructor theory etc... 
 	- Expand for any field
+	- https://en.wikipedia.org/wiki/Game_semantics
+	- 
 - Networking... ([[Anoma]])
 ---
 
