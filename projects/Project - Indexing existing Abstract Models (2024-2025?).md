@@ -124,7 +124,7 @@ Comments on [[2024-04-05]]
 	- [ ] https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html
 	- [ ] https://martty.github.io/
 	- [ ] https://themaister.net/blog/
-	- [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr
+	- [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr, AQL ?
 - 
 	- [ ] https://github.com/martinescardo/TypeTopology
 	- [ ] https://scholar.archive.org/
