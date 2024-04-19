@@ -74,6 +74,8 @@ Comments on [[2024-04-05]]
 
 - Research into https://en.wikipedia.org/wiki/Data_and_information_visualization , also more non-trivival stuff than just plots
 	- https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
+	- https://en.wikipedia.org/wiki/Distributive_property
+	- 
 - 
 	- [ ] https://proofassistants.stackexchange.com/
 - 
