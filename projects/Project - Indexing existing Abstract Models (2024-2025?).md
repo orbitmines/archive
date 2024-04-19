@@ -159,6 +159,8 @@ Comments on [[2024-04-05]]
 
 - [Phenomenology](https://en.wikipedia.org/wiki/Phenomenology_(philosophy) apparently [also interested](https://twitter.com/JohannesKleiner/status/1762893159044931637) in these things
 
+- old old https://en.wikipedia.org/wiki/Cuneiform
+
 ---
 
 ### Some old notes for possible ways to expand the list:
