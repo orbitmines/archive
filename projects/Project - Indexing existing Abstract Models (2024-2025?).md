@@ -72,6 +72,8 @@ Comments on [[2024-04-05]]
 - [ ] All the people I've followed GitHub, Twitter, etc... & some distance away as preference
 - [ ] Quick/automatic GitHub/.../Gitlab search.
 
+- Research into https://en.wikipedia.org/wiki/Data_and_information_visualization , also more non-trivival stuff than just plots
+	- https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
 - 
 	- [ ] https://proofassistants.stackexchange.com/
 - 
