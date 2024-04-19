@@ -13,6 +13,7 @@ Read
 - [ ] https://www.mov-axbx.com/wopr/wopr_concept.html
 - [ ] https://github.com/hughperkins/VeriGPU
 - [ ] https://en.wikipedia.org/wiki/Weak_interaction
+- [ ] https://www.feynmanlectures.caltech.edu/I_toc.html
 - [ ] 
 
 
