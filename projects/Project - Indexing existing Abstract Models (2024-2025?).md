@@ -86,7 +86,7 @@ Comments on [[2024-04-05]]
 	- [ ] "Creative coding?" - mostly some art stuff, though probably has some practical applications hidding somewhere too
 	- [ ] Lot of interesting things here: https://github.com/thi-ng/umbrella?tab=readme-ov-file
 	- [ ] https://iquilezles.org/articles/
-	- [ ] 
+	- [ ] https://github.com/nplresearch/higher_order_LRG
 - 
 	- [ ] https://www.cs.ru.nl/~freek/100/
 	- [ ] https://www.tptp.org/CASC/ - https://www.tptp.org/CASC/ - https://www.tptp.org/cgi-bin/SystemOnTPTP
