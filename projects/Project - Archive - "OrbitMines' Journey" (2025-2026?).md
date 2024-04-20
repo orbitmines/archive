@@ -29,6 +29,8 @@ The currently uploaded Minecraft archives includes:
 
 ---
 
+- [ ] Dont forget to include the Discord stuff others have shared
+
 - [ ] After archive project ; history of OrbitMiens + robert etc. first idea came from decompoling java files to create mc plugins ; can already see similar ideas there.
 
 ---
