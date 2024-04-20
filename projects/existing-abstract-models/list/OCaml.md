@@ -10,7 +10,9 @@ Twitter:
 GitHub:
   - https://github.com/ocaml/ocaml
   - https://github.com/ocaml-community
-Discourse: https://discuss.ocaml.org/
+  - https://github.com/OCamlPro
+Discourse:
+  - https://discuss.ocaml.org/
 ---
 
 #### Sources
