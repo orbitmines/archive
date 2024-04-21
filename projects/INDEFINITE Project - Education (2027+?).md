@@ -19,4 +19,5 @@ Innovation research, James Evans from Georgia Tech ?
 
 Some projects
 - [[Po-Shen Loh]] https://www.youtube.com/watch?v=5J1vit-3Y0U
+- https://github.com/learn-anything/learn-anything.xyz
 - 
