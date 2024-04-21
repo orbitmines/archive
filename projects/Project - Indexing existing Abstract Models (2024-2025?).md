@@ -156,6 +156,7 @@ Comments on [[2024-04-05]]
 	- 
 - Networking... ([[Anoma]])
 - Ah, of course, infrastructure/engineering/design things/tools:
+	- https://twitter.com/thatopencompany
 	- 
 ---
 
