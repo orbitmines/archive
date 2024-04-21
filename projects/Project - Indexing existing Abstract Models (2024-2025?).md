@@ -169,6 +169,9 @@ Comments on [[2024-04-05]]
 
 ---
 
+- https://zenodo.org/
+- 
+
 ### Some old notes for possible ways to expand the list:
 ###### Indexing existing archives/knowledge bases for preservation and possible future analysis...
   - Github  
