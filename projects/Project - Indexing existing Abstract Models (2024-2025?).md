@@ -172,6 +172,7 @@ Comments on [[2024-04-05]]
 ---
 
 - https://zenodo.org/
+- https://learn-anything.xyz/
 - 
 
 ### Some old notes for possible ways to expand the list:
