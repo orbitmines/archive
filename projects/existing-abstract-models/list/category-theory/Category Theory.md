@@ -24,6 +24,9 @@ These are already in [[Project - Indexing existing Abstract Models (2024-2025?)]
 - [ ] https://github.com/abuseofnotation/category-theory-illustrated
 - [ ] 
 
+- [ ] https://cybercat.institute/2024/04/12/enriched-closed-lenses/
+- [ ] 
+
 ---
 
 Free category / transitive closure, basically would mean that all the initial/terminal rays are equivalenced - (no distinction / or just interpreted the same) . Or just in one step one can be anywhere.
