@@ -17,7 +17,7 @@ In mathematics or other ways of phrasing it, there's then the concept of bigger,
 
 - [ ] Similarity in "up to natural isomorphism", these ideas and
 
-These are already in [[Project]]
+These are already in [[Project - Indexing existing Abstract Models (2024-2025?)]]
 - [ ] https://github.com/prathyvsh/category-theory-resources
 - [ ] [[Categorica]]
 - [ ] https://github.com/statusfailed/catgrad
