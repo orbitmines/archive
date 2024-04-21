@@ -59,7 +59,7 @@ Comments on [[2024-04-05]]
 - [Builder.io](https://github.com/BuilderIO), [pflow.dev](https://github.com/pFlow-dev), [Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D)
 	- [ ] https://en.wikipedia.org/wiki/Visual_programming_language
 - https://github.com/chrxh/alien, [Nomic Atlas](https://github.com/nomic-ai/nomic)
-- [quiver](https://github.com/varkor/quiver), [t-SNE](https://distill.pub/2016/misread-tsne/), [distill.pub](https://distill.pub/), [perfect-arrow](https://github.com/ChrisShank/perfect-arrow), [StateML](https://www.stateml.org/), https://azlen.me/gallery/, [Practal](https://github.com/practal), LayerProcGen, 
+- [quiver](https://github.com/varkor/quiver), [t-SNE](https://distill.pub/2016/misread-tsne/), [distill.pub](https://distill.pub/), [perfect-arrow](https://github.com/ChrisShank/perfect-arrow), [StateML](https://www.stateml.org/), https://azlen.me/gallery/, [Practal](https://github.com/practal), LayerProcGen, https://lazy.so/, 
 
 # Some interesting/pending questions regarding this project:
 - [ ] What are mistakes in trying to spin up new projects/languages?
