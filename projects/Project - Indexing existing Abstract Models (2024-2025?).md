@@ -155,6 +155,8 @@ Comments on [[2024-04-05]]
 	- https://en.wikipedia.org/wiki/Game_semantics
 	- 
 - Networking... ([[Anoma]])
+- Ah, of course, infrastructure/engineering/design things/tools:
+	- 
 ---
 
 ### Some more relevant historical stuff: 
