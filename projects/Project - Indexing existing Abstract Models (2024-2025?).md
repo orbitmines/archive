@@ -123,6 +123,7 @@ Comments on [[2024-04-05]]
 	- Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
 - https://en.wikipedia.org/wiki/Forbidden_graph_characterization
 - https://github.com/NEASQC/qrbs
+- https://cseweb.ucsd.edu/~goguen/cool.html [[Joseph Amadee Goguen]]
 - 
 - Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
 	- HSA, HIP, CUDA, firmware, ..... 
