@@ -9,6 +9,9 @@ Twitter:
 - Expectations are that also the European Committee (H2020 and its successor Horizon Europe) and the European Research Council (ERC) will implement Plan S.
 - 
 
+People
+- [[Andre Brasil]]
+
 
 Published by:
 - :utrecht_university: [Final Plan S guidance published by cOAlition S (2019-06-03)](https://www.uu.nl/en/news/final-plan-s-guidance-published-by-coalition-s)
