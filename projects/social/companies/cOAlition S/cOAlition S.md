@@ -10,4 +10,9 @@ Twitter:
 - 
 
 
-Published by: [Utrecht University](https://www.uu.nl/en/news/final-plan-s-guidance-published-by-coalition-s), 
+Published by:
+- :utrecht_university: [Final Plan S guidance published by cOAlition S (2019-06-03)](https://www.uu.nl/en/news/final-plan-s-guidance-published-by-coalition-s)
+- 
+
+
+[Utrecht University](https://www.uu.nl/en/news/final-plan-s-guidance-published-by-coalition-s), 
