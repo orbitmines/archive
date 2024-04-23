@@ -18,6 +18,8 @@ Possible
 - [ ] https://www.nwo.nl/en/calls/open-competition-domain-science-m-2023/2024
 - [ ] 
 
+- [ ] AI Grant https://aigrant.com/ , Batch 4 July 16th 2024, can already submit early
+
 Scaling?
 - [ ] I just need time to work on the ideas, there's not a lot other than a small compute station or involving other in costs for now, so these probably don't make much sense yet. Maybe would want to involve other people soon though.
 	- [ ] https://www.ycombinator.com/apply
