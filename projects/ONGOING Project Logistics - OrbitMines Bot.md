@@ -36,3 +36,7 @@ For [[ONGOING Project - Funding]]
   - Database of projects RVO: https://data.rvo.nl/subsidies-regelingen/projecten?f%5B0%5D=subsidies%3A3865&f%5B1%5D=subsidies%3A3888&f%5B2%5D=subsidies%3A3980&f%5B3%5D=subsidies%3A27097&f%5B4%5D=subsidies%3A3867  
 
 ---
+
+Calendar events//
+- [ ] https://calendar.google.com/calendar/u/0/r/settings/addbyurl
+- [ ] https://en.wikipedia.org/wiki/ICalendar
