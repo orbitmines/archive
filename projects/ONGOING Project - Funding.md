@@ -35,7 +35,7 @@ Scaling?
 
 #### Proposals that need obviousness so people can understand the scope of the project - It's value needs to be clear
 - [ ] [[Dutch Research Council (NWO)]] 
-  - [ ] Starter-grant (or was this ERC??)
+  - [ ] Starter-grant (or was this ERC??) https://erc.europa.eu/apply-grant/starting-grant
   - [ ] Summit grant (2024?) : If the conceptual framework is sufficiently advanced a 2024 equivalent of this perhaps (https://www.nwo.nl/en/calls/summit-grant)  
     - Have to convince a 10-12 multidisciplinary board: https://www.nwo.nl/en/calls/open-technology-programme-2023, so far the most interesting looking one. Technically signalled for a associate professor, but we'll see.  
     ~~- "I suppose that this admission will be quite irregular, and a detailed background is justified." ; Get around the "usually for universities"  ~~
