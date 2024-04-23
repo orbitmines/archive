@@ -1,6 +1,9 @@
 *Will always be ongoing - basically realizable as economic/practical/logistical considerations for the projects*
 *Like things with hiring, always try to cover the things not already covered with a different approach*
 
+- [ ] https://github.com/nikitavoloboev/knowledge/blob/main/docs/business/startups/funding.md
+- [ ] 
+
 ## 2024
 Retry
 - [ ] https://www.sidnfonds.nl/
