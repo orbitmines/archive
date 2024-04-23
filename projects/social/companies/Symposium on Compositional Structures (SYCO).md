@@ -154,7 +154,7 @@ Davida Trotta?
 Functor box?  
   
   
-- [[Bruno Gavranović]], [[Paul Lessard]], [[Andrew Joseph Dudzik]], [[Tamara von Glehn]], [[João Guilherme Madeira Araújo]], [[Petar Veličković]]  
+- [[Bruno Gavranović]], [[Paul Lessard 1]], [[Andrew Joseph Dudzik]], [[Tamara von Glehn]], [[João Guilherme Madeira Araújo]], [[Petar Veličković]]  
 - Categorical Deep Learning: An Algebraic Theory of Architectures  
   
 equivarianceequivariance with respect to invertable  
