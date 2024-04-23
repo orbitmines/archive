@@ -14,6 +14,7 @@ Read
 - [ ] https://github.com/hughperkins/VeriGPU
 - [ ] https://en.wikipedia.org/wiki/Weak_interaction
 - [ ] https://www.feynmanlectures.caltech.edu/I_toc.html
+- [ ] https://en.wikipedia.org/wiki/Alfv%C3%A9n_wave
 - [ ] 
 
 
