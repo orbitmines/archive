@@ -1,2 +1,2 @@
 - [ ] (SEMF) Discord messages / livestream transcript
-- [ ] 
+
