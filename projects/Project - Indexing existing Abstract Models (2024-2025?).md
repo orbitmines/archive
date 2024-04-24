@@ -177,7 +177,7 @@ Comments on [[2024-04-05]]
 - https://learn-anything.xyz/
 - 
 
-### Some old notes for possible ways to expand the list:
+## Some old notes for possible ways to expand the list:
 ###### Indexing existing archives/knowledge bases for preservation and possible future analysis...
   - Github  
   - gitlab  
@@ -219,3 +219,14 @@ Some tooling?/datasets
 
 Proof Assistant exploration, [[Proof_assistant.pdf]], [[Formal_verification.pdf]], [[Computer-assisted_proof.pdf]], [[Automated_reasoning.pdf]], [[QED_manifesto.pdf]], [[Proof_compression.pdf]]
 ,[[Automated_theorem_proving.pdf]], [[Compiler-compiler.pdf]],[[History_of_compiler_construction.pdf]], [[Compiler.pdf]], [[Decompiler.pdf]], [[Corrado Böhm]]
+
+---
+
+Platform interop
+- [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack ..., Matrix, ... ?  
+	- [ ] (?hosted matrix?)  
+	- [ ] Similarly, link github/gitlab/ prs/... (project descriptions etc..)  
+	- [ ] profile pictures (emotes) .. (account linking..)  
+		- [ ] Just use "@OrbitMines (bot) some link/code"  
+		- [ ] ; make that one available through the protocol too)  - RMTP//...
+- [ ] Intercompilation images..
