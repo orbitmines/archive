@@ -22,9 +22,11 @@
 ###### Open explorations/quests
 *Explorers, researchers, ..., pirates: Gatherers of knowledge unknown to some, ... all*
 - [ ] [[Project - Research towards Designs (2024)]]
+- [ ] [[INDEFINITE Project - Education (2027+?)]]
 
-######
 - [ ] [[Project - Archive - "OrbitMines' Journey" (2025-2026?)]]
 - [ ] [[Project - Compression (2025?)]]
 
-###### 
+###### 2024
+[[2024-12-31 - Yearly excerpt of thoughts]]
+
