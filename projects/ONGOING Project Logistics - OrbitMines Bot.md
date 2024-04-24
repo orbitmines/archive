@@ -37,6 +37,10 @@ For [[ONGOING Project - Funding]]
 
 ---
 
+- [ ] Intercompilation images..
+- [ ] Message platforms/feeds..
+- [ ] 
+
 ---
 
 Calendar events//
