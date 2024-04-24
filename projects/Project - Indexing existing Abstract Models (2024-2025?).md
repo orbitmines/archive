@@ -229,4 +229,5 @@ Platform interop
 	- [ ] profile pictures (emotes) .. (account linking..)  
 		- [ ] Just use "@OrbitMines (bot) some link/code"  
 		- [ ] ; make that one available through the protocol too)  - RMTP//...
+	- [ ] Status etc..
 - [ ] Intercompilation images..

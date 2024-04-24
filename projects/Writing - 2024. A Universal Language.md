@@ -1,6 +1,5 @@
 *Let's try for [[2024-05-31]]*
 
-
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail

@@ -19,15 +19,6 @@ https://github.com/42wim/matterbridge
 
 Incorporate mailing lists, & things like ([[n-Category Café]])
 
-
----
-
-What was this for?
-[[Mastodon]] setup through restricted Gmail SMTP:
-https://support.google.com/a/answer/176600?hl=en
-
-Similar to stream posts etc... sync status (like discord) across the platforms
-
 ---
 For [[ONGOING Project - Funding]]
 - [ ] Setup checks for new https://www.rvo.nl/subsidies-financiering  
