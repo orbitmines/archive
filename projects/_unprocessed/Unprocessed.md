@@ -1,0 +1,2 @@
+- [ ] SEMF Discord messages
+- [ ] 
