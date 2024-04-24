@@ -64,6 +64,7 @@ Comments on [[2024-04-05]]
 - [ ] Graph/Visualization to SVG (vector representation. From [[MakerJS]], also: DXF, SVG, PDF, JSCAD CAG, STL, ...).
 - [ ] https://github.com/kosmos/awesome-generative-art
 - [ ] [[Obsidian]], [[notion.site]], other IDEs, [typecell](https://www.typecell.org/), [starboard](https://starboard.gg/), 
+- [ ] [manim](https://github.com/3b1b/manim)
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
