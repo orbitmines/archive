@@ -7,15 +7,16 @@
 
 ###### Infrastructure - Minimal setup
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
+	- [ ] [[Rays to ]]
 - [ ] After
 	- [ ] Register https://dutchgameindustry.directory/?page=edit&t=company&id=new
 
 ###### Ongoing Logistics
-[[ONGOING LO]]
-[[ONGOING Project - Funding]]
-[[ONGOING Project - Social]]
-	[[ONGOING Project - Social - Literary Exposure]]
-	[[ONGOING Project - Social - Livestreaming]]
+[[ONGOING Project Logistics - OrbitMines Bot]]
+	[[ONGOING Project - Funding]]
+	[[ONGOING Project - Social]]
+		[[ONGOING Project - Social - Literary Exposure]]
+		[[ONGOING Project - Social - Livestreaming]]
 
 ###### Open explorations/quests
 *Explorers, researchers, ..., pirates: Gatherers of knowledge unknown to some, ... all*
