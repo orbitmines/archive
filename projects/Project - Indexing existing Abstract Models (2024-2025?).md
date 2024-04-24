@@ -63,7 +63,7 @@ Comments on [[2024-04-05]]
 - [quiver](https://github.com/varkor/quiver), [t-SNE](https://distill.pub/2016/misread-tsne/), [distill.pub](https://distill.pub/), [perfect-arrow](https://github.com/ChrisShank/perfect-arrow), [StateML](https://www.stateml.org/), https://azlen.me/gallery/, [Practal](https://github.com/practal), LayerProcGen, https://lazy.so/, [muxViz](https://github.com/manlius/muxViz), [n8n](https://github.com/n8n-io/n8n)
 - [ ] Graph/Visualization to SVG (vector representation. From [[MakerJS]], also: DXF, SVG, PDF, JSCAD CAG, STL, ...).
 - [ ] https://github.com/kosmos/awesome-generative-art
-- [ ] 
+- [ ] [[Obsidian]], [[notion.site]], other IDEs, [typecell](https://www.typecell.org/), 
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
