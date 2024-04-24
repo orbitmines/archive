@@ -7,7 +7,8 @@
 
 ###### Infrastructure - Minimal setup
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
-	- [ ] [[Rays to ]]
+	- [ ] [[Project - Compute (2024?) - Rays to GPUs]]
+	- [ ] [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - [ ] After
 	- [ ] Register https://dutchgameindustry.directory/?page=edit&t=company&id=new
 
@@ -21,6 +22,9 @@
 ###### Open explorations/quests
 *Explorers, researchers, ..., pirates: Gatherers of knowledge unknown to some, ... all*
 - [ ] [[Project - Research towards Designs (2024)]]
-- [ ] 
+
+######
+- [ ] [[Project - Archive - "OrbitMines' Journey" (2025-2026?)]]
+- [ ] [[Project - Compression (2025?)]]
 
 ###### 
