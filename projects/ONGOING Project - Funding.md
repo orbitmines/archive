@@ -28,7 +28,8 @@ Scaling?
 	- [ ] https://www.ycombinator.com/apply
 	- [ ] [[AngelList]] / [[Crunchbase]]
 - [ ] https://www.delftenterprises.nl/portfolio/?filter_cat=fondsen#portfolioStart
-- [ ] 
+- [ ] might as well give it a try
+	- [ ] https://cordis.europa.eu/project/id/951821
 
 
 ---
