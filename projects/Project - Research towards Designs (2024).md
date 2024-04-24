@@ -8,3 +8,6 @@ It's very simple:
 
 *:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Research%20towards%20Designs%20(2024).md)*
 *:orbitmines: :discord: [Discord equivalent](https://discord.com/channels/1055502602365845534/1226863400957513768)*
+
+---
+
