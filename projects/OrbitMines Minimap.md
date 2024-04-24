@@ -7,6 +7,7 @@
 
 ###### Infrastructure - Minimal setup
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
+	- [ ] [[Chyp (Cospans of HYPergraphs)]]
 	- [ ] [[Project - Compute (2024?) - Rays to GPUs]]
 	- [ ] [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - [ ] After
@@ -22,6 +23,7 @@
 ###### Open explorations/quests
 *Explorers, researchers, ..., pirates: Gatherers of knowledge unknown to some, ... all*
 - [ ] [[Project - Research towards Designs (2024)]]
+- [ ] [[Project - Indexing existing Abstract Models (2024-2025?)]]
 - [ ] [[INDEFINITE Project - Education (2027+?)]]
 
 - [ ] [[Project - Archive - "OrbitMines' Journey" (2025-2026?)]]
