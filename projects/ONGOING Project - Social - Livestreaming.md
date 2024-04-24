@@ -19,6 +19,6 @@ Cloudflare stream probably just denies RMTP conenction when there are dead outpu
 
 ---
 
-- More topic-centric streams
-- 
+- More topic-centric streams / random explorations
+- OrbitMines vs others
 - Silent Archives?

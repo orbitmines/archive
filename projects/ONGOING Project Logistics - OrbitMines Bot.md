@@ -40,6 +40,9 @@ For [[ONGOING Project - Social - Livestreaming]]
 - [ ] Scheduled (discord events) interop
 - [ ] 
 
+Interfaces
+- Need a digital drawing pad, might as
+
 ---
 
 Calendar events//
