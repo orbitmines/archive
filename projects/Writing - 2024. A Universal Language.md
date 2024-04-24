@@ -3,6 +3,8 @@
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 - [ ] Not quite sure about the last paragraph of whether to mention existing projects (infrageometry, lingua universalis, kissinger etc...) in the introduction or the first few things after the introduction, but this for now
 
+- Setup collab for different languages I didn't account for
+
 
 
 ```ts
