@@ -6,4 +6,6 @@
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
 
 ###### Open explorations
+- [ ] [[Project - Research towards Designs (2024)]]
+- [ ] 
 
