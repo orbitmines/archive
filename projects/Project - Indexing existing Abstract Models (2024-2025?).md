@@ -62,6 +62,9 @@ Comments on [[2024-04-05]]
 - https://github.com/chrxh/alien, [Nomic Atlas](https://github.com/nomic-ai/nomic)
 - [quiver](https://github.com/varkor/quiver), [t-SNE](https://distill.pub/2016/misread-tsne/), [distill.pub](https://distill.pub/), [perfect-arrow](https://github.com/ChrisShank/perfect-arrow), [StateML](https://www.stateml.org/), https://azlen.me/gallery/, [Practal](https://github.com/practal), LayerProcGen, https://lazy.so/, [muxViz](https://github.com/manlius/muxViz), [n8n](https://github.com/n8n-io/n8n)
 
+- [ ] http://elseheartbreak.com/
+- [ ] https://tomorrowcorporation.com/humanresourcemachine
+
 # Some interesting/pending questions regarding this project:
 - [ ] What are mistakes in trying to spin up new projects/languages?
 - [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
