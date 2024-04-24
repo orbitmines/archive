@@ -5,5 +5,5 @@
 
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
 
-- [ ] Open explorations
+###### Open explorations
 
