@@ -1,8 +1,10 @@
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
-- [ ] Not quite sure about the last paragraph of whether to mention existing projects (infrageometry, lingua universalis etc...) in the introduction or the first few things after the introduction, but this for now
- 
+- [ ] Not quite sure about the last paragraph of whether to mention existing projects (infrageometry, lingua universalis, kissinger etc...) in the introduction or the first few things after the introduction, but this for now
+
+
+
 ```ts
 // TODO: What about showing disconnect when multiple things are rendered at the same position??  
 // TODO: It's, rende rboth draw equivalence, then ignore the difference from either perspective or take some middle thing. - Line from both ends, also vertex? (or take the pos, take the x from one/other, y from the other/..)  
