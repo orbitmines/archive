@@ -29,7 +29,7 @@
 - [ ] [[Project - Archive - "OrbitMines' Journey" (2025-2026?)]]
 - [ ] [[Project - Compression (2025?)]]
 
-###### Items
+###### Items & Quests
 *Quests require Items*
 
 *Items require Quests*
