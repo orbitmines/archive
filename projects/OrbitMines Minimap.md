@@ -32,7 +32,7 @@
 ###### Items & Quests
 *Quests require Items*
 
-*Items require Quests*
+*Items require Quests ; Cannot see a quests without certain items*
 
 
 ###### 2024
