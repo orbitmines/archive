@@ -30,7 +30,7 @@
 - [ ] [[Project - Compression (2025?)]]
 
 ###### Items & Quests
-*Quests require Items*
+*Quests require Items ; Cannot complete quests without items*
 
 *Items require Quests ; Cannot see a quests without certain items*
 
