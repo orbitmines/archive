@@ -30,7 +30,7 @@
 - [ ] [[Project - Compression (2025?)]]
 
 ###### Items
-
+*Quests req*
 
 ###### 2024
 [[2024-12-31 - Yearly excerpt of thoughts]]
