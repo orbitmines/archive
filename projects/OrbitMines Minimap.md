@@ -30,8 +30,9 @@
 - [ ] [[Project - Compression (2025?)]]
 
 ###### Items
-*Quests require items, items require quests*
+*Quests require Items*
 
+*Items require Quests*
 
 
 ###### 2024
