@@ -30,7 +30,7 @@
 - [ ] [[Project - Compression (2025?)]]
 
 ###### Items & Quests
-*Quests require Items ; Cannot see, ..., complete a quest without certain items.*
+*Quests require Items ; Cannot see, ..., complete a quest, ..., puzzle without certain items.*
 *Items require Quests ; In order to find items you need quests.*
 
 *Quests are Items ; You can give a quest to someone else.*
