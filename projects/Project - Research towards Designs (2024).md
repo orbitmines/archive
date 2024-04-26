@@ -18,7 +18,8 @@ It's very simple:
 		- You traverse through it, all around portals opening to possible worlds (other things people have made).
 - Collapse back to a point, interface at rest ; "Waiting for you to start exploring"
 	- *Could be like the old tv screen shutoff, sucked to the middle.*
-- Somehow the idea of "find, extend/recursive", 
+- Somehow the idea of "find, extend/recursive",
+	- Right from the start already dependent on user input
 	- Point to a small figure
 	- dot, line, grid, world, color, more complex world generation - till you're thrown in a more complicated world. 
 		- See some direction to move into for each step. (; small step automatically, wait for the rest) ;  "Shift the attention focus at the start as a way of guiding the first few quests to get familiar with how it works"
