@@ -40,6 +40,7 @@
 *Items are Minimaps ; We can look inside items to get an perspective, ..., overview of what it is.*
 *Items can be used for crafting, combining, ..., creating.*
 *Items sometimes tell a story of how they're made*
+*A *
 
 *Items effect World Generation ; What you have found changes what you can find.*
 *Items can be dropped ; You can forget, ..., leave easter eggs for others to find.*
