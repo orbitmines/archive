@@ -36,7 +36,7 @@
 *Quests are Items ; You can give a quest to someone else.*
 *Items are Quests ; Your items might be quests to find for others.*
 
-*Now this is what functions and data is.*
+*Now this is what functions and data are.*
 
 
 ###### 2024
