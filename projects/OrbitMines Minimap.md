@@ -47,6 +47,8 @@
 *Items can be dropped to change World Generation*
 
 *Items can be copied, ..., spread.*
+*Items can be copied to change World Generation*
+
 
 
 *Now this is what functions and data are.*
