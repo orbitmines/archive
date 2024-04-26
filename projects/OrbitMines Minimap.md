@@ -42,7 +42,7 @@
 
 *Items are Inventories, Worlds, ..., Servers ; We can go inside items and explore there.*
 *Items are Minimaps ; We can look inside items to get an perspective, ..., overview of what it is.*
-*Items can be used for crafting, combining, ..., creating.*
+*Items can be used for crafting, combining, ..., creating. ; What you can craft *
 *Items sometimes tell a story of how, ..., where they're made, but it's not always clear what that story is.*
 
 *Items effect World Generation ; What you have found changes what you can find.*
