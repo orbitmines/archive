@@ -23,14 +23,17 @@ Comments on [[2024-04-05]]
 	- [ ] Are there people who have been thinking about game-invariant puzzles?
 	- [ ] There are probably many people who are thinking about something like this in the context of biology, and probably other fields too. Find out who
 	- [ ] This could involve people who are interested in studying researchers/projects. Find out who?
-- [ ] **Logistics**This entire thing should be compiled into a writing/study of existing stuff
-- [ ] Measurement of category if diversity for the thing its useful for ; this is essentially the closeness idea ([More usefully: How much do I need to change/ignore before they're the same to me?](https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=More%20usefully%3A%20How%20much%20do%20I%20need%20to%20change/ignore%20before%20they%27re%20the%20same%20to%20me%3F)) 
+- [ ] **Logistics:** This entire thing should be compiled into a writing/study of existing stuff
+- [ ] **Differentiation:** Measurement of category if diversity for the thing its useful for ; this is essentially the closeness idea ([More usefully: How much do I need to change/ignore before they're the same to me?](https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=More%20usefully%3A%20How%20much%20do%20I%20need%20to%20change/ignore%20before%20they%27re%20the%20same%20to%20me%3F)) 
 	- Basically, how much shifting/.../ignoring do I have to do before particular kind of symmetries/equivalences are reached so there's an/.../better interface into it.
 	- Becomes "contextual/.../computational closeness?"
 	- Language barriers / Different perspectives
 		- Get things like taking items from one particular world back to another world, could suddenly see quests you couldn't see before (immigration / ...).
 	- [ ] What are mistakes in trying to spin up new projects/languages? 
 	- [ ] Compiled grammar vs analysis of runtimes?
+		- [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
+		- [ ] Apply this question again by loosely changing constraints?
+
 - [ ] **Legal:** *Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
 	- [ ] Compile a list of people who need to be contact for this.
 
@@ -84,9 +87,6 @@ Comments on [[2024-04-05]]
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
 
 
-- [ ] What are mistakes in trying to spin up new projects/languages?
-- [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
-	- [ ] Apply this question again by loosely changing constraints?
 
 - [ ] *Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
 ### Some other ways of possibly extending this list (non-completed tangents):
