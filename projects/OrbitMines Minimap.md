@@ -51,7 +51,7 @@
 
 
 
-*Now this is what functions and data are.*
+*Now this is what functions, data, ..., information is.*
 
 
 ###### 2024
