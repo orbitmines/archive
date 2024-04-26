@@ -51,7 +51,7 @@
 
 
 *Now this is what functions, data, ..., information is.*
-*This is what science, engineering, ..., gaming will become.*
+*This is what science, engineering, learning, ..., gaming will become.*
 
 
 ###### 2024
