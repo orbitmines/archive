@@ -24,4 +24,4 @@ It's very simple:
 	- Aspects shareable, others not
 
 - Functionality
-	- 
+	- Ignorance/dropping of any structured (say explicitly kept history or others), when used for something (say matching aspects of it to others structures etc..)
