@@ -12,6 +12,7 @@ It's very simple:
 ---
 
 #### Game Intro
+- Already allow moving around even in this quick intro? - even before collapse down
 - Quick showcase of the possible worlds ; "See the possibilities" ; Too little to see isn't obvious enough. Short overwhelm, then calm
 	- Simple 2d grid spans the screen (from one diagonal to the other) 
 	- Some break in the middle ; 2d grid changes color maybe ; opening a portal in the middle.
