@@ -34,6 +34,8 @@ For [[ONGOING Project - Social - Livestreaming]]
 Interfaces
 - Need a digital drawing pad, might as well explore other upcoming alternatives.
 
+- [ ] Aut
+
 ---
 
 Calendar events//
