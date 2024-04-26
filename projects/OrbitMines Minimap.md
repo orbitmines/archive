@@ -36,8 +36,8 @@
 *Quests are Items ; You can give a quest to someone else.*
 *Items are Quests ; Your items might be quests to find for others.*
 
-*Items are Minimaps ; We can look into items to get an perspective, ..., overview of what it is.*
-*Items are Worlds ; We can look into item*
+*Items are Worlds ; We can go inside items and explore there.*
+*Items are Minimaps ; We can look inside items to get an perspective, ..., overview of what it is.*
 *Items can be used for crafting, combining, ..., creating*
 
 *Now this is what functions and data are.*
