@@ -34,6 +34,9 @@
 
 *Items require Quests ; In order to find items you need quests.*
 
+*Quests are Items ; You can give a quest to someone else.*
+
+*Items are Quests ; Your items might be quests to find for others.*
 
 ###### 2024
 [[2024-12-31 - Yearly excerpt of thoughts]]
