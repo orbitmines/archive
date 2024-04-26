@@ -12,7 +12,8 @@ It's very simple:
 ---
 
 #### Game Intro
-- First a sim
+- Quick showcase of the possible worlds
+- Collapse back to a point, interface at rest, waiting for you to start exploring
 
 #### Open World Generation
 
