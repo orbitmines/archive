@@ -34,6 +34,7 @@
 *Items require Quests ; In order to find items you need quests.*
 
 *Quests are Items ; You can give a quest to someone else.*
+*Quests are Players ; You might want *
 *Items are Quests ; Your items might be quests to find for others.*
 
 *Items are Worlds, ..., Inventories ; We can go inside items and explore there.*
@@ -44,10 +45,10 @@
 *Items effect World Generation ; What you have found changes what you can find.*
 
 *Items can be dropped ; You can forget, ..., leave easter eggs for others to find.*
-*Items can be dropped to change World Generation*
+*Items can be dropped to change World Generation.*
 
 *Items can be copied, ..., spread.*
-*Items can be copied to change World Generation*
+*Items can be copied to change World Generation.*
 
 
 
