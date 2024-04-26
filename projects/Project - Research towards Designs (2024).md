@@ -12,7 +12,7 @@ It's very simple:
 ---
 
 #### Game Intro
-- Quick showcase of the possible worlds ; "See the possibilities"
+- Quick showcase of the possible worlds ; "See the possibilities" ; Too 
 	- Simple 2d grid spans the screen (from one diagonal to the other) 
 	- Some break in the middle ; 2d grid changes color maybe ; opening a portal in the middle.
 		- You traverse through it, all around portals opening to possible worlds (other things people have made).
