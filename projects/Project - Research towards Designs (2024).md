@@ -26,3 +26,4 @@ It's very simple:
 - Functionality
 	- Ignorance/dropping of any structured (say explicitly kept history or others), when used for something (say matching aspects of it to others structures etc..)
 	- (Random) exploration (; worlds/items/..)
+	- Better replay ; "replay/detective/.../fossile"
