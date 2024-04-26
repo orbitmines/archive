@@ -45,6 +45,7 @@
 *Now this is what functions and data are.*
 
 
+
 ###### 2024
 [[2024-12-31 - Yearly excerpt of thoughts]]
 
