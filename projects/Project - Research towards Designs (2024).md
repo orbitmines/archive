@@ -18,8 +18,10 @@ It's very simple:
 		- You traverse through it, all around portals opening to possible worlds (other things people have made).
 - Collapse back to a point, interface at rest ; "Waiting for you to start exploring"
 	- *Could be like the old tv screen shutoff, sucked to the middle.*
-- Somehow the idea of "find, extend/recursive", dot, line, grid, world, more complex world generation - till you're thrown in a more complicated world. ; See some direction to move into for each step.
+- Somehow the idea of "find, extend/recursive", 
 	- Point to a small figure
+	- dot, line, grid, world, color, more complex world generation - till you're thrown in a more complicated world. 
+		- See some direction to move into for each step. ;  
 
 #### Open World Generation
 
