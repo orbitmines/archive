@@ -30,6 +30,10 @@
 - [ ] [[Project - Compression (2025?)]]
 
 ###### Items & Quests
+*This is what functions, data, ..., information is.*
+*This is what science, engineering, learning, ..., gaming will become.*
+
+
 *Quests require Items ; Cannot see, ..., complete a quest, ..., puzzle without certain items.*
 *Items require Quests ; In order to find items you need quests.*
 
@@ -48,8 +52,6 @@
 
 *Items can be copied, ..., spread.*
 *Items can be copied to change World Generation.*
-
-
 
 
 ###### 2024
