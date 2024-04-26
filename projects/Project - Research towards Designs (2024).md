@@ -19,7 +19,8 @@ It's very simple:
 
 #### Interface Design
 - Any interface, hooks(/finds) unbound controls. Any follow-up changes hence possibly effected. Can be unbound, superposed, etc.. 
-- E
+- Existing interfaces
+	- 
 
 - Personalized world, ..., workspace
 	- Aspects shareable, others not
