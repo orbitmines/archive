@@ -31,12 +31,13 @@
 
 ###### Items & Quests
 *Quests require Items ; Cannot see a quests without certain items.*
-
 *Items require Quests ; In order to find items you need quests.*
 
 *Quests are Items ; You can give a quest to someone else.*
-
 *Items are Quests ; Your items might be quests to find for others.*
+
+*Now this is what functions and data is.*
+
 
 ###### 2024
 [[2024-12-31 - Yearly excerpt of thoughts]]
