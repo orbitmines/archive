@@ -21,7 +21,7 @@ It's very simple:
 - Somehow the idea of "find, extend/recursive", 
 	- Point to a small figure
 	- dot, line, grid, world, color, more complex world generation - till you're thrown in a more complicated world. 
-		- See some direction to move into for each step. ;  
+		- See some direction to move into for each step. (; small step automatically, wait for the rest) ;  "Shift the attention focus at the start as a way of guiding the first few quests to get familiar with how it works"
 
 #### Open World Generation
 
