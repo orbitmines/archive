@@ -12,7 +12,7 @@ It's very simple:
 ---
 
 #### Game Intro
-
+- First a sim
 
 #### Open World Generation
 
