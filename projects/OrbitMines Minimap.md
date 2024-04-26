@@ -40,6 +40,8 @@
 *Items are Minimaps ; We can look inside items to get an perspective, ..., overview of what it is.*
 *Items can be used for crafting, combining, ..., creating*
 
+*Items effect World Generation*
+
 *Now this is what functions and data are.*
 
 
