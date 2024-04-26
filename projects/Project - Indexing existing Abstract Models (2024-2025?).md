@@ -232,6 +232,7 @@ Proof Assistant exploration, [[Proof_assistant.pdf]], [[Formal_verification.pdf]
 ---
 
 Platform interop
+[[ONGOING Project Logistics - OrbitMines Bot]]
 - [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack ..., Matrix, ... ?  
 	- [ ] (?hosted matrix?)  
 	- [ ] Similarly, link github/gitlab/ prs/... (project descriptions etc..)  
