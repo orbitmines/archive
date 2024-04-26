@@ -12,10 +12,10 @@ It's very simple:
 ---
 
 #### Game Intro
-- Quick showcase of the possible worlds
+- Quick showcase of the possible worlds ; "See the possibilities"
 	- Simple 2d grid spans the screen (from one diagonal to the other) 
 	- Some break in the middle ; 2d grid changes color maybe ; opening a portal in the middle.
-		- You trv
+		- You traverse through it, all around portals opening to possible worlds (other things people have made).
 - Collapse back to a point, interface at rest, waiting for you to start exploring
 
 #### Open World Generation
