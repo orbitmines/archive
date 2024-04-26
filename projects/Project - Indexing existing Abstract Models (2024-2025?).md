@@ -16,9 +16,9 @@ Comments on [[2024-04-05]]
 
 
 ---
-#####
+##### Some interesting/pending questions regarding this project:
+*[[ONGOING Project Logistics - OrbitMines Bot]]*
 
-[[ONGOING Project Logistics - OrbitMines Bot]]
 - [ ] This entire thing should be compiled into a writing/study of existing stuff
 - [ ] Measurement of category if diversity for the thing its useful for ; this is essentially the closeness idea ([More usefully: How much do I need to change/ignore before they're the same to me?](https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=More%20usefully%3A%20How%20much%20do%20I%20need%20to%20change/ignore%20before%20they%27re%20the%20same%20to%20me%3F)) 
 	- Basically, how much shifting/.../ignoring do I have to do before particular kind of symmetries/equivalences are reached so there's an/.../better interface into it.
@@ -79,7 +79,7 @@ Comments on [[2024-04-05]]
 
 - [ ] Are there people who have been thinking about game-invariant puzzles?
 
-# Some interesting/pending questions regarding this project:
+
 - [ ] What are mistakes in trying to spin up new projects/languages?
 - [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
 	- [ ] Apply this question again by loosely changing constraints?
