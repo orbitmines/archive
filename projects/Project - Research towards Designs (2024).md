@@ -13,7 +13,8 @@ It's very simple:
 
 #### Game Intro
 - Quick showcase of the possible worlds
-	- 
+	- Simple 2d grid spans the screen (from one diagonal to the other)
+	- Some break in the middle ; opening a 
 - Collapse back to a point, interface at rest, waiting for you to start exploring
 
 #### Open World Generation
