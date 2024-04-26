@@ -36,6 +36,8 @@
 *Quests are Items ; You can give a quest to someone else.*
 *Items are Quests ; Your items might be quests to find for others.*
 
+*Items are Minimaps ; We can look into items to get *
+
 *Now this is what functions and data are.*
 
 
