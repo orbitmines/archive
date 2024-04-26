@@ -23,3 +23,5 @@ It's very simple:
 - Personalized world, ..., workspace
 	- Aspects shareable, others not
 
+- Functionality
+	- 
