@@ -4,7 +4,7 @@
 *OrbitMines' Strategy, Scope, ..., Roadmap, Technology*
 *The Glass Bead Game but the solution to The Glass Bead Game is The Glass Bead Game.*
 *The GBG but the solution to The GBG is The GBG.*
-**
+*Could also just go here: A minimap of how the metaverse is actually going to happen. And accidentally rename something to the fadiverse along the way.*
 
 ###### Infrastructure - Minimal setup
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
