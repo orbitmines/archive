@@ -41,6 +41,7 @@
 *Items can be used for crafting, combining, ..., creating.*
 
 *Items effect World Generation ; What you have found changes what you can find.*
+*Items can be dropped ; You can forget, *
 
 *Now this is what functions and data are.*
 
