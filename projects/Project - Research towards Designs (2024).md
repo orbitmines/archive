@@ -14,4 +14,5 @@ It's very simple:
 #### Open World Generation
 
 #### Interface Design
-- Any interface, hooks/finds unbound controls
+- Any interface, hooks(/finds) unbound controls
+
