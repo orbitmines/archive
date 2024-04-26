@@ -50,8 +50,8 @@
 *Items can be copied to change World Generation.*
 
 
-
 *Now this is what functions, data, ..., information is.*
+*This is what science, engineering, ..., gaming will become.*
 
 
 ###### 2024
