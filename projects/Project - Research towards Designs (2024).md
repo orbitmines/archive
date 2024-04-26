@@ -12,7 +12,10 @@ It's very simple:
 ---
 
 #### Game Intro
+
+
 #### Open World Generation
+
 
 #### Interface Design
 - Any interface, hooks(/finds) unbound controls. Any follow-up changes hence possibly effected. Can be unbound, superposed, etc.. 
