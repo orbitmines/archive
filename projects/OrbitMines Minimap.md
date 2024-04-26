@@ -48,7 +48,7 @@
 
 *Items effect World Generation ; What you have found changes what you can find.*
 
-*Items can be dropped, modded ..., unequipped ; You can forget, ..., leave easter eggs for others to find.*
+*Items can be dropped, modded, ..., unequipped ; You can forget, ..., leave easter eggs for others to find.*
 *Items can be dropped to change World Generation.*
 
 *Items can be copied, ..., spread.*
