@@ -25,6 +25,7 @@ It's very simple:
 		- See some direction to move into for each step. (; small step automatically, wait for the rest) ;  "Shift the attention focus at the start as a way of guiding the first few quests to get familiar with how it works"
 
 #### Open World Generation
+*A step to translating problems to game-like invariant quests, ..., puzzles.*
 
 
 #### Interface Design
