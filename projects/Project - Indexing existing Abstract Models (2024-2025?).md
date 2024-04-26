@@ -19,7 +19,7 @@ Comments on [[2024-04-05]]
 
 [[ONGOING Project Logistics - OrbitMines Bot]]
 - [ ] This entire thing should be compiled into a writing/study of existing stuff
-- [ ] Measurement of category if diversity for the thing its useful for ; this is essentially the "closeness idea" ; "How "
+- [ ] Measurement of category if diversity for the thing its useful for ; this is essentially the closeness idea ([More usefully: How much do I need to change/ignore before they're the same to me?](https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=More%20usefully%3A%20How%20much%20do%20I%20need%20to%20change/ignore%20before%20they%27re%20the%20same%20to%20me%3F)) 
 - [ ] 
 
 ---
