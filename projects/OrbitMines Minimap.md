@@ -44,7 +44,7 @@
 *Items are Minimaps ; We can look inside items to get an perspective, ..., overview of what it is.*
 *Items can be used for crafting, combining, ..., creating.*
 *Items sometimes tell a story of how, ..., where they're made, but it's not always clear what that story is.*
-*Items can be used without knowing the Worlds inside them. ; But once you have them you can try to find more items about that story.*
+*Items can be used without knowing the worlds inside them. ; Once you have them you can try to find more items about that story.*
 
 *Items effect World Generation ; What you have found changes what you can find.*
 
