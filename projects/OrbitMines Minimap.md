@@ -34,7 +34,6 @@
 *Items require Quests ; In order to find items you need quests.*
 
 *Quests are Items ; You can give a quest to someone else.*
-*Quests are Players ; You might want *
 *Items are Quests ; Your items might be quests to find for others.*
 
 *Items are Worlds, ..., Inventories ; We can go inside items and explore there.*
