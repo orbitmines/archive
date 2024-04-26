@@ -70,6 +70,8 @@ Comments on [[2024-04-05]]
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
 
+- [ ] Are there people who have been thinking about game-invariant puzzles?
+
 # Some interesting/pending questions regarding this project:
 - [ ] What are mistakes in trying to spin up new projects/languages?
 - [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
