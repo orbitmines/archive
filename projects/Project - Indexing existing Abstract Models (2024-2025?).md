@@ -27,7 +27,8 @@ Comments on [[2024-04-05]]
 	- Language barriers / Different perspectives
 		- Get things like taking items from one particular world back to another world, could suddenly see quests you couldn't see before (immigration / ...).
 	- [ ] There are probably many people who are thinking about something like this in biology, and probably other fields too. Find out who?
-	
+	- [ ] What are mistakes in trying to spin up new projects/languages? 
+		- [ ] This could involve people who are interested in studying researchers/projects. Find out who?
 - [ ] 
 
 ---
