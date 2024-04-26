@@ -45,8 +45,9 @@
 *Items can be dropped ; You can forget, ..., leave easter eggs for others to find.*
 *Items can be dropped to change World Generation*
 
-*Now this is what functions and data are.*
+*Items can be copied, ..., can spread.*
 
+*Now this is what functions and data are.*
 
 
 ###### 2024
