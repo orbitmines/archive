@@ -19,6 +19,7 @@ Comments on [[2024-04-05]]
 ##### Some interesting/pending questions regarding this project:
 *[[ONGOING Project Logistics - OrbitMines Bot]]*
 
+- [ ] Are there people who have compiled something like this yet?
 - [ ] This entire thing should be compiled into a writing/study of existing stuff
 - [ ] Measurement of category if diversity for the thing its useful for ; this is essentially the closeness idea ([More usefully: How much do I need to change/ignore before they're the same to me?](https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=More%20usefully%3A%20How%20much%20do%20I%20need%20to%20change/ignore%20before%20they%27re%20the%20same%20to%20me%3F)) 
 	- Basically, how much shifting/.../ignoring do I have to do before particular kind of symmetries/equivalences are reached so there's an/.../better interface into it.
@@ -26,6 +27,7 @@ Comments on [[2024-04-05]]
 	- Language barriers / Different perspectives
 		- Get things like taking items from one particular world back to another world, could suddenly see quests you couldn't see before (immigration / ...).
 	- [ ] There are probably many people who are thinking about something like this in biology, and probably other fields too. Find out who?
+	
 - [ ] 
 
 ---
@@ -87,7 +89,6 @@ Comments on [[2024-04-05]]
 - [ ] *Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
 ### Some other ways of possibly extending this list (non-completed tangents):
 
-- [ ] Is there someone who has compiled something like this yet?
 - [ ] All the people I've followed GitHub, Twitter, (mutual Discord servers) etc... & some distance away as preference
 - [ ] Quick/automatic GitHub/.../Gitlab search.
 
