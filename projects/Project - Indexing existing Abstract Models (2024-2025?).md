@@ -16,6 +16,7 @@ Comments on [[2024-04-05]]
 
 
 ---
+#####
 
 [[ONGOING Project Logistics - OrbitMines Bot]]
 - [ ] This entire thing should be compiled into a writing/study of existing stuff
@@ -24,6 +25,7 @@ Comments on [[2024-04-05]]
 	- Becomes "contextual/.../computational closeness?"
 	- Language barriers / Different perspectives
 		- Get things like taking items from one particular world back to another world, could suddenly see quests you couldn't see before (immigration / ...).
+	- [ ] There are probably many people who are thinking about something like this in biology, and probably other fields too. Find out who?
 - [ ] 
 
 ---
