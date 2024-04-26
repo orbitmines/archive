@@ -42,10 +42,12 @@
 *Items sometimes tell a story of how, ..., where they're made, but it's not always clear *
 
 *Items effect World Generation ; What you have found changes what you can find.*
+
 *Items can be dropped ; You can forget, ..., leave easter eggs for others to find.*
 *Items can be dropped to change World Generation*
 
-*Items can be copied, ..., can spread.*
+*Items can be copied, ..., spread.*
+
 
 *Now this is what functions and data are.*
 
