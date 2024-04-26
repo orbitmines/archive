@@ -17,9 +17,9 @@ Comments on [[2024-04-05]]
 
 ---
 
+[[ONGOING Project Logistics - OrbitMines Bot]]
 - [ ] This entire thing should be compiled into a writing/study of existing stuff
-
-- [ ] Measurement of category if diversity for the thing its useful for
+- [ ] Measurement of category if diversity for the thing its useful for ; this is essentially the "closeness idea" ; "How "
 - [ ] 
 
 ---
