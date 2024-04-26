@@ -21,7 +21,7 @@
 		[[ONGOING Project - Social - Livestreaming]]
 
 ###### Open explorations/quests
-*Explorers, researchers, ..., pirates: Gatherers of knowledge unknown to some, ... all*
+*Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
 - [ ] [[Project - Research towards Designs (2024)]]
 - [ ] [[Project - Indexing existing Abstract Models (2024-2025?)]]
 - [ ] [[INDEFINITE Project - Education (2027+?)]]
