@@ -29,7 +29,9 @@ Comments on [[2024-04-05]]
 	- [ ] There are probably many people who are thinking about something like this in biology, and probably other fields too. Find out who?
 	- [ ] What are mistakes in trying to spin up new projects/languages? 
 		- [ ] This could involve people who are interested in studying researchers/projects. Find out who?
-- [ ] 
+	- [ ] Compiled grammar vs analysis of runtimes?
+- [ ] *Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
+	- [ ] Compile a list of people who nee
 
 ---
 
@@ -86,7 +88,7 @@ Comments on [[2024-04-05]]
 - [ ] What are mistakes in trying to spin up new projects/languages?
 - [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
 	- [ ] Apply this question again by loosely changing constraints?
-- [ ] Compiled grammar vs analysis of runtimes?
+
 - [ ] *Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
 ### Some other ways of possibly extending this list (non-completed tangents):
 
