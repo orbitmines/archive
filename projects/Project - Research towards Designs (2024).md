@@ -38,5 +38,6 @@ It's very simple:
 
 - Functionality
 	- Ignorance/dropping of any structured (say explicitly kept history or others), when used for something (say matching aspects of it to others structures etc..)
-	- (Random) exploration (; worlds/items/..)
+	- (Random) exploration (; worlds/items/..) ; Phrasing "random exploratory funtionality" ; "Periodic reminder/suggestion/exploration"
+		- "What are places I haven't looked? What are the places I could want to look? What are the places I decide not to look but would still want too look?"
 	- Better replay ; "replay/detective/.../fossile"
