@@ -7,9 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="KitPvPVIPPerks" />
-    <orderEntry type="module" module-name="Survival(Old)" />
-    <orderEntry type="module" module-name="Survival" />
     <orderEntry type="module" module-name="Survival(Old2)" />
+    <orderEntry type="module" module-name="Survival(Old)" />
+    <orderEntry type="module" module-name="KitPvPVIPPerks" />
+    <orderEntry type="module" module-name="Survival" />
   </component>
 </module>
