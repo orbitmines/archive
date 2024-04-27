@@ -12,7 +12,7 @@ What to do with it
 - [ ] Track interface movements. (Some directionality seen as temporal as to interface inputs.) 
 	- [ ] Note on interface logging  "Since it's essentially a keylogger"
 - [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
-
+- [ ] Becomes a story of redundancy/copies, could maybe move this file to [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
 - [ ] [USENIX Enigma 2016 - Timeless Debugging](https://www.youtube.com/watch?v=eGl6kpSajag) ; *George Hotz*
 
