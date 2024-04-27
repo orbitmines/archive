@@ -16,12 +16,12 @@ Comments on [[2024-04-05]]
 
 
 ---
-#### Some interesting/pending questions regarding this project:
+##### Some interesting/pending questions regarding this project:
 *[[ONGOING Project Logistics - OrbitMines Bot]]*
 
 - [ ] **People:** Are there people who have compiled something like this yet?
 	- [ ] Are there people who have been thinking about game-invariant puzzles?
-	- [ ] There are probably many people who are thinking about something like this in the context of biology, and probably other fields too. Find out who?
+	- [ ] There are probably many people who are thinking about something like this in the context of biology, and probably other fields too. Find out who
 	- [ ] This could involve people who are interested in studying researchers/projects. Find out who?
 - [ ] **Logistics:** This entire thing should be compiled into a writing/study of existing stuff
 - [ ] **Differentiation:** Measurement of category if diversity for the thing its useful for ; this is essentially the closeness idea ([More usefully: How much do I need to change/ignore before they're the same to me?](https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=More%20usefully%3A%20How%20much%20do%20I%20need%20to%20change/ignore%20before%20they%27re%20the%20same%20to%20me%3F)) 
@@ -33,6 +33,7 @@ Comments on [[2024-04-05]]
 	- [ ] Compiled grammar vs analysis of runtimes?
 		- [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
 		- [ ] Apply this question again by loosely changing constraints?
+
 - [ ] **Legal:** *Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
 	- [ ] Compile a list of people who need to be contact for this.
 
@@ -88,6 +89,9 @@ Comments on [[2024-04-05]]
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
 
+
+
+- [ ] *Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
 ### Some other ways of possibly extending this list (non-completed tangents):
 
 - [ ] Like [[Liubov Tupikina]]'s projects ; Papers, all these journals listed below. Associated with code, bridge these things.
