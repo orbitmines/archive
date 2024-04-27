@@ -33,7 +33,6 @@ Comments on [[2024-04-05]]
 	- [ ] Compiled grammar vs analysis of runtimes?
 		- [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
 		- [ ] Apply this question again by loosely changing constraints?
-
 - [ ] **Legal:** *Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
 	- [ ] Compile a list of people who need to be contact for this.
 
@@ -82,15 +81,15 @@ Comments on [[2024-04-05]]
 - [ ] https://github.com/kosmos/awesome-generative-art
 - [ ] [[Obsidian]], [[notion.site]], other IDEs, [typecell](https://www.typecell.org/), [starboard](https://starboard.gg/), 
 - [ ] [manim](https://github.com/3b1b/manim), [threejs.org](https://threejs.org/), 
-- [ ] Like the probabalistic programming languages and world 
+- [ ] Like the probabilistic programming languages and world generation techniques ; index existing those generation techniques like Perlin Noise, things like that.
+	- [ ] Link to how it's currently done within games ; Minecraft as a simple example.
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
 
-
 ### Some other ways of possibly extending this list (non-completed tangents):
 
-- [ ] Like [[Liubov Tupikina]]'s projects ; Papers, all these journals listed below. Associated with code, bridge these things.
+- [ ] Like [[Liubov Tupikina]]'s projects ; Papers, 
 
 - [ ] All the people I've followed GitHub, Twitter, (mutual Discord servers) etc... & some distance away as preference
 - [ ] Quick/automatic GitHub/.../Gitlab search.
