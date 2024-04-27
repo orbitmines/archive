@@ -6,6 +6,7 @@
 *The GBG but the solution to The GBG is The GBG.*
 *Could also just go here: A minimap of how the metaverse is actually going to happen. And accidentally rename something to the fadiverse along the way.*
 *The Linux of programming languages*
+
 ###### Infrastructure - Minimal setup
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
 	- [ ] [[Chyp (Cospans of HYPergraphs)]]
