@@ -34,8 +34,7 @@ Comments on [[2024-04-05]]
 	- [ ] Compiled grammar vs analysis of runtimes?
 		- [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
 		- [ ] Apply this question again by loosely changing constraints?
-	- [ ] What mistake in indexing multiple levels of descriptions ; Non-
-
+	- [ ] What mistake in indexing multiple levels of descriptions ; Non-overlap, points resulting in confusion etc..
 
 ---
 
