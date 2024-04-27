@@ -82,8 +82,7 @@ Comments on [[2024-04-05]]
 - [ ] https://github.com/kosmos/awesome-generative-art
 - [ ] [[Obsidian]], [[notion.site]], other IDEs, [typecell](https://www.typecell.org/), [starboard](https://starboard.gg/), 
 - [ ] [manim](https://github.com/3b1b/manim), [threejs.org](https://threejs.org/), 
-- [ ] Like the probabilistic programming languages and world generation techniques ; index existing those generation techniques like Perlin Noise, things like that.
-	- [ ] Link to how it's currently done within games ; Minecraft as a simple example.
+- [ ] Like the probabalistic programming languages and world 
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
