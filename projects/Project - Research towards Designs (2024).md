@@ -31,6 +31,7 @@ It's very simple:
 
 #### Interface Design
 - Any interface, hooks(/finds) unbound controls. Any follow-up changes hence possibly effected. Can be unbound, superposed, etc.. 
+	- ; Latching of controls, defaults of controls from context 
 - Existing interfaces
 
 - Personalized world, ..., workspace
