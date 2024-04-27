@@ -32,6 +32,7 @@ It's very simple:
 #### Interface Design
 - Any interface, hooks(/finds) unbound controls. Any follow-up changes hence possibly effected. Can be unbound, superposed, etc.. 
 	- ; Latching of controls, defaults of controls from context. ; Additional controls based on kind of interface etc..
+	- Basically move this aspects to [[Project - Indexing existing Abstract Models (2024-2025?)]]
 - Existing interfaces
 
 - Personalized world, ..., workspace
