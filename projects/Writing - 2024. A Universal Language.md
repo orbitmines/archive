@@ -5,8 +5,8 @@ Header
 
 Introduction
 - The problem is not .. it's missing tools to think across fields. 
-- Most definitions and/or names of things assume some perspective. Make it hard to generalize.
-
+	- Most definitions and/or names of things assume some perspective. Make it hard to generalize.
+	- 
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
 - Reference to existing ideas. This is the generalization of many ideas, it would be ...
