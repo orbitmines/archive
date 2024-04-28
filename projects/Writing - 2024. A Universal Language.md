@@ -69,6 +69,7 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 
 ##### Dynamics
 - Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.
+- Wrong dynamics from a particular perspective, often probably still keep traversing.
 
 ---
 
@@ -116,14 +117,8 @@ At every branch comtains the one added thing necessary for spliiting the vranch 
 
 ---
 
-Even wrong program dynamics still work
-
----
-
 - ? Better variant of : *Compose as Equivalence as Compose*
 	- Equivalence at continuation is parallel composition
-
-See () for am introduction into some of these visualizations and my thinking. Oor () if you like ..
 
 #### Existing Ideas
 - [ ] Usual way of thinking about vertices/edges is more like a single arbitrary ray which defines in/out going rays along it. 
