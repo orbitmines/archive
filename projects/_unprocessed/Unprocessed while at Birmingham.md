@@ -17,8 +17,6 @@ Spreads ro sll possible until another is better and the kthers contracts, adterc
 
 ---
 
-rsy visualizations together  
-  
 recursive generation etc .  
   
 for index go through discord, zulip users of...  
@@ -26,10 +24,7 @@ for index go through discord, zulip users of...
 compile lists of peojects  
   
   
-35 m  
-  
 live roadmap, history can be seen here  
-  
   
 hidden something learning vertically not ?  
   

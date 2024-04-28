@@ -22,6 +22,8 @@ People's work I've read, unis, profs, ??, erc, game funds, followed, directors,
 
 ---
 
+- [ ] Live roadmap, history, completion steps.
+- [ ] L
 ###### Infrastructure - Minimal setup
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
 	- [ ] [[Chyp (Cospans of HYPergraphs)]]
