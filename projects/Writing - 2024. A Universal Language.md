@@ -13,6 +13,7 @@ Introduction
 		- Covariant computation & [[Jonathan Gorard]]'s mentioning of graphs
 	- The [[Bob Coecke]] & [[Stephen Wolfram]] conversation, Bob Coecke's work
 	- [[Chyp (Cospans of HYPergraphs)]] & [[Aleks Kissinger]]
+		- ```// Accompanied by a simple implementation of <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Aleks Kissinger\'s Chyp (Cospans of HYPergraphs)', link: 'https://github.com/akissinger/chyp', authors: [{name: 'Aleks Kissinger'}]}} />
 	- [[Alexander Grothendieck]]
 	- Lingua Universalis
 	- Infrageometry
