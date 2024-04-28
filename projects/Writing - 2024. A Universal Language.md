@@ -15,11 +15,10 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 How to specify any vs all in a case like this?. Place it at the level which checks the equiv, default is any. Then all if applied on INITIAL not VERTEX.
 
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` ..
-
 `.and` compose terminal/initial
-`.traverse` places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
-`.all / .map`
-`.any` becomes ignorant of `.all`, pick something, or allow in parallel from .
+`.traverse / .all / .map / .any`
+- becomes ignorant of `.all`, pick something, or allow in parallel from this perspective.
+- places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two? 
 
 ---
