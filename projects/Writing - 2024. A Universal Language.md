@@ -46,7 +46,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
-- `qubit / complex numbers` is a binary superposition, ..., self-loop, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision).
+- `qubit / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
 
 Local .orbit instead of composing at .terminal? ; pulling to this
 
@@ -89,10 +89,10 @@ Usual superposition is where every entry of an arbitrarty direction only referen
 
 
 Equivalency ray at `.self` traversed = Projective plane. ?
+
 Does it make sense from a mathematical POV that this thing could be a recursive definition of a projective plane but then (partially?) accessible as a calculus?
 
 Change only locally, but global effects
-
 
 Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction? SHould ahve a better handle on those ideas.
 
