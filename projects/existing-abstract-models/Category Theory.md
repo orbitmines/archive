@@ -88,17 +88,12 @@ qubit as/ 'linear superposition'
 
 - [ ] 'Is accessible/nonaccessible' generalizable to the frame and directoinality?
 
-- [ ] What other implementations of category theory are there apart from [[Jonathan Gorard]]'s [[Categorica]]? 
-
 - Temporal history of usages replacing testing/changes made in functionality assuming the memory capacicity is consistent in some nontrivial way./ (alluding to the directinoality of ignorant morphisms in a category)
 
 - [ ] direction on intial & each terminal as both continuation and reference to instantiation at all the extremes
 
-Following some difficulties in communicating the ideas expressed in this paper to [[Jonathan Gorard]], I decided to compile its ideas to other academic fields..
-
-- Identity arrow // Self-loop // Binary Superposition (Hyperedge)
 - Opposite dual / Initial/terminal? / Needs a direction in which the opposite
--
+
 - [ ] How to make this idea more clear of ignorantly selecting the frame/node. In order to equivalate them, the direction needs to be present. (Now this doesn't necessarily need to be directly accessilbe at any level of description, but the direction which would turn into that if explored (as a temporal direction, needs to be there))
 
 
@@ -148,8 +143,6 @@ Multiway / monoidal ; quite obvisou why / splutting of, hence tensor products (c
 
 Take some dual, reference one part of it at the frame as enumartion which defines the other side of the dual.
 
-
-
 - [ ] How to conceptualize the selection or collapsing of a binary superposition (assuming the model itself is phrased as I currently conceptualize it), describing some other system. (Is it merely as simple as shrinking the frame by one)
 
 ; The moving to the frame of some hyperedge seems to be the same as coarse-graining, somewhat intuitively. - You know how many connections are there, not where in the sequence/position that is the frame.
@@ -158,17 +151,13 @@ Take some dual, reference one part of it at the frame as enumartion which define
 
 ; operator ; function, complex number binary linear
 
-
-
 ---
 
 ; Branchial graphs being some frame defined on an initial/terminal frame?
 
-
 ---
 
 holographic principle from infinity-1-topos?
-
 
 alpha equivalence / up to isomorphism / same idea..
 ; [[Jonathan Gorard]] mentioned some 'not saying equal' in category theory ; and mentioned some non-exiistence of an n- (probably generailized ) variant of this - which this conceptualization might be.
