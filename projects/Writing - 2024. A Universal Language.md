@@ -31,6 +31,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
 
+`composition - equivalence - >` ; up the arity?
 
 Local .orbit instead of composing at .terminal? ; pulling to this
 
