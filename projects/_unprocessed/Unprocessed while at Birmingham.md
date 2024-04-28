@@ -1,20 +1,4 @@
 
-email all people who's work I've read?  
-email all ??, head of programming  
-email unis  
-email profs  
-email idfk  
-email nlnet again, f  
-erc, all funds, game stupid shit  
-email the people that followed me  
-email worldindata folks,  
-nwo head, email directors or something...
-
-exploration  
-  
-Composed funding, all these itgers  
-  
-  
 I wrote parts of this mostly out of annoyance at my inability to convince people to fund the thing  
   
 old variant  

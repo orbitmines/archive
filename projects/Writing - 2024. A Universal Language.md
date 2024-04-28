@@ -1,7 +1,5 @@
 *Let's try for [[2024-05-31]]*
 
-Tagging/sharing
-People's 
 
 Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
