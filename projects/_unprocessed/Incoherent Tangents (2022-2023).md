@@ -1,3 +1,11 @@
+
+Cognition
+[[2023-12-19]]
+It wouldn't surprise me if someone who was blind has a better capability to navigate visually/abstractly in much more detail than those who can see. (; usually?)
+
+
+---
+
 - [ ] Some formalization, why infinite but not matching certain continuations? "excluded"  as it were
 ---
 
