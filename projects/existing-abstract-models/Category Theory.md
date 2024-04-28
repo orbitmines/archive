@@ -59,6 +59,8 @@ https://en.wikipedia.org/wiki/Transfinite_number
 ###### Crosscompiling Category Theory and Rays.
 ###### [[Homoiconicity|Homoiconic]] Category Theory? - does that make sense?
 
+Some random stupid names: "Crosscompiling Category Theory and Rays, Homoi"
+
 ---
 
 ### Homotopy/Homoiconic
@@ -68,13 +70,7 @@ Garphical homoiconicity/homotopy, yhe abstract lattern is there, but fits a gene
 
 [[Homotopy Type Theory (HoTT)|Homotopy]] if there's nothing in between in some space (so on some other level of description), collapse to one point. In this interpretation how to differentiate between the levels of descriptions (directuonalitirsa) whoch to collaps, which to preserve
 
-
----
-
 Can this structure be provably the simplest to (can even be proven?) describe and have [[Homoiconicity]] through ignorances
-
----
-lookyp history of usage on the term [[Homoiconicity]], or a similar conept
 
 ---
 

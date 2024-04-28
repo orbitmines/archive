@@ -10,3 +10,7 @@ General theory of graphs? ; As [[Jonathan Gorard]] referenced it
     - Outlining a procedure for creating such a categorical representation of any formal theory.
     - Constructing some ‘common’ categorical structures to be the images of newly built [[Categorica#AbstractFunctor]] expressions. 
   - ![[Adam Millar]]
+
+---
+
+- History of Homoiconicity?
