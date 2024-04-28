@@ -27,7 +27,7 @@ Free category / transitive closure, basically would mean that all the initial/te
 algebraic (i.e. many-to-1 operations) 
 coalgebraic (i.e. 1-to-many)
 
-Some random stupid names: 
+###### Some random stupid names: 
 *Crosscompiling Category Theory and Rays*
 *Homoiconic Category Theory*
 *A category theoretical interpretation of recursive/homoiconic hypernetworks*
@@ -46,10 +46,6 @@ Can this structure be provably the simplest to (can even be proven?) describe an
 ---
 
 If some underlying level of description doesn't match the relations at the other level of description we're using for equivalencies / hence homotopies. Then don't permit the invariance/variance and force no difference. Hence any equivalencr necessarily implies possible homotopies. Whether those spaces can actually be differentiated between to create infinite continuous differences between those points ss enumeration of possible homotopies isn't necessarily that obvious in the embedded space ; the underlying level of description  
-
----
-
-###### It might help intuitive understanding to phrase that abstractly, in this structure there is no difference between elements, and the structure that encodes how they are structured together. --> This needs much clearer phrasing
 
 ---
 
@@ -74,7 +70,7 @@ Grouping these concepts
 - [ ] Superposition if two directionalities cross more than once?
   - What about a frame which has a superposition at initial/terminal/frame/
 Initial/terminal domain/codomain (co, again, the dual...)
-- [ ] identity function being binary superposition
+
 qubit as/ 'linear superposition'
 
 ---
