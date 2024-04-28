@@ -204,6 +204,8 @@ Comments on [[2024-02-22]]
 	- [ ] [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
 	- Compiler toolchains etc..
 		- [XLA](https://openxla.org/)
+	- RDNA3, (Tinygrad's RDNA3 emulator) etc..
+	- chiups have these things calls efuses, you can burn them to disable/enable (cant be unburned) ; hardware changes.
 	- [ ] https://github.com/gnif/LookingGlass (... others, throughput channels ..)
 	- [ ] https://binvis.io/#/
 	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), 
