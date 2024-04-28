@@ -15,7 +15,7 @@ Many of these steps are still quite uncertain, but the direction is clear.
 Bit of frustration while at Birmingham
 - Don't expect people to navigate the site, just assume people are not explorative enough to do that, and put all the shit of the entire project on a single page
 - Don't expect people to understand the scope of the project I'm not searching I've found the damn thing and now it's implementation time  
--
+- "Reach out - but actually do ; I'm always curious as to your projects or why this peaks your interest "
 ---
 
 ###### Infrastructure - Minimal setup
@@ -29,6 +29,7 @@ Bit of frustration while at Birmingham
 ###### Ongoing Logistics
 [[ONGOING Project Logistics - OrbitMines Bot]]
 	[[ONGOING Project - Funding]]
+		This project needs funding, or reach me at:  
 		"SIDN rejected but good feedback when asked for clarification, will resubmit"
 		"NLnet, rejected, no response when asked for feedback"
 		"NLnet, rejected, sent [] to ask for feedback"

@@ -1,9 +1,6 @@
 
-People don't reach out if you're reading this, and find it interesting please do reach out on : discord etc.. I'm always curious as to your projects or why this peaks your interest  
-  
-This project needs funding, or reach me at:  
-  
-  
+
+
 email all people who's work I've read?  
 email all ??, head of programming  
 email unis  
