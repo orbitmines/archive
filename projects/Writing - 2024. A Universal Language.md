@@ -5,6 +5,10 @@ Introduction
 
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
+- Reference to existing ideas. This is the generalization of many ideas, it would be ...
+	- existing projects (infrageometry, lingua universalis, kissinger etc...) in the introduction or the first few things after the introduction, but this for now
+	- W
+
 
 visualization
 Small ring outline in continuation + vertex?
@@ -47,7 +51,6 @@ Actual superposition or branching was in the case of overlap?
 ---
 
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
-- [ ] Not quite sure about the last paragraph of whether to mention existing projects (infrageometry, lingua universalis, kissinger etc...) in the introduction or the first few things after the introduction, but this for now
 
 ---
 
