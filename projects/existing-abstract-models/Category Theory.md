@@ -21,16 +21,13 @@ Free category / transitive closure, basically would mean that all the initial/te
 ---
 
 #### People
-- [[Saunders Mac Lane]]
-- [[Samuel Eilenberg]]
-- [[Gregory Maxwell "Max" Kelly]]
+- [[Saunders Mac Lane]], [[Samuel Eilenberg]], [[Gregory Maxwell "Max" Kelly]]
 - [[William Lawvere]]
 - [[André Joyal]]
 
 ---
 algebraic (i.e. many-to-1 operations) 
 coalgebraic (i.e. 1-to-many)
-
 
 Some random stupid names: 
 *Crosscompiling Category Theory and Rays*
