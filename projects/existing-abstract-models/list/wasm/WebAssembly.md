@@ -54,25 +54,12 @@ Use the structure modelled of WebAssembly (binary representation) as the encodin
 
 ### WebAssembly redundancies
 
-Define all these conclusions drawn which don't actually use wasm code, as assumptions (which need to be validated in some sense or could possible be violated by the implementstion of the wasm abstraction.
-
-; Actual computation in the universe would be nonteivially different, so it's hard to say what the impacts of such a thing actually are.
-
 We use up resources in order to allow for the awareness of some conceived invariance (symmetry), which lowers the search space (if that route is chosen), but interestingly increases possible interactions (does this increase/decrease the search space?) out of this realization of invariance. ; we remove some redundancy by setting up this invariance. (if the storage of this invariance realization is lower than the possibilities enabled by this invariance) ; One is basically setting up a possible nontrivial superposition through that invariance.;
 
-An additional problem, that even though we abstractly realize these possible redudnandcies, that doesn't necessarily make it trivial to 'skip them' as it were, computationally.
-
-These redundancies change the space?
-
 ---
-
-There are probably people who have realized many redundancies in wasm binaries, so let's look them up.
-
-
---
 
 utf-8, hence internally one might realize a certain equivalency between the use of the encoding, the encoding itself is abstractly only defined to be related to in a specific way, not encoding some non-trivial global coherence with its usages.
 
-
 ---
+
 Certain strategies: from which scale does it start coimpression in some sense, and at what ratio does it scale, and keeping bounding in mind of what we're trying to compress what's it approaching as a bound...
