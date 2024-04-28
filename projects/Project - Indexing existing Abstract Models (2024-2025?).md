@@ -64,11 +64,12 @@ Comments on [[2024-04-05]]
 - zxlive, [Semagrams.jl](https://github.com/AlgebraicJulia/Semagrams.jl ), 
 - CSS, JavaScript, React (& ecosystem of these things ; React Native), HTML, Bun, ...
 - Character encodings, renderings, groupings, UTF-8
+- [Andromeda](https://github.com/Andromedans/andromeda)
 
 ### Some other names I found but didn't save a link to: 
 - *DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
 - Ro, aUI
-- Ott/Lem, Prose/Sphinx
+- Ott/Lem, Prose/Sphinx, Amulet, 
 
 ##### Some Interface design / ... / visualization / game / generation projects
 *Game-side need to be extended a bit as well*
@@ -83,7 +84,7 @@ Comments on [[2024-04-05]]
 - [quiver](https://github.com/varkor/quiver), [t-SNE](https://distill.pub/2016/misread-tsne/), [distill.pub](https://distill.pub/), [perfect-arrow](https://github.com/ChrisShank/perfect-arrow), [StateML](https://www.stateml.org/), https://azlen.me/gallery/, [Practal](https://github.com/practal), LayerProcGen, https://lazy.so/, [muxViz](https://github.com/manlius/muxViz), [n8n](https://github.com/n8n-io/n8n)
 - [ ] Graph/Visualization to SVG (vector representation. From [[MakerJS]], also: DXF, SVG, PDF, JSCAD CAG, STL, ...).
 - [ ] https://github.com/kosmos/awesome-generative-art
-- [ ] [[Obsidian]], [[notion.site]], other IDEs, [typecell](https://www.typecell.org/), [starboard](https://starboard.gg/), 
+- [ ] [[Obsidian]], [[notion.site]], other IDEs, [typecell](https://www.typecell.org/), [starboard](https://starboard.gg/), Android Studio, ...
 - [ ] [manim](https://github.com/3b1b/manim), [threejs.org](https://threejs.org/), 
 - [ ] Like the probabilistic programming languages and world generation techniques ; index existing those generation techniques like Perlin Noise, things like that.
 	- [ ] Link to how it's currently done within games ; Minecraft as a simple example.
