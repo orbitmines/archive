@@ -183,9 +183,6 @@ l any topos is an adhesive category?
 ; dagger closed symmetric monoidal category -> qm ; coecke
 ; partial order, total order(time)
 
-; covariant computation
-
-
 ;infinity groupois maximially connected so might neceaarilly reference all frames, and has reference alll/determines all strucutres
 
 
