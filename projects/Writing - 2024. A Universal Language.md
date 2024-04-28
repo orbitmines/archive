@@ -47,7 +47,6 @@ something in between.
   
 How to phrase storage as compute? It's using some compute to persist some structure, though we might not know how to use it for anything else than storage, this is essentially the case. All equated as the same resource? Persistence/Compute/Effort/resources  
   
-  
 Actual superposition or branching was in the case of overlap?
 
 ---
