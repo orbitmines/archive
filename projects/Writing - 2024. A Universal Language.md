@@ -93,6 +93,9 @@ VERTEX-> VERTEX FROM INTIAL/TERMINAL MEANS NO ACCESS TO IN BETWEEN - hence we ca
 
 data, basically change parametsrs til you find somer which are so unsual to the one's currently, whaat does that look like using the same visualziation
 
+
+the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
+
 ---
 
 ---
