@@ -117,9 +117,6 @@ At every branch comtains the one added thing necessary for spliiting the vranch 
 - ? Better variant of : *Compose as Equivalence as Compose*
 	- Equivalence at continuation is parallel composition
 
-#### Existing Ideas
-- [ ] Usual way of thinking about vertices/edges is more like a single arbitrary ray which defines in/out going rays along it. 
-
 #### No memory
 The basic premise is this, there might be arbitrarily complex structure around me, but I need to start traversing to find out what it looks like. So the screen being a form of memory, and me 
 
