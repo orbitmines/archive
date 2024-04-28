@@ -2,6 +2,7 @@
 
 Introduction
 - The problem is not .. it's missing tools to think across fields.
+- Most definitions and/or names of things assume some perspective. Make it hard to generalize.
 
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
@@ -49,9 +50,8 @@ Traversing `.self`
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
 - "Hyperdistance Oracles in hypergraphs" seems obvious from the perspective of Ray? ; it's just traversing `.self` from some perspective instead of other things.
+- equivalence is an inconsistency from some perspective (and the other way round)
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
-
-equivalence is an inconsistency from some perspective (and the other way round)
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
@@ -80,8 +80,6 @@ Actual superposition or branching was in the case of overlap?
 
 ---
 
-Most definitions and/or names of things assume some perspective
-equivalence = -inconsistency ; from some perspective
 
 How about phrasing that nothing there as traversal branching into a small local black hole. So more structure more of these small black holes, could you phrase energy release as these local realizations of some 'nothing' as the things that have actually built up additional energy you otherwise wouldn't see?
 
