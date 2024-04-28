@@ -117,10 +117,6 @@ split off branching initial remainin o. the temrinal the ret marching along
 
 ---
 
-The interface/data etc just in anyway stored anywhere and just deal with it through some simple interface
-
----
-
 Decentralization  
 Education  
 Metaverse  
