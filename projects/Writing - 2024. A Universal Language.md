@@ -48,6 +48,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
 - `qubit / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
+	- ; So that would be like finding the higher-arity structure there, and selecting it like the vertex on vertex, having it branch. ; 
 
 Local .orbit instead of composing at .terminal? ; pulling to this
 
