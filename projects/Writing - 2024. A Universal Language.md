@@ -17,6 +17,8 @@ Introduction
 	- Infrageometry
 	- 
 
+- A lot of this started with the ide
+
 visualization
 - Small ring outline in continuation + vertex?
 - Intersection on screen been non-intersection in the structure, way of rendering it.
@@ -40,7 +42,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary, `.any` if looking for vertex.
 Traversing `.self` 
-- Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to oarallize like the superposition of a larger structure, hence it breaks on the further away things on .self
+- Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to parallize like the superposition of a larger structure, hence it breaks on the further away things on .self
 - Traversing `.self` without time-step would be a projective plane? ; So this could be relatively be constructed in certain settings.
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
@@ -51,6 +53,7 @@ Traversing `.self`
 
 - `qubit / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
 	- ; So that would be like finding the higher-arity structure there, and selecting it like the vertex on vertex, having it branch off.
+	- ; So similarly, it's infinity groupoids which break the recursion of the stack. So the `.is_orbit`s.
 
 Local .orbit instead of composing at .terminal? ; pulling to this
 
@@ -110,10 +113,6 @@ Trade-off between branching spatial extent
 Invariances at star hence a modular structure might be a necessity physically, forcing necessarily a finite accessible structure possible allowing it to grow?
 
 You cannot have interaction without something like gravity.
-
-It's the infinity groupoids which break the recursion of the stack. .is_orbit
-
-
 
 split off branching initial remainin o. the temrinal the ret marching along
 
