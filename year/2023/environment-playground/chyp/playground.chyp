@@ -1,0 +1,47 @@
+gen f : 2 -> 1 "00ff00"            # green background, default (black) foreground
+gen g : 1 -> 2 "000000" "ffffff"   # black background, white foreground
+gen h : 1 -> 1 "0000ff" "0000ff"   # blue background, blue foreground (i.e. hidden text)
+
+def a = (g * h) ; (h * f)
+ 
+# let b = g * g ; id * sw * id ; f * f
+
+let b = g * g ; sw[0, 2, 1, 3] ; f * f
+let x = a ; a
+
+
+rule bialg : (f ; g) = (g * g ; id * sw * id ; f * f)
+
+rewrite ba1 :
+  f * id ; f ; g ; g * id
+  = id * f ; f ; g ; g * id by assoc
+
+rewrite ba2 :
+  id * f ; f ; g ; id * g
+  = g * f ; id * id * g ; id * sw * id ; f * f ; id * g by bialg
+  = g * g * g ; id * sw[1, 3, 0, 2] * id ; id * f * id * f ; f * f ; id * g by bialg
+  = g * g * g ; id * sw[1, 3, 0, 2] * id ; id * f * g * f ; f * id * id * g ; id * id * sw * id ; id * f * f by bialg
+  = g * g * g ; id * sw[1, 3, 0, 2] * id ; id * f * g * g * g ; id * id * id * sw[1, 3, 0, 2] * id ; f * id * f * id * f ; id * f * f by bialg
+
+gen u : 0 -> 1
+gen m : 2 -> 1
+rule unitL : u * id ; m = id
+rule unitR : id * u ; m = id
+rule assoc : m * id ; m = id * m ; m
+
+rewrite random_monoid_eq :
+  id * u * u * id ; m * m ; m
+  = id * u * id ; id * m ; m by simp(unitL, unitR, assoc)
+
+def m2 = id * sw * id ; m * m
+rewrite another_monoid_eq :
+  u * u * u * u ; m2
+  = u * u by simp(unitL)
+
+#rewrite another_monoid_eq1 :
+#  u * u * u * u ; m2
+#  = u * u by simp(+nodefs, unitL) # fails
+
+rewrite another_monoid_eq2 :
+  u * u * u * u ; m2
+  = u * u by simp(+nodefs, m2_def, unitL) # succeeds again
