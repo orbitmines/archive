@@ -47,7 +47,7 @@ Traversing `.self`
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
-	- "Hyperdistnace Oracles in hypergraphs" seems obvious from the perspective of Ray ; it's just traversing `.self` from some perspective instead of other things.
+- "Hyperdistance Oracles in hypergraphs" seems obvious from the perspective of Ray? ; it's just traversing `.self` from some perspective instead of other things.
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
@@ -100,8 +100,6 @@ Change only locally, but global effects
 Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
 
 it';s the freference thing, evidently you can reference things without a direction connection, the point is not to ignore that idea, but to try to find a way to phrqase that that's possible to setup
-
-"HYperdistnace Orcales in hypergraphs" seems obvious from the perspective of Ray
 
 VERTEX-> VERTEX FROM INTIAL/TERMINAL MEANS NO ACCESS TO IN BETWEEN - hence we can compose terminals without access in between. Then describe those in other 
 
