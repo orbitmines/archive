@@ -1,14 +1,5 @@
 
-All ongoing projects in a single overview.  
-  
-  
-percolation  
-  
 back and forth of anything, what bunss to what that way just one direction or many
-
----
-
-This is a live document generates from here
 
 ---
 

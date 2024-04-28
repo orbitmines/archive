@@ -7,6 +7,9 @@
 *Could also just go here: A minimap of how the metaverse is actually going to happen. And accidentally rename something to the fadiverse along the way.*
 *The Linux of programming languages*
 *A world in which learning, science, ..., engineering are all an exploratory game.*
+*All ongoing projects in a single overview.*
+
+Many of these steps are still quite uncertain, but the direction is clear.  
 
 ###### Infrastructure - Minimal setup
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
