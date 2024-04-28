@@ -142,10 +142,6 @@ Even wrong program dynamics still work
 
 ---
 
-```ts 
-// TODO: It's, rende rboth draw equivalence, then ignore the difference from either perspective or take some middle thing. - Line from both ends, also vertex? (or take the pos, take the x from one/other, y from the other/..)  
-```
-
 - ? Better variant of : *Compose as Equivalence as Compose*
 	- Equivalence at continuation is parallel composition
 
