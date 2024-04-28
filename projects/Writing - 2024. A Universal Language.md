@@ -45,7 +45,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary, `.any` if looking for vertex.
 Continuity
-- vertext->vertex from initial/terminal means no access in between.
+- vertex->vertex from initial/terminal means no access in between.
 Traversing `.self` 
 - Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to parallize like the superposition of a larger structure, hence it breaks on the further away things on .self
 	- Trade-off between branching spatial extent
@@ -99,7 +99,7 @@ Can implement the ignorances through those traversal layers on branches which do
 
 it';s the freference thing, evidently you can reference things without a direction connection, the point is not to ignore that idea, but to try to find a way to phrqase that that's possible to setup
 
-VERTEX-> VERTEX FROM INTIAL/TERMINAL MEANS NO ACCESS TO IN BETWEEN - hence we can compose terminals without access in between. Then describe those in other 
+
 
 data, basically change parametsrs til you find somer which are so unsual to the one's currently, whaat does that look like using the same visualziation
 
