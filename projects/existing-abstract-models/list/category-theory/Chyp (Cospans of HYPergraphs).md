@@ -2,7 +2,6 @@
 GitHub:
   - https://github.com/akissinger/chyp
 ---
-- [[2023-12-31]]: CHYP + Minecraft Sugar = OrbitMines
 
 https://github.com/orbitmines/orbitmines.com/pull/5
 
