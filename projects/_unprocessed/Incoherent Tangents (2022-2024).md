@@ -1,4 +1,7 @@
 
+[[2024-04-06]]
+3 dimensional sphere to outside of the sphere 7 dimension, lowrr topology Nick Hu mentioned  
+
 [[2024-03-11]]
 water light simluationr redications
 
