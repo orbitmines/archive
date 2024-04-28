@@ -1,5 +1,7 @@
 *Let's try for [[2024-05-31]]*
 
+
+
 visualization
 Small ring outline in continuation + vertex?
 
