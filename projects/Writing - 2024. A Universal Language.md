@@ -19,6 +19,7 @@ How to specify any vs all in a case like this?. Place it at the level which chec
 `.traverse / .all / .map / .any`
 - becomes ignorant of `.all`, pick something, or allow in parallel from this perspective.
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
+- `.all` / `.any` pending/.../lazy to generate things from those pointers.
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two? 
 
 ---
