@@ -99,8 +99,6 @@ Complex number of a qubit boplean os the boolean with sifferentiable in between 
 
 Trade-off between branching spatial extent
 
-.last is direction of the ray,
-
 ---
 
 Invariances at star hence a modular structure might be a necessity physically, forcing necessarily a finite accessible structure possible allowing it to grow?
