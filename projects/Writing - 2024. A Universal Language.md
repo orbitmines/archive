@@ -1,5 +1,32 @@
 *Let's try for [[2024-05-31]]*
 
+process
+is_equiv = a.self().traverse().is_orbit(b.self().traverse())  
+Basically: does there exist a single connection between the two?  
+  
+Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
+  
+Reverse direction as teo points. Need a good intuition for this. Basically one of tep values selected and the switching of direction to the other way. Perhaps similarly a tep step modular structure of which you can see the intial/terminals being swapped. Is_equiv if can tell the difference and ignore, is_orbit if cannot  
+  
+What does this structure for logic look like - get an intuition.  
+  
+How to specify any vs all in a case like this?. Place it at the level which checks the equiv, default is any. Then all if applied on INITIAL not VERTEX.
+
+as_x should automatically allow for doing that with existing structure? does that do anything?  
+  
+remove .and and assume multiline as and, but parallel if can?
+
+---
+
+Different perspectives to mapp all functionality to different method names.  
+  
+  
+And in the case of .orbit on one thing, it's already assumed to be connected one way, connect it the other way.
+
+Homotopy equivalence thing for collapsing an entire graph/ray to a single point is similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
+
+---
+
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail

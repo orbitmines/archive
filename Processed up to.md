@@ -1,1 +1,1 @@
-[[2023-12-07]] public/archive/year/2023/daily
+[[2023-12-07]]
