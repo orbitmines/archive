@@ -101,7 +101,6 @@ Same with unordered/ordered, depends on perspective can be voth
 
 Complex number of a qubit boplean os the boolean with sifferentiable in between steps based on the precission of the thing asking which vlaue at the boolena it is
 
-
 Trade-off between branching spatial extent
 
 ---
