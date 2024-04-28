@@ -4,6 +4,8 @@ Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
 Introduction
+I suspect that a large numbers of problems arise from a rather simple conceptual mistake. And perhaps calling it a mistake, is itself a mistake - for we always 
+
 - The problem is not .. it's missing tools to think across fields. 
 	- Most definitions and/or names of things assume some perspective. Make it hard to generalize.
 	- Similar to things like references: In
