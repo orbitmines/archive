@@ -39,6 +39,8 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary, `.any` if looking for vertex.
+Traversing `.self` 
+- Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to oarallize like the superposition of a larger structure, hence it breaks on the further away things on .self
 - Traversing `.self` without time-step would be a projective plane? ; So this could be relatively be constructed in certain settings.
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
@@ -111,7 +113,7 @@ You cannot have interaction without something like gravity.
 
 It's the infinity groupoids which break the recursion of the stack. .is_orbit
 
-Like [[Jonathan Gorard]] mentioned inability to paraalize obstruction to causality - in the sense of cant traverse the .self ray fast enough to oarallize like the superposition of a larger structure, hence it breaks on the further away things on .self
+
 
 split off branching initial remainin o. the temrinal the ret marching along
 
