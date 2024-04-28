@@ -41,6 +41,7 @@ Comments on [[2024-04-05]]
 
 - [ ] Whole project makes it necessary to get the practical low-level systems in this too.
 	- [ ] Lookup existing projects in that space, decompilers, interfaces for binary analysis etc..
+	- [ ] BIOS..
 
 ---
 
@@ -69,7 +70,8 @@ Comments on [[2024-04-05]]
 ### Some other names I found but didn't save a link to: 
 - *DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
 - Ro, aUI
-- Ott/Lem, Prose/Sphinx, Amulet, B-pog, lambdapi, [BabylonJS](https://github.com/BabylonJS)
+- Ott/Lem, Prose/Sphinx, Amulet, B-pog, lambdapi, [BabylonJS](https://github.com/BabylonJS),
+- Calculus, Calculus of communication 
 
 ##### Some Interface design / ... / visualization / game / generation projects
 *Game-side need to be extended a bit as well*
