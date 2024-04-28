@@ -20,6 +20,8 @@ Introduction
 
 - A lot of this started with the idea: "You cannot have interaction without something like gravity." ; I think? Probably a question similar to this.
 
+- Local changes..
+
 visualization
 - Small ring outline in continuation + vertex?
 - Intersection on screen been non-intersection in the structure, way of rendering it.
@@ -90,8 +92,6 @@ Ah the rewrite, similar to the structure itself, require the presence answer to 
 3 for the checks (duplication & traversal)
 +3 for the orbit checks?
 and 3 for 
-
-Change only locally, but global effects
 
 Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
 
