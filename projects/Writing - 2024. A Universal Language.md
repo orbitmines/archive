@@ -43,8 +43,7 @@ something in between.
 - Cutoff start from new world, or branch. Or nrw and add certain pieces (how?), nevessitates being able to move back and forward, certain things linked, certain things not  
 - Could use closensss as the initial/twrminal question and addition dimensionalities as the expansion of the additional rays. Could also create some automatic way of folding the ray structures onto a high dimensional tensor which preserves its steucture relative to the functioms applied to them theough gpu. Would have to check whether this is better than writing code in the way things like cuda/hip/ write the gpu kernels for gpgpu  
 - Some way of sharing found items  
-  
-HIP, CUDA, HSA  
+
   
 How to phrase storage as compute? It's using some compute to persist some structure, though we might not know how to use it for anything else than storage, this is essentially the case. All equated as the same resource? Persistence/Compute/Effort/resources  
   
