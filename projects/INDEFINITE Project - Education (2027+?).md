@@ -13,7 +13,7 @@ Simply phrased it's the following: Ignore all the bullshit of education around h
 
 ---
 
-Innovation research, James Evans from Georgia Tech ?
+Innovation research, James Evans from Georgia Tech ? ([[Liubov Tupikina]])
 
 ---
 
