@@ -7,7 +7,7 @@ Introduction
 
 - Reference to existing ideas. This is the generalization of many ideas, it would be ...
 	- existing projects (infrageometry, lingua universalis, kissinger etc...) in the introduction or the first few things after the introduction, but this for now
-	- W
+	- Which others to name/ref.
 
 
 visualization
