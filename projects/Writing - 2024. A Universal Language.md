@@ -74,7 +74,7 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 ##### Physics, ..., Dynamics
 - Some of my intuitions of physics
 
-Refer to [[Jonathan Gorard]]'s work, for more details there. As for example this: 
+Defer to [[Jonathan Gorard]]'s work, for more physics details there. As for example this: ["The boundary of a boundary is always empty."](https://twitter.com/getjonwithit/status/1784599157015007391)
 - Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.
 - Wrong dynamics from a particular perspective, often probably still keep traversing.
 
