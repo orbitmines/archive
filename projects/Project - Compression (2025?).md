@@ -19,7 +19,7 @@ A lot of my current thinking can be linked back to struggling (incredibly naivel
 ---
 
 Process:
-- [ ] [[Incoherent Tangents (2022-2023)]]
+- [ ] [[Incoherent Tangents (2022-2024)]]
 - [ ] [[Incoherent Examples (2022-Early 2023)]]
 - [ ] [[Quantum Physics (2023)]]
 - [ ] [[Unprocessed thoughts (<2024) - Postponed to 2024 thoughts]]

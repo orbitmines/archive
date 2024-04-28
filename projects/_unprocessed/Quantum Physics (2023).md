@@ -76,7 +76,7 @@ Systems
 
 ---
 
-- [ ] Import from [[Incoherent Tangents (2022-2023)]]
+- [ ] Import from [[Incoherent Tangents (2022-2024)]]
 - some notes at [[Joan Simon]] from [[Society for Multidisciplinary and Fundamental Research (SEMF)]]
 
 ---

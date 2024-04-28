@@ -1,4 +1,7 @@
 
+[[2024-02-07]]
+Magic def as something happens without an intermediate step, but then how could you possibly be certain of that?
+
 [[2024-02-05]]
 What di you do in a world where finding something is the hard part, then copying snd redistributing takes resources, but copying is a pretty univerdal resource. This has basically been the transition/history of software?
 
