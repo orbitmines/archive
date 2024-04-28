@@ -226,28 +226,8 @@ l any topos is an adhesive category?
 ![[Graph Percolation Theory]]
 
 ---
-![[Lie Theory]]
 
 ---
-
-![[Ring Theory]]
-
----
-
-![[Knot Theory]]
-
----
-
-![[Type Theory]]
-
----
-
-![[Topology]]
-
-
----
-
-![[Homotopy Type Theory (HoTT)]]
 
 These properties similar to hollonomic; are assumptions of consistency at termination;
 - [Confluence/Global confluence](../../read/wiki/Confluence_(abstract_rewriting).pdf)
