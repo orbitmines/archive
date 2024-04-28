@@ -48,14 +48,14 @@ Directedness also just how it is interpreted?? (at least the difference between 
 algebraic (i.e. many-to-1 operations) 
 coalgebraic (i.e. 1-to-many)
 
-covariant computation (Jonathan gorard, doesnt like the name)
-
 https://juliapoo.github.io/mathematics/2022/12/15/homomorphism-illustrated.html
 
 compiler, impls
 https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 https://github.com/bgavran/Category_Theory_Machine_Learning
 https://en.wikipedia.org/wiki/Transfinite_number
+
+Covariant computation ([[Jonathan Gorard]] doesn't like the name)
 
 Some random stupid names: 
 *Crosscompiling Category Theory and Rays*
