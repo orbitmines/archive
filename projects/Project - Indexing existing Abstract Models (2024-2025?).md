@@ -94,7 +94,7 @@ Comments on [[2024-04-05]]
 - [ ] Like the probabilistic programming languages and world generation techniques ; index existing those generation techniques like Perlin Noise, things like that.
 	- [ ] Link to how it's currently done within games ; Minecraft as a simple example.
 - [ ] [Mesa 3D](https://gitlab.freedesktop.org/mesa), OpenCL, 
-- [ ] [Playcanvas](https://github.com/playcanvas/engine), [Stardust](https://github.com/StereoKit)
+- [ ] [Playcanvas](https://github.com/playcanvas/engine), [Stardust](https://github.com/StereoKit), Wireworld
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
@@ -184,7 +184,7 @@ Comments on [[2024-04-05]]
 		- [XLA](https://openxla.org/)
 	- [ ] https://github.com/gnif/LookingGlass (... others, throughput channels ..)
 	- [ ] https://binvis.io/#/
-	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)]), 
+	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), 
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
