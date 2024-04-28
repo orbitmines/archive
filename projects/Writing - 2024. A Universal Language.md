@@ -109,13 +109,6 @@ split off branching initial remainin o. the temrinal the ret marching along
 
 ---
 
-Decentralization
-Education  
-Metaverse  
-And many standing problems in science
-
----
-
 Grid woth a ray split off on higher abstraction level, shows the loopiness pf the gridd
 
 ---
