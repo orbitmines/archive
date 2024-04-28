@@ -26,6 +26,7 @@ Comments on [[2024-02-22]]
 *[[ONGOING Project Logistics - OrbitMines Bot]]*
 
 - [ ] **People:** Are there people who have compiled something like this yet?
+	- [ ] Setup collaboration for others to add to this
 	- [ ] Are there people who have been thinking about game-invariant puzzles?
 	- [ ] There are probably many people who are thinking about something like this in the context of biology, and probably other fields too. Find out who?
 	- [ ] This could involve people who are interested in studying researchers/projects. Find out who?

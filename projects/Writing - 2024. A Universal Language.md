@@ -19,13 +19,12 @@ as_x should automatically allow for doing that with existing structure? does tha
 
 `.and` compose terminal/initial
 `.traverse` places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
-`.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?    
+`.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two? 
 
 ---
 
 Different perspectives to mapp all functionality to different method names.  
-  
-  
+
 And in the case of .orbit on one thing, it's already assumed to be connected one way, connect it the other way.
 
 Homotopy equivalence thing for collapsing an entire graph/ray to a single point is similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's 
