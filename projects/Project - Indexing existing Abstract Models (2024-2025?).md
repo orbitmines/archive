@@ -14,6 +14,8 @@ Comments on [[2024-04-05]]
 > 
 > Seamless direct (partial) inter-compilation/.../translation of things will probably become much more tractable at some point in the near future ^ Though all the more insane complexity of software/firmware/hardware to me seem to pose the most challenges.
 
+Comments on [[2024-02-22]]
+
 
 ---
 #### Some interesting/pending questions regarding this project:
