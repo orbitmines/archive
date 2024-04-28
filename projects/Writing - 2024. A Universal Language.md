@@ -2,7 +2,6 @@
 
 The problem is not .. it's missing tools to think across fields.
 
-This means better infrastructure for dissemblers
 
 visualization
 Small ring outline in continuation + vertex?
@@ -21,8 +20,8 @@ What does this structure for logic look like - get an intuition.
 How to specify any vs all in a case like this?. Place it at the level which checks the equiv, default is any. Then all if applied on INITIAL not VERTEX.
 
 as_x should automatically allow for doing that with existing structure? does that do anything?  
-  
-remove .and and assume multiline as and, but parallel if can?
+
+`.and` compose terminal/initial
 
 ---
 
