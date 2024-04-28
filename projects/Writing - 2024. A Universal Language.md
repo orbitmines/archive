@@ -100,8 +100,6 @@ Can implement the ignorances through those traversal layers on branches which do
 
 it';s the freference thing, evidently you can reference things without a direction connection, the point is not to ignore that idea, but to try to find a way to phrqase that that's possible to setup
 
-data, basically change parametsrs til you find somer which are so unsual to the one's currently, whaat does that look like using the same visualziation
-
 ---
 
 Invariances at star hence a modular structure might be a necessity physically, forcing necessarily a finite accessible structure possible allowing it to grow?
