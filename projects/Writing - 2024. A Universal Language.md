@@ -74,7 +74,17 @@ Traversing `.self`
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
 ##### Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
+*better name*
 
+The concept is never really direct execution, and if it is, that's often more like ignorance. Basically, arbitrary lazyness. Like this we basically rephrase "output" or "halting" as "what if we assume it halts here". Inaccessible, ..., Ignorant ones turn into the inability to ask that question.  
+
+@see "What if this wasn't the case?" https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=%22What%20if%20this%20wasn%27t%20the%20case%3F%22
+
+In the case of Rays, whether something is a vertex/initial/terminal is only inferred from surrounding context. And these checks only need to happen locally in order to decide how to traverse arbitrary structure (as in - I only need to check the presence of something next to me, not traverse the whole direction recursively in order to decide what to do).
+
+Leaves the following questions:  
+
+- TODO: How about treating something like something which the context says it's not? (Could apply this sort of thing in some fidelity/consistency checking mechanism as a way of fuzzing the fidelity mechanism)
 
 ##### Self-referential operators & multiple abstract implementations
 - Note that whenever you have a self-reference through operators, that requires an implementation to break this self-reference. For example ray functionality only requires initial + negative, or terminal + negative, or initial + terminal, to make all the other three.
