@@ -17,6 +17,7 @@
 ```
 
 - ? Better variant of : *Compose as Equivalence as Compose*
+	- Equivalence at continuation is parallel composition
 
 See () for am introduction into some of these visualizations and my thinking. Oor () if you like ..
 
