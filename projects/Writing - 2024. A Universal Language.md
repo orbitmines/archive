@@ -22,6 +22,8 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
 `.and` compose terminal/initial
+`.terminal / ..`
+	- Move `.self` to `.terminal`
 `.traverse / .all / .map / .any`
 - becomes ignorant of `.all`, pick something, or allow in parallel from this perspective.
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
@@ -31,7 +33,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
 
-`composition - equivalence - >` ; up the arity?
+`composition - equivalence - >` ; up the arity, probably makes less sense?
 
 Local .orbit instead of composing at .terminal? ; pulling to this
 
@@ -115,12 +117,6 @@ split off branching initial remainin o. the temrinal the ret marching along
 ---
 
 The interface/data etc just in anyway stored anywhere and just deal with it through some simple interface
-
----
-
-Yep basically composition is the higehr order variant of equivalence, what does it mean for this to go uo in arity?  
-  
-.traverse is move self to .terminal
 
 ---
 
