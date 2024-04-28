@@ -71,8 +71,9 @@ Comments on [[2024-04-05]]
 - *DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
 - Ro, aUI
 - Ott/Lem, Prose/Sphinx, Amulet, B-pog, lambdapi, [BabylonJS](https://github.com/BabylonJS),
-- Calculus, Calculus of communicating systems, Calculus of Constructions, Coinduction (other statrgies, ... [[nLab]]), [Dawn](https://dawn.googlesource.com/dawn), SInE, LEO-II, Emacs, [Flyspeck project](https://github.com/flyspeck/flyspeck), Fredkin gate, Frobenius algebra, Genaille-Lucas rulers, General-purpose computing on graphics processing units (GPGPU), [Glasgow Haskell Compiler (GHC)](https://www.haskell.org/ghc/), [HypergraphDB](https://github.com/hypergraphdb/hypergraphdb), [IsarMathLib](https://github.com/SKolodynski/IsarMathLib), Intermediate Representation (IR), Interoperable and Confident Set-based Proof Assistants (ICSPA), [JSON-LD](https://github.com/json-ld), Many-sorted logic, [Matryoshka Project](https://github.com/matryoshka-project), Message passing, Modal Type Theory, [OCaml Scientific Computing (OWL)](https://github.com/owlbarn), [Proofcraft](https://proofcraft.systems/), ProofPower, [Qimaera](https://github.com/zamdzhiev/Qimaera), 
+- Calculus, Calculus of communicating systems, Calculus of Constructions, Coinduction (other statrgies, ... [[nLab]]), [Dawn](https://dawn.googlesource.com/dawn), SInE, LEO-II, Emacs, [Flyspeck project](https://github.com/flyspeck/flyspeck), Fredkin gate, Frobenius algebra, Genaille-Lucas rulers, General-purpose computing on graphics processing units (GPGPU), [Glasgow Haskell Compiler (GHC)](https://www.haskell.org/ghc/), [HypergraphDB](https://github.com/hypergraphdb/hypergraphdb), [IsarMathLib](https://github.com/SKolodynski/IsarMathLib), Intermediate Representation (IR), Interoperable and Confident Set-based Proof Assistants (ICSPA), [JSON-LD](https://github.com/json-ld), Many-sorted logic, [Matryoshka Project](https://github.com/matryoshka-project), Message passing, Modal Type Theory, [OCaml Scientific Computing (OWL)](https://github.com/owlbarn), [Proofcraft](https://proofcraft.systems/), ProofPower, [Qimaera](https://github.com/zamdzhiev/Qimaera), Quaternion, Rust, 
 - Git, ..
+- schema.org
 
 ##### Some Interface design / ... / visualization / game / generation projects
 *Game-side need to be extended a bit as well*
@@ -186,7 +187,7 @@ Comments on [[2024-04-05]]
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
-- All the [[PENDING (2027?+) ; Hardware, Physics]] things... String theories, ..., constructor theory etc... 
+- All the [[PENDING (2027?+) ; Hardware, Physics]] things... String theories, Ring Theory, ..., constructor theory etc... 
 	- Expand for any field
 	- https://en.wikipedia.org/wiki/Game_semantics
 	- 
