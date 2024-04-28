@@ -1,6 +1,4 @@
 
-
-
 email all people who's work I've read?  
 email all ??, head of programming  
 email unis  

@@ -29,7 +29,7 @@ Bit of frustration while at Birmingham
 ###### Ongoing Logistics
 [[ONGOING Project Logistics - OrbitMines Bot]]
 	[[ONGOING Project - Funding]]
-		This project needs funding, or reach me at:  
+		This project needs funding, or reach me at:
 		"SIDN rejected but good feedback when asked for clarification, will resubmit"
 		"NLnet, rejected, no response when asked for feedback"
 		"NLnet, rejected, sent [] to ask for feedback"
