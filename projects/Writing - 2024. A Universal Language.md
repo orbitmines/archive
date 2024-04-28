@@ -96,6 +96,28 @@ data, basically change parametsrs til you find somer which are so unsual to the 
 
 the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 
+Same with unordered/ordered, depends on perspective can be voth
+
+Complex number of a qubit boplean os the boolean with sifferentiable in between steps based on the precission of the thing asking which vlaue at the boolena it is
+
+
+Trade-off between branching spatial extent
+
+.last is direction of the ray,
+
+---
+
+Invariances at star hence a modular structure might be a necessity physically, forcing necessarily a finite accessible structure possible allowing it to grow?
+
+You cannot have interaction without something like gravity.
+
+It's the infinity groupoids which break the recursion of the stack. .is_orbit
+
+Like [[Jonathan Gorard]] mentioned inability to paraalize obstruction to causality - in the sense of cant traverse the .self ray fast enough to oarallize like the superposition of a larger structure, hence it breaks on the further away things on .self
+
+split off branching initial remainin o. the temrinal the ret marching along
+
+
 ---
 
 ---
