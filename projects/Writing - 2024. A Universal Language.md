@@ -71,7 +71,17 @@ Ah the rewrite, similar to the structure itself, require the presence answer to 
 +3 for the orbit checks?
 and 3 for 
 
+Somewthing like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.
 
+Usual superposition is where every entry of an arbitrarty direction only references itself on the `.self`. Hence a tensored variant like this in linear time
+
+
+Equivalency ray at `.self` traversed = Projective plane. ?
+Does it make sense from a mathematical POV that this thing could be a recursive definition of a projective plane but then (partially?) accessible as a calculus?
+
+Change only locally, but global effects
+
+---
 
 ```ts
 // TODO: What about showing disconnect when multiple things are rendered at the same position??  
