@@ -12,7 +12,8 @@ Only difference is the assymetry of is_orbit and the consequences of that if sel
   
 Reverse direction as teo points. Need a good intuition for this. Basically one of tep values selected and the switching of direction to the other way. Perhaps similarly a tep step modular structure of which you can see the intial/terminals being swapped. Is_equiv if can tell the difference and ignore, is_orbit if cannot  
 
-`.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` ..
+`.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
+- Switch perspective is switching names of functions
 `.and` compose terminal/initial
 `.traverse / .all / .map / .any`
 - becomes ignorant of `.all`, pick something, or allow in parallel from this perspective.
@@ -32,10 +33,6 @@ something in between.
 
 ---
 
-- could have invariant to what kind of things you see, same space  
-- Or same space which transforms by changing inventory  
-- Or change the space instantly based on changed inventory  
-- Probably more of a mix between all of these.  
 - Cutoff start from new world, or branch. Or nrw and add certain pieces (how?), nevessitates being able to move back and forward, certain things linked, certain things not  
 - Could use closensss as the initial/twrminal question and addition dimensionalities as the expansion of the additional rays. Could also create some automatic way of folding the ray structures onto a high dimensional tensor which preserves its steucture relative to the functioms applied to them theough gpu. Would have to check whether this is better than writing code in the way things like cuda/hip/ write the gpu kernels for gpgpu  
 - Some way of sharing found items  
