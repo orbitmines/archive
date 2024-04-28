@@ -71,7 +71,7 @@ Traversing `.self`
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
-##### Dynamics
+##### Physics, ..., Dynamics
 - Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.
 - Wrong dynamics from a particular perspective, often probably still keep traversing.
 
