@@ -11,6 +11,13 @@
 
 Many of these steps are still quite uncertain, but the direction is clear.  
 
+---
+Don't expect people to navigate the site, just assume people are not explorative enough to do that, and put all the shit of the entire project on a single page
+
+Don't expect people to understand the scope pf the project I'm not searching I've found the damn thing and now it's implementation time  
+
+---
+
 ###### Infrastructure - Minimal setup
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
 	- [ ] [[Chyp (Cospans of HYPergraphs)]]

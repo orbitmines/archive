@@ -1,12 +1,5 @@
 
-back and forth of anything, what bunss to what that way just one direction or many
 
----
-
-Don't expect people to navigate the site, just assume people are not explorative enough to do that, and put all the shit of the entire project on a single page  
-  
-Don't expect people to understand the scope pf the project I'm not searching I've found the damn thing and now it's implementation time  
-  
 Intermediate projects for funding  
 other ways of funding  
   
