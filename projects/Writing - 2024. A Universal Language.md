@@ -11,8 +11,6 @@ process
 Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
   
 Reverse direction as teo points. Need a good intuition for this. Basically one of tep values selected and the switching of direction to the other way. Perhaps similarly a tep step modular structure of which you can see the intial/terminals being swapped. Is_equiv if can tell the difference and ignore, is_orbit if cannot  
-  
-How to specify any vs all in a case like this?. Place it at the level which checks the equiv, default is any. Then all if applied on INITIAL not VERTEX.
 
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` ..
 `.and` compose terminal/initial
