@@ -60,9 +60,6 @@ https://en.wikipedia.org/wiki/Transfinite_number
 ###### [[Homoiconicity|Homoiconic]] Category Theory? - does that make sense?
 
 ---
-Mention this to [[Jonathan Gorard]] in connection to https://www.youtube.com/live/NLkvSC8mpRw?si=hKUiz2ucxXne5taO&t=2978 , saying that an awful lot of exactly what I'm interpreting is similar to category theory - and that ij relating the ideas to category theory I see exactly how it's phrased in both. ... Say still reading/learning up on how to relate it to HOTT, and then modern mathematical foundations debate he mentions here. But that I think it crucially comes down to it's necessarily inconsistent, but does that effect certain types of decision makings/other equivalences/computations.
-
----
 
 ### Homotopy/Homoiconic
 Garphical homoiconicity/homotopy, yhe abstract lattern is there, but fits a general nymber of different ways in which it can be demonstrated graphically, in that direction it's different. Homoiconic in the abstract
