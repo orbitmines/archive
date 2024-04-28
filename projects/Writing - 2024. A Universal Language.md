@@ -1,5 +1,8 @@
 *Let's try for [[2024-05-31]]*
 
+The problem is not .. it's missing tools to think across fields.
+
+This means better infrastructure for dissemblers
 
 
 visualization

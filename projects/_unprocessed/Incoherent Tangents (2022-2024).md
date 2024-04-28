@@ -1,4 +1,7 @@
 
+[[2024-04-18]]
+Is there a word for: "Something happens, filter is put up to deal with it, then it's precisely that filter which becomes the problem."
+
 [[2024-04-06]]
 3 dimensional sphere to outside of the sphere 7 dimension, lowrr topology Nick Hu mentioned  
 
