@@ -189,7 +189,6 @@ l any topos is an adhesive category?
 ;infinity groupois maximially connected so might neceaarilly reference all frames, and has reference alll/determines all strucutres
 
 
-
 - [ ] What makes certain element higher orders of abstraction, is having detail/information of additional structures mapping on the points, which are ignorant (possibly?) of those lower levels, but which one accesses, since they're not ignorant from the level of constructing the abstractions.
 
 - [ ] How to prevent the intuition of wanting to write a new programming language to solve the problem translate to mathematics/category theory ... Is it necessary cross compiling, is it necessary implementing the ideas? How to prevent the thing many people think would solve it but merely relocates the problem?
@@ -197,7 +196,6 @@ l any topos is an adhesive category?
 - [ ] Product is the frame, addition in the direction in which the frames are defined ; hence orthogonal. ; Phrase (non-)commutativity as different structures in some frame/directionality too.
 
 - [ ] How to define the assumption that some ill-defined directionality will end up at some point (assume it ends up at some point) without specifying that in between. -> Probably just as simple as equivalating it on another level of description. Is there any way to this at the level of the description that defines the ill-defined function?
-
 
 - [ ] What is the significance of having both the initial/terminal side and the middle frame be equated on the same frame?
   - [ ] Does a concept like this exist in Category theory? (Some point being both the morphism & object perhaps?)
@@ -209,10 +207,6 @@ l any topos is an adhesive category?
 
 - [ ] Superpositions at initial/terminal ends of the frame, how interpreted? And can the same be said (probably inconsistently) about some selected frame. / Probably a better idea to remove the framing of the word 'frame' as the middle one, and use something else.
 
-- [ ] Compile formulations in nLab (latex?)
-
-- [ ] Identity/Binary superposition/unit?/...
-
 - [ ] Perhaps uncertainty phrased as, assuming that between any time-step I'm defining, arbitrary changes can happen to the graph and that timestep. ; This brakes usual assumptions of associativity ; in which you could specify the assumption of associativity, necessarily requires a form of consistency.
 
 - [ ] I can define forall as a looping directionality which becomes a pattern of enumerating some structure (the thing matching each element), but this doesn't necessarily uniquely define the forall, but it will match it, in the sense of something like a specific one matching with a looping directionality defined, will match it, but doesn't actually have for all. What additional constraint would say something opf "each different, could be exhaustive and either terminal or further enumeration (superposition at the terminal end), but again how a constraint on all possibilities?"
@@ -220,12 +214,6 @@ l any topos is an adhesive category?
 - [ ] How to phrase contravariant?/Profunctor In the sense of having no reversibility (generally), and not being able to match the initial side to some other initial side at the ignorant point/frame. ; Abstractly you can already represent this, so having that possibility already there isn't the issue, its some other constraints which are not kept here, probably in the sense of equating all the steps of the functions as next time steps and only outgoing arrows is next? ; Yes, it's about flowing in one direction (can of course split of into superpositions), and having at my terminal end the definition of the next step (which in category theory is some looping identity/some next step).
 
 - [ ] One gets (using [[Jonathan Gorard]]'s naming of this concept) covariant computation, "out of the box" with this abstraction. - I told him I was thinking similarly at [[Society for Multidisciplinary and Fundamental Research (SEMF)]] after his 3rd lecture. - What was the first time I realized it could be used this way?
-
----
-
-![[Graph Percolation Theory]]
-
----
 
 ---
 
