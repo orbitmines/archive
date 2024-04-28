@@ -71,7 +71,7 @@ Comments on [[2024-04-05]]
 - *DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
 - Ro, aUI
 - Ott/Lem, Prose/Sphinx, Amulet, B-pog, lambdapi, [BabylonJS](https://github.com/BabylonJS),
-- Calculus, Calculus of communicating systems, Calculus of Constructions, Coinduction (other statrgies, ... [[nLab]]), [Dawn](https://dawn.googlesource.com/dawn), SInE, LEO-II, Emacs, [Flyspeck project](https://github.com/flyspeck/flyspeck), Fredkin gate, Frobenius algebra, Genaille-Lucas rulers, General-purpose computing on graphics processing units (GPGPU), [Glasgow Haskell Compiler (GHC)](https://www.haskell.org/ghc/), [HypergraphDB](https://github.com/hypergraphdb/hypergraphdb), [IsarMathLib](https://github.com/SKolodynski/IsarMathLib), Intermediate Representation (IR), Interoperable and Confident Set-based Proof Assistants (ICSPA), [JSON-LD](https://github.com/json-ld), Many-sorted logic, 
+- Calculus, Calculus of communicating systems, Calculus of Constructions, Coinduction (other statrgies, ... [[nLab]]), [Dawn](https://dawn.googlesource.com/dawn), SInE, LEO-II, Emacs, [Flyspeck project](https://github.com/flyspeck/flyspeck), Fredkin gate, Frobenius algebra, Genaille-Lucas rulers, General-purpose computing on graphics processing units (GPGPU), [Glasgow Haskell Compiler (GHC)](https://www.haskell.org/ghc/), [HypergraphDB](https://github.com/hypergraphdb/hypergraphdb), [IsarMathLib](https://github.com/SKolodynski/IsarMathLib), Intermediate Representation (IR), Interoperable and Confident Set-based Proof Assistants (ICSPA), [JSON-LD](https://github.com/json-ld), Many-sorted logic, [Matryoshka Project](https://github.com/matryoshka-project), 
 - Git, ..
 
 ##### Some Interface design / ... / visualization / game / generation projects
@@ -106,7 +106,7 @@ Comments on [[2024-04-05]]
 - Research into https://en.wikipedia.org/wiki/Data_and_information_visualization , also more non-trivival stuff than just plots
 	- https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
 	- https://en.wikipedia.org/wiki/Distributive_property
-	- 
+- Mathematics Genealogy Project
 - 
 	- [ ] https://proofassistants.stackexchange.com/
 - 
