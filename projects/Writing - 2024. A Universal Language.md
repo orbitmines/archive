@@ -4,7 +4,6 @@ The problem is not .. it's missing tools to think across fields.
 
 This means better infrastructure for dissemblers
 
-
 visualization
 Small ring outline in continuation + vertex?
 
