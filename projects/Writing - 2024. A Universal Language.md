@@ -34,6 +34,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 `.terminal / ..`
 	- Move `.self` to `.terminal`
 `.traverse / .all / .map / .any`
+- the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 - becomes ignorant of `.all`, pick something, or allow in parallel from this perspective.
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
@@ -102,8 +103,6 @@ VERTEX-> VERTEX FROM INTIAL/TERMINAL MEANS NO ACCESS TO IN BETWEEN - hence we ca
 
 data, basically change parametsrs til you find somer which are so unsual to the one's currently, whaat does that look like using the same visualziation
 
-
-the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 
 Complex number of a qubit boplean os the boolean with sifferentiable in between steps based on the precission of the thing asking which vlaue at the boolena it is
 
