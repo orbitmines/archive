@@ -63,6 +63,7 @@ equivalence = -inconsistency ; from some perspective
 
 How about phrasing that nothing there as traversal branching into a small local black hole. So more structure more of these small black holes, could you phrase energy release as these local realizations of some 'nothing' as the things that have actually built up additional energy you otherwise wouldn't see?
 
+Perhaps like this: Equality is admission of a difference and the ignorance of it. ; like them semf livestream again
 
 
 ```ts
