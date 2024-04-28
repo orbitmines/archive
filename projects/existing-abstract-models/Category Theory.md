@@ -48,7 +48,7 @@ Directedness also just how it is interpreted?? (at least the difference between 
 algebraic (i.e. many-to-1 operations) 
 coalgebraic (i.e. 1-to-many)
 
-covariant computation (Jonathan gorard, doesnt like the name), POlycomputation michael levin
+covariant computation (Jonathan gorard, doesnt like the name)
 
 https://juliapoo.github.io/mathematics/2022/12/15/homomorphism-illustrated.html
 
