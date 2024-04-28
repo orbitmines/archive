@@ -44,11 +44,14 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 Traversing `.self` 
 - Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to parallize like the superposition of a larger structure, hence it breaks on the further away things on .self
 - Traversing `.self` without time-step would be a projective plane? ; So this could be relatively be constructed in certain settings.
+	- a recursive definition of a projective plane but then (partially?) accessible as a calculus?
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
 - "Hyperdistance Oracles in hypergraphs" seems obvious from the perspective of Ray? ; it's just traversing `.self` from some perspective instead of other things.
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
+
+equivalence is an inconsistency from some perspective (and the other way round)
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
@@ -92,8 +95,6 @@ and 3 for
 
 
 Usual superposition is where every entry of an arbitrarty direction only references itself on the `.self`. Hence a tensored variant like this in linear time
-
-Does it make sense from a mathematical POV that this thing could be a recursive definition of a projective plane but then (partially?) accessible as a calculus?
 
 Change only locally, but global effects
 
