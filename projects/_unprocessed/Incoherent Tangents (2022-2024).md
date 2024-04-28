@@ -1,4 +1,7 @@
 
+[[2024-02-27]]
+You probably wouldn't want to normalize (ie create the pressure that you must) publishing you everything do online - but that's probably what I'm signalling to now
+
 [[2024-02-07]]
 Magic def as something happens without an intermediate step, but then how could you possibly be certain of that?
 
