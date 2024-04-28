@@ -15,7 +15,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 How to specify any vs all in a case like this?. Place it at the level which checks the equiv, default is any. Then all if applied on INITIAL not VERTEX.
 
 as_x should automatically allow for doing that with existing structure? does that do anything?  
-
+`.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse`
 
 `.and` compose terminal/initial
 `.traverse` places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
