@@ -55,7 +55,7 @@ Traversing `.self`
 	- ; So that would be like finding the higher-arity structure there, and selecting it like the vertex on vertex, having it branch off.
 	- ; So similarly, it's infinity groupoids which break the recursion of the stack. So the `.is_orbit`s.
 
-Local .orbit instead of composing at .terminal? ; pulling to this
+Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
 ---
 
@@ -63,7 +63,7 @@ And in the case of .orbit on one thing, it's already assumed to be connected one
 
 ---
 
-- Could use closensss as the initial/twrminal question and addition dimensionalities as the expansion of the additional rays. Could also create some automatic way of folding the ray structures onto a high dimensional tensor which preserves its steucture relative to the functioms applied to them theough gpu. Would have to check whether this is better than writing code in the way things like cuda/hip/ write the gpu kernels for gpgpu  
+- Could use closensss as the initial/twrminal question and addition dimensionalities as the expansion of the additional rays. Could also create some automatic way of folding the ray structures onto a high dimensional tensor which preserves its steucture relative to the functioms applied to them theough gpu. Would have to check whether this is better than writing code in the way things like cuda/hip/ write the gpu kernels for gpgpu
 
 How to phrase storage as compute? It's using some compute to persist some structure, though we might not know how to use it for anything else than storage, this is essentially the case. All equated as the same resource? Persistence/Compute/Effort/resources  
 
