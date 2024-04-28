@@ -110,10 +110,6 @@ split off branching initial remainin o. the temrinal the ret marching along
 
 ---
 
-Grid woth a ray split off on higher abstraction level, shows the loopiness pf the gridd
-
----
-
 At every branch comtains the one added thing necessary for spliiting the vranch for conservation, but that destroys the embedding if that wnats to be prrserved
 
 ---
