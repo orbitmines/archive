@@ -1,11 +1,4 @@
 
-
-Intermediate projects for funding  
-other ways of funding  
-  
-archive, discord github issues  
-  
-  
 People don't reach out if you're reading this, and find it interesting please do reach out on : discord etc.. I'm always curious as to your projects or why this peaks your interest  
   
 This project needs funding, or reach me at:  
@@ -21,7 +14,7 @@ erc, all funds, game stupid shit
 email the people that followed me  
 email worldindata folks,  
 nwo head, email directors or something...
-  
+
 exploration  
   
 Composed funding, all these itgers  
