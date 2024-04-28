@@ -3,14 +3,6 @@ GitHub:
   - https://github.com/akissinger/chyp
 ---
 
-https://github.com/orbitmines/orbitmines.com/pull/5
-
-As a possible way to add some grounding to the project, create a slice of it by implementing/creating a user interface to @akissinger 's Chyp (https://github.com/akissinger/chyp). - Would also be nice as a way to introduce the project to him, as he's likely embarking on a project in 2024 with a lot of overlap.
-
-- Less hacky than https://github.com/orbitmines/orbitmines.com/pull/1
-- Possibly compile python to wasm to directly interface with the code, otherwise just translate the ideas to a `Ray.ts` equivalent.
-- Need to be able to compile both to the graphical string diagrams & the "proof documents" (which the diagrams would be too)
-
 ---
 
 *Some notes from last year < 2023-12-20*
@@ -59,3 +51,13 @@ As a possible way to add some grounding to the project, create a slice of it by 
 	- Frobenius semi-algebras are Frobenius algebras lacking the unit and counit equations (No termination, no instantiation?, still dup/merge though as a form of termination/instantiation)
 		- [ ] [[Quantum Physics (2023)]] ; relevant to quantum theory, such as H*-algebras
 - [[string-diagram-rewrite-theory-iii-confluence-with-and-without-frobenius.pdf|String diagram rewrite theory III: Confluence with and without Frobenius]]
+
+---
+
+https://github.com/orbitmines/orbitmines.com/pull/5
+
+As a possible way to add some grounding to the project, create a slice of it by implementing/creating a user interface to @akissinger 's Chyp (https://github.com/akissinger/chyp). - Would also be nice as a way to introduce the project to him, as he's likely embarking on a project in 2024 with a lot of overlap.
+
+- Less hacky than https://github.com/orbitmines/orbitmines.com/pull/1
+- Possibly compile python to wasm to directly interface with the code, otherwise just translate the ideas to a `Ray.ts` equivalent.
+- Need to be able to compile both to the graphical string diagrams & the "proof documents" (which the diagrams would be too)
