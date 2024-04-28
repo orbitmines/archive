@@ -95,7 +95,6 @@ Can implement the ignorances through those traversal layers on branches which do
 
 it';s the freference thing, evidently you can reference things without a direction connection, the point is not to ignore that idea, but to try to find a way to phrqase that that's possible to setup
 
-
 "HYperdistnace Orcales in hypergraphs" seems obvious from the perspective of Ray
 
 VERTEX-> VERTEX FROM INTIAL/TERMINAL MEANS NO ACCESS TO IN BETWEEN - hence we can compose terminals without access in between. Then describe those in other 
