@@ -15,7 +15,11 @@ Comments on [[2024-04-05]]
 > Seamless direct (partial) inter-compilation/.../translation of things will probably become much more tractable at some point in the near future ^ Though all the more insane complexity of software/firmware/hardware to me seem to pose the most challenges.
 
 Comments on [[2024-02-22]]
+> "Also, interesting to note might be that Von Neumann and Birkhoff attempted to ground quantum mechanics using order theory (their attempt was not very successful at that)."
+> 
+> Me: "I think my intuition is trying to say something like. I want it ordered to talk about it usefully. But high-arity cases are probably more in line with ignoring/invariances of that order."
 
+*Where invariance in this case is something like a branching ray as a cursor along a ray indicating an invariance: i.e. copies over every entry.*
 
 ---
 #### Some interesting/pending questions regarding this project:
