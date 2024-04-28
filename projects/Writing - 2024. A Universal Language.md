@@ -90,7 +90,6 @@ How about phrasing that nothing there as traversal branching into a small local 
 Perhaps like this: Equality is admission of a difference and the ignorance of it. ; like them semf livestream again
 
 Ah the rewrite, similar to the structure itself, require the presence answer to three things beside it
-
 3 for the checks (duplication & traversal)
 +3 for the orbit checks?
 and 3 for 
