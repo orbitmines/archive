@@ -103,7 +103,7 @@ Comments on [[2024-02-22]]
 	- [ ] Link to how it's currently done within games ; Minecraft as a simple example.
 - [ ] [Mesa 3D](https://gitlab.freedesktop.org/mesa), OpenCL, 
 - [ ] [Playcanvas](https://github.com/playcanvas/engine), [Stardust](https://github.com/StereoKit), Wireworld, [Wizard Engine](https://github.com/titzer/wizard-engine/), 
-- [ ] Tenstorren
+- [ ] Tenstorrent SMI terminal
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
