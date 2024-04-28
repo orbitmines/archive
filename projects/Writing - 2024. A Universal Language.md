@@ -167,10 +167,6 @@ With some possible physics connections here as well:
 
 ![[PXL_20240328_160945724.jpg]]
 
-
-#### Meh, need a good introduction, this isnt it
-I suspect that a large number of problems arise from a rather simple conceptual mistake. We build languages, ..., interfaces as tools for understanding certain complexities.
-
 ---
 
 # A Universal Language
