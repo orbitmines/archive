@@ -12,11 +12,6 @@ As a possible way to add some grounding to the project, create a slice of it by 
 - Possibly compile python to wasm to directly interface with the code, otherwise just translate the ideas to a `Ray.ts` equivalent.
 - Need to be able to compile both to the graphical string diagrams & the "proof documents" (which the diagrams would be too)
 
-
-Some notes on controls from yesterday;
-- touchscreen for mobile, if unavailable, possibly need substrate for computations which are heavy (wasm likely).
-- probably just use localstorage for now
-
 ---
 
 *Some notes from last year < 2023-12-20*
