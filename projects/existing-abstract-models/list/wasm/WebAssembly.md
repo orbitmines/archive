@@ -16,15 +16,7 @@
 // ray[i : n] -> s[i] ... s[i + n - 1]
 ```
 
-#### Runtimes/Interpreters
-- [[wasm3]]
-
-#### 
-
-
-----
-
-- [spec](https://github.com/WebAssembly/spec)
+- [[wasm3]], [spec](https://github.com/WebAssembly/spec)
 
 ---
 
