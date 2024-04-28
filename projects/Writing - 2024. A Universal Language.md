@@ -21,14 +21,15 @@ visualization
 - Small ring outline in continuation + vertex?
 - Intersection on screen been non-intersection in the structure, way of rendering it.
 
-
 process
 Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
-  
+
+
 Reverse direction as teo points. Need a good intuition for this. Basically one of tep values selected and the switching of direction to the other way. Perhaps similarly a tep step modular structure of which you can see the intial/terminals being swapped. Is_equiv if can tell the difference and ignore, is_orbit if cannot  
 
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
+- It is ordered from one perspective, unordered from another.
 `.and` compose terminal/initial
 `.terminal / ..`
 	- Move `.self` to `.terminal`
@@ -103,8 +104,6 @@ data, basically change parametsrs til you find somer which are so unsual to the 
 
 
 the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
-
-Same with unordered/ordered, depends on perspective can be voth
 
 Complex number of a qubit boplean os the boolean with sifferentiable in between steps based on the precission of the thing asking which vlaue at the boolena it is
 
