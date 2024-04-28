@@ -1,7 +1,7 @@
 *Let's try for [[2024-05-31]]*
 
 Introduction
-- The problem is not .. it's missing tools to think across fields.
+- The problem is not .. it's missing tools to think across fields. 
 - Most definitions and/or names of things assume some perspective. Make it hard to generalize.
 
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
@@ -168,21 +168,7 @@ With some possible physics connections here as well:
 
 
 #### Meh, need a good introduction, this isnt it
-I suspect that a large number of problems arise from a rather simple conceptual mistake. We build languages, ..., interfaces as tools for understanding certain complexities. Yet we fail to realize proper tools for saying: Sure, those symmetries make sense in your language. But the moment you take in additional context, your symmetries fall apart.  
-  
-<BR/>  
-  
-Now similarly, calling this a "conceptual mistake" is itself also a mistake.  
-  
-<BR/>  
-  
-This is, in essence, a language to understand inconsistencies.
-
-#### mEHbe
-This thing is, in essence, a language to understand inconsistencies. A conceptual framework to make sense of ambiguity: A story of how destructively confusing languages can be. Though to me, most importantly, it is here as infrastructure. Infrastructure for the design and implementation of a different category of (programming) interfaces.
-
-
-This one will need some refs/hooks into literature
+I suspect that a large number of problems arise from a rather simple conceptual mistake. We build languages, ..., interfaces as tools for understanding certain complexities. Yet we fail to realize proper tools for saying: Sure, those symmetries make sense in your language. But the moment you take in additional context, your symmetries fall apart.
 
 ---
 
