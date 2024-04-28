@@ -24,10 +24,6 @@ Since our only care for this challenge is density, any form of redundancy can be
 
 ---
 
-Define all these conclusions drawn which don't actually use wasm code, as assumptions (which need to be validated in some sense or could possible be violated by the implementstion of the wasm abstraction.  
-
----
-
 Nice feature of the wasm binary is we can export the compress/decompress function from the same binary, and their order in the binary has some invariance. Which simplifies are definition of the search space: We're looking for a dual function export from a single binary.
 
 Use the structure modelled of WebAssembly (binary representation) as the encoding of the hyperedges? Has the features or streaming the sequence, possible parallelism in the function streaming built in if not already supported, browsers (high adaptability, no separate encoding). --> This encoding the hyperedge model of wrbassembly in webessembly. (adopting)
