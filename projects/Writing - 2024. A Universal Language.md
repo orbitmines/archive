@@ -64,7 +64,6 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 
 ---
 
-And in the case of .orbit on one thing, it's already assumed to be connected one way, connect it the other way.
 - Somewthing like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.
 
 ---
