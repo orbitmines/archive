@@ -21,9 +21,9 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - `.all` if looking for boundary, `.any` if looking for vertex.
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two? 
 
----
+Local .orbit instead of composing at .terminal? ; pulling to this
 
-Different perspectives to mapp all functionality to different method names.  
+---
 
 And in the case of .orbit on one thing, it's already assumed to be connected one way, connect it the other way.
 
