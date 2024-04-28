@@ -27,7 +27,8 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary, `.any` if looking for vertex.
-`.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two? 
+`.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
+- Then homotopy equivalent
 
 Local .orbit instead of composing at .terminal? ; pulling to this
 
