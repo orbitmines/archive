@@ -9,6 +9,7 @@ Small ring outline in continuation + vertex?
 
 process
 is_equiv = a.self().traverse().is_orbit(b.self().traverse())  
+
 Basically: does there exist a single connection between the two?  
   
 Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
@@ -22,6 +23,7 @@ How to specify any vs all in a case like this?. Place it at the level which chec
 as_x should automatically allow for doing that with existing structure? does that do anything?  
 
 `.and` compose terminal/initial
+`.traverse` places another ray at another level of description, point
 
 ---
 
