@@ -6,6 +6,7 @@
 *The GBG but the solution to The GBG is The GBG.*
 *Could also just go here: A minimap of how the metaverse is actually going to happen. And accidentally rename something to the fadiverse along the way.*
 *The Linux of programming languages*
+*A world in which learning, science, ..., engineering are all an exploratory game.*
 
 ###### Infrastructure - Minimal setup
 - [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
@@ -18,6 +19,9 @@
 ###### Ongoing Logistics
 [[ONGOING Project Logistics - OrbitMines Bot]]
 	[[ONGOING Project - Funding]]
+		"SIDN rejected but good feedback when asked for clarification, will resubmit"
+		"NLnet, rejected, no response when asked for feedback"
+		"NLnet, rejected, sent [] to ask for feedback"
 	[[ONGOING Project - Social]]
 		[[ONGOING Project - Social - Literary Exposure]]
 		[[ONGOING Project - Social - Livestreaming]]
