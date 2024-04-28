@@ -45,7 +45,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 `.terminal / ..`
 	- Move `.self` to `.terminal`
 `.traverse / .all / .map / .any`
-- .any .all as pointer ? (TODO: This is basically close to a .traverse or .traverse & skip the first one. Traverse including the current pointer, excluding the current pointer...)
+- initial/terminal, basically, which direction and then whether to skip the thing you're currently at. (direction by a ray abstract-level higher.)
 - the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 - becomes ignorant of `.all`, pick something, or allow in parallel from this perspective.
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
