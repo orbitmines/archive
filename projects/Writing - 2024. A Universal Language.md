@@ -1,5 +1,8 @@
 *Let's try for [[2024-05-31]]*
 
+Header
+- [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
+
 Introduction
 - The problem is not .. it's missing tools to think across fields. 
 - Most definitions and/or names of things assume some perspective. Make it hard to generalize.
@@ -78,11 +81,7 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 
 How to phrase storage as compute? It's using some compute to persist some structure, though we might not know how to use it for anything else than storage, this is essentially the case. All equated as the same resource? Persistence/Compute/Effort/resources  
 
-Actual superposition or branching was in the case of overlap?
-
 ---
-
-- [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
 ---
 
