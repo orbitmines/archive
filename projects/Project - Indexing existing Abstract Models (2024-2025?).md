@@ -30,6 +30,7 @@ Comments on [[2024-04-05]]
 	- Becomes "contextual/.../computational closeness?"
 	- Language barriers / Different perspectives
 		- Get things like taking items from one particular world back to another world, could suddenly see quests you couldn't see before (immigration / ...).
+		- Switching between different abstraction levels
 	- [ ] What are mistakes in trying to spin up new projects/languages? 
 	- [ ] Compiled grammar vs analysis of runtimes?
 		- [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
