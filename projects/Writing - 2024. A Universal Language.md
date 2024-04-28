@@ -141,8 +141,6 @@ Even wrong program dynamics still work
 
 ---
 
----
-
 ```ts
 // TODO: What about showing disconnect when multiple things are rendered at the same position??  
 // TODO: It's, rende rboth draw equivalence, then ignore the difference from either perspective or take some middle thing. - Line from both ends, also vertex? (or take the pos, take the x from one/other, y from the other/..)  
