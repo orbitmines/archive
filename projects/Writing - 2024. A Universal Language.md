@@ -44,6 +44,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - `.all` if looking for boundary, `.any` if looking for vertex.
 Traversing `.self` 
 - Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to parallize like the superposition of a larger structure, hence it breaks on the further away things on .self
+	- Trade-off between branching spatial extent
 - Traversing `.self` without time-step would be a projective plane? ; So this could be relatively be constructed in certain settings.
 	- a recursive definition of a projective plane but then (partially?) accessible as a calculus?
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
@@ -99,8 +100,6 @@ it';s the freference thing, evidently you can reference things without a directi
 VERTEX-> VERTEX FROM INTIAL/TERMINAL MEANS NO ACCESS TO IN BETWEEN - hence we can compose terminals without access in between. Then describe those in other 
 
 data, basically change parametsrs til you find somer which are so unsual to the one's currently, whaat does that look like using the same visualziation
-
-Trade-off between branching spatial extent
 
 ---
 
