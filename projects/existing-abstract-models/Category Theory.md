@@ -12,15 +12,13 @@ In mathematics or other ways of phrasing it, there's then the concept of bigger,
 - [ ] Uncountable?
 - [ ] More novel/non-trivial calculi, where these show up at other places. (Pi-calculus or other things?) - Just anything which could have some loop defined.
 
-Like in the [[Society for Multidisciplinary and Fundamental Research (SEMF)]] livestream ; ab
+Like in the [[Society for Multidisciplinary and Fundamental Research (SEMF)]] livestream; "absolute equality as a concept", ignoring/.../forgetting you just did that.
 
 ---
 
 Free category / transitive closure, basically would mean that all the initial/terminal rays are equivalenced - (no distinction / or just interpreted the same) . Or just in one step one can be anywhere.
 
 ---
-
-Directedness also just how it is interpreted?? (at least the difference between initial/terminal, so dont name them that?, dont name them anything?)
 
 #### People
 - [[Saunders Mac Lane]]
@@ -32,7 +30,6 @@ Directedness also just how it is interpreted?? (at least the difference between 
 ---
 algebraic (i.e. many-to-1 operations) 
 coalgebraic (i.e. 1-to-many)
-
 
 
 Some random stupid names: 
