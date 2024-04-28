@@ -94,7 +94,7 @@ Comments on [[2024-04-05]]
 - [ ] Like the probabilistic programming languages and world generation techniques ; index existing those generation techniques like Perlin Noise, things like that.
 	- [ ] Link to how it's currently done within games ; Minecraft as a simple example.
 - [ ] [Mesa 3D](https://gitlab.freedesktop.org/mesa), OpenCL, 
-- [ ] [Playcanvas](https://github.com/playcanvas/engine), [Stardust](https://github.com/StereoKit), Wireworld
+- [ ] [Playcanvas](https://github.com/playcanvas/engine), [Stardust](https://github.com/StereoKit), Wireworld, [Wizard Engine](https://github.com/titzer/wizard-engine/), 
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
