@@ -73,6 +73,11 @@ Traversing `.self`
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
+##### A
+
+##### Self-referential operators & multiple abstract implementations
+- Note that whenever you have a self-reference through operators, that requires an implementation to break this self-reference. For example ray functionality only requires initial + negative, or terminal + negative, or initial + terminal, to make all the other three.
+
 ##### On Naming, ..., Grouping
 This is basically: When to decide that perspective switches should have a different name associated with them, when they can probably be thrown in a bag with other stuff: I.e. Why is it so significantly different it should be separate?
  - ex: TODO: Do I want to keep the is_equiv/is_composed pattern? Or simplify to one of the two?
