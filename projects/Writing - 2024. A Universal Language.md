@@ -12,8 +12,6 @@ Only difference is the assymetry of is_orbit and the consequences of that if sel
   
 Reverse direction as teo points. Need a good intuition for this. Basically one of tep values selected and the switching of direction to the other way. Perhaps similarly a tep step modular structure of which you can see the intial/terminals being swapped. Is_equiv if can tell the difference and ignore, is_orbit if cannot  
   
-What does this structure for logic look like - get an intuition.  
-  
 How to specify any vs all in a case like this?. Place it at the level which checks the equiv, default is any. Then all if applied on INITIAL not VERTEX.
 
 as_x should automatically allow for doing that with existing structure? does that do anything?  
@@ -54,8 +52,6 @@ Actual superposition or branching was in the case of overlap?
 
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 - [ ] Not quite sure about the last paragraph of whether to mention existing projects (infrageometry, lingua universalis, kissinger etc...) in the introduction or the first few things after the introduction, but this for now
-
-- Setup collab for different languages I didn't account for
 
 ---
 
