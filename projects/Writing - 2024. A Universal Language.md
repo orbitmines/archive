@@ -73,6 +73,8 @@ Traversing `.self`
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
+##### 
+
 ##### Physics, ..., Dynamics
 Defer to [[Jonathan Gorard]]'s work, for more physics details there. As for example this: ["The boundary of a boundary is always empty."](https://twitter.com/getjonwithit/status/1784599157015007391)
 
