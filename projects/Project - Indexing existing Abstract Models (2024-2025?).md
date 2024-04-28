@@ -115,6 +115,15 @@ Comments on [[2024-02-22]]
 - [ ] Quick/automatic GitHub/.../Gitlab search.
 - [ ] [Cambridge Quantum](https://github.com/CQCL), nForum
 
+- From [[Category Theory]]
+	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
+	- https://github.com/bgavran/Category_Theory_Machine_Learning
+	- https://en.wikipedia.org/wiki/Transfinite_number
+	- https://juliapoo.github.io/mathematics/2022/12/15/homomorphism-illustrated.html
+	- https://www.localcharts.org/t/learning-resources-for-applied-category-theory/8285
+	- https://cybercat.institute/2024/04/12/enriched-closed-lenses/
+	- 
+
 - Research into https://en.wikipedia.org/wiki/Data_and_information_visualization , also more non-trivival stuff than just plots
 	- https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
 	- https://en.wikipedia.org/wiki/Distributive_property
