@@ -47,6 +47,7 @@ Traversing `.self`
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
+	- "Hyperdistnace Oracles in hypergraphs" seems obvious from the perspective of Ray ; it's just traversing `.self` from some perspective instead of other things.
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
