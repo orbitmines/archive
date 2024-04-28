@@ -168,7 +168,7 @@ With some possible physics connections here as well:
 
 
 #### Meh, need a good introduction, this isnt it
-I suspect that a large number of problems arise from a rather simple conceptual mistake. We build languages, ..., interfaces as tools for understanding certain complexities. Yet we fail to realize proper tools for saying: Sure, those symmetries make sense in your language. But the moment you take in additional context, your symmetries fall apart.
+I suspect that a large number of problems arise from a rather simple conceptual mistake. We build languages, ..., interfaces as tools for understanding certain complexities.
 
 ---
 
