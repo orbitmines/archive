@@ -197,7 +197,6 @@ This thing is, in essence, a language to understand inconsistencies. A conceptua
 
 This one will need some refs/hooks into literature
 
-
 ---
 
 # A Universal Language
