@@ -63,7 +63,7 @@ Comments on [[2024-04-05]]
 - [Transcendental syntax](https://ncatlab.org/nlab/show/transcendental+syntax) ; reminds me of the need to include everything of [[nLab]] needs to be compiled to this list too, so much stuff there
 - https://en.wikipedia.org/wiki/Bondi_k-calculus
 - zxlive, [Semagrams.jl](https://github.com/AlgebraicJulia/Semagrams.jl ), 
-- CSS, JavaScript, React (& ecosystem of these things ; React Native), HTML, Bun, ...
+- CSS, JavaScript, React (& ecosystem of these things ; React Native), HTML, Bun, Node.js, ...
 - Character encodings, renderings, groupings, UTF-8
 - [Andromeda](https://github.com/Andromedans/andromeda), Apache TVM, Controlled Natural Language (CNL), Formalisation of Constructive Univalent Type Theory (ForCUTT), [Foundations of Mathematics (FOM)](https://ncatlab.org/nlab/show/foundation+of+mathematics), 
 
@@ -102,7 +102,7 @@ Comments on [[2024-04-05]]
 
 - [ ] All the people I've followed GitHub, Twitter, (mutual Discord servers) etc... & some distance away as preference
 - [ ] Quick/automatic GitHub/.../Gitlab search.
-- [ ] [Cambridge Quantum](https://github.com/CQCL)
+- [ ] [Cambridge Quantum](https://github.com/CQCL), nForum
 
 - Research into https://en.wikipedia.org/wiki/Data_and_information_visualization , also more non-trivival stuff than just plots
 	- https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
@@ -265,3 +265,4 @@ Platform interop
 - [ ] Intercompilation images..
 - [ ] Cross boundaries of things/communication ; basically this as the general pattern for all of this
 [[Operating System (OS)]]
+- NixOS
