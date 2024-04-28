@@ -56,6 +56,14 @@ Actual superposition or branching was in the case of overlap?
 
 - Setup collab for different languages I didn't account for
 
+---
+
+Most definitions and/or names of things assume some perspective
+
+equivalence = -inconsistency
+
+
+
 
 
 ```ts
