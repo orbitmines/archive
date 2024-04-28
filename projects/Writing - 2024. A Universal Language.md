@@ -81,6 +81,11 @@ Does it make sense from a mathematical POV that this thing could be a recursive 
 
 Change only locally, but global effects
 
+
+Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction? SHould ahve a better handle on those ideas.
+
+it';s the freference thing, evidently you can reference things without a direction connection, the point is not to ignore that idea, but to try to find a way to phrqase that that's possible to setup
+
 ---
 
 ```ts

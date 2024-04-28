@@ -1,4 +1,7 @@
 
+[[2024-03-11]]
+water light simluationr redications
+
 [[2024-02-27]]
 You probably wouldn't want to normalize (ie create the pressure that you must) publishing you everything do online - but that's probably what I'm signalling to now
 
