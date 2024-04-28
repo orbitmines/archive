@@ -26,11 +26,7 @@ Since our only care for this challenge is density, any form of redundancy can be
 
 Define all these conclusions drawn which don't actually use wasm code, as assumptions (which need to be validated in some sense or could possible be violated by the implementstion of the wasm abstraction.  
 
-There are probably people who have realized many redundancies in wasm binaries, so let's look  them up.  
-
 ---
-
-Just allow wasm interface with the models of directionality? perhaps not even, and try modelling on the go the permutations
 
 Nice feature of the wasm binary is we can export the compress/decompress function from the same binary, and their order in the binary has some invariance. Which simplifies are definition of the search space: We're looking for a dual function export from a single binary.
 
