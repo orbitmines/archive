@@ -39,6 +39,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary, `.any` if looking for vertex.
+- Traversing `.self` without time-step would be a projective plane? ; So this could be relatively be constructed in certain settings.
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
@@ -86,9 +87,6 @@ and 3 for
 Somewthing like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.
 
 Usual superposition is where every entry of an arbitrarty direction only references itself on the `.self`. Hence a tensored variant like this in linear time
-
-
-Equivalency ray at `.self` traversed = Projective plane. ?
 
 Does it make sense from a mathematical POV that this thing could be a recursive definition of a projective plane but then (partially?) accessible as a calculus?
 
