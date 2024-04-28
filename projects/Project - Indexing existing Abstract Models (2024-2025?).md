@@ -122,6 +122,9 @@ Comments on [[2024-02-22]]
 	- https://juliapoo.github.io/mathematics/2022/12/15/homomorphism-illustrated.html
 	- https://www.localcharts.org/t/learning-resources-for-applied-category-theory/8285
 	- https://cybercat.institute/2024/04/12/enriched-closed-lenses/
+	- https://github.com/prathyvsh/category-theory-resources
+	- https://github.com/statusfailed/catgrad
+	- https://github.com/abuseofnotation/category-theory-illustrated
 	- 
 
 - Research into https://en.wikipedia.org/wiki/Data_and_information_visualization , also more non-trivival stuff than just plots

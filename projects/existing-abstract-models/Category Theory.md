@@ -12,20 +12,7 @@ In mathematics or other ways of phrasing it, there's then the concept of bigger,
 - [ ] Uncountable?
 - [ ] More novel/non-trivial calculi, where these show up at other places. (Pi-calculus or other things?) - Just anything which could have some loop defined.
 
-
----
-
-- [ ] Similarity in "up to natural isomorphism", these ideas and
-
-These are already in [[Project - Indexing existing Abstract Models (2024-2025?)]]
-- [ ] https://github.com/prathyvsh/category-theory-resources
-- [ ] [[Categorica]]
-- [ ] https://github.com/statusfailed/catgrad
-- [ ] https://github.com/abuseofnotation/category-theory-illustrated
-- [ ] 
-
-- [ ] https://cybercat.institute/2024/04/12/enriched-closed-lenses/
-- [ ] 
+Like in the [[Society for Multidisciplinary and Fundamental Research (SEMF)]] livestream ; ab
 
 ---
 
