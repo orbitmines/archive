@@ -73,7 +73,8 @@ Traversing `.self`
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
-##### A
+##### Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
+
 
 ##### Self-referential operators & multiple abstract implementations
 - Note that whenever you have a self-reference through operators, that requires an implementation to break this self-reference. For example ray functionality only requires initial + negative, or terminal + negative, or initial + terminal, to make all the other three.
