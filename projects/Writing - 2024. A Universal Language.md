@@ -17,7 +17,7 @@ Introduction
 	- Infrageometry
 	- 
 
-- A lot of this started with the ide
+- A lot of this started with the idea: "You cannot have interaction without something like gravity." ; I think? Probably a question similar to this.
 
 visualization
 - Small ring outline in continuation + vertex?
@@ -112,13 +112,11 @@ Trade-off between branching spatial extent
 
 Invariances at star hence a modular structure might be a necessity physically, forcing necessarily a finite accessible structure possible allowing it to grow?
 
-You cannot have interaction without something like gravity.
-
 split off branching initial remainin o. the temrinal the ret marching along
 
 ---
 
-Decentralization  
+Decentralization
 Education  
 Metaverse  
 And many standing problems in science
