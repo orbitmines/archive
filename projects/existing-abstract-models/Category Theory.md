@@ -56,10 +56,10 @@ compiler, impls
 https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 https://github.com/bgavran/Category_Theory_Machine_Learning
 https://en.wikipedia.org/wiki/Transfinite_number
-###### Crosscompiling Category Theory and Rays.
-###### [[Homoiconicity|Homoiconic]] Category Theory? - does that make sense?
 
-Some random stupid names: "Crosscompiling Category Theory and Rays, Homoi"
+Some random stupid names: 
+*Crosscompiling Category Theory and Rays*
+*Homoiconic Category Theory"
 
 ---
 
