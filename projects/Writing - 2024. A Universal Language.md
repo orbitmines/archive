@@ -148,6 +148,8 @@ At every branch comtains the one added thing necessary for spliiting the vranch 
 
 Many ways of phrasing noen, it's explored bit dies, looked st then ignored.
 
+Even wrong program dynamics still work
+
 ---
 
 ---
