@@ -46,7 +46,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
-- `qubit` is a binary superposition, which is differentiable in between steps (basically, if something else from outside the context can reach in betwe)
+- `qubit / complex numbers` is a binary superposition, ..., self-loop, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision).
 
 Local .orbit instead of composing at .terminal? ; pulling to this
 
@@ -104,8 +104,6 @@ it';s the freference thing, evidently you can reference things without a directi
 VERTEX-> VERTEX FROM INTIAL/TERMINAL MEANS NO ACCESS TO IN BETWEEN - hence we can compose terminals without access in between. Then describe those in other 
 
 data, basically change parametsrs til you find somer which are so unsual to the one's currently, whaat does that look like using the same visualziation
-
-Complex number of a qubit boplean os the boolean with sifferentiable in between steps based on the precission of the thing asking which vlaue at the boolena it is
 
 Trade-off between branching spatial extent
 
