@@ -1,8 +1,12 @@
 
+[[2024-02-05]]
+What di you do in a world where finding something is the hard part, then copying snd redistributing takes resources, but copying is a pretty univerdal resource. This has basically been the transition/history of software?
+
+---
+
 Cognition
 [[2023-12-19]]
 It wouldn't surprise me if someone who was blind has a better capability to navigate visually/abstractly in much more detail than those who can see. (; usually?)
-
 
 ---
 

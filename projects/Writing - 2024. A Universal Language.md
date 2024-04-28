@@ -1,5 +1,9 @@
 *Let's try for [[2024-05-31]]*
 
+visualization
+Small ring outline in continuation + vertex?
+
+
 process
 is_equiv = a.self().traverse().is_orbit(b.self().traverse())  
 Basically: does there exist a single connection between the two?  
