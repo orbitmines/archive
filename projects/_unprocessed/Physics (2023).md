@@ -20,8 +20,6 @@ Duplicating traversing structures requires part of the topology to duplicate hen
 ---
 
 Always stopping= always moving  
-change u  
-is difference between the two?
 
 ---
 
