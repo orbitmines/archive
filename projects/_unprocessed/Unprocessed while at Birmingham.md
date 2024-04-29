@@ -14,13 +14,7 @@ Spreads ro sll possible until another is better and the kthers contracts, adterc
 
 ---
 
-recursive generation etc .  
-
 hidden something learning vertically not ?  
-
----
-
-This monoidal thing with "formal" in quoates on nlab, some identity associator thing which isn't right but widley accepted, maybe not right  
 
 ---
 
