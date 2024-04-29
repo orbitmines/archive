@@ -80,10 +80,6 @@ poly rnglish was lowertier school, then french opposite
 
 ---
 
-Random lone draw of stuff
-
----
-
 Even wrong profram dynamics still work
 
 ---
@@ -105,8 +101,6 @@ The interface/data etc just in anyway stored anywhere and just deal with it thro
 ---
 
 Yep basically composition is the higehr order variant of equivalence, what does it mean for this to go uo in arity?  
-  
-.traverse is move self to .terminal
 
 ---
 
