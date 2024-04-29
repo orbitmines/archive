@@ -230,6 +230,8 @@ Comments on [[2024-02-22]]
 
 - old old & linguistics https://en.wikipedia.org/wiki/Cuneiform, https://en.wikipedia.org/wiki/Hangul 
 
+- Floating-Point Arithmetic, 
+
 ---
 
 - https://zenodo.org/
