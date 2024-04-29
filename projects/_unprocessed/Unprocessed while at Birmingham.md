@@ -50,8 +50,6 @@ mistakes what list
 
 Not technical deep dive something else  
   
-turings famous paper  
-  
 
 This monoidal thing with "formal" in quoates on nlab, some identity associator thing which isn't right but widley accepted, maybe not right  
   
@@ -109,13 +107,6 @@ The interface/data etc just in anyway stored anywhere and just deal with it thro
 Yep basically composition is the higehr order variant of equivalence, what does it mean for this to go uo in arity?  
   
 .traverse is move self to .terminal
-
----
-
-Decentralization  
-Education  
-Metaverse  
-And many standing problems in science
 
 ---
 
