@@ -5,6 +5,7 @@ Mailing List:
 
 Spreads ro sll possible until another is better and the kthers contracts, adtercseeing lightning,? ; Everything is shrunk from the other side into the channel that now opens up. Entropy. ; ?
 ; Is lightning branching and hitting the ground phrasable as all the other branches contract back and use the branch that hit the ground? 
+Probably many things you could phrase this way 🤔
 
 ---
 
