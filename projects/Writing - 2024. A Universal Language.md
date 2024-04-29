@@ -72,6 +72,8 @@ Traversing `.self`
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
+	- Homotopy equivalence merely as some direction/reversibility constraint on some direction, ignoring additional structure (or incorporating it into the equiv) at the vertices. (Could be loosened where certain vertex-equivalences are also part of the homotopy)
+	- ; follows from matching rewrite structure&merge ; If some underlying level of description doesn't match the relations at the other level of description we're using for equivalencies / hence homotopies. Then don't permit the invariance/variance and force no difference. Hence any equivalencr necessarily implies possible homotopies. Whether those spaces can actually be differentiated between to create infinite continuous differences between those points ss enumeration of possible homotopies isn't necessarily that obvious in the embedded space ; the underlying level of description  
 - "Hyperdistance Oracles in hypergraphs" seems obvious from the perspective of Ray? ; it's just traversing `.self` from some perspective instead of other things.
 - equivalence is an inconsistency from some perspective (and the other way round)
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
@@ -164,7 +166,6 @@ The basic premise is this, there might be arbitrarily complex structure around m
 - Is equivalent ; Can A & B be found on the a line/ray/graph? - Or a particular one
 
 -  A traversal = copy = compile = .... (compute?)
-- Homotopy equivalence merely as some direction/reversibility constraint on some direction, ignoring additional structure (or incorporating it into the equiv) at the vertices. (Could be loosened where certain vertex-equivalences are also part of the homotopy)
 
 - Induced ignorance/equivalence along arbitrary rays. = Equivalence
 
