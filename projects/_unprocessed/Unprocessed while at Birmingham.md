@@ -14,7 +14,7 @@ Spreads ro sll possible until another is better and the kthers contracts, adterc
 
 ---
 
-hidden something learning vertically not ?  
+hidden something learning vertically not ?
 
 ---
 
