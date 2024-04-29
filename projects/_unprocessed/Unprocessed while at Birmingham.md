@@ -28,12 +28,7 @@ Promised Nick Hi to come back to him with it after kissingers chyp
 
 ---
 
-mistakes what list
-
----
-
 This monoidal thing with "formal" in quoates on nlab, some identity associator thing which isn't right but widley accepted, maybe not right  
-  
   
 abstracting away as simulation from perspective of category ( ; guy
 
