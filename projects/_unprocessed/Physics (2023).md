@@ -50,13 +50,6 @@ computational effort. Unless in some extreme some local properties are entirely 
 
 ---
 
-- [ ] https://github.com/softwareQinc/staq
-
----
-- [ ] How is black hole related as a concept? (infinities - on orbits paper)
-
----
-
 #### Local Obstructions
 
 [[2023-11-13]]
