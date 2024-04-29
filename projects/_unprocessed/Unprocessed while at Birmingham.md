@@ -15,26 +15,10 @@ Spreads ro sll possible until another is better and the kthers contracts, adterc
 ---
 
 recursive generation etc .  
-  
-for index go through discord, zulip users of...  
 
-compile lists of peojects  
-
-live roadmap, history can be seen here  
-  
 hidden something learning vertically not ?  
-  
-  
+
 High fos water dropplet bounching off water myltiple times, each time higher the smaller it is, then merging witht he water structure below, local gravitational pressure breaks and then merges partially, shockwave below- interesting
-
----
-
-pablo:
-future of programming  
-  
-lunwilson  
-
-send loat of project to pablo
 
 ---
 
@@ -47,9 +31,6 @@ Promised Nick Hi to come back to him with it after kissingers chyp
 mistakes what list
 
 ---
-
-Not technical deep dive something else  
-  
 
 This monoidal thing with "formal" in quoates on nlab, some identity associator thing which isn't right but widley accepted, maybe not right  
   
