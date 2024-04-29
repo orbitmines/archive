@@ -188,25 +188,9 @@ Current/Assumptions not understood: The human programmer/(forgotten) history? no
 
         Practically, what this may mean, is that from a historical perspective certain decisions in this project will be made to operate under. While a goal is to eventually describe many different levels of descriptions simultaneously, I start with one which initially doesn't necessarily acknowledge all those descriptions nor can directly operate under them. Hence, the interfaces we are currently practically operating under will include: existing human interfaces (browsers, ..., keyboard) and thus for working within browsers resulting in the choice of achieving x86-64 through WASM. Each of those choices bringing immense complexity.  
 
-        <CodeBlock code="...x86-64 through WASM"/>  
-         
+
 					<BR/>  
         Note that among these choices are some initial interfaces, mainly aimed at contemporary humans: This doesn't necessarily limit its use to humans, but it creates a certain reference frame from which seeming arbitrary choices seem less arbitrary. I will currently label any interface choice as a practical guess, marked as a conjecture with some seemingly speculative contemporary intuitive reason, whose detail I don't necessarily understand. As such, marking the choices for future inquiry as whether a change is appropriate <Footnote is="footnote" index={referenceCounter()}>Hopefully, making these kinds of choices quite explicit, will aid design in the future.</Footnote>.  
-  
-        <BR/>  
-  
-        A simple example would be the following two choices: When displaying some binary selection, instead of relying on the symbolic association a human has with a representative 0 or 1, use black and white as colors respectively.  
-  
-        <BR/>  
-  
-        The guess of relying on more sophistication on the human side for picking up visual patterns by mapping the abstract binary symbol to a color mapping of opposite extremes. ; In contrast to displaying symbolic 0's & 1's, by default. We could probably already construct situations in which the (human) observer can more easily pick up a more non-trivial pattern by associating it with numbers directly, hence the complexity of this choice as a default.  
-  
-        <TODO>Assumes the (human) observer interprets the color description when analysing the pattern as opposites [Although, I'm assuming that this is likely to be somewhat inconsistent in some respect, for the color mapping is likely to be more high-dimensional].</TODO>  
-  
-        <BR/>  
-        Note that, while I can make these choices following some conjecture, the consequences of such choices are non-trivial. Displaying the patterns as black-white, white-black (or other colors/.../patterns), will likely have different effects on the intended human (and seemingly unintended other) observers [Similarly, if we'd swap the identification of a 0 or 1, it's not necessarily trivial to suggest one would find certain patterns easier than others.]. This can be formulated as another assumption following the conjecture, which is similarly non-trivial.  
-  
-        <CodeBlock code="...non-trivial (future trajectories specification?)"/>  
-  
+
 ```
 
