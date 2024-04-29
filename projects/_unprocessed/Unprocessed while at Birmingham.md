@@ -34,14 +34,6 @@ abstracting away as simulation from perspective of category ( ; guy
 
 ---
 
-what was gping on peopees head euqlids elemnts  
-  
-the scientificof physics describing only relovtionaries never met  
-  
-history
-
----
-
 girard paulw rbsite 
 
 poly rnglish was lowertier school, then french opposite
