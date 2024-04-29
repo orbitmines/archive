@@ -1,5 +1,7 @@
 *Let's try for [[2024-05-31]]*
 
+In-place dynamic window:
+- writing on one side, interactive on the other, or centered, so a moving box - gotta make sure interop is good.
 
 Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
