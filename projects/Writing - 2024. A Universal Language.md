@@ -23,7 +23,7 @@ I suspect that a large numbers of problems arise from a rather simple conceptual
 	- [[Alexander Grothendieck]]
 	- Lingua Universalis
 	- Infrageometry
-	- 
+	- Hook into [[Project - Indexing existing Abstract Models (2024-2025?)]] future inquiries
 
 - A lot of this started with the idea: "You cannot have interaction without something like gravity." ; I think? Probably a question similar to this.
 
