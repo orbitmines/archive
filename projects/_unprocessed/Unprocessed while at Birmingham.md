@@ -37,11 +37,3 @@ Even wrong profram dynamics still work
 ---
 
 The interface/data etc just in anyway stored anywhere and just deal with it through some simple interface
-
----
-
-Yep basically composition is the higehr order variant of equivalence, what does it mean for this to go uo in arity?  
-
----
-
-Grid woth a ray split off on higher abstraction level, shows the loopiness pf the gridd
