@@ -12,15 +12,6 @@ Encoding/symbols..
 - Hence, from this point, one might say the binary sequence are two high-dimensional points (lcoally connected).
 - "Some line as saying: anything on it is the frame and deemed the same, all deemed as ignored, all deemed as the identity"
 
-OrbitMines explorer
-We could quite literally take the pixels as a program, or read the pixels and map to a different kind of graph based on how it seems connected there.
-
-- grid
-- pixels
-
-
-Which could perhaps be phrased as: in some directionality there is a lurking infinity.
-
 ---
 
 ##### Superpose in more detail
