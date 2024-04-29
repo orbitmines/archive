@@ -36,8 +36,6 @@ abstracting away as simulation from perspective of category ( ; guy
 
 girard paulw rbsite 
 
-poly rnglish was lowertier school, then french opposite
-
 ---
 
 Even wrong profram dynamics still work
