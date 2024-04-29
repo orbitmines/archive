@@ -22,6 +22,7 @@ Consider this my attempt to provide infrastructure for that exploration.
 - The problem is not .. it's missing tools to think across fields. 
 	- Most definitions and/or names of things assume some perspective. Make it hard to generalize.
 	- Similar to things like references: In
+	- It doesn't matter that you want a particular way to deal with your conflict free stuff, the solution is not only to isolate an environment, but just to be able to deal or handle when it arises. ; better way of phrasing this? single sentence?
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
 - Reference to existing ideas. This is the generalization of many ideas, it would be ...
