@@ -2,6 +2,11 @@
 Mailing List:
   - https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=QUANTUM-COMPUTING
 ---
+
+High fos water dropplet bounching off water myltiple times, each time higher the smaller it is, then merging witht he water structure below, local gravitational pressure breaks and then merges partially, shockwave below- interesting
+
+---
+
 Duplicating traversing structures requires part of the topology to duplicate hence modifying it??
 
 Hermission/herminisity /time reversal; i.e. ray swap 

@@ -18,12 +18,6 @@ recursive generation etc .
 
 hidden something learning vertically not ?  
 
-High fos water dropplet bounching off water myltiple times, each time higher the smaller it is, then merging witht he water structure below, local gravitational pressure breaks and then merges partially, shockwave below- interesting
-
----
-
-Promised Nick Hi to come back to him with it after kissingers chyp
-
 ---
 
 This monoidal thing with "formal" in quoates on nlab, some identity associator thing which isn't right but widley accepted, maybe not right  
