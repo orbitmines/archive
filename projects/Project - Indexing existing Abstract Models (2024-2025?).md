@@ -113,7 +113,7 @@ Comments on [[2024-02-22]]
 
 - [ ] Like [[Liubov Tupikina]]'s projects ; Papers, all these journals listed below. Associated with code, bridge these things.
 
-- [ ] All the people I've followed GitHub, Twitter, (mutual Discord servers) etc... & some distance away as preference
+- [ ] All the people I've followed GitHub, Twitter, Zulp(mutual Discord servers) etc... & some distance away as preference
 - [ ] Quick/automatic GitHub/.../Gitlab search.
 - [ ] other diff tools / VCS
 - [ ] [Cambridge Quantum](https://github.com/CQCL), nForum
