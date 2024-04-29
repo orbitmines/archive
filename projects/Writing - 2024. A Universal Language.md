@@ -9,7 +9,7 @@ Admittedly, this starts with a simple concession: that this is a generalization 
 
 A list which undoubtedly falls short 
 
-I suspect that a large numbers of problems arise from a rather simple conceptual mistake. And perhaps calling it a mistake - is itself a mistake. 
+I suspect that a large numbers of problems arise from a rather simple conceptual mistake. And perhaps calling it a mistake - is itself a mistake. For we always first make 
 
 for we always make ... practical tools. But herein lies a crucial ... ; ref to [[Project - OrbitMines as a Game (2025-2026?)]], convenient solution.
 
