@@ -17,9 +17,6 @@ High fos water dropplet bounching off water myltiple times, each time higher the
 
 Duplicating traversing structures requires part of the topology to duplicate hence modifying it??
 
-
-Relativity -
-
 ---
 
 Always stopping= always moving  

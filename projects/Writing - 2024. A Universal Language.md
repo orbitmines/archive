@@ -132,7 +132,7 @@ With some physics connections here as well:
 - Could like this be much more non-trivial based on the structure being pushed in exploring the branches ; i.e. like that similarly determining which and how the branches are explored.
 - Fitting another layer of abstraction on the structure which determines the following direction (or generally this could be phrased as inferred from context) .terminal here is possibly undefined. ONly needs presence, no recursion checks. Concurrency issues then in many cases resolved, through always being associated with a particular direction. (See note)
 
-Hermission/herminisity /time reversal; i.e. ray swap ; k
+Hermission/herminisity /time reversal; i.e. ray swap ; look up hermission?
 
 ---
 
