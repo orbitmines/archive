@@ -33,8 +33,7 @@ is difference between the two?
 
 ---
 
-Formulation of "limit of causality" which could be "speed of light"; Trade-off between global movement & local movement? Propagation through space against propagation internally.  
-
+Formulation of "limit of causality" which could be "speed of light"; Trade-off between global movement & local movement? Propagation through space against propagation internally.
 
 ---
 
