@@ -21,7 +21,6 @@ Hermission/herminisity /time reversal; i.e. ray swap
 
 Relativity -
 
-
 ---
 
 Always stopping= always moving  
