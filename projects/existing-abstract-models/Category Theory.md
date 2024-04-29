@@ -71,8 +71,6 @@ Grouping these concepts
   - What about a frame which has a superposition at initial/terminal/frame/
 Initial/terminal domain/codomain (co, again, the dual...)
 
-qubit as/ 'linear superposition'
-
 ---
 
 - [ ] 'Is accessible/nonaccessible' generalizable to the frame and directoinality?
