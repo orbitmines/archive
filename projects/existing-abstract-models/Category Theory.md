@@ -3,6 +3,7 @@ Related:
   - "[[Applied Category Theory]]"
   - "[[nLab]]"
 ---
+*Most of this was during and shortly after the [[Society for Multidisciplinary and Fundamental Research (SEMF)]] summerschool*
 
 ###### "Different Infinities"
 In mathematics or other ways of phrasing it, there's then the concept of bigger, ..., different infinities. Which one could merely rephrase as infinities, or looped continuations, with additional structure defined which has more of those looped continuations.
