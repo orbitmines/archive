@@ -66,10 +66,7 @@ history
 
 ---
 
-girard paulw rbsite  
-  
-paul didnt work with girard (u pleasant personality according ot him) with Yvan Yves  
-
+girard paulw rbsite 
 
 poly rnglish was lowertier school, then french opposite
 
@@ -80,10 +77,6 @@ Even wrong profram dynamics still work
 ---
 
 single line on literary exposure?
-
----
-
-The biggest solved problem in string/... theory is the language they use to communicate
 
 ---
 
