@@ -181,7 +181,7 @@ Current/Assumptions not understood: The human programmer/(forgotten) history? no
 
 - [ ] Infeasibility of storing knowledge by humans  
 	- [ ] "different search strategy"
-"Explorer choices"
+
 ```
  The limitations nor abstractly unexpected inconsistencies may be non-trivial to find at any level of description. The initial choice of architecture may non-trivially influence future trajectories of this project and the actual physical mechanisms within which this level of description operates. Thus being relevant to the size, dynamics, ..., interpretation of the compression being done.  
 
@@ -208,84 +208,5 @@ Current/Assumptions not understood: The human programmer/(forgotten) history? no
   
         <CodeBlock code="...non-trivial (future trajectories specification?)"/>  
   
-```
-
-
----
-
-### Title
-```tsx
-<Title>On Orbits: Metamathematics, Hypergraph Rewriting, WebAssembly, Programming Interfaces and Compression</Title>  
-{/*<Title>On Observers, Recursion, Boundedness, Ignorance and Transformations</Title>*/}  
-{/*<Title>On Observers, Recursion/Reference, Boundedness, Ignorance/Irreversibility and Transformation/Time</Title>*/}  
-{/*<Title>On Equivalence, Observers and Compression</Title>*/}  
-{/*<Title>On Equivalence and Uncertainty</Title>*/}  
-{/*<Title>On (Functional) Equivalence, Observers and Compression</Title>*/}  
-  
-<Subtitle>A continuation of earlier (vaguer) thoughts on intelligibility {OnIntelligibilityReference}. An attempt to formalize a set of complex assumptions as an approach to understand arbitrarily unknown dynamical systems. The introduction of a (more generalized) programming interface, compiler, ..., calculus for modelling inconsistencies. Demonstrated by the generation of a {HutterPrizeReference} submission (enwik9 in XMB|x86_64-linux (+X% improvement)).</Subtitle>  
-{/*<Subtitle>A continuation of earlier thoughts on intelligibility {OnIntelligibilityReference}. An attempt to formalize a set of complex assumptions as an approach to understand arbitrarily unknown dynamical systems. Demonstrated by the generation of a {HutterPrizeReference} submission (enwik9 in XMB|x86_64-linux (+X% improvement)).</Subtitle>*/}
-```
-
-### Abstracts
-
-```tsx
-<Section head="Abstract">  
-  This paper can be considered as four (somewhat) separable arcs: (1) A (perhaps) more theoretical side expressing a set of complex assumptions. Mainly concerned with issues of equivalence, ignorance, inconsistencies, ..., abstractions. (2) Using these assumptions, a strategy for representing abstractions (; hypergraphs) is discussed, as a more explicit way to represent multidimensional encodings of programs. (3) Using this strategy, the assumptions of {WebAssemblyBinaryReference}, {WebAssemblyTextualReference} and abstract {WebAssemblyReference} are modelled and then encoded in WebAssembly. (4) And last, these assumptions are then used to rephrase the {HutterPrizeReference} to a search problem in possible-webassembly-program-space and the journey of finding a solution is described.  
-</Section>
-```
-
----
-
-```tsx
-<Arc head="Arc: Category Theory">  
-  <Link link="https://github.com/orbitmines/category-theory" icon={ORGANIZATIONS.github.key}/>  
-  
-</Arc>  
-<Arc head="Arc: Homotopy Type Theory">  
-  <Link link="https://github.com/orbitmines/homotopy-type-theory" icon={ORGANIZATIONS.github.key}/>  
-  
-</Arc>  
-<Arc head="Arc: ZX-Calculus">  
-  
-</Arc>  
-<Arc head="Arc: WebAssembly">  
-  <Link link="https://github.com/orbitmines/wasm" icon={ORGANIZATIONS.github.key}/>  
-  
-  <Section head="Why WebAssembly?" sub="A broader perspective">  
-  
-  </Section>  
-  <Section head={<>  
-    <Reference      index={referenceCounter()}  
-      reference={{  
-        title: "LEB128",  
-        link: "https://en.wikipedia.org/wiki/LEB128"  
-      }}  
-      simple inline  
-    />  
-  </>} sub="Little Endian Base 128 encoding">  
-    <TODO> </TODO>  </Section>  
-  <Section head={<>  
-    <Reference index={referenceCounter()} reference={{title: "Unicode", link: "https://www.unicode.org/versions/latest/"}} simple inline />  
-  </>} sub="UTF-8 encoding">  
-    {/*Before getting further complexity in, it will probably help to construct the interface by which characters will be used, so we can use more familiar text-like symbols in the structures. For historical reasons and the choice of WebAssembly, I'll initially use UTF-8 for this. Just to simplify, I'll for now ignore the visualization of the Unicode scalar values.*/}  
-  
-    {/*<BR/>*/}  
-  
-    <TODO> </TODO>  
-  </Section>  
-  <Section head={<>  
-    <Reference      simple  
-      inline  
-      index={referenceCounter()}  
-      reference={{  
-        title: "IEEE 754",  
-        link: "https://ieeexplore.ieee.org/document/8766229",  
-        published: [{name: 'IEEE Std 754-2019 (Revision of IEEE 754-2008)'} as any],  
-        year: "2019",  
-        pointer: "1-84"  
-      }}  
-    />  
-  </>} sub="Floating-Point Arithmetic">  
-    <TODO> </TODO>  </Section></Arc>
 ```
 
