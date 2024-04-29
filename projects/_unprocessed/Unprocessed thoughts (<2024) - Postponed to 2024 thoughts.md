@@ -50,7 +50,7 @@ Not so sure about these points:
 
 - [ ] some other level of description is not ignorant, another is. -0 simulate
 
- Ignoring Redundancies (; Skipping Equivalences)
+Ignoring Redundancies (; Skipping Equivalences)
 Ignorant of its use - visualizing
 ###### Specific implementation questions/constraints
 - [ ] **direction at the point**: What does it mean for a point yo become its own direction? 
