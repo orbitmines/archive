@@ -71,7 +71,6 @@ girard paulw rbsite
 paul didnt work with girard (u pleasant personality according ot him) with Yvan Yves  
 
 
-
 poly rnglish was lowertier school, then french opposite
 
 ---
