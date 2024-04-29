@@ -69,11 +69,11 @@ history
 girard paulw rbsite  
   
 paul didnt work with girard (u pleasant personality according ot him) with Yvan Yves  
-  
+
 poly in polytechnic not living up to the name - paulo  
-  
+
 Paul said very good to be in so many fields  
-  
+
 paul - implementation not translation  
   
 poly rnglish was lowertier school, then french opposite
@@ -89,10 +89,6 @@ single line on literary exposure?
 ---
 
 The biggest solved problem in string/... theory is the language they use to communicate
-
----
-
-Many ways of phrasing noen, it's explored bit dies, looked st then ignored.
 
 ---
 
