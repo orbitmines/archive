@@ -22,8 +22,6 @@ High fos water dropplet bounching off water myltiple times, each time higher the
 
 ---
 
-3 dimensional sphere to outside of the sphere 7 dimension, lowrr topology Nick Hu mentioned  
-  
 Promised Nick Hi to come back to him with it after kissingers chyp
 
 ---
