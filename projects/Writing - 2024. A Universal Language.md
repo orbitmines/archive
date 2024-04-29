@@ -5,6 +5,8 @@ Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
 Introduction
+Admi
+
 I suspect that a large numbers of problems arise from a rather simple conceptual mistake. And perhaps calling it a mistake, is itself a mistake - for we always make ... practical tools. But herein lies a crucial ... ; ref to [[Project - OrbitMines as a Game (2025-2026?)]], convenient solution.
 
 - The problem is not .. it's missing tools to think across fields. 
