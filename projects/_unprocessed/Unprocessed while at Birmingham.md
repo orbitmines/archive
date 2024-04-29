@@ -10,10 +10,6 @@ It's not just about being able to work with unique data, but also about what you
 
 ---
 
-Spreads ro sll possible until another is better and the kthers contracts, adtercseeing lightning,?
-
----
-
 hidden something learning vertically not ?
 
 ---

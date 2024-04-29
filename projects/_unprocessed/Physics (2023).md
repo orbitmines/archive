@@ -3,6 +3,10 @@ Mailing List:
   - https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=QUANTUM-COMPUTING
 ---
 
+Spreads ro sll possible until another is better and the kthers contracts, adtercseeing lightning,? ; Everything is shrunk from the other side into the channel that now opens up. Entropy.
+
+---
+
 High fos water dropplet bounching off water myltiple times, each time higher the smaller it is, then merging witht he water structure below, local gravitational pressure breaks and then merges partially, shockwave below- interesting
 
 ---
