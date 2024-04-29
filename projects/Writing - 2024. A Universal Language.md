@@ -5,7 +5,7 @@ Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
 Introduction
-Admi
+Admittedly, this starts with a simple cithat this is a generalization of many ideas
 
 I suspect that a large numbers of problems arise from a rather simple conceptual mistake. And perhaps calling it a mistake, is itself a mistake - for we always make ... practical tools. But herein lies a crucial ... ; ref to [[Project - OrbitMines as a Game (2025-2026?)]], convenient solution.
 
