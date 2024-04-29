@@ -10,10 +10,6 @@ It's not just about being able to work with unique data, but also about what you
 
 ---
 
-hidden something learning vertically not ?
-
----
-
 Even wrong profram dynamics still work
 
 ---
