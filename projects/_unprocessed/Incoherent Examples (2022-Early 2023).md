@@ -28,15 +28,10 @@ History: The initial side of the perceived non-trivial temporal directionality. 
 
 Examples of directionalities:  
   
-- [ ] General case of minimizing some directionality  
-  of which temporal could be one ; applied functions/rules/.. .  
 - [ ] Compressing/minimizing ambiguity  
   Priority: GIven all these ambiguities prefer definitions, or going to definitions with less confusion/less ambiguity. With the  
   added note, reasoned through 'anything can be interpreted as anything' notice the extremes, that it's not perfect. But  
   given the known descriptions, this seems least-confusing. (; could also be retrieved by sufficient differences in surrounding context)  
-- [ ] Compressing/minimizing some level of description  
-  Priorty: Least visual information / least complex descriptions: ((A.B).=)(C) -> A.B = C as an example. "There's no need for all this noise."  
-  less redundancy in rules (distance in discoverability)  
 - [ ] Exploration? - unknowns (Checking workings of functions under conditions, checking workings of functions if unknown ... fidelity ..)  
   Priority: Exploration of LHS -> RHS. (generic transformation; function exploration, lhs into rhs)  
 
