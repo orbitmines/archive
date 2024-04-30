@@ -64,5 +64,4 @@ On definitions: Differences/appropriateness/matters of controversy: Differences 
 A curious question that keeps me wondering: Why the visual experience oriented one way over a perfect mirroring? The observer wouldn't know the difference of course, then what does the particular form represent? Why one over the other? - My first guess would be some ordering it what happens first, what updates first, or some boundary in the universe which says this one comes first?
 
 ---
-
-A curious thought experiment one might perform is that of accessing previous states as a non-interacting observer without the need of memory - other than having to persist the particulars which would allow for this - which would require memory (; non-trivial persistence).
+  - vs. "false memory"/I can still make that conclusion even though my mechanism of getting there isn't accurate.  (possibly not really, just for inaccurate reasons possibly (in)accurate) memory of loop having happened some number of times "
