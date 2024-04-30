@@ -14,8 +14,11 @@ Read: [Perfectly Secure Steganography using Minimum Entropy Coupling (2023)](../
 
 
 - [ ] homomorphic encryption  
-- [ ] Cryptographic computing: zkSync/zkEVM, Lurk, FHE  
-- [ ] stenography  
+- [ ] Cryptographic computing: zkSync/zkEVM, Lurk, FHE  - 
+###### stenography
+[[2023-11-16]]
+Im reminded of some idea to use the hits in something like any image/article and built from there violations ([[2023-12-07]]; as some entry into stenography) - use it as some 
+
 - [ ] Additional layer in security in the form of a secondary encrypted target which is more likely to be found by an adversary as to discourage further inquiry? (Where that target would be some plausible-encrypted message.) Possible multiple of those. Is there anything in the literature to suggest something like this as a possibility? If not, then it'll likely at some point be discovered and effectively used, especially if this is easily automated.
 - [ ] Quantum Cryptography / communication  
 	- [ ] This quantonium paper

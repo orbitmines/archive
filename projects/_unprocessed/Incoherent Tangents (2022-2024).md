@@ -10,8 +10,7 @@ A curious thought experiment one might perform is that of accessing previous sta
 ---
 
 
-[[2023-11-16]]
-Im reminded of some idea to use the hits in something like any image/article and built from there violations ([[2023-12-07]]; as some entry into stegonography or something [[Jonathan Gorard]] called covariant computation)
+
 
 [[2023-10-31]]
 Defocussed eyes seem to rrly on color to readjust? - Can focus to something with a similar color incorrectly
