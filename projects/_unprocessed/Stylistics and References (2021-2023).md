@@ -1,7 +1,6 @@
 Mathematics, not having access to the .self, or actively ignoring it..
 
 - [ ] That human tension to rename graph to hypergraph / ...., while probably the original point id already general enough uf unterpreted properly
-- [ ] Jones knot polynomial theorem similar /close to a binary superposition?
 
 ---
 
