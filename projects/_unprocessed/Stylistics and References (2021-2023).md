@@ -1,12 +1,4 @@
 
-- [ ] That human tension to rename graph to hypergraph / ...., while probably the original point id already general enough uf unterpreted properly
-
----
-
-Define/describe a good way of phrasing the ignorance of descriptions in such a way that it's not derogatory but always useful in certsin ways - it's always the evolutionary trade off/difference in what one can see with certain ideas and what one can't/is less able to - this probably important for the presentation of the idea as the not trigger justified backlash against its phrasings. - Though I like and think it might be prudent to do use the word ignorance (I believe quantum physics has also set some precedent for this - see how it's used and if that's sufficient for this - or perhaps even interferes with how I'm describing it.(  
-
----
-
 - https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas, church-turing thesis, computation universality  
 
 Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols. 
@@ -63,15 +55,15 @@ Assume all comments on these as quick conclusions drawn from summaries which may
 - [Black box group](./read/wiki/Black_box_group.pdf) ; further inquiry into group theory  
 - [Cybernetics](./read/wiki/Cybernetics.pdf)  
 - [Radical constructivism](./read/wiki/Radical_constructivism.pdf)  
-- [Autopoiesis](./read/wiki/Autopoiesis.pdf) ; Maturana himself stated he would "[n]ever use the notion of self-organization ... Operationally it is impossible. That is, if the organization of a thing changes, the thing changes ; Look him up and see if there's anything interesting there.  
-- [Humberto Maturana](./read/wiki/Humberto_Maturana.pdf) ; Read one of his translated earlier papers? Probably the 1998 one.  
+- [Autopoiesis](./read/wiki/Autopoiesis.pdf) ; Maturana himself stated he would "[n]ever use the notion of self-organization ... Operationally it is impossible. That is, if the organization of a thing changes, the thing changes ; Look him up and see if there's anything interesting there.
+- [Humberto Maturana](./read/wiki/Humberto_Maturana.pdf) ; Read one of his translated earlier papers? Probably the 1998 one.
 - [Enactivism](./read/wiki/Enactivism.pdf)  
 - [Constructivism (philosophy of science)](./read/wiki/Constructivism_(philosophy_of_science).pdf)  
 - [Ernst von Glasersfeld](./read/wiki/Ernst_von_Glasersfeld.pdf)  
 - [Social constructivism](./read/wiki/Social_constructivism.pdf)  
 - [Social constructionism](./read/wiki/Social_constructionism.pdf)  
 - [Model-dependent realism](./read/wiki/Model-dependent_realism.pdf) ; Pretty much exactly along my line of thinking.  
-- [All models are wrong](./read/wiki/All_models_are_wrong.pdf) ; Perhaps recite all these topics in the next paper to cover the previous collection of ideas. ; Evidently a lot of it has been permeating through science for some time.  
+- [All models are wrong](./read/wiki/All_models_are_wrong.pdf) ; Perhaps recite all these topics in the next paper to cover the previous collection of ideas. ; Evidently a lot of it has been permeating through science for some time.
 - [George E. P. Box](./read/wiki/George_E._P._Box.pdf)  
 - [Anscombe's quartet](./read/wiki/Anscombe's_quartet.pdf) ; Could be characterized as numbers in high volume don't necessarily encode strict positional relationships to each-other as a visual graph would for humans.  
 - [Bonini's paradox](./read/wiki/Bonini's_paradox.pdf)  
