@@ -115,9 +115,5 @@ On heat dissipation: If forms of energy are either motion or something like abno
 
 ---
 
-
 Physics: Thoughts on Blackholes, having in mind how Stephen Wolfram described them: Information black holes/fixed points through time. They can merge, but that doesn't necessarily rule out that they can 'explode'/'collapse', evidently not an intuitive thing if it's never yet been observed. ; (31/03/2023; The thought occurred: What about something like properly timing the bringing together of multiple blackholes in a way that usually doesn't happen?; Can they be steered someway? Can a particular configuration result in a collapse? Is it not just the halting of any updating rules as Wolfram might suggest; but perhaps a temporally halted one in some aspect? )
 
----
-
-While on the bike; Likely the only way to approach such a problem is by altering one's own cognition; but that has obvious detremental consequences; and likely only possible once human cognition, or the functioning of the brain is understood. Even in the perception of framing it as a cognition to a soul, this for science means the same thing, if it can interact with the brain, it is observable and linked and might as well be a physical thing to us. Possible notion that the way /sequence of interactions is relevant for having this.
