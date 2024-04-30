@@ -232,10 +232,6 @@ Heat Death of the Universe section .. before reading; reminds me of some incoher
 
 ---  
   
-Read: [Toroidal topology of population activity in (2022)](./read/s41586-021-04268-7.pdf) ; The abstract hints to: "an individual module resides on a toroidal manifold, as expected in a two-dimensional CAN", which seems a similar statement to my thought expressed in the MLST discord 2 days ago, if this expectation is indeed so obvious I could point it out without knowing much about these networks. ; further inquiry of CANs and neuroscience is probably a good idea. ; skimmed through some parts.  
-  
 At the same time the discussion mentions: "as 2D space is not characterized by toroidal topology"; which seems like I'm either misinterpreting some points here, or the answer above is a likely direction to which this answer will point. 2D bounded space is close to toroidal topology. (; they do mention ring & torus in respect to 1d/2d earlier)  
   
 "uniform manifold approximation and projection" ?  
-  
----
