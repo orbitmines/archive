@@ -60,7 +60,7 @@ console.log(res);
 
 ---
 
-2024, March - A monthly excerpt of my Literary Exposure.
+2024, April - A monthly excerpt of my Literary Exposure.
 
 See @OrbitMines ' Community Discord: https://discord.orbitmines.com, for more information on my projects.
 
