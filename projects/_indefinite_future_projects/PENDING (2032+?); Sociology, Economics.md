@@ -17,7 +17,7 @@ What do you do in a world where finding something is the hard part, then copying
 Same argument different perspective different conclusion. (; also as an example of a possible human confusion)
 
 ##### Social - Linguistics
-Words are often mainly used without properly understanding the history of their use by others. - 
+Words are often mainly used without properly understanding the history of their use by others.
 
 [[2024-04-18]]
 Is there a word for: "Something happens, filter is put up to deal with it, then it's precisely that filter which becomes the problem."
