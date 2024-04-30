@@ -16,7 +16,7 @@ Is there an example of small group of cells having persisting memory to coordina
 
 ---
 
-there must be someone who has considered and tried to find a possible warping or what one currently considers to be the known universe, as possible multiple reflections of a smaller space?
+
 
 ---
 
