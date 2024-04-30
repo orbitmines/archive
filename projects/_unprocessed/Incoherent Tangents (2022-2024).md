@@ -52,20 +52,6 @@ On definitions: Differences/appropriateness/matters of controversy: Differences 
 
 Although I don't think Asimov explicitly stated it but hinted at it. The Gaian preference to use as little syllables as possible to refer to some human-as-a-component seems revealing in the sense that as little information ad possible is used as to not have to disambiguate constantly (through multiple possible reference options). Optimizing for efficiency in the sense of low information density, and computational efficiency in the sense of realizing when ambiguity will exist, and allowing for more information to be used as to not have to use computation in the form of transformations (time-efficient), but positionally encode it into the syllables & location/reference of where the information was acquired.
 
----
-
-cosmology. ; Would be interesting to try and see if there's a torus like shape of the universe? - a bssis of inquiry from ignorance
-
----
-
-
----
-
-Is something like PI an abstract limit of some sort of property (; resulting from abstract/generality?)
-
----
-
-Perhaps it's worth reading on some linguistics as to figure out som non-trivial ways to leverage human capability to understand symbols language efficiently? (; To better compactly 'store' complex propositions.)
 
 ---
 

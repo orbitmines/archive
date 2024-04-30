@@ -25,6 +25,9 @@ just 'speed limit' as it discourages inquiry in its possible dissociation with l
 [[2023-04-07]]
 I wouldn't necessarily frame it as first principles. Seems likely that that promotes the line of thinking that what one has discussed are indeed the first principles and not something more permeating, excluded from those ideas, which is something to be considered. Probably a conclusion to be drawn from that, that advice is more likely to be useful when sufficiently vague. A sort of psychological manipulation: See here a vague pattern I associate with this thing, see that pattern: it means this thing.
 
+Perhaps it's worth reading on some linguistics as to figure out som non-trivial ways to leverage human capability to understand symbols language efficiently? (; To better compactly 'store' complex propositions.)
+
+
 ##### Social - Economics
 [[2024-03-09]]
 collaborative/commons finance - [[Fotis Tsiroukis]]
