@@ -74,7 +74,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 
 # 2024, April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 ### :orbitmines: OrbitMines Excerpt
-- 
+- :syco: [Twelfth Symposium on Compositional Structures (SYCO 12) (2024)](https://www.cl.cam.ac.uk/events/syco/12/) ; *Bi*
 
 ### Literary Exposure
 - :youtube: :tinycorp: [Researching | same thing we do every weekend, documenting the AMD 7900XTX | Part 1 (2024)](https://www.youtube.com/watch?v=j7MRj4N2Cyk) ; *George Hotz*
