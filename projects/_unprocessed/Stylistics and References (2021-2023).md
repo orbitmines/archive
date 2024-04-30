@@ -51,8 +51,7 @@ Tensors (multi-dimensional arrays) as the asummption holding same dimensionality
 I suspect there to be some deep (a)symmetries between the certain conceptualizations of 'zero' and 'one'. ... For the conceptualization of zero requires some non-zero directionality. (; To have the ability to describe invariance, one needs some variance.)  
   
 ----  
-  
-  
+
 Digesting some wikipedia articles (; mainly as exploratory, not necessarily interested in rigor on this expedition, just looking for some interesting ideas I hadn't heard of/hadn't thought of before) :  
   
 Assume all comments on these as quick conclusions drawn from summaries which may themselves be, as well as my interpretation of them, ignorant of the actual writings on the subject:  
