@@ -5,7 +5,6 @@
 
 
 - [ ] https://zicklag.github.io/blog/interaction-nets-combinators-calculus/
-- [ ] https://lambdaexplorer.com/
 
 
 As eluded to in https://github.com/Kindelia/HVM/blob/master/guide/HOW.md:

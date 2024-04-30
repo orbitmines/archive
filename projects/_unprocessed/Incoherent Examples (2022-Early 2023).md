@@ -63,7 +63,6 @@ When one uses a concept like autonomous, its more like 'non human autonomous - t
 
 ### Incoherent Examples
 
-
 ---
 
 As a coy introduction (in Hofstadter fashion), perhaps:
