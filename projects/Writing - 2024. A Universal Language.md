@@ -55,7 +55,7 @@ Only difference is the assymetry of is_orbit and the consequences of that if sel
 
 Reverse direction as teo points. Need a good intuition for this. Basically one of tep values selected and the switching of direction to the other way. Perhaps similarly a tep step modular structure of which you can see the intial/terminals being swapped. Is_equiv if can tell the difference and ignore, is_orbit if cannot  
 
-igno
+- [ ] ignorant referencing ray ; all these as ; 
 
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
