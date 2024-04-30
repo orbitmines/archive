@@ -127,14 +127,6 @@ Only if the information in spacial dimensions hold through a temporal dimension.
 
 ---
 
-Rationality sounds like irrationality, utopian sounds like distopian (; adding entry on 01/03/2023; probably a re-wording from a thought already expressed sometime next year.)
-
----
-
-Based on the idea that anything can be framed, seemingly correctly/confincingly, as desired by the observer doing the framing. Take trees as an example. You might say, trees are beautiful and help...
-
----
-
 
 Physics: Thoughts on Blackholes, having in mind how Stephen Wolfram described them: Information black holes/fixed points through time. They can merge, but that doesn't necessarily rule out that they can 'explode'/'collapse', evidently not an intuitive thing if it's never yet been observed. ; (31/03/2023; The thought occurred: What about something like properly timing the bringing together of multiple blackholes in a way that usually doesn't happen?; Can they be steered someway? Can a particular configuration result in a collapse? Is it not just the halting of any updating rules as Wolfram might suggest; but perhaps a temporally halted one in some aspect? )
 
