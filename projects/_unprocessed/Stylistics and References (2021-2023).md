@@ -32,9 +32,7 @@ I suspect that the issue of consistency in mathematics arises from its generaliz
 
 Relate how this compares to Godels incompleteness thereom, where the space of possibile theoreoms is disaplyed in some background, it's only that background which defines non-reachable theorems.
 
-Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols.  
-  
-Just as boolean algebra can't reach every possible state in its abstract definition, yet not when expressed in larger terms of every possible binary sequence, so can some abstract representation in the forms of how it is physically implemented, not necessarily represent every possible universe-state. Perhaps indirectly in some way>?? (bit vague)
+Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols. 
 
 - Halting problem, Rice's theorem, Godels incompleteness theorems  
 
