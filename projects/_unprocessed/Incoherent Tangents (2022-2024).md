@@ -14,12 +14,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ---
 
-Comment discord today: This would make for conceptual continuous movement usint something else in memory to destingiosh recency. ; the torus as 'continuous', additional context allowing for disambiguation of ambiguous points on the torus. Extreme signals at the end of the 2d grid seem intuitive in the sense that they'd be the least likely in the space to cause inaccuracies.
-
-1d vs 2d? Pethaps biological practical reasons
-
-What about the search of a star or black hole in an unusual place ? -
-
 One tripe around the torus perhaps representing additional resource strains and hence more likely to collapse to a state of confusion?
 
 ---
