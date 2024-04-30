@@ -230,5 +230,3 @@ Assume all comments on these as quick conclusions drawn from summaries which may
 
 Heat Death of the Universe section .. before reading; reminds me of some incoherent thought I had a little bit ago; perhaps black holes would represent a solution there if not the thing mentioned above. (would imply a possibly much older universe where perhaps information in a slight way is concervered from its 'previous iteration'; but quite speculativr with much ignorance on my end.)  
 
----  
-  

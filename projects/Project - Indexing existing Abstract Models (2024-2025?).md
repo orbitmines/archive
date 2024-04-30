@@ -96,7 +96,7 @@ Comments on [[2024-02-22]]
 - [Builder.io](https://github.com/BuilderIO), [pflow.dev](https://github.com/pFlow-dev), [Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D)
 	- [ ] https://en.wikipedia.org/wiki/Visual_programming_language
 - https://github.com/chrxh/alien, [Nomic Atlas](https://github.com/nomic-ai/nomic)
-- [quiver](https://github.com/varkor/quiver), [t-SNE](https://distill.pub/2016/misread-tsne/), [distill.pub](https://distill.pub/), [perfect-arrow](https://github.com/ChrisShank/perfect-arrow), [StateML](https://www.stateml.org/), https://azlen.me/gallery/, [Practal](https://github.com/practal), LayerProcGen, https://lazy.so/, [muxViz](https://github.com/manlius/muxViz), [n8n](https://github.com/n8n-io/n8n)
+- [quiver](https://github.com/varkor/quiver), [t-SNE](https://distill.pub/2016/misread-tsne/), UMAP "uniform manifold approximation and projection", [distill.pub](https://distill.pub/), [perfect-arrow](https://github.com/ChrisShank/perfect-arrow), [StateML](https://www.stateml.org/), https://azlen.me/gallery/, [Practal](https://github.com/practal), LayerProcGen, https://lazy.so/, [muxViz](https://github.com/manlius/muxViz), [n8n](https://github.com/n8n-io/n8n)
 - [ ] Graph/Visualization to SVG (vector representation. From [[MakerJS]], also: DXF, SVG, PDF, JSCAD CAG, STL, ...).
 - [ ] https://github.com/kosmos/awesome-generative-art
 - [ ] [[Obsidian]], [[notion.site]], other IDEs, [typecell](https://www.typecell.org/), [starboard](https://starboard.gg/), Android Studio, ...
