@@ -14,11 +14,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ---
 
-One tripe around the torus perhaps representing additional resource strains and hence more likely to collapse to a state of confusion?
-
----
-
-It seems to be the interaction of arriving at the 'same place' through high velocity travel, where one is moving, the other, smaller, not. That the thing not moving is interpreted ss the thing moving as a possible 'cosmic ray',
 
 ... this thought is not so well formed, I'm not sure on the right language for it. Spacial abnormalities being influenced by, or through being at some 'same place' (which is merely a matter of perception, they seem equivalent), through a space. Their interaction is through propegation?
 
