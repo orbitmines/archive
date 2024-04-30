@@ -54,10 +54,6 @@ Although I don't think Asimov explicitly stated it but hinted at it. The Gaian p
 
 ---
 
-Is the spacial universe even 3-dimensional? Might as well be effectively 3-dimensional, but if what one characterizes as mass curves it, isn't that a spacial alteration and not necessarily 3-dimensional? Or am I missing something here.
-
----
-
 cosmology. ; Would be interesting to try and see if there's a torus like shape of the universe? - a bssis of inquiry from ignorance
 
 ---
