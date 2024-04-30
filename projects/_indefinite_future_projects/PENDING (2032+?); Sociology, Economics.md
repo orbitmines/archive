@@ -39,3 +39,7 @@ Random thought from Tuesday while with alex&dani, more activity/relativistic/...
 Defocussed eyes seem to rely on color to readjust? - Can focus to something with a similar color incorrectly
 [[2023-10-12]]
 Vission working loke this: positional encodings of the field is the same, movr away from focus, the abstraction layer on top changes (further away from focus becomes smaller number of nodes anove the positional encodingz hence perceived smaller) focus on it, mor information more jodes, more dedicated resources) - probably some oversimplification, but an easy to visualize how the positional encoding doesn't change but the description above abstractly attached to it does.
+[[2023-08-26]]
+Shouldn't phrase color illusion as an illusion, better to phrase it that what color is to your mind is not just simple spectrum with some opposites. It necessarily uses context too, it is much more nontrivial. At some point the wavelengths are the same frequency. - But your mind does not interpet it like wavelengths, it is likely much more nontrivial. - Similar things said elsewhere? How to showcase this nonteiviality? - Is it a necessary aspect or is it possible to only abide by the wavelengths, and what sort of processing would one lose if it did. Because they're likely significantly different perceptions - perhaps it wouldn't look similar at all - perhaps it wouldn't functions respond similar at all. Less information, less contextual relations?
+
+Eyes/Mind correct for predictable lines/shapes similarly..
