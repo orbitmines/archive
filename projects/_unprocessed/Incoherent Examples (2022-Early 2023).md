@@ -87,19 +87,6 @@ More practical argument for privacy being perhaps an element of non-conformity i
 
 ---
 
-Surely you would say the air around you is having an influence on you? And arguably a good one for I doubt your body would stay in one place without the pressure of the air.
-
----
-
-Similarly, while a human may not have direct access to the exact implementation and structures of their brain internally, something like that is more easily achieved within a computer. And similarly that also has its limitations in the form of computational boundedness and the psychical implementations (and their consistency through time). ;
-
----
-
-
-Are you so ignorant (perhaps this is a little too harsh, but fixes the stress on this point I suppose) that perhaps understanding how the dealer shuffles the cards has not the possibility of a probabilistic edge, since it is of probabilities we speak? If you have not the guarantee of perceived fairness in the probabilities associated with the cards? Or is it merely than you cannot perceive other observers playing at the table to have devised a technique of picking up the slightest of photons as to have a probabilistic edge on the cards of others at the table?
-
----
-
 After hearing the term (non-)hollonomic at Delft TU, a quick look at its definition, I reframed it as the idea that all systems are non-hollonomic (in my framework; although I didn't make this part of the assertion yesterday), except perhaps the universe itself. Or simply saying all systems are (non-)hollonomic, and ignorance makes them hollonomic, or one could make the argument that magic allows for either; Having said yesterday: "So, all dystems are non-hollonomic or magic"
 
 ---
