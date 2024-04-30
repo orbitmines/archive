@@ -13,23 +13,7 @@ A curious thought experiment one might perform is that of accessing previous sta
 ### 2023 04-07
 
 
-
 ---
-
-What about waves/wave-length? How does that factor in with the speed limit? ; Somehow I've not thought about this aspect yet.
-
----
-
-(; 08/03/2023; late night confusion); `Zero mass implies speed limit? Wouldn't that be reframable as speed limit `
-
-What about waves/wave-length? How does that factor in with the speed limit? ; Somehow I've not thought about this aspect yet.
-
----
-
-h (; planck) (or smaller) being the timestep for speed limit
-
----
-
 Speed limit (albeit light speed or its general concept whether actually attributed to light or mot); the perfect spacial propegation in some space. A quality possibly attributed to teleportation as well. Nerely perfect propegation, spacial locality is irrelevant to this property.
 
 Isn't the more interesting question how one would slow down once a speed limit is achieved? (; start referencing it without the use of light). Through some external abnormality one might be slowed down, but if internal motion isn't propegated, when is the motion stopped? What happens for instance with light? Some knowledge gaps here to answer these questions properly.

@@ -208,3 +208,16 @@ On heat dissipation: If forms of energy are either motion or something like abno
 
 Are not processes different on the surface of another planet? Are not cognitive processes different on another planet? Is influence of gravitational forces enough to change the emerging layer of information processing? Could it impact lower hardware-levels to such an insignificant extent? Is not even the slightest change in speed or impulses possible which can dramatically alter outcomes?
 
+---
+
+What about waves/wave-length? How does that factor in with the speed limit? ; Somehow I've not thought about this aspect yet.
+
+---
+
+(; 08/03/2023; late night confusion); `Zero mass implies speed limit? Wouldn't that be reframable as speed limit `
+
+What about waves/wave-length? How does that factor in with the speed limit? ; Somehow I've not thought about this aspect yet.
+
+---
+
+h (; planck) (or smaller) being the timestep for speed limit
