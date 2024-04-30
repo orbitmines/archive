@@ -10,7 +10,7 @@ People
 https://github.com/JonathanGorard/Cosmos
 
 # UNPROCESSED
-*Tread carefully*
+*Tread carefully, confusion abound*
 
 [[2023-04-07]]
 there must be someone who has considered and tried to find a possible warping or what one currently considers to be the known universe, as possible multiple reflections of a smaller space?

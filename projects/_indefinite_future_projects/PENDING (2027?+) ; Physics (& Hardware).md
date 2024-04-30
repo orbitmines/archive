@@ -23,7 +23,7 @@ Read
 - [ ] https://en.wikipedia.org/wiki/History_of_Maxwell's_equations
 
 # UNPROCESSED
-*Tread carefully*
+*Tread carefully, confusion abound*
 
 - AMD rant from George - some important stuff
 	- Rockchip? RK3588

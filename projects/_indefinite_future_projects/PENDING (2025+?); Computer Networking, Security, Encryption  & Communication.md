@@ -1,7 +1,7 @@
 
 
 # UNPROCESSED
-*Tread carefully*
+*Tread carefully, confusion abound**
 
 - [ ] (p2p testing tool;) https://github.com/testground/testground  
 - [ ] (secure distributed persistent language for capability-based smart contracting; ) http://www.erights.org/  
