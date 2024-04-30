@@ -12,7 +12,7 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ### 2023 04-07
 
-Thought popped up earlier today that I should get some better understanding of archaic greek. Followed by the idea that any understanding of language would necessarily be different from prior learned languages. It's seems inconceivable one would be able to understand the language properly as back when it was more frequently used. And that learning it will change the relation and understanding of other languages.
+
 
 ---
 
