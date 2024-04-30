@@ -303,9 +303,12 @@ Platform interop
 - NixOS
 
 
-
 ---
 
+# UNPROCESSED
+*Tread carefully, confusion abound*
+
+---
 
 
 Digesting some wikipedia articles (; mainly as exploratory, not necessarily interested in rigor on this expedition, just looking for some interesting ideas I hadn't heard of/hadn't thought of before)
