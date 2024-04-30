@@ -66,6 +66,7 @@ When one uses a concept like autonomous, its more like 'non human autonomous - t
 ---
 
 As a coy introduction (in Hofstadter fashion), perhaps:
+
 > Is this pen equal to that pen? - Frowned looks -. Ok then, let me simplify the question. Is this pen equal this pen (pointing once again, at the same pen). - Frowning having increased to unprecedented levels -. Surely, a question the philosophers have answered across all human cultures and times. It's obvious, they're equal! No, you must be wrong, it's obvious they're not! Curious bystanders continuing the now precedented ritual of frowning.
 
 ---
