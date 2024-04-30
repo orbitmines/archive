@@ -1,13 +1,6 @@
 
-Intelligence - Practical Ignorance
+Intelligence - partially practical ignorance
 
-
-##
----
-[[2024-02-27]]
-You probably wouldn't want to normalize (ie create the pressure that you must) publishing you everything do online - but that's probably what I'm signalling to now
-[[2024-02-05]]
-What do you do in a world where finding something is the hard part, then copying and redistributing takes resources, but copying is a pretty universal resource. This has basically been the transition/history of software?
 
 
   - vs. "false memory"/I can still make that conclusion even though my mechanism of getting there isn't accurate.  (possibly not really, just for inaccurate reasons possibly (in)accurate) memory of loop having happened some number of times "
