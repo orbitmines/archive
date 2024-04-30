@@ -72,6 +72,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 
 ---
 
+![[Pasted image 20240501005725.png]]
 # 2024, April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 ### :orbitmines: OrbitMines Excerpt
 - :orbitmines: [Project - Research towards Designs (2024)](https://github.com/orbitmines/orbitmines.com/issues/29)
