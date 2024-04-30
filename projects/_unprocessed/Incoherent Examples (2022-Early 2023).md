@@ -7,8 +7,7 @@ Read: [General Intelligence Requires Rethinking Exploration (2022)](2211.07819.p
 
 ---
 
-
-- https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas, computation universality, Halting problem, Rice's theorem, Godels incompleteness theorems  
+- https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas, computation universality, Halting problem, Rice's theorem, Godels incompleteness theorems
 
 I suspect there to be some deep (a)symmetries between the certain conceptualizations of 'zero' and 'one'. ... For the conceptualization of zero requires some non-zero directionality. (; To have the ability to describe invariance, one needs some variance.)  
 
