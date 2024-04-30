@@ -89,6 +89,7 @@ Traversing `.self`
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
+- noticing of runtime inconsistencies from some perspective ; adjustable
 ##### "Binary"
 - [ ] ; ideas from the notebooks
 Encoding/symbols..
