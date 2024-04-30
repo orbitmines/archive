@@ -29,9 +29,7 @@ Not so sure about these points:
 
 ---
 
-  The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'.
-
-- [ ] some other level of description is not ignorant, another is. -0 simulate
+The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'.
 
 Ignoring Redundancies (; Skipping Equivalences)
 Ignorant of its use - visualizing
