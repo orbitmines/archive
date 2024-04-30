@@ -55,7 +55,6 @@ The entropically dominant thing - what if that (or is that how) the wave functio
 
 ---
 
-
 From [[Chyp (Cospans of HYPergraphs)]]'s 1st paper: "statistical perfect correlations or (GHZ-like) quantum entanglement." ; brought the thought: So it's the equivalency frame of the connections, if they are connected which means entanglement, not necessarily at the frame of the defined vertex. (Could make sense if in the case of the vertex we assume that that means merely additional constructions which should be considered - and are considered in the quantum case, but usually ignored.)
 
 ---
