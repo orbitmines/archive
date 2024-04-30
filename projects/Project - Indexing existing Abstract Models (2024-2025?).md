@@ -214,7 +214,7 @@ Comments on [[2024-02-22]]
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
-- All the [[PENDING (2027?+) ; Hardware, Physics]] things... String theories, Ring Theory, ..., Knot Theory, Graph Percolation Theory, constructor theory etc... 
+- All the [[PENDING (2027?+) ; Physics (& Hardware)]] things... String theories, Ring Theory, ..., Knot Theory, Graph Percolation Theory, constructor theory etc... 
 	- Expand for any field
 	- https://en.wikipedia.org/wiki/Game_semantics
 	- 
