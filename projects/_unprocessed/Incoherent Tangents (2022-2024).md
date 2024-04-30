@@ -58,7 +58,6 @@ cosmology. ; Would be interesting to try and see if there's a torus like shape o
 
 ---
 
-I wouldn't necessarily frame it as first principles. Seems likely that that promotes the line of thinking that what one has discussed are indeed the first principles and not something more permeating, excluded from those ideas, which is something to be considered. Probably a conclusion to be drawn from that, that advice is more likely to be useful when sufficiently vague. A sort of psychological manipulation: See here a vague pattern I associate with this thing, see that pattern: it means this thing.
 
 ---
 
