@@ -133,7 +133,9 @@ This is basically: When to decide that perspective switches should have a differ
  - ex: TODO: Do I want to keep the is_equiv/is_composed pattern? Or simplify to one of the two?
  
 
-##### Physics, ..., Dynamics
+##### Mathematics, Physics, ..., Dynamics
+Mathe
+
 Defer to [[Jonathan Gorard]]'s work, for more physics details there. As for example this: ["The boundary of a boundary is always empty."](https://twitter.com/getjonwithit/status/1784599157015007391)
 
 - Some of my intuitions of physics
