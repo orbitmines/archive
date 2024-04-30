@@ -57,7 +57,19 @@ warp-level primitives?
 
 ---
 
+- [ ] Possible as an example: Rabin-Scoot theorem Jonathan tweeted which I first found (while browsing rust docs???) - Apply the inconsistency argument here, does it still make sense??
 
+---
+
+Read: [General Intelligence Requires Rethinking Exploration (2022)](2211.07819.pdf) Aleatoric uncertainty / Epistemic uncertainty / Irreducible uncertainty ; explore these? ; or perhaps both are already captured in the vagueness of the 'conceptual uncertainty' idea.
+
+---
+
+- https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas, computation universality, Halting problem, Rice's theorem, Godels incompleteness theorems
+
+I suspect there to be some deep (a)symmetries between the certain conceptualizations of 'zero' and 'one'. ... For the conceptualization of zero requires some non-zero directionality. (; To have the ability to describe invariance, one needs some variance.)  
+
+---
 
 The difference in interpretation of 'inconsistency' in mathematical terms, and it's more usual definition of abstract change/directionality/asymmetry?
 - [ ] Is this merely, within one system, there's a single inconsistency, which makes the whole thing ergodic, or is there something else?
