@@ -87,6 +87,7 @@ Traversing `.self`
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
+##### ""
 ##### "Superpose in more detail"
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
 	- ; So that would be like finding the higher-arity structure there, and selecting it like the vertex on vertex, having it branch off.
