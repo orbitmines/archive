@@ -12,9 +12,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ### 2023 04-07
 
-On definitions: Differences/appropriateness/matters of controversy: Differences visually, are easily pointed out by the human mind, but any differences between things are worth figuring out why something is different and how that effects the world. It's not so hard to imagine that a human mind never exposed to a particular visual stimulus of other human that is notably different from one's previously seen, could merit this. What's significant is whether such differences should result into different treatment, and the psychological arguments that independent of moral claims that anything unusual (where unusual could be defined; as not having seen before from a particular observer's perspective), merits curiosity/adversity/.... With sciences in  place it is not that hard to create a link between visual differences and a biological explanation (whether finding that is trivial or non-trivial matters not for this line of reasoning). It is whether differences resulting in different observations/actions following from observations, are deemed (morally or practically) as something (a bias applied) appropriate.
-
----
 
 Although I don't think Asimov explicitly stated it but hinted at it. The Gaian preference to use as little syllables as possible to refer to some human-as-a-component seems revealing in the sense that as little information ad possible is used as to not have to disambiguate constantly (through multiple possible reference options). Optimizing for efficiency in the sense of low information density, and computational efficiency in the sense of realizing when ambiguity will exist, and allowing for more information to be used as to not have to use computation in the form of transformations (time-efficient), but positionally encode it into the syllables & location/reference of where the information was acquired.
 
