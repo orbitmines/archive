@@ -194,3 +194,5 @@ Might there be a way(likely incredibly small technology, possibly quantum mechan
 [[2023-08-05]]
 Construct neutrons/.... al the other things from the smaller thing?
 
+[[2023-01-03]]
+Causality as a conceptual extreme on correlation in time.,.

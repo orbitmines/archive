@@ -16,7 +16,7 @@ Conceptualize from always moving at the limit speed at every yime step, but get 
 
 ---
 
-Origin of life: perhaps look in situations which aren't usual except in the formation of some planet: Highly volatile, high temperature (high differences in temperature) environments which might allow for the instantiation of some proto-life and then allow it to persist and not die instantly.
+
 
 ---
 
@@ -27,9 +27,6 @@ Is there an example of small group of cells having persisting memory to coordina
 there must be someone who has considered and tried to find a possible warping or what one currently considers to be the known universe, as possible multiple reflections of a smaller space?
 
 ---
-### 2023 01-03
-
-Causality as a conceptual extreme on correlation in time.,.
 
 ---
 
