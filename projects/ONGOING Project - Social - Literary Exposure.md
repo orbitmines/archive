@@ -74,7 +74,8 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 
 # 2024, April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 ### :orbitmines: OrbitMines Excerpt
-- :orbitmines: []
+- :orbitmines: [Project - Research towards Designs (2024)](https://github.com/orbitmines/orbitmines.com/issues/29)
+- :orbitmines: [Project - Education (2027+?)](https://github.com/orbitmines/orbitmines.com/issues/30)
 - :syco: [Twelfth Symposium on Compositional Structures (SYCO 12) (2024)](https://www.cl.cam.ac.uk/events/syco/12/) ; *Birmingham, UK*
 
 ### Literary Exposure
