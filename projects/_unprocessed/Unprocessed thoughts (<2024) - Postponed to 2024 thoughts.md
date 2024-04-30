@@ -102,8 +102,6 @@ Ignorant of its use - visualizing
 
 - [ ] This similar to homotopy type theory expanding possible types, or that "the most beaitufl program every written thing" which handles filling the "?" or theorem provers... - last one maybe more of finding something that matches the pattern?..
 
-- [ ] How to allow for replacing parts which have a more efficient algorithm in certain contexts? (Also of the original code..)  
-
 Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
 	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? 
