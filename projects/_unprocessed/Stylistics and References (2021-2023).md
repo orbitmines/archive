@@ -229,9 +229,7 @@ Assume all comments on these as quick conclusions drawn from summaries which may
 ---
 
 Heat Death of the Universe section .. before reading; reminds me of some incoherent thought I had a little bit ago; perhaps black holes would represent a solution there if not the thing mentioned above. (would imply a possibly much older universe where perhaps information in a slight way is concervered from its 'previous iteration'; but quite speculativr with much ignorance on my end.)  
-  
-While reading the mechanoidal phase bit: Is it not the second law that could be equated to statistical analysis & probabilities, and this phase that is low-probability but highly capable organization? - An analogy like this has been in my mind for a while. Probabilities are useful descriptions, but it's merely a language. / Perhaps frame this as a much more potent problem in 'observer theory', their complexities are even harder to predict and as a language, hence pretty much technology. Be able to use the black box as a tool, be able to recognize that one might be able to look inside or probe its characteristics, be able to reconstruct its workings through some other tool ...  
-  
+
 ---  
   
 Read: [Toroidal topology of population activity in (2022)](./read/s41586-021-04268-7.pdf) ; The abstract hints to: "an individual module resides on a toroidal manifold, as expected in a two-dimensional CAN", which seems a similar statement to my thought expressed in the MLST discord 2 days ago, if this expectation is indeed so obvious I could point it out without knowing much about these networks. ; further inquiry of CANs and neuroscience is probably a good idea. ; skimmed through some parts.  
