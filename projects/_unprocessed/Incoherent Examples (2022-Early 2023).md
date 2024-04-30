@@ -100,10 +100,6 @@ Machines aren't necessarily built to persist themselves through time, one could 
 
 ---
 
-As a response to: 'But falsehoods device constant effort.' - What is the use of known truths if it is not for the effort required for a somewhat reliable memory? - Perhaps of some truths it can be said that their re-acquirement is of relative ease. Some, especially historical ones, in the absence of a scope which reveals previous states in the universe other than internalized memory, this is perhaps a more complex issue. Some similar argument could perhaps also be made of falsehoods. What of the lens? Is it not merely a perceived form of memory? How is it less faulty?
-
----
-
 Similarly, while a human may not have direct access to the exact implementation and structures of their brain internally, something like that is more easily achieved within a computer. And similarly that also has its limitations in the form of computational boundedness and the psychical implementations (and their consistency through time). ;
 
 ---
