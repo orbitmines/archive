@@ -10,13 +10,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 ---
 
 
-
-
-
-
-[[2023-09-13]]
-3d modulus, perhaps points arrows outward, see where it goes, is it a hypertorus, is that definition like this? Inside to inside or inside to outside?
-
 [[2023-08-26]]
 Shouldn't phrase color illusion as an illusion, better to phrase it that what color is to your mind is not just simple spectrum with some opposites. It necessarily uses context too, it is much more nontrivial. At some point the wavelengths are the same frequency. - But your mind does not interpet it like wavelengths, it is likely much more nontrivial. - Similar things said elsewhere? How to showcase this nonteiviality? - Is it a necessary aspect or is it possible to only abide by the wavelengths, and what sort of processing would one lose if it did. Because they're likely significantly different perceptions - perhaps it wouldn't look similar at all - perhaps it wouldn't functions respond similar at all. Less information, less contextual relations?
 

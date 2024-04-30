@@ -70,6 +70,9 @@ water light simluationr redications
 [[2024-04-06]]
 3 dimensional sphere to outside of the sphere 7 dimension, lowrr topology Nick Hu mentioned  ; makes sense :thinking:
 
+[[2023-09-13]]
+3d modulus, perhaps points arrows outward, see where it goes, is it a hypertorus, is that definition like this? Inside to inside or inside to outside?
+
 ---
 
 Spreads ro sll possible until another is better and the kthers contracts, adtercseeing lightning,? ; Everything is shrunk from the other side into the channel that now opens up. Entropy. ; ?
