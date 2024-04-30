@@ -232,6 +232,3 @@ Heat Death of the Universe section .. before reading; reminds me of some incoher
 
 ---  
   
-At the same time the discussion mentions: "as 2D space is not characterized by toroidal topology"; which seems like I'm either misinterpreting some points here, or the answer above is a likely direction to which this answer will point. 2D bounded space is close to toroidal topology. (; they do mention ring & torus in respect to 1d/2d earlier)  
-  
-"uniform manifold approximation and projection" ?  
