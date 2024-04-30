@@ -46,10 +46,6 @@ computational effort. Unless in some extreme some local properties are entirely 
 ---
 
 #### Local Obstructions
-
-[[2023-11-13]]
-Is there a way to conceptualize a qubit as some pattern matched on any other thing
-
 ---
 
 [[2023-11-21]]
