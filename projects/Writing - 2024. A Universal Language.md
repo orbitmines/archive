@@ -125,7 +125,8 @@ In the case of Rays, whether something is a vertex/initial/terminal is only infe
 
 Leaves the following questions:  
 
-##### Fuzzing, Vadility, Coherence, Consistency, Equivalence ;;; - check orbit
+##### Fuzzing / discovery
+*Unusual exploration, sporadic, probing*
 - TODO: How about treating something like something which the context says it's not? (Could apply this sort of thing in some fidelity/consistency checking mechanism as a way of fuzzing the fidelity mechanism)
 	- Trying again: doesn't change?  
 
