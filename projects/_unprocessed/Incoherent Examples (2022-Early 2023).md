@@ -83,14 +83,6 @@ hardware being the linux_64 or its lower level, possible reduction to tet at its
 
 ---
 
-More practical argument for privacy being perhaps an element of non-conformity in the sense of less connectivity to a larger network, therefore perhaps in certain cases more resilient to something like memetics. Although probably the reverse is likely relevant as well.; A quick thought as a possible conjecture on where Foundation and Earth might lead after reading its first chapter; besides the temporal differences already noted by Asimov as an argument.
-
----
-
-After hearing the term (non-)hollonomic at Delft TU, a quick look at its definition, I reframed it as the idea that all systems are non-hollonomic (in my framework; although I didn't make this part of the assertion yesterday), except perhaps the universe itself. Or simply saying all systems are (non-)hollonomic, and ignorance makes them hollonomic, or one could make the argument that magic allows for either; Having said yesterday: "So, all dystems are non-hollonomic or magic"
-
----
-
 [[Stylistics and References (2021-2023)]]
 
 - https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas, computation universality, Halting problem, Rice's theorem, Godels incompleteness theorems  
