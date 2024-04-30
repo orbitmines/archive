@@ -1,4 +1,6 @@
-- [ ] Process notebook notes
+
+- [ ] (SEMF) Discord messages / livestream transcript
+- [ ] Some of the notebooks from 2023
 
 ---
 ##### Superpose in more detail
@@ -54,8 +56,6 @@ Ignorant of its use - visualizing
 
 ---
 # Implementation
-Difference between at which pixel it is on screen.
-
 - Locally defined rewrite rules?
 
 - [ ] Solving ambiguity with additional context,

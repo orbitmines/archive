@@ -1,2 +1,0 @@
-- [ ] (SEMF) Discord messages / livestream transcript
-- [ ] Some of the notebooks from 2023
