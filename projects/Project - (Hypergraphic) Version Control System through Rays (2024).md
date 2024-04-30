@@ -79,3 +79,5 @@ More generally, we cannot actually guarantee consistency of anything. And so the
 *Tread carefully, confusion abound*
 
 - [ ] Compressing/minimizing ambiguity
+
+Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols. 
