@@ -33,6 +33,7 @@ Formulation of "limit of causality" which could be "speed of light"; Trade-off b
 
 Non-locality from a direction trying to be followed on ehich there is no continuation defined. One would be, oh it's a fixed point nothing happens it stays herem The other is, it's a pattern match time, what matches this end, well anything. -???
 
+
 ---
 
 But then, at least in the quantum mechanical case, you want to be able to interporaltw between each of the successive points and relate it to the other space. This could be quite nontrivial indeed,  
