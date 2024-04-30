@@ -4,7 +4,6 @@
 
 Intelligence - Practical Ignorance
 
-
 Encoding/symbols..
 - Perspective of 0/1,
 - What is we interpret 0/1 as our frame, then it becomes something else.
