@@ -240,6 +240,9 @@ Comments on [[2024-02-22]]
 - 
 
 ## Some old notes for possible ways to expand the list:
+- https://en.wikipedia.org/wiki/Sigma_model
+- 
+
 ###### Indexing existing archives/knowledge bases for preservation and possible future analysis...
   - Github  
   - gitlab  

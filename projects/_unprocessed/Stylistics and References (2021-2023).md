@@ -29,8 +29,6 @@ I suspect that the issue of consistency in mathematics arises from its generaliz
 ---
 
 - References to existing concepts like https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas. (church-turing thesis as well?), something like : computation universality  
-  
-SIGMA MODELS ; http://web.mit.edu/redingtn/www/netadv/Xsigmamodl.html  
 
 Relate how this compares to Godels incompleteness thereom, where the space of possibile theoreoms is disaplyed in some background, it's only that background which defines non-reachable theorems.
 
