@@ -14,3 +14,5 @@ https://github.com/JonathanGorard/Cosmos
 
 [[2023-04-07]]
 there must be someone who has considered and tried to find a possible warping or what one currently considers to be the known universe, as possible multiple reflections of a smaller space?
+
+What about the search of a star or black hole in an unusual place ? -

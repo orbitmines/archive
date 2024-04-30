@@ -228,3 +228,6 @@ Speed limit (albeit light speed or its general concept whether actually attribut
 
 Isn't the more interesting question how one would slow down once a speed limit is achieved? (; start referencing it without the use of light). Through some external abnormality one might be slowed down, but if internal motion isn't propegated, when is the motion stopped? What happens for instance with light? Some knowledge gaps here to answer these questions properly.
 
+---
+
+More trips
