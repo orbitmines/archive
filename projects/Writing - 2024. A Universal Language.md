@@ -87,7 +87,16 @@ Traversing `.self`
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
-##### ""
+##### "Binary"
+- [ ] ; ideas from the notebooks
+Encoding/symbols..
+- Perspective of 0/1,
+- What is we interpret 0/1 as our frame, then it becomes something else.
+	- Then it becomes hey: "I keep being at this same place from this perpspective, hence the assumption: constantly a boolean/binary value, -> creaton of some loop through homology?"
+- Hence, from this point, one might say the binary sequence are two high-dimensional points (lcoally connected).
+- "Some line as saying: anything on it is the frame and deemed the same, all deemed as ignored, all deemed as the identity"
+
+
 ##### "Superpose in more detail"
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
 	- ; So that would be like finding the higher-arity structure there, and selecting it like the vertex on vertex, having it branch off.

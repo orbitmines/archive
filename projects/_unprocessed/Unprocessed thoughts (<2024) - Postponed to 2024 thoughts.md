@@ -2,14 +2,7 @@
 
 ---
 
-Intelligence - Practical Ignorance
 
-Encoding/symbols..
-- Perspective of 0/1,
-- What is we interpret 0/1 as our frame, then it becomes something else.
-	- Then it becomes hey: "I keep being at this same place from this perpspective, hence the assumption: constantly a boolean/binary value, -> creaton of some loop through homology?"
-- Hence, from this point, one might say the binary sequence are two high-dimensional points (lcoally connected).
-- "Some line as saying: anything on it is the frame and deemed the same, all deemed as ignored, all deemed as the identity"
 
 ---
 
