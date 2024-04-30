@@ -35,3 +35,5 @@ Intelligence - partially practical ignorance
 It wouldn't surprise me if someone who was blind has a better capability to navigate visually/abstractly in much more detail than those who can see. (; usually?)
 [[2023-11-03]]
 Random thought from Tuesday while with alex&dani, more activity/relativistic/... affects differently the perception - is it conceivable that dreaming is a similar thing where in the last moment of waking up relatively all that is experienced in that instant compared to the experience of others? - Probably not the case (Alex), but it's still an interesting thought and at least generally possible maybe?
+[[2023-10-31]]
+Defocussed eyes seem to rely on color to readjust? - Can focus to something with a similar color incorrectly

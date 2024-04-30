@@ -12,9 +12,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 
 
-[[2023-10-31]]
-Defocussed eyes seem to rrly on color to readjust? - Can focus to something with a similar color incorrectly
-
 [[2023-10-12]]
 Vission working loke this: positional encodings of the field is the same, movr away from focus, the abstraction layer on top changes (further away from focus becomes smaller number of nodes anove the positional encodingz hence perceived smaller) focus on it, mor information more jodes, more dedicated resources) - probably some oversimplification, but an easy to visualize how the positional encoding doesn't change but the description above abstractly attached to it does.
 
