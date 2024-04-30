@@ -31,8 +31,6 @@ Not so sure about these points:
 
   The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'.
 
-- [ ] Possibly an inconsistency to point out is something along the lines of; *everything* is some defintion of the *universe*. That doesn't stop anything in creating a concept of *multiverse*. Even though that kind of thing would've necessarily already been captured. TODO: Reference the thing I said to Dani??
-
 - [ ] some other level of description is not ignorant, another is. -0 simulate
 
 Ignoring Redundancies (; Skipping Equivalences)
