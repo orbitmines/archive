@@ -28,7 +28,7 @@ I suspect that the issue of consistency in mathematics arises from its generaliz
 
 ---
 
-- References to existing concepts like https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas. (church-turing thesis as well?), something like : computation universality  
+- https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas, church-turing thesis, computation universality  
 
 Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols. 
 
@@ -38,7 +38,7 @@ I suspect there to be some deep (a)symmetries between the certain conceptualizat
 
 ----  
 
-Digesting some wikipedia articles (; mainly as exploratory, not necessarily interested in rigor on this expedition, just looking for some interesting ideas I hadn't heard of/hadn't thought of before) :  
+Digesting some wikipedia articles (; mainly as exploratory, not necessarily interested in rigor on this expedition, just looking for some interesting ideas I hadn't heard of/hadn't thought of before)
   
 Assume all comments on these as quick conclusions drawn from summaries which may themselves be, as well as my interpretation of them, ignorant of the actual writings on the subject:  
   
