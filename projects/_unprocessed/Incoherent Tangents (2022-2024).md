@@ -12,12 +12,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ### 2023 04-07
 
-
-Although I don't think Asimov explicitly stated it but hinted at it. The Gaian preference to use as little syllables as possible to refer to some human-as-a-component seems revealing in the sense that as little information ad possible is used as to not have to disambiguate constantly (through multiple possible reference options). Optimizing for efficiency in the sense of low information density, and computational efficiency in the sense of realizing when ambiguity will exist, and allowing for more information to be used as to not have to use computation in the form of transformations (time-efficient), but positionally encode it into the syllables & location/reference of where the information was acquired.
-
-
----
-
 Thought popped up earlier today that I should get some better understanding of archaic greek. Followed by the idea that any understanding of language would necessarily be different from prior learned languages. It's seems inconceivable one would be able to understand the language properly as back when it was more frequently used. And that learning it will change the relation and understanding of other languages.
 
 ---

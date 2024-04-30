@@ -30,6 +30,8 @@ Perhaps it's worth reading on some linguistics as to figure out som non-trivial 
 [[2023-04-07]]
 Secrets: Given the idea that one's recollection of events (memory) is imperfect, the 'keeping of secrets' is an interesting concept. If one isn't even fully able to recall one's memory, let alone that of another. A 'secret' then is the call to something the 'other person ought to know' or 'significant information', which requires the modelling of another system. Why had they 'ought to know'/'want to know'/'should know'/...?
 
+Although I don't think Asimov explicitly stated it but hinted at it. The Gaian preference to use as little syllables as possible to refer to some human-as-a-component seems revealing in the sense that as little information ad possible is used as to not have to disambiguate constantly (through multiple possible reference options). Optimizing for efficiency in the sense of low information density, and computational efficiency in the sense of realizing when ambiguity will exist, and allowing for more information to be used as to not have to use computation in the form of transformations (time-efficient), but positionally encode it into the syllables & location/reference of where the information was acquired.
+
 ##### Social - Economics
 [[2024-03-09]]
 collaborative/commons finance - [[Fotis Tsiroukis]]
