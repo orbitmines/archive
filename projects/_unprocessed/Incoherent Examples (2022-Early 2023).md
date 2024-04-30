@@ -26,10 +26,6 @@ History: The initial side of the perceived non-trivial temporal directionality. 
 
 ---
 
-// TODO: Inhibit the inhibition on reducing a function, if that is done and an attempt at reducing the perceivable irreducible function is made, an empty result is returned. 
-
----
-
 Examples of directionalities:  
   
 - [ ] General case of minimizing some directionality  
