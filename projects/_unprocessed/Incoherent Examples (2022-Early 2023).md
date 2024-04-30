@@ -83,14 +83,6 @@ hardware being the linux_64 or its lower level, possible reduction to tet at its
 
 ---
 
-If one would note one thing from deterministic systems is that complex behavior does not need non-determinism. (? -> Response to this would be what?)
-
----
-
-Just as I don't know, nor fully udnerstand, the intricacies of my brain and other organs, just as the computer doesn't necessarily know its particular implementation in silicon, just as I presume not to know nor may not initially know how to know about a galactic nagbour.
-
----
-
 More practical argument for privacy being perhaps an element of non-conformity in the sense of less connectivity to a larger network, therefore perhaps in certain cases more resilient to something like memetics. Although probably the reverse is likely relevant as well.; A quick thought as a possible conjecture on where Foundation and Earth might lead after reading its first chapter; besides the temporal differences already noted by Asimov as an argument.
 
 ---
