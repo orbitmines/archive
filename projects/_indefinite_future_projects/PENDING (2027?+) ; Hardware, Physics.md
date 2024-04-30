@@ -1,3 +1,10 @@
+---
+Mailing List:
+  - https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=QUANTUM-COMPUTING
+---
+
+- [ ] Sean Caroll answer 'priority questions' from his Patreon supporters in his AMAs, perhaps once some quantum idea gets stuck reach out to him.
+- [ ] Process these ideas:
 
 Physics
 - [ ] https://en.wikipedia.org/wiki/History_of_Maxwell's_equations

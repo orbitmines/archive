@@ -4,14 +4,10 @@ Mailing List:
 ---
 
 
-- [ ] Sean Caroll answer 'priority questions' from his Patreon supporters in his AMAs, perhaps once some quantum idea gets stuck reach out to him.
-- [ ] Process these ideas:
-
 ---
 
-
 # UNPROCESSED
-*Tread *
+*Tread carefully*
 
 The difference in interpretation of 'inconsistency' in mathematical terms, and it's more usual definition of abstract change/directionality/asymmetry?
 - [ ] Is this merely, within one system, there's a single inconsistency, which makes the whole thing ergodic, or is there something else?
