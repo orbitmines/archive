@@ -71,8 +71,6 @@ I mentioned computer science as the branch which one could perceive from which a
 
 ---
 
-It boils down to the idea, that the models of computation (like Kind & HVM), are subject to arbitrarily unknown/unknowable properties of the 'hardware' they are running on. And an observer, like a human, is able to be surprised when something previously thought to be deterministic, suddenly seems not to be; or is not coherent with its model. (whether that observation is actually true or not)
-
 Read: [General Intelligence Requires Rethinking Exploration (2022)](2211.07819.pdf) Aleatoric uncertainty / Epistemic uncertainty / Irreducible uncertainty ; explore these? ; or perhaps both are already captured in the vagueness of the 'conceptual uncertainty' idea.
 
 ---
