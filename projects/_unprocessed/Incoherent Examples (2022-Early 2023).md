@@ -46,10 +46,6 @@ Examples of directionalities:
 
 ---
 
-Similarly, could one say that perfect squares are similarly only possible as an abstract construction once one is bounded? THIS NEEDS BETTER UNPACKING. A CERTAIN DIRECTION/SIDE IS CONTINUED TO ITS EDGE PERFECTLY INFINITELY, until it hits some boundary.  
-
----
-
 [[2023-11-10]]
 Distant lights across the field at dark in the evening - through a wet glass are incredibly sensitive to my movements, or temporal movements of the planet/the processing of my mind, inducing a kind of flickering where the light came from. Perceived fast switching between states since no further structure/reducibility is in my brain to account for a larger vision field and coarsegraining is easily changed. - Something along these lines?
 
@@ -57,12 +53,6 @@ Distant lights across the field at dark in the evening - through a wet glass are
 
 [[2023-11-15]]
 Only saw Yanniks thimbnail on the most expensive cou, I'm guessing the instructions are just prompts to an llm - this is probably an example of a possibly temporally stable abstraction/cpu, though with psssible inconsistencies, can one model the inconsistencies, either account, deal, predict them
-
----
-
-[[2023-11-15]]
-
-Scaling variance: "slidescan movies scene - benjamin "
 
 ---
 
