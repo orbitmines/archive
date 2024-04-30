@@ -9,8 +9,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ---
 
-[[2023-11-03]]
-Random thought from Tuesday while with alex&dani, more activity/relativistic/... affects differently the perception - is it conceivable that dreaming is a similar thing where in the last moment of waking up relatively all that is experienced in that instant compared to the experience of others? - Probably not the case (Alex), but it's still an interesting thought and at least generally possible maybe?
 
 [[2023-11-16]]
 Im reminded of some idea to use the hits in something like any image/article and built from there violations ([[2023-12-07]]; as some entry into stegonography or something [[Jonathan Gorard]] called covariant computation)
