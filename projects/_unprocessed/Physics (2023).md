@@ -61,15 +61,6 @@ The entropically dominant thing - what if that (or is that how) the wave functio
 
 From [[Chyp (Cospans of HYPergraphs)]]'s 1st paper: "statistical perfect correlations or (GHZ-like) quantum entanglement." ; brought the thought: So it's the equivalency frame of the connections, if they are connected which means entanglement, not necessarily at the frame of the defined vertex. (Could make sense if in the case of the vertex we assume that that means merely additional constructions which should be considered - and are considered in the quantum case, but usually ignored.)
 
-
-Systems
-- [[Qimaera]]
-
----
-
-- [ ] Import from [[Incoherent Tangents (2022-2024)]]
-- some notes at [[Joan Simon]] from [[Society for Multidisciplinary and Fundamental Research (SEMF)]]
-
 ---
 
 Why is quantum gravity/acceleration such a problem? Is it merely because the different casaul states aren't easily tracked of the thing that's perceived/identified as "the same" particle/structure//... (& hence hard to define what motion(/change and thus what the persisting structures are/is at that scale/level of description?)  
