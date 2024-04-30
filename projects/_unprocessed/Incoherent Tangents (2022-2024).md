@@ -24,8 +24,6 @@ there must be someone who has considered and tried to find a possible warping or
 
 ---
 
----
-
 Conceptual map of explored ideas; visually show which things are related (and why) and might be interesting research topics.
 
 An idea: Organizations looking for people, setting up qualifications/specifications/wishes/requirements and bulk-application (or an open one) by people looking for an organization, allows for more time to write one's goal.; both sides open matching
