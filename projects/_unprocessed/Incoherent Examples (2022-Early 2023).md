@@ -91,15 +91,6 @@ Surely you would say the air around you is having an influence on you? And argua
 
 ---
 
-(false analogy, seen in Foundation and Earth, brought this to mind:)
-Notably which name is chosen/which analogy is chosen is relevant to the interpreter since things are interpreted differently. Any analogy is a 'false analogy' in some sense, it's whether the falseness/incorrectness/imperfectness of the analogy has significant consequences to the interpreter/observer. (Non-trivial/temporal/hinders the exploration of some perceived truth by another observer)
-
----
-
-Machines aren't necessarily built to persist themselves through time, one could formulate this by saying they are ignorant of doing so. Arguably this is likely to change with better understanding of biology/robotics ; or more concretely physical manueverability & persistence. ; Reference to its dangers, as an example Jeff Hawkins concerns of reproducibility.
-
----
-
 Similarly, while a human may not have direct access to the exact implementation and structures of their brain internally, something like that is more easily achieved within a computer. And similarly that also has its limitations in the form of computational boundedness and the psychical implementations (and their consistency through time). ;
 
 ---
