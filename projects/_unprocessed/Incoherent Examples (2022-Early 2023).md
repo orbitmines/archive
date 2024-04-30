@@ -75,8 +75,6 @@ It boils down to the idea, that the models of computation (like Kind & HVM), are
 
 But think of some property like 'commutation' being falsified in a specific context of a program, and having the runtime adjust its reductions based on such information.
 
-Use the story of branch-prediction? Some level of description says if .. then ..., branch prediction subsides that for increased speed. Or if one uses some form of probabilities/other calculation to make the decision. --> It matters how one 'evaluates every (relevant) scenery', it can be influenced by something arbitrarily unknown.
-
 Read: [General Intelligence Requires Rethinking Exploration (2022)](2211.07819.pdf) Aleatoric uncertainty / Epistemic uncertainty / Irreducible uncertainty ; explore these? ; or perhaps both are already captured in the vagueness of the 'conceptual uncertainty' idea.
 
 ---
