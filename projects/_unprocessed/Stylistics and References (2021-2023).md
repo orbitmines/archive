@@ -40,17 +40,11 @@ Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure
   
 Just as boolean algebra can't reach every possible state in its abstract definition, yet not when expressed in larger terms of every possible binary sequence, so can some abstract representation in the forms of how it is physically implemented, not necessarily represent every possible universe-state. Perhaps indirectly in some way>?? (bit vague)  
   
-And indeed one could reframe any idea of numbers, programs, ..., computations, structure, abstractions as some non-trivial number system.  
-  
-Wolfram ideas/Mathematics/.../lang (mention the whole research project team)  
-  
 - Halting problem  
 - Rice's theorem  
 - Godels incompleteness theorems  
   Gödel's incompleteness theorem in relationship to a finite space: an unproven rule can be confirmed to be the case in a smaller/finite (number) space. Allowing one to work with an unproven rule for the general case, as if proven, for the given constraints in space. --> Practical usability without prove --> even in 'debunked' theories, sub-pockets of complexity may follow a given rule, constrained by the space it operates in.  
   
-
-And all these ideas>>  
   
 Tensors (multi-dimensional arrays) as the asummption holding same dimensionality at every point  
   

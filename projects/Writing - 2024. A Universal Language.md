@@ -134,7 +134,7 @@ This is basically: When to decide that perspective switches should have a differ
  
 
 ##### Mathematics, Physics, ..., Dynamics
-Mathe
+Mathematics as ignoring `.self` ? or something close to it.
 
 Defer to [[Jonathan Gorard]]'s work, for more physics details there. As for example this: ["The boundary of a boundary is always empty."](https://twitter.com/getjonwithit/status/1784599157015007391)
 
