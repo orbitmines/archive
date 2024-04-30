@@ -42,7 +42,6 @@ Somewhere the romantic notion that building is likely to be more complex than de
 
 ---
 
-On definitions: Secrets: Given the idea that one's recollection of events (memory) is imperfect, the 'keeping of secrets' is an interesting concept. If one isn't even fully able to recall one's memory, let alone that of another. A 'secret' then is the call to something the 'other person ought to know' or 'significant information', which requires the modelling of another system. Why had they 'ought to know'/'want to know'/'should know'/...?
 
 ---
 
