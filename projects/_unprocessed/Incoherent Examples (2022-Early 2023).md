@@ -56,24 +56,12 @@ Only saw Yanniks thimbnail on the most expensive cou, I'm guessing the instructi
 
 ---
 
-legal flexible definition on closness/proximity
-
----
-
 [[2023-08-27]]
 When one uses a concept like autonomous, its more like 'non human autonomous - the human doesn't need to', but again, not autonomous in every directionality, and the human itself also has a possible automoous directionality on it.
 
 ---
 
 ### Incoherent Examples
-
-
----
-
-[[2023-11-27]] - Inconsistency
-OK, beautiful inconsistency found here. Evidently the word "array" contains, albeit obviously "Ray" - which I hadn't realized before, - Great example of some incredibly inconsistency - just that I could abstractly make that link, doesn't necessarily mean that I am applying it everywhere, at least noticeably in my mind. - Could phrase such thing as a constructed useful but somewhat inconsistent differentiation.
-
----
 
 The idea usually being that references, are connected through some arbitrary memory; RAM, disk, network, ... database. An identifier which resolved into some arbitrarily complex object.
 
