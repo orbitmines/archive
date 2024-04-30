@@ -32,8 +32,7 @@ Examples of directionalities:
   Priority: GIven all these ambiguities prefer definitions, or going to definitions with less confusion/less ambiguity. With the  
   added note, reasoned through 'anything can be interpreted as anything' notice the extremes, that it's not perfect. But  
   given the known descriptions, this seems least-confusing. (; could also be retrieved by sufficient differences in surrounding context)  
-- [ ] Exploration? - unknowns (Checking workings of functions under conditions, checking workings of functions if unknown ... fidelity ..)  
-  Priority: Exploration of LHS -> RHS. (generic transformation; function exploration, lhs into rhs)  
+- [ ] Exploration? - unknowns (Checking workings of functions under conditions, checking workings of functions if unknown ... fidelity ..)
 
 ---
 
