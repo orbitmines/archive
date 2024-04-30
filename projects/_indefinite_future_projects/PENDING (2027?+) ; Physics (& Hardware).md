@@ -245,3 +245,7 @@ Confusion here, I need some better terms to describe these microscropic influenc
 ---
 
 A curious thought experiment one might perform is that of accessing previous states as a non-interacting observer without the need of memory - other than having to persist the particulars which would allow for this - which would require memory (; non-trivial persistence).
+
+---
+
+ The nonabsoluteness of time could also be defined as saying it is absolute in the sense of described earlier, but one would've meant by that that all perception of certain specific phenomenon are the same - those could clearly not be, but then they still change and hence you would be able to say thatm It's just that the definition of the realization of certain kinds of information isnt. It hasn't propegated yet. 

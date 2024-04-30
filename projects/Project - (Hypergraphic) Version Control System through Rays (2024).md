@@ -70,3 +70,10 @@ More generally, we cannot actually guarantee consistency of anything. And so the
 ---
 
 [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+
+
+---
+
+
+
+- [ ] Compressing/minimizing ambiguity

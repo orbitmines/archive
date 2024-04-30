@@ -3,7 +3,6 @@
 
  ---
  
- The nonabsoluteness of time could also be defined as saying it is absolute in the sense of described earlier, but one would've meant by that that all perception of certain specific phenomenon are the same - those could clearly not be, but then they still change and hence you would be able to say thatm It's just that the definition of the realization of certain kinds of information isnt. It hasn't propegated yet. 
 
 ---
 
@@ -24,8 +23,6 @@
 History: The initial side of the perceived non-trivial temporal directionality. Relying on some non-trivial consistency (; temporal invariance), in order to tell the story (; or be able to recover parts) of that initial side.  
 
 ---
-
-- [ ] Compressing/minimizing ambiguity
 
 ---
 
