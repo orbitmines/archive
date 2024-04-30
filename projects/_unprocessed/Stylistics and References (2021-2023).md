@@ -7,15 +7,6 @@ Define/describe a good way of phrasing the ignorance of descriptions in such a w
 
 ---
 
-## (non-)determinism
-
-
-Might it similar to (non)determinism not make sense to asl whether it's really inconsistent or not? - I think perhaps this might be the origin of the generwlity srgument and hence also aplicable here.  
-  
-It's not generally (non-/)deterministic - it's directional, both of them, and necessarily directionally (in-/)consistent.  
-
----
-
 ## Mathematics
 
 I'm quite certain that it's a mistake to use language in mathematics like "there exists" and "for all" - I suspect that these only aid in confusions?
