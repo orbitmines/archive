@@ -28,10 +28,6 @@ It wouldn't surprise me if someone who was blind has a better capability to navi
 
 ---
 
-The difference in interpretation of 'inconsistency' in mathematical terms, and it's more usual definition of abstract change/directionality/asymmetry?
-- [ ] Is this merely, within one system, there's a single inconsistency, which makes the whole thing ergodic, or is there something else?
-	- [ ] It is precisely inconsistent systems which allow for ergodic exploration? - Then extact to another system to formalize
-
 ---
 
 A curious thought experiment one might perform is that of accessing previous states as a non-interacting observer without the need of memory - other than having to persist the particulars which would allow for this - which would require memory (; non-trivial persistence).
