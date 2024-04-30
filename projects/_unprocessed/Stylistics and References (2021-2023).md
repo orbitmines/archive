@@ -15,9 +15,6 @@ Define/describe a good way of phrasing the ignorance of descriptions in such a w
 Might it similar to (non)determinism not make sense to asl whether it's really inconsistent or not? - I think perhaps this might be the origin of the generwlity srgument and hence also aplicable here.  
   
 It's not generally (non-/)deterministic - it's directional, both of them, and necessarily directionally (in-/)consistent.  
-  
-  
-what does it mean to "interpretet it as such" - some generality. - Is that already condionally necessarily the case in any abstraction/description?.
 
 ---
 
