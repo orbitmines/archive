@@ -105,15 +105,7 @@ Confusion here, I need some better terms to describe these microscropic influenc
 
 Are not processes different on the surface of another planet? Are not cognitive processes different on another planet? Is influence of gravitational forces enough to change the emerging layer of information processing? Could it impact lower hardware-levels to such an insignificant extent? Is not even the slightest change in speed or impulses possible which can dramatically alter outcomes?
 
-
-pebbel myamigo pebble asimov short?
-
 ---
 
 On heat dissipation: If forms of energy are either motion or something like abnormalities which cause mass, and most theories see heat or motion as always existing as some form of waste product. Is there not a known process which turns motion into potential mass, is it not conceivable that a black hole can collapse, is it not conceivable that there might be structure inside one?
-
-
----
-
-Physics: Thoughts on Blackholes, having in mind how Stephen Wolfram described them: Information black holes/fixed points through time. They can merge, but that doesn't necessarily rule out that they can 'explode'/'collapse', evidently not an intuitive thing if it's never yet been observed. ; (31/03/2023; The thought occurred: What about something like properly timing the bringing together of multiple blackholes in a way that usually doesn't happen?; Can they be steered someway? Can a particular configuration result in a collapse? Is it not just the halting of any updating rules as Wolfram might suggest; but perhaps a temporally halted one in some aspect? )
 
