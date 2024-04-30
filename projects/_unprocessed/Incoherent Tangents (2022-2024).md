@@ -4,12 +4,6 @@ Intelligence - Practical Ignorance
 [[2024-04-18]]
 Is there a word for: "Something happens, filter is put up to deal with it, then it's precisely that filter which becomes the problem."
 
-[[2024-04-06]]
-3 dimensional sphere to outside of the sphere 7 dimension, lowrr topology Nick Hu mentioned  ; makes sense :thinking:
-
-[[2024-03-11]]
-water light simluationr redications
-
 [[2024-02-27]]
 You probably wouldn't want to normalize (ie create the pressure that you must) publishing you everything do online - but that's probably what I'm signalling to now
 
