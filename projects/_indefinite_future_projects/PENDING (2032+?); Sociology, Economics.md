@@ -29,5 +29,7 @@ collaborative/commons finance - [[Fotis Tsiroukis]]
 
 
 ##### Cognition
+Intelligence - partially practical ignorance
+
 [[2023-12-19]]
 It wouldn't surprise me if someone who was blind has a better capability to navigate visually/abstractly in much more detail than those who can see. (; usually?)
