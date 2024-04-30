@@ -119,11 +119,7 @@ Perhaps get some self-analysis going, or at least more data gathering.
 
 ---
 
-As is this searching/crawling Wikipedia patterns paper able for deducing/influencing the observer, such is the subsequent searching for word meanings while reading text
 
----
-
-Only if the information in spacial dimensions hold through a temporal dimension. The default? observer
 
 ---
 
