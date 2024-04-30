@@ -35,10 +35,6 @@ Non-locality from a direction trying to be followed on ehich there is no continu
 
 ---
 
-VGRavity, self-0referentially invariant structures which have slight differences but are assumed as the same locally to describe something. - Think JOnathan posted aboutsomething like this somewher
-
----
-
 But then, at least in the quantum mechanical case, you want to be able to interporaltw between each of the successive points and relate it to the other space. This could be quite nontrivial indeed,  
 "and everything in between in relation to some other space" very similar to overlapping - how is this different from superopose?  
 
