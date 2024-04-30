@@ -72,6 +72,43 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 
 ---
 
+# 2024, March - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+### :orbitmines: OrbitMines Excerpt
+- :orbitmines: [A Universal Language coming to pixels near you sometime soon™™ in 2024! The Glass Bead Game but the solution to The Glass Bead Game is The Glass Bead Game.🤔](https://twitter.com/_FadiShawki/status/1774086843765530833)
+- :youtube: :semf: [In-Person Workshop | Into the Information Continuum](https://www.youtube.com/watch?v=KM97bUcVPDE&t=2786s)
+- :youtube: :orbitmines: [Silent - Archive - Thinking on OrbitMines' Rays implementation in Python](https://www.youtube.com/watch?v=MEDL_D89GFA&t=9212s)
+
+### Literary Exposure
+- [Calculus Ratiocinator vs. Characteristica Universalis? The Two Traditions in Logic, Revisited (2004)](https://www.researchgate.net/publication/228386287_Calculus_Ratiocinator_vs_Characteristica_Universalis_The_two_traditions_in_logic_revisited) ; *Volker Peckhaus*
+- [Cargo Cult Science (1974)](https://calteches.library.caltech.edu/51/2/CargoCult.htm) ; *Richard P. Feynman*
+- [Millions of children learn only very little. How can the world provide a better education to the next generation? (2022)](https://ourworldindata.org/better-learning) ; *Max Roser*
+- [Stripe's 2023 annual letter (2024)](https://stripe.com/en-nl/annual-updates/2023) ; *Patrick Collison, John Collison*
+- [Playing, Valuing, and Living: Examining Nietzsche’s Playful Response to Nihilism (2015)](https://philpapers.org/rec/HARPVA-2) ; *Aaron Harper*
+- [The Build Your Own Open Games Engine Bootcamp — Part I: Lenses (2024)](https://blog.20squares.xyz/open-games-bootcamp-i/) ; *Daniele Palombi*
+- :wolfram: [Can AI Solve Science? (2024)](https://writings.stephenwolfram.com/2024/03/can-ai-solve-science/) ; *Stephen Wolfram, Richard Assar, Nik Murzin*
+
+- :youtube: :semf: [Community Livestream | Bioelectricity (2024)](https://www.youtube.com/watch?v=XBNh3Yoxei0)
+- :youtube: :toe: [Quantum Gravity & Wolfram Physics Project (2024)](https://www.youtube.com/watch?v=ioXwL-c1RXQ) ; *Jonathan Gorard, Curt Jaimungal*
+- :youtube: :toe: [Paradigm Shift, Ghost Particles, Constructor Theory (2024)](https://www.youtube.com/watch?v=40CB12cj_aM&t=6443s) ; *Chiara Marletto, Curt Jaimungal*
+- :youtube: :toe: [The String Theory Iceberg EXPLAINED (2024)](https://www.youtube.com/watch?v=X4PdPnQuwjY&t=9496s) ; *Curt Jaimungal*
+- :youtube: :tinycorp: [Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA (2024)](https://www.youtube.com/watch?v=rUsx1b7rQ8Q&t=9910s) ; *George Hotz*
+- :youtube: :tinycorp: [Programming | writing a fuzzer and not getting triggered when the AMD GPU crashes UMR (2024)](https://www.youtube.com/watch?v=BCnTXwhzzxA&t=9780s) ; *George Hotz*
+- :youtube: :tinycorp: [Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD (2024)](https://www.youtube.com/watch?v=-iH5wvFnsKs) ; *George Hotz*
+- :youtube: :all_in: [All-In Podcast E169 (2024)](https://www.youtube.com/watch?v=snbTCWL6rxo) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
+- :youtube: :all_in: [All-In Podcast E170 (2024)](https://www.youtube.com/watch?v=uMajFsCkzxY) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
+- :youtube: :all_in: [All-In Podcast E171 (2024)](https://www.youtube.com/watch?v=3tEcLAud7Nc) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
+- :youtube: :all_in: [All-In Podcast E172 (2024)](https://www.youtube.com/watch?v=4t4YkHSTZbw) ; *Chamath Palihapitiya, Jason Calacanis, David Friedberg, David O. Sacks*
+- :youtube: [Shannon Luminary Lecture Series - Stephen Fry (2017)](https://www.youtube.com/watch?v=24F6C1KfbjM) ; *Stephen Fry*
+- :youtube: [Containers for compiler architecture (2024)](https://www.youtube.com/watch?v=BnzAxT-O0Y8) ; *Andre Videla*
+- :youtube: [Why It Was Almost Impossible to Make the Blue LED (2024)](https://www.youtube.com/watch?v=AF8d72mA41M) ; *@Veritasium*
+- :youtube: [Compositional Game Theory – Towards Incentives Modelling at Scale (2024)](https://www.youtube.com/watch?v=2b4hxOP7g9I) ; *Jules Hedges*
+- :youtube: :mindscape: [Mindscape 268 | Matt Strassler on Relativity, Fields, and the Language of Reality (2024)](https://www.youtube.com/watch?v=kCpELmx425w) ; *Matt Strassler*
+- :youtube: :active_inference_institute: [ActInf MathStream 009.1 ~ Jonathan Gorard: A computational perspective on observation and cognition (2024)](https://www.youtube.com/watch?v=I3rhsT-8isk) ; *Jonathan Gorard*
+
+- :wikipedia: Wikipedia Articles: [Academia_Europaea](https://en.wikipedia.org/wiki/Academia_Europaea), [Advanced_Research_and_Invention_Agency](https://en.wikipedia.org/wiki/Advanced_Research_and_Invention_Agency), [Andrej_Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy), [Bryan_Johnson](https://en.wikipedia.org/wiki/Bryan_Johnson), [Center_for_Neurotechnology](https://en.wikipedia.org/wiki/Center_for_Neurotechnology), [Centrum_Wiskunde_&_Informatica](https://en.wikipedia.org/wiki/Centrum_Wiskunde_&_Informatica), [Chiara_Marletto](https://en.wikipedia.org/wiki/Chiara_Marletto), [Corpuscularianism](https://en.wikipedia.org/wiki/Corpuscularianism), [CWTS_Leiden_Ranking](https://en.wikipedia.org/wiki/CWTS_Leiden_Ranking), [Edward_Frenkel](https://en.wikipedia.org/wiki/Edward_Frenkel), [Edward_Witten](https://en.wikipedia.org/wiki/Edward_Witten), [E-flux](https://en.wikipedia.org/wiki/E-flux), [Institution_(computer_science)](https://en.wikipedia.org/wiki/Institution_(computer_science)), [Jean-Yves_Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard), [Joseph_Goguen](https://en.wikipedia.org/wiki/Joseph_Goguen), [Laurent_Fargues](https://en.wikipedia.org/wiki/Laurent_Fargues), [Lee_Smolin](https://en.wikipedia.org/wiki/Lee_Smolin), [Manlio_De_Domenico](https://en.wikipedia.org/wiki/Manlio_De_Domenico), [Meta-Research_Innovation_Center_at_Stanford](https://en.wikipedia.org/wiki/Meta-Research_Innovation_Center_at_Stanford), [Michael_Atiyah](https://en.wikipedia.org/wiki/Michael_Atiyah), [Michel_Talagrand](https://en.wikipedia.org/wiki/Michel_Talagrand), [Netherlands_Organisation_for_Applied_Scientific_Research](https://en.wikipedia.org/wiki/Netherlands_Organisation_for_Applied_Scientific_Research), [Open_Knowledge_Foundation](https://en.wikipedia.org/wiki/Open_Knowledge_Foundation), [Perimeter_Institute_for_Theoretical_Physics](https://en.wikipedia.org/wiki/Perimeter_Institute_for_Theoretical_Physics), [Peter_Higgs](https://en.wikipedia.org/wiki/Peter_Higgs), [Peter_Scholze](https://en.wikipedia.org/wiki/Peter_Scholze), [Peter_Woit](https://en.wikipedia.org/wiki/Peter_Woit), [Plan_S](https://en.wikipedia.org/wiki/Plan_S), [Robert_Langlands](https://en.wikipedia.org/wiki/Robert_Langlands), [Sabine_Hossenfelder](https://en.wikipedia.org/wiki/Sabine_Hossenfelder), [Sanjeev_Arora](https://en.wikipedia.org/wiki/Sanjeev_Arora), [Strelka_Institute](https://en.wikipedia.org/wiki/Strelka_Institute), [Toptica_Photonics](https://en.wikipedia.org/wiki/Toptica_Photonics), [Universal_logic](https://en.wikipedia.org/wiki/Universal_logic), [Vinod_Khosla](https://en.wikipedia.org/wiki/Vinod_Khosla)
+
+
+
 ![[Pasted image 20240401022536.png]]
 
 # 2024, March - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
