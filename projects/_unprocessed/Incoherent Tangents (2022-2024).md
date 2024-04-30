@@ -101,11 +101,4 @@ It seems to be the interaction of arriving at the 'same place' through high velo
 
 Confusion here, I need some better terms to describe these microscropic influences.
 
----
-
-Are not processes different on the surface of another planet? Are not cognitive processes different on another planet? Is influence of gravitational forces enough to change the emerging layer of information processing? Could it impact lower hardware-levels to such an insignificant extent? Is not even the slightest change in speed or impulses possible which can dramatically alter outcomes?
-
----
-
-On heat dissipation: If forms of energy are either motion or something like abnormalities which cause mass, and most theories see heat or motion as always existing as some form of waste product. Is there not a known process which turns motion into potential mass, is it not conceivable that a black hole can collapse, is it not conceivable that there might be structure inside one?
 
