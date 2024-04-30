@@ -24,8 +24,6 @@
 
 History: The initial side of the perceived non-trivial temporal directionality. Relying on some non-trivial consistency (; temporal invariance), in order to tell the story (; or be able to recover parts) of that initial side.  
 
-
-
 ---
 
 // TODO: Inhibit the inhibition on reducing a function, if that is done and an attempt at reducing the perceivable irreducible function is made, an empty result is returned. 
