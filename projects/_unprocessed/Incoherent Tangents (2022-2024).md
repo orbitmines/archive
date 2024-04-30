@@ -12,10 +12,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ### 2023 04-07
 
-Conceptualize from always moving at the limit speed at every yime step, but get blocked by spatial structures conflicting
-
----
-
 Is there an example of small group of cells having persisting memory to coordinate restrcuturing, or does most of the found examples favor ..
 
 ---

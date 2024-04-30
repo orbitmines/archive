@@ -198,6 +198,8 @@ Construct neutrons/.... al the other things from the smaller thing?
 Causality as a conceptual extreme on correlation in time.,.
 
 [[2023-04-07]]
+Conceptualize from always moving at the limit speed at every yime step, but get blocked by spatial structures conflicting
+
 construct sounds from light
 
 Physics: Thoughts on Blackholes, having in mind how Stephen Wolfram described them: Information black holes/fixed points through time. They can merge, but that doesn't necessarily rule out that they can 'explode'/'collapse', evidently not an intuitive thing if it's never yet been observed. ; (31/03/2023; The thought occurred: What about something like properly timing the bringing together of multiple blackholes in a way that usually doesn't happen?; Can they be steered someway? Can a particular configuration result in a collapse? Is it not just the halting of any updating rules as Wolfram might suggest; but perhaps a temporally halted one in some aspect? )

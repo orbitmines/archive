@@ -27,6 +27,8 @@ I wouldn't necessarily frame it as first principles. Seems likely that that prom
 
 Perhaps it's worth reading on some linguistics as to figure out som non-trivial ways to leverage human capability to understand symbols language efficiently? (; To better compactly 'store' complex propositions.)
 
+[[2023-04-07]]
+Secrets: Given the idea that one's recollection of events (memory) is imperfect, the 'keeping of secrets' is an interesting concept. If one isn't even fully able to recall one's memory, let alone that of another. A 'secret' then is the call to something the 'other person ought to know' or 'significant information', which requires the modelling of another system. Why had they 'ought to know'/'want to know'/'should know'/...?
 
 ##### Social - Economics
 [[2024-03-09]]
