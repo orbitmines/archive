@@ -63,6 +63,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 `.and` compose terminal/initial
 `.terminal / ..`
 	- Move `.self` to `.terminal`
+	- Terminal expectation ; could also be arbitrary structure again.
 `.traverse / .all / .map / .any`
 - initial/terminal, basically, which direction and then whether to skip the thing you're currently at. (direction by a ray abstract-level higher.)
 - .traverse is move self to .terminal
