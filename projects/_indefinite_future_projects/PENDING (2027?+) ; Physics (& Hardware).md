@@ -249,3 +249,8 @@ A curious thought experiment one might perform is that of accessing previous sta
 ---
 
  The nonabsoluteness of time could also be defined as saying it is absolute in the sense of described earlier, but one would've meant by that that all perception of certain specific phenomenon are the same - those could clearly not be, but then they still change and hence you would be able to say thatm It's just that the definition of the realization of certain kinds of information isnt. It hasn't propegated yet. 
+
+---
+
+- universality makes assumptions of temporal stability? 
+	- COmputationality/Universal computatinally equivalent in the sense that its abstraction ignores certain practicalities such as temporal factors ... but could in some way hold up in some infinite directionaly were certain assumptions to hold.

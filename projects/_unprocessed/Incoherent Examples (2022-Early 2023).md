@@ -1,17 +1,8 @@
 
-- [ ] Same argument different perspective different conclusion. (; also as an example of a possible human confusion)
-
- ---
- 
 
 ---
 
 - [ ] Possible as an example: Rabin-Scoot theorem Jonathan tweeted which I first found (while browsing rust docs???) - Apply the inconsistency argument here, does it still make sense??
-
----
-
-- universality makes assumptions of temporal stability? 
-	- COmputationality/Universal computatinally equivalent in the sense that its abstraction ignores certain practicalities such as temporal factors ... but could in some way hold up in some infinite directionaly were certain assumptions to hold.
 
 ---
 

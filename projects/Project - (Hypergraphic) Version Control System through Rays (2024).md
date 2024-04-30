@@ -75,5 +75,7 @@ More generally, we cannot actually guarantee consistency of anything. And so the
 ---
 
 
+# UNPROCESSED
+*Tread carefully, confusion abound*
 
 - [ ] Compressing/minimizing ambiguity
