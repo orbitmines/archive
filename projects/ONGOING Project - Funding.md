@@ -1,3 +1,5 @@
+### Hi there, no clue why you're hear
+
 *Will always be ongoing - basically realizable as economic/practical/logistical considerations for the projects*
 *Like things with hiring, always try to cover the things not already covered with a different approach*
 
