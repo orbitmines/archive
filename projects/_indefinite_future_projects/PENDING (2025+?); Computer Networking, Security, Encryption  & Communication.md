@@ -33,5 +33,5 @@ Im reminded of some idea to use the hits in something like any image/article and
 
 - [ ] orbitmines channel:  https://discord.com/channels/1055502602365845534/1170042935715311647
 
-Defence against this ?:
+against this ?:
 As is this searching/crawling Wikipedia patterns paper able for deducing/influencing the observer, such is the subsequent searching for word meanings while reading text

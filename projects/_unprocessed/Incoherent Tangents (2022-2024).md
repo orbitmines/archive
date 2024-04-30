@@ -112,30 +112,13 @@ pebbel myamigo pebble asimov short?
 
 On heat dissipation: If forms of energy are either motion or something like abnormalities which cause mass, and most theories see heat or motion as always existing as some form of waste product. Is there not a known process which turns motion into potential mass, is it not conceivable that a black hole can collapse, is it not conceivable that there might be structure inside one?
 
----
-
-
-Perhaps get some self-analysis going, or at least more data gathering.
-
----
-
-
 
 ---
 
 
 Physics: Thoughts on Blackholes, having in mind how Stephen Wolfram described them: Information black holes/fixed points through time. They can merge, but that doesn't necessarily rule out that they can 'explode'/'collapse', evidently not an intuitive thing if it's never yet been observed. ; (31/03/2023; The thought occurred: What about something like properly timing the bringing together of multiple blackholes in a way that usually doesn't happen?; Can they be steered someway? Can a particular configuration result in a collapse? Is it not just the halting of any updating rules as Wolfram might suggest; but perhaps a temporally halted one in some aspect? )
 
-
-
 ---
-
-Random idea: Given the availability of knowing where the eyes of the observer are in relation to a computer screen, couldn't one generate sequences of frame to imitate a 3D-like experience to the human without any additional aid? (Not just on the screen but imitate it being close to the human; 'as if it's between the gap of the screen and the eyes of the human', might have similar problems of motion-sickness when the eyes are moving. Curvature of the screen would also be relevant)
-
----
-
-Qualia; perhaps just not mention this, it's a bit too abstract to properly think about, likely undecidable*
-
 
 While on the bike; Likely the only way to approach such a problem is by altering one's own cognition; but that has obvious detremental consequences; and likely only possible once human cognition, or the functioning of the brain is understood. Even in the perception of framing it as a cognition to a soul, this for science means the same thing, if it can interact with the brain, it is observable and linked and might as well be a physical thing to us. Possible notion that the way /sequence of interactions is relevant for having this.
 
@@ -145,4 +128,4 @@ While on the bike; Likely the only way to approach such a problem is by altering
 only thing that nakes it a partial function is it it's a step of the function
 
 
-comstruct sounds from light
+construct sounds from light
