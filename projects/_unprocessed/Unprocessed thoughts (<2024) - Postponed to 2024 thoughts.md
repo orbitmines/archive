@@ -15,12 +15,7 @@ Encoding/symbols..
 
 ##### Superpose in more detail
   
-- [ ] On 3-line, We could also do the interesting thing, of then taking the two existing lines which define a continuation, and connecting those together.  
-
----  
-  
-Tripple superposition, two continuated (two perm), binary superposition  
-
+- [ ] On 3-line, We could also do the interesting thing, of then taking the two existing lines which define a continuation, and connecting those together. 
 
 ---
 
