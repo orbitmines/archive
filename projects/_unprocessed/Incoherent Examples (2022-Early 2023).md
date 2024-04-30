@@ -46,17 +46,6 @@ Examples of directionalities:
 
 ---
 
-[[2023-11-10]]
-Distant lights across the field at dark in the evening - through a wet glass are incredibly sensitive to my movements, or temporal movements of the planet/the processing of my mind, inducing a kind of flickering where the light came from. Perceived fast switching between states since no further structure/reducibility is in my brain to account for a larger vision field and coarsegraining is easily changed. - Something along these lines?
-
----
-
-[[2023-11-15]]
-Only saw Yanniks thimbnail on the most expensive cou, I'm guessing the instructions are just prompts to an llm - this is probably an example of a possibly temporally stable abstraction/cpu, though with psssible inconsistencies, can one model the inconsistencies, either account, deal, predict them
-
-
----
-
 Read: [General Intelligence Requires Rethinking Exploration (2022)](2211.07819.pdf) Aleatoric uncertainty / Epistemic uncertainty / Irreducible uncertainty ; explore these? ; or perhaps both are already captured in the vagueness of the 'conceptual uncertainty' idea.
 
 ---
