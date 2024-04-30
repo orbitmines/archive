@@ -88,6 +88,7 @@ https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-co
 - :youtube: [The Langlands Program - Numberphile (2023)](https://www.youtube.com/watch?v=4dyytPboqvE) ; *Edward Frenkel*
 - :youtube: :toe: [Time and Quantum Mechanics SOLVED? | Lee Smolin (2024)](https://www.youtube.com/watch?v=uOKOodQXjhc) ; *Lee Smolin, Curt Jaimungal*
 - :youtube: :toe: [Edward Frenkel: Infinity, Ai, String Theory, Death, The Self (2023)](https://www.youtube.com/watch?v=n_oPMcvHbAc) ; *Edward Frenkel, Curt Jaimungal*
+
 - :youtube: :wolfram_institute: [Live Science | Infrageometry: Core Definitions | Differential Geometry, Tangent Bundles, Functions (2024)](https://www.youtube.com/watch?v=QxtG4tr6VY0) ; *Nikolay Murzin, Carlos Zapata-Carratalá, James Wiles, Utkarsh Bajaj*
 - :youtube: :wolfram_institute: [Live Science | Infrageometry: Working Session | Functions, Edges-Places, Bipartite Graphs (2024)](https://www.youtube.com/watch?v=pdPBzPyJqcE) ; *Nikolay Murzin, Carlos Zapata-Carratalá, James Wiles, Utkarsh Bajaj*
 - :youtube: :wolfram_institute: [Fellow Focus | Richard Assar | MetaMetaverse, Alien Minds, Machine Learning Cellular Automata (2024)](https://www.youtube.com/watch?v=xg9pAx4bupk) ; *Nikolay Murzin, Carlos Zapata-Carratalá, James Wiles*
