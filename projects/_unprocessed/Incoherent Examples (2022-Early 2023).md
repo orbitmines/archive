@@ -28,8 +28,6 @@ History: The initial side of the perceived non-trivial temporal directionality. 
 
 ---
 
-// TODO: Two functions with opposite behavior which can produce their inversed results with high fidelity.  
-
 // TODO: Inhibit the inhibition on reducing a function, if that is done and an attempt at reducing the perceivable irreducible function is made, an empty result is returned.  
 
 ---
