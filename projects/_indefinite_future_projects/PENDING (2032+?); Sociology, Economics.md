@@ -43,3 +43,5 @@ Vission working loke this: positional encodings of the field is the same, movr a
 Shouldn't phrase color illusion as an illusion, better to phrase it that what color is to your mind is not just simple spectrum with some opposites. It necessarily uses context too, it is much more nontrivial. At some point the wavelengths are the same frequency. - But your mind does not interpet it like wavelengths, it is likely much more nontrivial. - Similar things said elsewhere? How to showcase this nonteiviality? - Is it a necessary aspect or is it possible to only abide by the wavelengths, and what sort of processing would one lose if it did. Because they're likely significantly different perceptions - perhaps it wouldn't look similar at all - perhaps it wouldn't functions respond similar at all. Less information, less contextual relations?
 
 Eyes/Mind correct for predictable lines/shapes similarly..
+[[2023-08-25]]
+Much less stable encoding on many exploretive features of the brain? Perhaps the more primitive ones of position and colors are more fixed/stable, more easily accessible in some nontrivial way?

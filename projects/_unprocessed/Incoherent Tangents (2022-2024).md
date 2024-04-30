@@ -10,11 +10,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 ---
 
 
-
-[[2023-08-25]]
-Much less stable encoding on many exploretive features of the brain? Perhaps the more primitive ones of position and colors are more fixed/stable, more easily accessible in some nontrivial way?
-
----
 ### 2023 04-07
 
 Conceptualize from always moving at the limit speed at every yime step, but get blocked by spatial structures conflicting
