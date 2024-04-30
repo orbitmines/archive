@@ -14,6 +14,9 @@ You probably wouldn't want to normalize (ie create the pressure that you must) p
 [[2024-02-05]]
 What do you do in a world where finding something is the hard part, then copying and redistributing takes resources, but copying is a pretty universal resource. This has basically been the transition/history of software?
 
+
+  - vs. "false memory"/I can still make that conclusion even though my mechanism of getting there isn't accurate.  (possibly not really, just for inaccurate reasons possibly (in)accurate) memory of loop having happened some number of times "
+
 ---
 Cognition
 [[2023-12-19]]
@@ -22,9 +25,6 @@ It wouldn't surprise me if someone who was blind has a better capability to navi
 ---
 
 - [ ] Some formalization, why infinite but not matching certain continuations? "excluded"  as it were
----
-
-  - vs. "false memory"/I can still make that conclusion even though my mechanism of getting there isn't accurate.  (possibly not really, just for inaccurate reasons possibly (in)accurate) memory of loop having happened some number of times "
 
 ---
 
