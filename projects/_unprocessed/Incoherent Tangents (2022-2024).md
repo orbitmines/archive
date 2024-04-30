@@ -133,14 +133,6 @@ Thought popped up earlier today that I should get some better understanding of a
 
 ---
 
-
-
----
-
-Lovality in quantum/classical mechanics as field theory suggesting 'far away' no obsevrations have been made that influence them directly. This merely a matter of perception? For through enough time distant interations do impact locality, albeit in a more indirect way, which one wouldn't necessarily say isn't locality.
-
----
-
 Sean Caroll answer 'priority questions' from his Patreon supporters in his AMAs, perhaps once some quantum idea gets stuck reach out to him.
 
 ---

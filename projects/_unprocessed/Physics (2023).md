@@ -28,6 +28,10 @@ High fos water dropplet bounching off water myltiple times, each time higher the
 
 ---
 
+Lovality in quantum/classical mechanics as field theory suggesting 'far away' no obsevrations have been made that influence them directly. This merely a matter of perception? For through enough time distant interations do impact locality, albeit in a more indirect way, which one wouldn't necessarily say isn't locality.
+
+---
+
 Duplicating traversing structures requires part of the topology to duplicate hence modifying it??
 
 ---
