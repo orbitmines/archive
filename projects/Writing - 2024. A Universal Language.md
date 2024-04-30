@@ -55,6 +55,8 @@ Only difference is the assymetry of is_orbit and the consequences of that if sel
 
 Reverse direction as teo points. Need a good intuition for this. Basically one of tep values selected and the switching of direction to the other way. Perhaps similarly a tep step modular structure of which you can see the intial/terminals being swapped. Is_equiv if can tell the difference and ignore, is_orbit if cannot  
 
+igno
+
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
@@ -95,7 +97,6 @@ Encoding/symbols..
 	- Then it becomes hey: "I keep being at this same place from this perpspective, hence the assumption: constantly a boolean/binary value, -> creaton of some loop through homology?"
 - Hence, from this point, one might say the binary sequence are two high-dimensional points (lcoally connected).
 - "Some line as saying: anything on it is the frame and deemed the same, all deemed as ignored, all deemed as the identity"
-
 
 ##### "Superpose in more detail"
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
