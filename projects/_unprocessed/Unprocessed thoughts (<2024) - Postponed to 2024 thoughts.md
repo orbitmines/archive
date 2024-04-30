@@ -100,11 +100,7 @@ Ignorant of its use - visualizing
 - [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
 - [ ] Unknowns & inconsistencies driving curiosity?  
 
-- [ ] Different ways of exploring -  Unusual exploration / irrationality / ... / sporadic / probing?  
-
 - [ ] This similar to homotopy type theory expanding possible types, or that "the most beaitufl program every written thing" which handles filling the "?" or theorem provers... - last one maybe more of finding something that matches the pattern?..
-
-- [ ] 'This would've be better to do in this instance'  
 
 - [ ] How to allow for replacing parts which have a more efficient algorithm in certain contexts? (Also of the original code..)  
 
