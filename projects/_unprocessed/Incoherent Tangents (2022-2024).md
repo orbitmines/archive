@@ -114,9 +114,6 @@ On heat dissipation: If forms of energy are either motion or something like abno
 
 ---
 
-Biology: -omics, relevant?
-
----
 
 Perhaps get some self-analysis going, or at least more data gathering.
 
