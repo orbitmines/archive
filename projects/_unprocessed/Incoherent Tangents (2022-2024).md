@@ -14,15 +14,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 
 
----
-
-Modelling complex ecosystems:
-Perhaps it's not sufficient simply to change the ecology of the planet once. Seems to me a proper system of monitoring and controlling the ecology of an entire planet would be a future solution to dynamically adjust a planet. Taking into account factors of other bodies around the earth when a change of mass has taken place or similar factors not directly relevant.
-
----
-
-Perhaps some weird physicalized molecule/something which could represent such a structural component more accurately. (some speculation as how such a thing may be useful)
-
 
 ---
 

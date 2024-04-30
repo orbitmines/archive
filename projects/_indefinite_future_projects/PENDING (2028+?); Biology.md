@@ -17,3 +17,7 @@ Origin of life: perhaps look in situations which aren't usual except in the form
 
 Is there an example of small group of cells having persisting memory to coordinate restructuring, or does most of the found examples favor ..
 
+##### Ecology
+Modelling complex ecosystems:
+Perhaps it's not sufficient simply to change the ecology of the planet once. Seems to me a proper system of monitoring and controlling the ecology of an entire planet would be a future solution to dynamically adjust a planet. Taking into account factors of other bodies around the earth when a change of mass has taken place or similar factors not directly relevant.
+
