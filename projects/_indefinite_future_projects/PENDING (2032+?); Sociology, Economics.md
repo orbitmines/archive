@@ -34,7 +34,8 @@ Secrets: Given the idea that one's recollection of events (memory) is imperfect,
 [[2024-03-09]]
 collaborative/commons finance - [[Fotis Tsiroukis]]
 
-
+[[2023-04-07]]
+An idea: Organizations looking for people, setting up qualifications/specifications/wishes/requirements and bulk-application (or an open one) by people looking for an organization, allows for more time to write one's goal.; both sides open matching
 ##### Cognition
 Intelligence - partially practical ignorance
 

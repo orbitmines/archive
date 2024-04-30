@@ -15,3 +15,5 @@ Read
 [[2023-04-07]]
 Origin of life: perhaps look in situations which aren't usual except in the formation of some planet: Highly volatile, high temperature (high differences in temperature) environments which might allow for the instantiation of some proto-life and then allow it to persist and not die instantly.
 
+Is there an example of small group of cells having persisting memory to coordinate restructuring, or does most of the found examples favor ..
+
