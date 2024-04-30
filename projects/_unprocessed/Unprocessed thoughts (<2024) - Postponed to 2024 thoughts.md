@@ -93,7 +93,7 @@ Ignorant of its use - visualizing
 - [ ] How to know which parts are being observed?  
   - [ ] How to discover other observations not necessarily internally processed.  
     - [ ] Reference to hiding observations from the interface? Possibility is there, so should be described?  
-- [ ] Trying again: doesn't change?  
+
 - [ ] Brute-forcing if no better alternative has yet been found?  
 - [ ] Notify me when you've found something you deem relevant for this unknown (while we dont know how to solve some unknown)
 - [ ] How would additional capabilities be realized? More things done at some time step? What time step? (; more complex organization, controlled and uncontrolled)  / devices / resources

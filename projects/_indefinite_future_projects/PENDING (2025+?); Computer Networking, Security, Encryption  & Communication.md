@@ -12,7 +12,7 @@
 Found at: https://twitter.com/casdewitt/status/1633240387262324737
 Read: [Perfectly Secure Steganography using Minimum Entropy Coupling (2023)](../read/2210.14889.pdf) ; Would confirm some ungrounded suspicions I had some time ago. Let's return to steganography later on.
 
-  - [ ] Ideas from cyber-security: honeypots  
+- [ ] Ideas from cyber-security: honeypots  
 - [ ] homomorphic encryption  
 - [ ] Cryptographic computing: zkSync/zkEVM, Lurk, FHE  - 
 ###### stenography
