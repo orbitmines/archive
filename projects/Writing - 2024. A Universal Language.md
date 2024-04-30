@@ -17,6 +17,7 @@ I suspect that a large numbers of problems arise from a rather simple conceptual
 
 Consider this my attempt to provide infrastructure for that exploration.
 
+
 ---
 
 - The problem is not .. it's missing tools to think across fields. 
