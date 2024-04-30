@@ -32,10 +32,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ---
 
-Connection 'in and of itself'/'inherent'/... is still unanswered, this requires more knowledge of physics likely.? At least to state the more abstract things with more certainty. At least clearly, they cannot be general.?  
-
----
-
 [[2023-11-03]]
 Random thought from Tuesday while with alex&dani, more activity/relativistic/... affects differently the perception - is it conceivable that dreaming is a similar thing where in the last moment of waking up relatively all that is experienced in that instant compared to the experience of others? - Probably not the case (Alex), but it's still an interesting thought and at least generally possible maybe?
 
