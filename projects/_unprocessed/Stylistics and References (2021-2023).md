@@ -7,12 +7,6 @@ Define/describe a good way of phrasing the ignorance of descriptions in such a w
 
 ---
 
-## Mathematics
-
-I'm quite certain that it's a mistake to use language in mathematics like "there exists" and "for all" - I suspect that these only aid in confusions?
-
----
-
 - https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas, church-turing thesis, computation universality  
 
 Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols. 
