@@ -13,7 +13,6 @@
 
 History: The initial side of the perceived non-trivial temporal directionality. Relying on some non-trivial consistency (; temporal invariance), in order to tell the story (; or be able to recover parts) of that initial side.  
 
----
 
 ---
 
