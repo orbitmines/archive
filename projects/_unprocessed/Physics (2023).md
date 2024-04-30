@@ -9,6 +9,10 @@ Mailing List:
 
 ---
 
+
+# UNPROCESSED
+*Tread *
+
 The difference in interpretation of 'inconsistency' in mathematical terms, and it's more usual definition of abstract change/directionality/asymmetry?
 - [ ] Is this merely, within one system, there's a single inconsistency, which makes the whole thing ergodic, or is there something else?
 	- [ ] It is precisely inconsistent systems which allow for ergodic exploration? - Then extact to another system to formalize
