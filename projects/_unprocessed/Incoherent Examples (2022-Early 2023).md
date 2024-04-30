@@ -13,7 +13,6 @@
 
 - universality makes assumptions of temporal stability? 
 	- COmputationality/Universal computatinally equivalent in the sense that its abstraction ignores certain practicalities such as temporal factors ... but could in some way hold up in some infinite directionaly were certain assumptions to hold.
-  
 
 ---
 
