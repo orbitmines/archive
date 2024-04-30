@@ -10,6 +10,8 @@ find ./_/_/attachments/read/ -type f -newermt 2024-04-01
  
  git whatchanged --since '2024/04/01' --until '2024/04/30' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
 
+git log --since="1 month ago" --diff-filter=ACM --name-only | grep /read/wikipedia | sort | uniq | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
+
 find ./_/attachments/read/ -type f -newermt 2023-12-01 | grep /read/wikipedia
 
 find ./_/attachments/read/ -type f -newermt 2023-12-01 | sort | uniq | grep /read/wikipedia | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
