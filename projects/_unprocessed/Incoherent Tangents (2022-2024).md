@@ -14,11 +14,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ---
 
-As for "concious experience", mystical aspects making it harder to do anything with it. A curious question that keeps me wondering: Why the visual experience oriented one way over a perfect mirroring? The observer wouldn't know the difference of course, then what does the particular form represent? Why one over the other? - My first guess would be some ordering it what happens first, what updates first, or some boundary in the universe which says this one comes first?
-
----
-
-
 Comment discord today: This would make for conceptual continuous movement usint something else in memory to destingiosh recency. ; the torus as 'continuous', additional context allowing for disambiguation of ambiguous points on the torus. Extreme signals at the end of the 2d grid seem intuitive in the sense that they'd be the least likely in the space to cause inaccuracies.
 
 1d vs 2d? Pethaps biological practical reasons
