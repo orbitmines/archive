@@ -22,8 +22,6 @@ I'm quite certain that it's a mistake to use language in mathematics like "there
 
 Consistency in mathematics is nothing but the assumption of consistency in the temporal direction, when that direction and inconsistent aspects are ignored? (Similarly for the opposite of inconsistency) ; generalization is necessarily inconsistent?
 
-Mathematics assumes no timestemp, or in one timestep access to all proofs? - This can nonetheless be modlled both in none/one timestep. (none being an ignorant timestep.)
-
 I suspect that the issue of consistency in mathematics arises from its generalization. That some inconsistency is somewhat short of a death sentence of the theory. (Better phrased than that ---) The more interesting thing to realize is, what if it's only inconsistent in very unordinary circumstances? It seems perfectly stable as an orbit and then suddenly - it is not. Hence not generally some inconsistency like `2+2=5`, but merely that a particular set of processes assume/realize that, and it's non-trivial to say what its consequences are.
 
 ---
