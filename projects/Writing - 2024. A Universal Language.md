@@ -93,6 +93,7 @@ Traversing `.self`
 	- ; So similarly, it's infinity groupoids which break the recursion of the stack. So the `.is_orbit`s.
 	- Usual superposition is where every entry of an arbitrarty direction only references itself on the `.self`. Hence a tensored variant like this in linear time, if you can traverse that in one step.
 	- At every branch cotains the one added thing necessary for spliting the vranch for conservation, but that destroys the embedding if that wnats to be prrserved, ?
+	- DIfference between a bit and a qubit is that in the case of a qubit we assume differentiability between. But for a bit also we assume modularity of the two options. Or different boundaries, What about on the frame/middle, what about ...
 
 Tripple superposition, two continuated (two perm), binary superposition  
 
