@@ -79,8 +79,6 @@ Use the story of branch-prediction? Some level of description says if .. then ..
 
 Read: [General Intelligence Requires Rethinking Exploration (2022)](2211.07819.pdf) Aleatoric uncertainty / Epistemic uncertainty / Irreducible uncertainty ; explore these? ; or perhaps both are already captured in the vagueness of the 'conceptual uncertainty' idea.
 
-hardware being the linux_64 or its lower level, possible reduction to tet at its hardware; sime physical process, is not accessible/reducible directly through the spec. (Indirect strategies would be required) But things could be assumed or guessed at which one can say about that underlying spec, and that it might be implemented differently and each implementation having different unknowns/ uncertainty.... etc
-
 ---
 
 [[Stylistics and References (2021-2023)]]
