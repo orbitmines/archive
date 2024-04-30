@@ -1,13 +1,5 @@
 
-
----
-
 - [ ] Possible as an example: Rabin-Scoot theorem Jonathan tweeted which I first found (while browsing rust docs???) - Apply the inconsistency argument here, does it still make sense??
-
----
-
-- [ ] On the sara walker simplifying complexity on time episode: It's not that "it can't happen by random chance" it's that there are two different levels of description to describe thexpoe same thing. One is without information of structures which produce the random things, the other, is "not"/less. More structure which also moght arbitrarily be coarsegrainrd, inaccurate, or with its quircks  
-	- [ ] It should be: not generallt linear, but ina. particular persoective, or on a level of description it's linear. Log-ed exponential function being linear at that different level of description: coald be seen as a different corase graining, hence both not generally linear, but only if tou look at it in a particular way  
 
 ---
 
