@@ -30,8 +30,6 @@ I suspect that the issue of consistency in mathematics arises from its generaliz
 
 - References to existing concepts like https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas. (church-turing thesis as well?), something like : computation universality  
 
-Relate how this compares to Godels incompleteness thereom, where the space of possibile theoreoms is disaplyed in some background, it's only that background which defines non-reachable theorems.
-
 Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols. 
 
 - Halting problem, Rice's theorem, Godels incompleteness theorems  
