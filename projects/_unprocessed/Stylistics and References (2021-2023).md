@@ -34,8 +34,8 @@ Relate how this compares to Godels incompleteness thereom, where the space of po
 
 Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols.  
   
-Just as boolean algebra can't reach every possible state in its abstract definition, yet not when expressed in larger terms of every possible binary sequence, so can some abstract representation in the forms of how it is physically implemented, not necessarily represent every possible universe-state. Perhaps indirectly in some way>?? (bit vague)  
-  
+Just as boolean algebra can't reach every possible state in its abstract definition, yet not when expressed in larger terms of every possible binary sequence, so can some abstract representation in the forms of how it is physically implemented, not necessarily represent every possible universe-state. Perhaps indirectly in some way>?? (bit vague)
+
 - Halting problem, Rice's theorem, Godels incompleteness theorems  
 
 I suspect there to be some deep (a)symmetries between the certain conceptualizations of 'zero' and 'one'. ... For the conceptualization of zero requires some non-zero directionality. (; To have the ability to describe invariance, one needs some variance.)  
