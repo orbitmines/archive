@@ -65,12 +65,6 @@ When one uses a concept like autonomous, its more like 'non human autonomous - t
 
 ---
 
-As a coy introduction (in Hofstadter fashion), perhaps:
-
-> Is this pen equal to that pen? - Frowned looks -. Ok then, let me simplify the question. Is this pen equal this pen (pointing once again, at the same pen). - Frowning having increased to unprecedented levels -. Surely, a question the philosophers have answered across all human cultures and times. It's obvious, they're equal! No, you must be wrong, it's obvious they're not! Curious bystanders continuing the now precedented ritual of frowning.
-
----
-
 I mentioned computer science as the branch which one could perceive from which all other sciences branch, but probably more proper would be to say that it's a reference frame: Any science as some base for primary understanding could be placed in that role as long as it has the capacity to interpret all the others to a certain extent. It just so happens that computation is a convenient language to understand. ; generalize into priors?
 
 ; Within the assumptions something like this; it's likely that any possible language / distinct scientific field, can formulate any other, or encapsulate any other possible theory as an extension of its own, or perceived 'sub-field'. The actual distinction is therefore mainly important/relevant in how it changes the observer's perspective on them. Not necessarily defining a sort of generality or 'true upper-level hierarchy' from which the fields/subfields span.
