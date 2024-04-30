@@ -59,10 +59,6 @@ Thought popped up earlier today that I should get some better understanding of a
 
 ---
 
-How has Wolfram Institute dealt with Observer Theory? (; something I'm basically trying to construct in some sense. I believe I mentioned an inquiry like this before.)
-
----
-
 What about waves/wave-length? How does that factor in with the speed limit? ; Somehow I've not thought about this aspect yet.
 
 ---
@@ -131,10 +127,6 @@ As is this searching/crawling Wikipedia patterns paper able for deducing/influen
 ---
 
 Only if the information in spacial dimensions hold through a temporal dimension. The default? observer
-
----
-
-the bitter lesson blog post ; ?
 
 ---
 
