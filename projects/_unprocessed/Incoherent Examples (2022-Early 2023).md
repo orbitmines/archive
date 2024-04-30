@@ -44,22 +44,6 @@ Examples of directionalities:
 - [ ] Exploration? - unknowns (Checking workings of functions under conditions, checking workings of functions if unknown ... fidelity ..)  
   Priority: Exploration of LHS -> RHS. (generic transformation; function exploration, lhs into rhs)  
 
-How to phrase generalization and not these?:
-
-Equivalence (; or partial) in input  
-Equivalence in output  
-Equivalence (; or partial) in sequence of steps  
-Equivalence in timing      (Can timing be used in wasm? ; at some point certain memory available.)                     // ; all these given some hardware, some timing etc..  
-in number of rewrite steps  
-in computation complexity  
-in computational effort
-in intermediate representations/states
-in (hardware?) axioms? 
-in (optimal) interpretability (by these kind of interpreters)  
-in a contextual isomorphism/symmetry (where a specific kind of asymmetry can be a certain symmetry) [ref GEB, p350 ? ]  
-in ...  
-(; or other symmetries)  
-
 ---
 
 Similarly, could one say that perfect squares are similarly only possible as an abstract construction once one is bounded? THIS NEEDS BETTER UNPACKING. A CERTAIN DIRECTION/SIDE IS CONTINUED TO ITS EDGE PERFECTLY INFINITELY, until it hits some boundary.  
