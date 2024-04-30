@@ -45,9 +45,6 @@ computational effort. Unless in some extreme some local properties are entirely 
 
 ---
 
-#### Local Obstructions
----
-
 [[2023-11-21]]
 That twitter feed with Jonathan and Joscha bach talking about hawking radiation of blackholez, Jonathan saying that in the multiway (or quantum case) it means that branches in which the blackhole isnt formed/differently formed eventually outlive the ones that do, and that corresponding to their evaporation - if that was the case, or if this thought is indeed as interesting - what's the generalization of that? - reference in survival?
 
