@@ -12,18 +12,6 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ### 2023 04-07
 
-
-
-
----
-
-Somewhere the romantic notion that building is likely to be more complex than destroying a thing; not that destruction cannot be complex and beautiful in a certain light. (Relate this to ethics, perhaps a likely essence of it). Complex doesn't necessarily mean useful though.
-
----
-
-
----
-
 On definitions: Differences/appropriateness/matters of controversy: Differences visually, are easily pointed out by the human mind, but any differences between things are worth figuring out why something is different and how that effects the world. It's not so hard to imagine that a human mind never exposed to a particular visual stimulus of other human that is notably different from one's previously seen, could merit this. What's significant is whether such differences should result into different treatment, and the psychological arguments that independent of moral claims that anything unusual (where unusual could be defined; as not having seen before from a particular observer's perspective), merits curiosity/adversity/.... With sciences in  place it is not that hard to create a link between visual differences and a biological explanation (whether finding that is trivial or non-trivial matters not for this line of reasoning). It is whether differences resulting in different observations/actions following from observations, are deemed (morally or practically) as something (a bias applied) appropriate.
 
 ---
