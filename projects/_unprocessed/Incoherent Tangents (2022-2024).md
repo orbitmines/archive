@@ -16,10 +16,6 @@ Conceptualize from always moving at the limit speed at every yime step, but get 
 
 ---
 
-
-
----
-
 Is there an example of small group of cells having persisting memory to coordinate restrcuturing, or does most of the found examples favor ..
 
 ---
