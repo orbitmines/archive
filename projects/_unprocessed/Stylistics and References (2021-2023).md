@@ -42,10 +42,7 @@ Just as boolean algebra can't reach every possible state in its abstract definit
 - Rice's theorem  
 - Godels incompleteness theorems  
   Gödel's incompleteness theorem in relationship to a finite space: an unproven rule can be confirmed to be the case in a smaller/finite (number) space. Allowing one to work with an unproven rule for the general case, as if proven, for the given constraints in space. --> Practical usability without prove --> even in 'debunked' theories, sub-pockets of complexity may follow a given rule, constrained by the space it operates in.  
-  
-  
-Tensors (multi-dimensional arrays) as the asummption holding same dimensionality at every point  
-  
+
 I suspect there to be some deep (a)symmetries between the certain conceptualizations of 'zero' and 'one'. ... For the conceptualization of zero requires some non-zero directionality. (; To have the ability to describe invariance, one needs some variance.)  
   
 ----  
