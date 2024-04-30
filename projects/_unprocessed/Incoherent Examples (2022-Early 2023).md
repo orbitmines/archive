@@ -54,20 +54,6 @@ Distant lights across the field at dark in the evening - through a wet glass are
 [[2023-11-15]]
 Only saw Yanniks thimbnail on the most expensive cou, I'm guessing the instructions are just prompts to an llm - this is probably an example of a possibly temporally stable abstraction/cpu, though with psssible inconsistencies, can one model the inconsistencies, either account, deal, predict them
 
----
-
-[[2023-08-27]]
-When one uses a concept like autonomous, its more like 'non human autonomous - the human doesn't need to', but again, not autonomous in every directionality, and the human itself also has a possible automoous directionality on it.
-
----
-
-### Incoherent Examples
-
----
-
-I mentioned computer science as the branch which one could perceive from which all other sciences branch, but probably more proper would be to say that it's a reference frame: Any science as some base for primary understanding could be placed in that role as long as it has the capacity to interpret all the others to a certain extent. It just so happens that computation is a convenient language to understand. ; generalize into priors?
-
-; Within the assumptions something like this; it's likely that any possible language / distinct scientific field, can formulate any other, or encapsulate any other possible theory as an extension of its own, or perceived 'sub-field'. The actual distinction is therefore mainly important/relevant in how it changes the observer's perspective on them. Not necessarily defining a sort of generality or 'true upper-level hierarchy' from which the fields/subfields span.
 
 ---
 
