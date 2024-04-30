@@ -28,13 +28,7 @@ It wouldn't surprise me if someone who was blind has a better capability to navi
 
 ---
 
----
-
 A curious thought experiment one might perform is that of accessing previous states as a non-interacting observer without the need of memory - other than having to persist the particulars which would allow for this - which would require memory (; non-trivial persistence).
-
----
-
-arbitr-ary, bin-ary -- is that the same base, or is it arbit-rary, bi-nary, at least an interesting considence if not
 
 ---
 
