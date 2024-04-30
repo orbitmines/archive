@@ -36,13 +36,10 @@ Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure
   
 Just as boolean algebra can't reach every possible state in its abstract definition, yet not when expressed in larger terms of every possible binary sequence, so can some abstract representation in the forms of how it is physically implemented, not necessarily represent every possible universe-state. Perhaps indirectly in some way>?? (bit vague)  
   
-- Halting problem  
-- Rice's theorem  
-- Godels incompleteness theorems  
-  Gödel's incompleteness theorem in relationship to a finite space: an unproven rule can be confirmed to be the case in a smaller/finite (number) space. Allowing one to work with an unproven rule for the general case, as if proven, for the given constraints in space. --> Practical usability without prove --> even in 'debunked' theories, sub-pockets of complexity may follow a given rule, constrained by the space it operates in.  
+- Halting problem, Rice's theorem, Godels incompleteness theorems  
 
 I suspect there to be some deep (a)symmetries between the certain conceptualizations of 'zero' and 'one'. ... For the conceptualization of zero requires some non-zero directionality. (; To have the ability to describe invariance, one needs some variance.)  
-  
+
 ----  
 
 Digesting some wikipedia articles (; mainly as exploratory, not necessarily interested in rigor on this expedition, just looking for some interesting ideas I hadn't heard of/hadn't thought of before) :  
