@@ -7,11 +7,8 @@ Read: [General Intelligence Requires Rethinking Exploration (2022)](2211.07819.p
 
 ---
 
-[[Stylistics and References (2021-2023)]]
 
 - https://en.wikipedia.org/wiki/NP-completeness / other complexity theory related ideas, computation universality, Halting problem, Rice's theorem, Godels incompleteness theorems  
-
-Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols. 
 
 I suspect there to be some deep (a)symmetries between the certain conceptualizations of 'zero' and 'one'. ... For the conceptualization of zero requires some non-zero directionality. (; To have the ability to describe invariance, one needs some variance.)  
 
