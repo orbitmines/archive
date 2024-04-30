@@ -1,14 +1,16 @@
 
 Intelligence - Practical Ignorance
 
+##### Social / Linguistics
+
 [[2024-04-18]]
 Is there a word for: "Something happens, filter is put up to deal with it, then it's precisely that filter which becomes the problem."
+[[2024-02-07]]
+Magic def as something happens without an intermediate step, but then how could you possibly be certain of that?
 
 [[2024-02-27]]
 You probably wouldn't want to normalize (ie create the pressure that you must) publishing you everything do online - but that's probably what I'm signalling to now
 
-[[2024-02-07]]
-Magic def as something happens without an intermediate step, but then how could you possibly be certain of that?
 
 [[2024-02-05]]
 What di you do in a world where finding something is the hard part, then copying snd redistributing takes resources, but copying is a pretty univerdal resource. This has basically been the transition/history of software?
