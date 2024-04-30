@@ -12,8 +12,7 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 
 
-[[2023-10-12]]
-Vission working loke this: positional encodings of the field is the same, movr away from focus, the abstraction layer on top changes (further away from focus becomes smaller number of nodes anove the positional encodingz hence perceived smaller) focus on it, mor information more jodes, more dedicated resources) - probably some oversimplification, but an easy to visualize how the positional encoding doesn't change but the description above abstractly attached to it does.
+
 
 [[2023-09-13]]
 3d modulus, perhaps points arrows outward, see where it goes, is it a hypertorus, is that definition like this? Inside to inside or inside to outside?

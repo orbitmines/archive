@@ -37,3 +37,5 @@ It wouldn't surprise me if someone who was blind has a better capability to navi
 Random thought from Tuesday while with alex&dani, more activity/relativistic/... affects differently the perception - is it conceivable that dreaming is a similar thing where in the last moment of waking up relatively all that is experienced in that instant compared to the experience of others? - Probably not the case (Alex), but it's still an interesting thought and at least generally possible maybe?
 [[2023-10-31]]
 Defocussed eyes seem to rely on color to readjust? - Can focus to something with a similar color incorrectly
+[[2023-10-12]]
+Vission working loke this: positional encodings of the field is the same, movr away from focus, the abstraction layer on top changes (further away from focus becomes smaller number of nodes anove the positional encodingz hence perceived smaller) focus on it, mor information more jodes, more dedicated resources) - probably some oversimplification, but an easy to visualize how the positional encoding doesn't change but the description above abstractly attached to it does.
