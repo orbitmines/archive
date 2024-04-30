@@ -196,3 +196,6 @@ Construct neutrons/.... al the other things from the smaller thing?
 
 [[2023-01-03]]
 Causality as a conceptual extreme on correlation in time.,.
+
+[[2023-04-07]]
+construct sounds from light

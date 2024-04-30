@@ -121,11 +121,3 @@ Physics: Thoughts on Blackholes, having in mind how Stephen Wolfram described th
 ---
 
 While on the bike; Likely the only way to approach such a problem is by altering one's own cognition; but that has obvious detremental consequences; and likely only possible once human cognition, or the functioning of the brain is understood. Even in the perception of framing it as a cognition to a soul, this for science means the same thing, if it can interact with the brain, it is observable and linked and might as well be a physical thing to us. Possible notion that the way /sequence of interactions is relevant for having this.
-
----
-
-
-only thing that nakes it a partial function is it it's a step of the function
-
-
-construct sounds from light
