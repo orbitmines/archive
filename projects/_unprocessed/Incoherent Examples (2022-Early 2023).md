@@ -71,13 +71,6 @@ I mentioned computer science as the branch which one could perceive from which a
 
 ---
 
-A note to ignore some part, is only of cognitive significance, if the imagined observer doesn't properly forget its mentioning; and why should it be ignorant to temporally relevant information? Certainly something perfectly ignorant is conceivable in this particular example, but it would certainly be unusual in some sense.
-
----
-
-Allow for generation of any html/js; this would possibly allow for the system to escape the browser environment, and no guarantees are made for this dangerous proposition. (; tackle this in another way)
-; a slight analogy to evolutionary biology might be made here
-
 It boils down to the idea, that the models of computation (like Kind & HVM), are subject to arbitrarily unknown/unknowable properties of the 'hardware' they are running on. And an observer, like a human, is able to be surprised when something previously thought to be deterministic, suddenly seems not to be; or is not coherent with its model. (whether that observation is actually true or not)
 
 But think of some property like 'commutation' being falsified in a specific context of a program, and having the runtime adjust its reductions based on such information.
@@ -88,14 +81,9 @@ Read: [General Intelligence Requires Rethinking Exploration (2022)](2211.07819.p
 
 hardware being the linux_64 or its lower level, possible reduction to tet at its hardware; sime physical process, is not accessible/reducible directly through the spec. (Indirect strategies would be required) But things could be assumed or guessed at which one can say about that underlying spec, and that it might be implemented differently and each implementation having different unknowns/ uncertainty.... etc
 
-
 ---
 
 If one would note one thing from deterministic systems is that complex behavior does not need non-determinism. (? -> Response to this would be what?)
-
----
-
-Open-endedness relevant ; frame of refernece/
 
 ---
 
