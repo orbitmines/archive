@@ -221,3 +221,10 @@ What about waves/wave-length? How does that factor in with the speed limit? ; So
 ---
 
 h (; planck) (or smaller) being the timestep for speed limit
+
+---
+
+Speed limit (albeit light speed or its general concept whether actually attributed to light or mot); the perfect spacial propegation in some space. A quality possibly attributed to teleportation as well. Nerely perfect propegation, spacial locality is irrelevant to this property.
+
+Isn't the more interesting question how one would slow down once a speed limit is achieved? (; start referencing it without the use of light). Through some external abnormality one might be slowed down, but if internal motion isn't propegated, when is the motion stopped? What happens for instance with light? Some knowledge gaps here to answer these questions properly.
+

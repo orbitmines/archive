@@ -12,14 +12,7 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 ### 2023 04-07
 
-
 ---
-Speed limit (albeit light speed or its general concept whether actually attributed to light or mot); the perfect spacial propegation in some space. A quality possibly attributed to teleportation as well. Nerely perfect propegation, spacial locality is irrelevant to this property.
-
-Isn't the more interesting question how one would slow down once a speed limit is achieved? (; start referencing it without the use of light). Through some external abnormality one might be slowed down, but if internal motion isn't propegated, when is the motion stopped? What happens for instance with light? Some knowledge gaps here to answer these questions properly.
-
----
-
 
 As for "concious experience", mystical aspects making it harder to do anything with it. A curious question that keeps me wondering: Why the visual experience oriented one way over a perfect mirroring? The observer wouldn't know the difference of course, then what does the particular form represent? Why one over the other? - My first guess would be some ordering it what happens first, what updates first, or some boundary in the universe which says this one comes first?
 
