@@ -11,11 +11,6 @@
 
 ---
 
-History: The initial side of the perceived non-trivial temporal directionality. Relying on some non-trivial consistency (; temporal invariance), in order to tell the story (; or be able to recover parts) of that initial side.  
-
-
----
-
 Read: [General Intelligence Requires Rethinking Exploration (2022)](2211.07819.pdf) Aleatoric uncertainty / Epistemic uncertainty / Irreducible uncertainty ; explore these? ; or perhaps both are already captured in the vagueness of the 'conceptual uncertainty' idea.
 
 ---

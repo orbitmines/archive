@@ -254,3 +254,7 @@ A curious thought experiment one might perform is that of accessing previous sta
 
 - universality makes assumptions of temporal stability? 
 	- COmputationality/Universal computatinally equivalent in the sense that its abstraction ignores certain practicalities such as temporal factors ... but could in some way hold up in some infinite directionaly were certain assumptions to hold.
+
+---
+
+History: The initial side of the perceived non-trivial temporal directionality. Relying on some non-trivial consistency (; temporal invariance), in order to tell the story (; or be able to recover parts) of that initial side.  
