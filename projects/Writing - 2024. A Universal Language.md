@@ -95,6 +95,10 @@ Traversing `.self`
 
 - noticing of runtime inconsistencies from some perspective ; adjustable
 ##### "Binary"
+just list a few possible ways of constructing it.
+- binary reverse op is also conceivable as initial/self/terminal over two possible values
+- orbiting ray 
+
 - [ ] ; ideas from the notebooks
 Encoding/symbols..
 - Perspective of 0/1,
