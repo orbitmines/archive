@@ -146,6 +146,8 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 ##### Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 *better name*
 
+- [ ] Non-commital ignorance, lazy functions ; Carrying of an initial/terminal from a reference without traversing the direction
+
 The concept is never really direct execution, and if it is, that's often more like ignorance. Basically, arbitrary lazyness. Like this we basically rephrase "output" or "halting" as "what if we assume it halts here". Inaccessible, ..., Ignorant ones turn into the inability to ask that question.  
 
 @see "What if this wasn't the case?" https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=%22What%20if%20this%20wasn%27t%20the%20case%3F%22
