@@ -57,10 +57,11 @@ Ignorant of its use - visualizing
 - [ ] Potentially important: distinguishability doesn't need to be abstractly realized, it could just be in the temporal mechanisms of the system.
 	- [ ] Assumptions, perceived obvious ones left unsaid. Mention non-trivial reason to suppose that one might understand something? - NOt reanosable to suggest that certain things should be known in certain cases? - Only a formallized variant of something like this?
 
-
 - [ ] **Non-commital ignorance:** perhaps undirectedness - or some non commital to what part of the structure is being latched onto phrased as a combination (similar to multiway-computation) where it merely allows all the possible connectivities (which abstractly reasned could ometimes be interpreted as probabilities at some other level of description)
 
+
 - [ ] Different level of description (simulation) ; That this ignorance (; variance) doesn't matter, or can just be explicitly stated.
+
 
 - [ ] General notion of constructing superpositions (; equivalences) or inconsistencies and enumerating possibilities
 	- [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics)
