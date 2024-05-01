@@ -64,10 +64,6 @@ Ignorant of its use - visualizing
 	- [ ] Do you really need nothing/empty as a way to differentiate between a pattern and an actual empty one? Is this not encoded in rewrite functions?/ignorant ones?
 	- [ ] Basically also this thing of, some type of assumption/proof - not need to check some thing
 
-- [ ] How to know which parts are being observed?  
-  - [ ] How to discover other observations not necessarily internally processed.  
-    - [ ] Reference to hiding observations from the interface? Possibility is there, so should be described?
-
 - [ ] Notify me when you've found something you deem relevant for this unknown (while we dont know how to solve some unknown)
 - [ ] How would additional capabilities be realized? More things done at some time step? What time step? (; more complex organization, controlled and uncontrolled)  / devices / resources
 - [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..

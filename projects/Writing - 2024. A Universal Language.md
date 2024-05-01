@@ -25,7 +25,7 @@ Consider this my attempt to provide infrastructure for that exploration.
 	  - Unknowns not yet verified with proposed consequences for either option?   
 	  - Expectations/claims based on incompleteness of some intermediary step.  
 	  - Also without expectation but simply an unsolved unknown.
-- Other way around: determining that somethingoutside context, looking inside the context
+- Other way around: determining that something outside the context is looking inside the context
 
 ---
 
