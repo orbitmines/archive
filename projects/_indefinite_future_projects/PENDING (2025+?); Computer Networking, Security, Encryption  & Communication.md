@@ -36,3 +36,6 @@ Im reminded of some idea to use the hits in something like any image/article and
 
 against this ?:
 As is this searching/crawling Wikipedia patterns paper able for deducing/influencing the observer, such is the subsequent searching for word meanings while reading text
+
+- [ ] This similar to homotopy type theory expanding possible types, or that "the most beaitufl program every written thing" which handles filling the "?" or theorem provers... - last one maybe more of finding something that matches the pattern?..
+	- [ ] "Escaping contexts"
