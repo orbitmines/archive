@@ -162,6 +162,8 @@ In the case of Rays, whether something is a vertex/initial/terminal is only infe
 Leaves the following questions:  
 
 ##### Fuzzing / discovery
+Partially, locally, ... (same as on orbits)
+
 - [ ] Brute-forcing if no better alternative has yet been found? ; try to explore combinatorial exploding spaces.
 - [ ] Solving ambiguity with additional context ; tolerance of ambiguity
 	- [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure. Ambiguity arises from this ignorance of structure.
