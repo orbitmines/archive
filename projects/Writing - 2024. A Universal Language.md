@@ -147,6 +147,7 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 *better name*
 
 - [ ] Non-commital ignorance, lazy functions ; Carrying of an initial/terminal from a reference without traversing the direction
+	- [ ] Similarly: 
 
 The concept is never really direct execution, and if it is, that's often more like ignorance. Basically, arbitrary lazyness. Like this we basically rephrase "output" or "halting" as "what if we assume it halts here". Inaccessible, ..., Ignorant ones turn into the inability to ask that question.  
 

@@ -14,9 +14,6 @@ Not so sure about these points:
 
 - [ ] Matching to any part of some dorectionality in the following sense. One upper smaller one (saw two things), one larger one say three things. The lower one corresponding to normal movement, the other to higher level movement of say Ctrl+Move, similar to word movement using the keyboard. Then the points as an abstract pattern being able to match to any part of the directionality, as long as they're in succession, as long as they're three.
 
-- [ ] Everything is connected to everything, inconsistent, and want to drop the edges. Actuall ignorant abstraction layer above it, with the disguinsihability with additional information. It's the edges with allow for differentiability. Triangle, point sbove it, ignorant connections. Symmetry, things allow for distinguishability is the memory of having rotated (disallow access, disallow the memory/conenction) ; Always additional structure to it is what defines the abstraction.
-
-
 ---
 
 The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'.
