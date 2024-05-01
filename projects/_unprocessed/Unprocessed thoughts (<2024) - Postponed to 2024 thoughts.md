@@ -36,7 +36,7 @@ Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
 	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? ; parallel, one at the completion step, the other in between still waiting
 		- [ ] Unknowns & inconsistencies driving curiosity?  
-	- [ ] Partial reversibility critical, same for superpositions and possible spaces (close to approximates).. 
+	- [ ] Partial reversibility critical, same for superpositions and possible spaces (close to approximates)..
 	- [ ] Hooking steps of the program:  
 		- [ ] Already start doing something while decision is pending - do the things which one can reverse?  
 		  - [ ] This would allow for the hooking of the process by a programmer: Hey while you're still working on this thing, perhaps [some answer to some function] should be considered, what would happen then? (Basically simulating an answer by a programmer ; some arbitrary process which hooks into a function)  
