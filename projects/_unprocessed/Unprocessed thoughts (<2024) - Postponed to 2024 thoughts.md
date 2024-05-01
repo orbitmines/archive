@@ -73,7 +73,6 @@ Ignorant of its use - visualizing
 - [ ] Non-abstract realizations
 	- [ ] Do you really need nothing/empty as a way to differentiate between a pattern and an actual empty one? Is this not encoded in rewrite functions?/ignorant ones?
 	- [ ] Basically also this thing of, some type of assumption/proof - not need to check some thing
-- [ ] Some way of implementing it in usual matrixes, 
 - [ ] Modelling unknown systems - possibly to in the future match em - or directly something possibly not understood
 	- [ ] Will have to kick in by having some way of realizing that externality - much more intuitive to phrase it this way, and see how it can be broken  
 	- [ ] Conjecture, 
