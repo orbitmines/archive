@@ -138,6 +138,26 @@ Leaves the following questions:
 
 Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - 
 
+- [ ] Against forgetting/violation/inconsistencies
+	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.
+	- [ ] It's crossing some directionality and finding one cannot return back? (That would imply next time step or something - any inconsistency possibly 
+	- [ ] differently structurally forgetting
+	- [ ] Testing/Simulating: Does a certain property still hold; what if not and deemed violated?  
+	- [ ] How could failures be detected? How can failures be prevented? 
+	- [ ] Redundancy: redundancy defined as aiding the resolving of unresolved values? (if compression is the goal: least redundant, if the goal is adaptability; sparsity)
+	  - [ ] Run multiple simultaneous processes which are supposed to do the same thing - compare  
+	- [ ] Self-imposed limitations to see if that can be sufficient  
+		- [ ] "What if I were to treat this as forgotten, what would happen?"  
+		- [ ]  - fidelity: If I don't check, I assume it will be consistent, if I do check, I assume the checking will be consistent. ; What to do when certain types of consistency fail?  
+		- [ ] If ones particular assumption falls it can be caught up by another: If some abstract form of time isn't necessary then one can revert to theories that allow perfect symmetries of relations which are not described by computation. ...etc. How would one invalidate the whole thing?  - safety mechanism for tests - or at least, that would be assumed
+	  - [ ] Try limitation on hardcoded relationships between things: Visual representations, symmetries of them etc..  
+	  - [ ] Testing/Simulating with fewer resources, see how that impacts behavior; temporal/visual/... (Modeling resources?)
+	  - [ ] Not having access to inner perceived structure (transduction/..)/equivalency rules  
+- [ ] Keep pulsing certain directionalitiws for changes in sone "does it continue", agift behavior based on such changes
+- [ ] Proved in some finite space as opposed to general one.  
+- [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
+- [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
+
 ##### Self-referential operators & multiple abstract implementations
 - Note that whenever you have a self-reference through operators, that requires an implementation to break this self-reference. For example ray functionality only requires initial + negative, or terminal + negative, or initial + terminal, to make all the other three.
 
