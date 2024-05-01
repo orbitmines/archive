@@ -26,6 +26,9 @@ Magic def as something happens without an intermediate step, but then how could 
 
 just 'speed limit' as it discourages inquiry in its possible dissociation with light speed.
 
+[[2024-05-01]]
+Is it words/names of things, in programming, ..., natural languages which disallow for generaliz
+
 [[2023-04-07]]
 I wouldn't necessarily frame it as first principles. Seems likely that that promotes the line of thinking that what one has discussed are indeed the first principles and not something more permeating, excluded from those ideas, which is something to be considered. Probably a conclusion to be drawn from that, that advice is more likely to be useful when sufficiently vague. A sort of psychological manipulation: See here a vague pattern I associate with this thing, see that pattern: it means this thing.
 
