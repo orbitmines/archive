@@ -47,11 +47,4 @@ Is reducing the number of connectings at fdrames, and only to othger directions 
 - [ ] Re-conceptualize the best known compression as a perceived geodesic in a certain non-trivial directionality. Shortest distance in size. ; generalization of geodesic.
 
 
-- [ ] Rule out obvious [[WebAssembly]] redundancies
-  - [ ] Nice feature of the wasm binary is we can export the compress/decompress function from the same binary, and their order in the binary has some invariance. Which simplifies are definition of the search space: We're looking for a dual function export from a single binary.
-
-
-- [ ] We don't necessarily have to understand the host environment and assume consistency of [[WebAssembly]]'s assumptions. Relying on this sort of assumption is usually also what programming has primarily been - (perhaps say something about want to move to a more dynamic case where this isn't necessarily the case?). 
-
-
 - [ ] on the using existing data on disk etc./ One could simply see it as additional resources, capabilities, function, however one wants to define it. It generally can (and should) alter possible compression for anything that follows. Though this consideration] not in the scope for this prize.

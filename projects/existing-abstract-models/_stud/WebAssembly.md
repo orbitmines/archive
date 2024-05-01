@@ -1,3 +1,8 @@
+
+
+# UNPROCESSED
+*Tread carefully, confusion abound**
+
 "I believe I was first exposed to WebAssembly while working on a project using Blazor in the .NET ecosystem back in 20XX"
 
 ```tsx
@@ -18,4 +23,4 @@
 
 - [[wasm3]], [spec](https://github.com/WebAssembly/spec)
 
-
+- [ ] Nice feature of the wasm ~binary is we can export the compress/decompress function from the same binary, and their order in the binary has some invariance. Which simplifies are definition of the search space: We're looking for a dual function export from a single binary~.
