@@ -31,14 +31,12 @@ Ignorant of its use - visualizing
 # Implementation
 - Locally defined rewrite rules?
 
-- [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure ; say not having access to a binary sequence, so having merely a point to reference the entire thing, and then gaining access at that point, which then holds the ambiguity of where in that sequence, or relative character one is able to grab onto the structure. Or if the grabbing is parallelized into multiple rays, then how those are distributed themselves again, up for ambiguity.  
 
 Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
 	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? ; parallel, one at the completion step, the other in between still waiting
 		- [ ] Unknowns & inconsistencies driving curiosity?  
 	- [ ] Partial reversibility critical, same for superpositions and possible spaces (close to approximates).. 
-	- [ ] Recognizing structure but not it's name (failure to find a link): Recognizing properties/context, but not some specific property/attached representation.  
 	- [ ] Hooking steps of the program:  
 		- [ ] Already start doing something while decision is pending - do the things which one can reverse?  
 		  - [ ] This would allow for the hooking of the process by a programmer: Hey while you're still working on this thing, perhaps [some answer to some function] should be considered, what would happen then? (Basically simulating an answer by a programmer ; some arbitrary process which hooks into a function)  

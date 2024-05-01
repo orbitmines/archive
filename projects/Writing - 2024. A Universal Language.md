@@ -164,6 +164,7 @@ Leaves the following questions:
 ##### Fuzzing / discovery
 - [ ] Brute-forcing if no better alternative has yet been found? ; try to explore combinatorial exploding spaces.
 - [ ] Solving ambiguity with additional context ; tolerance of ambiguity
+	- [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure. Ambiguity arises from this ignorance of structure.
 	- [ ] You want to allow for ambiguity, and ways of resolving it.
 	- [ ] Then combating it would be: Want to collapse it, snap the modular structure. To converge to some structure (which could still be used as a modular space), but is now realized as not one within that context.
 	- [ ] Relate to [[Project - Indexing existing Abstract Models (2024-2025?)]] ; closeness/how quick does it fit your structure
