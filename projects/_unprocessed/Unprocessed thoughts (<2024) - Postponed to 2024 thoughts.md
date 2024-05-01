@@ -1,9 +1,9 @@
 
 
 ###### Specific implementation questions/constraints
-- [ ] **direction at the point**: What does it mean for a point yo become its own direction? ; shift in d
+- [ ] **direction at the point**: What does it mean for a point yo become its own direction? 
 	- [ ] The morphism is inconsistently a point across itself ?
-	- [ ] I suspect the source of a great many human confusions would be the interpretation of the direction at the point, while simultaneously not being aware of that that's what abstractly been done.
+
 	- [ ] direction as point think, as a confusion: The result and the processof getting there often confused or often ambiguous in language? ; Nearly, ..
 - [ ] **zero**: Generalization of zero st the split point between opposite directionalities?  
 	- [ ] 'zero' where distinguishability begins for some modular structure

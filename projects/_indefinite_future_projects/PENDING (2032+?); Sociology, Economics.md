@@ -72,3 +72,7 @@ A curious question that keeps me wondering: Why the visual experience oriented o
 
 ---
   - vs. "false memory"/I can still make that conclusion even though my mechanism of getting there isn't accurate.  (possibly not really, just for inaccurate reasons possibly (in)accurate) memory of loop having happened some number of times "
+
+---
+
+- [ ] point becomes its own direction: I suspect the source of a great many human confusions would be the interpretation of the direction at the point, while simultaneously not being aware of that that's what abstractly been done.
