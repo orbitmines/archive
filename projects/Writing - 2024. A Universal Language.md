@@ -131,6 +131,8 @@ Leaves the following questions:
 - TODO: How about treating something like something which the context says it's not? (Could apply this sort of thing in some fidelity/consistency checking mechanism as a way of fuzzing the fidelity mechanism)
 	- Trying again: doesn't change?  
 
+Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - 
+
 ##### Self-referential operators & multiple abstract implementations
 - Note that whenever you have a self-reference through operators, that requires an implementation to break this self-reference. For example ray functionality only requires initial + negative, or terminal + negative, or initial + terminal, to make all the other three.
 

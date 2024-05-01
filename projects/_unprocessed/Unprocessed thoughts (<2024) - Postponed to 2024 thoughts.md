@@ -9,9 +9,6 @@
 
 ---
 
-Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - 
-
-
 Not so sure about these points:
 - [ ] Rewrite rules, accidently hitting some "speed up?":: Hence time/inconsistency/motion/acceleration could be conceptualized as some unmatched pattern/relation (where unmatched is no link to some frame) looking for something to latch onto, and usually it's the next one in some directionality, other tumes the skipped a few in that directionality or something completely different - though abstractly if course this would be generalized as its own directionality so this differentiation only makes sense in relation to something else. - What happens if you apply this quantum mechanically/or multicomputationally?  
 - [ ] Unordered (directionalities), so non-directionalities, require parallelism in temporal directionalities. - Through you could always abstractly phrase them as having some directed parallelism, if one had to enumerate them. Is this the basis of what makes something non-directed? Or does this come from ignorance of the directed information had being unable to determine different permutations? - Hence necessarily stemming from uncertainty of following some directionality? - How could you ever do this not related to some parallrl ignorant directionalitirs?
