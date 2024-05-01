@@ -37,7 +37,3 @@ For lossless compression, one needs to not only restore the selected permutation
 ---
 
 The whole structure is relevent for compression. Hence if one groups some structure of 8 bits into a byte and say; they're equivalent in some sense to the 8 bits, but define that grouping differently than the rest of the structure; (show), there may be questions which would want that structure explicitly, and that would change how one compresses.   
-
----
-
-Is reducing the number of connectings at fdrames, and only to othger directions spaces whgat signifies a partical kind of compression?
