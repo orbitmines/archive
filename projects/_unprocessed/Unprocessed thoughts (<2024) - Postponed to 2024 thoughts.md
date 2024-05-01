@@ -50,9 +50,6 @@ Ignorant of its use - visualizing
 
 - [ ] Different level of description (simulation) ; That this ignorance (; variance) doesn't matter, or can just be explicitly stated.
 
-- [ ] Non-abstract realizations
-	- [ ] Do you really need nothing/empty as a way to differentiate between a pattern and an actual empty one? Is this not encoded in rewrite functions?/ignorant ones? ; 
-
 
 Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
