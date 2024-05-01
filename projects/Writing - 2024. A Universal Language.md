@@ -18,6 +18,8 @@ I suspect that a large numbers of problems arise from a rather simple conceptual
 Consider this my attempt to provide infrastructure for that exploration.
 
 
+["You will have to deal with being able to move in certain data structures for which there might not (yet) be a nice translation to something you can understand."](http://localhost:3000/archive/2024-02-orbitmines-as-a-game-project/#:~:text=You%20will%20have%20to%20deal%20with%20being%20able%20to%20move%20in%20certain%20data%20structures%20for%20which%20there%20might%20not%20(yet)%20be%20a%20nice%20translation%20to%20something%20you%20can%20understand.)
+
 ---
 
 - The problem is not .. it's missing tools to think across fields. 
