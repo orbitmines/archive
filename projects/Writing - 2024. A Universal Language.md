@@ -191,6 +191,7 @@ Compression
 Allows for a generalization of geodesic (partially)
 - One could simply see it as additional resources, capabilities, function, however one wants to define it. It generally can (and should) alter possible compression for anything that follows.
 - https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Such%20expectations%20however%2C%20as%20a%20prediction%20relying%20on%20some%20invariance.%20Is%20an%20assumption%20at%20risk%20of%20being%20violated.
+ curvature and noncompressability ; tweet ([[Jonathan Gorard]])
 
 - [ ] Against forgetting/violation/inconsistencies
 	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.

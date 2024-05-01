@@ -24,5 +24,3 @@ We use up resources in order to allow for the awareness of some conceived invari
 
 ; (as  a reference to th eplanet's coordinates, curvature as incompressibility)
 The circular can't unwrap thing Jonathan mentioned might be similar statement to knot theory, or again that the loop of something defines that unwrappability. - This is also relevant to homotopy/topology. Some different level of description against this with something "in between" nonmappable/equivalenced/ignored?  
-  
-The way [[Jonathan Gorard]] phrases it (in reference to that work) makes me think to phrase curvature and noncompressability ("no further compressability?" - abstractly that is 
