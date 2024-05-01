@@ -12,6 +12,7 @@
 Many of these steps are still quite uncertain, but the direction is clear.  
 
 ---
+
 Bit of frustration while at Birmingham
 - Don't expect people to navigate the site, just assume people are not explorative enough to do that, and put all the shit of the entire project on a single page
 - Don't expect people to understand the scope of the project I'm not searching I've found the damn thing and now it's implementation time  
