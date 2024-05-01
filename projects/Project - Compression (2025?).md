@@ -19,8 +19,3 @@ Uncertasinty not in the sense of "acctually a measure of uncertainty" -it's that
 Any programmed function/sets of bits, lowers the possible search space, by occupying structural limitations (though this assumes they are checked/traversed, they could be ignored). Bit since we assume some invariance (whether actually accurate is another thing), will also decrease the sesrch space nontrivially by disallowing certain combinations as redundant. 
 
 We use up resources in order to allow for the awareness of some conceived invariance (symmetry), which lowers the search space (if that route is chosen), but interestingly increases possible interactions (does this increase/decrease the search space?) out of this realization of invariance. ; we remove some redundancy by setting up this invariance. (if the storage of this invariance realization is lower than the possibilities enabled by this invariance) ; One is basically setting up a possible nontrivial superposition through that invariance.;  
-
----
-
-; (as  a reference to th eplanet's coordinates, curvature as incompressibility)
-The circular can't unwrap thing Jonathan mentioned might be similar statement to knot theory, or again that the loop of something defines that unwrappability. - This is also relevant to homotopy/topology. Some different level of description against this with something "in between" nonmappable/equivalenced/ignored?  
