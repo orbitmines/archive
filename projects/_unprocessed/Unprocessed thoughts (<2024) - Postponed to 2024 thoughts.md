@@ -45,12 +45,8 @@ Ignorant of its use - visualizing
 # Implementation
 - Locally defined rewrite rules?
 
-- [ ] Solving ambiguity with additional context,
 
 - [ ] Function starts as a reference betfore more dtetail on vertex/terminal?
-
-- [ ] Making a non theorem a theorem holding all properties and symmetries except its initial violation. It's not necessarily: "But that's not inside the definition of what this thing is supposed to be" - it's merely, well apparently I can do this, so your abstraction/description/implementation/... is clearly ignorant of something (obviously).
-
 
 - [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure ; say not having access to a binary sequence, so having merely a point to reference the entire thing, and then gaining access at that point, which then holds the ambiguity of where in that sequence, or relative character one is able to grab onto the structure. Or if the grabbing is parallelized into multiple rays, then how those are distributed themselves again, up for ambiguity.  
 
