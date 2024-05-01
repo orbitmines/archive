@@ -42,8 +42,6 @@ Ignorant of its use - visualizing
 
 - [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure ; say not having access to a binary sequence, so having merely a point to reference the entire thing, and then gaining access at that point, which then holds the ambiguity of where in that sequence, or relative character one is able to grab onto the structure. Or if the grabbing is parallelized into multiple rays, then how those are distributed themselves again, up for ambiguity.  
 
-
-
 Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
 	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? ; parallel, one at the completion step, the other in between still waiting
