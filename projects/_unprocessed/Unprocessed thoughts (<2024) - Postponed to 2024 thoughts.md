@@ -33,9 +33,7 @@ Ignorant of its use - visualizing
 	- [ ] **ALL vs one**: Still how to differentiate between ALL as opposed to just some matching pattern. Just some boundary condition of there being no X with property larger? - That certainly wont work arbitrarily
 	- [ ] "ZERO" IS the terminal?!!! - it's on the edge, not the point, or if zero from a seleciton, then it's apoint
 	- [ ] zero ary (zero input) choosing an element from the set - carlos - It's more genwral of some cross of the frame as the selextion/permutation of the encoding, how is this generalized, external inconsostency? realized by some non ignorant atep? - As a way of saying that the selection is ignorant
-- [ ] **If unknown**, Practical guesses if the answer is unkown to trigger a response which will make a subsequent guess more accurate/correct
-- [ ] **Tolerance of ambiguity** 
-	- [ ] Is it the fixation on specific names there to proactively combat ambiguity (collectively on some scale?), allow for certain spaces to more easily searchable (& other resource management ideas)? What are the less attractive things brought from fixation on some uniformity of what some part of some language/.. represents. Lesser tolorance/ability/pressure to develop resolving to/of/.. ambiguities
+- [ ] **If unknown**, Practical guesses if the answer is unkown to trigger a response which will make a subsequent guess more accurate/correct- 
 - [ ] Jump to extremes *assumed end
 
 ---
