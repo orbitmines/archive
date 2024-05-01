@@ -65,7 +65,6 @@ Ignorant of its use - visualizing
 	- [ ] Basically also this thing of, some type of assumption/proof - not need to check some thing
 
 - [ ] Notify me when you've found something you deem relevant for this unknown (while we dont know how to solve some unknown)
-- [ ] How would additional capabilities be realized? More things done at some time step? What time step? (; more complex organization, controlled and uncontrolled)  / devices / resources
 
 - [ ] Unknowns & inconsistencies driving curiosity?  
 
