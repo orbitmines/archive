@@ -3,7 +3,6 @@
 ###### Specific implementation questions/constraints
 - [ ] **direction at the point**: What does it mean for a point yo become its own direction? 
 	- [ ] The morphism is inconsistently a point across itself ?
-
 	- [ ] direction as point think, as a confusion: The result and the processof getting there often confused or often ambiguous in language? ; Nearly, ..
 - [ ] **zero**: Generalization of zero st the split point between opposite directionalities?  
 	- [ ] 'zero' where distinguishability begins for some modular structure
