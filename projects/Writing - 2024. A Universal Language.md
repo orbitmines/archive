@@ -97,7 +97,8 @@ Traversing `.self`
 ##### "Binary"
 just list a few possible ways of constructing it.
 - binary reverse op is also conceivable as initial/self/terminal over two possible values
-- orbiting ray 
+- orbiting ray around it / bouncing off the edges
+- ...
 
 - [ ] ; ideas from the notebooks
 Encoding/symbols..
