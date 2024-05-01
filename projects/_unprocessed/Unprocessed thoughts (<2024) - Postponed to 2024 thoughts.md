@@ -2,8 +2,6 @@
 
 ---
 
-Not so sure about these points:
-- [ ] Rewrite rules, accidently hitting some "speed up?":: Hence time/inconsistency/motion/acceleration could be conceptualized as some unmatched pattern/relation (where unmatched is no link to some frame) looking for something to latch onto, and usually it's the next one in some directionality, other tumes the skipped a few in that directionality or something completely different - though abstractly if course this would be generalized as its own directionality so this differentiation only makes sense in relation to something else. - What happens if you apply this quantum mechanically/or multicomputationally?
 
 ---
 
