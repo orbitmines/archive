@@ -48,8 +48,6 @@ Ignorant of its use - visualizing
 
 - [ ] **Non-commital ignorance:** perhaps undirectedness - or some non commital to what part of the structure is being latched onto phrased as a combination (similar to multiway-computation) where it merely allows all the possible connectivities (which abstractly reasned could ometimes be interpreted as probabilities at some other level of description)
 
-- [ ] Different level of description (simulation) ; That this ignorance (; variance) doesn't matter, or can just be explicitly stated.
-
 
 Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
