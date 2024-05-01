@@ -143,7 +143,7 @@ In the case of Rays, whether something is a vertex/initial/terminal is only infe
 Leaves the following questions:  
 
 ##### Fuzzing / discovery
-
+- [ ] Brute-forcing if no better alternative has yet been found? ; try to explore combinatorial exploding spaces.
 - [ ] Solving ambiguity with additional context,
 - [ ] Making a non theorem a theorem holding all properties and symmetries except its initial violation. It's not necessarily: "But that's not inside the definition of what this thing is supposed to be" - it's merely, well apparently I can do this, so your abstraction/description/implementation/... is clearly ignorant of something (obviously).
 
