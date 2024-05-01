@@ -217,6 +217,10 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 This is basically: When to decide that perspective switches should have a different name associated with them, when they can probably be thrown in a bag with other stuff: I.e. Why is it so significantly different it should be separate?
  - ex: TODO: Do I want to keep the is_equiv/is_composed pattern? Or simplify to one of the two?
 ##### Mathematics, Physics, ..., Dynamics
+
+Yellow is how you could define zero. Or a selection pointer on pink.
+![[Pasted image 20240501193810.png]]
+
 Mathematics as ignoring `.self` ? or something close to it.
 
 Defer to [[Jonathan Gorard]]'s work, for more physics details there. As for example this: ["The boundary of a boundary is always empty."](https://twitter.com/getjonwithit/status/1784599157015007391)
