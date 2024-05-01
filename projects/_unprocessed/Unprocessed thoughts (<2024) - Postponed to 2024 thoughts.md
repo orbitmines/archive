@@ -36,7 +36,6 @@ Ignorant of its use - visualizing
 - [ ] **If unknown**, Practical guesses if the answer is unkown to trigger a response which will make a subsequent guess more accurate/correct
 - [ ] **Tolerance of ambiguity** 
 	- [ ] Is it the fixation on specific names there to proactively combat ambiguity (collectively on some scale?), allow for certain spaces to more easily searchable (& other resource management ideas)? What are the less attractive things brought from fixation on some uniformity of what some part of some language/.. represents. Lesser tolorance/ability/pressure to develop resolving to/of/.. ambiguities
-	- [ ]  "Readiness to accept some supposed assumption in some context?" 
 - [ ] Jump to extremes *assumed end
 
 ---

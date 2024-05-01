@@ -161,7 +161,7 @@ Leaves the following questions:
 - [ ] Solving ambiguity with additional context ; tolerance of ambiguity
 	- [ ] You want to allow for ambiguity, and ways of resolving it.
 	- [ ] Then combating it would be: Want to collapse it, snap the modular structure. To converge to some structure (which could still be used as a modular space), but is now realized as not one within that context.
-	- [ ] Relate to 
+	- [ ] Relate to [[Project - Indexing existing Abstract Models (2024-2025?)]] ; closeness/how quick does it fit your structure
 - [ ] Making a non theorem a theorem holding all properties and symmetries except its initial violation. It's not necessarily: "But that's not inside the definition of what this thing is supposed to be" - it's merely, well apparently I can do this, so your abstraction/description/implementation/... is clearly ignorant of something (obviously).
 - [ ] Deletion of information
 
