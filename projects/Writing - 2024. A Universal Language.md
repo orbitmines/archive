@@ -27,6 +27,10 @@ Consider this my attempt to provide infrastructure for that exploration.
 	  - Also without expectation but simply an unsolved unknown.
 - Other way around: determining that something outside the context is looking inside the context
 
+Ideas like:
+- [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
+
+
 ---
 
 - The problem is not .. it's missing tools to think across fields. 
