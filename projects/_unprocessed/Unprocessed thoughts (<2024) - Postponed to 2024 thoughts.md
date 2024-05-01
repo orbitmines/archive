@@ -52,7 +52,7 @@ Ignorant of its use - visualizing
 
 - [ ] Non-abstract realizations
 	- [ ] Do you really need nothing/empty as a way to differentiate between a pattern and an actual empty one? Is this not encoded in rewrite functions?/ignorant ones? ; 
-	
+
 
 - [ ] Notify me when you've found something you deem relevant for this unknown (while we dont know how to solve some unknown)
 
