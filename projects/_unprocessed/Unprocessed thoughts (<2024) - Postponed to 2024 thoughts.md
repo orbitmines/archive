@@ -20,6 +20,7 @@ The abstract idea of persistence is quite straight-forward:  non-trivially limit
 
 Ignoring Redundancies (; Skipping Equivalences)
 Ignorant of its use - visualizing
+
 ###### Specific implementation questions/constraints
 - [ ] **direction at the point**: What does it mean for a point yo become its own direction? 
 	- [ ] The morphism is inconsistently a point across itself ?
