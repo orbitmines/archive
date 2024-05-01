@@ -183,6 +183,7 @@ Partially, locally, ... (same as on orbits)
 *Unusual exploration, sporadic, probing*
 - TODO: How about treating something like something which the context says it's not? (Could apply this sort of thing in some fidelity/consistency checking mechanism as a way of fuzzing the fidelity mechanism)
 	- Trying again: doesn't change?
+- practical guesses
 
 Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - ; compression
 
