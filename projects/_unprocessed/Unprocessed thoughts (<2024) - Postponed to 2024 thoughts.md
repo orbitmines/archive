@@ -9,11 +9,9 @@
 
 ---
 
- "What if I did not know about something, nor could rely on these particular discoveries, how would and could I rediscover this something?"
 
 ---
 
-persisting structures otherwise forgotten whose rediscoverability is not entirely obvious. 
 
 Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - 
 

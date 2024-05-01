@@ -194,6 +194,9 @@ At every branch comtains the one added thing necessary for spliiting the vranch 
 #### No memory
 The basic premise is this, there might be arbitrarily complex structure around me, but I need to start traversing to find out what it looks like. So the screen being a form of memory, and me 
 
+Veriopersisting structures otherwise forgotten whose rediscoverability is not entirely obvious. 
+ "What if I did not know about something, nor could rely on these particular discoveries, how would and could I rediscover this something?"
+
 #### Equivalences
 - Global changes from local equivalences
 - Can just move the terminal which holds the pointer to the boundary
