@@ -6,6 +6,7 @@ In-place dynamic window:
 Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
+
 Introduction
 Admittedly, this starts with a simple concession: that this is a generalization of many ideas whose details I don't fully understand. Though crucially, this is not important for my purposes here.
 
