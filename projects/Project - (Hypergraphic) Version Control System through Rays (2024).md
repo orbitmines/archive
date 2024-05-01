@@ -16,6 +16,7 @@ What to do with it
 
 - [ ] [USENIX Enigma 2016 - Timeless Debugging](https://www.youtube.com/watch?v=eGl6kpSajag) ; *George Hotz*
 
+The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
 ---
 ---
