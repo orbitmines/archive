@@ -136,6 +136,9 @@ Tripple superposition, two continuated (two perm), binary superposition
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
+- [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics)
+- [ ] Using them for fractal expansion - shoving structure in between.
+
 ##### Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 *better name*
 

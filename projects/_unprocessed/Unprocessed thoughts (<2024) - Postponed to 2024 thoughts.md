@@ -53,9 +53,8 @@ Ignorant of its use - visualizing
 
 - [ ] Different level of description (simulation) ; That this ignorance (; variance) doesn't matter, or can just be explicitly stated.
 
-
 - [ ] General notion of constructing superpositions (; equivalences) or inconsistencies and enumerating possibilities
-	- [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics)
+
 - [ ] Non-abstract realizations
 	- [ ] Do you really need nothing/empty as a way to differentiate between a pattern and an actual empty one? Is this not encoded in rewrite functions?/ignorant ones?
 	- [ ] Basically also this thing of, some type of assumption/proof - not need to check some thing
