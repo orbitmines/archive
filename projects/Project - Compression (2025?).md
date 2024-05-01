@@ -33,7 +33,3 @@ All compressions necessarily add reversibility considerations.
 ---
 
 For lossless compression, one needs to not only restore the selected permutation from a selection of possibilities, but also more non-trivial aspects, like the structure or positional encoding of those permutation selections. For binary sequences, it's somewhat easy to ignore this detail because its representation is so abstractly uniform, but nonetheless. 0-0-0-1, is different than 0-11-01-0: The conceptualization of a state, is some selected permutation from some perceived space of possible permutations. So in effect, it's an extra structural directionality at each point. That doesn't necessarily we know each permutation value, nor can iterate over all of them? (Could be drawn to the gaussian function/blurring thing? ; Less permutations/less possible details/information at some point, so different function, not necessarily 'better' in every possible way, merely different.)  
-
----
-
-The whole structure is relevent for compression. Hence if one groups some structure of 8 bits into a byte and say; they're equivalent in some sense to the 8 bits, but define that grouping differently than the rest of the structure; (show), there may be questions which would want that structure explicitly, and that would change how one compresses.   
