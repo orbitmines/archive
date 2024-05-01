@@ -173,6 +173,7 @@ Comments on [[2024-02-22]]
 	- [ ] [[Jasmin Christian Blanchette]]
 	- [ ] [[Simon Cruanes]]
 	- [ ] Biology/Chemistry/... other fields
+	- [ ] Active Inference, ...
 	- [ ] Computational Metaphysics
 		- [ ] https://mally.stanford.edu/cm/
 		- [ ] https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/

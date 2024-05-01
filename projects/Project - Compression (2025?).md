@@ -13,7 +13,3 @@ after [[Society for Multidisciplinary and Fundamental Research (SEMF)]]'s Mathem
 Coarse//graining as a structural property since the proability function might as well be seen as a function applied to the whole non-ignorant structure, which f"foirgets" the structure in some sense, but which persists in the structure in the other sense since the funcction was applied in the context of the structure.
 
 Uncertasinty not in the sense of "acctually a measure of uncertainty" -it's that this is influenced by what thing is doin ghte equivalencing of the entropic things - tbasically szaying ":that shouldn't be taken out of context." But it might as well be the case that one doesn't ingnore that to begin with, and then the information one does hold up, it's merely by ignoing that one usually deals with some other structure doing the equivalencing, that one is more geared towards saying it's a measure of uncertainty than information, of course it's a measure of information, it's just that either way of phrasing it is assmuning other things about what counts as part of that structure.
-
----
-  
-Any programmed function/sets of bits, lowers the possible search space, by occupying structural limitations (though this assumes they are checked/traversed, they could be ignored). Bit since we assume some invariance (whether actually accurate is another thing), will also decrease the sesrch space nontrivially by disallowing certain combinations as redundant. 
