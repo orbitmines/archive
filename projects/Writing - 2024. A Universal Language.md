@@ -101,6 +101,7 @@ Traversing `.self`
 - "Hyperdistance Oracles in hypergraphs" seems obvious from the perspective of Ray? ; it's just traversing `.self` from some perspective instead of other things.
 - equivalence is an inconsistency from some perspective (and the other way round)
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
+- none: initial direct to terminal, no vertex in between.
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
