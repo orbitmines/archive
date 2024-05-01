@@ -189,6 +189,7 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 
 Compression
 Allows for a generalization of geodesic (partially)
+- One could simply see it as additional resources, capabilities, function, however one wants to define it. It generally can (and should) alter possible compression for anything that follows.
 
 - [ ] Against forgetting/violation/inconsistencies
 	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.
