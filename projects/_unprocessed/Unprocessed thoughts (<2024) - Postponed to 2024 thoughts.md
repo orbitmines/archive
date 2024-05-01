@@ -49,11 +49,7 @@ Ignorant of its use - visualizing
 
 - [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure ; say not having access to a binary sequence, so having merely a point to reference the entire thing, and then gaining access at that point, which then holds the ambiguity of where in that sequence, or relative character one is able to grab onto the structure. Or if the grabbing is parallelized into multiple rays, then how those are distributed themselves again, up for ambiguity.  
 
-- [ ] Potentially important: distinguishability doesn't need to be abstractly realized, it could just be in the temporal mechanisms of the system.
-	- [ ] Assumptions, perceived obvious ones left unsaid. Mention non-trivial reason to suppose that one might understand something? - NOt reanosable to suggest that certain things should be known in certain cases? - Only a formallized variant of something like this?
-
 - [ ] **Non-commital ignorance:** perhaps undirectedness - or some non commital to what part of the structure is being latched onto phrased as a combination (similar to multiway-computation) where it merely allows all the possible connectivities (which abstractly reasned could ometimes be interpreted as probabilities at some other level of description)
-
 
 - [ ] Different level of description (simulation) ; That this ignorance (; variance) doesn't matter, or can just be explicitly stated.
 

@@ -29,7 +29,7 @@ Consider this my attempt to provide infrastructure for that exploration.
 
 Ideas like:
 - [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
-
+- [ ] Potentially important: distinguishability doesn't need to be abstractly realized, it could just be in the temporal mechanisms of the system: Not reanosable to suggest that certain things should be known in certain cases?
 
 ---
 
