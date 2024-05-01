@@ -34,8 +34,6 @@ Ignorant of its use - visualizing
 
 - [ ] Partiality/unresolved parts critical.  
 	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? ; parallel, one at the completion step, the other in between still waiting
-		- [ ] Unknowns & inconsistencies driving curiosity?  
-	- [ ] Hooking steps of the program:  
-		- [ ] Already start doing something while decision is pending - do the things which one can reverse?  
+	
 	- [ ] 'Unintended'/'Unrealized' effects realized? / Resources one didn't know one is consuming etc... (unknowns)  
 
