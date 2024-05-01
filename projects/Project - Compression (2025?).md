@@ -46,5 +46,4 @@ Is reducing the number of connectings at fdrames, and only to othger directions 
 
 - [ ] Re-conceptualize the best known compression as a perceived geodesic in a certain non-trivial directionality. Shortest distance in size. ; generalization of geodesic.
 
-
 - [ ] on the using existing data on disk etc./ One could simply see it as additional resources, capabilities, function, however one wants to define it. It generally can (and should) alter possible compression for anything that follows. Though this consideration] not in the scope for this prize.
