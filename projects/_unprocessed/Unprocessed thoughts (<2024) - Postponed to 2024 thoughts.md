@@ -57,7 +57,6 @@ Partially = locally?
 	- [ ] Partial reversibility critical, same for superpositions and possible spaces (close to approximates).. 
 	- [ ] Unresolved as: this computation was cut off/short? Unresolved: a pointer to continue investigation? ; pointer/reference to terminal
 	- [ ] Recognizing structure but not it's name (failure to find a link): Recognizing properties/context, but not some specific property/attached representation.  
-	- [ ] Deletion of information  
 	- [ ] Hooking steps of the program:  
 		- [ ] Already start doing something while decision is pending - do the things which one can reverse?  
 		  - [ ] This would allow for the hooking of the process by a programmer: Hey while you're still working on this thing, perhaps [some answer to some function] should be considered, what would happen then? (Basically simulating an answer by a programmer ; some arbitrary process which hooks into a function)  
