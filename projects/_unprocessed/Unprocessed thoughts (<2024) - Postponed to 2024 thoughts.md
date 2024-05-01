@@ -35,7 +35,6 @@ Ignorant of its use - visualizing
 	- [ ] zero ary (zero input) choosing an element from the set - carlos - It's more genwral of some cross of the frame as the selextion/permutation of the encoding, how is this generalized, external inconsostency? realized by some non ignorant atep? - As a way of saying that the selection is ignorant
 - [ ] **If unknown**, Practical guesses if the answer is unkown to trigger a response which will make a subsequent guess more accurate/correct
 - [ ] **Tolerance of ambiguity** 
-	- [ ] Enforce some single solution as opposed to allowing for misinterpretations to persist and either be adjusted differently later on ; wanting to converge to some value, limiting?
 	- [ ] Is it the fixation on specific names there to proactively combat ambiguity (collectively on some scale?), allow for certain spaces to more easily searchable (& other resource management ideas)? What are the less attractive things brought from fixation on some uniformity of what some part of some language/.. represents. Lesser tolorance/ability/pressure to develop resolving to/of/.. ambiguities
 	- [ ]  "Readiness to accept some supposed assumption in some context?" 
 - [ ] Jump to extremes *assumed end
