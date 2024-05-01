@@ -5,8 +5,6 @@
 Not so sure about these points:
 - [ ] Rewrite rules, accidently hitting some "speed up?":: Hence time/inconsistency/motion/acceleration could be conceptualized as some unmatched pattern/relation (where unmatched is no link to some frame) looking for something to latch onto, and usually it's the next one in some directionality, other tumes the skipped a few in that directionality or something completely different - though abstractly if course this would be generalized as its own directionality so this differentiation only makes sense in relation to something else. - What happens if you apply this quantum mechanically/or multicomputationally?
 
-- [ ] Matching to any part of some dorectionality in the following sense. One upper smaller one (saw two things), one larger one say three things. The lower one corresponding to normal movement, the other to higher level movement of say Ctrl+Move, similar to word movement using the keyboard. Then the points as an abstract pattern being able to match to any part of the directionality, as long as they're in succession, as long as they're three.
-
 ---
 
 The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
