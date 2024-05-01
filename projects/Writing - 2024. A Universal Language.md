@@ -61,6 +61,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
 `.and` compose terminal/initial
+	- Only thing needed for addition, is equivalencing initial/terminal. - Equivalencing continuations.  
 `.terminal / ..`
 	- Move `.self` to `.terminal`
 	- Terminal expectation ; could also be arbitrary structure again.

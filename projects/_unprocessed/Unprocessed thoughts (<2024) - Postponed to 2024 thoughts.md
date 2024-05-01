@@ -48,8 +48,6 @@ Ignorant of its use - visualizing
 - [ ] Solving ambiguity with additional context,
 
 - [ ] Function starts as a reference betfore more dtetail on vertex/terminal?
-- Only thing needed for addition, is equivalencing initial/terminal. - Equivalencing continuations.  
-
 
 - [ ] Making a non theorem a theorem holding all properties and symmetries except its initial violation. It's not necessarily: "But that's not inside the definition of what this thing is supposed to be" - it's merely, well apparently I can do this, so your abstraction/description/implementation/... is clearly ignorant of something (obviously).
 
