@@ -2,25 +2,12 @@ A lot of my current thinking can be linked back to struggling (incredibly naivel
 
 *Who knows, I might try another stab at the Hutter Prize (http://prize.hutter1.net/)*
 
-
----
-
-> Existing compression algorithms  
-> - [Brotli](../external_projects/brotli/) (Google)  
-> - [zstd](../../../../../../../external_projects/zstd) (Facebook; Meta)  
->  
-> Benchmarks  
-> * [Squash Compression Benchmark](https://quixdb.github.io/squash-benchmark/) / [Unstable Squash Compression Benchmark](https://quixdb.github.io/squash-benchmark/unstable/)  
-> * [Large Text Compression Benchmark](http://mattmahoney.net/dc/text.html)  
-> * [Lzturbo Benchmark](https://sites.google.com/site/powturbo/home/benchmark)  
-  
 - [ ] [Hutter Prize ; enwik9](http://prize.hutter1.net/)  
 
 ---
 
-Compression/entropy
-
 after [[Society for Multidisciplinary and Fundamental Research (SEMF)]]'s Mathematics & Complexity ; https://discord.com/channels/844566471501414463/1181014969848959057/1184968575409201302
+
 ![[Pasted image 20231219110933.png]]
 
 Coarse//graining as a structural property since the proability function might as well be seen as a function applied to the whole non-ignorant structure, which f"foirgets" the structure in some sense, but which persists in the structure in the other sense since the funcction was applied in the context of the structure.
