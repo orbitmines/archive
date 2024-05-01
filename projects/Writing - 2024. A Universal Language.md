@@ -224,7 +224,8 @@ Allows for a generalization of geodesic (partially)
 This is basically: When to decide that perspective switches should have a different name associated with them, when they can probably be thrown in a bag with other stuff: I.e. Why is it so significantly different it should be separate?
  - ex: TODO: Do I want to keep the is_equiv/is_composed pattern? Or simplify to one of the two?
 
-encoding usually
+encoding usually ignorant of its use
+
 ##### Mathematics, Physics, ..., Dynamics
 
 Yellow is how you could define zero. Or a selection pointer on pink. ; Basically you can define the boundary as a zero point. ; "split point between opposites" ; "distinguishability begins here for modular structure" ; ... "selection"
