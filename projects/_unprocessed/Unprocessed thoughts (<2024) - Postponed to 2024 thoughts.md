@@ -44,8 +44,6 @@ Ignorant of its use - visualizing
 # Implementation
 - Locally defined rewrite rules?
 
-- [ ] Function starts as a reference betfore more dtetail on vertex/terminal?
-
 - [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure ; say not having access to a binary sequence, so having merely a point to reference the entire thing, and then gaining access at that point, which then holds the ambiguity of where in that sequence, or relative character one is able to grab onto the structure. Or if the grabbing is parallelized into multiple rays, then how those are distributed themselves again, up for ambiguity.  
 
 - [ ] **Non-commital ignorance:** perhaps undirectedness - or some non commital to what part of the structure is being latched onto phrased as a combination (similar to multiway-computation) where it merely allows all the possible connectivities (which abstractly reasned could ometimes be interpreted as probabilities at some other level of description)
@@ -63,7 +61,7 @@ Ignorant of its use - visualizing
 
 Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
-	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? 
+	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? ; parallel, one at the completion step, the other 
 	- [ ] Partial reversibility critical, same for superpositions and possible spaces (close to approximates).. 
 	- [ ] Unresolved as: this computation was cut off/short? Unresolved: a pointer to continue investigation? ; pointer/reference to terminal
 	- [ ] Recognizing structure but not it's name (failure to find a link): Recognizing properties/context, but not some specific property/attached representation.  
