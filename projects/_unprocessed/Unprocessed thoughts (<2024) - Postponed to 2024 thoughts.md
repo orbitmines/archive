@@ -31,9 +31,6 @@ Ignorant of its use - visualizing
 # Implementation
 - Locally defined rewrite rules?
 
-
 - [ ] Partiality/unresolved parts critical.  
-	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? ; parallel, one at the completion step, the other in between still waiting
-	
-	- [ ] 'Unintended'/'Unrealized' effects realized? / Resources one didn't know one is consuming etc... (unknowns)  
+
 
