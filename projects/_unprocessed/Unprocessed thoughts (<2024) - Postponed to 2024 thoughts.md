@@ -54,9 +54,6 @@ Ignorant of its use - visualizing
 	- [ ] Do you really need nothing/empty as a way to differentiate between a pattern and an actual empty one? Is this not encoded in rewrite functions?/ignorant ones? ; 
 
 
-- [ ] Notify me when you've found something you deem relevant for this unknown (while we dont know how to solve some unknown)
-
-
 Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
 	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? ; parallel, one at the completion step, the other in between still waiting
