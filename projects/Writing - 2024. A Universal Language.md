@@ -102,7 +102,9 @@ Encoding/symbols..
 - "Some line as saying: anything on it is the frame and deemed the same, all deemed as ignored, all deemed as the identity"
 
 ##### "Superpose in more detail"
+
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
+	- "Can abstractly only satisfy a loop through another loop? While pattern matching?"
 	- Some way to conceptualize a qubit as pattern matched on any other thing ; similar to the "push structure inside thing."
 	- ; So that would be like finding the higher-arity structure there, and selecting it like the vertex on vertex, having it branch off.
 	- ; So similarly, it's infinity groupoids which break the recursion of the stack. So the `.is_orbit`s.

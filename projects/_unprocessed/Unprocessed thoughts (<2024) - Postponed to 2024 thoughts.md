@@ -54,10 +54,6 @@ Ignorant of its use - visualizing
 
 - [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure ; say not having access to a binary sequence, so having merely a point to reference the entire thing, and then gaining access at that point, which then holds the ambiguity of where in that sequence, or relative character one is able to grab onto the structure. Or if the grabbing is parallelized into multiple rays, then how those are distributed themselves again, up for ambiguity.  
 
-- [ ] How to floating point numbers work?
-	- [ ] There imprecision at some extreme in floating point numbers. Where this imprecision? Not always at the edge, not always inconsistency of assumed infinities at the edge, could be at any point? 
-
-
 - [ ] Potentially important: distinguishability doesn't need to be abstractly realized, it could just be in the temporal mechanisms of the system.
 	- [ ] Assumptions, perceived obvious ones left unsaid. Mention non-trivial reason to suppose that one might understand something? - NOt reanosable to suggest that certain things should be known in certain cases? - Only a formallized variant of something like this?
 
@@ -65,7 +61,7 @@ Ignorant of its use - visualizing
 - [ ] **Non-commital ignorance:** perhaps undirectedness - or some non commital to what part of the structure is being latched onto phrased as a combination (similar to multiway-computation) where it merely allows all the possible connectivities (which abstractly reasned could ometimes be interpreted as probabilities at some other level of description)
 
 - [ ] Different level of description (simulation) ; That this ignorance (; variance) doesn't matter, or can just be explicitly stated.
-- [ ] "Can abstractly only satisfy a loop through another loop? While pattern matching?"
+
 - [ ] General notion of constructing superpositions (; equivalences) or inconsistencies and enumerating possibilities
 	- [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics)
 - [ ] Non-abstract realizations

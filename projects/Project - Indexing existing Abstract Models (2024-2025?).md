@@ -232,7 +232,7 @@ Comments on [[2024-02-22]]
 
 - old old & linguistics https://en.wikipedia.org/wiki/Cuneiform, https://en.wikipedia.org/wiki/Hangul 
 
-- Floating-Point Arithmetic (there were people who created neat graphs for these, find them? - probably a very neat way of phrasing them in terms of rays), eNDIAN BASE ENCODING, ..
+- Floating-Point Arithmetic (there were people who created neat graphs for these, find them? - probably a very neat way of phrasing them in terms of rays ; as in where the ambiguity happens), eNDIAN BASE ENCODING, ..
 
 ---
 
