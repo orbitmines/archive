@@ -66,7 +66,7 @@ Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
 	- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? 
 	- [ ] Partial reversibility critical, same for superpositions and possible spaces (close to approximates).. 
-	- [ ] Unresolved as: this computation was cut off/short? Unresolved: a pointer to continue investigation?
+	- [ ] Unresolved as: this computation was cut off/short? Unresolved: a pointer to continue investigation? ; pointer to terminal
 	- [ ] Recognizing structure but not it's name (failure to find a link): Recognizing properties/context, but not some specific property/attached representation.  
 	- [ ] Deletion of information  
 	- [ ] Hooking steps of the program:  
