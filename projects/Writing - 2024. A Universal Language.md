@@ -173,7 +173,8 @@ Partially, locally, ... (same as on orbits)
 - [ ] Making a non theorem a theorem holding all properties and symmetries except its initial violation. It's not necessarily: "But that's not inside the definition of what this thing is supposed to be" - it's merely, well apparently I can do this, so your abstraction/description/implementation/... is clearly ignorant of something (obviously).
 - [ ] Deletion of information
 
-- [ ] Unknowns & inconsistencies driving curiosity?   ; same with items, finding hints of quests
+- [ ] Unknowns & inconsistencies driving curiosity?   ; same with items, finding hints of possible quests to pursue
+
 *Unusual exploration, sporadic, probing*
 - TODO: How about treating something like something which the context says it's not? (Could apply this sort of thing in some fidelity/consistency checking mechanism as a way of fuzzing the fidelity mechanism)
 	- Trying again: doesn't change?
