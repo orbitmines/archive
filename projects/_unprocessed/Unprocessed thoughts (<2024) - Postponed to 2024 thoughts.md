@@ -85,7 +85,6 @@ Ignorant of its use - visualizing
 - [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
 - [ ] Unknowns & inconsistencies driving curiosity?  
 
-- [ ] This similar to homotopy type theory expanding possible types, or that "the most beaitufl program every written thing" which handles filling the "?" or theorem provers... - last one maybe more of finding something that matches the pattern?..
 
 Partially = locally?
 - [ ] Partiality/unresolved parts critical.  
