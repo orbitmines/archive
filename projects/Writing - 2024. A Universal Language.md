@@ -104,6 +104,7 @@ Traversing `.self`
 - equivalence is an inconsistency from some perspective (and the other way round)
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
 - none: initial direct to terminal, no vertex in between.
+- Like that you can 
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 
