@@ -218,7 +218,7 @@ This is basically: When to decide that perspective switches should have a differ
  - ex: TODO: Do I want to keep the is_equiv/is_composed pattern? Or simplify to one of the two?
 ##### Mathematics, Physics, ..., Dynamics
 
-Yellow is how you could define zero. Or a selection pointer on pink. ; Basically you can define the boundary as a zero point.
+Yellow is how you could define zero. Or a selection pointer on pink. ; Basically you can define the boundary as a zero point. ; "split point between opposites" ; "distinguishability begins here for modular structure" ; ... "selection"
 ![[Pasted image 20240501193810.png]]
 
 Mathematics as ignoring `.self` ? or something close to it.
