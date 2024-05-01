@@ -1,10 +1,4 @@
 
-
----
-
-
----
-
 The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 ###### Specific implementation questions/constraints
 - [ ] **direction at the point**: What does it mean for a point yo become its own direction? 
