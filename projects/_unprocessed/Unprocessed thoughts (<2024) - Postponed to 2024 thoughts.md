@@ -9,10 +9,6 @@
 
 ---
 
-
----
-
-
 Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - 
 
 
