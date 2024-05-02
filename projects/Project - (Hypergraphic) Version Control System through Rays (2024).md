@@ -10,7 +10,7 @@ What to do with it
 - [ ] History of rotations movements, replay at any accuracy  
 - [ ] Track program movements.  
 - [ ] Track interface movements. (Some directionality seen as temporal as to interface inputs.) 
-	- [ ] Note on interface logging  "Since it's essentially a keylogger"
+	- [x] Note on interface logging  "Since it's essentially a keylogger"
 - [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
 - [ ] Becomes a story of redundancy/copies, could maybe move this file to [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
