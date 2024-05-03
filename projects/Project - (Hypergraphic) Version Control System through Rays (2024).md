@@ -19,7 +19,6 @@ What to do with it
 The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
 ---
----
 
 As part of the requirements for broader :orbitmines: OrbitMines projects, this will necessarily include a novel way of dealing with histories of arbitrary structures.
 
