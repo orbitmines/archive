@@ -22,6 +22,9 @@ Read
 - [ ] https://en.wikipedia.org/wiki/Alfv%C3%A9n_wave
 - [ ] https://en.wikipedia.org/wiki/History_of_Maxwell's_equations
 
+Discovery data
+- [ ] Higgs boson discovery data & others, where/are these things indexed?
+
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
