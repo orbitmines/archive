@@ -110,6 +110,8 @@ Comments on [[2024-02-22]]
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
+- [ ] https://github.com/futureofcoding/futureofcoding.org
+- [ ] 
 
 ### Some other ways of possibly extending this list (non-completed tangents):
 
