@@ -314,7 +314,7 @@ Platform interop
 	- [ ] Status etc..
 - [ ] Intercompilation images..
 - [ ] Cross boundaries of things/communication ; basically this as the general pattern for all of this
-[[Operating System (OS)]]
+[[PENDING (2027?+); Operation System]]
 - NixOS
 
 
