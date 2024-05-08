@@ -1,6 +1,8 @@
 *Let's try for [[2024-05-31]]*
 
 
+
+
 ```ts
 
 from __future__ import annotations  
@@ -893,6 +895,10 @@ persisting structures otherwise forgotten whose rediscoverability is not entirel
 	- Simple example of infinitely finding terminals, or a reference to 'nothing - infinitely'.
 	- If both are references, allow deref of both in parallel? - for later probably
 - Rewriting as placing the direction encoded as `.type` of initial/vertex headed to terminal. Where terminal is undecided (from the perspective of `.terminal`, can recursively be the case for any of these.) - So .initial is VERTEX, .self is TERMINAL, which means this .terminal returns ... (Basically abstraction layer fitting the structure - See [[2024-03-28]] note.)
+
+
+#### Rendering engine
+[[Project - Research towards Designs (2024)]]
 
 
 ---
