@@ -7,8 +7,8 @@ Read
 - [ ] https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1.full
 - [ ] https://golgi.sandbox.google.com/
 - [ ] https://www.projectceti.org/ [[Project CETI (Cetacean Translation Initiative)]]
-- [ ] https://www.profluent.bio/
-- [ ] 
+- [ ] https://www.profluent.bio/ [[Profluent]]
+	- [ ] https://github.com/Profluent-AI/OpenCRISPR
 
 People, [[Gizem Gumuskaya]]
 
