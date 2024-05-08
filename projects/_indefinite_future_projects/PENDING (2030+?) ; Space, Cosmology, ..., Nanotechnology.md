@@ -5,7 +5,7 @@ Just higher arity composed lines connected toegether, just local structures beco
 ---
 
 People
-- [[Sabine Stanley]], [[David Kipping]], [[Chiara M. F. Mingarelli]]
+- [[Sabine Stanley]], [[David Kipping]], [[Chiara M. F. Mingarelli]], [[Seven M. Rasmussen]]
 
 - [ ] https://github.com/JonathanGorard/Cosmos
 - [ ] https://github.com/CoolWorlds/orbital-stability
