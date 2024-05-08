@@ -46,6 +46,7 @@ It's very simple:
 
 #### Research of Games, Engines, ...
 Link to [[Project - Indexing existing Abstract Models (2024-2025?)]]
+
 Games
 - [ ] https://store.steampowered.com/app/303210/The_Beginners_Guide/
 - [ ] https://store.steampowered.com/app/221910/The_Stanley_Parable/
