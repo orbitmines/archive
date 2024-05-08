@@ -5,6 +5,8 @@ Read
 - [ ] https://www.amazon.com/Systems-Medicine-Physiological-Circuits-Computational/dp/1032411856
 - [ ] https://ccsb.scripps.edu/
 - [ ] https://www.biorxiv.org/content/10.1101/2023.12.08.570879v1.full
+- [ ] https://golgi.sandbox.google.com/
+- [ ] 
 
 People, [[Gizem Gumuskaya]]
 
