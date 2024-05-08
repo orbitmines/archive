@@ -223,6 +223,7 @@ Comments on [[2024-02-22]]
 - Ah, of course, infrastructure/engineering/design things/tools:
 	- https://twitter.com/thatopencompany
 - dimensional analysis
+- Computational geometry ; https://www.computational-geometry.org/
 
 ---
 
