@@ -7,7 +7,9 @@ Just higher arity composed lines connected toegether, just local structures beco
 People
 - [[Sabine Stanley]], [[David Kipping]]
 
-https://github.com/JonathanGorard/Cosmos
+- [ ] https://github.com/JonathanGorard/Cosmos
+- [ ] https://github.com/CoolWorlds/orbital-stability
+- [ ] 
 
 # UNPROCESSED
 *Tread carefully, confusion abound*
