@@ -10,7 +10,7 @@ Read
 - [ ] https://www.profluent.bio/ [[Profluent]]
 	- [ ] https://github.com/Profluent-AI/OpenCRISPR
 - [ ] https://ccsb.scripps.edu/ [[Center for Computational Structural Biology]]
-- [ ] 
+- [ ] https://github.com/isomorphiclabs
 
 People, [[Gizem Gumuskaya]]
 
