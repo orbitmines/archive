@@ -43,3 +43,10 @@ It's very simple:
 	- (Random) exploration (; worlds/items/..) ; Phrasing "random exploratory funtionality" ; "Periodic reminder/suggestion/exploration"
 		- "What are places I haven't looked? What are the places I could want to look? What are the places I decide not to look but would still want too look?"
 	- Better replay ; "replay/detective/.../fossile"
+
+#### Research of Games, Engines, ...
+Link to [[Project - Indexing existing Abstract Models (2024-2025?)]]
+Games
+- https://store.steampowered.com/app/303210/The_Beginners_Guide/
+- 
+
