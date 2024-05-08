@@ -234,6 +234,7 @@ Comments on [[2024-02-22]]
 	- https://twitter.com/thatopencompany
 - dimensional analysis
 - Computational geometry ; https://www.computational-geometry.org/
+- huets algorithm, higher-order unification, ....
 
 ---
 
