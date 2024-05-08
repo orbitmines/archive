@@ -191,6 +191,7 @@ Comments on [[2024-02-22]]
 - https://cseweb.ucsd.edu/~goguen/cool.html [[Joseph Amadee Goguen]]
 - https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/mobilebasic
 - https://prooftheory.blog/resources/
+- https://geometricdeeplearning.com/blogs/
 - 
 - Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
 	- HSA, HIP, CUDA, firmware, ..... 
