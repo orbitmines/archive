@@ -93,7 +93,7 @@ Comments on [[2024-02-22]]
 
 - [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), [nannou](https://github.com/nannou-org/nannou), [thi-ng/umbrella](https://github.com/thi-ng/umbrella), [toxiclibsjs](https://github.com/hapticdata/toxiclibsjs), [vertexshadeart](https://www.vertexshaderart.com/), [openrndr](https://github.com/openrndr), [vizhub](https://vizhub.com/), [utymap](https://github.com/reinterpretcat/utymap), [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/), [voxel-builder](https://nimadez.github.io/voxel-builder/), [differentiable-graphics](https://tiarkrompf.github.io/notes/?/differentiable-graphics/), [g9](https://github.com/bijection/g9), [Apparatus](https://github.com/cdglabs/apparatus), [sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch), [observablehq](https://observablehq.com/), [printeff(...)](https://twitter.com/printeff_app), [badspreadsheet](https://github.com/adam-james-v/badspreadsheet), [uwdata/mosaic](https://github.com/uwdata/mosaic), [natto.dev](https://natto.dev/), [Bunkatopics](https://github.com/charlesdedampierre/BunkaTopics), [HoTT Game](https://github.com/thehottgame/theHoTTGame), 
 - https://websim.ai/, https://fframes.studio/, 
-- 
+- Differential Games
 - [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator), [veloren](https://github.com/veloren/veloren?tab=readme-ov-file), 
 - [AtomicData.dev](https://github.com/atomicdata-dev), [Ink & Switch](https://www.inkandswitch.com/), [tikzit](https://github.com/tikzit)
 - Blender tools (Geometry Nodes?. etc..), [gephi](https://github.com/gephi/gephi), Pyramid (image processing), 
@@ -107,7 +107,7 @@ Comments on [[2024-02-22]]
 - [ ] [manim](https://github.com/3b1b/manim), [threejs.org](https://threejs.org/), 
 - [ ] Like the probabilistic programming languages and world generation techniques ; index existing those generation techniques like Perlin Noise, things like that.
 	- [ ] Link to how it's currently done within games ; Minecraft as a simple example.
-- [ ] [Mesa 3D](https://gitlab.freedesktop.org/mesa), OpenCL, 
+- [ ] [Mesa 3D](https://gitlab.freedesktop.org/mesa), OpenCL,
 - [ ] [Playcanvas](https://github.com/playcanvas/engine), [Stardust](https://github.com/StereoKit), Wireworld, [Wizard Engine](https://github.com/titzer/wizard-engine/), 
 - [ ] Tenstorrent SMI terminal
 - [ ] "Color-coded parameterspace of a double pendulum reminds of the Mandelbrot set." ; 
