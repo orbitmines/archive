@@ -119,6 +119,7 @@ Comments on [[2024-02-22]]
 - [ ] https://github.com/jangafx
 - [ ] https://en.m.wikipedia.org/wiki/Symplectic_geometry
 - [ ] https://github.com/pererossello/nbody_whatever
+- [ ] https://minos.tessera.li/genealogy
 - [ ] 
 
 ### Some other ways of possibly extending this list (non-completed tangents):
