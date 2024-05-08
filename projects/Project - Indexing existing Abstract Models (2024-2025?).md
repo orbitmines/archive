@@ -106,6 +106,7 @@ Comments on [[2024-02-22]]
 - [ ] [Mesa 3D](https://gitlab.freedesktop.org/mesa), OpenCL, 
 - [ ] [Playcanvas](https://github.com/playcanvas/engine), [Stardust](https://github.com/StereoKit), Wireworld, [Wizard Engine](https://github.com/titzer/wizard-engine/), 
 - [ ] Tenstorrent SMI terminal
+- [ ] "Color-coded parameterspace of a double pendulum reminds of the Mandelbrot set." ; 
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
