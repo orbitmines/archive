@@ -9,6 +9,8 @@ Read
 - [ ] https://www.projectceti.org/ [[Project CETI (Cetacean Translation Initiative)]]
 - [ ] https://www.profluent.bio/ [[Profluent]]
 	- [ ] https://github.com/Profluent-AI/OpenCRISPR
+- [ ] https://ccsb.scripps.edu/ [[Center for Computational Structural Biology]]
+- [ ] 
 
 People, [[Gizem Gumuskaya]]
 

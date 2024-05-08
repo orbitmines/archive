@@ -181,6 +181,7 @@ Comments on [[2024-02-22]]
 	- [ ] [[Jasmin Christian Blanchette]]
 	- [ ] [[Simon Cruanes]]
 	- [ ] Biology/Chemistry/... other fields
+		- [ ] [[PENDING (2028+?); Biology]]
 	- [ ] Active Inference, ...
 	- [ ] Computational Metaphysics
 		- [ ] https://mally.stanford.edu/cm/
