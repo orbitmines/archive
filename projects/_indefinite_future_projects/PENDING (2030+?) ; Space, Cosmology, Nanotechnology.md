@@ -9,6 +9,7 @@ People
 
 - [ ] https://github.com/JonathanGorard/Cosmos
 - [ ] https://github.com/CoolWorlds/orbital-stability
+- [ ] https://www.youtube.com/@laboratoireastroparticulec7396/videos
 - [ ] 
 
 # UNPROCESSED
