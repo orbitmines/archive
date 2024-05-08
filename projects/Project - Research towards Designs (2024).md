@@ -28,6 +28,10 @@ It's very simple:
 #### Open World Generation
 *A step to translating problems to game-like invariant quests, ..., puzzles.*
 
+World Generation
+- [ ] [DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft](https://arxiv.org/pdf/2404.15538)
+- [ ] 
+
 
 #### Interface Design
 - Any interface, hooks(/finds) unbound controls. Any follow-up changes hence possibly effected. Can be unbound, superposed, etc.. 
