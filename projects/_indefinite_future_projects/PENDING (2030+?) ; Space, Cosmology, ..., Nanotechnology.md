@@ -12,6 +12,10 @@ People
 - [ ] https://www.youtube.com/@laboratoireastroparticulec7396/videos
 - [ ] 
 
+Read
+- [ ] https://acityonmars.com/
+- [ ] 
+
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
