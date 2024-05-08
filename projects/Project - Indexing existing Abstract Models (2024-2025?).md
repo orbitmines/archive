@@ -83,6 +83,7 @@ Comments on [[2024-02-22]]
 - Ro, aUI
 - Ott/Lem, Prose/Sphinx, Amulet, B-pog, lambdapi, [BabylonJS](https://github.com/BabylonJS),
 - Calculus, Calculus of communicating systems, Calculus of Constructions, Coinduction (other statrgies, ... [[nLab]]), [Dawn](https://dawn.googlesource.com/dawn), SInE, LEO-II, Emacs, [Flyspeck project](https://github.com/flyspeck/flyspeck), Fredkin gate, Frobenius algebra, Genaille-Lucas rulers, General-purpose computing on graphics processing units (GPGPU), [Glasgow Haskell Compiler (GHC)](https://www.haskell.org/ghc/), [HypergraphDB](https://github.com/hypergraphdb/hypergraphdb), [IsarMathLib](https://github.com/SKolodynski/IsarMathLib), Intermediate Representation (IR), Interoperable and Confident Set-based Proof Assistants (ICSPA), [JSON-LD](https://github.com/json-ld), Many-sorted logic, [Matryoshka Project](https://github.com/matryoshka-project), Message passing, Modal Type Theory, [OCaml Scientific Computing (OWL)](https://github.com/owlbarn), [Proofcraft](https://proofcraft.systems/), ProofPower, [Qimaera](https://github.com/zamdzhiev/Qimaera), Quaternion, Rust, Simplical Type Theory, Simultaneous Multithreading (SMT), [smt2d](https://github.com/Deducteam/smt2d), Special Commutative Frobenius Algebra (SCFA), Statebox, Superposition calculus, Vampire, Superscalar Processor, [QED](https://github.com/teorth/QED), Topology, K-theory, Univalent Foundations, Reflective Lambda Calculus, Reversible Computation
+- YJIT, ..
 - Git, ..
 - [schema.org](https://github.com/schemaorg),
 
