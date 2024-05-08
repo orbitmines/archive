@@ -111,6 +111,7 @@ Comments on [[2024-02-22]]
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
 - [ ] https://github.com/futureofcoding/futureofcoding.org
+- [ ] https://github.com/ivanreese/visual-programming-codex
 - [ ] 
 
 ### Some other ways of possibly extending this list (non-completed tangents):
