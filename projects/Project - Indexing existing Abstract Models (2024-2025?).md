@@ -2,7 +2,7 @@
 *Once a proper interface for Rays is setup, one of the things I'd like to do with it, is to point it to a lot of existing abstract models of computation/mathematics/calculi/theorem-provers/compilers/proof assistants/automated program synthesizers/.../programming languages. And create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.*
 
 - Rays are probably a [Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis) (Or rather a Universal Language, or as [[Jonathan Gorard]] phrased a similar concept; a "general theory of graphs" (See [[Category Theory]] notes when at [[Society for Multidisciplinary and Fundamental Research (SEMF)]]))
-	- [Wikipedia universalis pageviews (this year)](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&range=this-year&pages=Characteristica_universalis|Lingua_generalis) ; 👀
+	- [Wikipedia universalis pageviews (this year)](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&range=this-year&pages=Characteristica_universalis|Lingua_generalis) ; 👀 Let's see the change
 
 - [[Society for Multidisciplinary and Fundamental Research (SEMF)]] discord equivalent: https://discord.com/channels/844566471501414463/1225907185079287971
 
