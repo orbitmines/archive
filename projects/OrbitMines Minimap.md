@@ -10,17 +10,8 @@ Tagging/sharing
 People's work I've read, unis, profs, ??, erc, game funds, followed, directors,
 
 ---
-
-- [ ] Live roadmap, history, completion steps.
-- [ ] Link to old posts again.
 ###### Infrastructure - Minimal setup
-- [ ] [[Writing - 2024. A Universal Language]] bridge/inter-compilation
-	- [ ] [[Chyp (Cospans of HYPergraphs)]]
-	- [ ] [[Project - Compute (2024?) - Rays to GPUs]]
-	- [ ] [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
-- [ ] After
-	- [ ] Register https://dutchgameindustry.directory/?page=edit&t=company&id=new
-
+- [ ] after; Register https://dutchgameindustry.directory/?page=edit&t=company&id=new
 ###### Ongoing Logistics
 [[ONGOING Project Logistics]]
 	[[ONGOING Project - Funding]]
