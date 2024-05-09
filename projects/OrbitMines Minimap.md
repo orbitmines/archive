@@ -6,7 +6,7 @@
 
 *Once a Minecraft server, now a project building towards a world in which learning, science, ..., engineering are all an exploratory game.*
 *Once a Minecraft server, now the creation of a world in which education, science, ..., engineering are all an exploratory game.*
-*Once a Minecraft server, *
+*Once a Minecraft server, now a *
 
 Many of these steps are still quite uncertain, but the direction is clear.  
 
