@@ -917,6 +917,10 @@ persisting structures otherwise forgotten whose rediscoverability is not entirel
 [[Project - Research towards Designs (2024)]]
 - Different OS & browsers - intercompile
 
+differentiable engine, pullback structure to some other, then ...
+ - but also just references, connections not shown, a mistake visual interfaces make
+
+
 ###### [There must be some sense of stability in the interface. Though many interesting things will probably be more visually unstable.](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project#:~:text=There%20must%20be%20some%20sense%20of%20stability%20in%20the%20interface.%20Though%20many%20interesting%20things%20will%20probably%20be%20more%20visually%20unstable.)
 - [ ] Non-jumpy - stability ; Important to not have jumpy interface things like obsidian, which are so sensitive to where the mouse or selection is?
 
