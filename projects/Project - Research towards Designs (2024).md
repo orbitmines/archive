@@ -86,6 +86,10 @@ World Generation
 	- Similarly, crafting, resource constraints and how to translate that to how it influences what one can see ; What can I change about my infrastructure vs what can't I? ; "Energy aware contexts, is how people refer to it"
 	- Measurement of category if diversity for the thing its useful for
 	- Assembly/Disassembly of items ; "Destruct this thing, use it for something else instead"
+	- Paths already explored: Cave's, items are influencing what the caves, "what's been searched" by you/or by others/ what can you find.
+		- Basically directing movement in a certain way ; Like the ants following a group
+	- Don't forget that it's important that the furthering of certain steps can be arbitrarily delayed ; if resources aren't spent on them. (this, and all these things should have direct translations to the programming interfaces?)
+	- How much storage?
 
 (Cyber) Security
 - Recognize aspects (what to break in/random exploration) ; invariances to things I know that sort of thing, but could be fleeting ; puzzle to solve. Not entering the world, but observing it or something I know about it.
