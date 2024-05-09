@@ -26,7 +26,7 @@ console.log([...document.querySelectorAll("#video-title")].filter(video => video
 ```js
   
 const string =  
-  ""  
+  "- :youtube: [A Conversation with Mark Zuckerberg, Patrick Collison and Tyler Cowen (2019)](https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-collison-and-tyler-cowen/) ; *Mark Zuckerberg, Patrick Collison, Tyler Cowen*"  
   
 const res = string.split('\n')  
   .filter(l => l.startsWith('-'))  
@@ -68,7 +68,7 @@ See @OrbitMines ' Community Discord: https://discord.orbitmines.com, for more in
 
 ---
 
-- :youtube: [A Conversation with Mark Zuckerberg, Patrick Collison and Tyler Cowen (2019)](https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-collison-and-tyler-cowen/) ; *Mark Zuckerberg, Patrick Collison and Tyler Cowen*
+- :youtube: [A Conversation with Mark Zuckerberg, Patrick Collison and Tyler Cowen (2019)](https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-collison-and-tyler-cowen/) ; *Mark Zuckerberg, Patrick Collison, Tyler Cowen*
 
 
 ---
