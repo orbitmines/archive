@@ -322,7 +322,7 @@ Platform interop
 	- [ ] Status etc..
 - [ ] Intercompilation images..
 - [ ] Cross boundaries of things/communication ; basically this as the general pattern for all of this
-[[PENDING (2027?+); Operation System]]
+[[PENDING (2027?+) ; Operation System]]
 - NixOS
 
 
