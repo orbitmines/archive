@@ -525,8 +525,6 @@ def test() -> Ray:
   b, a = ---Ray.boolean.orbit  
   a, b = --Ray.boolean  
   
-  # TODO: Normal way of talking about a boolean, or probably any concept, is that this is always with .orbit on it. And without .orbit it's probably a weird case. We assume modularity of booleans.  
-  
   # TODO: This is only if Ray.boolean is .orbit, otherwise reverse would be different.  
   
 # Compile the function to javascript  
@@ -687,6 +685,9 @@ Traversing `.self`
 	- Trade-off between branching spatial extent
 - Traversing `.self` without time-step would be a projective plane? ; So this could be relatively be constructed in certain settings.
 	- a recursive definition of a projective plane but then (partially?) accessible as a calculus?
+`.is_orbit`
+	- TODO: Normal way of talking about a boolean, or probably any concept, is that this is always with .orbit on it. And without .orbit it's probably a weird case. We assume modularity of booleans.  
+	- .orbit by default
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
