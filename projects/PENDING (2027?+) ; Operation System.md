@@ -4,7 +4,7 @@ This should be done in such a way that there will be no boundary between the gam
 
 Similarly, this is just a placeholder for now for discussions at some point.
 
-*:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Computer%20Networking%2C%20Security%2C%20Encryption%20%20%26%20Communication%20(2025%3F).md)*
+*:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/PENDING%20(2027%3F%2B)%3B%20Operation%20System.md)*
 *:orbitmines: :discord: [Discord equivalent](https://discord.com/channels/1055502602365845534/1238116377982664776)*
 
 ---
