@@ -2,7 +2,7 @@
 Mailing List:
   - https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=QUANTUM-COMPUTING
 ---
-The project will lend itself to start thinking about physics/hardware at some point. 
+The project will lend itself to start thinking about physics/hardware at some point. Which will be relevant for all other proj
 
 *:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/PENDING%20(2027%3F%2B)%3B%20Operation%20System.md)*
 *:orbitmines: :discord: [Discord equivalent](https://discord.com/channels/1055502602365845534/1238118718542712832)*
