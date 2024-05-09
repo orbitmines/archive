@@ -5,7 +5,7 @@
 *The Glass Bead Game but the solution to The Glass Bead Game is The Glass Bead Game.*
 
 *Once a Minecraft server, now a project building towards a world in which learning, science, ..., engineering are all an exploratory game.*
-*Once a Minecraft server, *
+*Once a Minecraft server, no*
 
 Many of these steps are still quite uncertain, but the direction is clear.  
 
