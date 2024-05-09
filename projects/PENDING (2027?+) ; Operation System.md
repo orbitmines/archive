@@ -14,8 +14,6 @@ Similarly, this is just a placeholder for now for discussions at some point.
 
 ---
 
-As a project hardware understanding needs to be there.
-
 Some projects
 *expand this list*
 - [ ] [[Oxide Computer Company]]
