@@ -686,6 +686,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary, `.any` if looking for vertex.
+- `.all / .any` Difference in list of things parallel composed, or first ewuivalencinf them, then compose. Basically: compose on INITIAL vs - use .all func after separating from .any -. First calling equivalence on INITIAL (equivalence all in chain - separate in pairs, then equivalence - could be parallel) . Or basically this means sollidiving the selection. Then take that as a vertrx and compose with another  
 Continuity
 - vertex->vertex from initial/terminal means no access in between.
 Traversing `.self` 
