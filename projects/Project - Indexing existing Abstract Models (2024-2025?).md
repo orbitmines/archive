@@ -142,7 +142,7 @@ Comments on [[2024-02-22]]
 	- https://github.com/prathyvsh/category-theory-resources
 	- https://github.com/statusfailed/catgrad
 	- https://github.com/abuseofnotation/category-theory-illustrated
-	- 
+	- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
 
 - Research into https://en.wikipedia.org/wiki/Data_and_information_visualization , also more non-trivival stuff than just plots
 	- https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
@@ -201,7 +201,7 @@ Comments on [[2024-02-22]]
 - https://prooftheory.blog/resources/
 - https://geometricdeeplearning.com/blogs/
 - https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
-- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
+
 - 
 - 
 - Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
