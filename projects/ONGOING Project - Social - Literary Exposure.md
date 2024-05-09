@@ -75,7 +75,7 @@ console.log(res);
 
 https://discord.orbitmines.com
 
-###### *Every 10 months.*
+###### *Every 10 months. - Instagram*
 ---
 
 @orbitmines explorations: Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all
