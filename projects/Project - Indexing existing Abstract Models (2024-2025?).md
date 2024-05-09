@@ -201,7 +201,7 @@ Comments on [[2024-02-22]]
 - https://prooftheory.blog/resources/
 - https://geometricdeeplearning.com/blogs/
 - https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
-- https://github.com/topological-modular-forms/Darwin-Typeface, https://github.com/topological-modular-forms/gerby-website
+- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
 - 
 - 
 - Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
