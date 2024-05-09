@@ -72,10 +72,6 @@ console.log(res);
 
 See @OrbitMines ' Community Discord: https://discord.orbitmines.com, for more information on my projects.
 
----
-
-- :youtube: [A Conversation with Mark Zuckerberg, Patrick Collison and Tyler Cowen (2019)](https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-collison-and-tyler-cowen/) ; *Mark Zuckerberg, Patrick Collison, Tyler Cowen*
-
 
 ---
 
@@ -149,6 +145,7 @@ See @OrbitMines ' Community Discord: https://discord.orbitmines.com, for more in
 - :youtube: [Compositional Game Theory – Towards Incentives Modelling at Scale (2024)](https://www.youtube.com/watch?v=2b4hxOP7g9I) ; *Jules Hedges*
 - :youtube: :mindscape: [Mindscape 268 | Matt Strassler on Relativity, Fields, and the Language of Reality (2024)](https://www.youtube.com/watch?v=kCpELmx425w) ; *Matt Strassler*
 - :youtube: :active_inference_institute: [ActInf MathStream 009.1 ~ Jonathan Gorard: A computational perspective on observation and cognition (2024)](https://www.youtube.com/watch?v=I3rhsT-8isk) ; *Jonathan Gorard*
+- :youtube: [A Conversation with Mark Zuckerberg, Patrick Collison and Tyler Cowen (2019)](https://about.fb.com/news/2019/11/a-conversation-with-mark-zuckerberg-patrick-collison-and-tyler-cowen/) ; *Mark Zuckerberg, Patrick Collison, Tyler Cowen*
 
 - :wikipedia: Wikipedia Articles: [École_polytechnique](https://en.wikipedia.org/wiki/École_polytechnique), [Golan_Levin](https://en.wikipedia.org/wiki/Golan_Levin), [Institut_de_recherche_en_informatique_fondamentale](https://en.wikipedia.org/wiki/Institut_de_recherche_en_informatique_fondamentale), [Interaction_Design_Foundation](https://en.wikipedia.org/wiki/Interaction_Design_Foundation), [Jonathan_Oppenheim](https://en.wikipedia.org/wiki/Jonathan_Oppenheim), [Mark_Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg), [Max_Roser](https://en.wikipedia.org/wiki/Max_Roser), [Mehrnoosh_Sadrzadeh](https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh), [Olivia_Caramello](https://en.wikipedia.org/wiki/Olivia_Caramello), [Our_World_in_Data](https://en.wikipedia.org/wiki/Our_World_in_Data), [Probabilistic_programming](https://en.wikipedia.org/wiki/Probabilistic_programming), [Procedural_generation](https://en.wikipedia.org/wiki/Procedural_generation), [Slow_science](https://en.wikipedia.org/wiki/Slow_science), [Spectral_graph_theory](https://en.wikipedia.org/wiki/Spectral_graph_theory), [Tallinn_University_of_Technology](https://en.wikipedia.org/wiki/Tallinn_University_of_Technology), [University_of_Birmingham](https://en.wikipedia.org/wiki/University_of_Birmingham)
 
