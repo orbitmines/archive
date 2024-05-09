@@ -48,6 +48,9 @@ World Generation
 		- "What are places I haven't looked? What are the places I could want to look? What are the places I decide not to look but would still want too look?"
 	- Better replay ; "replay/detective/.../fossile"
 
+- Exploratory functionality
+	- 
+
 #### Research of Games, Engines, ...
 Link to [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
