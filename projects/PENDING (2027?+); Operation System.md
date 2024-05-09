@@ -1,4 +1,6 @@
-Once the project is mature enough and it has some better understanding of firmware/hardware complexities, it will be able to turn its eye to operating systems and become a replacement for existing
+Once the project is mature enough and it has some better understanding of firmware/hardware complexities, it will be able to turn its eye to operating systems and become a replacement for existing solutions. In such a way that there will be no boundary between the game and the operating system.
+
+Similarly, 
 
 ---
 
