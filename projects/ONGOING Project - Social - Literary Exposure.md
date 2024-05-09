@@ -68,9 +68,11 @@ console.log(res);
 
 ---
 
+###### Every 
 2024, April - A monthly excerpt of my Literary Exposure.
 
 See @OrbitMines ' Community Discord: https://discord.orbitmines.com, for more information on my projects.
+
 ###### *Every 10 months.*
 
 @orbitmines explorations: Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all
