@@ -8,6 +8,7 @@ TODO:
 - [ ] some realistic things to get working, just temp working things to be replaced with something better later
 - [ ] Automatically sync "GitHub issues", the archive repo & the discord posts.
 - [ ] Fix the pdf render
+- [ ] slight area around rendering collr for girhub ; light variant in github doesnt show the ray renderings nicely.
 
 Steam profile
 
