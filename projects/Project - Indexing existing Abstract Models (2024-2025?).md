@@ -203,7 +203,7 @@ Comments on [[2024-02-22]]
 - https://geometricdeeplearning.com/blogs/
 - https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
-- 
+- https://github.com/Scinawa/quantumalgorithms.org
 - 
 - Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
 	- HSA, HIP, CUDA, firmware, ..... 
