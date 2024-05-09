@@ -31,7 +31,7 @@ People's work I've read, unis, profs, ??, erc, game funds, followed, directors,
 	- [ ] Register https://dutchgameindustry.directory/?page=edit&t=company&id=new
 
 ###### Ongoing Logistics
-[[ONGOING Project Logistics - OrbitMines Bot]]
+[[ONGOING Project Logistics]]
 	[[ONGOING Project - Funding]]
 		This project needs funding, or reach me at:
 		"SIDN rejected but good feedback when asked for clarification, will resubmit"

@@ -24,7 +24,7 @@ Comments on [[2024-02-22]]
 
 ---
 #### Some interesting/pending questions regarding this project:
-*[[ONGOING Project Logistics - OrbitMines Bot]]*
+*[[ONGOING Project Logistics]]*
 
 - [ ] **People:** Are there people who have compiled something like this yet?
 	- [ ] Setup collaboration for others to add to this
@@ -312,7 +312,7 @@ Proof Assistant exploration, [[Proof_assistant.pdf]], [[Formal_verification.pdf]
 ---
 
 Platform interop
-[[ONGOING Project Logistics - OrbitMines Bot]]
+[[ONGOING Project Logistics]]
 - [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack ..., Matrix, ... ?  
 	- [ ] (?hosted matrix?)  
 	- [ ] Similarly, link github/gitlab/ prs/... (project descriptions etc..)  
