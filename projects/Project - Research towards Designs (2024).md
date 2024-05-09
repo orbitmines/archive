@@ -51,6 +51,8 @@ World Generation
 - Exploratory functionality ; people explore differently.
 	- Some notion of not expecting people to explore by themselves - simplicity (vs others who do), and guiding a way to stimulate that exploration - some form of ???.
 
+[[Networkin]]
+
 #### Research of Games, Engines, ...
 Link to [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
