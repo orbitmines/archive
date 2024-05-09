@@ -3,8 +3,8 @@ Placing this here as a placeholder for anyone else to contribute. New networking
 Some random notes on this can be found in the archive.
 - [ ] Similar to all other projects, this will require some research into what has been done by others and people with similar goals. 
 
-*:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Research%20towards%20Designs%20(2024).md)*
-*:orbitmines: :discord: [Discord equivalent](https://discord.com/channels/1055502602365845534/1226863400957513768)*
+*:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Computer%20Networking%2C%20Security%2C%20Encryption%20%20%26%20Communication%20(2025%3F).md)*
+*:orbitmines: :discord: [Discord equivalent](https://discord.com/channels/1055502602365845534/1238116377982664776)*
 
 ---
 
