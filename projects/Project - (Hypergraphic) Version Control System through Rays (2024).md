@@ -3,6 +3,8 @@
 
 ---
 
+- Always histories kept, symmetries for certain ways of storing those histories ; necessarily intertwined with compression. 
+
 ---
 What to do with it
 
