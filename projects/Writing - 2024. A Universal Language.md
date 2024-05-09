@@ -914,7 +914,10 @@ persisting structures otherwise forgotten whose rediscoverability is not entirel
 [[Project - Research towards Designs (2024)]]
 - Different OS & browsers - intercompile
 
+###### [There must be some sense of stability in the interface. Though many interesting things will probably be more visually unstable.](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project#:~:text=There%20must%20be%20some%20sense%20of%20stability%20in%20the%20interface.%20Though%20many%20interesting%20things%20will%20probably%20be%20more%20visually%20unstable.)
 - [ ] Non-jumpy - stability ; Important to not have jumpy interface things like obsidian, which are so sensitive to where the mouse or selection is?
+
+###### [You need to be able to deal in *questions* of different levels of abstraction, description, ..., scales, when each layer introduces arbitrary complexity. This is not simple scale invariance.]()
 
 *Use the graphical rendering as the language/data embedded.Just put hte ray interface on top of that.*
 - Both sides, drop the initial/terminal, grow to either side initial if initial, terminal if terminal. Then stitch the two together.    
