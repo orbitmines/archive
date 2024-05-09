@@ -767,6 +767,8 @@ Leaves the following questions:
 ##### Fuzzing / discovery
 Partially, locally, ... (same as on orbits)
 
+(other ideas, examples: Post-Silicon Validation, ... ?)
+
 - [ ] Brute-forcing if no better alternative has yet been found? ; try to explore combinatorial exploding spaces.
 - [ ] Solving ambiguity with additional context ; tolerance of ambiguity
 	- [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure. Ambiguity arises from this ignorance of structure.
@@ -911,6 +913,8 @@ persisting structures otherwise forgotten whose rediscoverability is not entirel
 #### Rendering engine
 [[Project - Research towards Designs (2024)]]
 - Different OS & browsers - intercompile
+
+- [ ] Non-jumpy - stability ; Important to not have jumpy interface things like obsidian, which are so sensitive to where the mouse or selection is?
 
 *Use the graphical rendering as the language/data embedded.Just put hte ray interface on top of that.*
 - Both sides, drop the initial/terminal, grow to either side initial if initial, terminal if terminal. Then stitch the two together.    
