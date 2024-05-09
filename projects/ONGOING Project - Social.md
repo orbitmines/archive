@@ -28,6 +28,7 @@ Notice me @NGI4eu @NLnetFDN, exploratory research is the future~
 ---
 
 [[2024-02-20]]-[[2024-02-22]] [[Project - OrbitMines as a Game (2025-2026?)]] 
+
 ## OrbitMines as ** Project
 https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project
 
