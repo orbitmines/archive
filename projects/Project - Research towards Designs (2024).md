@@ -51,6 +51,8 @@ World Generation
 - Exploratory functionality ; people explore differently.
 	- Some notion of not expecting people to explore by themselves - simplicity (vs others who do), and guiding a way to stimulate that exploration - some form of ???.
 
+- [ ] If I can show it in some asymmetry in multiple ways, prefer to show in multiple ways to aid disambiguation ; or 
+
 [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
 Server-like/find server-like functionality
 - [ ] ideas loke actually being in some servers/having some server list/-like Minecraft, publically indexable etc. for people to collaborate their work in, is an essential idea. 
