@@ -901,6 +901,14 @@ persisting structures otherwise forgotten whose rediscoverability is not entirel
 [[Project - Research towards Designs (2024)]]
 - Different OS & browsers - intercompile
 
+*Use the graphical rendering as the language/data embedded.Just put hte ray interface on top of that.*
+- Both sides, drop the initial/terminal, grow to either side initial if initial, terminal if terminal. Then stitch the two together.    
+- Resolve parallel threads doing this by just the same merge operation?
+- simple loop where initial terminal setached from base, remains simple loop on where it goes, shrink to point, repeat, could be possible
+- moving along just moved a single ray, both structures intersect move throygh rach other from some other perspective ; Then whether it's ignored/branched, or doesn't interfere with each other.
+- Drop the self-loop from on-orbit check ; peek by going there, then one more step, and dropping .self and moving back to terminal
+
+
 ---
 
 # A Universal Language
