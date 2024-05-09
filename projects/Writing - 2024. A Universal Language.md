@@ -1,6 +1,12 @@
 *Let's try for [[2024-05-31]]*
 
 
+###### Open compute substrate
+
+###### Open inputs, ..., interfaces
+
+######
+
 
 
 ```ts
