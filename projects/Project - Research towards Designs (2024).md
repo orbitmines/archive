@@ -60,6 +60,8 @@ World Generation
 
 - [ ] If I can show it in some asymmetry in multiple ways, prefer to show in multiple ways to aid disambiguation ; or not always, but a better variant of this.
 
+Generalized variant, I see this thing in the world, in this particular plaze, want to decode this particular thing (some communicatoin / item) I see. Can then unlock the ability to solve or see different items etc..
+
 [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
 Server-like/find server-like functionality
 - [ ] ideas loke actually being in some servers/having some server list/-like Minecraft, publically indexable etc. for people to collaborate their work in, is an essential idea. 
