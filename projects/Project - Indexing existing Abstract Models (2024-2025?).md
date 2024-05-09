@@ -187,6 +187,7 @@ Comments on [[2024-02-22]]
 	- [ ] [[Simon Cruanes]]
 	- [ ] Biology/Chemistry/... other fields
 		- [ ] [[PENDING (2028+?); Biology]]
+		- [ ] https://github.com/OpenFOAM/OpenFOAM-dev ... other simulation
 	- [ ] Active Inference, ...
 	- [ ] Computational Metaphysics
 		- [ ] https://mally.stanford.edu/cm/
