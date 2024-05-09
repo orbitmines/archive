@@ -63,9 +63,6 @@ const authors = [...l.matchAll(/\*(.+)\*$/g)]
 console.log(res);
 ```
 
-
-- [ ] & structure symmetric
-
 ---
 
 ###### *Every month*
