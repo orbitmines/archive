@@ -36,6 +36,8 @@ World Generation
 *Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
 
 ###### Items & Quests
+*Generalized variant, I see this thing in the world, in this particular place, want to decode this particular thing (some communication / item) I see. Can then unlock the ability to solve or see different items etc.. I have this other item/mod/type of vision to look through the world differently. "Portal through, see the world/inventory/server in a different way"*
+
 *This is what functions, data, ..., information is.*
 *This is what science, engineering, learning, ..., gaming will become.*
 
@@ -96,8 +98,6 @@ World Generation
 - How do people not know you dropped it there (basically security and things.)
 
 - [ ] If I can show it in some asymmetry in multiple ways, prefer to show in multiple ways to aid disambiguation ; or not always, but a better variant of this.
-
-Generalized variant, I see this thing in the world, in this particular plaze, want to decode this particular thing (some communicatoin / item) I see. Can then unlock the ability to solve or see different items etc..
 
 [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
 Server-like/find server-like functionality
