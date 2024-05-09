@@ -51,6 +51,13 @@ World Generation
 - Exploratory functionality ; people explore differently.
 	- Some notion of not expecting people to explore by themselves - simplicity (vs others who do), and guiding a way to stimulate that exploration - some form of ???.
 
+- Experience/Mana/Energy - Gravity/Entropy
+	- Similarly, crafting, resource constraints and how to translate that to how it influences what one can see ; What can I change about my infrastructure vs what can't I? ; "Energy aware contexts, is how people refer to it"
+
+(Cyber) Security
+- Recognize aspects (what to break in/random exploration) ; invariances to things I know that sort of thing, but could be fleeting ; puzzle to solve. Not entering the world, but observing it or something I know about it.
+- How do people not know you dropped it there (basically security and things.)
+
 - [ ] If I can show it in some asymmetry in multiple ways, prefer to show in multiple ways to aid disambiguation ; or not always, but a better variant of this.
 
 [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
