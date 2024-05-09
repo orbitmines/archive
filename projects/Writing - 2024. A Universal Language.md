@@ -713,7 +713,7 @@ Traversing `.self`
 ##### "Binary"
 just list a few possible ways of constructing it.
 - binary reverse op is also conceivable as initial/self/terminal over two possible values
-- orbiting ray around it / bouncing off the edges
+- orbiting ray around it / bouncing off the edges ; generalize
 - ...
 
 - [ ] ; ideas from the notebooks
@@ -750,6 +750,7 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 ##### Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 *better name*
 
+- While executing in certain context?
 - [ ] Non-commital ignorance, lazy functions ; Carrying of an initial/terminal from a reference without traversing the direction
 	- [ ] Similarly: unresolved pointers, cut off/short, pending, waiting for ..
 	- [ ] 'Unintended'/'Unrealized' effects realized? / Resources one didn't know one is consuming etc... (unknowns)  
