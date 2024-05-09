@@ -6,7 +6,7 @@ The project will lend itself to start thinking about physics/hardware at some po
 
 This is necessarily a much harder problem than all other software-related problems. Though the software will serve as a substrate for making these physics problems much more tractable. 
 
-*:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/PENDING%20(2027%3F%2B)%3B%20Operation%20System.md)*
+*:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/PENDING%20(2027%3F%2B)%20%3B%20Physics%20(%26%20Hardware).md)*
 *:orbitmines: :discord: [Discord equivalent](https://discord.com/channels/1055502602365845534/1238118718542712832)*
 
 
