@@ -920,6 +920,11 @@ persisting structures otherwise forgotten whose rediscoverability is not entirel
 - Drop the self-loop from on-orbit check ; peek by going there, then one more step, and dropping .self and moving back to terminal
 
 
+##### Web, .. downloadable variant
+- default to OrbitMines func, otherwise blank (seperate directory in ray or something)
+
+- Simple web setup for localstorage
+
 ---
 
 # A Universal Language
