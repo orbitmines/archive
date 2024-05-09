@@ -79,7 +79,7 @@ World Generation
 	- (Random) exploration (; worlds/items/..) ; Phrasing "random exploratory funtionality" ; "Periodic reminder/suggestion/exploration"
 		- "What are places I haven't looked? What are the places I could want to look? What are the places I decide not to look but would still want too look?"
 	- Better replay ; "replay/detective/.../fossile"
-	- Like "npc/bot/exploration functionality"
+	- Like "npc/bot/exploration functionality I'm not doing myself/others"
 		- [ ] Notify me when you've found something you deem relevant for this unknown (while we dont know how to solve some unknown)
 		- [ ] This would allow for the hooking of the process by a programmer: Hey while you're still working on this thing, perhaps [some answer to some function] should be considered, what would happen then? (Basically simulating an answer by a programmer ; some arbitrary process which hooks into a function)  
 		- [ ] Already start doing something while decision is pending - do the things which one can reverse?  
@@ -88,7 +88,7 @@ World Generation
 	- Some notion of not expecting people to explore by themselves - simplicity (vs others who do), and guiding a way to stimulate that exploration - some form of ???.
 
 - Experience/Mana/Energy - Gravity/Entropy
-	- [[Project - Indexing existing Abstract Models (2024-2025?)]]#differentiability
+	- [[Project - Indexing existing Abstract Models (2024-2025?)]]#differentiability / [[Project - (Hypergraphic) Version Control System through Rays (2024)]]#compresison
 	- Similarly, crafting, resource constraints and how to translate that to how it influences what one can see ; What can I change about my infrastructure vs what can't I? ; "Energy aware contexts, is how people refer to it"
 	- Measurement of category if diversity for the thing its useful for
 	- Assembly/Disassembly of items ; "Destruct this thing, use it for something else instead"
@@ -96,6 +96,10 @@ World Generation
 		- Basically directing movement in a certain way ; Like the ants following a group
 	- Don't forget that it's important that the furthering of certain steps can be arbitrarily delayed ; if resources aren't spent on them. (this, and all these things should have direct translations to the programming interfaces?)
 	- How much storage?
+	- We use up resources to realization of some invariance (symmetry), which lowers the search space, but increases possible interactions. (Basically higher-arity again) ; Non-trivial superpositions through that invariance.
+	- From certain perspectives, how many operations need to be performed ; relative to some other thing
+	- minimization, compression, of branches basically
+	- novelty; basically change parametsrs til you find somer which are so unsual to the one's currently
 
 (Cyber) Security
 - Recognize aspects (what to break in/random exploration) ; invariances to things I know that sort of thing, but could be fleeting ; puzzle to solve. Not entering the world, but observing it or something I know about it.
