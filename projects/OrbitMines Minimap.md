@@ -13,25 +13,8 @@ People's work I've read, unis, profs, ??, erc, game funds, followed, directors,
 ###### Infrastructure - Minimal setup
 - [ ] after; Register https://dutchgameindustry.directory/?page=edit&t=company&id=new
 
-###### Ongoing Logistics
-[[ONGOING Project Logistics]]
-	[[ONGOING Project - Funding]]
-		This project needs funding, or reach me at:
-		"SIDN rejected but good feedback when asked for clarification, will resubmit"
-		"NLnet, rejected, no response when asked for feedback"
-		"NLnet, rejected, sent [] to ask for feedback"
-	[[ONGOING Project - Social]]
-		[[ONGOING Project - Social - Literary Exposure]]
-		[[ONGOING Project - Social - Livestreaming]]
-
 ###### Open explorations/quests
 *Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
-- [ ] [[Project - Research towards Designs (2024)]]
-- [ ] [[Project - Indexing existing Abstract Models (2024-2025?)]]
-- [ ] [[INDEFINITE Project - Education (2027+?)]]
-
-- [ ] [[Project - Archive - "OrbitMines' Journey" (2025-2026?)]]
-- [ ] [[Project - Compression (2025?)]]
 
 ###### Items & Quests
 *This is what functions, data, ..., information is.*
