@@ -934,6 +934,7 @@ link to [[Project - Indexing existing Abstract Models (2024-2025?)]] # different
 
 
 ##### Web, .. downloadable variant
+Stored any way, just deal with it.
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"
 
 - default to OrbitMines func, otherwise blank (seperate directory in ray or something)
