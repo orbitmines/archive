@@ -1,15 +1,6 @@
 - https://github.com/orbitmines/orbitmines.com/pull/31
 *OrbitMines' Strategy, Scope, ..., Roadmap, Technology*
 
-
-*The Glass Bead Game but the solution to The Glass Bead Game is The Glass Bead Game.*
-
-*Once a Minecraft server, now a project building towards a world in which learning, science, ..., engineering are all an exploratory game.*
-*Once a Minecraft server, now the creation of a world in which education, science, ..., engineering are all an exploratory game.*
-*Once a Minecraft server, now the creation of a world where engineering, science and education are all an exploratory videogame.*
-
-Many of these steps are still quite uncertain, but the direction is clear.  
-
 ---
 
 Bit of frustration while at Birmingham
