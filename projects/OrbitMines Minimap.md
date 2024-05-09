@@ -12,6 +12,7 @@ People's work I've read, unis, profs, ??, erc, game funds, followed, directors,
 ---
 ###### Infrastructure - Minimal setup
 - [ ] after; Register https://dutchgameindustry.directory/?page=edit&t=company&id=new
+
 ###### Ongoing Logistics
 [[ONGOING Project Logistics]]
 	[[ONGOING Project - Funding]]
