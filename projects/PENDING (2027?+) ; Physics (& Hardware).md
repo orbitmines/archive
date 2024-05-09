@@ -2,6 +2,13 @@
 Mailing List:
   - https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=QUANTUM-COMPUTING
 ---
+The project will lend itself to start thinking about physics/hardware at some point. 
+
+*:orbitmines: :github: [Archive equivalent](https://github.com/orbitmines/archive/blob/main/projects/PENDING%20(2027%3F%2B)%3B%20Operation%20System.md)*
+*:orbitmines: :discord: [Discord equivalent](https://discord.com/channels/1055502602365845534/1238118718542712832)*
+
+
+---
 
 - [ ] Sean Caroll answer 'priority questions' from his Patreon supporters in his AMAs, perhaps once some quantum idea gets stuck reach out to him.
 - [ ] Process these ideas:
