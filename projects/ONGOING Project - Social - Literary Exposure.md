@@ -1,5 +1,7 @@
-- Single line/comment on literary exposure.	
 
+- [ ] Single line/comment on literary exposure.	
+
+---
 
 ```shell
 cd ~/Desktop/orbitmines/private-journal/
