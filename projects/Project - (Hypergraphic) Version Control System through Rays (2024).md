@@ -1,5 +1,6 @@
 *Researching (Hypergraphic) Version Control through arbitrary traversal of Rays*
 
+*Version Control / dependency management / communication*
 
 ---
 
@@ -20,6 +21,7 @@ What to do with it
 
 - [ ] How to separate one's personal work, how to combine them, merge them, view them from the outside. ; [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 
+- [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
 
 The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
