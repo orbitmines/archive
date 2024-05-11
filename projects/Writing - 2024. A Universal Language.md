@@ -633,10 +633,7 @@ Ideas like:
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
 - Reference to existing ideas. This is the generalization of many ideas, it would be ...
-	- first few things after the introduction, but this for now
-	- Which others to name/ref.
 	- https://www.youtube.com/watch?v=p2vadd_6550&list=PLtbvsohNkWeUItHqZ9LAn4Qnz8hT6JMhY
-		- Covariant computation & [[Jonathan Gorard]]'s mentioning of graphs
 	- The [[Bob Coecke]] & [[Stephen Wolfram]] conversation, Bob Coecke's work
 	- [[Chyp (Cospans of HYPergraphs)]] & [[Aleks Kissinger]]
 		- ```// Accompanied by a simple implementation of <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Aleks Kissinger\'s Chyp (Cospans of HYPergraphs)', link: 'https://github.com/akissinger/chyp', authors: [{name: 'Aleks Kissinger'}]}} />
