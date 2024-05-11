@@ -3,7 +3,7 @@ Related:
   - "[[Discord]]"
 ---
 TODO:
-- [ ] Clean up `orbi`
+- [ ] Clean up `orbitmines.com` repo, remove dependencies, simplify ....
 - [ ] Better organizations
 	- [ ] orbitmines.com needs a refactor/reorganization, isolate functionlity, simply ..., at some point probably move away react as the default, just a similar setup for now.
 - [ ] some realistic things to get working, just temp working things to be replaced with something better later
