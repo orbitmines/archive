@@ -605,9 +605,6 @@ Unprocessed
 - [ ] Some of the notebooks from 2023
 
 Introduction
-Admittedly, this starts with a simple concession: that this is a generalization of many ideas whose details I don't fully understand. Though crucially, this is not important for my purposes here.
-
-A list which undoubtedly falls short, would contain: . A more complete set of ideas and partial history of me becoming aware of them can be found in [my archive](https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Indexing%20existing%20Abstract%20Models%20(2024-2025%3F).md).
 
 I suspect that a large numbers of problems arise from a rather simple conceptual mistake. And perhaps calling it a mistake - is itself a mistake. For we are always forced to first find practical tools, before we can find better ones. But therein lies to me the possibility of that mistake: ["Once something seemingly convenient is found, it is seriously hard to explore and steer away from that."](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project#:~:text=Once%20something%20seemingly%20convenient%20is%20found%2C%20it%20is%20seriously%20hard%20to%20explore%20and%20steer%20away%20from%20that.). 
 
