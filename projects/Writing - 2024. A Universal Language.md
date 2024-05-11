@@ -596,9 +596,6 @@ Ray.compile(lambda ray: ray)
 
 start with one, find match, then match entire structure and revert if not. ; one way
 
-In-place dynamic window:
-- writing on one side, interactive on the other, or centered, so a moving box - gotta make sure interop is good.
-
 Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
