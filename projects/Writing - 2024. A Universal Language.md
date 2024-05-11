@@ -613,7 +613,6 @@ Introduction
 
 
 
-
 ###### ["You will have to deal with being able to move in certain data structures for which there might not (yet) be a nice translation to something you can understand."](http://localhost:3000/archive/2024-02-orbitmines-as-a-game-project/#:~:text=You%20will%20have%20to%20deal%20with%20being%20able%20to%20move%20in%20certain%20data%20structures%20for%20which%20there%20might%20not%20(yet)%20be%20a%20nice%20translation%20to%20something%20you%20can%20understand.)
 - [ ] Modelling unknown systems - possibly to in the future match em - or directly something possibly not understood
 	- [ ] Will have to kick in by having some way of realizing that externality - much more intuitive to phrase it this way, and see how it can be broken  
