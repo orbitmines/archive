@@ -632,14 +632,6 @@ Ideas like:
 	- 
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
-- Reference to existing ideas. This is the generalization of many ideas, it would be ...
-	- https://www.youtube.com/watch?v=p2vadd_6550&list=PLtbvsohNkWeUItHqZ9LAn4Qnz8hT6JMhY
-	- [[Chyp (Cospans of HYPergraphs)]] & [[Aleks Kissinger]]
-		- ```// Accompanied by a simple implementation of 
-	- [[Alexander Grothendieck]]
-	- Lingua Universalis
-	- Hook into [[Project - Indexing existing Abstract Models (2024-2025?)]] future inquiries
-
 - A lot of this started with the idea: "You cannot have interaction without something like gravity." ; I think? Probably a question similar to this.
 
 - Local changes..
