@@ -634,12 +634,10 @@ Ideas like:
 
 - Reference to existing ideas. This is the generalization of many ideas, it would be ...
 	- https://www.youtube.com/watch?v=p2vadd_6550&list=PLtbvsohNkWeUItHqZ9LAn4Qnz8hT6JMhY
-	- The [[Bob Coecke]] & [[Stephen Wolfram]] conversation, Bob Coecke's work
 	- [[Chyp (Cospans of HYPergraphs)]] & [[Aleks Kissinger]]
-		- ```// Accompanied by a simple implementation of <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Aleks Kissinger\'s Chyp (Cospans of HYPergraphs)', link: 'https://github.com/akissinger/chyp', authors: [{name: 'Aleks Kissinger'}]}} />
+		- ```// Accompanied by a simple implementation of 
 	- [[Alexander Grothendieck]]
 	- Lingua Universalis
-	- Infrageometry
 	- Hook into [[Project - Indexing existing Abstract Models (2024-2025?)]] future inquiries
 
 - A lot of this started with the idea: "You cannot have interaction without something like gravity." ; I think? Probably a question similar to this.
