@@ -609,10 +609,6 @@ Unprocessed
 Introduction
 
 
-
-
-
-
 ###### ["You will have to deal with being able to move in certain data structures for which there might not (yet) be a nice translation to something you can understand."](http://localhost:3000/archive/2024-02-orbitmines-as-a-game-project/#:~:text=You%20will%20have%20to%20deal%20with%20being%20able%20to%20move%20in%20certain%20data%20structures%20for%20which%20there%20might%20not%20(yet)%20be%20a%20nice%20translation%20to%20something%20you%20can%20understand.)
 - [ ] Modelling unknown systems - possibly to in the future match em - or directly something possibly not understood
 	- [ ] Will have to kick in by having some way of realizing that externality - much more intuitive to phrase it this way, and see how it can be broken  
@@ -944,26 +940,3 @@ Stored any way, just deal with it.
 
 ---
 
-# A Universal Language
-This thing is, in essence, a language to understand inconsistencies. A conceptual framework to make sense of ambiguity: A story of how destructively confusing languages can be. Though to me, most importantly, it is here as infrastructure. Infrastructure for the design and implementation of a <Reference is="reference" index={referenceCounter()} reference={{link: _2024_02_ORBITMINES_AS_A_GAME_PROJECT.reference.link, title: "different category of (programming) interfaces"}} simple inline />.  
-  
-<BR/>  
-  
-<span style={{textAlign: 'left', minWidth: '100%'}}>A simple way of phrasing this, is that the concept of a <span  
-    className="bp5-text-muted"><span  
-    className="bp5-text-disabled">(hyper-/)</span>'Vertex', <span  
-    className="bp5-text-disabled">(hyper-/)</span>'Edge', <span  
-    className="bp5-text-disabled">(hyper-/)</span>'Graph', <span  
-    className="bp5-text-disabled">(hyper-/)</span>'Rule', <span  
-    className="bp5-text-disabled">(hyper-/)</span>'Tactic', <span  
-    className="bp5-text-disabled">(hyper-/)</span>..., <span  
-    className="bp5-text-disabled">(hyper-/)</span>'Rewrite'</span> are merged into one thing: a Ray. It handles <span  
-    className="bp5-text-muted">surrounding context, ignorances, equivalences, ..., differentiation</span> (And if it cannot, then it offers a way of implementing it for all of the above).</span>  
-  
-<BR/>  
-  
-<span style={{textAlign: 'left', minWidth: '100%'}}>Though quite importantly, even if those previous words are complete nonsense to you: Either this, or projects following from this, will aid in your understanding. This is the start of a story which will provide infrastructure for communication between all <span className="bp5-text-muted">sciences, (programming) languages, compilers, interfaces, ..., videogames</span>.</span>  
-  
-<BR/>  
-  
-Let me show you how.
