@@ -287,3 +287,9 @@ History: The initial side of the perceived non-trivial temporal directionality. 
 
 Not so sure about these points:
 - [ ] Rewrite rules, accidently hitting some "speed up?":: Hence time/inconsistency/motion/acceleration could be conceptualized as some unmatched pattern/relation (where unmatched is no link to some frame) looking for something to latch onto, and usually it's the next one in some directionality, other tumes the skipped a few in that directionality or something completely different - though abstractly if course this would be generalized as its own directionality so this differentiation only makes sense in relation to something else. - What happens if you apply this quantum mechanically/or multicomputationally?
+
+---
+
+[[2024-05-08]]
+Supermarasive blackholes that would've merged, already merged, that's why you don't see them. Not this "smaller ones that need to merge to get larger ones" - like on the podcast with Chiara
+

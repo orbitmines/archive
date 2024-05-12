@@ -1,4 +1,4 @@
-
+value dim from type dym .self
 
 
 - [Higher Order Company - Origins of the HVM (2023)](https://www.youtube.com/watch?v=UQNNs77SpXA)
