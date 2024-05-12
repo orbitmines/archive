@@ -76,3 +76,8 @@ A curious question that keeps me wondering: Why the visual experience oriented o
 ---
 
 - [ ] point becomes its own direction: I suspect the source of a great many human confusions would be the interpretation of the direction at the point, while simultaneously not being aware of that that's what abstractly been done.
+
+---
+
+[[2024-05-08]]
+rgb encoding different than light ln screen/how in brain encoding
