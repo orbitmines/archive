@@ -695,6 +695,8 @@ Traversing `.self`
 
 - noticing of runtime inconsistencies from some perspective ; adjustable
 - detach all connections into single one, what's this interpretation , move some connections to ignorant ref only,
+- Multiplier edge, ring addition
+- Only branch in the direction your going, not on top/below just create rhat pocket ref like that
 - 
 ##### "Binary"
 just list a few possible ways of constructing it.
