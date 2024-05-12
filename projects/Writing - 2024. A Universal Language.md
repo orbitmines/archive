@@ -726,6 +726,9 @@ Encoding/symbols..
 
 direction at the point**: What does it mean for a point yo become its own direction? ; function becoming data becoming toplogies becoming ..
 
+validity; checks as superposed maybe
+
+
 Tripple superposition, two continuated (two perm), binary superposition  
 
 - Could use closensss as the initial/twrminal question and addition dimensionalities as the expansion of the additional rays. Could also create some automatic way of folding the ray structures onto a high dimensional tensor which preserves its steucture relative to the functioms applied to them theough gpu. Would have to check whether this is better than writing code in the way things like cuda/hip/ write the gpu kernels for gpgpu
