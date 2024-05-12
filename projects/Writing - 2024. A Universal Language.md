@@ -655,6 +655,7 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - It is ordered from one perspective, unordered from another.
 `.and` compose terminal/initial
 	- Only thing needed for addition, is equivalencing initial/terminal. - Equivalencing continuations.  
+	- and/addition becomes sa.e concept
 `.terminal / ..`
 	- Move `.self` to `.terminal`
 	- Terminal expectation ; could also be arbitrary structure again.
