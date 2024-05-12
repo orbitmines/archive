@@ -594,6 +594,11 @@ Ray.compile(lambda ray: ray)
 # TODO: Could just randomly start generating possible combinations of logical gates (or any methods on Ray), which if the runtime has an explanation for (or in the debug mode just to listen), you can hook into that and create an implementation. In the case of python made something along the lines of an interpreter which gives you one, asks to write one in python...
 ```
 
+
+```
+
+```
+
 start with one, find match, then match entire structure and revert if not. ; one way
 
 Header
