@@ -112,6 +112,7 @@ Comments on [[2024-02-22]]
 - [ ] Tenstorrent SMI terminal
 - [ ] "Color-coded parameterspace of a double pendulum reminds of the Mandelbrot set." ; 
 - [ ] wavelets
+- [ ] https://github.com/enso-org/enso
 - [ ] 
 
 - [ ] http://elseheartbreak.com/
