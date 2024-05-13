@@ -234,7 +234,7 @@ Comments on [[2024-02-22]]
 	- chiups have these things calls efuses, you can burn them to disable/enable (cant be unburned) ; hardware changes.
 	- [ ] https://github.com/gnif/LookingGlass (... others, throughput channels ..)
 	- [ ] https://binvis.io/#/
-	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), https://thebookofshaders.com/, 
+	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), https://thebookofshaders.com/, https://github.com/oracle/graal,  
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
 - https://www.mathstat.dal.ca/~selinger/quipper/
