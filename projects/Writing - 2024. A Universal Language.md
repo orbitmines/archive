@@ -531,10 +531,10 @@ def test() -> Ray:
   a, *b = Ray.boolean  
   a, *between, b = Ray.boolean  
   b, none = -Ray.boolean  
-  b, a = -Ray.boolean.orbit  
-  a, b = --Ray.boolean.orbit  
-  b, a = ---Ray.boolean.orbit  
-  a, b = --Ray.boolean  
+  b, a = -Ray.boolean.orbit
+  a, b = --Ray.boolean.orbit
+  b, a = ---Ray.boolean.orbit
+  a, b = --Ray.boolean
   
   # TODO: This is only if Ray.boolean is .orbit, otherwise reverse would be different.  
   
