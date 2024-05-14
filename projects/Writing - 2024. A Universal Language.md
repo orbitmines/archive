@@ -831,7 +831,7 @@ Yellow is how you could define zero. Or a selection pointer on pink. ; Basically
 ![[Pasted image 20240501193810.png]]
 
 - Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.
-- Wrong dynamics from a particular perspective, often probably still keep traversing - they still work.
+- Wrong dynamics from a particular perspective, often probably still keep traversing - they still work. It's just that from the perspective you wanted, they don't.
 
 With some physics connections here as well:
 - Then energy conservation (if it holds up), could be using anything to the initial sides (casual histories/or some structure/.../topology) and shove them in the traversing direction until there's nothing there. And hence we stop branching and in some ways collapsing in the sense of the teminal side then doing that similarly to the initial side.
