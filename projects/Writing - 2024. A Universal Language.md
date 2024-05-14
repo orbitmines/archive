@@ -620,7 +620,6 @@ Ideas like:
 ---
 
 - The problem is not .. it's missing tools to think across fields. 
-
 	- Similar to things like references: In
 	- It doesn't matter that you want a particular way to deal with your conflict free stuff, the solution is not only to isolate an environment, but just to be able to deal or handle when it arises. ; better way of phrasing this? single sentence?
 	- It's not just about being able to work with unique data, but also about what you do when that's not available ; restate some things from [[Project - Research towards Designs (2024)]]
@@ -812,7 +811,7 @@ Allows for a generalization of geodesic (partially)
 - Note that whenever you have a self-reference through operators, that requires an implementation to break this self-reference. For example ray functionality only requires initial + negative, or terminal + negative, or initial + terminal, to make all the other three.
 
 ##### On Naming, ..., Grouping
-Difference in most concepts come from the context in which something applied, other than that
+Difference in most concepts come from the context in which something applied, other than that most things have a very general pattern???
 - Most definitions and/or names of things assume some perspective. Make it hard to generalize.
 
 This is basically: When to decide that perspective switches should have a different name associated with them, when they can probably be thrown in a bag with other stuff: I.e. Why is it so significantly different it should be separate?
