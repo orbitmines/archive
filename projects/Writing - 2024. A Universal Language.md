@@ -752,6 +752,10 @@ In the case of Rays, whether something is a vertex/initial/terminal is only infe
 
 Leaves the following questions:  
 - [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? ; parallel, one at the completion step, the other in between still waiting
+
+empty on .self, vs .self ref vs ref, ; selection of two boundaries.
+
+
 ##### Fuzzing / discovery
 Partially, locally, ... (same as on orbits)
 
