@@ -1,14 +1,5 @@
 *Let's try for [[2024-05-31]]*
 
-
-*better variant of this open open open*
-
-###### Open compute substrate
-
-###### Open inputs, ..., interfaces
-
-###### Open outputs, ..., interfaces
-
 ---
 
 It consists of two parts, one, ..., the other..
