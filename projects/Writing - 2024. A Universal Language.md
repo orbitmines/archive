@@ -140,8 +140,7 @@ class Ray:
   # @alias('is_none')  
   def is_orbit(a, b: Arbitrary) -> Ray: raise NotImplementedError # a.___instance === b.___instance  
   __eq__ \  
-    = is_orbit  
-  # TODO: Constant as local orbit.  
+    = is_orbit 
   
   # -__eq__ == __ne__  
   # @ray  # def __ne__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
