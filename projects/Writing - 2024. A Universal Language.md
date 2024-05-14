@@ -944,5 +944,4 @@ Stored any way, just deal with it.
 
 Link back to the other stuff from the notebook as well:
 - p-adic numbers
-- sierpinski etc.. a xor b = a+b, sierpinskintriangles  
-boundary is addition of boundary/self-loop?
+- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
