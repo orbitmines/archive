@@ -830,8 +830,6 @@ encoding usually ignorant of its use
 Yellow is how you could define zero. Or a selection pointer on pink. ; Basically you can define the boundary as a zero point. ; "split point between opposites" ; "distinguishability begins here for modular structure" ; ... "selection"
 ![[Pasted image 20240501193810.png]]
 
-Mathematics as ignoring `.self` ? or something close to it.
-
 Defer to [[Jonathan Gorard]]'s work, for more physics details there. As for example this: ["The boundary of a boundary is always empty."](https://twitter.com/getjonwithit/status/1784599157015007391)
 
 - Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.
