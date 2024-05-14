@@ -626,9 +626,6 @@ Ideas like:
 	- 
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
-
-- Local changes..
-
 visualization
 - Small ring outline in continuation + vertex?
 - Intersection on screen been non-intersection in the structure, way of rendering it.
