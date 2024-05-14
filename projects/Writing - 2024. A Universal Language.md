@@ -628,7 +628,6 @@ Ideas like:
 	- 
 - "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
-- A lot of this started with the idea: "You cannot have interaction without something like gravity." ; I think? Probably a question similar to this.
 
 - Local changes..
 
@@ -712,6 +711,7 @@ Encoding/symbols..
 ##### "Superpose in more detail"
 
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
+	- ref on self-reference?
 	- "Can abstractly only satisfy a loop through another loop? While pattern matching?"
 	- Some way to conceptualize a qubit as pattern matched on any other thing ; similar to the "push structure inside thing."
 	- ; So that would be like finding the higher-arity structure there, and selecting it like the vertex on vertex, having it branch off.
@@ -817,6 +817,7 @@ This is basically: When to decide that perspective switches should have a differ
 encoding usually ignorant of its use
 
 ##### Mathematics, Physics, ..., Dynamics
+- A lot of this started with the idea: "You cannot have interaction without something like gravity." ; I think? Probably a question similar to this.
 
 Yellow is how you could define zero. Or a selection pointer on pink. ; Basically you can define the boundary as a zero point. ; "split point between opposites" ; "distinguishability begins here for modular structure" ; ... "selection"
 ![[Pasted image 20240501193810.png]]
