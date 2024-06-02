@@ -31,6 +31,7 @@ Read
 - [ ] https://en.wikipedia.org/wiki/Alfv%C3%A9n_wave
 - [ ] https://en.wikipedia.org/wiki/History_of_Maxwell's_equations
 - [ ] https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation
+- [ ] https://www.unitree.com/
 - [ ] 
 
 Discovery data
