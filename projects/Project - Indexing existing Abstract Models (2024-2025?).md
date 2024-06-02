@@ -113,6 +113,7 @@ Comments on [[2024-02-22]]
 - [ ] "Color-coded parameterspace of a double pendulum reminds of the Mandelbrot set." ; 
 - [ ] wavelets
 - [ ] https://github.com/enso-org/enso
+- [ ] https://antoinebrl.github.io/blog/conv1d/
 - [ ] 
 
 - [ ] http://elseheartbreak.com/

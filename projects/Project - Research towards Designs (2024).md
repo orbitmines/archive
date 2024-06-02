@@ -128,6 +128,8 @@ Games
 - [ ] https://store.steampowered.com/app/638230/Journey/
 - [ ] 
 
+- [ ] https://cybercat.institute/2024/05/09/exploiring-best-response-dynamics/
+
 #### Audio
 *research into this*
 [[Pinar Temiz]], ..
