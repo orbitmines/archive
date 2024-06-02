@@ -62,6 +62,7 @@ Read
 Read
 - [ ] https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/physicalism_20240614/index.html
 - [ ] https://neurotree.org/beta/index.php
+- [ ] https://www.youtube.com/watch?v=uN-GGqzv8KI
 - [ ] 
 
 Intelligence - partially practical ignorance
