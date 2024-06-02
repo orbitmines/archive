@@ -6,7 +6,7 @@ value dim from type dym .self
 
 - [ ] https://zicklag.github.io/blog/interaction-nets-combinators-calculus/
 - [ ] HVM history ; https://gist.github.com/VictorTaelin/6c605f923138dd1918152fb5409fb6ce#hvmcu---76116-million-ips
-- [ ] 
+- [ ] HVM.metal ; https://gist.github.com/adamritter/752793909074f35cd1dd59b822e7d536
 
 
 As eluded to in https://github.com/Kindelia/HVM/blob/master/guide/HOW.md:
