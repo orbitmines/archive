@@ -56,7 +56,7 @@ An idea: Organizations looking for people, setting up qualifications/specificati
 Read
 - [ ] https://sites.google.com/cri-paris.org/cityinteractionlab/
 
-##### Cognition
+##### Cognition, ..., Neuroscience
 *People: [[Charan Ranganath]], [[Jeff Zacks]], *
 
 Read
