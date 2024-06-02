@@ -974,3 +974,7 @@ todo; screenshot list   2 week
 line number through superppse as example
   
 left right simul recursion (collapse)
+
+rotating ignoring/not ignore ring around mount doom
+
+Dark energy / non at self but initial/terminal have some?; Or it's useful somewhere else
