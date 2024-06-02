@@ -12,6 +12,8 @@ People
 - [ ] https://www.youtube.com/@laboratoireastroparticulec7396/videos
 - [ ] Weather, ..., Maps
 	- [ ] https://www.spaceweather.gov/
+	- [ ] https://research.reading.ac.uk/met-spate/huxt-forecast/
+	- [ ] 
 - [ ] https://ringwatchers.com/en
 - [ ] 
 

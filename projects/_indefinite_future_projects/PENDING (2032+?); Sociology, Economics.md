@@ -4,8 +4,6 @@ Read
 - [ ] https://s21.q4cdn.com/399680738/files/doc_financials/annual_reports/2023/2021-Annual-Report.pdf
 - [ ] https://www.berkshirehathaway.com/letters/letters.html
 - [ ] https://ourworldindata.org/history-of-our-world-in-data
-- [ ] History
-	- [ ] this sort of thing
 
 # UNPROCESSED
 *Tread carefully, confusion abound**
@@ -44,6 +42,10 @@ Although I don't think Asimov explicitly stated it but hinted at it. The Gaian p
 
 ##### Social - History
 Thought popped up earlier today that I should get some better understanding of archaic greek. Followed by the idea that any understanding of language would necessarily be different from prior learned languages. It's seems inconceivable one would be able to understand the language properly as back when it was more frequently used. And that learning it will change the relation and understanding of other languages.
+
+Read
+- [ ] this sort of thing; https://en.m.wikipedia.org/wiki/South_Sea_Company
+- [ ] 
 
 ##### Social - Economics
 - [ ] https://www.beta-europe.org/
