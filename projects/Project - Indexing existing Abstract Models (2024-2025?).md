@@ -125,6 +125,8 @@ Comments on [[2024-02-22]]
 - [ ] https://vastgaussian.github.io/
 - [ ] https://www.sidefx.com/
 - [ ] https://medium.com/@kacper.szwajka842/efficient-gpu-rendering-for-dynamic-instances-in-game-development-9cef0b1eeeb6
+- [ ] https://projectneo.adobe.com/ & the whole adobe stack
+- [ ] https://github.com/MurpheyLab/ergodic-control-sandbox
 - [ ] 
 
 - [ ] http://elseheartbreak.com/

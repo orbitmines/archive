@@ -18,6 +18,7 @@ Read
 	- [ ] Finished the books I have at home
 	- [ ] Some intuitionf for things like Proteins, ... Amino Acids
 	- [ ] morphogen?
+- [ ] https://ultradao.to/info
 
 People, [[Gizem Gumuskaya]]
 
