@@ -13,7 +13,10 @@ Read
 - [ ] https://github.com/isomorphiclabs
 - [ ] https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/
 - [ ] dr walter oels plant psychology
-- [ ] 
+- [ ] https://facettelab.weebly.com/research.html
+- [ ] General biology knowledge
+	- [ ] Finished the books I have at home
+	- [ ] 
 
 People, [[Gizem Gumuskaya]]
 
