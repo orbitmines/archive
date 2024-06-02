@@ -59,6 +59,9 @@ Read
 ##### Cognition
 *People: [[Charan Ranganath]]*
 
+Read
+- [ ] https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/physicalism_20240614/index.html
+
 Intelligence - partially practical ignorance
 
 [[2023-12-19]]

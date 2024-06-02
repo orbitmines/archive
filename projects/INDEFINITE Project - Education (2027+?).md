@@ -22,3 +22,6 @@ Some projects
 - https://github.com/learn-anything/learn-anything.xyz
 - https://www.scientix.eu/
 - 
+
+Read
+- [ ] https://www.researchgate.net/profile/Yoshua-Bengio/publication/380368417_Generative_AI's_Impact_on_Education_Navigating_Challenges_for_Effective_Implementation/links/6639149f08aa54017ae2a6b0/Generative-AIs-Impact-on-Education-Navigating-Challenges-for-Effective-Implementation.pdf
