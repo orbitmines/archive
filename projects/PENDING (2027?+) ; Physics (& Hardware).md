@@ -30,6 +30,8 @@ Read
 - [ ] https://www.feynmanlectures.caltech.edu/I_toc.html
 - [ ] https://en.wikipedia.org/wiki/Alfv%C3%A9n_wave
 - [ ] https://en.wikipedia.org/wiki/History_of_Maxwell's_equations
+- [ ] https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation
+- [ ] 
 
 Discovery data
 - [ ] Higgs boson discovery data & others, where/are these things indexed?
