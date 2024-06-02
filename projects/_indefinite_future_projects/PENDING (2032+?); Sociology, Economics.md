@@ -56,8 +56,8 @@ An idea: Organizations looking for people, setting up qualifications/specificati
 Read
 - [ ] https://sites.google.com/cri-paris.org/cityinteractionlab/
 
-##### Cognition, ..., Neuroscience
-*People: [[Charan Ranganath]], [[Jeff Zacks]], *
+##### Cognition, Psychology, ..., Neuroscience
+*People: [[Charan Ranganath]], [[Jeff Zacks]], [[Kenneth A. Norman]], [[Alejandro (Alex) Sospedra Orellano]], *
 
 Read
 - [ ] https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/physicalism_20240614/index.html
