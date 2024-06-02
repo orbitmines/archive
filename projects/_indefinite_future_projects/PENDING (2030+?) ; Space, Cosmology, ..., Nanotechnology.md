@@ -12,6 +12,7 @@ People
 - [ ] https://www.youtube.com/@laboratoireastroparticulec7396/videos
 - [ ] Weather, ..., Maps
 	- [ ] https://www.spaceweather.gov/
+- [ ] https://ringwatchers.com/en
 - [ ] 
 
 Read
