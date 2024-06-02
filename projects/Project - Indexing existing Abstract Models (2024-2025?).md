@@ -250,7 +250,7 @@ Comments on [[2024-02-22]]
 		- [ ] https://github.com/NVIDIA/cuda-samples/blob/master/Samples%2F5_Domain_Specific%2FvulkanImageCUDA%2FREADME.md ; cuda interop
 		- [ ] https://github.com/SaschaWillems/Vulkan
 		- [ ] https://github.com/DTolm/VkFFT
-	- [ ] Graphics programming discord: https://discord.com/invite/Eb7P3wH
+	- [ ] Graphics programming discord: https://discord.com/invite/Eb7P3wH , [[Graphics Programming]]
 	- [ ] 
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - MuJoCo
