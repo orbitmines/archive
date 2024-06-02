@@ -79,6 +79,7 @@ Comments on [[2024-02-22]]
 - [Andromeda](https://github.com/Andromedans/andromeda), Apache TVM, Controlled Natural Language (CNL), Formalisation of Constructive Univalent Type Theory (ForCUTT), [Foundations of Mathematics (FOM)](https://ncatlab.org/nlab/show/foundation+of+mathematics), [Virgil](https://github.com/titzer/virgil/), https://github.com/TodePond/DreamBerd, 
 - [staq](https://github.com/softwareQinc/staq), 
 - https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
+- https://github.com/mirage-project/mirage
 - 
 
 ### Some other names I found but didn't save a link to: 
@@ -121,6 +122,7 @@ Comments on [[2024-02-22]]
 - [ ] layers.to
 - [ ] https://www.val.town/
 - [ ] https://vastgaussian.github.io/
+- [ ] https://www.sidefx.com/
 - [ ] 
 
 - [ ] http://elseheartbreak.com/
