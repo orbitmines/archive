@@ -14,7 +14,10 @@ People
 
 Read
 - [ ] https://acityonmars.com/
-- [ ] https://writings.stephenwolfram.com/2024/03/computing-the-eclipse-astronomy-in-the-wolfram-language/
+- Eclipse
+	- [ ] https://writings.stephenwolfram.com/2024/03/computing-the-eclipse-astronomy-in-the-wolfram-language/
+	- [ ] https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/
+	- [ ] 
 - [ ] 
 
 # UNPROCESSED

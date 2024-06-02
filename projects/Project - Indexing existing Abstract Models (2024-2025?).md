@@ -124,6 +124,7 @@ Comments on [[2024-02-22]]
 - [ ] https://github.com/pererossello/nbody_whatever
 - [ ] https://minos.tessera.li/genealogy
 	- [ ] https://github.com/tesseralis
+- [ ] http://wiki.fun-arch.org/index.php?title=Main_Page
 - [ ] 
 
 ### Some other ways of possibly extending this list (non-completed tangents):

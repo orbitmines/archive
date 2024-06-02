@@ -11,6 +11,8 @@ Read
 	- [ ] https://github.com/Profluent-AI/OpenCRISPR
 - [ ] https://ccsb.scripps.edu/ [[Center for Computational Structural Biology]]
 - [ ] https://github.com/isomorphiclabs
+- [ ] https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/
+- [ ] 
 
 People, [[Gizem Gumuskaya]]
 
