@@ -248,6 +248,8 @@ Comments on [[2024-02-22]]
 	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), https://thebookofshaders.com/, https://github.com/oracle/graal,  
 		- [ ] https://github.com/SaschaWillems/Vulkan/blob/master/examples%2Foffscreen%2Foffscreen.cpp
 		- [ ] https://github.com/NVIDIA/cuda-samples/blob/master/Samples%2F5_Domain_Specific%2FvulkanImageCUDA%2FREADME.md ; cuda interop
+		- [ ] https://github.com/SaschaWillems/Vulkan
+		- [ ] https://github.com/DTolm/VkFFT
 		- [ ] 
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - MuJoCo
