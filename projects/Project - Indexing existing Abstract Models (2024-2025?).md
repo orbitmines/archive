@@ -246,6 +246,9 @@ Comments on [[2024-02-22]]
 	- [ ] https://github.com/gnif/LookingGlass (... others, throughput channels ..)
 	- [ ] https://binvis.io/#/
 	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), https://thebookofshaders.com/, https://github.com/oracle/graal,  
+		- [ ] https://github.com/SaschaWillems/Vulkan/blob/master/examples%2Foffscreen%2Foffscreen.cpp
+		- [ ] https://github.com/NVIDIA/cuda-samples/blob/master/Samples%2F5_Domain_Specific%2FvulkanImageCUDA%2FREADME.md ; cuda interop
+		- [ ] 
 - GKEYLL, simulation, emulation, render/physics/.../game engines etc..
 - MuJoCo
 - Some more at [[Project - (Hypergraphic) Version Control System through Rays (2024)]]
