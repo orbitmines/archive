@@ -3,6 +3,8 @@ Related:
   - "[[Applied Category Theory]]"
   - "[[nLab]]"
 ---
+- https://www.youtube.com/thecatsters & [[nLab]]
+
 *Most of this was during and shortly after the [[Society for Multidisciplinary and Fundamental Research (SEMF)]] summerschool*
 
 ###### "Different Infinities"
