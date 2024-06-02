@@ -14,6 +14,7 @@ People
 
 Read
 - [ ] https://acityonmars.com/
+- [ ] https://writings.stephenwolfram.com/2024/03/computing-the-eclipse-astronomy-in-the-wolfram-language/
 - [ ] 
 
 # UNPROCESSED

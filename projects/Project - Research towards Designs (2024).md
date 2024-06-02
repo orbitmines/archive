@@ -32,6 +32,10 @@ World Generation
 - [ ] [DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft](https://arxiv.org/pdf/2404.15538)
 - [ ] 
 
+Read
+- [ ] https://gilmorejon.wordpress.com/2024/04/24/open-world-blues-on-mechanical-dynamism-and-difficulty-curves/?blogid=121042342&blogsub=confirming#subscribe-blog
+- [ ] 
+
 ###### Open explorations/quests
 *Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
 
