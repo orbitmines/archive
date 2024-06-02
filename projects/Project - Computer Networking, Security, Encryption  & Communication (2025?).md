@@ -16,6 +16,8 @@ Some random notes on this can be found in the archive.
 - [ ] https://github.com/ucan-wg/invocation  
 - [ ] WarpForge / Warptools (;https://github.com/warptools/warpforge)  
 - [ ] https://github.com/fluencelabs  
+- [ ] https://en.m.wikipedia.org/wiki/Modular_elliptic_curve
+- [ ] Link to [[Project - Indexing existing Abstract Models (2024-2025?)]]/closeness
 
 Found at: https://twitter.com/casdewitt/status/1633240387262324737
 Read: [Perfectly Secure Steganography using Minimum Entropy Coupling (2023)](../read/2210.14889.pdf) ; Would confirm some ungrounded suspicions I had some time ago. Let's return to steganography later on.
