@@ -16,7 +16,8 @@ Read
 - [ ] https://facettelab.weebly.com/research.html
 - [ ] General biology knowledge
 	- [ ] Finished the books I have at home
-	- [ ] 
+	- [ ] Some intuitionf for things like Proteins, ... Amino Acids
+	- [ ] morphogen?
 
 People, [[Gizem Gumuskaya]]
 
