@@ -45,6 +45,9 @@ Although I don't think Asimov explicitly stated it but hinted at it. The Gaian p
 Thought popped up earlier today that I should get some better understanding of archaic greek. Followed by the idea that any understanding of language would necessarily be different from prior learned languages. It's seems inconceivable one would be able to understand the language properly as back when it was more frequently used. And that learning it will change the relation and understanding of other languages.
 
 ##### Social - Economics
+- [ ] https://www.beta-europe.org/
+- [ ] 
+
 [[2024-03-09]]
 collaborative/commons finance - [[Fotis Tsiroukis]]
 
