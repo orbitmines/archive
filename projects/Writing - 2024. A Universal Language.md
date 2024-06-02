@@ -972,3 +972,5 @@ todo; screenshot list   2 week
 ---
 
 line number through superppse as example
+  
+left right simul recursion (collapse)
