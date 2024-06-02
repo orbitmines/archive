@@ -57,7 +57,7 @@ Read
 - [ ] https://sites.google.com/cri-paris.org/cityinteractionlab/
 
 ##### Cognition
-*People: [[Charan Ranganath]]*
+*People: [[Charan Ranganath]], [[Jeff Zacks]], *
 
 Read
 - [ ] https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/physicalism_20240614/index.html
