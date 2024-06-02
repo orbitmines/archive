@@ -940,3 +940,10 @@ Stored any way, just deal with it.
 Link back to the other stuff from the notebook as well:
 - p-adic numbers
 - sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
+
+---
+
+[[2024-06-02]]
+Can phrase the conceptual extremes as an assumption of halting at the boundary, clearly then you consteuct from there the idra, what if that wasn't the case - it not being the boundary at all. Hence the words pointing to some extreme are more accurately phrased as an assumption like that; "But there could be arbitrary structure there which is ignored"  
+  
+could use the pond dance as an example, "dont need to know to predict"
