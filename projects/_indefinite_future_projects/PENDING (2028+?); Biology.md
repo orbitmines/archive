@@ -12,12 +12,17 @@ Read
 - [ ] https://ccsb.scripps.edu/ [[Center for Computational Structural Biology]]
 - [ ] https://github.com/isomorphiclabs
 - [ ] https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/
+- [ ] dr walter oels plant psychology
 - [ ] 
 
 People, [[Gizem Gumuskaya]]
 
+---
+
 # UNPROCESSED
 *Tread carefully, confusion abound*
+
+---
 
 -omics, relevant?
 
