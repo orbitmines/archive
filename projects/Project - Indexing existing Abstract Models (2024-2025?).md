@@ -128,6 +128,7 @@ Comments on [[2024-02-22]]
 - [ ] https://projectneo.adobe.com/ & the whole adobe stack
 - [ ] https://github.com/MurpheyLab/ergodic-control-sandbox
 - [ ] https://github.com/fargolo/TextGraphs.jl
+- [ ] https://gist.github.com/futureengine2/7c8fbc6fefce1818ff1edcd4d7e7bfcf
 - [ ] 
 
 - [ ] http://elseheartbreak.com/
@@ -142,6 +143,7 @@ Comments on [[2024-02-22]]
 - [ ] http://wiki.fun-arch.org/index.php?title=Main_Page
 - [ ] https://openprocessing.org/
 - [ ] https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+- [ ] https://gamemaker.io/en
 - [ ] 
 
 ### Some other ways of possibly extending this list (non-completed tangents):
