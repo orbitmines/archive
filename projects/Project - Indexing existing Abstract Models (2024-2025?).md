@@ -114,6 +114,7 @@ Comments on [[2024-02-22]]
 - [ ] wavelets
 - [ ] https://github.com/enso-org/enso
 - [ ] https://antoinebrl.github.io/blog/conv1d/
+- [ ] https://cremuss.artstation.com/projects/mDwBP9
 - [ ] 
 
 - [ ] http://elseheartbreak.com/
