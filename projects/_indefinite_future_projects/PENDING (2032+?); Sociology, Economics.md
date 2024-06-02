@@ -57,7 +57,7 @@ Read
 - [ ] https://sites.google.com/cri-paris.org/cityinteractionlab/
 
 ##### Cognition, Psychology, ..., Neuroscience
-*People: [[Charan Ranganath]], [[Jeff Zacks]], [[Kenneth A. Norman]], [[Alejandro (Alex) Sospedra Orellano]], *
+*People: [[Charan Ranganath]], [[Jeff Zacks]], [[Kenneth A. Norman]], [[Alejandro (Alex) Sospedra Orellano]], [[Marcia K. Johnson]]*
 
 Read
 - [ ] https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/physicalism_20240614/index.html
