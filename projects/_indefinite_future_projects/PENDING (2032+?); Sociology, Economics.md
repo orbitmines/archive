@@ -50,6 +50,12 @@ collaborative/commons finance - [[Fotis Tsiroukis]]
 
 [[2023-04-07]]
 An idea: Organizations looking for people, setting up qualifications/specifications/wishes/requirements and bulk-application (or an open one) by people looking for an organization, allows for more time to write one's goal.; both sides open matching
+
+##### Social - Urban Planning
+
+Read
+- [ ] https://sites.google.com/cri-paris.org/cityinteractionlab/
+
 ##### Cognition
 *People: [[Charan Ranganath]]*
 
