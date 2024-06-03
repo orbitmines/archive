@@ -4,20 +4,11 @@
 
 It consists of two parts, one, ..., the other..
 
+Examples
+- Tensor as restrictive case
 
 ```ts
 
-from __future__ import annotations  
-  
-import inspect  
-from typing import Iterator, AsyncIterator, Union, Callable, Any, Iterable, AsyncIterable, Tuple  
-  
-  
-# TODO: Restrictive cases:  
-# - TODO: Tensor as restrictive case  
-#  
-#  
-  
 # TODO: Better python solution than just @ray everywhere (for typechecker) - gen for typechecker?  
   
 # TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
