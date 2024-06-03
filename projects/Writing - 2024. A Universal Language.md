@@ -612,9 +612,6 @@ Partially, locally, ... (same as on orbits)
 Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - ; compression
 
 Compression
-Allows for a generalization of geodesic (partially)
-- One could simply see it as additional resources, capabilities, function, however one wants to define it. It generally can (and should) alter possible compression for anything that follows.
-- Any function or structural access poses limitations and offers functions ; non-trivial superpositions 
  curvature and noncompressability ; tweet ([[Jonathan Gorard]])
 
 - [ ] Against forgetting/violation/inconsistencies
