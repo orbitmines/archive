@@ -25,7 +25,7 @@ So all self.initial -> (-self).terminal
   # Opposite aliases  # TODO: Could just dynamically assign these - the case for any reversible thing (next/previous, initial/terminal ...) always: A.something and (-A).something  
   #  
   
-    (-self).as_terminal() # TODO: These sorts of deductions should be automatic, here as an example  
+as_initial =   (-self).as_terminal() # TODO: These sorts of deductions should be automatic, here as an example  
 
 (-self).a = self.b
 -(self.a) = self.b
@@ -35,6 +35,16 @@ is_orbit / # a.___instance === b.___instance
   
 # @staticmethod  
 # def ring() -> Ray: return Ray.none.orbit TODO, modulus by default ; 
+
+# TODO: Autogen these from is_vertex/terminal etc..
+@staticmethod  
+def reference(ray: Ray) -> Ray:  
+  return Ray(initial=Ray.none, self=ray, terminal=Ray.none)  
+  
+def as_reference(self) -> Ray: return Ray.reference(self)  
+def as_vertex(self) -> Ray: return Ray(initial=Ray.some, self=self, terminal=Ray.some)  
+def as_initial(self) -> Ray: return Ray(initial=Ray.none, self=self, terminal=Ray.some)  
+def as_terminal(self) -> Ray: return Ray(initial=Ray.some, self=self, terminal=Ray.none)
 ```
 
 ```
@@ -127,14 +137,9 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   #          */  
   #            // TODO as_reference.as_vertex instead of as_vertex ignorant by default?  
 
-  def as_initial(self) -> Ray: return (  
+ 
 
-    or Ray(initial=Ray.none, self=self, terminal=Ray.some)  
-  )  
-  def as_terminal(self) -> Ray: return (  
-    (-self).as_initial() # TODO: These sorts of deductions should be automatic, here as an example  
-    or Ray(initial=Ray.some, self=self, terminal=Ray.none)  
-  )  
+
   # TODO: Ray.vertex/initial/terminal ? places empty_initial/terminal in the expected style?  
   
   # TODO: These might be slightly different?
