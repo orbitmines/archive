@@ -18,6 +18,10 @@ TODO:
 ---
 [[Society for Multidisciplinary and Fundamental Research (SEMF)]] logistics:
 - Discord events ([[Irida Altman]])
+	- Calendar events//
+		- [ ] https://calendar.google.com/calendar/u/0/r/settings/addbyurl
+		- [ ] https://en.wikipedia.org/wiki/ICalendar
+
 - Finalize initial bot setup, before summer school?
 
 ---
@@ -31,6 +35,8 @@ TODO:
 - [ ] Share with ZX-calculus community ; https://discord.com/channels/691634593195098122/889091902568280135/1191709081656905748
 	- [ ] ![[Pasted image 20240102132447.png]]
 - [ ] Include the journey of how certain references were found (; more detailed in wrapping-up)  - "More expressive references"
+- [ ] [[Prathyush]] ; "And keep me posted on any updates. Would love to take a look on how it evolves."
+- [ ] Promised to contact [[Nick Hu]] when sending finishing infrastructure - bit hasty on my end though
 
 ---
 
@@ -70,6 +76,7 @@ Interfaces
 
 ---
 
-Calendar events//
-- [ ] https://calendar.google.com/calendar/u/0/r/settings/addbyurl
-- [ ] https://en.wikipedia.org/wiki/ICalendar
+
+##### Attending  
+- [ ] Perhaps it's a good idea to combine a list of conferences which are happening to get a better view of that landscape. (or find someone else who has)  
+
