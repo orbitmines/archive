@@ -93,7 +93,7 @@ Read
 	- Some notion of not expecting people to explore by themselves - simplicity (vs others who do), and guiding a way to stimulate that exploration - some form of ???.
 
 - Experience/Mana/Energy - Gravity/Entropy
-	- [[Project - Indexing existing Abstract Models (2024-2025?)]]#differentiability / [[Project - (Hypergraphic) Version Control System through Rays (2024)]]#compresison - some merge between these things, or where should this be put?
+	- [[Project - Indexing existing Abstract Models (2024-2025?)]]#differentiability / [[Writing - 2024. A Universal Language]]#compresison - some merge between these things, or where should this be put?
 - 
 	- Similarly, crafting, resource constraints and how to translate that to how it influences what one can see ; What can I change about my infrastructure vs what can't I? ; "Energy aware contexts, is how people refer to it"
 	- Measurement of category if diversity for the thing its useful for
