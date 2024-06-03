@@ -402,11 +402,6 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   #  
   # Python runtime converters  #  
   @staticmethod  
-  def function(name: str, func: Callable[[Any, ...], Any]) -> Ray:  
-    a = Ray()  
-    a.name = name  
-    return a  
-  @staticmethod  
   def integer(val: int) -> Ray: raise NotImplementedError  
   @staticmethod  
   def iterator(val: Iterator[Any]) -> Ray: raise NotImplementedError  
