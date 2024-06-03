@@ -25,6 +25,8 @@ So all self.initial -> (-self).terminal
   # Opposite aliases  # TODO: Could just dynamically assign these - the case for any reversible thing (next/previous, initial/terminal ...) always: A.something and (-A).something  
   #  
   
+    (-self).as_terminal() # TODO: These sorts of deductions should be automatic, here as an example  
+
 (-self).a = self.b
 -(self.a) = self.b
 
@@ -124,9 +126,9 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   #          * Moving `self` to `.self` on an abstraction layer (higher). As a way of being able to describe `self`.  #          *  #          * TODO: the .reference might need two levels of abstraction higher, one to put it at the .self, another to reference that thing? (Depends a bit on the execution layer)  
   #          */  
   #            // TODO as_reference.as_vertex instead of as_vertex ignorant by default?  
- 
+
   def as_initial(self) -> Ray: return (  
-    (-self).as_terminal() # TODO: These sorts of deductions should be automatic, here as an example  
+
     or Ray(initial=Ray.none, self=self, terminal=Ray.some)  
   )  
   def as_terminal(self) -> Ray: return (  
