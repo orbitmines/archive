@@ -615,10 +615,6 @@ Compression
 - [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
 - [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
 
-
-##### Self-referential operators & multiple abstract implementations
-- Note that whenever you have a self-reference through operators, that requires an implementation to break this self-reference. For example ray functionality only requires initial + negative, or terminal + negative, or initial + terminal, to make all the other three.
-
 ##### On Naming, ..., Grouping
 
 ```py
