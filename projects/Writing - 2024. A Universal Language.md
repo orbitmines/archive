@@ -36,6 +36,11 @@ aliases
 # .__pow__ @alias(pow)
 # .__trudiv__ @alias(div)
 # .__xor__ @alias(xor)
+
+size/add/pow... (basically copies/merges, different perspectives/context)
+  # size = length = no params different behavior  
+  # resize = structure  mul = __mul__ = times
+  # duplicate = copy = clone = size.from_perspective_of  
 ```
 
 add = and ... different perspective?
@@ -227,9 +232,6 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
      #    // (self) => self.self.copy.reference()     #    (self) => none().self = self.self.copy()     #     #      // TODO Relies heavily on the execution layer to copy initial/terminal etc... ; and an is_orbit check before calling copy again. - Then again on the execution layer it can lazily do this copy (by not evaluating (i.e.) traversing everywhere), or it first does this traversing directly.  
   
     pass  
-  # size = length = no params different behavior  
-  # resize = structure  mul = __mul__ = times
-  # duplicate = copy = clone = size.from_perspective_of  
   
     
   def radd(self) -> Ray: return -self.add.perspective 
