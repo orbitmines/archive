@@ -131,6 +131,9 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   def is_orbit(a, b: Arbitrary) -> Ray: raise NotImplementedError # a.___instance === b.___instance  
   __eq__ \  
     = is_orbit 
+    
+def is_orbit(self) -> Ray: raise NotImplementedError  
+def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
   # -__eq__ == __ne__  
   # @ray  # def __ne__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
