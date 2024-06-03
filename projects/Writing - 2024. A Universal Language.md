@@ -27,6 +27,9 @@ So all self.initial -> (-self).terminal
   
 (-self).a = self.b
 -(self.a) = self.b
+
+
+is_orbit / # a.___instance === b.___instance  
   
 # @staticmethod  
 # def ring() -> Ray: return Ray.none.orbit TODO, modulus by default ; 
@@ -41,6 +44,7 @@ aliases
 # .compose @alias(continues_with, merge)
 # .last @alias( end = result = back = output = max)
 # .orbit @alias(modular, modulus, circle, repeats, period, infinitely)
+# .__eq__ @alias(is_orbit)
 # .__and__ @alias(_and)
 # .__or__ @alias(_or)
 # .__add__ @alias(add)
@@ -167,14 +171,9 @@ def some() -> Ray: return -Ray.none
   # This is basically what breaks the recursive structure.  #  # Tries for "global coherence", practically this just means self-reference, were no change is (inconsistently) assumed...  #  # ---  #  # Another way of interpreting a possible way of implementing it, is no matter how much more detail we would like to ask, the only thing we ever see is the same structure again (if we ignore the difference of us asking about that additional structure, that's still a possible handle on some difference).  #  # As a way of saying/.../assuming: I only 'infinitely' assume it's only this structure, "it seems to halt here". Note that this is necessarily an assumption. No guarantee of this can be made. This is necessarily an equivalence, ..., ignorance.  #  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Quite%20similarly%20to%20the%20loops%2C%20I%20could%20be%20ignorant%20of%20additional%20structure%20by%20assuming%20it%27s%20not%20there.  # TODO: is none, ref, init terminal as global equiv check kn the structure? as generalization ; yep, is_orbit.  
   #  
   # Concretely, we use this as the thing which has power over the equivalence assumption we use to halt programs. - The asymmetry which allows the engine to make a distinction between each object.  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.    
-  # @alias('is_none')  
-  def is_orbit(a, b: Arbitrary) -> Ray: raise NotImplementedError
-  def is_orbit(self) -> Ray: raise NotImplementedError
-  
-  # a.___instance === b.___instance  
-  __eq__ \  
-    = is_orbit 
-    
+# @alias('is_none')  
+def is_orbit(a, b: Arbitrary) -> Ray: raise NotImplementedError
+def is_orbit(self) -> Ray: raise NotImplementedError
 def is_orbit(self) -> Ray: raise NotImplementedError  
 def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
