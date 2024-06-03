@@ -16,6 +16,10 @@ The currently uploaded Minecraft archives includes:
  
 - Better solution for archive project to get around distribution bs (links, offline copies, redundancy sources etc...)
 
+Read
+- [ ] https://github.com/clockworklabs/spacetimedb-minecraft
+- [ ] https://www.youtube.com/watch?v=YYMEUk-tnWs
+
 
 ```
 <Arc head="Arc: OrbitMines' Timeline (2013-2023)">  
