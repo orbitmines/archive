@@ -316,13 +316,8 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
     
   def has_previous(self) -> Ray: return (-self).has_next  
-  def first(self) -> Ray: return (-self).last   
-  def is_some(self) -> Ray: return (-self).is_none  
-
-  # @alias(f'push_{first.alias}')  
+  def first(self) -> Ray: return (-self).last
   def push_front(self) -> Ray: return (-self).push_back  
-  __rshift__ \  
-    = push_front  
 
   
   #  
