@@ -6,13 +6,10 @@ It consists of two parts, one, ..., the other..
 
 Examples
 - Tensor as restrictive case
+	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
+	- TODO: zip, tensor (are these the same as match/switch?)
 
 ```ts
-
-# TODO: Better python solution than just @ray everywhere (for typechecker) - gen for typechecker?  
-  
-# TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
-# TODO: zip, tensor (are these the same as match/switch?)  
   
 # TODO: .equivalent vs .is_equivalent ? (Could do: .equivalent. somethimg??) Basically the connection between .equivalent & .is_orbit  
 # TODO: That's basically the same connection of .next/.has_next/.last, .end/.boundary/.is_boundary/...  
