@@ -26,6 +26,7 @@ aliases
 # .reference @alias('pointer', 'cursor')
 # .free @alias(destroy = clear = delete = pop = prune)
 # .compose @alias(continues_with, merge)
+# .last @alias( end = result = back = output = max)
 ```
 
 
@@ -33,7 +34,9 @@ aliases
   
 # TODO: .equivalent vs .is_equivalent ? (Could do: .equivalent. somethimg??) Basically the connection between .equivalent & .is_orbit  
 # TODO: That's basically the same connection of .next/.has_next/.last, .end/.boundary/.is_boundary/...  
+# TODO: Other layer of abstraction waiting for .next step function - will hook into anything that finishes, and allows already composing stuff after .last .
   
+
 # TODO: Runtime with its read/writeonly, basically (non-/)availability of write operations. Where read operations are already also write operations from another perspective, just not the one accessible here.  
 
 kwargs/args  # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.  
@@ -155,14 +158,10 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
     
   def has_next(self) -> Ray: return self.next().is_some  
     
-  def last(self) -> Ray: raise NotImplementedError # TODO: Other layer of abstraction waiting for .next step function - will hook into anything that finishes, and allows already composing stuff after .last ..  
-  end = result = back = output = max \  
-    = last  
+  def last(self) -> Ray: raise NotImplementedError 
   
-  
-    
-  def compose(a, b: Arbitrary) -> Ray: return a.terminal().equivalent(b.initial())  
-  
+ def compose(a, b) -> Ray: return a.terminal().equivalent(b.initial())
+ 
   # Equivalence as "Composition of Ray."  
   #  # NOTE:  #  - An equivalence, is only a local equivalence, no global coherence of it can be guaranteed. And it is expensive work to edge towards global coherence.  #  - Though changes are only applied locally, their effects can be global (Take for instance, the example of adding to one Ray, which changes the perspective of everything connected to that Ray if they were to traverse the connection).  #  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Equivalences%20%26%20Inconsistencies    
   def equivalent(a, b: Arbitrary) -> Ray:  
