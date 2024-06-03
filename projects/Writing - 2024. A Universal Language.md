@@ -25,6 +25,7 @@ aliases
 # .some @alias('self_reference')  
 # .reference @alias('pointer', 'cursor')
 # .free @alias(destroy = clear = delete = pop = prune)
+# .compose @alias(continues_with, merge)
 ```
 
 
@@ -45,19 +46,19 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().  
   # TODO: Leave behind --] [-- or connect them basically..  
 
-  @ray  
+    
   def free(self): raise NotImplementedError  
  
   
   # TODO: Like any method, .initial/.terminal could be seen as a particular section of .self, which .self itself ignores. - This should be generalizable to other things setup on .self.  
   
   # An arbitrary Ray, defining what continuing in the reverse of this direction is equivalent to.  
-  @ray  
+    
   def initial(self) -> Ray: return (-self).terminal  
   previous = backward = decompile = predecessor \  
     = initial  
   # An arbitrary Ray, defining what continuing in this direction is equivalent to.  
-  @ray  
+    
   def terminal(self, *args, **kwargs) -> Ray:  
     print(f'{self.name}.__call__ {args} {kwargs}')  
     return (  
@@ -74,14 +75,14 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
   
   # @see "Reversibility after ignoring some difference": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility  
-  # @see "More accurately phrased as the assumption of Reversibility: with the potential of being violated.": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Assumptions%20%26%20Assumption%20Violation  @ray  
+  # @see "More accurately phrased as the assumption of Reversibility: with the potential of being violated.": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Assumptions%20%26%20Assumption%20Violation    
   def reverse(self) -> Ray:  
     return Ray(initial=self.terminal, self=self.self, terminal=self.initial)  
   neg = __neg__ = __invert__ = opposite = _not = converse = negative = swap \  
     = reverse # TODO ; Could also be implemented as copy - hence the __call__ on Ray() - this is the case for any sort of constructor/type.  
   
   # An arbitrary Ray, defining what our current position is equivalent to.  
-  # Moving to the intersecting Ray at `.self` - as a way of going an abstraction layer (lower), and asking what's inside.  @ray  
+  # Moving to the intersecting Ray at `.self` - as a way of going an abstraction layer (lower), and asking what's inside.    
   def self(self) -> Ray: raise NotImplementedError  
   element = dereference = selected = selection = cursor = auto \  
     = self # TODO: = branch?  
@@ -113,13 +114,18 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # Ray.terminal(empty=true)
   # Ray.terminal.empty
   # Ray.terminal.empty()
-    
+
+@staticmethod  
+def none() -> Ray: return -Ray.some  
+@staticmethod  
+def some() -> Ray: return -Ray.none
+
   # def empty_initial(self) -> Ray: return Ray(initial=Ray.none, self=Ray.none, terminal=self)  
   # def empty_terminal(self) -> Ray: return Ray(initial=self, self=Ray.none, terminal=Ray.none)  
   # An arbitrary Ray, defining what continuing in this direction is equivalent to.  
   # This is basically what breaks the recursive structure.  #  # Tries for "global coherence", practically this just means self-reference, were no change is (inconsistently) assumed...  #  # ---  #  # Another way of interpreting a possible way of implementing it, is no matter how much more detail we would like to ask, the only thing we ever see is the same structure again (if we ignore the difference of us asking about that additional structure, that's still a possible handle on some difference).  #  # As a way of saying/.../assuming: I only 'infinitely' assume it's only this structure, "it seems to halt here". Note that this is necessarily an assumption. No guarantee of this can be made. This is necessarily an equivalence, ..., ignorance.  #  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Quite%20similarly%20to%20the%20loops%2C%20I%20could%20be%20ignorant%20of%20additional%20structure%20by%20assuming%20it%27s%20not%20there.  # TODO: is none, ref, init terminal as global equiv check kn the structure? as generalization ; yep, is_orbit.  
   #  
-  # Concretely, we use this as the thing which has power over the equivalence assumption we use to halt programs. - The asymmetry which allows the engine to make a distinction between each object.  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.  @ray  
+  # Concretely, we use this as the thing which has power over the equivalence assumption we use to halt programs. - The asymmetry which allows the engine to make a distinction between each object.  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.    
   # @alias('is_none')  
   def is_orbit(a, b: Arbitrary) -> Ray: raise NotImplementedError
   def is_orbit(self) -> Ray: raise NotImplementedError
@@ -132,8 +138,8 @@ def is_orbit(self) -> Ray: raise NotImplementedError
 def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
   # -__eq__ == __ne__  
-  # @ray  # def __ne__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-  @ray # TODO  
+  #   # def __ne__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
+   # TODO  
   
   #  
   # Predefined functionality  #  
@@ -146,22 +152,19 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   # TODO Could say orbit = constant, meaning this entire direction repeats??? - maybe it's slightly different  
 
   
-  @ray  
+    
   def has_next(self) -> Ray: return self.next().is_some  
-  @ray  
+    
   def last(self) -> Ray: raise NotImplementedError # TODO: Other layer of abstraction waiting for .next step function - will hook into anything that finishes, and allows already composing stuff after .last ..  
   end = result = back = output = max \  
     = last  
   
   # @see "Continuations as Equivalence (can often be done in parallel - not generally)": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Constructing%20Continuations%20%2D%20Continuations%20as%20Equivalence  
-  @ray  
-  # @alias('merge',  
+    
   def compose(a, b: Arbitrary) -> Ray: return a.terminal().equivalent(b.initial())  
-  continues_with \  
-    = compose  
   
   # Equivalence as "Composition of Ray."  
-  #  # NOTE:  #  - An equivalence, is only a local equivalence, no global coherence of it can be guaranteed. And it is expensive work to edge towards global coherence.  #  - Though changes are only applied locally, their effects can be global (Take for instance, the example of adding to one Ray, which changes the perspective of everything connected to that Ray if they were to traverse the connection).  #  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Equivalences%20%26%20Inconsistencies  @ray  
+  #  # NOTE:  #  - An equivalence, is only a local equivalence, no global coherence of it can be guaranteed. And it is expensive work to edge towards global coherence.  #  - Though changes are only applied locally, their effects can be global (Take for instance, the example of adding to one Ray, which changes the perspective of everything connected to that Ray if they were to traverse the connection).  #  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Equivalences%20%26%20Inconsistencies    
   def equivalent(a, b: Arbitrary) -> Ray:  
     # raise NotImplementedError  
   
@@ -173,7 +176,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   # - TODO: Note that an orbit is reversibility. ?  
   # - TODO: Could represent this abstraction in another layer what we want to accomplish while the actual search is still taking place.  
   #  
-  # - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility  @ray  
+  # - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility    
   #@alias('modular', 'modulus',  
   def orbit(a, b: Arbitrary) -> Ray:  
     # - TODO: If we're only doing one end: This already assumes they are connected on the other end.  
@@ -188,32 +191,32 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   # "Applying the same thing in a different context"  
   # TODO: Somewhat related to Functors?  
   # TODO: .ref perspecctive: self.as_reference & self.dereference  
-  @ray  
+    
   def from_perspective_of(a, b):  
     raise NotImplementedError  
-  @ray  
+    
   def perspective(self) -> Ray: raise NotImplementedError  
   # TODO ; is parameters?  
   
   #  
   # If there exists an orbit between A & B anywhere on their equivalency functions - or: their .self - (except for the directions through which we're referencing them)  #  # Note the connection between 'is_orbit' vs 'is_equivalence'. They're essentially the same thing, but:  #    - in the case of 'is_equivalence' we directly have access to their difference but are explicitly ignoring them - in the context in which this functionality is called.  #    - in the case of 'is_orbit', we might need to do more complicated things to acknowledge their differences - we don't have direct access to them.  #  # TODO: (so dually connected, what if only one is aware??) Or basically just ; the answer in this particular instance is just if either end can find the other only once. Consistency of it defined on a more abstract level...  
   #  
-  # a.self().traverse().is_orbit(b.self().traverse())  # @alias('includes', 'contains') ; (slightly different variants?)  @ray  
+  # a.self().traverse().is_orbit(b.self().traverse())  # @alias('includes', 'contains') ; (slightly different variants?)    
   def is_equivalent(self) -> Ray: return self.is_composed.from_perspective_of(self.self)  
   
   # TODO: Either is_equiv or is_composed will likely change?.  
   # a.traverse().is_orbit(b.traverse()) // Basically: does there exist a single connection between the two?  
-  @ray  
+    
   def is_composed(self) -> Ray: return self.is_orbit.from_perspective_of(self.traverse) # Needs some ref from Ray.Function.Self.  
   
   @staticmethod  
-  @ray  def boolean() -> Ray: return Ray.none * 2  
+    def boolean() -> Ray: return Ray.none * 2  
   bit \  
     = boolean  
   
   # TODO: This should accept Ray: Where 'size' is just a 'shape'  
   # @alias('resize', 'size', 'structure', 'length', 'duplicate', 'copy', 'clone', 'times', 'mul', '__mul__') -> Should be generalized as any kind of structure, but with this thing repeated on it. ; use traversal or ...  
-  #  # Performing a copy (realizing it) can be conceptualized as traversing the entire structure. (Where the 'entire structure' means the current instantiation of it - with many ignorances attached)  #  # - A problem with a copy, is that in or to be generalizable, it needs to alter all references to the thing it's copying to itself - this cannot be done with certainty.  #    - This copy does not do that. Instead, it is ignorant of other things referencing the thing it's copying.  # - Additionally, a copy necessarily has some non-redundancy to it:  #  # @see "A copy is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=If%20I%20have%20one%20thing%20and%20I%20make%20a%20perfect%20copy  @ray  
+  #  # Performing a copy (realizing it) can be conceptualized as traversing the entire structure. (Where the 'entire structure' means the current instantiation of it - with many ignorances attached)  #  # - A problem with a copy, is that in or to be generalizable, it needs to alter all references to the thing it's copying to itself - this cannot be done with certainty.  #    - This copy does not do that. Instead, it is ignorant of other things referencing the thing it's copying.  # - Additionally, a copy necessarily has some non-redundancy to it:  #  # @see "A copy is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=If%20I%20have%20one%20thing%20and%20I%20make%20a%20perfect%20copy    
   def size(self, b: Arbitrary) -> Ray:  
      # // or  
      #    // (self) => self.self.copy.reference()     #    (self) => none().self = self.self.copy()     #     #      // TODO Relies heavily on the execution layer to copy initial/terminal etc... ; and an is_orbit check before calling copy again. - Then again on the execution layer it can lazily do this copy (by not evaluating (i.e.) traversing everywhere), or it first does this traversing directly.  
@@ -224,70 +227,70 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
     = size  
   # duplicate = copy = clone = size.from_perspective_of  
   
-  @ray  
+    
   def xor(self) -> Ray: return (  
     -self.xnor  
   )  
   __xor__ \  
     = xor  
-  @ray # TODO: Could be 'is_equivalent' too? or is_orbit  
+   # TODO: Could be 'is_equivalent' too? or is_orbit  
   def xnor(self) -> Ray: return (  
     -self.xor  
   )  
-  @ray  
+    
   def nand(self) -> Ray: return (  
     -self._and  
   )  
-  @ray  
+    
   def nor(self): return (  
     -self._or  
   )  
-  @ray  
+    
   def _and(self) -> Ray: return (  
     -self.nand  
   )  
   __and__ = \  
     _and  
-  @ray  
+    
   def _or(self) -> Ray: return (  
     -self.nor  
   )  
   __or__ = \  
     _or  
   
-  @ray  
+    
   def add(self) -> Ray: return (  
     -self.sub  
   )  
   __add__ \  
     = add  
-  @ray  
+    
   def sub(self) -> Ray: return (  
     -self.add  
   )  
   __sub__ \  
     = sub  
   
-  @ray  
+    
   def radd(self) -> Ray: return -self.add.perspective  
-  @ray  
+    
   def pow(a, b: Arbitrary) -> Ray: raise NotImplementedError  
   __pow__ \  
     = pow  
-  @ray  
+    
   def div(a, b: Arbitrary) -> Ray: raise NotImplementedError  
   __truediv__ \  
     = div  
-  @ray  
+    
   def mod(a, b: Arbitrary) -> Ray: raise NotImplementedError  
   __mod__ \  
     = mod  
-  @ray  
+    
   def matmul(a, b: Arbitrary) -> Ray: raise NotImplementedError  
   __matmul__ \  
     = matmul  
   
-  @ray  
+    
   # @alias(f'push_{last.alias}')  
   def push_back(a, b: Arbitrary) -> Ray: return a.last().compose(b)  
   # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...  
@@ -314,11 +317,11 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def as_javascript() -> str: raise NotImplementedError  
   
   @staticmethod  
-  @ray  def runtimes() -> Ray: raise NotImplementedError  
+    def runtimes() -> Ray: raise NotImplementedError  
   
   # TODO: Any function calls which do not return or are convertable to ray, convert as an operator.  
   @staticmethod  
-  @ray  def compiler() -> Ray: raise NotImplementedError  
+    def compiler() -> Ray: raise NotImplementedError  
   
   def __get__(self, instance, owner) -> Ray:  
     print(f'{self.name}.__get__ {instance} {owner}')  
@@ -351,36 +354,36 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def __setitem__(self, key, value): raise NotImplementedError  
   def __pos__(self): raise NotImplementedError  
   
-  @ray  
+    
   def less_than(self) -> Ray: return (  
     -self.greater_than_or_equal_to  
   )  
   __lt__ \  
     = less_than  
-  @ray  
+    
   def greater_than_or_equal_to(self) -> Ray: return (  
     -self.less_than  
   )  
   __ge__ \  
     = greater_than_or_equal_to  
-  @ray  
+    
   def __gt__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-  @ray  
+    
   def __le__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
   
   #  
   # Opposite aliases  # TODO: Could just dynamically assign these - the case for any reversible thing (next/previous, initial/terminal ...) always: A.something and (-A).something  
   #  
   
-  @ray  
+    
   def has_previous(self) -> Ray: return (-self).has_next  
-  @ray  
+    
   def first(self) -> Ray: return (-self).last  
   beginning = front = min \  
     = first  
-  @ray  
+    
   def is_some(self) -> Ray: return (-self).is_none  
-  @ray  
+    
   # @alias(f'push_{first.alias}')  
   def push_front(self) -> Ray: return (-self).push_back  
   __rshift__ \  
@@ -410,9 +413,9 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   @staticmethod  
   def string(val: str) -> Ray: raise NotImplementedError  
   @staticmethod  
-  @ray  def false(): return Ray.boolean(False)  
+    def false(): return Ray.boolean(False)  
   @staticmethod  
-  @ray  def true(): return Ray.boolean(True)  
+    def true(): return Ray.boolean(True)  
   @staticmethod  
   def obj(val: object) -> Ray: raise NotImplementedError  
   @staticmethod  
@@ -435,7 +438,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   # TODO, writeonly would be?  
   
   # Any arbitrary direction, where reversing the direction relies on some arbitrary memory mechanism  
-  @ray  
+    
   def memoized(self) -> Ray:  
     # TODO: something along the lines of:  
     # res = self.next  
@@ -479,7 +482,7 @@ print('test')
   
 # Target first implementation  
   
-@Ray.function  
+.function  
 def test() -> Ray:  
   a = Ray.none; b = Ray.none  
   a, b = Ray.none * 2  
