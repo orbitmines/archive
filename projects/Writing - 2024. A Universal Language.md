@@ -15,9 +15,7 @@ Examples
 # TODO: That's basically the same connection of .next/.has_next/.last, .end/.boundary/.is_boundary/...  
   
 # TODO: Runtime with its read/writeonly, basically (non-/)availability of write operations. Where read operations are already also write operations from another perspective, just not the one accessible here.  
-  
-def ray(func: Callable[[Any, ...], Any]) -> Ray:  
-    pass
+
   
 class Ray2:  
   
@@ -475,8 +473,7 @@ print('----------------')
   
 Arbitrary = Union[int, Ray]  
   
-# if __name__ == "__main__":  
-#   pass
+
 ```
 
 ```ts
