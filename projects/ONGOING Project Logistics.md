@@ -30,11 +30,14 @@ TODO:
 - [ ] Chyp implementation release (few weeks from Jan 17) - clearly late, just mention [[Aleks Kissinger]] & others in the [[Writing - 2024. A Universal Language]] post.
 - [ ] Share with ZX-calculus community ; https://discord.com/channels/691634593195098122/889091902568280135/1191709081656905748
 	- [ ] ![[Pasted image 20240102132447.png]]
-
+- [ ] Include the journey of how certain references were found (; more detailed in wrapping-up)  - "More expressive references"
 
 ---
 
-Steam profile
+Game industry profiles setup
+- [ ] Steam profile, gameindustry dutch signup, steam, etc...
+
+- [ ] 
 
 
 ---
