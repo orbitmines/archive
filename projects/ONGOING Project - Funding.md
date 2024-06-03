@@ -11,7 +11,7 @@ Retry
 - [ ] https://www.sidnfonds.nl/
 Pending
 - [ ] https://openwebsearch.eu/community/3rdparty-calls/call2/
-- [ ] https://nlnet.nl/core/
+
 Done
 - [x] WBSO re-apply (2024 - Set base date from jan 1 - base hours on that)
 	- `.nl` WBSO 2024: Done for 1200 hours for [[Fadi Shawki]] - € 23.332 deduction
@@ -22,17 +22,6 @@ Read
 Possible
 - [ ] https://www.nwo.nl/en/calls/open-competition-domain-science-m-2023/2024
 - [ ] 
-
-Scaling?
-*I just need time to work on the ideas, there's not a lot other than a small compute station or involving other in costs for now, so these probably don't make much sense yet. Maybe would want to involve other people soon though.*
-- [ ] AI Grant https://aigrant.com/ , Batch 4 July 16th 2024, can already submit early
-- [ ] 
-	- [ ] https://www.ycombinator.com/apply
-	- [ ] [[AngelList]] / [[Crunchbase]]
-- [ ] https://www.delftenterprises.nl/portfolio/?filter_cat=fondsen#portfolioStart
-- [ ] might as well give it a try
-	- [ ] https://cordis.europa.eu/project/id/951821
-
 
 ---
 
@@ -83,6 +72,18 @@ Scaling?
 - [x] https://apply.opentech.fund/apply/submissions/16507/#submission-details
 	- Doesn't align with their objectives. (Weird? Probably didn't communicate that aspect properly - which by default the project enables as infrastructure for that which solves their problems.). Definitely didn't make that obvious.
 
+Dont need any of this
+Scaling?
+*I just need time to work on the ideas, there's not a lot other than a small compute station or involving other in costs for now, so these probably don't make much sense yet. Maybe would want to involve other people soon though.*
+- [ ] AI Grant https://aigrant.com/ , Batch 4 July 16th 2024, can already submit early
+- [ ] 
+	- [ ] https://www.ycombinator.com/apply
+	- [ ] [[AngelList]] / [[Crunchbase]]
+- [ ] https://www.delftenterprises.nl/portfolio/?filter_cat=fondsen#portfolioStart
+- [ ] might as well give it a try
+	- [ ] https://cordis.europa.eu/project/id/951821
+
+
 ##### Dead ones
 - [x] https://www.heliumgrant.org/
 - [x] https://5x5night.com/
@@ -90,7 +91,7 @@ Scaling?
 - [x] https://indie-fund.com/
 - [x] https://research.google/outreach/research-scholar-program/
 - [ ] 
-
+- [ ] https://nlnet.nl/core/ - sadface they're ghosting me
 
 #### Logistical remembered things
 
