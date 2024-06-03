@@ -64,6 +64,7 @@ aliases
 # .__iter__ @alias(as_iterator)
 # .boolean @alias(bit, two)
 # .reverse @alias(neg = __neg__ = __invert__ = opposite = _not = converse = negative = swap)
+# .self @alias(element = dereference = selected = selection = cursor = auto) # TODO: branch?
 
 reverse
 # TODO ; Could also be implemented as copy - hence the __call__ on Ray() - this is the case for any sort of constructor/type.
@@ -124,12 +125,9 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
   
   
-  # An arbitrary Ray, defining what our current position is equivalent to.  
-  # Moving to the intersecting Ray at `.self` - as a way of going an abstraction layer (lower), and asking what's inside.    
+
   def self(self) -> Ray: raise NotImplementedError  
-  element = dereference = selected = selection = cursor = auto \  
-    = self # TODO: = branch?  
-  
+
   # TODO: Like this, ignorant vs non-ignorant? What to do here?  
   #   return vertex  
   # TODO: These are very close to binary ops / makes sense since some/none is a boolean.  
@@ -492,6 +490,10 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 
 - [ ] ignorant referencing ray ; all these as ; 
 
+`.self`
+	  # An arbitrary Ray, defining what our current position is equivalent to.  
+	  # Moving to the intersecting Ray at `.self` - as a way of going an abstraction layer (lower), and asking what's inside.    
+`.reverse`
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
