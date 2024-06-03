@@ -35,6 +35,7 @@ aliases
 # .__sub__ @alias(sub)
 # .__pow__ @alias(pow)
 # .__trudiv__ @alias(div)
+# .__xor__ @alias(xor)
 ```
 
 add = and ... different perspective?
@@ -227,21 +228,9 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
     pass  
   # size = length = no params different behavior  
-  # resize = structure  mul = __mul__ = times \  
-    = size  
+  # resize = structure  mul = __mul__ = times
   # duplicate = copy = clone = size.from_perspective_of  
   
-    
-  def xor(self) -> Ray: return (  
-    -self.xnor  
-  )  
-  __xor__ \  
-    = xor  
-  
-  def xnor(self) -> Ray: return (  
-    -self.xor  
-  )  
-
     
   def radd(self) -> Ray: return -self.add.perspective 
     
