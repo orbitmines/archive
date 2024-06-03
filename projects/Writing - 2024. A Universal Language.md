@@ -37,8 +37,7 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().  
   # TODO: Leave behind --] [-- or connect them basically..  
 	@staticmethod  
-	# @alias('alloc', 'new', 'create', 'initialize')  
-	def none() -> Ray: return -Ray.some  
+	# .none @alias('alloc', 'new', 'create', 'initialize')  
 	@staticmethod  
 	# @alias('self_reference')  
 	def some() -> Ray: return -Ray.none
@@ -619,8 +618,9 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary, `.any` if looking for vertex.
 - `.all / .any` Difference in list of things parallel composed, or first ewuivalencinf them, then compose. Basically: compose on INITIAL vs - use .all func after separating from .any -. First calling equivalence on INITIAL (equivalence all in chain - separate in pairs, then equivalence - could be parallel) . Or basically this means sollidiving the selection. Then take that as a vertrx and compose with another  
+.reference
+	# @alias('pointer', 'cursor')
 Continuity
-
 - vertex->vertex from initial/terminal means no access in between.
 Traversing `.self` 
 - Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to parallize like the superposition of a larger structure, hence it breaks on the further away things on .self
