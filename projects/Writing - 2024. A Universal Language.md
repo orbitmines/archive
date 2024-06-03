@@ -323,17 +323,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def push_front(self) -> Ray: return (-self).push_back  
   __rshift__ \  
     = push_front  
-  
-  # Several ways of achieving these:  
-  #   -a.__add__.perspective(b)  #   Ray(b).__add__(a)  #   __add__ = -__add__.perspective (if python would allow for this)  #   ; TODO could be automatic  
-  def __radd__(a, b: Arbitrary) -> Ray: return Ray.arbitrary(b).__add__(a)  
-  def __rsub__(a, b: Arbitrary) -> Ray: return Ray.arbitrary(b).__sub__(a)  
-  def __rmul__(a, b: Arbitrary) -> Ray: return Ray.arbitrary(b).__mul__(a)  
-  def __rpow__(a, b: Arbitrary) -> Ray: return Ray.arbitrary(b).__pow__(a)  
-  def __rtruediv__(a, b: Arbitrary) -> Ray: return Ray.arbitrary(b).__truediv__(a)  
-  def __rmatmul__(a, b: Arbitrary) -> Ray: return Ray.arbitrary(b).__matmul__(a)  
-  def __rxor__(a, b: Arbitrary) -> Ray: return Ray.arbitrary(b).__xor__(a)  
-  def __rfloordiv__(a, b: Arbitrary) -> Ray: return Ray.arbitrary(b).__floordiv__(a)  
+
   
   #  
   # Python runtime converters  #  
