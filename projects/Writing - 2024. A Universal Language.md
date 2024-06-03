@@ -129,6 +129,7 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # Concretely, we use this as the thing which has power over the equivalence assumption we use to halt programs. - The asymmetry which allows the engine to make a distinction between each object.  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.  @ray  
   # @alias('is_none')  
   def is_orbit(a, b: Arbitrary) -> Ray: raise NotImplementedError
+  def is_orbit(self) -> Ray: raise NotImplementedError
   
   # a.___instance === b.___instance  
   __eq__ \  
