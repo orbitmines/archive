@@ -38,6 +38,8 @@ aliases
 # .__xor__ @alias(xor)
 # .__matmul__ @alias(matmul)
 # .__mod__ @alias(mod)
+# .__ge__ @alias(greater_than_or_equal_to)
+# .__lt__ @alias(less_than)
 
 size/add/pow... (basically copies/merges, different perspectives/context)
   # size = length = no params different behavior  
@@ -303,22 +305,10 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def __getitem__(self, item): raise NotImplementedError  
   def __setitem__(self, key, value): raise NotImplementedError  
   def __pos__(self): raise NotImplementedError  
-  
     
-  def less_than(self) -> Ray: return (  
-    -self.greater_than_or_equal_to  
-  )  
-  __lt__ \  
-    = less_than  
-    
-  def greater_than_or_equal_to(self) -> Ray: return (  
-    -self.less_than  
-  )  
-  __ge__ \  
-    = greater_than_or_equal_to  
-    
+  def __lt__(self) -> Ray: return ( -self.greater_than_or_equal_to )
+  def __ge__(self) -> Ray: return -self.less_than
   def __gt__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-    
   def __le__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
   
   #  
