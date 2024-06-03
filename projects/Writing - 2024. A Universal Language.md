@@ -27,21 +27,12 @@ So all self.initial -> (-self).terminal
   
 # TODO: Runtime with its read/writeonly, basically (non-/)availability of write operations. Where read operations are already also write operations from another perspective, just not the one accessible here.  
 
-  
-class Ray2:  
-  
-#   These basically fall under naming/grouping  
-#     @staticmethod: Implement a function from no (or: an ignorant) perspective.
-#     method(self): Implement a function from the perspective of 'this'  
-
-
 kwargs/args  # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.  
   
 
   # TODO: DEBUG/LISTENER/OBSERVER/WRAPPER IS A WRAPPER AROUND EVERY FIELD, callbacks. "Ignorant of how it effects, ..., doesn't effect the function."  
   
-  #  
-  # Basic Ray operators  #  
+  # 
   # TODO: set = none;  
   # TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().  
   # TODO: Leave behind --] [-- or connect them basically..  
@@ -783,6 +774,13 @@ Allows for a generalization of geodesic (partially)
 - Note that whenever you have a self-reference through operators, that requires an implementation to break this self-reference. For example ray functionality only requires initial + negative, or terminal + negative, or initial + terminal, to make all the other three.
 
 ##### On Naming, ..., Grouping
+
+```py
+# Python:  
+# - @staticmethod : Implements a function from no/ignorant perspective.  
+# - def method(self) : Implements a function from perspective of 'self'.
+```
+
 Difference in most concepts come from the context in which something applied, other than that most things have a very general pattern???
 - Most definitions and/or names of things assume some perspective. Make it hard to generalize.
 
