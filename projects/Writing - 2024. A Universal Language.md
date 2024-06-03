@@ -568,7 +568,8 @@ Leaves the following questions:
 empty on .self, vs .self ref vs ref, ; selection of two boundaries.
 
 
-##### Fuzzing / discovery
+##### Exploration and Discovery
+Fuzzing / discovery
 Partially, locally, ... (same as on orbits)
 
 (other ideas, examples: Post-Silicon Validation, ... ?)
