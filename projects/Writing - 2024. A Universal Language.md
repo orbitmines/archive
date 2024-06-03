@@ -443,11 +443,7 @@ Ideas like:
 	- Similar to things like references: In
 	- It doesn't matter that you want a particular way to deal with your conflict free stuff, the solution is not only to isolate an environment, but just to be able to deal or handle when it arises. ; better way of phrasing this? single sentence?
 	- It's not just about being able to work with unique data, but also about what you do when that's not available ; restate some things from [[Project - Research towards Designs (2024)]]
-	- 
 
-visualization
-- Small ring outline in continuation + vertex?
-- Intersection on screen been non-intersection in the structure, way of rendering it.
 
 process
 Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
@@ -739,6 +735,10 @@ persisting structures otherwise forgotten whose rediscoverability is not entirel
 
 
 #### Rendering engine
+visualization
+- Small ring outline in continuation + vertex?
+- Intersection on screen been non-intersection in the structure, way of rendering it.
+
 [[Project - Research towards Designs (2024)]]
 - Different OS & browsers - intercompile
 
