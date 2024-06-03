@@ -159,7 +159,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   end = result = back = output = max \  
     = last  
   
-  # @see "Continuations as Equivalence (can often be done in parallel - not generally)": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Constructing%20Continuations%20%2D%20Continuations%20as%20Equivalence  
+  
     
   def compose(a, b: Arbitrary) -> Ray: return a.terminal().equivalent(b.initial())  
   
@@ -637,6 +637,8 @@ Traversing `.self`
 `.is_orbit`
 	- TODO: Normal way of talking about a boolean, or probably any concept, is that this is always with .orbit on it. And without .orbit it's probably a weird case. We assume modularity of booleans.  
 	- .orbit by default, recursive?
+`.compose`
+	 - # @see "Continuations as Equivalence (can often be done in parallel - not generally)": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Constructing%20Continuations%20%2D%20Continuations%20as%20Equivalence  
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
