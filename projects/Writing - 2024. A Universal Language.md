@@ -18,6 +18,8 @@ Should be automatic:
 So all self.initial -> (-self).terminal
 # TODO is_initial = return (-self).terminal().is_none ??  
 
+(-self).a = self.b
+-(self.a) = self.b
 ```
 
 ```
