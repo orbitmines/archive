@@ -69,13 +69,7 @@ For [[ONGOING Project - Social - Livestreaming]]
 - [ ] Scheduled (discord events) interop
 - [ ] 
 
-Interfaces
-- Need a digital drawing pad, might as well explore other upcoming alternatives.
-
-- [ ] Aut
-
 ---
-
 
 ##### Attending  
 - [ ] Perhaps it's a good idea to combine a list of conferences which are happening to get a better view of that landscape. (or find someone else who has)  
