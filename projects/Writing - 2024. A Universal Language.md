@@ -489,8 +489,6 @@ setattr(ray, '__mul__', lambda self: self)
 #   pass  
   
 print('----------------')  
-# Ray.__add__ = -Ray.__sub__  
-# Ray.__sub__ = -Ray.__add__
   
 Arbitrary = Union[int, Ray]  
   
