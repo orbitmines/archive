@@ -20,6 +20,8 @@ Same argument different perspective different conclusion. (; also as an example 
 ##### Social - Linguistics
 Words are often mainly used without properly understanding the history of their use by others.
 
+- [ ] Newly devised term use a hyphen to indicate the words should merge. Generalized as?
+
 - [ ] Inventing some words?
 	- Words for:
 		-   "level of description/abstraction/more generalized scale invariance"? - Superposing languages/Formalism rosetta stone ([[Elena Isasi Theus]])
