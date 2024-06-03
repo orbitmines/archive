@@ -27,7 +27,9 @@ So all self.initial -> (-self).terminal
   
 (-self).a = self.b
 -(self.a) = self.b
-
+  
+# @staticmethod  
+# def ring() -> Ray: return Ray.none.orbit TODO, modulus by default ; 
 ```
 
 ```
@@ -193,7 +195,6 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
     
   def has_next(self) -> Ray: return self.next().is_some  
-    
   def last(self) -> Ray: raise NotImplementedError 
   
  def compose(a, b) -> Ray: return a.terminal().equivalent(b.initial())
