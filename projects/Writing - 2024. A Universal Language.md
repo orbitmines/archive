@@ -19,6 +19,15 @@ So all self.initial -> (-self).terminal
 
 ```
 
+```
+aliases
+# .none @alias('alloc', 'new', 'create', 'initialize')   
+# .some @alias('self_reference')  
+# .reference @alias('pointer', 'cursor')
+# .free @alias(  destroy = clear = delete = pop = prune \  
+    = free )
+```
+
 
 ```ts
   
@@ -36,16 +45,10 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # TODO: set = none;  
   # TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().  
   # TODO: Leave behind --] [-- or connect them basically..  
-	@staticmethod  
-	# .none @alias('alloc', 'new', 'create', 'initialize')  
-	@staticmethod  
-	# @alias('self_reference')  
-	def some() -> Ray: return -Ray.none
-  
+
   @ray  
   def free(self): raise NotImplementedError  
-  destroy = clear = delete = pop = prune \  
-    = free  
+ 
   
   # TODO: Like any method, .initial/.terminal could be seen as a particular section of .self, which .self itself ignores. - This should be generalizable to other things setup on .self.  
   
@@ -618,8 +621,6 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary, `.any` if looking for vertex.
 - `.all / .any` Difference in list of things parallel composed, or first ewuivalencinf them, then compose. Basically: compose on INITIAL vs - use .all func after separating from .any -. First calling equivalence on INITIAL (equivalence all in chain - separate in pairs, then equivalence - could be parallel) . Or basically this means sollidiving the selection. Then take that as a vertrx and compose with another  
-.reference
-	# @alias('pointer', 'cursor')
 Continuity
 - vertex->vertex from initial/terminal means no access in between.
 Traversing `.self` 
