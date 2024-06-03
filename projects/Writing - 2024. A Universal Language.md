@@ -40,6 +40,7 @@ aliases
 # .__mod__ @alias(mod)
 # .__ge__ @alias(greater_than_or_equal_to)
 # .__lt__ @alias(less_than)
+# .__str__ @alias(as_string)
 
 size/add/pow... (basically copies/merges, different perspectives/context)
   # size = length = no params different behavior  
@@ -286,8 +287,8 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
     __set__ # TODO: This thing I mentioned in my notes a while back is relevant to this: Assign in the sense of adding to existing equivalences: i.e. offering a specific implementation for a certain thing, vs the destroy of them and replacing it with something specific: i.e. removing all existing assigns and setting a single one.  
   def __delete__(self, instance) -> Ray: raise NotImplementedError  
   
-  # def __str__(self) -> str: return self.as_string()  
-  # def __repr__(self) -> str: raise NotImplementedError  # def __hash__(self) -> str: raise NotImplementedError  # def __bool__(self) -> bool: raise NotImplementedError  
+
+  # def __bool__(self) -> bool: raise NotImplementedError  
   # def __iadd__(a, b: Arbitrary) -> Ray: return a.assign(a.add(b))  # def __isub__(a, b: Arbitrary) -> Ray: return a.assign(a.sub(b))  # def __imul__(a, b: Arbitrary) -> Ray: return a.assign(a.mul(b))  # def __ipow__(a, b: Arbitrary) -> Ray: return a.assign(a.pow(b))  # def __itruediv__(a, b: Arbitrary) -> Ray: return a.assign(a.div(b))  # def __imatmul__(a, b: Arbitrary) -> Ray: return a.assign(a.matmul(b))  # def __ibor__(a, b: Arbitrary) -> Ray: return a.assign(a.bor(b))  
   #  TODO: Are these "GLOBAL" varibles from the perspective of the ignorant setup - or more accuarrately something which it could be made aware of.  
   # TODO: WHILE = WITH = SCOPE = CONTEXT = GLOBAL = //...  
