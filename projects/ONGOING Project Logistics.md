@@ -8,11 +8,11 @@ TODO:
 	- [ ] * Ref [4] is missing 
 	* Would be great if bibliography links had backlinks to the relevant part in the essay 
 	* Bibliography repeats twice for some reason
-- [ ] Better organizations
-	- [ ] orbitmines.com needs a refactor/reorganization, isolate functionlity, simply ..., at some point probably move away react as the default, just a similar setup for now.
+	- [ ] Fix the pdf render
+- [ ] Revamp `orbitmines.com` with OrbitMines infrastructure - make current website obsolete.
 - [ ] some realistic things to get working, just temp working things to be replaced with something better later
 - [ ] Automatically sync "GitHub issues", the archive repo & the discord posts.
-- [ ] Fix the pdf render
+
 - [ ] slight area around rendering collr for girhub ; light variant in github doesnt show the ray renderings nicely.
 
 ---
