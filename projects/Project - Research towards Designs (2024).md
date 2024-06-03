@@ -147,3 +147,60 @@ Games
 ---
 
 - [ ] Holotile floor, and things like it, more future-oriented search
+
+---
+
+ring expanding then collapsing to a point. OM logo in the middle? ; small key to explode to outside
+
+
+---
+
+rotate thr whole thing
+orbit local loop pull everything in
+
+---
+
+orbit matching whole thing or not, hence prine number maybe
+
+---
+
+going around the loop constantly ignoring dropping the one connection, unrolling the line on the loop, if both are a loop, could keep going / oscillate, or things like larger extent compare, or same frame cancel out when intersect  
+
+- [ ] If no additional structure is defined, collapse reducible states in between to ("forgotten", but so many steps, or something similar.), Then one may still to that if there are intermediate points for which something is defined, as define it somewhere else.
+
+Latch the initial, latch the .self, latch the .terminal, and we determine movement.
+
+
+
+Features
+- [ ] Take two or more poins, collapse them all to reference one thing?.  ; either that selection, or anything else found at that selection.
+- [ ] Pulsing out, one perspective can't access but another can
+
+Keyboard
+- [ ] Singlke keybind for now to show/hide the ray disambiguation or 'dead edges/..'/
+- [ ] Numbers on keyboard to length
+- [ ] Number + parallel compose
+
+---  
+
+Put the graphs setc at the top, invis lines, then draw them on hover, and maybe make surrounding stuff less visiable. ; context of how to apply somethig. ; minimap as ignorant ref
+
+- Import arbitrary structure (drag/copy/paste)
+- Control
+	- ignoring attachment of where came from, from which would follow the others as the same ignoring again the compariosn, collapsing the tei structures into each other ; ignoring the embedding. - Basically driving them to some "0 point"
+	- Expand/collapse/superpose arbitrarily.
+		- Can at each step choose which continuations to follow (`step`)
+	- Bind structures to controls ; copy/paste, this key does this
+	- Single key to show something for everything, ignored structure, could just me a simple program applied to the whole interface, show me all the 'orbits' on all the structure.
+		- Basically: use loop to create line, rolling the loop oit by introducing variance in the traversing direction  
+	- Some intuitive slider of some level of description over an existing interpretation to match it - quite dynamic
+	- Draw arbitrary continuation to another level of description, basically taking some structure, trying to hook it into another structure ; Say the 2d grid of the screen into the cells of the gpu or something etc..
+	- [ ] Which moves one can make depicted visually (<>, circular, etc..) 
+
+	- draw with mouse, multiple in a line
+	- Like a paintbrush slowly growing in certain directions having particular steuctures.
+
+- [ ] If you ahve to use mouse, force lock on the structure, close to the mouse?? ; Generalized to drawing in, but this is also a bit of a problem when generalized.
+
+Always, how detailed, how much context, how much can it latch on etc..
+- Drag from one point of contact on the background to another place
