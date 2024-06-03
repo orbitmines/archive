@@ -444,7 +444,6 @@ Ideas like:
 	- It doesn't matter that you want a particular way to deal with your conflict free stuff, the solution is not only to isolate an environment, but just to be able to deal or handle when it arises. ; better way of phrasing this? single sentence?
 	- It's not just about being able to work with unique data, but also about what you do when that's not available ; restate some things from [[Project - Research towards Designs (2024)]]
 	- 
-- "Can just draw a line (or any structure really) and say I want to regard that as the same, not obvious what would happen if you do that, but you can."
 
 visualization
 - Small ring outline in continuation + vertex?
