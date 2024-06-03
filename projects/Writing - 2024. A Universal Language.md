@@ -250,7 +250,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
 
   def push_back(a, b: Arbitrary) -> Ray: return a.last().compose(b)  
   # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...  
-  
+  ![[PXL_20240603_103223737.jpg]]
   #  
   # Python runtime conversions  # ; TODO: Could have enumerated possibilities, but just ignore that for now.  
   #  
