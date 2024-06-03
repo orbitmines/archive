@@ -45,6 +45,16 @@ def as_reference(self) -> Ray: return Ray.reference(self)
 def as_vertex(self) -> Ray: return Ray(initial=Ray.some, self=self, terminal=Ray.some)  
 def as_initial(self) -> Ray: return Ray(initial=Ray.none, self=self, terminal=Ray.some)  
 def as_terminal(self) -> Ray: return Ray(initial=Ray.some, self=self, terminal=Ray.none)
+
+autogen these
+  # def __iadd__(a, b: Arbitrary) -> Ray: return a.assign(a.add(b))  
+  # def __isub__(a, b: Arbitrary) -> Ray: return a.assign(a.sub(b)) 
+  # def __imul__(a, b: Arbitrary) -> Ray: return a.assign(a.mul(b))  
+  # def __ipow__(a, b: Arbitrary) -> Ray: return a.assign(a.pow(b))  
+  # def __itruediv__(a, b: Arbitrary) -> Ray: return a.assign(a.div(b)) 
+  # def __imatmul__(a, b: Arbitrary) -> Ray: return a.assign(a.matmul(b))
+  # def __ibor__(a, b: Arbitrary) -> Ray: return a.assign(a.bor(b))  
+  
 ```
 
 ```
