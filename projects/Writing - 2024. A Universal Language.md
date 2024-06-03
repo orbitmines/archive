@@ -9,6 +9,7 @@ Examples
 	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
 	- TODO: zip, tensor (are these the same as match/switch?)
 
+xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
 
 ---
 
@@ -29,6 +30,7 @@ aliases
 # .last @alias( end = result = back = output = max)
 # .orbit @alias(modular, modulus, circle, repeats, period, infinitely)
 # .__and__ @alias(_and)
+# .__or__ @alias(_or)
 ```
 
 
@@ -230,22 +232,16 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   )  
   __xor__ \  
     = xor  
-   # TODO: Could be 'is_equivalent' too? or is_orbit  
+  
   def xnor(self) -> Ray: return (  
     -self.xor  
   )  
-    
-  def nand(self) -> Ray: return (  
-    -self._and  
-  )  
 
-    
   def _or(self) -> Ray: return (  
     -self.nor  
   )  
   __or__ = \  
-    _or  
-  
+    _or
     
   def add(self) -> Ray: return (  
     -self.sub  
