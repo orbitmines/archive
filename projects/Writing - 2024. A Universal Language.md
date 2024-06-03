@@ -414,8 +414,7 @@ Unprocessed
 
 
 ###### A
-- [ ] Modelling unknown systems - possibly to in the future match em - or directly something possibly not understood
-	- [ ] Will have to kick in by having some way of realizing that externality - much more intuitive to phrase it this way, and see how it can be broken  
+- [ ]  
 	- [ ] Conjecture, 
 	  - Unknowns not yet verified with proposed consequences for either option?   
 	  - Expectations/claims based on incompleteness of some intermediary step.  
