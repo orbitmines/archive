@@ -408,15 +408,6 @@ Ray.compile(lambda ray: ray)
 ```
 
 
-```
-
-```
-
-start with one, find match, then match entire structure and revert if not. ; one way
-
-Header
-- [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
-
 Unprocessed
 - [ ] (SEMF) Discord messages / livestream transcript
 - [ ] Some of the notebooks from 2023
@@ -734,10 +725,17 @@ persisting structures otherwise forgotten whose rediscoverability is not entirel
 - Rewriting as placing the direction encoded as `.type` of initial/vertex headed to terminal. Where terminal is undecided (from the perspective of `.terminal`, can recursively be the case for any of these.) - So .initial is VERTEX, .self is TERMINAL, which means this .terminal returns ... (Basically abstraction layer fitting the structure - See [[2024-03-28]] note.)
 
 
+start with one, find match, then match entire structure and revert if not. ; one way
+
+
 #### Rendering engine
 visualization
 - Small ring outline in continuation + vertex?
 - Intersection on screen been non-intersection in the structure, way of rendering it.
+
+Header
+- [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
+
 
 [[Project - Research towards Designs (2024)]]
 - Different OS & browsers - intercompile
