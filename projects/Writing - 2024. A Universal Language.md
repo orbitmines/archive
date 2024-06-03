@@ -688,9 +688,6 @@ At every branch comtains the one added thing necessary for spliiting the vranch 
 Extremes as superposed pattern matcher. - use them for traversing until something hits it, otherwise we keep orbiting or traversing
 simultaneously the extreme and the boundary traversing?
 
-#### No memory
-The basic premise is this, there might be arbitrarily complex structure around me, but I need to start traversing to find out what it looks like. So the screen being a form of memory, and me 
-
 #### Equivalences
 - Global changes from local equivalences
 - Can just move the terminal which holds the pointer to the boundary
