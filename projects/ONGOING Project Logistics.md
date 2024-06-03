@@ -10,9 +10,7 @@ TODO:
 	* Bibliography repeats twice for some reason
 	- [ ] Fix the pdf render
 - [ ] Revamp `orbitmines.com` with OrbitMines infrastructure - make current website obsolete.
-- [ ] some realistic things to get working, just temp working things to be replaced with something better later
 - [ ] Automatically sync "GitHub issues", the archive repo & the discord posts.
-
 - [ ] slight area around rendering collr for girhub ; light variant in github doesnt show the ray renderings nicely.
 
 ---
