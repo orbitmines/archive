@@ -31,7 +31,7 @@ So all self.initial -> (-self).terminal
 class Ray2:  
   
 #   These basically fall under naming/grouping  
-#     @staticmethod: Implement a function from no (or: an ignorant) perspective.  
+#     @staticmethod: Implement a function from no (or: an ignorant) perspective.
 #     method(self): Implement a function from the perspective of 'this'  
 
 
