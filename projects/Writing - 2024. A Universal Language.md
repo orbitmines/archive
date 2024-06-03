@@ -44,6 +44,7 @@ aliases
 # .__lt__ @alias(less_than)
 # .__str__ @alias(as_string)
 # .push_front @alias(__rshift__)
+# .first @alias(beginning, front, min)
 
 size/add/pow... (basically copies/merges, different perspectives/context)
   # size = length = no params different behavior  
@@ -315,13 +316,9 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
     
   def has_previous(self) -> Ray: return (-self).has_next  
-    
-  def first(self) -> Ray: return (-self).last  
-  beginning = front = min \  
-    = first  
-    
+  def first(self) -> Ray: return (-self).last   
   def is_some(self) -> Ray: return (-self).is_none  
-    
+
   # @alias(f'push_{first.alias}')  
   def push_front(self) -> Ray: return (-self).push_back  
   __rshift__ \  
