@@ -597,7 +597,7 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 Compression
  curvature and noncompressability ; tweet ([[Jonathan Gorard]])
 
-- [ ] Compressing/minimizing ambiguity  (important: whilst ignoring as little as possible. - can loosen this in certain cases. In other cases there's nothin)
+- [ ] Compressing/minimizing ambiguity  (important: whilst ignoring as little as possible. - can loosen this in certain cases. In other cases there's nothing you want to ignore (except for the way of getting there perhaps))
 
 - [ ] Against forgetting/violation/inconsistencies
 	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.
