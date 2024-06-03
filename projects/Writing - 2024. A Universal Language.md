@@ -306,10 +306,6 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def __setitem__(self, key, value): raise NotImplementedError  
   def __pos__(self): raise NotImplementedError  
     
-  def __lt__(self) -> Ray: return (-self.greater_than_or_equal_to)
-  def __ge__(self) -> Ray: return -self.less_than
-  def __gt__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-  def __le__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
   
   #  
   # Opposite aliases  # TODO: Could just dynamically assign these - the case for any reversible thing (next/previous, initial/terminal ...) always: A.something and (-A).something  
