@@ -450,6 +450,7 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # By default a = -b is -b = a  
   # __set__(self, '')  
 
+  
 # a: Callable[[Ray], Ray] = lambda self: self.is_terminal  
 setattr(Ray, '__mul__', Ray.function('__mul__', Ray.size))  
   
