@@ -42,6 +42,7 @@ TODO:
 
 Game industry profiles setup
 - [ ] Steam profile, gameindustry dutch signup, steam, etc...
+	- [ ] Steam distro is 100 USD fee or something?
 
 - [ ] 
 
