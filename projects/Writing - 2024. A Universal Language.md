@@ -63,6 +63,10 @@ aliases
 # .__aiter__ @alias(as_async_iterator)
 # .__iter__ @alias(as_iterator)
 # .boolean @alias(bit, two)
+# .reverse @alias(neg = __neg__ = __invert__ = opposite = _not = converse = negative = swap)
+
+reverse
+# TODO ; Could also be implemented as copy - hence the __call__ on Ray() - this is the case for any sort of constructor/type.
 
 size/add/pow... (basically copies/merges, different perspectives/context)
   # size = length = no params different behavior  
@@ -119,12 +123,6 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # TODO: compile/map/cast/ ... probably fit in that separate category. Wrap to any object if translation exists (in python case inspect?). - Realize is probably similarly on another level of abstraction.  
   # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
   
-  # @see "Reversibility after ignoring some difference": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility  
-  # @see "More accurately phrased as the assumption of Reversibility: with the potential of being violated.": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Assumptions%20%26%20Assumption%20Violation    
-  def reverse(self) -> Ray:  
-    return Ray(initial=self.terminal, self=self.self, terminal=self.initial)  
-  neg = __neg__ = __invert__ = opposite = _not = converse = negative = swap \  
-    = reverse # TODO ; Could also be implemented as copy - hence the __call__ on Ray() - this is the case for any sort of constructor/type.  
   
   # An arbitrary Ray, defining what our current position is equivalent to.  
   # Moving to the intersecting Ray at `.self` - as a way of going an abstraction layer (lower), and asking what's inside.    
