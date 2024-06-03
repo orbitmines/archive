@@ -126,8 +126,6 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   
   
 
-  def self(self) -> Ray: raise NotImplementedError  
-
   # TODO: Like this, ignorant vs non-ignorant? What to do here?  
   #   return vertex  
   # TODO: These are very close to binary ops / makes sense since some/none is a boolean.  
@@ -494,6 +492,8 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 	  # An arbitrary Ray, defining what our current position is equivalent to.  
 	  # Moving to the intersecting Ray at `.self` - as a way of going an abstraction layer (lower), and asking what's inside.    
 `.reverse`
+		# @see "Reversibility after ignoring some difference": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility  
+		# @see "More accurately phrased as the assumption of Reversibility: with the potential of being violated.": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Assumptions%20%26%20Assumption%20Violation
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
