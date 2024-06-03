@@ -36,6 +36,8 @@ aliases
 # .__pow__ @alias(pow)
 # .__trudiv__ @alias(div)
 # .__xor__ @alias(xor)
+# .__matmul__ @alias(matmul)
+# .__mod__ @alias(mod)
 
 size/add/pow... (basically copies/merges, different perspectives/context)
   # size = length = no params different behavior  
@@ -233,18 +235,12 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
     pass  
   
-    
+
   def radd(self) -> Ray: return -self.add.perspective 
-    
+
   def mod(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-  __mod__ \  
-    = mod  
-    
   def matmul(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-  __matmul__ \  
-    = matmul  
   
-    
   # @alias(f'push_{last.alias}')  
   def push_back(a, b: Arbitrary) -> Ray: return a.last().compose(b)  
   # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...  
@@ -267,7 +263,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def as_int(self) -> int: raise NotImplementedError  
   def as_list(self) -> list: raise NotImplementedError  
   def as_tuple(self) -> tuple: raise NotImplementedError  
-  @staticmethod  
+  @staticmethod
   def as_javascript() -> str: raise NotImplementedError  
   
   @staticmethod  
@@ -296,8 +292,8 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def __enter__(self) -> Ray: raise NotImplementedError  
   def __exit__(self, exc_type, exc_val) -> Ray: raise NotImplementedError  
   async def __aenter__(self) -> Ray: raise NotImplementedError  
-  async def __aexit__(self, exc_type, exc_val) -> Ray: raise NotImplementedError  
-  
+  async def __aexit__(self, exc_type, exc_val) -> Ray: raise NotImplementedError 
+
   
   def __floordiv__(self, item): raise NotImplementedError  
   
