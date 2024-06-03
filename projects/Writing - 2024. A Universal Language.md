@@ -32,12 +32,6 @@ def ray(func: Callable[[Any, ...], Any]) -> Ray:
     pass
   
 class Ray2:  
-  def __getattr__(self, name: str) -> Any:  
-    print(f'__getattr__.{name}')  
-    pass  
-  def __setattr__(self, key, value) -> Any:  
-    print(f'__setattr__{key}={value}')  
-    pass  
   
 #   These basically fall under naming/grouping  
 #     @staticmethod: Implement a function from no (or: an ignorant) perspective.  
