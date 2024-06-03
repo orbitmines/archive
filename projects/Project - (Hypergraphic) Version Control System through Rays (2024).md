@@ -1,12 +1,7 @@
-*Researching (Hypergraphic) Version Control through arbitrary traversal of Rays*
-
----
-What to do with it
 
 - [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed and need human attentioin overarching features of some programming language (across some versions), and provide entry into what is not defined. (this a ref to the robert project)
-- [ ] History of rotations movements, replay at any accuracy  
-- [ ] Track program, ..., interface movements. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
-- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
+- [ ] Track program, rotation, ..., interface movements. Possibly replay at some accuracy. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
+	- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
 
 - [ ] [USENIX Enigma 2016 - Timeless Debugging](https://www.youtube.com/watch?v=eGl6kpSajag) ; *George Hotz*
 
