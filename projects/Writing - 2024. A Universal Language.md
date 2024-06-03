@@ -65,6 +65,8 @@ aliases
 # .boolean @alias(bit, two)
 # .reverse @alias(neg = __neg__ = __invert__ = opposite = _not = converse = negative = swap)
 # .self @alias(element = dereference = selected = selection = cursor = auto) # TODO: branch?
+# .terminal @alias(next = __call__ = __next__ = __anext__ = forward = step = apply = run = successor \  
+    = map = render = compile = realize = generate)
 
 reverse
 # TODO ; Could also be implemented as copy - hence the __call__ on Ray() - this is the case for any sort of constructor/type.
@@ -116,9 +118,6 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
       # or (self.initial.is_boundary and self.self.is_boundary) -> Best place for this? Steps to initial=self.self & self=self.self.terminal . But then a nice variant of this generalzied to each step type.  
       # TODO: If nothing works, probably like any function, that means .none: "Cannot determine what to do without context of where we are.", the thing that calls .terminal is the thing that needs to make sense of that?, Then it makes sense that a .reference calls into its .self, since it cannot find anything in its direction, it assumes it's at a boundary, and then starts traversing .self ; Needs generalization  
     )  
-  next = __call__ = __next__ = __anext__ = forward = step = apply = run = successor \  
-    = map = render = compile = realize = generate \  
-    = terminal  
 
   
 
@@ -485,10 +484,10 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 - [ ] ignorant referencing ray ; all these as ; 
 
 `.terminal`
-		  # TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?  
-  # Todo: slightly different perspectives in cases of map/render etc..., where certain aliases of these are expected not to have alternative behaviors based on binary/ternary calls to this... ; Basically; some of these aliases are probably more appropriate as separate perspectives.  
-  # TODO: compile/map/cast/ ... probably fit in that separate category. Wrap to any object if translation exists (in python case inspect?). - Realize is probably similarly on another level of abstraction.  
-  # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
+	# TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?  
+	  # Todo: slightly different perspectives in cases of map/render etc..., where certain aliases of these are expected not to have alternative behaviors based on binary/ternary calls to this... ; Basically; some of these aliases are probably more appropriate as separate perspectives.  
+	  # TODO: compile/map/cast/ ... probably fit in that separate category. Wrap to any object if translation exists (in python case inspect?). - Realize is probably similarly on another level of abstraction.  
+	  # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
   
 `.self`
 	  # An arbitrary Ray, defining what our current position is equivalent to.  
