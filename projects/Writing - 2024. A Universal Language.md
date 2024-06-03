@@ -185,10 +185,9 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
     return a # TODO ? 
   
-  # "Applying the same thing in a different context"  
-  # TODO: Somewhat related to Functors?  
+ 
   # TODO: .ref perspecctive: self.as_reference & self.dereference  
-    
+
   def from_perspective_of(a, b):  
     raise NotImplementedError  
     
@@ -600,7 +599,9 @@ visualization
 process
 Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
 
-
+ Perspective switching
+ -  "Applying the same thing in a different context"  
+ -  Somewhat related to Functors?  
 
 Reverse direction as teo points. Need a good intuition for this. Basically one of tep values selected and the switching of direction to the other way. Perhaps similarly a tep step modular structure of which you can see the intial/terminals being swapped. Is_equiv if can tell the difference and ignore, is_orbit if cannot  
 
