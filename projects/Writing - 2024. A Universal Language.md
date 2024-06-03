@@ -31,6 +31,8 @@ aliases
 # .orbit @alias(modular, modulus, circle, repeats, period, infinitely)
 # .__and__ @alias(_and)
 # .__or__ @alias(_or)
+# .__add__ @alias(add)
+# .__sub__ @alias(sub)
 ```
 
 
@@ -242,19 +244,6 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   )  
   __or__ = \  
     _or
-    
-  def add(self) -> Ray: return (  
-    -self.sub  
-  )  
-  __add__ \  
-    = add  
-    
-  def sub(self) -> Ray: return (  
-    -self.add  
-  )  
-  __sub__ \  
-    = sub  
-  
     
   def radd(self) -> Ray: return -self.add.perspective  
     
