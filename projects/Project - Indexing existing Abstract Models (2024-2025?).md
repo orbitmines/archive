@@ -1,1 +1,1 @@
-This project has been moved to a 
+This project has been moved to a separate repository: https://github.com/orbitmines/library
