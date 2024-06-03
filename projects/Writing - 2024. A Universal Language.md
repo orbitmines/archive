@@ -9,6 +9,17 @@ Examples
 	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
 	- TODO: zip, tensor (are these the same as match/switch?)
 
+
+---
+
+```ts
+Should be automatic:
+So all self.initial -> (-self).terminal
+# TODO is_initial = return (-self).terminal().is_none ??  
+
+```
+
+
 ```ts
   
 # TODO: .equivalent vs .is_equivalent ? (Could do: .equivalent. somethimg??) Basically the connection between .equivalent & .is_orbit  
@@ -128,13 +139,8 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   
   #  
   # Predefined functionality  #  
-  @ray  
-  
-  
-  @ray  
-  def is_terminal(self) -> Ray: return self.terminal().is_none                    # [?-|  ]  
-  @ray  
-  def is_vertex(self) -> Ray: return self.is_initial().nor(self.is_terminal())    # [--|--]  
+
+      # [--|--]  
   @ray  
   def is_reference(self) -> Ray: return self.is_initial() & self.is_terminal()    # [  |  ]  
   # TODO: reference = pointer ...  
