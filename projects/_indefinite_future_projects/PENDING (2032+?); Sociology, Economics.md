@@ -22,7 +22,9 @@ Words are often mainly used without properly understanding the history of their 
 
 - [ ] Inventing some words?
 	- Words for:
-		-   "level of description/abstraction/more generalized scale invariance"? - Superposing languages/
+		-   "level of description/abstraction/more generalized scale invariance"? - Superposing languages/Formalism rosetta stone ([[Elena Isasi Theus]])
+		- Better language for "dependent on"
+		- better variant of 
 
 	- [ ] Have some notes scattered through the archive looking for ords.
 	- [ ] Another missing English thing, "I find this for me" not generally, not expanding generally, merely that severely constrained something is believed to be the case

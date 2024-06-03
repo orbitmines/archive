@@ -13,9 +13,6 @@
   - [ ] (temporally) stable/coherence/consistent instead of balance/harmony as a word.
   - [ ] Avoid 'in fact'/'fact'
   - [ ] Complex/complicated? (Complex is fine?)
-  - [ ] Avoid 'dependent on' for '???'
-  - [ ] Avoid 'this paper' for 'this arc'
   - [ ] Phrase real/imaginary, theorem/non-theorem, generalized as multiple directionlities (products?) at some point.
-  - [ ] Avoid 'is' for 'seems'/'perceived to be'/...? - some icon to heighten uncertainty
   - [ ] Let's not use hardware/software distinction, merely use systems. Underlying system with properties arbitrarily unknown
     - [ ] Any similar distinctions I shouldn't be using, which aren't explicitly relative?
