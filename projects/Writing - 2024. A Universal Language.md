@@ -692,7 +692,6 @@ simultaneously the extreme and the boundary traversing?
 The basic premise is this, there might be arbitrarily complex structure around me, but I need to start traversing to find out what it looks like. So the screen being a form of memory, and me 
 
 #### Version control
-persisting structures otherwise forgotten whose rediscoverability is not entirely obvious. 
  "What if I did not know about something, nor could rely on these particular discoveries, how would and could I rediscover this something?"
 
 #### Equivalences
