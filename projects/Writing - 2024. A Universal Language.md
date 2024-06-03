@@ -135,14 +135,12 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # -__eq__ == __ne__  
   # @ray  # def __ne__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
   @ray # TODO  
-  def is_none(self) -> Ray: return self.is_orbit(self, self.self)  
   
   #  
   # Predefined functionality  #  
 
       # [--|--]  
-  @ray  
-  def is_reference(self) -> Ray: return self.is_initial() & self.is_terminal()    # [  |  ]  
+     # [  |  ]  
   # TODO: reference = pointer ...  
   # TODO: Reference maybe as an orbit at the point is the thing ignorant  
   #     TODO: This is basically saying "reference as a constant"  
