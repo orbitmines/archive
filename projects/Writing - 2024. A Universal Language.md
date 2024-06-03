@@ -36,15 +36,12 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # TODO: set = none;  
   # TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().  
   # TODO: Leave behind --] [-- or connect them basically..  
-  @staticmethod  
-  @ray  def none() -> Ray: return -Ray.some  
-  alloc = new = create = initialize \  
-    = none  
-  
-  @staticmethod  
-  @ray  def some() -> Ray: return -Ray.none  
-  self_reference \  
-    = some  
+	@staticmethod  
+	# @alias('alloc', 'new', 'create', 'initialize')  
+	def none() -> Ray: return -Ray.some  
+	@staticmethod  
+	# @alias('self_reference')  
+	def some() -> Ray: return -Ray.none
   
   @ray  
   def free(self): raise NotImplementedError  
