@@ -22,6 +22,18 @@ TODO:
 
 ---
 
+### Publicly promised future inquiries  
+- [ ] Setup archival [[OrbitMines#Minecraft (2013-2019)]] ; notify community & @Lylum2 / wes on twitter & old orbitmines community.  
+  - [ ] Open old source codes in all their glory.  
+- [ ] expand on idea of sharing found info
+- [ ] Translate to usual way of thinking about hypergraphs (thought about this in a response to [[James Kallan Wiles]]) ; (https://community.wolfram.com/groups/-/m/t/3065902 ; example, non-general)
+- [ ] Chyp implementation release (few weeks from Jan 17) - clearly late, just mention [[Aleks Kissinger]] & others in the [[Writing - 2024. A Universal Language]] post.
+- [ ] Share with ZX-calculus community ; https://discord.com/channels/691634593195098122/889091902568280135/1191709081656905748
+	- [ ] ![[Pasted image 20240102132447.png]]
+
+
+---
+
 Steam profile
 
 
