@@ -24,7 +24,8 @@ Words are often mainly used without properly understanding the history of their 
 	- Words for:
 		-   "level of description/abstraction/more generalized scale invariance"? - Superposing languages/Formalism rosetta stone ([[Elena Isasi Theus]])
 		- Better language for "dependent on"
-		- better variant of 
+		- better variant of "in fact", "nature of", ...
+		- excessive use of quotes by famous people, ..., common phrases
 
 	- [ ] Have some notes scattered through the archive looking for ords.
 	- [ ] Another missing English thing, "I find this for me" not generally, not expanding generally, merely that severely constrained something is believed to be the case
