@@ -67,6 +67,7 @@ aliases
 # .self @alias(element = dereference = selected = selection = cursor = auto) # TODO: branch?
 # .terminal @alias(next = __call__ = __next__ = __anext__ = forward = step = apply = run = successor \  
     = map = render = compile = realize = generate)
+# .initial @alias(previous = backward = decompile = predecessor)
 
 reverse
 # TODO ; Could also be implemented as copy - hence the __call__ on Ray() - this is the case for any sort of constructor/type.
@@ -99,18 +100,9 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   # TODO: Leave behind --] [-- or connect them basically..  
 
     
-  def free(self): raise NotImplementedError  
- 
   
   # TODO: Like any method, .initial/.terminal could be seen as a particular section of .self, which .self itself ignores. - This should be generalizable to other things setup on .self.  
   
-  # An arbitrary Ray, defining what continuing in the reverse of this direction is equivalent to.  
-    
-  def initial(self) -> Ray: return (-self).terminal  
-  previous = backward = decompile = predecessor \  
-    = initial  
-  # An arbitrary Ray, defining what continuing in this direction is equivalent to.  
-    
   def terminal(self, *args, **kwargs) -> Ray:  
     print(f'{self.name}.__call__ {args} {kwargs}')  
     return (  
