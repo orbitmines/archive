@@ -13,12 +13,7 @@ Pending
 - [ ] https://openwebsearch.eu/community/3rdparty-calls/call2/
 
 Done
-- [x] WBSO re-apply (2024 - Set base date from jan 1 - base hours on that)
-	- `.nl` WBSO 2024: Done for 1200 hours for [[Fadi Shawki]] - € 23.332 deduction
-- [x] https://github.com/nayafia/microgrants
-- [x] https://github.com/ralphtheninja/open-funding
-Read
-- [ ] https://github.com/nayafia/lemonade-stand
+- `.nl` WBSO 2024: Done for 1200 hours for [[Fadi Shawki]] - € 23.332 deduction
 Possible
 - [ ] https://www.nwo.nl/en/calls/open-competition-domain-science-m-2023/2024
 - [ ] 
@@ -47,7 +42,7 @@ Possible
 
 ---
 
-#### Useless
+# Useless
 
 ##### Longshots - only if it's clear I have something
 *Long shots like this should more be like additional ways of acquiring funding along the line, those which align with the things I'm already doing. Not focus on this stuff directly. Basically, they should mostly be the small work of converting the ideas to understandable format to attack those problems, not solely focus on them.*
@@ -92,6 +87,11 @@ Scaling?
 - [x] https://research.google/outreach/research-scholar-program/
 - [ ] 
 - [ ] https://nlnet.nl/core/ - sadface they're ghosting me
+- [x] WBSO re-apply (2024 - Set base date from jan 1 - base hours on that)
+- [x] https://github.com/nayafia/microgrants
+- [x] https://github.com/ralphtheninja/open-funding
+- [ ] https://github.com/nayafia/lemonade-stand
+
 
 #### Logistical remembered things
 

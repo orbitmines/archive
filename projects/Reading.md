@@ -40,3 +40,4 @@
 - [ ] Browser
 	- [ ] https://arc.net/
 	- [ ] 
+- [ ] Google chrome reading list
