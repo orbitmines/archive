@@ -23,6 +23,3 @@
   - [ ] Don't use 'unknowable extremes'/'boundedness', too vague, need better phrasing for these ideas which lessen misinterpretation?
 - [ ] Relativistic explicitness. Be aware of how different fields use similar words to mean completely different things. - Actually spend some time to understand this - So we prevent the issue of repulsion on the confusion with a concept like frontend/backend in usual developer space, business space, ..., compiler space.
 - [ ] More actively highlight by dissatisfaction with certain kind of phrasings/namings of things?
-- [ ] Inventing some words?
-	- [ ] Another missing English thing, "I find this for me" not generally, not expanding generally, merely that severely constrained something is believed to be the case
-	      - [ ] Why is something done? Do the rules in place even reflect that? (understanding/understanding)
