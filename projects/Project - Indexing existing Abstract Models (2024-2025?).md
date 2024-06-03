@@ -148,7 +148,11 @@ Comments on [[2024-02-22]]
 - [ ] https://openprocessing.org/
 - [ ] https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
 - [ ] https://gamemaker.io/en
-- [ ] 
+
+
+##### Version Control, dependency management, concurrency, causal histories
+- [Confluence](https://en.wikipedia.org/wiki/Confluence_(abstract_rewriting)), [Convergence](https://en.wikipedia.org/wiki/Convergence_(logic)), [Commutes](https://en.wikipedia.org/wiki/Commutative_property),  [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) ([CRDTs go brrr (2021)](https://josephg.com/blog/crdts-go-brrr/), [CRDTs: The Hard Parts (2020)](https://www.youtube.com/watch?v=x7drE24geUw)), [Concurrency control](https://en.wikipedia.org/wiki/Concurrency_control), [Riak](https://riak.com/) ([Riak Core - An Erlang Distributed Systems Toolkit (2011)](https://vimeo.com/21772889), [Riak & Dynamo, Five Years Later Presented (2013)](https://www.youtube.com/watch?v=AxG9DROsnqg))
+- Some others [RxDB](https://rxdb.info/), [ShareJS](https://github.com/share), [ottypes](https://github.com/ottypes), [Operational transformation](https://en.wikipedia.org/wiki/Operational_transformation), [IPFS](https://ipfs.tech/), [IPLD](https://ipld.io/), [OrbitDB](https://github.com/orbitdb/orbitdb), [Git](https://en.wikipedia.org/wiki/Git), [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree), [Vector Clock](https://en.wikipedia.org/wiki/Vector_clock), Plausible Clock, Chain Clock, Interval Tree Clock, Bloom Clock, [Matrix clock](https://en.wikipedia.org/wiki/Matrix_clock), 
 
 ### Some other ways of possibly extending this list (non-completed tangents):
 
