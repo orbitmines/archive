@@ -45,6 +45,7 @@ Comments on [[2024-02-22]]
 		- [ ] Apply this question again by loosely changing constraints?
 	- [ ] What mistake in indexing multiple levels of descriptions ; Non-overlap, points resulting in confusion etc..
 	- [ ] Realized invariances/.../redundancies of particular layers.
+	- [ ] Part of this becomes how do certain fields/perspectives/projects have a view on other projects (partly [[PENDING (2032+?); Sociology, Economics]]). A simple example is confusion between programming fields in 
 
 ---
 

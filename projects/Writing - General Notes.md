@@ -22,4 +22,3 @@
   - [ ] Should avoid "level of description/abstraction"? for "??"
   - [ ] Don't use 'unknowable extremes'/'boundedness', too vague, need better phrasing for these ideas which lessen misinterpretation?
 - [ ] Relativistic explicitness. Be aware of how different fields use similar words to mean completely different things. - Actually spend some time to understand this - So we prevent the issue of repulsion on the confusion with a concept like frontend/backend in usual developer space, business space, ..., compiler space.
-- [ ] More actively highlight by dissatisfaction with certain kind of phrasings/namings of things?
