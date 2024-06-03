@@ -33,8 +33,11 @@ aliases
 # .__or__ @alias(_or)
 # .__add__ @alias(add)
 # .__sub__ @alias(sub)
+# .__pow__ @alias(pow)
+# .__trudiv__ @alias(div)
 ```
 
+add = and ... different perspective?
 
 ```ts
   
@@ -239,21 +242,8 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
     -self.xor  
   )  
 
-  def _or(self) -> Ray: return (  
-    -self.nor  
-  )  
-  __or__ = \  
-    _or
     
-  def radd(self) -> Ray: return -self.add.perspective  
-    
-  def pow(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-  __pow__ \  
-    = pow  
-    
-  def div(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-  __truediv__ \  
-    = div  
+  def radd(self) -> Ray: return -self.add.perspective 
     
   def mod(a, b: Arbitrary) -> Ray: raise NotImplementedError  
   __mod__ \  
