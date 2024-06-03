@@ -1,9 +1,5 @@
 
 - [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed and need human attentioin overarching features of some programming language (across some versions), and provide entry into what is not defined. (this a ref to the robert project)
-- [ ] Track program, rotation, ..., interface movements. Possibly replay at some accuracy. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
-	- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
-
-- [ ] [USENIX Enigma 2016 - Timeless Debugging](https://www.youtube.com/watch?v=eGl6kpSajag) ; *George Hotz*
 
 - [ ] How to separate one's personal work, how to combine them, merge them, view them from the outside.
 - [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..

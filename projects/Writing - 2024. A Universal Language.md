@@ -712,6 +712,8 @@ simultaneously the extreme and the boundary traversing?
 
 start with one, find match, then match entire structure and revert if not. ; one way
 
+#### Version Control
+
 
 #### Rendering engine
 visualization
@@ -721,6 +723,8 @@ visualization
 Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
+- [ ] Track program, rotation, ..., interface movements. Possibly replay at some accuracy. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
+	- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
 
 [[Project - Research towards Designs (2024)]]
 - Different OS & browsers - intercompile
