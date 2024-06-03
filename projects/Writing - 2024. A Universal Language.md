@@ -431,9 +431,8 @@ Ideas like:
 ---
 
 - The problem is not .. it's missing tools to think across fields. 
-	- Similar to things like references: In
 	- It doesn't matter that you want a particular way to deal with your conflict free stuff, the solution is not only to isolate an environment, but just to be able to deal or handle when it arises. ; better way of phrasing this? single sentence?
-	- It's not just about being able to work with unique data, but also about what you do when that's not available ; restate some things from [[Project - Research towards Designs (2024)]]
+	- What do you do when the information you want is not available?
 
 
 process
