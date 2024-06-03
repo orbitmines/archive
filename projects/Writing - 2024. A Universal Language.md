@@ -271,11 +271,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
 
   #  TODO: Are these "GLOBAL" varibles from the perspective of the ignorant setup - or more accuarrately something which it could be made aware of.  
   # TODO: WHILE = WITH = SCOPE = CONTEXT = GLOBAL = //...  
-  def __enter__(self) -> Ray: raise NotImplementedError  
-  def __exit__(self, exc_type, exc_val) -> Ray: raise NotImplementedError  
-  async def __aenter__(self) -> Ray: raise NotImplementedError  
-  async def __aexit__(self, exc_type, exc_val) -> Ray: raise NotImplementedError 
-
+enter/exit
   
   #  
   # Python runtime converters  #  
