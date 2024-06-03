@@ -386,21 +386,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   # return await func(self, *args, **kwargs)  # TODO: Binary on self is (a, a) like is_orbit(a, a) ?  
   
   # By default a = -b is -b = a  
-  # __set__(self, '')  
-
-  
-# a: Callable[[Ray], Ray] = lambda self: self.is_terminal  
-
-print('----------------')  
-ray = Ray2()  
-
-ray.__mul__ = 'test'  
-setattr(ray, '__mul__', lambda self: self)  
-  
-# class Ray3(ray):  
-#   mul = times = size \  
-#     = ray__mul__  
-#   pass  
+  # __set__(self, '') 
 
   
 Arbitrary = Union[int, Ray]  
