@@ -24,8 +24,7 @@ aliases
 # .none @alias('alloc', 'new', 'create', 'initialize')   
 # .some @alias('self_reference')  
 # .reference @alias('pointer', 'cursor')
-# .free @alias(  destroy = clear = delete = pop = prune \  
-    = free )
+# .free @alias(destroy = clear = delete = pop = prune)
 ```
 
 
