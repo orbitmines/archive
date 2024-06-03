@@ -2,8 +2,6 @@
 - [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed and need human attentioin overarching features of some programming language (across some versions), and provide entry into what is not defined. (this a ref to the robert project)
 
 - [ ] How to separate one's personal work, how to combine them, merge them, view them from the outside.
-- [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
-	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
 ---
 

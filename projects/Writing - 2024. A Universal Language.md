@@ -571,6 +571,12 @@ empty on .self, vs .self ref vs ref, ; selection of two boundaries.
 
 
 ##### Exploration and Discovery
+reverse engineering, debugging, checking for consistency, validation, fidelity
+
+- [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
+	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
+
+
 Fuzzing / discovery
 Partially, locally, ... (same as on orbits)
 
