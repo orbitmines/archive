@@ -29,7 +29,7 @@ from typing import Iterator, AsyncIterator, Union, Callable, Any, Iterable, Asyn
 # TODO: Runtime with its read/writeonly, basically (non-/)availability of write operations. Where read operations are already also write operations from another perspective, just not the one accessible here.  
   
 def ray(func: Callable[[Any, ...], Any]) -> Ray:  
-    pass  
+    pass
   
 class Ray2:  
   def __getattr__(self, name: str) -> Any:  
@@ -42,12 +42,11 @@ class Ray2:
 #   These basically fall under naming/grouping  
 #     @staticmethod: Implement a function from no (or: an ignorant) perspective.  
 #     method(self): Implement a function from the perspective of 'this'  
-class Ray:  
+
+
+kwargs/args  # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.  
   
-      # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.  
-  
-      pass  
-  
+
   # TODO: DEBUG/LISTENER/OBSERVER/WRAPPER IS A WRAPPER AROUND EVERY FIELD, callbacks. "Ignorant of how it effects, ..., doesn't effect the function."  
   
   #  
