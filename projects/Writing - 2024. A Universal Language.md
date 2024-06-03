@@ -421,6 +421,7 @@ Unprocessed
 	  - Expectations/claims based on incompleteness of some intermediary step.  
 	  - Also without expectation but simply an unsolved unknown.
 - Other way around: determining that something outside the context is looking inside the context
+- What do you do when the information you want is not available?
 
 Ideas like:
 - [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
@@ -430,9 +431,7 @@ Ideas like:
 
 ---
 
-- The problem is not .. it's missing tools to think across fields. 
-	- It doesn't matter that you want a particular way to deal with your conflict free stuff, the solution is not only to isolate an environment, but just to be able to deal or handle when it arises. ; better way of phrasing this? single sentence?
-	- What do you do when the information you want is not available?
+ It doesn't matter that you want a particular way to deal with your conflict free stuff, the solution is not only to isolate an environment, but just to be able to deal or handle when it arises. ; better way of phrasing this? single sentence?
 
 
 process
