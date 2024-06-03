@@ -37,15 +37,9 @@
 
 ---
 
-[SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
-
-
----
-
 
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
-- [ ] Compressing/minimizing ambiguity
 
 Possible rephrasing as best entropy/kolgomorovcomplexity, in finding a structure which expresses 'perfect use' of (probabalistic) space, by a symmetry between symbol frequency and number of symbols. 

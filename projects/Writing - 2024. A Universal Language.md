@@ -597,6 +597,8 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 Compression
  curvature and noncompressability ; tweet ([[Jonathan Gorard]])
 
+- [ ] Compressing/minimizing ambiguity  (important: whilst ignoring as little as possible. - can loosen this in certain cases. In other cases there's nothin)
+
 - [ ] Against forgetting/violation/inconsistencies
 	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.
 	- [ ] It's crossing some directionality and finding one cannot return back? (That would imply next time step or something - any inconsistency possibly 
