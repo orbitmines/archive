@@ -52,9 +52,11 @@ aliases
 # .__lt__ @alias(less_than)
 # .__str__ @alias(as_string)
 # .push_front @alias(__rshift__)
+# .push_back @alias(__lshift__)
 # .first @alias(beginning, front, min)
 # .__aiter__ @alias(as_async_iterator)
 # .__iter__ @alias(as_iterator)
+# .bo
 
 size/add/pow... (basically copies/merges, different perspectives/context)
   # size = length = no params different behavior  
@@ -255,14 +257,8 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
 
   def radd(self) -> Ray: return -self.add.perspective 
 
-  def mod(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-  def matmul(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-  
-  # @alias(f'push_{last.alias}')  
   def push_back(a, b: Arbitrary) -> Ray: return a.last().compose(b)  
   # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...  
-  __lshift__ \  
-    = push_back  
   
   #  
   # Python runtime conversions  # ; TODO: Could have enumerated possibilities, but just ignore that for now.  
