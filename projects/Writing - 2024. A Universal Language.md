@@ -303,9 +303,7 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   def as_async_iterator(self) -> AsyncIterator[Ray]: return self  
   __aiter__ \  
     = as_async_iterator  
-  
-  def as_iterable(self) -> Iterable[Ray]: return self  
-  def as_async_iterable(self) -> AsyncIterable[Ray]: return self  
+   
   def as_string(self) -> str: raise NotImplementedError  
   def as_int(self) -> int: raise NotImplementedError  
   def as_list(self) -> list: raise NotImplementedError  
