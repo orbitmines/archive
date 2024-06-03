@@ -50,6 +50,8 @@ aliases
 # .__str__ @alias(as_string)
 # .push_front @alias(__rshift__)
 # .first @alias(beginning, front, min)
+# .__aiter__ @alias(as_async_iterator)
+# .__iter__ @alias(as_iterator)
 
 size/add/pow... (basically copies/merges, different perspectives/context)
   # size = length = no params different behavior  
@@ -265,16 +267,8 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
   # TODO: similar to next/anext, these might collapse if there's a python awaitable operator...  
   def as_iterator(self) -> Iterator[Ray]: return self  
-  __iter__ \  
-    = as_iterator  
   def as_async_iterator(self) -> AsyncIterator[Ray]: return self  
-  __aiter__ \  
-    = as_async_iterator  
-   
-  def as_string(self) -> str: raise NotImplementedError  
-  def as_int(self) -> int: raise NotImplementedError  
-  def as_list(self) -> list: raise NotImplementedError  
-  def as_tuple(self) -> tuple: raise NotImplementedError  
+
   @staticmethod
   def as_javascript() -> str: raise NotImplementedError  
   
