@@ -43,7 +43,7 @@ class Ray2:
 #     @staticmethod: Implement a function from no (or: an ignorant) perspective.  
 #     method(self): Implement a function from the perspective of 'this'  
 class Ray:  
-  def __init__(self, *args, **kwargs):  
+  
       # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.  
   
       pass  
