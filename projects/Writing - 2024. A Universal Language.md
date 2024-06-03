@@ -28,7 +28,7 @@ aliases
 # .compose @alias(continues_with, merge)
 # .last @alias( end = result = back = output = max)
 # .orbit @alias(modular, modulus, circle, repeats, period, infinitely)
-# .
+# .__and__ @alias(_and)
 ```
 
 
@@ -238,16 +238,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def nand(self) -> Ray: return (  
     -self._and  
   )  
-    
-  def nor(self): return (  
-    -self._or  
-  )  
-    
-  def _and(self) -> Ray: return (  
-    -self.nand  
-  )  
-  __and__ = \  
-    _and  
+
     
   def _or(self) -> Ray: return (  
     -self.nor  
