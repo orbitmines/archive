@@ -41,6 +41,7 @@ aliases
 # .__ge__ @alias(greater_than_or_equal_to)
 # .__lt__ @alias(less_than)
 # .__str__ @alias(as_string)
+# .push_front @alias(__rshift__)
 
 size/add/pow... (basically copies/merges, different perspectives/context)
   # size = length = no params different behavior  
