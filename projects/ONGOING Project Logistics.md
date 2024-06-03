@@ -43,6 +43,7 @@ Game industry profiles setup
 ---
 
 - [ ] [[X, Twitter]]
+- [ ] https://scholar.google.com/citations?view_op=new_profile&hl=en  ; scholar profile if google indexes my face
 - [ ] Automatically log conversations with people into some structure here. (from certain platforms?)
 
 https://github.com/mattermost/mattermost
