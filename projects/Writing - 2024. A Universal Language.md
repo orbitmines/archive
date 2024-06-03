@@ -290,10 +290,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def boolean(val: bool) -> Ray: raise NotImplementedError  
   @staticmethod  
   def string(val: str) -> Ray: raise NotImplementedError  
-  @staticmethod  
-    def false(): return Ray.boolean(False)  
-  @staticmethod  
-    def true(): return Ray.boolean(True)  
+
   @staticmethod  
   def obj(val: object) -> Ray: raise NotImplementedError  
   @staticmethod  
@@ -324,13 +321,6 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   # TODO = cached  
   # TODO: Better ideas what local caching looks like, (i.e. put it in some local structure to cache, this can be delayed till some useful implementation is ready)  
   
-  # print(f'{type(func)}')  
-  # def method(*args, **kwargs) -> Ray:  #   return Ray()  
-  # return await func(self, *args, **kwargs)  # TODO: Binary on self is (a, a) like is_orbit(a, a) ?  
-  
-  # By default a = -b is -b = a  
-  # __set__(self, '') 
-
   
 Arbitrary = Union[int, Ray]  
   
