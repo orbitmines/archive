@@ -129,8 +129,8 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   #  
   # Predefined functionality  #  
   @ray  
-  # TODO is_initial = return (-self).terminal().is_none ??  
-  def is_initial(self) -> Ray: return self.initial().is_none  
+  
+  
   @ray  
   def is_terminal(self) -> Ray: return self.terminal().is_none                    # [?-|  ]  
   @ray  
