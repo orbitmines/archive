@@ -11,6 +11,9 @@ Examples
 
 xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
 
+  # TODO: similar to next/anext, these might collapse if there's a python awaitable operator...  
+  as_ityerator
+  
 ---
 
 ```ts
@@ -265,9 +268,6 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   # Python runtime conversions  # ; TODO: Could have enumerated possibilities, but just ignore that for now.  
   #  
   
-  # TODO: similar to next/anext, these might collapse if there's a python awaitable operator...  
-  def as_iterator(self) -> Iterator[Ray]: return self  
-  def as_async_iterator(self) -> AsyncIterator[Ray]: return self  
 
   @staticmethod
   def as_javascript() -> str: raise NotImplementedError  
