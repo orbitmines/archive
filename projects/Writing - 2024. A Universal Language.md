@@ -183,9 +183,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
     b.last().compose(a.first())  
     a.first().compose(b.last())  
   
-    return a # TODO ?  
-  circle = repeats = period = infinitely \  
-    = orbit  
+    return a # TODO ? 
   
   # "Applying the same thing in a different context"  
   # TODO: Somewhat related to Functors?  
