@@ -178,9 +178,7 @@ def some() -> Ray: return -Ray.none
 def is_orbit(self) -> Ray: raise NotImplementedError  
 def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   
-  # -__eq__ == __ne__  
-  #   # def __ne__(a, b: Arbitrary) -> Ray: raise NotImplementedError  
-   # TODO  
+
   
   #  
   # Predefined functionality  #  
