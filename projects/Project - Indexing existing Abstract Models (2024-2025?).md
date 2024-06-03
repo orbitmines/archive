@@ -78,7 +78,7 @@ Comments on [[2024-02-22]]
 - https://en.wikipedia.org/wiki/Bondi_k-calculus
 - zxlive, [Semagrams.jl](https://github.com/AlgebraicJulia/Semagrams.jl ), 
 - CSS, JavaScript, TypeScript, React (& ecosystem of these things ; React Native), HTML, Bun, Node.js, ...
-- Character encodings, renderings, groupings, UTF-8
+- Character encodings, renderings, groupings, UTF-8, https://typedrawers.com/, tyopgraphy, 
 - [Andromeda](https://github.com/Andromedans/andromeda), Apache TVM, Controlled Natural Language (CNL), Formalisation of Constructive Univalent Type Theory (ForCUTT), [Foundations of Mathematics (FOM)](https://ncatlab.org/nlab/show/foundation+of+mathematics), [Virgil](https://github.com/titzer/virgil/), https://github.com/TodePond/DreamBerd, 
 - [staq](https://github.com/softwareQinc/staq), 
 - https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
@@ -133,6 +133,7 @@ Comments on [[2024-02-22]]
 - [ ] https://github.com/fargolo/TextGraphs.jl
 - [ ] https://gist.github.com/futureengine2/7c8fbc6fefce1818ff1edcd4d7e7bfcf
 - [ ] https://github.com/OrionReed/dom3d
+- [ ] https://palet.app/
 - [ ] 
 
 - [ ] http://elseheartbreak.com/

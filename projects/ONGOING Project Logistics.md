@@ -11,6 +11,11 @@ TODO:
 - [ ] Fix the pdf render
 - [ ] slight area around rendering collr for girhub ; light variant in github doesnt show the ray renderings nicely.
 
+---
+[[Society for Multidisciplinary and Fundamental Research (SEMF)]] l
+
+---
+
 Steam profile
 
 
