@@ -119,11 +119,7 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   next = __call__ = __next__ = __anext__ = forward = step = apply = run = successor \  
     = map = render = compile = realize = generate \  
     = terminal  
-  # TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?  
-  # Todo: slightly different perspectives in cases of map/render etc..., where certain aliases of these are expected not to have alternative behaviors based on binary/ternary calls to this... ; Basically; some of these aliases are probably more appropriate as separate perspectives.  
-  # TODO: compile/map/cast/ ... probably fit in that separate category. Wrap to any object if translation exists (in python case inspect?). - Realize is probably similarly on another level of abstraction.  
-  # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
-  
+
   
 
   # TODO: Like this, ignorant vs non-ignorant? What to do here?  
@@ -488,12 +484,20 @@ Reverse direction as teo points. Need a good intuition for this. Basically one o
 
 - [ ] ignorant referencing ray ; all these as ; 
 
+`.terminal`
+		  # TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?  
+  # Todo: slightly different perspectives in cases of map/render etc..., where certain aliases of these are expected not to have alternative behaviors based on binary/ternary calls to this... ; Basically; some of these aliases are probably more appropriate as separate perspectives.  
+  # TODO: compile/map/cast/ ... probably fit in that separate category. Wrap to any object if translation exists (in python case inspect?). - Realize is probably similarly on another level of abstraction.  
+  # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
+  
 `.self`
 	  # An arbitrary Ray, defining what our current position is equivalent to.  
 	  # Moving to the intersecting Ray at `.self` - as a way of going an abstraction layer (lower), and asking what's inside.    
 `.reverse`
 		# @see "Reversibility after ignoring some difference": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility  
 		# @see "More accurately phrased as the assumption of Reversibility: with the potential of being violated.": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Assumptions%20%26%20Assumption%20Violation
+`.is_extreme`
+		- reference to boundary 
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
