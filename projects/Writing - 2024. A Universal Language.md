@@ -27,6 +27,7 @@ aliases
 # .free @alias(destroy = clear = delete = pop = prune)
 # .compose @alias(continues_with, merge)
 # .last @alias( end = result = back = output = max)
+# .orbit @alias(modular, modulus, circle, repeats, period, infinitely)
 ```
 
 
@@ -175,8 +176,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   # - TODO: Note that an orbit is reversibility. ?  
   # - TODO: Could represent this abstraction in another layer what we want to accomplish while the actual search is still taking place.  
   #  
-  # - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility    
-  #@alias('modular', 'modulus',  
+  # - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility     
   def orbit(a, b: Arbitrary) -> Ray:  
     # - TODO: If we're only doing one end: This already assumes they are connected on the other end.  
     # - TODO: should be a connection here, with is_composed ; or "reference.is_equivalent" so that you can drop one of the sides, or both.  
