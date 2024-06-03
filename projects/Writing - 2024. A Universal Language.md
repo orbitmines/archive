@@ -449,11 +449,7 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   
   # By default a = -b is -b = a  
   # __set__(self, '')  
-for name, fn in inspect.getmembers(Ray, inspect.isfunction):  
-  if name.startswith('__'): continue  
-  print(f'{name}')  
-  setattr(Ray, name, Ray.function(name, fn))  
-  
+
 # a: Callable[[Ray], Ray] = lambda self: self.is_terminal  
 setattr(Ray, '__mul__', Ray.function('__mul__', Ray.size))  
   
@@ -468,8 +464,7 @@ setattr(ray, '__mul__', lambda self: self)
 #   mul = times = size \  
 #     = ray__mul__  
 #   pass  
-  
-print('----------------')  
+
   
 Arbitrary = Union[int, Ray]  
   
