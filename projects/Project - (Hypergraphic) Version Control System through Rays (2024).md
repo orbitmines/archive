@@ -7,19 +7,9 @@
 
 - [ ] How to separate one's personal work, how to combine them, merge them, view them from the outside.
 - [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
-
-The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
-
----
-
-As part of the requirements for broader :orbitmines: OrbitMines projects, this will necessarily include a novel way of dealing with histories of arbitrary structures.
+	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
 ---
-# Researching (Hypergraphic) Version Control through arbitrary traversal of Rays
-
-In the case of Rays, whether something is a vertex/initial/terminal is only inferred from surrounding context. And these checks only need to happen locally in order to decide how to traverse arbitrary structure (as in - I only need to check the presence of something next to me, not traverse the whole direction recursively in order to decide what to do).
-
-More generally, we cannot actually guarantee consistency of anything. And so the system will just need to be able to deal with that at some level. This project will in its initial implementation probably not attack this directly, but it's just a general thing to keep in mind. And something I'll come back to in the other OrbitMines projects.
 
 ### In the case of a Version Control System this will require the following things:
 - [ ] Arbitrary (partial, ..., incomplete) history of arbitrary functions, rewrites, ..., data types (generalized to some arbitrary Ray).
@@ -44,8 +34,7 @@ More generally, we cannot actually guarantee consistency of anything. And so the
 		- Or: Variance is handled in such a way that after some function application we are left with something we deem invariant with respect to possible inputs.
 	- As long as you can recall/.../remember something, in the case of some eventual consistency, you're often going to be causally invariance in some local respect (ignoring some difference).
 
-- [Confluence](https://en.wikipedia.org/wiki/Confluence_(abstract_rewriting)) 
-- [Convergence](https://en.wikipedia.org/wiki/Convergence_(logic))
+- [Confluence](https://en.wikipedia.org/wiki/Confluence_(abstract_rewriting)), [Convergence](https://en.wikipedia.org/wiki/Convergence_(logic))
 - [Commutes](https://en.wikipedia.org/wiki/Commutative_property)
 - [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 	- [CRDTs go brrr (2021)](https://josephg.com/blog/crdts-go-brrr/) ; *Seph Gentle*
