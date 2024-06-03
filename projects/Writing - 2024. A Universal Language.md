@@ -18,8 +18,13 @@ Should be automatic:
 So all self.initial -> (-self).terminal
 # TODO is_initial = return (-self).terminal().is_none ??  
 
+  #  
+  # Opposite aliases  # TODO: Could just dynamically assign these - the case for any reversible thing (next/previous, initial/terminal ...) always: A.something and (-A).something  
+  #  
+  
 (-self).a = self.b
 -(self.a) = self.b
+
 ```
 
 ```
@@ -309,16 +314,6 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def __setitem__(self, key, value): raise NotImplementedError  
   def __pos__(self): raise NotImplementedError  
     
-  
-  #  
-  # Opposite aliases  # TODO: Could just dynamically assign these - the case for any reversible thing (next/previous, initial/terminal ...) always: A.something and (-A).something  
-  #  
-  
-    
-  def has_previous(self) -> Ray: return (-self).has_next  
-  def first(self) -> Ray: return (-self).last
-  def push_front(self) -> Ray: return (-self).push_back  
-
   
   #  
   # Python runtime converters  #  
