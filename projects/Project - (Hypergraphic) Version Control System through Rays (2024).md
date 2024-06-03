@@ -14,8 +14,6 @@ The abstract idea of persistence is quite straight-forward:  non-trivially limit
 
 As part of the requirements for broader :orbitmines: OrbitMines projects, this will necessarily include a novel way of dealing with histories of arbitrary structures.
 
-This is also the part of the project I will reapply with to NGI by 2024-02-01 as a possible source of funding. I'll soon post more information here regarding that by then.
-
 ---
 # Researching (Hypergraphic) Version Control through arbitrary traversal of Rays
 
