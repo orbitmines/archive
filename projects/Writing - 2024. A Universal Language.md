@@ -109,7 +109,11 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
   )  
   # TODO: Ray.vertex/initial/terminal ? places empty_initial/terminal in the expected style?  
   
-  # TODO: These might be slightly different?  
+  # TODO: These might be slightly different?
+  # Ray.terminal(empty=true)
+  # Ray.terminal.empty
+  # Ray.terminal.empty()
+    
   # def empty_initial(self) -> Ray: return Ray(initial=Ray.none, self=Ray.none, terminal=self)  
   # def empty_terminal(self) -> Ray: return Ray(initial=self, self=Ray.none, terminal=Ray.none)  
   # An arbitrary Ray, defining what continuing in this direction is equivalent to.  
