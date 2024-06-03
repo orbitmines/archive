@@ -718,7 +718,7 @@ simultaneously the extreme and the boundary traversing?
 
 start with one, find match, then match entire structure and revert if not. ; one way
 
-#### Version Control
+#### Universal Version Control
 - [ ] Arbitrary (partial, ..., incomplete) history of arbitrary functions, rewrites, ..., data types (generalized to some arbitrary Ray).
 	- [ ] This then includes the automatic inclusion of existing data structures
 		- [ ] Automatically includes DPO(I), ..., Git histories.

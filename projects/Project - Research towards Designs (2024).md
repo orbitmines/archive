@@ -135,7 +135,7 @@ Games
 *research into this*
 [[Pinar Temiz]], ..
 
-- Audio ; basically like [[Project - (Hypergraphic) Version Control System through Rays (2024)]] ; 'easy-rediscoverability/seperability in a certain way if not in the obvious seperation case.'
+- Audio ; basically like [[Writing - 2024. A Universal Language]] ; 'easy-rediscoverability/seperability in a certain way if not in the obvious seperation case.'
 	- separate audio sources so disentanglement/referencing is easier ; basically separating the superposed things ; generalize
 
 
