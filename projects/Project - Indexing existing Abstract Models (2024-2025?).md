@@ -85,6 +85,7 @@ Comments on [[2024-02-22]]
 - https://github.com/mirage-project/mirage
 - https://github.com/Janiczek/apl-in-hvm
 - Carbon lang [[Chandler Carruth]] (https://muxup.com/2024q2/notes-from-the-carbon-panel-session-at-eurollvm)
+- Twemex, explainpaper, lu.ma, noti.st, leanpub.com, conf
 
 ### Some other names I found but didn't save a link to: 
 - *DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
@@ -353,7 +354,7 @@ Proof Assistant exploration, [[Proof_assistant.pdf]], [[Formal_verification.pdf]
 
 Platform interop
 [[ONGOING Project Logistics]]
-- [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack ..., Matrix, ... ?  
+- [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack ..., Matrix, ... ?  IRC, RSS feed, 
 	- [ ] (?hosted matrix?)  
 	- [ ] Similarly, link github/gitlab/ prs/... (project descriptions etc..)  
 	- [ ] profile pictures (emotes) .. (account linking..)  
