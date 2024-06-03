@@ -139,8 +139,7 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   # TODO: Reference maybe as an orbit at the point is the thing ignorant  
   #     TODO: This is basically saying "reference as a constant"  
   # TODO Could say orbit = constant, meaning this entire direction repeats??? - maybe it's slightly different  
-  @ray  
-  def is_boundary(self) -> Ray: return self.is_initial() ^ self.is_terminal()     # [?-|  ] or [  |-?]  
+
   
   @ray  
   def has_next(self) -> Ray: return self.next().is_some  
