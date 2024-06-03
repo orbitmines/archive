@@ -90,6 +90,7 @@ aliases
 # .terminal @alias(next = __call__ = __next__ = __anext__ = forward = step = apply = run = successor \  
     = map = render = compile = realize = generate)
 # .initial @alias(previous = backward = decompile = predecessor)
+# .__set__ @alias(assign)
 
 reverse
 # TODO ; Could also be implemented as copy - hence the __call__ on Ray() - this is the case for any sort of constructor/type.
@@ -265,11 +266,9 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   @staticmethod  
     def compiler() -> Ray: raise NotImplementedError  
   
+# TODO: This thing I mentioned in my notes a while back is relevant to this: Assign in the sense of adding to existing equivalences: i.e. offering a specific implementation for a certain thing, vs the destroy of them and replacing it with something specific: i.e. removing all existing assigns and setting a single one.
+  __set__  
 
-  assign = \  
-    __set__ # TODO: This thing I mentioned in my notes a while back is relevant to this: Assign in the sense of adding to existing equivalences: i.e. offering a specific implementation for a certain thing, vs the destroy of them and replacing it with something specific: i.e. removing all existing assigns and setting a single one.  
-  def __delete__(self, instance) -> Ray: raise NotImplementedError  
-  
   #  TODO: Are these "GLOBAL" varibles from the perspective of the ignorant setup - or more accuarrately something which it could be made aware of.  
   # TODO: WHILE = WITH = SCOPE = CONTEXT = GLOBAL = //...  
   def __enter__(self) -> Ray: raise NotImplementedError  
@@ -290,7 +289,10 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   def boolean(val: bool) -> Ray: raise NotImplementedError  
   @staticmethod  
   def string(val: str) -> Ray: raise NotImplementedError  
-
+  @staticmethod  
+    def false(): return Ray.boolean(False)  
+  @staticmethod  
+    def true(): return Ray.boolean(True)  
   @staticmethod  
   def obj(val: object) -> Ray: raise NotImplementedError  
   @staticmethod  
