@@ -31,9 +31,12 @@ Unprocessed
 - Ignorance/equivalence along arbitrary rays. = Equivalence
 - Undecided terminal for traversal / or break off structure to explore both.
 
+Rewriting/replacing
+- start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
+
+
 ---
 
-- What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Or at least, could h
 ###### Examples: Delayed till working implementation
 - Chyp
 - Tensor
@@ -42,7 +45,7 @@ Unprocessed
 - xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
 - similar to next/anext into python await operator?
 - Encoding: Usually ignorant of its use
-
+- What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
 
 ---
 
@@ -268,7 +271,6 @@ At every branch comtains the one added thing necessary for spliiting the vranch 
 	- Simple example of infinitely finding terminals, or a reference to 'nothing - infinitely'.
 	- If both are references, allow deref of both in parallel? - for later probably
 
-start with one, find match, then match entire structure and revert if not. ; one way
 
 #### Universal Version Control
 - [ ] Arbitrary (partial, ..., incomplete) history of arbitrary functions, rewrites, ..., data types (generalized to some arbitrary Ray).
