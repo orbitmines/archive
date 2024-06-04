@@ -25,6 +25,89 @@ More generally, we cannot actually guarantee consistency of anything. And so the
 ---
 
 ```ts
+  
+def is_initial(self) -> Ray: return self.initial().is_none  
+def is_terminal(self) -> Ray: return self.terminal().is_none  
+def is_vertex(self) -> Ray: return self.is_initial().nor(self.is_terminal())  
+def is_reference(self) -> Ray: return self.is_initial() & self.is_terminal()  
+  
+def is_boundary(self) -> Ray: return self.is_initial() ^ self.is_terminal()  
+def is_extreme(self) -> Ray: return self.self().is_none & self.is_boundary()  
+# def is_SOMENAME(self) -> Ray: "OPPOSITE OF REVERENCE" "--] [--", two boundaries to bridge "implicit manifold", dont like that name  
+  
+def orbit(self) -> Ray:  
+  pass  
+  
+# def free(self): raise NotImplementedError  
+  
+@staticmethod  
+def function(func: Callable[[Any, ...], Any]) -> Ray:  
+  a = Ray()  
+  return a  
+  
+def reverse(self) -> Ray:  
+  return Ray(initial=self.terminal, self=self.self, terminal=self.initial)  
+  
+def as_string(self) -> str: raise NotImplementedError  
+def as_int(self) -> int: raise NotImplementedError  
+  
+def as_list(self) -> list: raise NotImplementedError  
+def as_tuple(self) -> tuple: raise NotImplementedError  
+def as_iterable(self) -> Iterable[Ray]: return self  
+def as_async_iterable(self) -> AsyncIterable[Ray]: return self  
+def __iter__(self) -> Iterator[Ray]: return self  
+def __aiter__(self) -> AsyncIterator[Ray]: return self  
+  
+def __enter__(self) -> Ray: raise NotImplementedError  
+def __exit__(self, exc_type, exc_val) -> Ray: raise NotImplementedError  
+async def __aenter__(self) -> Ray: raise NotImplementedError  
+async def __aexit__(self, exc_type, exc_val) -> Ray: raise NotImplementedError  
+  
+# TODO: THESE ARE ALL MAPS.  
+def __contains__(self, item): raise NotImplementedError  
+def __delitem__(self, item): raise NotImplementedError  
+def __getitem__(self, item): raise NotImplementedError  
+def __setitem__(self, key, value): raise NotImplementedError  
+def __pos__(self): raise NotImplementedError  
+  
+def __str__(self) -> str: raise NotImplementedError  
+def __repr__(self) -> str: raise NotImplementedError  
+def __hash__(self) -> str: raise NotImplementedError  
+def __bool__(self) -> bool: raise NotImplementedError  
+  
+def __mod__(self) -> Ray: raise NotImplementedError  
+def __mul__(self) -> Ray: raise NotImplementedError  
+def __matmul__(self) -> Ray: raise NotImplementedError  
+def __floordiv__(self) -> Ray: raise NotImplementedError  
+  
+def __lshift__(self) -> Ray: raise NotImplementedError  
+def __rshift__(self) -> Ray: raise NotImplementedError  
+  
+def __ne__(self, **kwargs) -> Ray: raise NotImplementedError  
+def __lt__(self) -> Ray: raise NotImplementedError  
+def __ge__(self) -> Ray: raise NotImplementedError  
+def __gt__(self) -> Ray: raise NotImplementedError  
+def __le__(self) -> Ray: raise NotImplementedError  
+  
+def __radd__(self) -> Ray: raise NotImplementedError  
+def __rsub__(self) -> Ray: raise NotImplementedError  
+def __rmul__(self) -> Ray: raise NotImplementedError  
+def __rpow__(self) -> Ray: raise NotImplementedError  
+def __rtruediv__(self) -> Ray: raise NotImplementedError  
+def __rmatmul__(self) -> Ray: raise NotImplementedError  
+def __rfloordiv__(self) -> Ray: raise NotImplementedError  
+  
+def __iadd__(self) -> Ray: raise NotImplementedError  
+def __isub__(self) -> Ray: raise NotImplementedError  
+def __imul__(self) -> Ray: raise NotImplementedError  
+def __ipow__(self) -> Ray: raise NotImplementedError  
+def __itruediv__(self) -> Ray: raise NotImplementedError  
+def __imatmul__(self) -> Ray: raise NotImplementedError  
+def __ifloordiv__(self) -> Ray: raise NotImplementedError
+
+```
+
+```ts
 Should be automatic:
 So all self.initial -> (-self).terminal
 # TODO is_initial = return (-self).terminal().is_none ??  
