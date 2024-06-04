@@ -465,19 +465,8 @@ Ray.compile(lambda ray: ray)
   
 # test.compile(python).run(python)  
   
-# Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
-# These should be the same  
-# def add(self) -> Ray: return -self.sub  
-# def sub(self) -> Ray: return -self.add  
-# def add(a, b: Arbitrary) -> Ray: return (-self.sub)(b)  
-# def sub(a, b: Arbitrary) -> Ray: return (-self.add)(b)  
-# add = -sub  
-# sub = -add  
-# [add, sub].orbit  
-  
-# TODO: Message: "Cannot run, need more implementations, for example these:"  
-  
-# TODO: Could just randomly start generating possible combinations of logical gates (or any methods on Ray), which if the runtime has an explanation for (or in the debug mode just to listen), you can hook into that and create an implementation. In the case of python made something along the lines of an interpreter which gives you one, asks to write one in python...
+
+
 ```
 
 
@@ -512,6 +501,8 @@ Only difference is the assymetry of is_orbit and the consequences of that if sel
  -  Somewhat related to Functors?  
 
 - [ ] ignorant referencing ray ; all these as ; 
+
+Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 
 `.terminal`
 	# TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?  
@@ -618,6 +609,8 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 - [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics)
 - [ ] Using them for fractal expansion - shoving structure in between.
 
+##### Superposing Languages
+Could just randomly start generating possible combinations of logical gates (or any methods on Ray), which if the runtime has an explanation for (or in the debug mode just to listen), you can hook into that and create an implementation. In the case of python made something along the lines of an interpreter which gives you one, asks to write one in python...
 
 ##### Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 *better name*
