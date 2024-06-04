@@ -284,7 +284,7 @@ Compression
 	- As long as you can recall/.../remember something, in the case of some eventual consistency, you're often going to be causally invariant in some respect (ignoring some difference).
 
 
-#### III. Rendering engine
+## Rendering engine
 visualization
 - Small ring outline in continuation + vertex?
 - Intersection on screen been non-intersection in the structure, way of rendering it.
@@ -324,7 +324,7 @@ link to [[Project - Indexing existing Abstract Models (2024-2025?)]] # different
 - Drop the self-loop from on-orbit check ; peek by going there, then one more step, and dropping .self and moving back to terminal
 
 
-##### Web, .. downloadable variant
+## Web, .. downloadable variant
 Stored any way, just deal with it.
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"
 
@@ -332,17 +332,16 @@ Stored any way, just deal with it.
 
 - Simple web setup for localstorage
 
-##### Future inquiries
+## Future inquiries
 
 - [Whatever function it is that platforms and interfaces serve, they will probably converge to being more of a theme applied on a particular type of structure. Only as a supply of resources (access to certain kinds of information/compute) will they persist. They will not persist as separable interfaces.](http://localhost:3000/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Whatever%20function%20it,as%20separable%20interfaces.)
 	- link to twitter post too.
 - [Whatever sets up this open world generation must rely on existing structure, information. You can set up something more random, sure. But the only possibility of some feedback on this generation must be some generalization of existing knowledge. Whatever (entropically relevant) information, structure, ..., items have been found.](http://localhost:3000/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Whatever%20sets%20up,have%20been%20found.)
 	- [This means open world generation must support arbitrary information which will **not** be available in the design of this game/interface.](http://localhost:3000/archive/2024-02-orbitmines-as-a-game-project/#:~:text=This%20means%20open%20world%20generation%20must%20support%20arbitrary%20information%20which%20will%20**not**%20be%20available%20in%20the%20design%20of%20this%20game/interface.)
-- 
-
-Storage as compute
-How to phrase storage as compute? It's using some compute to persist some structure, though we might not know how to use it for anything else than storage, this is essentially the case. All equated as the same resource? Persistence/Compute/Effort/resources  
-Structure vs combinators from certain perspectives that sort of thing?..., energy, conservation
+- Storage/Structure/orbits as compute
+	- How to phrase storage as compute? It's using some compute to persist some structure, though we might not know how to use it for anything else than storage, this is essentially the case. All equated as the same resource? Persistence/Compute/Effort/resources  
+	- Structure vs combinators from certain perspectives that sort of thing?..., energy, conservation
+	- at the end simple example of efficiency/closeness/differentiability  
 
 
 ---
@@ -360,7 +359,7 @@ Link back to the other stuff from the notebook as well:
 	- p-adic numbers
 	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
-- at the end simple example of efficiency/closeness/differentiability  
+
 - Could link the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
   
 
