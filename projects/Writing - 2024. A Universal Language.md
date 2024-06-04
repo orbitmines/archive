@@ -29,10 +29,11 @@ Unprocessed
 - split off branching initial remainin o. the temrinal the ret marching along
 - Can just move the terminal which holds the pointer to the boundary
 - Ignorance/equivalence along arbitrary rays. = Equivalence
-- Undecided terminal 
+- Undecided terminal for traversal / or break off structure to explore both.
 
 ---
 
+- What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Or at least, could h
 ###### Examples: Delayed till working implementation
 - Chyp
 - Tensor
@@ -266,8 +267,6 @@ At every branch comtains the one added thing necessary for spliiting the vranch 
 -  Dereferencing is likely in many cases quickly subject to infinite stepping (similar to INITIAL -> INITIAL, TERMINAL -> TERMINAL, VERTEX -> VERTEX. (Could be that this means that there's no continuation, a self-reference defined here, or it's some mechanism of halting.)
 	- Simple example of infinitely finding terminals, or a reference to 'nothing - infinitely'.
 	- If both are references, allow deref of both in parallel? - for later probably
-- Rewriting as placing the direction encoded as `.type` of initial/vertex headed to terminal. Where terminal is undecided (from the perspective of `.terminal`, can recursively be the case for any of these.) - So .initial is VERTEX, .self is TERMINAL, which means this .terminal returns ... (Basically abstraction layer fitting the structure - See [[2024-03-28]] note.)
-
 
 start with one, find match, then match entire structure and revert if not. ; one way
 
