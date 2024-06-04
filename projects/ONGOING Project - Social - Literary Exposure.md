@@ -86,8 +86,10 @@ The last 10 months of my literary exposure (2023-07 - 2024-04)
 
 ### Literary Exposure
 - [Self-exfiltration is a key dangerous capability (2023)](https://aligned.substack.com/p/self-exfiltration) ; *Jan Leike*
-- [Pluralistic: The disenshittified internet starts with loyal "user agents" (2024)](https://pluralistic.net/2024/05/07/treacherous-computing/) ; **
-- [ ()]() ; **
+- [Pluralistic: The disenshittified internet starts with loyal "user agents" (2024)](https://pluralistic.net/2024/05/07/treacherous-computing/) ; *Cory Doctorow*
+- [Elon Musk (2023)](https://en.wikipedia.org/wiki/Elon_Musk_(Isaacson_book)) ; *Walter Isaacson*
+
+
 
 ---
 
