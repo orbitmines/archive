@@ -10,7 +10,7 @@ Unprocessed
 
 
 `.self`
-
+	`this = .self`: Equivalency Ray = Context Ray
 
 `.terminal`
 
@@ -18,8 +18,6 @@ Unprocessed
 `.is_extreme`
 - Extremes as superposed pattern matcher.
 
-`@staticmethod`
-- Implements a function from no/ignorant perspective. (self-loop on .self) 
 
 ---
 
