@@ -42,7 +42,9 @@ Unprocessed
 
 ---
 
-Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
+- Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
+- empty on .self, vs .self ref vs ref, ; selection of two boundaries.
+
 
 ---
 
@@ -160,16 +162,13 @@ direction at the point**: What does it mean for a point yo become its own direct
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
 - [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics)
-- [ ] Using them for fractal expansion - shoving structure in between.
+
+
 
 - [ ] Non-commital ignorance, lazy functions ; Carrying of an initial/terminal from a reference without traversing the direction
 
+
 @see "What if this wasn't the case?" https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=%22What%20if%20this%20wasn%27t%20the%20case%3F%22
-
-Leaves the following questions:  
-- [ ] How to define currently trying some directionality: waiting for some function, perhaps some partial state acquirable? ; parallel, one at the completion step, the other in between still waiting
-
-empty on .self, vs .self ref vs ref, ; selection of two boundaries.
 
 
 ## Exploration and Discovery
