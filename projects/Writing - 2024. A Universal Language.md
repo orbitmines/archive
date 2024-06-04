@@ -255,8 +255,6 @@ Compression
 
 ---
 
-Invariances at start hence a modular structure might be a necessity physically
-
 split off branching initial remainin o. the temrinal the ret marching along
 
 ---
