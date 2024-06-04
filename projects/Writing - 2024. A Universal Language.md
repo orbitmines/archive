@@ -35,7 +35,8 @@ Unprocessed
 Rewriting/replacing
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 
-Causal = ordering = sorting = indexing = assymmetry ; grouped usefully
+Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
+
 
 ---
 
