@@ -642,6 +642,13 @@ This is basically: When to decide that perspective switches should have a differ
 encoding usually ignorant of its use
 
 ##### Mathematics, Physics, ..., Dynamics
+Comments on [[2024-02-22]]
+> "Also, interesting to note might be that Von Neumann and Birkhoff attempted to ground quantum mechanics using order theory (their attempt was not very successful at that)."
+> 
+> Me: "I think my intuition is trying to say something like. I want it ordered to talk about it usefully. But high-arity cases are probably more in line with ignoring/invariances of that order."
+
+*Where invariance in this case is something like a branching ray as a cursor along a ray indicating an invariance: i.e. copies over every entry.*
+
 - A lot of this started with the idea: "You cannot have interaction without something like gravity." ; I think? Probably a question similar to this.
 
 Yellow is how you could define zero. Or a selection pointer on pink. ; Basically you can define the boundary as a zero point. ; "split point between opposites" ; "distinguishability begins here for modular structure" ; ... "selection"
