@@ -31,36 +31,7 @@ from typing import Iterator, AsyncIterator, Union, Callable, Any, Iterable, Asyn
 # GLOBAL_ARGS & GLOBAL_KWARGS can be phrased as ignorant context? - TODO: Similar to enter_exit contexts. Or contexts far away we don't yet, or dont know how to get access to.  
 def __ray__(*GLOBAL_ARGS, **GLOBAL_KWARGS):  
   
-  def alias(func: Callable[[Any, ...], Any]):  
-    pass  
-  
-  class Ray:  
-    def initial(self) -> Ray: raise NotImplementedError  
-    def self(self) -> Ray: raise NotImplementedError  
-    def terminal(self) -> Ray: raise NotImplementedError  
-  
-    @staticmethod  
-    def __new__(cls, *args, **kwargs):  
-      return super().__new__(cls)  
-    @staticmethod  
-    def function(func: Callable[[Any, ...], Any]) -> Ray:  
-      a = Ray()  
-      return a  
-  
-    def __init__(self, *args, **kwargs) -> Ray:  
-      pass  
-    def __getattr__(self, name: str) -> Ray: raise NotImplementedError  
-    def __setattr__(self, key, value) -> Ray:  
-      raise NotImplementedError  
-      pass  
-    def __get__(self, instance, owner) -> Ray:  
-      raise NotImplementedError  
-      return self  
-    def __set__(self, instance, value) -> Ray:  
-      raise NotImplementedError  
-      return self  
-    def __delete__(self, instance) -> Ray:  
-      raise NotImplementedError  
+ 
   
     # TODO  
   def method(func: Callable[[Any, ...], Any]) -> Ray:  
