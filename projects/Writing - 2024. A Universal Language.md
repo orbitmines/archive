@@ -36,7 +36,9 @@ Unprocessed
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
 
-`.add`, `.superpose`, `.and`: Compose an `initial & terminal`
+`.superpose`
+
+`.add`, `.and`: Compose an `initial & terminal`
 - validity; checks as superposed maybe
 - single equivalence?
 
