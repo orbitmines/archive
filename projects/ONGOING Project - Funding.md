@@ -66,8 +66,6 @@ Possible
 	- [ ] Doesn't really align well with the other things I want to do. This will probably be a last resort before joining other projects.
 - [x] https://apply.opentech.fund/apply/submissions/16507/#submission-details
 	- Doesn't align with their objectives. (Weird? Probably didn't communicate that aspect properly - which by default the project enables as infrastructure for that which solves their problems.). Definitely didn't make that obvious.
-
-
 - [x] Finalize GitHub sponsors setup  
   - [x] [GitHub Sponsor Button ; .github/FUNDING.yml](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository)  
 
