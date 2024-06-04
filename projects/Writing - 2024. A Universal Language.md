@@ -258,11 +258,6 @@ encoding usually ignorant of its use
 ##### Mathematics, Physics, ..., Dynamics
 Comments on [[2024-02-22]]
 
-- A lot of this started with the idea: "You cannot have interaction without something like gravity." ; I think? Probably a question similar to this.
-
-Yellow is how you could define zero. Or a selection pointer on pink. ; Basically you can define the boundary as a zero point. ; "split point between opposites" ; "distinguishability begins here for modular structure" ; ... "selection"
-![[Pasted image 20240501193810.png]]
-
 - Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.
 - Wrong dynamics from a particular perspective, often probably still keep traversing - they still work. It's just that from the perspective you wanted, they don't.
 
