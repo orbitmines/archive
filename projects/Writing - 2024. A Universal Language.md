@@ -34,7 +34,7 @@ Unprocessed
 
 Rewriting/replacing/collapsing
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
-- Local modular structure: left/right collapse simultaneously to get a modular rewrite in.
+- Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
 
 Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
 
@@ -357,7 +357,7 @@ Structure vs combinators from certain perspectives that sort of thing?..., energ
 Link back to the other stuff from the notebook as well:
 	- p-adic numbers
 	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
-
+- Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
 
 ---
 
@@ -371,7 +371,7 @@ could use the pond dance as an example, "dont need to know to predict"
 How about for physics, initial tries to go to initial, terminal to terminal, and self stays in place by default if there's something around it? Next tick tries again and if the others have not moved it stays the same
 
 [[2024-06-01]]
-Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting  
+
   
 at the end simple example of efficiency/closeness/differentiability  
   
@@ -382,15 +382,3 @@ could also do simple superposing of operators
 Could like the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
   
 back & into.self
-
----
-
-line number through superppse as example
-  
-left right simul recursion (collapse)
-
-rotating ignoring/not ignore ring around mount doom
-
-Dark energy / non at self but initial/terminal have some?; Or it's useful somewhere else
-
-draw line actualize explode along ir
