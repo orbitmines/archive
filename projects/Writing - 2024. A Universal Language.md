@@ -55,6 +55,7 @@ add = and ... different perspective?
 	  - Also without expectation but simply an unsolved unknown.
 - Other way around: determining that something outside the context is looking inside the context
 - What do you do when the information you want is not available?
+- [ ] 'Unintended'/'Unrealized' effects realized? / Resources one didn't know one is consuming etc... (unknowns)  
 
 Ideas like:
 - [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
@@ -161,14 +162,7 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 - [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics)
 - [ ] Using them for fractal expansion - shoving structure in between.
 
-##### Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
-*better name*
-
-- While executing in certain context?
 - [ ] Non-commital ignorance, lazy functions ; Carrying of an initial/terminal from a reference without traversing the direction
-	- [ ] Similarly: unresolved pointers, cut off/short, pending, waiting for ..
-	- [ ] 'Unintended'/'Unrealized' effects realized? / Resources one didn't know one is consuming etc... (unknowns)  
-
 
 @see "What if this wasn't the case?" https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=%22What%20if%20this%20wasn%27t%20the%20case%3F%22
 
