@@ -437,17 +437,6 @@ from ray import Ray, ray
 
 .function  
 def test() -> Ray:  
-  a = Ray.none; b = Ray.none  
-  a, b = Ray.none * 2  
-  a, b = Ray.boolean  
-  *a, b = Ray.boolean  
-  a, *b = Ray.boolean  
-  a, *between, b = Ray.boolean  
-  b, none = -Ray.boolean  
-  b, a = -Ray.boolean.orbit
-  a, b = --Ray.boolean.orbit
-  b, a = ---Ray.boolean.orbit
-  a, b = --Ray.boolean
   
   # TODO: This is only if Ray.boolean is .orbit, otherwise reverse would be different.  
   
