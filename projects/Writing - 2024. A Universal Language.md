@@ -151,6 +151,7 @@ Encoding/symbols..
 
 ##### "Superpose in more detail"
 back & into.self
+superposing of operators (multiple abstract implementations)
 
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
 	- ref on self-reference?
@@ -354,13 +355,15 @@ Structure vs combinators from certain perspectives that sort of thing?..., energ
 - xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
 - similar to next/anext into python await operator?
 - Encoding: Usually ignorant of its use
-- Superposed
+- Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
 Link back to the other stuff from the notebook as well:
 	- p-adic numbers
 	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
 - at the end simple example of efficiency/closeness/differentiability  
+- Could link the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
+  
 
 ---
 
@@ -371,7 +374,4 @@ could use the pond dance as an example, "dont need to know to predict"
 
 ---
   
-could also do simple superposing of operators  
-  
-Could like the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
-  
+
