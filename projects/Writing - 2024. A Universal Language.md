@@ -629,7 +629,7 @@ Compression
 
 ```py
 # Python:  
-# - @staticmethod : Implements a function from no/ignorant perspective.  
+# - @staticmethod : Implements a function from no/ignorant perspective. (self-loop on .self) 
 # - def method(self) : Implements a function from perspective of 'self'.
 ```
 
