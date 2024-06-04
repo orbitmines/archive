@@ -16,7 +16,10 @@ Unprocessed
 
 
 `.is_extreme`
-- Extremes as superposed pattern matcher. 
+- Extremes as superposed pattern matcher.
+
+`@staticmethod`
+- Implements a function from no/ignorant perspective. (self-loop on .self) 
 
 ---
 
@@ -247,7 +250,7 @@ Compression
 
 ```py
 # Python:  
-# - @staticmethod : Implements a function from no/ignorant perspective. (self-loop on .self) 
+# - @staticmethod : 
 # - def method(self) : Implements a function from perspective of 'self'.
 ```
 
