@@ -21,6 +21,88 @@ xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
 More generally, we cannot actually guarantee consistency of anything. And so the system will just need to be able to deal with that at some level. This project will in its initial implementation probably not attack this directly, but it's just a general thing to keep in mind. And something I'll come back to in the other OrbitMines projects.
 
 
+```
+from __future__ import annotations  
+  
+import functools  
+import inspect  
+from typing import Iterator, AsyncIterator, Union, Callable, Any, Iterable, AsyncIterable, Tuple  
+  
+# GLOBAL_ARGS & GLOBAL_KWARGS can be phrased as ignorant context? - TODO: Similar to enter_exit contexts. Or contexts far away we don't yet, or dont know how to get access to.  
+def __ray__(*GLOBAL_ARGS, **GLOBAL_KWARGS):  
+  
+  def alias(func: Callable[[Any, ...], Any]):  
+    pass  
+  
+  class Ray:  
+    def initial(self) -> Ray: raise NotImplementedError  
+    def self(self) -> Ray: raise NotImplementedError  
+    def terminal(self) -> Ray: raise NotImplementedError  
+  
+    @staticmethod  
+    def __new__(cls, *args, **kwargs):  
+      return super().__new__(cls)  
+    @staticmethod  
+    def function(func: Callable[[Any, ...], Any]) -> Ray:  
+      a = Ray()  
+      return a  
+  
+    def __init__(self, *args, **kwargs) -> Ray:  
+      pass  
+    def __getattr__(self, name: str) -> Ray: raise NotImplementedError  
+    def __setattr__(self, key, value) -> Ray:  
+      raise NotImplementedError  
+      pass  
+    def __get__(self, instance, owner) -> Ray:  
+      raise NotImplementedError  
+      return self  
+    def __set__(self, instance, value) -> Ray:  
+      raise NotImplementedError  
+      return self  
+    def __delete__(self, instance) -> Ray:  
+      raise NotImplementedError  
+  
+    # TODO  
+  def method(func: Callable[[Any, ...], Any]) -> Ray:  
+    # print(f'{type(func)}')  
+    # def method(*args, **kwargs) -> Ray:  #   return Ray()    # return await func(self, *args, **kwargs)  
+    pass  
+  
+  def wrapped(func):  
+    @functools.wraps(func)  
+    def with_logging(*args, **kwargs):  
+      print('Ray.', func.__name__, args, kwargs)  
+      return func(*args, **kwargs)  
+  
+    return with_logging  
+  
+  # TODO, wraps in @ray  
+  for name, fn in inspect.getmembers(Ray, inspect.isfunction):  
+    setattr(Ray, name, wrapped(fn))  
+    pass  
+    # if name.startswith('__'): continue  
+    # setattr(Ray, name, Ray.function(name, fn))    # setattr(Ray, '__mul__', Ray.function('__mul__', Ray.size))    # ray.__init__ = lambda self: self    # a: Callable[[Ray], Ray] = lambda self: self.is_terminal    # setattr(ray, '__mul__', lambda self: self)    #  
+    # TODO: Map the radd, rsub, rmul, rpow, ....  
+    # Several ways of achieving these:  
+    #   -a.__add__.perspective(b)  #   Ray(b).__add__(a)  #   __add__ = -__add__.perspective (if python would allow for this)  #   ; TODO could be automatic  
+  
+  # Ray.__eq__ = -Ray.__ne__  
+  # (Ray.__eq__ & Ray.__ne__).orbit  # [  #   (Ray.initial, Ray.terminal),  #   (Ray.__eq__, Ray.__ne__),  #   (Ray.__or__, Ray.__nor__),  #   (Ray.__xor__, Ray.__xnor__),  #   (Ray.__and__, Ray.__nand__),  #   (Ray.__add__, Ray.__sub__),  #   (Ray.__pow__, Ray.__truediv__),  #   (Ray.__lt__, Ray.__ge__),  #   (Ray.__gt__, Ray.__le__),  #   (Ray.__gt__, Ray.__le__),  #   (Ray.is_some, Ray.is_none),  #   (Ray.push_back, Ray.push_front),  #   (Ray.has_previous, Ray.has_next),  #   (Ray.first, Ray.last),  # ].all.orbit  
+  # Ray.a = lambda self, b: print(b)  # Ray.__eq__ = lambda self, b: print(b)  
+  # Ray.__add__ = -Ray.__sub__  # Ray.__sub__ = -Ray.__add__  return Ray  
+  
+Ray = __ray__([1,2,3])  
+  
+if __name__ == "__main__":  
+  Ray().a([4, 5, 6])  
+  @Ray.function  
+  def a():  
+    print('b')  
+  a.a([6, 7, 8])  
+  a.b([6, 7, 8])  
+  print(a == 'b')
+
+```
 
 ---
 
