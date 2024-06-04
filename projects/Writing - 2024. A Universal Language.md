@@ -257,16 +257,8 @@ encoding usually ignorant of its use
 
 ##### Mathematics, Physics, ..., Dynamics
 
-With some physics connections here as well:
-- Fitting another layer of abstraction on the structure which determines the following direction (or generally this could be phrased as inferred from context) .terminal here is possibly undefined. ONly needs presence, no recursion checks. Concurrency issues then in many cases resolved, through always being associated with a particular direction. (See note)
-
-Hermission/herminisity /time reversal; i.e. ray swap ; look up hermission?
-
-Blackhole as boundary?
-
----
-
 How to phrase storage as compute? It's using some compute to persist some structure, though we might not know how to use it for anything else than storage, this is essentially the case. All equated as the same resource? Persistence/Compute/Effort/resources  
+Structure vs 
 
 ---
 

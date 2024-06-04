@@ -69,6 +69,11 @@ warp-level primitives?
 - the linux amd-gfx mailing list (https://www.overclock.net/threads/official-amd-radeon-rx-7900-xtx-xt-owners-club.1802706)
 
 
+---
+
+Hermission/herminisity /time reversal; i.e. ray swap ; look up hermission?
+
+Blackhole as boundary?
 
 ---
 
