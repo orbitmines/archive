@@ -28,6 +28,8 @@ Unprocessed
 	- TODO: zip, tensor (are these the same as match/switch?)
 - xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
 - similar to next/anext into python await operator?
+- Encoding: Usually ignorant of its use
+
 
 ---
 
@@ -257,12 +259,9 @@ Difference in most concepts come from the context in which something applied, ot
 This is basically: When to decide that perspective switches should have a different name associated with them, when they can probably be thrown in a bag with other stuff: I.e. Why is it so significantly different it should be separate?
  - ex: TODO: Do I want to keep the is_equiv/is_composed pattern? Or simplify to one of the two?
 
-encoding usually ignorant of its use
 
 
 Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
-
-it';s the freference thing, evidently you can reference things without a direction connection, the point is not to ignore that idea, but to try to find a way to phrqase that that's possible to setup
 
 ---
 
