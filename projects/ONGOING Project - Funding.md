@@ -33,7 +33,6 @@ Possible
   - [ ] Summit grant (2024?) : If the conceptual framework is sufficiently advanced a 2024 equivalent of this perhaps (https://www.nwo.nl/en/calls/summit-grant)  
     - Have to convince a 10-12 multidisciplinary board: https://www.nwo.nl/en/calls/open-technology-programme-2023, so far the most interesting looking one. Technically signalled for a associate professor, but we'll see.  
     ~~- "I suppose that this admission will be quite irregular, and a detailed background is justified." ; Get around the "usually for universities"  ~~
-- [x] Look if this is a possible grant [Fundamentals of Software Engineering (RIA) 15 Nov 2023 - 19 March 2024](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2024-digital-emerging-01-22;callCode=null;freeTextSearchKeyword=computer;matchWholeText=true;typeCodes=0,1,2,8;statusCodes=31094501,31094502;programmePeriod=null;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState) ; All these are based on large project initiatives, will need to have something already setup to even be remotely considered for something like this. 
 
 #### Loans
 - ![[Vroegefasefinanciering (VFF)]]
@@ -59,7 +58,8 @@ Possible
 		- https://www.nwo.nl/en/calls/kiem-mv
 	- [[Mkb-innovatiestimulering Regio en Topsectoren (MIT)]]
 
-#### Forgotten
+#### Forgotten / Logistical remembered things
+
 - [x] [[Project - Bug Bounty Programs]]
 	- This sort of thing won't be sustainable, just more of the `longshots` above. It works more for understanding code-bases.
 - [x] [[A letter to all university professors whom in may concern (2023) - Project PHD?]]
@@ -67,20 +67,12 @@ Possible
 - [x] https://apply.opentech.fund/apply/submissions/16507/#submission-details
 	- Doesn't align with their objectives. (Weird? Probably didn't communicate that aspect properly - which by default the project enables as infrastructure for that which solves their problems.). Definitely didn't make that obvious.
 
-Dont need any of this
-Scaling?
-*I just need time to work on the ideas, there's not a lot other than a small compute station or involving other in costs for now, so these probably don't make much sense yet. Maybe would want to involve other people soon though.*
-- [ ] AI Grant https://aigrant.com/ , Batch 4 July 16th 2024, can already submit early
-- [ ] 
-	- [ ] https://www.ycombinator.com/apply
-	- [ ] [[AngelList]] / [[Crunchbase]]
-- [ ] https://www.delftenterprises.nl/portfolio/?filter_cat=fondsen#portfolioStart
-- [ ] might as well give it a try
-	- [ ] https://cordis.europa.eu/project/id/951821
 
+- [x] Finalize GitHub sponsors setup  
+  - [x] [GitHub Sponsor Button ; .github/FUNDING.yml](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository)  
 
-##### Dead ones
-- [x] https://www.heliumgrant.org/
+### Don't need any of this / Dead ones
+[x] https://www.heliumgrant.org/
 - [x] https://5x5night.com/
 - [x] https://twitter.com/cachemoneyxyz
 - [x] https://indie-fund.com/
@@ -91,9 +83,15 @@ Scaling?
 - [x] https://github.com/nayafia/microgrants
 - [x] https://github.com/ralphtheninja/open-funding
 - [ ] https://github.com/nayafia/lemonade-stand
+- [x] Look if this is a possible grant [Fundamentals of Software Engineering (RIA) 15 Nov 2023 - 19 March 2024](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2024-digital-emerging-01-22;callCode=null;freeTextSearchKeyword=computer;matchWholeText=true;typeCodes=0,1,2,8;statusCodes=31094501,31094502;programmePeriod=null;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState) ; All these are based on large project initiatives, will need to have something already setup to even be remotely considered for something like this. 
 
 
-#### Logistical remembered things
-
-- [x] Finalize GitHub sponsors setup  
-  - [x] [GitHub Sponsor Button ; .github/FUNDING.yml](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository)  
+Scaling?
+*I just need time to work on the ideas, there's not a lot other than a small compute station or involving other in costs for now, so these probably don't make much sense yet. Maybe would want to involve other people soon though.*
+- [ ] AI Grant https://aigrant.com/ , Batch 4 July 16th 2024, can already submit early
+- [ ] 
+	- [ ] https://www.ycombinator.com/apply
+	- [ ] [[AngelList]] / [[Crunchbase]]
+- [ ] https://www.delftenterprises.nl/portfolio/?filter_cat=fondsen#portfolioStart
+- [ ] might as well give it a try
+	- [ ] https://cordis.europa.eu/project/id/951821
