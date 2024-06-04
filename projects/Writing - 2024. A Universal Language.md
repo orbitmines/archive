@@ -150,6 +150,7 @@ Encoding/symbols..
 - "Some line as saying: anything on it is the frame and deemed the same, all deemed as ignored, all deemed as the identity"
 
 ##### "Superpose in more detail"
+back & into.self
 
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
 	- ref on self-reference?
@@ -353,11 +354,13 @@ Structure vs combinators from certain perspectives that sort of thing?..., energ
 - xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
 - similar to next/anext into python await operator?
 - Encoding: Usually ignorant of its use
+- Superposed
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
 Link back to the other stuff from the notebook as well:
 	- p-adic numbers
 	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
+- at the end simple example of efficiency/closeness/differentiability  
 
 ---
 
@@ -367,18 +370,8 @@ Can phrase the conceptual extremes as an assumption of halting at the boundary, 
 could use the pond dance as an example, "dont need to know to predict"
 
 ---
-
-How about for physics, initial tries to go to initial, terminal to terminal, and self stays in place by default if there's something around it? Next tick tries again and if the others have not moved it stays the same
-
-[[2024-06-01]]
-
-  
-at the end simple example of efficiency/closeness/differentiability  
-  
-perhaps simple inconsistent differences between different logic sustems as an example for superposed languages or do that at the rendering engine section with pixels  
   
 could also do simple superposing of operators  
   
 Could like the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
   
-back & into.self
