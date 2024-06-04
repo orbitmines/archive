@@ -3,8 +3,8 @@
 *Will always be ongoing - basically realizable as economic/practical/logistical considerations for the projects*
 *Like things with hiring, always try to cover the things not already covered with a different approach*
 
-- [ ] https://github.com/nikitavoloboev/knowledge/blob/main/docs/business/startups/funding.md
-- [ ] 
+
+- [ ] Open Technology Programme 2024
 
 ## 2024
 Retry
@@ -82,7 +82,7 @@ Possible
 - [x] https://github.com/ralphtheninja/open-funding
 - [ ] https://github.com/nayafia/lemonade-stand
 - [x] Look if this is a possible grant [Fundamentals of Software Engineering (RIA) 15 Nov 2023 - 19 March 2024](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2024-digital-emerging-01-22;callCode=null;freeTextSearchKeyword=computer;matchWholeText=true;typeCodes=0,1,2,8;statusCodes=31094501,31094502;programmePeriod=null;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState) ; All these are based on large project initiatives, will need to have something already setup to even be remotely considered for something like this. 
-
+- [ ] https://github.com/nikitavoloboev/knowledge/blob/main/docs/business/startups/funding.md
 
 Scaling?
 *I just need time to work on the ideas, there's not a lot other than a small compute station or involving other in costs for now, so these probably don't make much sense yet. Maybe would want to involve other people soon though.*
