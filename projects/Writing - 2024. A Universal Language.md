@@ -30,7 +30,7 @@ Unprocessed
 - Can just move the terminal which holds the pointer to the boundary
 - Ignorance/equivalence along arbitrary rays. = Equivalence
 - Undecided terminal for traversal / or break off structure to explore both.
-- Hard to say it's terminating. Need an orbit for that, and access to your own modular structure to say that. Otherwise it's "open loop traversal". Which is fine, just no abstract realization. Simple example is references to references. Or keep going in orbits wh
+- Hard to say it's terminating. Need an orbit for that, and access to your own modular structure to say that. Otherwise it's "open loop traversal". Which is fine, just no abstract realization. Simple example is references to references. Or keep going in orbits when you can shut off the traversal.
 
 Rewriting/replacing
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
