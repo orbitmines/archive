@@ -345,7 +345,13 @@ def is_none(self) -> Ray: return self.is_orbit(self, self.self)
   #  TODO: Are these "GLOBAL" varibles from the perspective of the ignorant setup - or more accuarrately something which it could be made aware of.  
   # TODO: WHILE = WITH = SCOPE = CONTEXT = GLOBAL = //...  
 enter/exit
-  
+
+
+# TODO: Binary on self is (a, a) like is_orbit(a, a) ?
+# By default a = -b is -b = a  
+# __set__(self, '')
+
+
   #  
   # Python runtime converters  #  
   @staticmethod  
