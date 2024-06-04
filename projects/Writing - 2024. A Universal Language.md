@@ -40,18 +40,6 @@ Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefull
 
 ---
 
-###### Examples: Delayed till working implementation
-- Chyp
-- Tensor
-	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
-	- TODO: zip, tensor (are these the same as match/switch?)
-- xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
-- similar to next/anext into python await operator?
-- Encoding: Usually ignorant of its use
-- What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
-
----
-
 add = and ... different perspective?
 `.add` on vertices -> equiv initial from one side, terminal from other side.
 ###### A
@@ -356,10 +344,19 @@ Structure vs combinators from certain perspectives that sort of thing?..., energ
 
 
 ---
-
+###### Examples: Delayed till working implementation
+- Chyp
+- Tensor
+	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
+	- TODO: zip, tensor (are these the same as match/switch?)
+- xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
+- similar to next/anext into python await operator?
+- Encoding: Usually ignorant of its use
+- What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
 Link back to the other stuff from the notebook as well:
-- p-adic numbers
-- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
+	- p-adic numbers
+	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
+
 
 ---
 
