@@ -65,8 +65,7 @@ def is_boundary(self) -> Ray: return self.is_initial() ^ self.is_terminal()
 def is_extreme(self) -> Ray: return self.self().is_none & self.is_boundary()  
 # def is_SOMENAME(self) -> Ray: "OPPOSITE OF REVERENCE" "--] [--", two boundaries to bridge "implicit manifold", dont like that name  
   
-def orbit(self) -> Ray:  
-  pass  
+
   
 # def free(self): raise NotImplementedError  
   
@@ -82,8 +81,7 @@ def as_tuple(self) -> tuple: raise NotImplementedError
 def as_iterable(self) -> Iterable[Ray]: return self  
 def as_async_iterable(self) -> AsyncIterable[Ray]: return self  
 
-@staticmethod  
-def boolean() -> Ray: return (Ray.none * 2).orbit
+
 ```
 
 ```ts
@@ -389,8 +387,7 @@ enter/exit
   def iterator(val: Iterator[Any]) -> Ray: raise NotImplementedError  
   @staticmethod  
   def iterable(val: Iterable[Any]) -> Ray: raise NotImplementedError  
-  @staticmethod  
-  def boolean(val: bool) -> Ray: raise NotImplementedError  
+
   @staticmethod  
   def string(val: str) -> Ray: raise NotImplementedError  
   @staticmethod  
