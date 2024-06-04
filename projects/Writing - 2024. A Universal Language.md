@@ -22,7 +22,7 @@ xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
 More generally, we cannot actually guarantee consistency of anything. And so the system will just need to be able to deal with that at some level. This project will in its initial implementation probably not attack this directly, but it's just a general thing to keep in mind. And something I'll come back to in the other OrbitMines projects.
 
 add = and ... different perspective?
-
+`.add` on vertices -> equiv
 ###### A
 - [ ]  
 	- [ ] Conjecture, 
