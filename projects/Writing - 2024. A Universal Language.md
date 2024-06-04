@@ -19,12 +19,15 @@ Unprocessed
 - Extremes as superposed pattern matcher.
 
 -> This needs a better pattern for the different abstraction layers. (for everything)
-`.is_equivalent`
-`.is_composed`
+`.equivalent`, `.is_equivalent`
+- Equivalence at continuation is parallel composition
+- 
+`compose`, `.is_composed`
 
 `.traverse`
 - Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
 - split off branching initial remainin o. the temrinal the ret marching along
+- Can just move the terminal which holds the pointer to the boundary
 
 ---
 
@@ -259,12 +262,6 @@ At every branch comtains the one added thing necessary for spliiting the vranch 
 ---
 
 #### Equivalences
-- Can just move the terminal which holds the pointer to the boundary
-- Is equivalent ; Can A & B be found on the a line/ray/graph? - Or a particular one
-- Equivalence at continuation is parallel composition
-
--  A traversal = copy = compile = .... (compute?)
-
 - Induced ignorance/equivalence along arbitrary rays. = Equivalence
 
 - Context is defines what something looks like from a particular perspective: Or: "What it is"
