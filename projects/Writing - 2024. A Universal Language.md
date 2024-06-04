@@ -38,6 +38,7 @@ Unprocessed
 
 `.add`, `.superpose`, `.and`
 - validity; checks as superposed maybe
+- single equivalence?
 
 
 ---
@@ -161,12 +162,7 @@ direction at the point**: What does it mean for a point yo become its own direct
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
-- [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics)
-
-
-
 - [ ] Non-commital ignorance, lazy functions ; Carrying of an initial/terminal from a reference without traversing the direction
-
 
 @see "What if this wasn't the case?" https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=%22What%20if%20this%20wasn%27t%20the%20case%3F%22
 
@@ -322,6 +318,8 @@ Stored any way, just deal with it.
 ---
 ###### Examples: Delayed till working implementation
 - Chyp
+- Physics also / superposition ; Using them for fractal expansion - shoving structure in between
+- [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics).
 - Tensor
 	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
 	- TODO: zip, tensor (are these the same as match/switch?)
