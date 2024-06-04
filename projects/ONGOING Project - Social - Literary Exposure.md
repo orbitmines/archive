@@ -1,5 +1,15 @@
-
+###### *Every month*
 ---
+
+@orbitmines explorations - 2024, May: Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all.
+
+###### *Every 10 months. - Instagram*
+---
+
+@orbitmines explorations: Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all
+
+The last 10 months of my literary exposure (2023-07 - 2024-04)
+
 
 ```shell
 cd ~/Desktop/orbitmines/private-journal/
@@ -60,20 +70,6 @@ const authors = [...l.matchAll(/\*(.+)\*$/g)]
 }).join(',\n')  
 console.log(res);
 ```
-
----
-
-###### *Every month*
----
-
-@orbitmines explorations - 2024, May: Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all.
-
-###### *Every 10 months. - Instagram*
----
-
-@orbitmines explorations: Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all
-
-The last 10 months of my literary exposure (2023-07 - 2024-04)
 
 ---
 
