@@ -36,7 +36,7 @@ Unprocessed
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
 
-`.add`, `.superpose`, `.and`: 
+`.add`, `.superpose`, `.and`: Compose an `initial & terminal`
 - validity; checks as superposed maybe
 - single equivalence?
 
@@ -94,7 +94,6 @@ Ideas like:
 	- Only thing needed for addition, is equivalencing initial/terminal. - Equivalencing continuations. 
 `.terminal / ..`
 	- Move `.self` to `.terminal`
-	- Terminal expectation ; could also be arbitrary structure again.
 `.traverse / .all / .map / .any`
 - initial/terminal, basically, which direction and then whether to skip the thing you're currently at. (direction by a ray abstract-level higher.)
 - .traverse is move self to .terminal
