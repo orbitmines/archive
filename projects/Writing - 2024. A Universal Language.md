@@ -22,6 +22,9 @@ Unprocessed
 `.is_equivalent`
 `.is_composed`
 
+`.traverse`
+- Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
+
 ---
 
 ###### Examples: Delayed till working implementation
@@ -250,13 +253,9 @@ Compression
 
 ##### On Naming, ..., Grouping
 
-
-
-Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
-
 ---
 
-Invariances at star hence a modular structure might be a necessity physically, forcing necessarily a finite accessible structure possible allowing it to grow?
+Invariances at start hence a modular structure might be a necessity physically
 
 split off branching initial remainin o. the temrinal the ret marching along
 
