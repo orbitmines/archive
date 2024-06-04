@@ -81,6 +81,14 @@ The last 10 months of my literary exposure (2023-07 - 2024-04)
 
 ---
 
+# 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+
+
+### Literary Exposure
+- :youtube: :tinycorp: [ ()]() ; *George Hotz*
+
+---
+
 ![[Pasted image 20240501005725.png]]
 # 2024, April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 ### :orbitmines: OrbitMines Excerpt
