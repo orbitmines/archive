@@ -138,13 +138,6 @@ just list a few possible ways of constructing it.
 - orbiting ray around it / bouncing off the edges ; generalize
 - ...
 
-- [ ] ; ideas from the notebooks
-Encoding/symbols..
-- Perspective of 0/1,
-- What is we interpret 0/1 as our frame, then it becomes something else.
-	- Then it becomes hey: "I keep being at this same place from this perpspective, hence the assumption: constantly a boolean/binary value, -> creaton of some loop through homology?"
-- Hence, from this point, one might say the binary sequence are two high-dimensional points (lcoally connected).
-- "Some line as saying: anything on it is the frame and deemed the same, all deemed as ignored, all deemed as the identity"
 
 ##### "Superpose in more detail"
 back & into.self
@@ -353,9 +346,11 @@ Stored any way, just deal with it.
 - Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
 - Link back to the other stuff from the notebook as well:
+	- Perspective of 0/1,
 	- modular numbers
 	- p-adic numbers
 	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
+	- ....
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
 
 - Could link the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
