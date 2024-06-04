@@ -257,17 +257,7 @@ encoding usually ignorant of its use
 
 ##### Mathematics, Physics, ..., Dynamics
 
-How to phrase storage as compute? It's using some compute to persist some structure, though we might not know how to use it for anything else than storage, this is essentially the case. All equated as the same resource? Persistence/Compute/Effort/resources  
-Structure vs combinators from certain perspectives that sort of thing?...
-
 ---
-
-Perhaps like this: Equality is admission of a difference and the ignorance of it.
-
-Ah the rewrite, similar to the structure itself, require the presence answer to three things beside it
-3 for the checks (duplication & traversal)
-+3 for the orbit checks?
-and 3 for 
 
 Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
 
