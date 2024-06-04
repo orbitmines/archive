@@ -157,9 +157,6 @@ back & into.self
 
 direction at the point**: What does it mean for a point yo become its own direction? ; function becoming data becoming toplogies becoming ..
 
-
-- Could use closensss as the initial/twrminal question and addition dimensionalities as the expansion of the additional rays. Could also create some automatic way of folding the ray structures onto a high dimensional tensor which preserves its steucture relative to the functioms applied to them theough gpu. Would have to check whether this is better than writing code in the way things like cuda/hip/ write the gpu kernels for gpgpu
-
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
 - [ ] Non-commital ignorance, lazy functions ; Carrying of an initial/terminal from a reference without traversing the direction
@@ -320,6 +317,7 @@ Stored any way, just deal with it.
 - Chyp
 - Physics also / superposition ; Using them for fractal expansion - shoving structure in between
 - [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics).
+- Folding ray on high-dimensional tensor. Or some GPU operators.
 - Tensor
 	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
 	- TODO: zip, tensor (are these the same as match/switch?)
