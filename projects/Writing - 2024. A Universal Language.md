@@ -22,7 +22,6 @@ add = and ... different perspective?
 `.add` on vertices -> equiv initial from one side, terminal from other side.
 ###### A
 - [ ]  
-	- [ ] Conjecture, 
 	  - Unknowns not yet verified with proposed consequences for either option?   
 	  - Expectations/claims based on incompleteness of some intermediary step.  
 	  - Also without expectation but simply an unsolved unknown.
