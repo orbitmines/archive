@@ -24,6 +24,7 @@ Unprocessed
 
 `.traverse`
 - Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
+- split off branching initial remainin o. the temrinal the ret marching along
 
 ---
 
@@ -253,19 +254,11 @@ Compression
 
 ##### On Naming, ..., Grouping
 
----
-
-split off branching initial remainin o. the temrinal the ret marching along
-
----
-
 At every branch comtains the one added thing necessary for spliiting the vranch for conservation, but that destroys the embedding if that wnats to be prrserved
 
 ---
 
-
 #### Equivalences
-- Global changes from local equivalences
 - Can just move the terminal which holds the pointer to the boundary
 - Is equivalent ; Can A & B be found on the a line/ray/graph? - Or a particular one
 - Equivalence at continuation is parallel composition
