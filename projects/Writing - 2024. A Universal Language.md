@@ -59,6 +59,7 @@ add = and ... different perspective?
 - Other way around: determining that something outside the context is looking inside the context
 - What do you do when the information you want is not available?
 - [ ] 'Unintended'/'Unrealized' effects realized? / Resources one didn't know one is consuming etc... (unknowns)  
+- [ ] Carrying of an initial/terminal from a reference without traversing the direction
 
 Ideas like:
 - [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
@@ -158,11 +159,6 @@ back & into.self
 direction at the point**: What does it mean for a point yo become its own direction? ; function becoming data becoming toplogies becoming ..
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
-
-- [ ] Non-commital ignorance, lazy functions ; Carrying of an initial/terminal from a reference without traversing the direction
-
-@see "What if this wasn't the case?" https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=%22What%20if%20this%20wasn%27t%20the%20case%3F%22
-
 
 ## Exploration and Discovery
 reverse engineering, debugging, checking for consistency, validation, fidelity
