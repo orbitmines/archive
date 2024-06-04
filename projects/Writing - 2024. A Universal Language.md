@@ -6,8 +6,6 @@ Unprocessed
 
 ---
 
-It consists of two parts, one, ..., the other..
-
 Examples
 - Tensor as restrictive case
 	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
