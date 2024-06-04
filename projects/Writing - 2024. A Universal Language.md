@@ -10,7 +10,7 @@ Unprocessed
 
 
 `.self`
-	`this = .self`: Equivalency Ray = Context Ray
+	`this = .self`: Equivalency Ray = Context Ray? BETTER NAMES
 
 `.terminal`
 
@@ -260,9 +260,6 @@ This is basically: When to decide that perspective switches should have a differ
 
 encoding usually ignorant of its use
 
-##### Mathematics, Physics, ..., Dynamics
-
----
 
 Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
 
