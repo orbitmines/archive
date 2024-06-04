@@ -6,7 +6,7 @@
 ```shell
 cd ~/Desktop/orbitmines/private-journal/
 
-find ./_/_/attachments/read/ -type f -newermt 2024-04-01
+find ./_/_/attachments/read/ -type f -newermt 2024-05-01
 
  git whatchanged --since '2024/04/01' --until '2024/04/30' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia
  
