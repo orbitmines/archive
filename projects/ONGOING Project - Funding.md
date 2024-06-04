@@ -23,16 +23,7 @@ Possible
 #### Once already operating, so either for me or someone else to handle this
 *always more exploration..*
 
-  - ![[R&D-samenwerkingsprojecten]] / [[R&D-samenwerkingsprojecten en Artificiële Intelligentie (AI)]]
-	  - [ ] Most realistic, do this after an initial injection of cash. Get a 2nd person involved, should cover 35% of costs of the project early on.
-
-
-#### Proposals that need obviousness so people can understand the scope of the project - It's value needs to be clear
-- [ ] [[Dutch Research Council (NWO)]] 
-  - [ ] Starter-grant (or was this ERC??) https://erc.europa.eu/apply-grant/starting-grant
-  - [ ] Summit grant (2024?) : If the conceptual framework is sufficiently advanced a 2024 equivalent of this perhaps (https://www.nwo.nl/en/calls/summit-grant)  
-    - Have to convince a 10-12 multidisciplinary board: https://www.nwo.nl/en/calls/open-technology-programme-2023, so far the most interesting looking one. Technically signalled for a associate professor, but we'll see.  
-    ~~- "I suppose that this admission will be quite irregular, and a detailed background is justified." ; Get around the "usually for universities"  ~~
+  - ![[R&D-samenwerkingsprojecten]] 
 
 #### Loans
 - ![[Vroegefasefinanciering (VFF)]]
@@ -83,6 +74,8 @@ Possible
 - [ ] https://github.com/nayafia/lemonade-stand
 - [x] Look if this is a possible grant [Fundamentals of Software Engineering (RIA) 15 Nov 2023 - 19 March 2024](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl4-2024-digital-emerging-01-22;callCode=null;freeTextSearchKeyword=computer;matchWholeText=true;typeCodes=0,1,2,8;statusCodes=31094501,31094502;programmePeriod=null;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState) ; All these are based on large project initiatives, will need to have something already setup to even be remotely considered for something like this. 
 - [ ] https://github.com/nikitavoloboev/knowledge/blob/main/docs/business/startups/funding.md
+- [ ] / [[R&D-samenwerkingsprojecten en Artificiële Intelligentie (AI)]]
+	  - [ ] Most realistic, do this after an initial injection of cash. Get a 2nd person involved, should cover 35% of costs of the project early on.
 
 Scaling?
 *I just need time to work on the ideas, there's not a lot other than a small compute station or involving other in costs for now, so these probably don't make much sense yet. Maybe would want to involve other people soon though.*
