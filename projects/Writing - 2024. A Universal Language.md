@@ -22,30 +22,7 @@ More generally, we cannot actually guarantee consistency of anything. And so the
 
 
 ```
-from __future__ import annotations  
-  
-import functools  
-import inspect  
-from typing import Iterator, AsyncIterator, Union, Callable, Any, Iterable, AsyncIterable, Tuple  
-  
-# GLOBAL_ARGS & GLOBAL_KWARGS can be phrased as ignorant context? - TODO: Similar to enter_exit contexts. Or contexts far away we don't yet, or dont know how to get access to.  
-def __ray__(*GLOBAL_ARGS, **GLOBAL_KWARGS):  
-  
- 
-  
-    # TODO  
-  def method(func: Callable[[Any, ...], Any]) -> Ray:  
-    # print(f'{type(func)}')  
-    # def method(*args, **kwargs) -> Ray:  #   return Ray()    # return await func(self, *args, **kwargs)  
-    pass  
-  
-  def wrapped(func):  
-    @functools.wraps(func)  
-    def with_logging(*args, **kwargs):  
-      print('Ray.', func.__name__, args, kwargs)  
-      return func(*args, **kwargs)  
-  
-    return with_logging  
+
   
   # TODO, wraps in @ray  
   for name, fn in inspect.getmembers(Ray, inspect.isfunction):  
