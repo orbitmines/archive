@@ -250,9 +250,6 @@ Compression
 
 ##### On Naming, ..., Grouping
 
-This is basically: When to decide that perspective switches should have a different name associated with them, when they can probably be thrown in a bag with other stuff: I.e. Why is it so significantly different it should be separate?
-
-
 
 
 Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
