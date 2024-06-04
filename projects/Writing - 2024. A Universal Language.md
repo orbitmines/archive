@@ -30,6 +30,7 @@ Unprocessed
 - Can just move the terminal which holds the pointer to the boundary
 - Ignorance/equivalence along arbitrary rays. = Equivalence
 - Undecided terminal for traversal / or break off structure to explore both.
+- Hard to say it's terminating. Need an orbit for that, and access to your own modular structure to say that. Otherwise it's "open loop traversal". Which is fine, just no abstract realization. Simple example is references to references. Or keep going in orbits wh
 
 Rewriting/replacing
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
@@ -261,16 +262,7 @@ Compression
 - [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
 - [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
 
-##### On Naming, ..., Grouping
-
-At every branch comtains the one added thing necessary for spliiting the vranch for conservation, but that destroys the embedding if that wnats to be prrserved
-
 ---
-### Traversing
--  Dereferencing is likely in many cases quickly subject to infinite stepping (similar to INITIAL -> INITIAL, TERMINAL -> TERMINAL, VERTEX -> VERTEX. (Could be that this means that there's no continuation, a self-reference defined here, or it's some mechanism of halting.)
-	- Simple example of infinitely finding terminals, or a reference to 'nothing - infinitely'.
-	- If both are references, allow deref of both in parallel? - for later probably
-
 
 #### Universal Version Control
 - [ ] Arbitrary (partial, ..., incomplete) history of arbitrary functions, rewrites, ..., data types (generalized to some arbitrary Ray).
