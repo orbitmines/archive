@@ -1,3 +1,5 @@
+
+todo; screenshot list   2 week
 ##### Reading  
 - [ ] Turings famous paper ([[Paul Taylor]])
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7

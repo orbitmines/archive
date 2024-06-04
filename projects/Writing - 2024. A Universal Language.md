@@ -32,8 +32,9 @@ Unprocessed
 - Undecided terminal for traversal / or break off structure to explore both.
 - Hard to say it's terminating. Need an orbit for that, and access to your own modular structure to say that. Otherwise it's "open loop traversal". Which is fine, just no abstract realization. Simple example is references to references. Or keep going in orbits when you can shut off the traversal.
 
-Rewriting/replacing
+Rewriting/replacing/collapsing
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
+- Local modular structure: left/right collapse simultaneously to get a modular rewrite in.
 
 Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
 
@@ -381,10 +382,6 @@ could also do simple superposing of operators
 Could like the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
   
 back & into.self
-
----
-
-todo; screenshot list   2 week
 
 ---
 
