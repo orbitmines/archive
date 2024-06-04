@@ -88,7 +88,7 @@ The last 10 months of my literary exposure (2023-07 - 2024-04)
 - [Pluralistic: The disenshittified internet starts with loyal "user agents" (2024)](https://pluralistic.net/2024/05/07/treacherous-computing/) ; *Cory Doctorow*
 - [Elon Musk (2023)](https://en.wikipedia.org/wiki/Elon_Musk_(Isaacson_book)) ; *Walter Isaacson*
 
-- :youtube: :semf: [🚀🥳Fun Raising🥳🚀 | Funding & School Q&A + SEMF Social](https://www.youtube.com/watch?v=FL8zNDbrAR0) ; *Fadi Shawki, Álvaro Moreno Vallori, Alejandro (Alex) Sospedra Orellano, Elena Isasi Theus, *  
+- :youtube: :semf: [🚀🥳Fun Raising🥳🚀 | Funding & School Q&A + SEMF Social](https://www.youtube.com/watch?v=FL8zNDbrAR0) ; *Fadi Shawki, Álvaro Moreno Vallori, Alejandro Sospedra Orellano, Elena Isasi Theus, Anmol Agrawal, Carlos Zapata Carratalá*
 - :youtube: :lex_fridman_podcast: [Human Memory, Imagination, Deja Vu, and False Memories | Lex Fridman Podcast #430](https://www.youtube.com/watch?v=4iuepdI3wCU) ; *Charan Ranganath, Lex Fridman*  
 - :youtube: :lex_fridman_podcast: [Jungle, Apex Predators, Aliens, Uncontacted Tribes, and God | Lex Fridman Podcast #429](https://www.youtube.com/watch?v=pwN8u6HFH8U) ; *Paul Rosolie, Lex Fridman*  
 - :youtube: :toe: [Longevity, Meditation, Philosophies, Consciousness, Nature of Reality](https://www.youtube.com/watch?v=PXkhhHPUud4) ; *Bryan Johnson, Curt Jaimungal*
