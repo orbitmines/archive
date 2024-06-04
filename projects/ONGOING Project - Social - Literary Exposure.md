@@ -68,9 +68,7 @@ console.log(res);
 ###### *Every month*
 ---
 
-@orbitmines explorations - 2024, April: Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all.
-
-https://discord.orbitmines.com
+@orbitmines explorations - 2024, May: Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all.
 
 ###### *Every 10 months. - Instagram*
 ---
