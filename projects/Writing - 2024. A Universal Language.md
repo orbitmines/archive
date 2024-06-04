@@ -36,6 +36,10 @@ Unprocessed
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
 
+`.add`, `.superpose`, `.and`
+- validity; checks as superposed maybe
+
+
 ---
 
 Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
@@ -149,9 +153,6 @@ back & into.self
 
 direction at the point**: What does it mean for a point yo become its own direction? ; function becoming data becoming toplogies becoming ..
 
-validity; checks as superposed maybe
-
-Tripple superposition, two continuated (two perm), binary superposition  
 
 - Could use closensss as the initial/twrminal question and addition dimensionalities as the expansion of the additional rays. Could also create some automatic way of folding the ray structures onto a high dimensional tensor which preserves its steucture relative to the functioms applied to them theough gpu. Would have to check whether this is better than writing code in the way things like cuda/hip/ write the gpu kernels for gpgpu
 
@@ -168,8 +169,6 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 	- [ ] Similarly: unresolved pointers, cut off/short, pending, waiting for ..
 	- [ ] 'Unintended'/'Unrealized' effects realized? / Resources one didn't know one is consuming etc... (unknowns)  
 
-
-The concept is never really direct execution, and if it is, that's often more like ignorance. Basically, arbitrary lazyness. Like this we basically rephrase "output" or "halting" as "what if we assume it halts here". Inaccessible, ..., Ignorant ones turn into the inability to ask that question.  
 
 @see "What if this wasn't the case?" https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=%22What%20if%20this%20wasn%27t%20the%20case%3F%22
 
@@ -344,6 +343,7 @@ Stored any way, just deal with it.
 		- orbiting ray around it / bouncing off the edges ; generalize
 		- ...
 		- Perspective of 0/1,
+	- Tripple superposition
 	- modular numbers
 	- p-adic numbers
 	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
