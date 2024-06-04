@@ -35,6 +35,7 @@ Unprocessed
 Rewriting/replacing
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 
+Causal = ordering = sorting = indexing = assymmetry ; grouped usefully
 
 ---
 
@@ -279,6 +280,7 @@ Compression
 - [ ] How to separate one's personal work, how to combine them, merge them, view them from the outside.
 
 ### Some existing ideas: 
+
 - [Causal Invariance](https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-phenomenon-of-causal-invariance/)
 	- [Wolfram Physics I: Basic Formalism, Causal Invariance and Special Relativity (2020)](https://www.youtube.com/watch?v=BV3a0PzNNqE) ; *Jonathan Gorard*
 	- [Causal invariance versus confluence]() ; *Jonathan Gorard, Mark Jeffery*
