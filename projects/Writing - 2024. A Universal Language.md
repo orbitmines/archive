@@ -92,8 +92,6 @@ Ideas like:
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
-`.and` compose terminal/initial
-	- Only thing needed for addition, is equivalencing initial/terminal. - Equivalencing continuations. 
 `.terminal / ..`
 	- Move `.self` to `.terminal`
 `.traverse / .all / .map / .any`
