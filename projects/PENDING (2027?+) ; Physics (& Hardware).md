@@ -74,6 +74,8 @@ warp-level primitives?
 Hermission/herminisity /time reversal; i.e. ray swap ; look up hermission?
 
 Blackhole as boundary?
+How about phrasing that nothing there as traversal branching into a small local black hole. So more structure more of these small black holes, could you phrase energy release as these local realizations of some 'nothing' as the things that have actually built up additional energy you otherwise wouldn't see?
+
 
 ---
 
