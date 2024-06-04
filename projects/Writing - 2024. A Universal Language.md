@@ -162,12 +162,6 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 - [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics)
 - [ ] Using them for fractal expansion - shoving structure in between.
 
-##### self-loop, halting
- Message: "Cannot run, need more implementations, for example these:"
-
-##### Superposing Languages
-Could just randomly start generating possible combinations of logical gates (or any methods on Ray), which if the runtime has an explanation for (or in the debug mode just to listen), you can hook into that and create an implementation. In the case of python made something along the lines of an interpreter which gives you one, asks to write one in python...
-
 ##### Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 *better name*
 
@@ -195,6 +189,9 @@ reverse engineering, debugging, checking for consistency, validation, fidelity
 
 
 Fuzzing / discovery
+Could just randomly start generating possible combinations of logical gates (or any methods on Ray), which if the runtime has an explanation for (or in the debug mode just to listen), you can hook into that and create an implementation. In the case of python made something along the lines of an interpreter which gives you one, asks to write one in python...
+
+
 Partially, locally, ... (same as on orbits)
 
 (other ideas, examples: Post-Silicon Validation, ... ?)
