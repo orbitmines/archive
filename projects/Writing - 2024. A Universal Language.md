@@ -18,6 +18,9 @@ Unprocessed
 `.is_extreme`
 - Extremes as superposed pattern matcher.
 
+-> This needs a better pattern for the different abstraction layers. (for everything)
+`.is_equivalent`
+`.is_composed`
 
 ---
 
@@ -246,18 +249,11 @@ Compression
 - [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
 
 ##### On Naming, ..., Grouping
-
-```py
-# Python:  
-# - @staticmethod : 
-# - def method(self) : Implements a function from perspective of 'self'.
-```
-
 Difference in most concepts come from the context in which something applied, other than that most things have a very general pattern???
 - Most definitions and/or names of things assume some perspective. Make it hard to generalize.
 
 This is basically: When to decide that perspective switches should have a different name associated with them, when they can probably be thrown in a bag with other stuff: I.e. Why is it so significantly different it should be separate?
- - ex: TODO: Do I want to keep the is_equiv/is_composed pattern? Or simplify to one of the two?
+
 
 
 
