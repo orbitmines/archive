@@ -131,12 +131,6 @@ Traversing `.self`
 - detach all connections into single one, what's this interpretation , move some connections to ignorant ref only,
 - Multiplier edge, ring addition
 - Only branch in the direction your going, not on top/below just create rhat pocket ref like that
-- 
-##### "Binary"
-just list a few possible ways of constructing it.
-- binary reverse op is also conceivable as initial/self/terminal over two possible values
-- orbiting ray around it / bouncing off the edges ; generalize
-- ...
 
 
 ##### "Superpose in more detail"
@@ -156,7 +150,6 @@ back & into.self
 direction at the point**: What does it mean for a point yo become its own direction? ; function becoming data becoming toplogies becoming ..
 
 validity; checks as superposed maybe
-
 
 Tripple superposition, two continuated (two perm), binary superposition  
 
@@ -346,7 +339,11 @@ Stored any way, just deal with it.
 - Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
 - Link back to the other stuff from the notebook as well:
-	- Perspective of 0/1,
+	- "Binary": just list a few possible ways of constructing it.
+		- binary reverse op is also conceivable as initial/self/terminal over two possible values
+		- orbiting ray around it / bouncing off the edges ; generalize
+		- ...
+		- Perspective of 0/1,
 	- modular numbers
 	- p-adic numbers
 	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
