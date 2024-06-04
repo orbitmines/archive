@@ -290,7 +290,7 @@ Compression
 		- Or basically for Causal Invariance: Irrespective of some order in which something is applied, I can after those things which are applied say: "I can transform all those results in some way where they would be expected to be this thing."
 		- Or: After some variant application of functions, I apply some transformation which accepts all those superposed possible branches, which will all result in some invariant property (boolean check to whether I deem them as the same, or after some ordering function and some check whether I deem them as the same, ... etc.)
 		- Or: Variance is handled in such a way that after some function application we are left with something we deem invariant with respect to possible inputs.
-	- As long as you can recall/.../remember something, in the case of some eventual consistency, you're often going to be causally invariance in some local respect (ignoring some difference).
+	- As long as you can recall/.../remember something, in the case of some eventual consistency, you're often going to be causally invariant in some respect (ignoring some difference).
 
 
 #### Rendering engine
