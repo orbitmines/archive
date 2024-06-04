@@ -196,7 +196,7 @@ Leaves the following questions:
 empty on .self, vs .self ref vs ref, ; selection of two boundaries.
 
 
-##### Exploration and Discovery
+## Exploration and Discovery
 reverse engineering, debugging, checking for consistency, validation, fidelity
 
 - [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
@@ -361,15 +361,6 @@ Link back to the other stuff from the notebook as well:
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
 
 - Could link the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
-  
+- pond example
 
----
-
-[[2024-06-02]]
-Can phrase the conceptual extremes as an assumption of halting at the boundary, clearly then you consteuct from there the idra, what if that wasn't the case - it not being the boundary at all. Hence the words pointing to some extreme are more accurately phrased as an assumption like that; "But there could be arbitrary structure there which is ignored"  
-  
-could use the pond dance as an example, "dont need to know to predict"
-
----
-  
 
