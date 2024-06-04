@@ -126,11 +126,7 @@ autogen these
 ```
 
 ```
-  
-def __setattr__(self, key, value) -> Ray: raise NotImplementedError  
-def __get__(self, instance, owner) -> Ray: raise NotImplementedError  
-def __set__(self, instance, value) -> Ray: raise NotImplementedError  
-def __delete__(self, instance) -> Ray: raise NotImplementedError  
+
 def __iter__(self) -> Iterator[Ray]: return self  
 def __aiter__(self) -> AsyncIterator[Ray]: return self  
 def __enter__(self) -> Ray: raise NotImplementedError  
