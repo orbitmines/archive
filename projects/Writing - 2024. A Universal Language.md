@@ -87,8 +87,6 @@ Ideas like:
 `.reverse`
 		# @see "Reversibility after ignoring some difference": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility  
 		# @see "More accurately phrased as the assumption of Reversibility: with the potential of being violated.": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Assumptions%20%26%20Assumption%20Violation
-`.is_extreme`
-		- reference to boundary 
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
