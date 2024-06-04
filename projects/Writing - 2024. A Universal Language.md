@@ -36,7 +36,7 @@ Unprocessed
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
 
-`.add`, `.superpose`, `.and`
+`.add`, `.superpose`, `.and`: 
 - validity; checks as superposed maybe
 - single equivalence?
 
@@ -91,8 +91,7 @@ Ideas like:
 - Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
 `.and` compose terminal/initial
-	- Only thing needed for addition, is equivalencing initial/terminal. - Equivalencing continuations.  
-	- and/addition becomes sa.e concept
+	- Only thing needed for addition, is equivalencing initial/terminal. - Equivalencing continuations. 
 `.terminal / ..`
 	- Move `.self` to `.terminal`
 	- Terminal expectation ; could also be arbitrary structure again.
