@@ -81,6 +81,8 @@ The last 10 months of my literary exposure (2023-07 - 2024-04)
 
 ---
 
+![[Pasted image 20240604084826.png]]
+
 # 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
