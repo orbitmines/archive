@@ -14,6 +14,10 @@ Unprocessed
 
 `.terminal`
 
+
+`.is_extreme`
+- Extremes as superposed pattern matcher. 
+
 ---
 
 Examples
@@ -275,7 +279,7 @@ At every branch comtains the one added thing necessary for spliiting the vranch 
 
 ---
 
-Extremes as superposed pattern matcher. 
+
 #### Equivalences
 - Global changes from local equivalences
 - Can just move the terminal which holds the pointer to the boundary
