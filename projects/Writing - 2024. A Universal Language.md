@@ -6,6 +6,16 @@ Unprocessed
 
 ---
 
+`.initial`
+
+
+`.self`
+
+
+`.terminal`
+
+---
+
 Examples
 - Tensor as restrictive case
 	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
