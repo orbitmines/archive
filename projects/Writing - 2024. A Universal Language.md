@@ -32,18 +32,19 @@ Unprocessed
 - Undecided terminal for traversal / or break off structure to explore both.
 - Hard to say it's terminating. Need an orbit for that, and access to your own modular structure to say that. Otherwise it's "open loop traversal". Which is fine, just no abstract realization. Simple example is references to references. Or keep going in orbits when you can shut off the traversal.
 
-Rewriting/replacing/collapsing
+`.rewrite`, `.replace`, `.collapse`
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
 
-Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
+---
 
+Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
 
 ---
 
 add = and ... different perspective?
 `.add` on vertices -> equiv initial from one side, terminal from other side.
-###### A
+## Modelling Unknowns
 - [ ]  
 	  - Unknowns not yet verified with proposed consequences for either option?   
 	  - Expectations/claims based on incompleteness of some intermediary step.  
