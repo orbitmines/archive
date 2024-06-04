@@ -12,9 +12,6 @@ Pending
 
 Done
 - `.nl` WBSO 2024: Done for 1200 hours for [[Fadi Shawki]] - € 23.332 deduction
-Possible
-- [ ] https://www.nwo.nl/en/calls/open-competition-domain-science-m-2023/2024
-- [ ] 
 
 ---
 
