@@ -9,7 +9,7 @@ Unprocessed
 `.initial`
 
 
-`.self`
+`.self`: What is our current position? (can dynamically)
 	`this = .self`: Equivalency Ray = Context Ray? BETTER NAMES
 
 `.terminal`
@@ -59,7 +59,6 @@ Ideas like:
 
 
 ---
-
 
 process
 Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
