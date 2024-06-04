@@ -1,14 +1,12 @@
 ##### Hi there, no clue why you're here, but I'm still in need of some funding, none of these have worked for me yet: I'm roaming at https://discord.orbitmines.com/
 
-*Will always be ongoing - basically realizable as economic/practical/logistical considerations for the projects*
-*Like things with hiring, always try to cover the things not already covered with a different approach*
-
-
-- [ ] Open Technology Programme 2024
+*Will always be ongoing - basically realizable as economic/practical/logistical considerations for the projects. Like things with hiring, always try to cover the things not already covered with a different approach.*
 
 ## 2024
-Retry
+Try
 - [ ] https://www.sidnfonds.nl/
+- [ ] Open Technology Programme 2024
+
 Pending
 - [ ] https://openwebsearch.eu/community/3rdparty-calls/call2/
 
@@ -24,7 +22,6 @@ Possible
 *always more exploration..*
 
   - ![[R&D-samenwerkingsprojecten]] 
-
 #### Loans
 - ![[Vroegefasefinanciering (VFF)]]
 	- [[UNIIQ]] https://uniiq.nl/en/innovative-startup-founder/
@@ -33,6 +30,8 @@ Possible
 ---
 
 # Useless
+
+---
 
 ##### Longshots - only if it's clear I have something
 *Long shots like this should more be like additional ways of acquiring funding along the line, those which align with the things I'm already doing. Not focus on this stuff directly. Basically, they should mostly be the small work of converting the ideas to understandable format to attack those problems, not solely focus on them.*
@@ -76,6 +75,12 @@ Possible
 - [ ] https://github.com/nikitavoloboev/knowledge/blob/main/docs/business/startups/funding.md
 - [ ] / [[R&D-samenwerkingsprojecten en Artificiële Intelligentie (AI)]]
 	  - [ ] Most realistic, do this after an initial injection of cash. Get a 2nd person involved, should cover 35% of costs of the project early on.
+[ ] [[Dutch Research Council (NWO)]] 
+  - [ ] Starter-grant (or was this ERC??) https://erc.europa.eu/apply-grant/starting-grant
+  - [ ] Summit grant (2024?) : If the conceptual framework is sufficiently advanced a 2024 equivalent of this perhaps (https://www.nwo.nl/en/calls/summit-grant)  
+    - Have to convince a 10-12 multidisciplinary board: https://www.nwo.nl/en/calls/open-technology-programme-2023, so far the most interesting looking one. Technically signalled for a associate professor, but we'll see.  
+    ~~- "I suppose that this admission will be quite irregular, and a detailed background is justified." ; Get around the "usually for universities"  ~~
+
 
 Scaling?
 *I just need time to work on the ideas, there's not a lot other than a small compute station or involving other in costs for now, so these probably don't make much sense yet. Maybe would want to involve other people soon though.*
