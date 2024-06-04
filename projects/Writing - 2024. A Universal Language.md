@@ -1,5 +1,8 @@
 *Let's try for < [[2024-06-30]]*
 
+- [Wikipedia universalis pageviews (this year)](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&range=this-year&pages=Characteristica_universalis|Lingua_generalis) ; 👀 Let's see the change
+- or as [[Jonathan Gorard]] phrased a similar concept; a "general theory of graphs" (See [[Category Theory]] notes when at [[Society for Multidisciplinary and Fundamental Research (SEMF)]]))
+
 ---
 
 It consists of two parts, one, ..., the other..
