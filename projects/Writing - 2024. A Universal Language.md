@@ -151,7 +151,6 @@ Encoding/symbols..
 
 ##### "Superpose in more detail"
 back & into.self
-superposing of operators (multiple abstract implementations)
 
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
 	- ref on self-reference?
@@ -285,7 +284,7 @@ Compression
 	- As long as you can recall/.../remember something, in the case of some eventual consistency, you're often going to be causally invariant in some respect (ignoring some difference).
 
 
-#### Rendering engine
+#### III. Rendering engine
 visualization
 - Small ring outline in continuation + vertex?
 - Intersection on screen been non-intersection in the structure, way of rendering it.
