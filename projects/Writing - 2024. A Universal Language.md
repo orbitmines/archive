@@ -9,7 +9,7 @@ Unprocessed
 `.initial`
 
 
-`.self`: What is our current position? (can dynamically)
+`.self`: What is our current position? (can dynamically change) - "Moving an abstraction layer lower - what's inside?"
 	`this = .self`: Equivalency Ray = Context Ray? BETTER NAMES
 
 `.terminal`
@@ -77,9 +77,6 @@ Hence the difference between add/sub and a normal boolean. Is context. What add/
 	  # TODO: compile/map/cast/ ... probably fit in that separate category. Wrap to any object if translation exists (in python case inspect?). - Realize is probably similarly on another level of abstraction.  
 	  # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
   
-`.self`
-	  # An arbitrary Ray, defining what our current position is equivalent to.  
-	  # Moving to the intersecting Ray at `.self` - as a way of going an abstraction layer (lower), and asking what's inside.    
 `.reverse`
 		# @see "Reversibility after ignoring some difference": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility  
 		# @see "More accurately phrased as the assumption of Reversibility: with the potential of being violated.": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Assumptions%20%26%20Assumption%20Violation
