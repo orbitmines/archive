@@ -352,7 +352,8 @@ Stored any way, just deal with it.
 - Encoding: Usually ignorant of its use
 - Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
-Link back to the other stuff from the notebook as well:
+- Link back to the other stuff from the notebook as well:
+	- modular numbers
 	- p-adic numbers
 	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
