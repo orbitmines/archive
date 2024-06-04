@@ -142,19 +142,7 @@ kwargs/args  # TODO: Named args in the sense, similar to class definition, in th
       # TODO: If nothing works, probably like any function, that means .none: "Cannot determine what to do without context of where we are.", the thing that calls .terminal is the thing that needs to make sense of that?, Then it makes sense that a .reference calls into its .self, since it cannot find anything in its direction, it assumes it's at a boundary, and then starts traversing .self ; Needs generalization  
     )  
 
-  
 
-  # TODO: Like this, ignorant vs non-ignorant? What to do here?  
-  #   return vertex  
-  # TODO: These are very close to binary ops / makes sense since some/none is a boolean.  
-  #       /**  
-  #        * Placing existing structure on a new Reference, Boundary or Vertex:  
-  #        */  
-  #         // TODO: These should allow as_vertex as zero-ary, but that means self = self_reference, not none. ?  
-  #         /**  
-  #          * Moving `self` to `.self` on an abstraction layer (higher). As a way of being able to describe `self`.  #          *  #          * TODO: the .reference might need two levels of abstraction higher, one to put it at the .self, another to reference that thing? (Depends a bit on the execution layer)  
-  #          */  
-  #            // TODO as_reference.as_vertex instead of as_vertex ignorant by default?  
 
  
 
