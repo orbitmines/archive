@@ -28,6 +28,8 @@ Unprocessed
 - Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
 - split off branching initial remainin o. the temrinal the ret marching along
 - Can just move the terminal which holds the pointer to the boundary
+- Ignorance/equivalence along arbitrary rays. = Equivalence
+- Undecided terminal 
 
 ---
 
@@ -260,12 +262,6 @@ Compression
 At every branch comtains the one added thing necessary for spliiting the vranch for conservation, but that destroys the embedding if that wnats to be prrserved
 
 ---
-
-#### Equivalences
-- Induced ignorance/equivalence along arbitrary rays. = Equivalence
-
-- Context is defines what something looks like from a particular perspective: Or: "What it is"
-
 ### Traversing
 -  Dereferencing is likely in many cases quickly subject to infinite stepping (similar to INITIAL -> INITIAL, TERMINAL -> TERMINAL, VERTEX -> VERTEX. (Could be that this means that there's no continuation, a self-reference defined here, or it's some mechanism of halting.)
 	- Simple example of infinitely finding terminals, or a reference to 'nothing - infinitely'.
