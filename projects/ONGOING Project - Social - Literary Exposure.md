@@ -85,7 +85,9 @@ The last 10 months of my literary exposure (2023-07 - 2024-04)
 
 
 ### Literary Exposure
-- :youtube: :tinycorp: [ ()]() ; *George Hotz*
+- [Self-exfiltration is a key dangerous capability (2023)](https://aligned.substack.com/p/self-exfiltration) ; *Jan Leike*
+- [ ()]() ; **
+- [ ()]() ; **
 
 ---
 
