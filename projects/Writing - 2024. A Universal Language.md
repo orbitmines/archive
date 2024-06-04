@@ -45,7 +45,8 @@ Unprocessed
 
 - Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
 - empty on .self, vs .self ref vs ref, ; selection of two boundaries.
-
+- Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
+- Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 
 ---
 
@@ -69,16 +70,13 @@ Ideas like:
 
 ---
 
-process
-Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
-
- Perspective switching
+## Perspective switching
  -  "Applying the same thing in a different context"  
  -  Somewhat related to Functors?  
 
 - [ ] ignorant referencing ray ; all these as ; 
 
-Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
+
 
 `.terminal`
 	# TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?  
