@@ -40,11 +40,7 @@ def orbit(self) -> Ray:
   
 # def free(self): raise NotImplementedError  
   
-@staticmethod  
-def function(func: Callable[[Any, ...], Any]) -> Ray:  
-  a = Ray()  
-  return a  
-  
+
 def reverse(self) -> Ray:  
   return Ray(initial=self.terminal, self=self.self, terminal=self.initial)  
   
@@ -105,6 +101,8 @@ def __itruediv__(self) -> Ray: raise NotImplementedError
 def __imatmul__(self) -> Ray: raise NotImplementedError  
 def __ifloordiv__(self) -> Ray: raise NotImplementedError
 
+@staticmethod  
+def boolean() -> Ray: return (Ray.none * 2).orbit
 ```
 
 ```ts
