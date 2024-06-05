@@ -113,7 +113,7 @@ Ideas like:
 `.as_[]` Switch of perspective should automatically map any other functionality, say `.traverse` .. 
 - Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
-- number/int/... chain .any/
+- number/int/... chain .any/.all with .as_ for example. (Prepare on the boundary, then shove it through. - lazy func)
 `.terminal / ..`
 - Move `.self` to `.terminal
 `.traverse / .all / .map / .any`
