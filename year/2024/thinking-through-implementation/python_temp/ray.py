@@ -5,10 +5,6 @@ class Ray:
 # def initial(self) -> Ray: raise NotImplementedError
 # def self(self) -> Ray: raise NotImplementedError    # def terminal(self) -> Ray: raise NotImplementedError
 
-@staticmethod
-def boolean() -> Ray: return (Ray.none * 2).orbit
-
-
 
 # @staticmethod
 def function(func: Callable[[Any, ...], Any], name: str):
@@ -36,28 +32,3 @@ setattr(Ray, name, function(not_implemented, name=name))
 
 # Move aliases elsewhere?
 # def alias(func: Callable[[Any, ...], Any], *aliases):  #   for alias in aliases: setattr(Ray, alias, func)  # alias(Ray.terminal, '__call__')
-return Ray
-
-Ray = __ray__()
-
-if __name__ == "__main__":
-a = Ray.none
-b = Ray.none
-a, b = Ray.none * 2
-a, b = Ray.boolean
-    *a, b = Ray.boolean
-a, *b = Ray.boolean
-a, *between, b = Ray.boolean
-b, none = -Ray.boolean
-b, a = -Ray.boolean.orbit
-a, b = --Ray.boolean.orbit
-b, a = ---Ray.boolean.orbit
-a, b = --Ray.boolean
-
-a().test()
-
-# a, b = Ray.none * 2
-print('a', a)
-print('b', b)
-print('c', c)
-print('d', d)

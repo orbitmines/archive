@@ -1,5 +1,27 @@
 from ray import Ray, ray
 
+if __name__ == "__main__":
+    a = Ray.none
+b = Ray.none
+a, b = Ray.none * 2
+a, b = Ray.boolean
+*a, b = Ray.boolean
+a, *b = Ray.boolean
+a, *between, b = Ray.boolean
+b, none = -Ray.boolean
+b, a = -Ray.boolean.orbit
+a, b = --Ray.boolean.orbit
+b, a = ---Ray.boolean.orbit
+a, b = --Ray.boolean
+
+a().test()
+
+# a, b = Ray.none * 2
+print('a', a)
+print('b', b)
+print('c', c)
+print('d', d)
+
 .function
 
 
