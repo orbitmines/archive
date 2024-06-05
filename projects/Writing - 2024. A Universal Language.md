@@ -100,7 +100,7 @@ Ideas like:
 - [ ] ignorant referencing ray ; all these as ; 
 
 
- Open inputs, outputs, compute substrate, ..., interfaces ; means inputs/outputs are extremes match on initial/terminal. Substrate is anything in between. Interfaces are control of that in between if we're not fully defining how it is traversed by defu
+ Open inputs, outputs, compute substrate, ..., interfaces ; means inputs/outputs are extremes match on initial/terminal. Substrate is anything in between. Interfaces are control of that in between if we're not fully defining how it is traversed by default.
 
 `.terminal`
 	# TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?  
