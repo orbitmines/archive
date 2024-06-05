@@ -96,44 +96,6 @@ namespace Ray {
      */
   }
 
-  export type Constructor = { proxy?: ProxyHandler<Ray.Any>, debug?: Debug.Listener, }
-
-  export class Instance extends JS.Class.Instance<Ray.Any> {
-
-    listeners: Debug.Listener[];
-
-    constructor({
-      proxy,
-      debug,
-    }: Ray.Constructor = {}) {
-      super({ proxy: proxy ?? Ray.ProxyHandlers.Default });
-
-      this.listeners = debug ? [debug] : [];
-    }
-
-    /** Used to jump out of the proxy. */
-    get ___instance(): Instance { return this; }
-
-    debug = <T>(
-      on: Debug.Listener,
-      func: JS.ParameterlessFunction<T>
-    ): T => {
-      this.listeners.push(on);
-      const ret = func();
-      this.listeners.pop(); // TODO?
-
-      return ret;
-    }
-
-    /** Simple debug/traversal mechanism. */
-    on = (event: Omit<Debug.Event, 'self'>) => {
-      if (!this.listeners) return;
-
-      this.listeners.forEach(listener => listener({ ...event, self: this.proxy }));
-    }
-
-  }
-
   /** Ray is an Enum(eration) */
   export namespace Enum {
 
