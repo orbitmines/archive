@@ -29,9 +29,5 @@ o2 = ({ initial, vertex, terminal }: any): Ray.Any => {
 
   return this;
 }
-  
-as_string = (): string => this.as_array().map(ref => ref.any.js).join(','); // TODO: PROPER
-
-as_number = this.as_int;
 
 ```
