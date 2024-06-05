@@ -1,26 +1,14 @@
-from __future__ import annotations
-
-import functools
-import inspect
-    from typing import Iterator, AsyncIterator, Union, Callable, Any, Iterable, AsyncIterable, Tuple
 
 
-def __ray__(
-# GLOBAL_ARGS & GLOBAL_KWARGS can be phrased as ignorant context? - TODO: Similar to enter_exit contexts. Or contexts far away we don't yet, or dont know how to get access to.
-*GLOBAL_ARGS, **GLOBAL_KWARGS
-):
+
 class Ray:
 # def initial(self) -> Ray: raise NotImplementedError
 # def self(self) -> Ray: raise NotImplementedError    # def terminal(self) -> Ray: raise NotImplementedError
-@staticmethod
-def __new__(cls, *args, **kwargs):
-return super().__new__(cls)
 
 @staticmethod
 def boolean() -> Ray: return (Ray.none * 2).orbit
 
-def __init__(self, *args, **kwargs) -> Ray:
-    pass
+
 
 # @staticmethod
 def function(func: Callable[[Any, ...], Any], name: str):
