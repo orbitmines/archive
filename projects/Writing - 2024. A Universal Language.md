@@ -50,6 +50,28 @@ Unprocessed
 - Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
 - Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 
+**This is just preliminary, I'll change this later**  
+  
+> [!WARNING]  
+> Reasoning backwards, what should the JavaScript interface look like?  
+  
+- [ ] Applying a function on a Ray (vertex/initial/terminal) ; then go inside, insde can again be a vertex/initial/terminal on each vertex, apply on those.  
+  
+---  
+  
+Let's take logic gates as an example? - and maybe logic with different equiv func? - Like switching between true/false on each check?  
+  
+```ts  
+import Ray from '@orbitmines/ar.ray';  
+  
+const initial = Ray.boolean().orbit().size(2);  
+const terminal = Ray.boolean().orbit().size(2);  
+  
+  
+// TODO: Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
+  
+```
+
 ---
 
 add = and ... different perspective?
@@ -68,7 +90,6 @@ Ideas like:
 - [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
 - [ ] Non-abstract realizations: Potentially important: distinguishability doesn't need to be abstractly realized, it could just be in the temporal mechanisms of the system: Not reanosable to suggest that certain things should be known in certain cases?
 - [ ] Basically also this thing of, some type of assumption/proof - not need to check some thing ; you can use it without
-
 
 ---
 
