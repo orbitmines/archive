@@ -1,6 +1,32 @@
 from ray import Ray, ray
 
-if __name__ == "__main__":
+
+
+    # @functools.wraps(func)
+    def wrapper(*args, **kwargs):
+        print('Ray.', func.__name__, args, kwargs)
+
+    # return func(*args, **kwargs)
+    return wrapper
+
+
+setattr(Ray, fn.__name__, function(fn, name=fn.__name__))
+
+def not_implemented(self: Any, *args, **kwargs: Any) -> Ray: raise NotImplementedError
+for name in [
+    '__mul__', '__getattr__', '__setattr__', '__get__', '__set__', '__delete__', '__call__',
+    'none', 'some', 'initial', 'self', 'terminal', 'orbit',
+
+    'shape', '__len__' # debugger uses these
+]:
+    setattr(Ray, name, function(not_implemented, name=name))
+
+# Move aliases elsewhere?
+# def alias(func: Callable[[Any, ...], Any], *aliases):  #   for alias in aliases: setattr(Ray, alias, func)  # alias(Ray.terminal, '__call__')
+
+
+
+= "__main__":
     a = Ray.none
 b = Ray.none
 a, b = Ray.none * 2
