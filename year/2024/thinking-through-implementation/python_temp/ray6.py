@@ -34,14 +34,6 @@ def terminal(self, *args, **kwargs) -> Ray:
 # Ray.terminal.empty
 # Ray.terminal.empty()
 
-@staticmethod
-def none() -> Ray: return -Ray.some
-
-
-@staticmethod
-def some() -> Ray: return -Ray.none
-
-
 # def empty_initial(self) -> Ray: return Ray(initial=Ray.none, self=Ray.none, terminal=self)
 # def empty_terminal(self) -> Ray: return Ray(initial=self, self=Ray.none, terminal=Ray.none)
 # An arbitrary Ray, defining what continuing in this direction is equivalent to.
