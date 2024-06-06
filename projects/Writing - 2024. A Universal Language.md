@@ -25,7 +25,35 @@ Unprocessed
 `compose`, `.is_composed`
 
 `.traverse`
-- Can implement the ignorances through those traversal layers on branches which dont go left/right but only one direction?
+- Can implement the ignorances through
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- those traversal layers on branches which dont go left/right but only one direction?
 - split off branching initial remainin o. the temrinal the ret marching along
 - Can just move the terminal which holds the pointer to the boundary
 - Ignorance/equivalence along arbitrary rays. = Equivalence
