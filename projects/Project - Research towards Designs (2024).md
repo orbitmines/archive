@@ -46,7 +46,6 @@ Read
 *This is what functions, data, ..., information is.*
 *This is what science, engineering, learning, ..., gaming will become.*
 
-
 *Quests require Items ; Cannot see, ..., complete a quest, ..., puzzle without certain items.*
 *Items require Quests ; In order to find items you need quests.*
 
