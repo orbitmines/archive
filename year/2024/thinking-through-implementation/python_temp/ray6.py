@@ -11,7 +11,7 @@ def is_equivalent(self) -> Ray: return self.is_composed.from_perspective_of(self
 lf.is_orbit.from_perspective_of(
   self.traverse)
 
-#  # Performing a copy (realizing it) can be conceptualized as traversing the entire structure. (Where the 'entire structure' means the current instantiation of it - with many ignorances attached)  #  # -
+#  #  (Where the 'entire structure' means the current instantiation of it - with many ignorances attached)  #  # -
 
 
 
