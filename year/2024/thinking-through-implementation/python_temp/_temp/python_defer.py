@@ -64,3 +64,36 @@ size/add/pow... (basically copies/merges, different perspectives/context)
   # size = length = no params different behavior
   # resize = structure  mul = __mul__ = times
   # duplicate = copy = clone = size.from_perspective_of
+
+
+#
+# Python runtime converters  #
+@staticmethod
+def integer(val: int) -> Ray: raise NotImplementedError
+@staticmethod
+def iterator(val: Iterator[Any]) -> Ray: raise NotImplementedError
+@staticmethod
+def iterable(val: Iterable[Any]) -> Ray: raise NotImplementedError
+@staticmethod
+def string(val: str) -> Ray: raise NotImplementedError
+@staticmethod
+def false(): return Ray.boolean(False)
+@staticmethod
+def true(): return Ray.boolean(True)
+@staticmethod
+def obj(val: object) -> Ray: raise NotImplementedError
+@staticmethod
+def arbitrary(val: Arbitrary) -> Ray:
+  if isinstance(val, bool): return Ray.boolean(val)
+  if isinstance(val, int): return Ray.integer(val)
+  if isinstance(val, str): return Ray.string(val)
+  if isinstance(val, object): return Ray.obj(val)
+  # TODO ... - Could do all through object/iterable in the case of python ...
+
+  raise NotImplementedError
+
+  #
+
+#  TODO: Are these "GLOBAL" varibles from the perspective of the ignorant setup - or more accuarrately something which it could be made aware of.
+# TODO: WHILE = WITH = SCOPE = CONTEXT = GLOBAL = //...
+enter / exit

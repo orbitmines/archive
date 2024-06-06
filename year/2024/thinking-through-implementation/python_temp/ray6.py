@@ -147,9 +147,6 @@ def compiler() -> Ray: raise NotImplementedError
 # TODO: This thing I mentioned in my notes a while back is relevant to this: Assign in the sense of adding to existing equivalences: i.e. offering a specific implementation for a certain thing, vs the destroy of them and replacing it with something specific: i.e. removing all existing assigns and setting a single one.
 __set__
 
-#  TODO: Are these "GLOBAL" varibles from the perspective of the ignorant setup - or more accuarrately something which it could be made aware of.
-# TODO: WHILE = WITH = SCOPE = CONTEXT = GLOBAL = //...
-enter / exit
 
 
 # TODO: Binary on self is (a, a) like is_orbit(a, a) ?

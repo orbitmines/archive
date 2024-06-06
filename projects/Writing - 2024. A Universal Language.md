@@ -39,9 +39,10 @@ Unprocessed
 
 `.superpose`
 
-`.add`, `.and`: Compose an `initial & terminal`
+`.add`, `.and`, `.assign`, `.set`: Compose an `initial & terminal`
 - validity; checks as superposed maybe
 - single equivalence?
+- 
 
 
 ---
