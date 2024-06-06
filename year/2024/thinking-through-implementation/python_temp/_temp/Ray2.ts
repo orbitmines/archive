@@ -112,18 +112,6 @@ export class Ray {
       }
 
 
-  get reverse(): Ray.Any {
-    const copy = this;//TODO.copy();
-
-    // TODO: Do we do this lazy by default? Just using refs??? - Or abstract this elsewhere to decide what to do
-    const swap = copy.initial;
-    copy.initial = copy.terminal.as_arbitrary();
-    copy.terminal = swap.as_arbitrary();
-    // TODO: This doesn't actually work
-
-    return copy;
-  }
-
   *___next({
     step = Ray.directions.next,
   } = {}): Generator<Ray.Any> {
