@@ -95,7 +95,7 @@ def arbitrary(val: Arbitrary) -> Ray:
   #
 
 #  TODO: Are these "GLOBAL" varibles from the perspective of the ignorant setup - or more accuarrately something which it could be made aware of.
-# TODO: WHILE = WITH = SCOPE = CONTEXT = GLOBAL = //...
+# TODO: WHILE = WITH = SCOPE = CONTEXT = GLOBAL = //... (= DEBUG/LISTENER/OBSERVER/WRAPPER / MONAD)
 enter / exit
 
 
