@@ -25,15 +25,7 @@ kwargs / args  # TODO: Named args in the sense, similar to class definition, in 
 
 # TODO: Like any method, .initial/.terminal could be seen as a particular section of .self, which .self itself ignores. - This should be generalizable to other things setup on .self.
 
-def terminal(self, *args, **kwargs) -> Ray:
-  print(f'{self.name}.__call__ {args} {kwargs}')
-  return (
-    (-self).initial
-    # or (self.initial.is_boundary and self.self.is_boundary) -> Best place for this? Steps to initial=self.self & self=self.self.terminal . But then a nice variant of this generalzied to each step type.
-    # TODO: If nothing works, probably like any function, that means .none: "Cannot determine what to do without context of where we are.", the thing that calls .terminal is the thing that needs to make sense of that?, Then it makes sense that a .reference calls into its .self, since it cannot find anything in its direction, it assumes it's at a boundary, and then starts traversing .self ; Needs generalization
-  )
 
-  # TODO: Ray.vertex/initial/terminal ? places empty_initial/terminal in the expected style?
 
 
 # TODO: These might be slightly different?
