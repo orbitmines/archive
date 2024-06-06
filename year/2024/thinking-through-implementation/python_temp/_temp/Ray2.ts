@@ -390,37 +390,6 @@ export class Ray {
     //   throw new PreventsImplementationBug(`${pointers.length} left`)
   }
 
-  all = (step: Ray.FunctionImpl = Ray.directions.next): { [key: string | symbol]: Ray.Any } & any => {
-    return new Proxy<Ray.Any>(this, {
-
-      get(self: Ray.Any, p: string | symbol, receiver: any): any {
-
-        // TODO: Could return arbitrary structure (or in other method than .all?)
-        return self.___map(ref => ref.any[p], {step});
-      },
-
-      /**
-       * Can't overload things like '-=' for anything but things that return numbers... ; So just apply a general function instead.
-       */
-      set(self: Ray.Any, p: string | symbol, newValue: any, receiver: any): boolean {
-        for (let ref of self.___next({step})) { // TODO; This needs to either be dynamically, or just a simple shut-off for circular ones.
-          ref.any[p] = JS.is_function(newValue) ? newValue(ref.any[p]) : newValue;
-        }
-
-        return true;
-      },
-
-
-      deleteProperty(self: Ray.Any, p: string | symbol): boolean {
-        throw new NotImplementedError();
-
-        return true;
-      }
-      // TODO: What do these other methods on Proxy do???
-    });
-
-  }
-
 }
 
 //     default = (fn: () => any): any => self.match({
