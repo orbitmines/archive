@@ -157,47 +157,7 @@ enter / exit
 # __set__(self, '')
 
 
-#
-# Python runtime converters  #
-@staticmethod
-def integer(val: int) -> Ray: raise NotImplementedError
 
-
-@staticmethod
-def iterator(val: Iterator[Any]) -> Ray: raise NotImplementedError
-
-
-@staticmethod
-def iterable(val: Iterable[Any]) -> Ray: raise NotImplementedError
-
-
-@staticmethod
-def string(val: str) -> Ray: raise NotImplementedError
-
-
-@staticmethod
-def false(): return Ray.boolean(False)
-
-
-@staticmethod
-def true(): return Ray.boolean(True)
-
-
-@staticmethod
-def obj(val: object) -> Ray: raise NotImplementedError
-
-
-@staticmethod
-def arbitrary(val: Arbitrary) -> Ray:
-  if isinstance(val, bool): return Ray.boolean(val)
-  if isinstance(val, int): return Ray.integer(val)
-  if isinstance(val, str): return Ray.string(val)
-  if isinstance(val, object): return Ray.obj(val)
-  # TODO ... - Could do all through object/iterable in the case of python ...
-
-  raise NotImplementedError
-
-  #
 
 
 # Some functions which demonstrate control of (non-/)lazyness of functions  # TODO: this concept should be expanded (more like ignorant function calls from certain perspectives).
