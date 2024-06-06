@@ -17,8 +17,8 @@ kwargs / args  # TODO: Named args in the sense, similar to class definition, in 
 
 # TODO: DEBUG/LISTENER/OBSERVER/WRAPPER IS A WRAPPER AROUND EVERY FIELD, callbacks. "Ignorant of how it effects, ..., doesn't effect the function."
 
-#
-# TODO: set = none;
+
+
 # TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().
 # TODO: Leave behind --] [-- or connect them basically..
 
@@ -26,12 +26,6 @@ kwargs / args  # TODO: Named args in the sense, similar to class definition, in 
 # TODO: Like any method, .initial/.terminal could be seen as a particular section of .self, which .self itself ignores. - This should be generalizable to other things setup on .self.
 
 
-
-
-# TODO: These might be slightly different?
-# Ray.terminal(empty=true)
-# Ray.terminal.empty
-# Ray.terminal.empty()
 
 # def empty_initial(self) -> Ray: return Ray(initial=Ray.none, self=Ray.none, terminal=self)
 # def empty_terminal(self) -> Ray: return Ray(initial=self, self=Ray.none, terminal=Ray.none)
@@ -49,8 +43,6 @@ kwargs / args  # TODO: Named args in the sense, similar to class definition, in 
 
 
 def has_next(self) -> Ray: return self.next().is_some
-
-
 def last(self) -> Ray: raise NotImplementedError
 
 
@@ -81,16 +73,6 @@ def orbit(a, b: Arbitrary) -> Ray:
 
   return a  # TODO ?
 
-
-# TODO: .ref perspecctive: self.as_reference & self.dereference
-
-def from_perspective_of(a, b):
-  raise NotImplementedError
-
-
-def perspective(self) -> Ray: raise NotImplementedError
-
-
 # TODO ; is parameters?
 
 #
@@ -117,40 +99,3 @@ def size(self, b: Arbitrary) -> Ray:
   pass
 
 
-def radd(self) -> Ray: return -self.add.perspective
-
-
-def push_back(a, b: Arbitrary) -> Ray: return a.last().compose(b)
-
-# TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...
-![[PXL_20240603_103223737.jpg]]
-
-
-#
-# Python runtime conversions  # ; TODO: Could have enumerated possibilities, but just ignore that for now.
-#
-
-
-@staticmethod
-def as_javascript() -> str: raise NotImplementedError
-
-
-@staticmethod
-def runtimes() -> Ray: raise NotImplementedError
-
-
-# TODO: Any function calls which do not return or are convertable to ray, convert as an operator.
-@staticmethod
-def compiler() -> Ray: raise NotImplementedError
-
-
-
-
-# TODO: something along the lines of:
-# res = self.next
-# res.initial = self    # return res    raise NotImplementedError
-# TODO = cached
-# TODO: Better ideas what local caching looks like, (i.e. put it in some local structure to cache, this can be delayed till some useful implementation is ready)
-
-
-Arbitrary = Union[int, Ray]
