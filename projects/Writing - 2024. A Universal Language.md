@@ -146,7 +146,7 @@ Ideas like:
 - becomes ignorant of `.all`, pick something, or allow in parallel from this perspective.
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
-- `.all` if looking for boundary, `.any` if looking for vertex.
+- `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
 - `.all / .any` Difference in list of things parallel composed, or first ewuivalencinf them, then compose. Basically: compose on INITIAL vs - use .all func after separating from .any -. First calling equivalence on INITIAL (equivalence all in chain - separate in pairs, then equivalence - could be parallel) . Or basically this means sollidiving the selection. Then take that as a vertrx and compose with another  
 Traversing `.self` 
 - Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to parallize like the superposition of a larger structure, hence it breaks on the further away things on .self
