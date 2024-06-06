@@ -146,29 +146,6 @@ def compiler() -> Ray: raise NotImplementedError
 
 
 
-# TODO: Binary on self is (a, a) like is_orbit(a, a) ?
-# By default a = -b is -b = a
-# __set__(self, '')
-
-
-
-
-
-# Some functions which demonstrate control of (non-/)lazyness of functions  # TODO: this concept should be expanded (more like ignorant function calls from certain perspectives).
-#
-
-@staticmethod
-# - TODO: readonly setup, where only traversal ops are allowed. Of course these are writing in some sense, but those writings aren't directly accessible from this perspective
-def readonly() -> Ray: raise NotImplementedError
-
-
-# TODO, writeonly would be?
-
-# Any arbitrary direction, where reversing the direction relies on some arbitrary memory mechanism
-
-def memoized(self) -> Ray:
-
-
 # TODO: something along the lines of:
 # res = self.next
 # res.initial = self    # return res    raise NotImplementedError
