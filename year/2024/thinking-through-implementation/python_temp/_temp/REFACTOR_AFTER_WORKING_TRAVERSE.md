@@ -15,16 +15,6 @@ is_vertex_equivalent = (b: Ray.Any) => {
 
 // none_or = (arbitrary: Implementation): Ray.Any => this.is_none() ? Ray.None() : arbitrary(this);
 
-/**
- * https://en.wikipedia.org/wiki/Homoiconicity
- */
-export interface PossiblyHomoiconic<T extends PossiblyHomoiconic<T>> {
-  get self(): T;
-  is_reference: () => boolean
-  as_reference: () => T
-}
-
-
   // zip also compose???
   // [a, b, c] zip [d, e, f] zip [g, h, i] ...
   // [[a,d,g],[b,e,h],[c,f,i]]

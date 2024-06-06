@@ -62,42 +62,6 @@ export class Ray {
 
     return Ray.directions.next(terminal_vertex);
   }
-  private ___as_vertices = (): [Ray, Ray] => {
-    if (!Ray.is_orbit(this.self, this.self.self.self))
-      throw new PreventsImplementationBug('Is there a use-case for this? Probably not?'); //TODO
-
-    // TODO NOTE: THE ORDER OF `this.self` first matters here.
-    return [this.self.___as_vertex(), this.___as_vertex()];
-  }
-  private ___as_vertex = (): Ray.Any => {
-    const vertex = Ray.vertex().o({ js: '___as_vertex' }).as_reference().o({ js: '___as_vertex.#' });
-
-    return this.___ignorantly_equivalent(vertex);
-  }
-  ___ignorantly_equivalent = (ref: Ray.Any): Ray.Any => {
-    ref.self.self = this.self.as_arbitrary();
-    this.self.self = ref.self.as_arbitrary();
-
-    return ref;
-  }
-
-  /** [     ] */ static None = () => new Ray({ });
-  /** [--?--] */ static vertex = (value: JS.ParameterlessFunction<Ray.Any> = Ray.None) => {
-    /** [     ] */ const vertex = Ray.None();
-    /** [--   ] */ vertex.initial = vertex.___empty_initial();
-    /** [  ?  ] */ vertex.vertex = value;
-    /** [   --] */ vertex.terminal = vertex.___empty_terminal();
-
-    /** [--?--] */ return vertex;
-  }
-  /** [  |-?] */ static initial = () => Ray.Any.vertex().initial;
-  /** [?-|  ] */ static terminal = () => Ray.Any.vertex().terminal;
-
-  // TODO; Temp placeholders for now - & BETTER DEBUG
-  ___empty_initial = () => new Ray({ vertex: Ray.Any.None, terminal: this.as_arbitrary() }).o({ debug: 'initial ref'}).as_arbitrary();
-  ___empty_terminal = () => new Ray({ vertex: Ray.Any.None, initial: this.as_arbitrary() }).o({ debug: 'terminal ref'}).as_arbitrary();
-
-
 
   // TODO: Returns the ref, since it still holds the information on how they're not the same??? - Need some intuitive way of doing this?
   
