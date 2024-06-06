@@ -44,6 +44,7 @@ Unprocessed
 - This self-loop breaks the recursion because it self-referentially answers the question of: "The only thing you'll ever find here is that same structure you already had, without having to traverse that structure."
 - Here the collapse thing both sides?
 - "it is expensive work to edge towards global coherence." ? To ensure consistency in some way
+- 
 
 `.superpose`
 
