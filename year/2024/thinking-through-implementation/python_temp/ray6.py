@@ -144,9 +144,6 @@ def runtimes() -> Ray: raise NotImplementedError
 def compiler() -> Ray: raise NotImplementedError
 
 
-# TODO: This thing I mentioned in my notes a while back is relevant to this: Assign in the sense of adding to existing equivalences: i.e. offering a specific implementation for a certain thing, vs the destroy of them and replacing it with something specific: i.e. removing all existing assigns and setting a single one.
-__set__
-
 
 
 # TODO: Binary on self is (a, a) like is_orbit(a, a) ?
