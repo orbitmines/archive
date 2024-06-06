@@ -325,9 +325,6 @@ Header
 ## Web (WebGL/threejs), .. downloadable variant (Electron initially)
 - Simple web setup for localstorage
 
-## Future inquiries
-
-
 ---
 ###### Examples: Delayed till working implementation
 - Chyp
