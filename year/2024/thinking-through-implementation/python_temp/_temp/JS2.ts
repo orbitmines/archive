@@ -174,7 +174,6 @@
   }
 
 
-
   export const Iterator = <T = any>(iterator: Iterator<T>): Ray.Any => {
     // [  |--]
 
@@ -184,13 +183,4 @@
       return iterator_result.done !== true ? iterator_result.value : Ray.Any.None();
     }).as_ray();
   }
-
-  export const Any = (any: any): Ray.Any => {
-
-
-    // TODO
-    // return JS.Any(any);
-    return Ray.vertex().o({js: any}).as_reference();
-  }
-
 }
