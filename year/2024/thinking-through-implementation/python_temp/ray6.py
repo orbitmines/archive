@@ -42,9 +42,6 @@ def equivalent(a, b: Arbitrary) -> Ray:
   # This one harder to do in parallel?
   return a.self().compose(b.self())
 
-  # "Composing an terminal & initial boundary"
-
-
 # - TODO: Note that an orbit is reversibility. ?
 # - TODO: Could represent this abstraction in another layer what we want to accomplish while the actual search is still taking place.
 #
