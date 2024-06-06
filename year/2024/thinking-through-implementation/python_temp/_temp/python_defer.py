@@ -135,6 +135,15 @@ def perspective(self) -> Ray: raise NotImplementedError
 
 # def filter / search
 
+kwargs / args  # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.
+
+
+
+
+
+
+
+
 #
 # - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility
 # TODO: Make use of extremes (.last/.first as extreme
@@ -146,4 +155,6 @@ def orbit(a, b: Arbitrary) -> Ray:
 
   return a
 
-kwargs / args  # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.
+# EXTREMES
+# TODO: Other layer of abstraction waiting for .next step function - will hook into anything that finishes, and allows already composing stuff after .last .
+def last(self) -> Ray: raise NotImplementedError

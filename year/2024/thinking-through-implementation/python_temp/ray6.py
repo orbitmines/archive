@@ -2,29 +2,10 @@
 
 # TODO: .equivalent vs .is_equivalent ? (Could do: .equivalent. somethimg??) Basically the connection between .equivalent & .is_orbit
 # TODO: That's basically the same connection of .next/.has_next/.last, .end/.boundary/.is_boundary/...
-# TODO: Other layer of abstraction waiting for .next step function - will hook into anything that finishes, and allows already composing stuff after .last .
 
-
-
-# TODO: Like any method, .initial/.terminal could be seen as a particular section of .self, which .self itself ignores. - This should be generalizable to other things setup on .self.
 
 
 def has_next(self) -> Ray: return self.next().is_some
-def last(self) -> Ray: raise NotImplementedError
-
-
-def compose(a, b) -> Ray: return a.terminal().equivalent(b.initial())
-
-
-# Equivalence as "Composition of Ray."
-#  # NOTE:  #  - An equivalence, is only a local equivalence, no global coherence of it can be guaranteed. And it is expensive work to edge towards global coherence.  #  - Though changes are only applied locally, their effects can be global (Take for instance, the example of adding to one Ray, which changes the perspective of everything connected to that Ray if they were to traverse the connection).  #  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Equivalences%20%26%20Inconsistencies
-def equivalent(a, b: Arbitrary) -> Ray:
-  # raise NotImplementedError
-
-  # TODO: This is close but not quite, use the shifting thing I wrote down a few days ago: (And then use something to break the self-reference) - Either on this side. compose, or outside the definitions
-  # This one harder to do in parallel?
-  return a.self().compose(b.self())
-
 
 
 #

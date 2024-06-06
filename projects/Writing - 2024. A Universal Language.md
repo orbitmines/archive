@@ -43,6 +43,7 @@ Unprocessed
 - This tries for "global coherence" - which just means a self-loop where no change is assumed in surrounding context (obviously inconsistent, but that doesn't matter).
 - This self-loop breaks the recursion because it self-referentially answers the question of: "The only thing you'll ever find here is that same structure you already had, without having to traverse that structure."
 - Here the collapse thing both sides?
+- "it is expensive work to edge towards global coherence." ? To ensure consistency in some way
 
 `.superpose`
 
@@ -62,6 +63,7 @@ Unprocessed
 - empty on .self, vs .self ref vs ref, ; selection of two boundaries.
 - Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
 - Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
+- "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[index a]]
 
 **This is just preliminary, I'll change this later**  
   
