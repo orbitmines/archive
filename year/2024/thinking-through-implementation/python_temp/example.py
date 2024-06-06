@@ -12,8 +12,6 @@ from ray import Ray, ray
 (-self).a = self.b
 -(self.a) = self.b
 
-is_orbit /  # a.___instance === b.___instance
-
 
 # TODO, wraps in @ray
 for name, fn in inspect.getmembers(Ray, inspect.isfunction):
