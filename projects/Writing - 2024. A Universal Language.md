@@ -288,7 +288,6 @@ Intro
 Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
-
 ### Initial interface setup
 [Whatever this interface will look like, it necessitates conveniently being able to change **anything** about how it looks, ..., how it operates *from the interface itself*.](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Whatever%20this%20interface,the%20first%20case%3F)
 
