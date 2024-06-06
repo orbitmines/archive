@@ -168,5 +168,6 @@ def last(self) -> Ray: raise NotImplementedError
 def has_next(self) -> Ray: return self.next().is_some
 
 # COPYING
-
-
+# Copy by adding a one-way reference to the same thing or duplicating the structure (slower often)
+# def size/copy
+# 
