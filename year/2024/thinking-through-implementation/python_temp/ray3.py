@@ -1,8 +1,3 @@
-def is_initial(self) -> Ray: return self.initial().is_none
-
-
-def is_terminal(self) -> Ray: return self.terminal().is_none
-
 
 def is_vertex(self) -> Ray: return self.is_initial().nor(self.is_terminal())
 
