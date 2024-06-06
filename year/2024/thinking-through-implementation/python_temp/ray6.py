@@ -1,3 +1,10 @@
+
+// Generalized to properties
+    // - Need boolean question of: when is it this?
+    // TODO: Can be used to setup label generation through javascript objects if we want to ? + allow search on this
+ 
+
+
 # TODO: .equivalent vs .is_equivalent ? (Could do: .equivalent. somethimg??) Basically the connection between .equivalent & .is_orbit
 # TODO: That's basically the same connection of .next/.has_next/.last, .end/.boundary/.is_boundary/...
 # TODO: Other layer of abstraction waiting for .next step function - will hook into anything that finishes, and allows already composing stuff after .last .
