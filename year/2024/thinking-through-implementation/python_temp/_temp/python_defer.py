@@ -2,7 +2,8 @@
 # def free(self): raise NotImplementedError
 # TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().
 # TODO: Leave behind --] [-- or connect them basically..
-
+# TODO: Could lazily try to find references., garbage collectors and other concepts like it.
+# TODO: Maybe want a way to destroy from one end, so that if other references try to look, they won't find additional structure.
 
 def reverse(self) -> Ray:
   return Ray(initial=self.terminal, self=self.self, terminal=self.initial)
