@@ -300,10 +300,12 @@ Intro
 Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
+
+### Initial interface setup
+[[Project - Research towards Designs (2024)
 - [ ] Track program, rotation, ..., interface movements. Possibly replay at some accuracy. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
 	- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
 
-[[Project - Research towards Designs (2024)]]
 - Different OS & browsers - intercompile
 
 differentiable engine, pullback structure to some other, then ...
