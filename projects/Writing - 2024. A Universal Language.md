@@ -13,7 +13,7 @@ Unprocessed
 	`this = .self`: Equivalency Ray = Context Ray? BETTER NAMES
 
 `.terminal`
-
+- .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
 
 `.is_extreme`
 - Extremes as superposed pattern matcher.

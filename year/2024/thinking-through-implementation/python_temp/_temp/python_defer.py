@@ -145,3 +145,5 @@ def orbit(a, b: Arbitrary) -> Ray:
   a.first().compose(b.last())
 
   return a
+
+kwargs / args  # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.
