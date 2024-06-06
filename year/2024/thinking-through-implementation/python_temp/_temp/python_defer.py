@@ -1,5 +1,9 @@
 
 # def free(self): raise NotImplementedError
+# TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().
+# TODO: Leave behind --] [-- or connect them basically..
+
+
 def reverse(self) -> Ray:
   return Ray(initial=self.terminal, self=self.self, terminal=self.initial)
 def as_string(self) -> str: raise NotImplementedError
@@ -102,7 +106,7 @@ enter / exit
 @staticmethod
 # - TODO: readonly setup, where only traversal ops are allowed. Of course these are writing in some sense, but those writings aren't directly accessible from this perspective
 def readonly() -> Ray: raise NotImplementedError
-
+# TODO: Runtime with its read/writeonly, basically (non-/)availability of write operations. Where read operations are already also write operations from another perspective, just not the one accessible here.
 
 # TODO, writeonly would be?
 
@@ -128,3 +132,5 @@ def push_back(a, b: Arbitrary) -> Ray: return a.last().compose(b)
 def from_perspective_of(a, b):
   raise NotImplementedError
 def perspective(self) -> Ray: raise NotImplementedError
+
+# def filter / search
