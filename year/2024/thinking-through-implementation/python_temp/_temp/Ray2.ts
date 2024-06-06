@@ -386,8 +386,6 @@ export class Ray {
        */
     }
 
-    // if (pointers.length !== 0)
-    //   throw new PreventsImplementationBug(`${pointers.length} left`)
   }
 
 }
