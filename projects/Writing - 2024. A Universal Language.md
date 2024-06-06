@@ -286,9 +286,11 @@ Compression
 
 
 ## Rendering engine
-visualization
+- [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"
+
+Visualization changes
 - Small ring outline in continuation + vertex?
-- Intersection on screen been non-intersection in the structure, way of rendering it.
+- Intersection on screen been non-intersection in the structure, way of rendering it. (Overlapped on the screen vs overlapped in the repr)
 - Ray growth over some grid as the 3d rendering engine
 - Ring in the middle rotsting, then expand, transparent background. grow into orbitmines logo then blank sheet, waiting for use
 	- grow from there structure onto the screen, superopositions, grow, collapse, grow..., nice animation for startup.
@@ -325,9 +327,9 @@ link to [[Project - Indexing existing Abstract Models (2024-2025?)]] # different
 - Drop the self-loop from on-orbit check ; peek by going there, then one more step, and dropping .self and moving back to terminal
 
 
-## Web (WebGL, .. downloadable variant (Electron initially)
+## Web (WebGL/threejs), .. downloadable variant (Electron initially)
 
-- [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"
+
 
 - default to OrbitMines func, otherwise blank (seperate directory in ray or something)
 
