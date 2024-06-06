@@ -1,19 +1,4 @@
 
-
-
-    /**
-     * Puts the Ray this is called with on a new Ray [initial = ref, ???, ???]. Then it places any structure it's applying a method to, on the terminal of this new Ray [initial = ref, ???, terminal = any]
-     */
-    static Ref = (impl: Ray.FunctionImpl<Ray.Any>): Function => {
-      return new Function(impl); // TODO: THIS SHOULD CHANGE, TO ON VERTEX.
-    }
-    static Impl = <T = Ray>(impl: (initial: T, terminal: T) => T): Function<T> => {
-      return Function.Ref((ref: T) => impl(ref.initial, ref.terminal));
-    }
-    // static IgnorantOfInitial = <T extends AbstractDirectionality<T> = Ray>(impl: (terminal: T) => T): Function<T> => Function.Impl((_, terminal) => impl(terminal));
-    // static IgnorantOfTerminal = <T extends AbstractDirectionality<T> = Ray>(impl: (initial: T) => T): Function<T> => Function.Impl((initial, _) => impl(initial));
-    // static Ignorant = <T extends AbstractDirectionality<T> = Ray>(impl: ParameterlessFunction<T>): Function<T> => Function.Impl(impl);
-
     /**
      * TODO: Reversible through memory...
      */
