@@ -19,13 +19,6 @@ kwargs / args  # TODO: Named args in the sense, similar to class definition, in 
 # Concretely, we use this as the thing which has power over the equivalence assumption we use to halt programs. - The asymmetry which allows the engine to make a distinction between each object.  # @see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.
 
 
-#
-# Predefined functionality
-# TODO: Reference maybe as an orbit at the point is the thing ignorant
-#     TODO: This is basically saying "reference as a constant"
-# TODO Could say orbit = constant, meaning this entire direction repeats??? - maybe it's slightly different
-
-
 def has_next(self) -> Ray: return self.next().is_some
 def last(self) -> Ray: raise NotImplementedError
 
@@ -42,19 +35,7 @@ def equivalent(a, b: Arbitrary) -> Ray:
   # This one harder to do in parallel?
   return a.self().compose(b.self())
 
-# - TODO: Note that an orbit is reversibility. ?
-# - TODO: Could represent this abstraction in another layer what we want to accomplish while the actual search is still taking place.
-#
-# - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility
-def orbit(a, b: Arbitrary) -> Ray:
-  # - TODO: If we're only doing one end: This already assumes they are connected on the other end.
-  # - TODO: should be a connection here, with is_composed ; or "reference.is_equivalent" so that you can drop one of the sides, or both.
-  b.last().compose(a.first())
-  a.first().compose(b.last())
 
-  return a  # TODO ?
-
-# TODO ; is parameters?
 
 #
 # If there exists an orbit between A & B anywhere on their equivalency functions - or: their .self - (except for the directions through which we're referencing them)  #  # Note the connection between 'is_orbit' vs 'is_equivalence'. They're essentially the same thing, but:  #    - in the case of 'is_equivalence' we directly have access to their difference but are explicitly ignoring them - in the context in which this functionality is called.  #    - in the case of 'is_orbit', we might need to do more complicated things to acknowledge their differences - we don't have direct access to them.  #  # TODO: (so dually connected, what if only one is aware??) Or basically just ; the answer in this particular instance is just if either end can find the other only once. Consistency of it defined on a more abstract level...
