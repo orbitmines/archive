@@ -325,8 +325,8 @@ link to [[Project - Indexing existing Abstract Models (2024-2025?)]] # different
 - Drop the self-loop from on-orbit check ; peek by going there, then one more step, and dropping .self and moving back to terminal
 
 
-## Web, .. downloadable variant
-Stored any way, just deal with it.
+## Web (WebGL, .. downloadable variant (Electron initially)
+
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"
 
 - default to OrbitMines func, otherwise blank (seperate directory in ray or something)
