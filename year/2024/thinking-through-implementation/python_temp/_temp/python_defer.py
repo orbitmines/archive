@@ -60,6 +60,7 @@ aliases
     = map = render = compile = realize = generate)
 # .initial @alias(previous = backward = decompile = predecessor)
 # .__set__ @alias(assign)
+# times @alias('resize', 'size', 'structure', 'length', 'duplicate', 'copy', 'clone', 'times', 'mul', '__mul__'), generalized: size/shape/..
 
 reverse
 # TODO ; Could also be implemented as copy - hence the __call__ on Ray() - this is the case for any sort of constructor/type.
@@ -142,7 +143,12 @@ kwargs / args  # TODO: Named args in the sense, similar to class definition, in 
 
 
 
+# EXTREMES
+# Traverse as extreme>?
 
+# .next/.has_next/.last
+# .previous/.has_previous/.first
+# .boundary/.has_boundary/.extremes
 
 #
 # - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility
@@ -155,6 +161,12 @@ def orbit(a, b: Arbitrary) -> Ray:
 
   return a
 
-# EXTREMES
 # TODO: Other layer of abstraction waiting for .next step function - will hook into anything that finishes, and allows already composing stuff after .last .
 def last(self) -> Ray: raise NotImplementedError
+
+
+
+
+# COPYING
+
+
