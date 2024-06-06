@@ -185,11 +185,6 @@
     }).as_ray();
   }
 
-
-
-  // TODO
-  export const Object = (object: object): Ray.Any => Ray.Any.vertex().o(object).as_reference();
-
   export const Any = (any: any): Ray.Any => {
     if (any === null || any === undefined) return JS.Any(any);
     if (JS.is_boolean(any)) return JS.Boolean(any);
