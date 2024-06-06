@@ -302,16 +302,14 @@ Header
 
 
 ### Initial interface setup
+[Whatever this interface will look like, it necessitates conveniently being able to change **anything** about how it looks, ..., how it operates *from the interface itself*.](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Whatever%20this%20interface,the%20first%20case%3F)
+
 [[Project - Research towards Designs (2024)
 - [ ] Track program, rotation, ..., interface movements. Possibly replay at some accuracy. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
 	- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
+- [ ] Test on different OS & browsers
 
-- Different OS & browsers - intercompile
 
-differentiable engine, pullback structure to some other, then ...
- - but also just references, connections not shown, a mistake visual interfaces make
-
-[Whatever this interface will look like, it necessitates conveniently being able to change **anything** about how it looks, ..., how it operates *from the interface itself*. This introduces a hard problem on the side of the implementer: How do you possibly account for that? Or perhaps: Why is that a problem in the first case?](http://localhost:3000/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Whatever%20this%20interface,the%20first%20case%3F)
 
 
 ###### [There must be some sense of stability in the interface. Though many interesting things will probably be more visually unstable.](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project#:~:text=There%20must%20be%20some%20sense%20of%20stability%20in%20the%20interface.%20Though%20many%20interesting%20things%20will%20probably%20be%20more%20visually%20unstable.)
