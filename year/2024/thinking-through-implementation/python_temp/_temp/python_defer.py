@@ -61,6 +61,7 @@ aliases
 # .initial @alias(previous = backward = decompile = predecessor)
 # .__set__ @alias(assign)
 # times @alias('resize', 'size', 'structure', 'length', 'duplicate', 'copy', 'clone', 'times', 'mul', '__mul__'), generalized: size/shape/..
+# equiv/compose ;  # @alias('includes', 'contains') ; (slightly different variants?)
 
 reverse
 # TODO ; Could also be implemented as copy - hence the __call__ on Ray() - this is the case for any sort of constructor/type.
