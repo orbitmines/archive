@@ -1,4 +1,8 @@
 
+
+// TODO: For chyp used to compare [vtype, size] as domains, just type matching on the vertex. ; each individually, again, additional structure...
+
+
 describe("Chyp", () => {
   describe(".Graph", () => {
     test(".set_inputs", () => {

@@ -4,14 +4,6 @@
 ```ts
 
   get count(): Ray.Any { return JS.Number(this.as_array().length); }
-  
-// TODO: For chyp used to compare [vtype, size] as domains, just type matching on the vertex. ; each individually, again, additional structure...
-
-// TODO: Ignore the connection between the two, say a.equiv(b) within some Rule [a,b], ignore the existing of the connection in the Rule? What does it mean not to???
-is_vertex_equivalent = (b: Ray.Any) => {
-
-}
-
 
 // none_or = (arbitrary: Implementation): Ray.Any => this.is_none() ? Ray.None() : arbitrary(this);
 
@@ -34,32 +26,7 @@ static zip = Ray.Function.Impl((initial, terminal) => {
 });
 zip = Ray.zip.as_method(this);
 
-  /**
- * Used for chaining JavaScript-provided properties
- *
- * TODO: DOESNT FOLLOW .ANY PATTERN?
- */
-o = (object: { [key: string | symbol]: any }): Ray.Any => {
-  _.keys(object).forEach(key => this.proxy()[key] = object[key]); // TODO: Can be prettier, TODO: map to Ray equivalents and add to vertices..
-  return this;
-}
 
-// All these are dirty
-o2 = ({ initial, vertex, terminal }: any): Ray.Any => {
-  if (initial) this.initial.o(initial);
-  if (vertex) this.o(vertex);
-  if (terminal) this.terminal.o(terminal);
-
-  return this;
-}
-
-  // TODO: Cast to Any JS Class wrap/cast? + test self-referentially with Rays???
-  cast = <T extends Ray>(): T => { throw new NotImplementedError(); } // TODO this.proxy<T>();
-
-
-  /**
- * JavaScript, possible compilations - TODO: Could have enumeratd possibilities, but just ignore that for now.
- */
 // JS.AsyncGenerator
 async *[Symbol.asyncIterator](): AsyncGenerator<Ray.Any> { yield *this.traverse(); }
 // JS.Generator

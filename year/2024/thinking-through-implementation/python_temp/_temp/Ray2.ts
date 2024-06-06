@@ -4,67 +4,7 @@ import {InterfaceOptions} from "./OrbitMinesExplorer";
 import JS from "./JS";
 
 export class Ray {
-  // /**
-  //  * Moves `this.self` and `this.self.self` to a new line.
-  //  *
-  //  * [  |--] this.self ----- this.self.self [--|--]
-  //  * ______ (<- initial pointer)
-  //  */
-  // as_initial = (): Ray.Any => {
-  //   if (this.is_none()) {
-  //     throw new PreventsImplementationBug('Should be implemented at some point ; Just return an empty vertex');
-  //   }
-  //   if (this.dereference.is_none()) {
-  //     // TODO: Need some intuition for this check
-  //     const vertex = this.___as_vertex();1
-  //
-  //     if (vertex.type !== RayType.VERTEX)
-  //       throw new PreventsImplementationBug();
-  //
-  //     return vertex.follow(Ray.directions.previous);
-  //   }
-  //
-  //   const [terminal_vertex, initial_vertex] = this.___as_vertices();
-  //
-  //   if (initial_vertex.type !== RayType.VERTEX)
-  //     throw new PreventsImplementationBug();
-  //   if (terminal_vertex.type !== RayType.VERTEX)
-  //     throw new PreventsImplementationBug();
-  //
-  //   initial_vertex.compose(terminal_vertex);
-  //
-  //   // TODO BETTER DEBUG
-  //
-  //   return initial_vertex.follow(Ray.directions.previous);
-  // }
-  /**
-   * Moves `this.self` and `this.self.self` to a new line.
-   *
-   * [  |--] this.self.self ----- this.self [--|--]
-   *                                         _____ (<- terminal pointer)
-   */
-  as_terminal = (): Ray.Any => {
-    if (this.is_none()) {
-      throw new PreventsImplementationBug('Should be implemented at some point ; Just return an empty vertex');
-    }
-    if (this.dereference.is_none()) {
-      throw new PreventsImplementationBug();
-    }
 
-    const [terminal_vertex, initial_vertex] = this.___as_vertices();
-
-    if (initial_vertex.type !== RayType.VERTEX)
-      throw new PreventsImplementationBug();
-    if (terminal_vertex.type !== RayType.VERTEX)
-      throw new PreventsImplementationBug();
-
-    initial_vertex.compose(terminal_vertex);
-
-    return Ray.directions.next(terminal_vertex);
-  }
-
-  // TODO: Returns the ref, since it still holds the information on how they're not the same??? - Need some intuitive way of doing this?
-  
   static equivalent = Ray.Function.Impl((initial, terminal) => {
 
     /**
