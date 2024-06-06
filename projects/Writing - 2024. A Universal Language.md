@@ -327,13 +327,6 @@ Header
 
 ## Future inquiries
 
-- [Whatever sets up this open world generation must rely on existing structure, information. You can set up something more random, sure. But the only possibility of some feedback on this generation must be some generalization of existing knowledge. Whatever (entropically relevant) information, structure, ..., items have been found.](http://localhost:3000/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Whatever%20sets%20up,have%20been%20found.)
-	- [This means open world generation must support arbitrary information which will **not** be available in the design of this game/interface.](http://localhost:3000/archive/2024-02-orbitmines-as-a-game-project/#:~:text=This%20means%20open%20world%20generation%20must%20support%20arbitrary%20information%20which%20will%20**not**%20be%20available%20in%20the%20design%20of%20this%20game/interface.)
-- Storage/Structure/orbits as compute
-	- How to phrase storage as compute? It's using some compute to persist some structure, though we might not know how to use it for anything else than storage, this is essentially the case. All equated as the same resource? Persistence/Compute/Effort/resources  
-	- Structure vs combinators from certain perspectives that sort of thing?..., energy, conservation
-	- at the end simple example of efficiency/closeness/differentiability  
-
 
 ---
 ###### Examples: Delayed till working implementation
