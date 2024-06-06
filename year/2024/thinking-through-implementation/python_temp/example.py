@@ -1,4 +1,18 @@
+self.initial -> (-self).terminal
+# TODO is_initial = return (-self).terminal().is_none ??
+
+#
+# Opposite aliases  # TODO: Could just dynamically assign these - the case for any reversible thing (next/previous, initial/terminal ...) always: A.something and (-A).something
+#
+
+as_initial = (-self).as_terminal()  # TODO: These sorts of deductions should be automatic, here as an example
+
 from ray import Ray, ray
+
+(-self).a = self.b
+-(self.a) = self.b
+
+is_orbit /  # a.___instance === b.___instance
 
 
 
