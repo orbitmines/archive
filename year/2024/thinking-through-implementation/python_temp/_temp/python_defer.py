@@ -165,7 +165,7 @@ def orbit(a, b: Arbitrary) -> Ray:
 def last(self) -> Ray: raise NotImplementedError
 
 
-
+def has_next(self) -> Ray: return self.next().is_some
 
 # COPYING
 
