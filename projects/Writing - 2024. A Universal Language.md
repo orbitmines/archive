@@ -39,6 +39,7 @@ Unprocessed
 
 `.orbit`
 - Note that an orbit means reversibility (if no other context changes)
+- This is what breaks our recursion. An equivalency we don't have access to.- It halts the program. (["And there we have it ..."])
 
 `.superpose`
 
