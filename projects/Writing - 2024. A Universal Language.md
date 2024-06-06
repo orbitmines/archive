@@ -37,6 +37,9 @@ Unprocessed
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
 
+`.orbit`
+- Note that an orbit means reversibility (if no other context changes)
+
 `.superpose`
 
 `.add`, `.and`, `.assign`, : Compose an `initial & terminal`
