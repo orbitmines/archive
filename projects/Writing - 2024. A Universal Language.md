@@ -230,7 +230,7 @@ Partially, locally, ... (same as on orbits)
 
 Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - ; compression
 
-Compression
+## Compression
  curvature and noncompressability ; tweet ([[Jonathan Gorard]])
 
 - [ ] Compressing/minimizing ambiguity  (important: whilst ignoring as little as possible. - can loosen this in certain cases. In other cases there's nothing you want to ignore (except for the way of getting there perhaps))
@@ -253,7 +253,6 @@ Compression
 - [ ] Keep pulsing certain directionalitiws for changes in sone "does it continue", agift behavior based on such changes
 - [ ] Proved in some finite space as opposed to general one.  
 - [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
-- [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
 
 ---
 
