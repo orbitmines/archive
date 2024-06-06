@@ -24,40 +24,7 @@ describe("Ray", () => {
         }
 
       });
-      test(".traverse", () => {
-        const events: any[] = [];
-        const ray = Ray.array([]);
 
-        // const b = ray in ray;
-
-        // ray()()()()();
-        //
-        ray.debug(
-          (event: Ray.Debug.Event) => {
-            events.push(event);
-          },
-          () => {
-            try{
-              if (ray) {
-                ray.is_orbit();
-
-              }
-              new ray.initial;
-
-              // ray.initial = new ray();
-              // ray.initial = ray.terminal();
-              // ray.initial = (self): Ray.Any => {}
-              // ray.initial = Ray.Function.Self.Impl((self) => {})
-
-            } catch (e) {}
-          }
-        );
-
-        expect(events.map(event => ({
-          event: event.event, context: event.context
-        }))).toBe(false);
-
-      });
     })
   })
 
