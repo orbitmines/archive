@@ -323,11 +323,6 @@ Header
 
 
 ## Web (WebGL/threejs), .. downloadable variant (Electron initially)
-
-
-
-- default to OrbitMines func, otherwise blank (seperate directory in ray or something)
-
 - Simple web setup for localstorage
 
 ## Future inquiries
