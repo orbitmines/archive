@@ -177,10 +177,6 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 - [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
 	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
-##### Unusual, probing, ..., sporadic exploration
-
-- [ ] Brute-forcing: try to explore combinatorial exploding spaces. 
-
 ---
 
 #### Universal Version Control
