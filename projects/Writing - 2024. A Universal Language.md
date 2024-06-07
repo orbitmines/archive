@@ -248,9 +248,6 @@ Partially, locally, ... (same as on orbits)
 Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - ; compression
 
 ## Compression
- curvature and noncompressability ; tweet ([[Jonathan Gorard]])
-
-- [ ] Compressing/minimizing ambiguity  (important: whilst ignoring as little as possible. - can loosen this in certain cases. In other cases there's nothing you want to ignore (except for the way of getting there perhaps))
 
 - [ ] Against forgetting/violation/inconsistencies
 	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.
