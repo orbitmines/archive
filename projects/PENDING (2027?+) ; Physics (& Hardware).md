@@ -75,7 +75,9 @@ warp-level primitives?
 ---
 
 [[2024-06-07]] [SEMF Discord](https://discordapp.com/channels/844566471501414463/1111689941848694924/1248632910475689994)
+Does there exist a dual black hole in the universe which doesn't merge, but remain at each-other's boundary? If not is anyone looking for it?
 
+If you could construct a thing like this, it's probably a way in which you can reprogram at the universe's scale is my thinking
 
 ---
 
