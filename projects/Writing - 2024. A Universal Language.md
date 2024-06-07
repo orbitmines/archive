@@ -69,6 +69,7 @@ Unprocessed
  -  "Applying the same thing in a different context"
 
 `.equivalent`
+- equivalence is an inconsistency from some perspective (and the other way round)
 - Collapsing to a point (with(/out) a additional filters, ..., ignorances)
 	- Cohomology, ..., not collapsable if something stops this from happening.
 
@@ -142,11 +143,9 @@ Traversing `.self`
 	 - # @see "Continuations as Equivalence (can often be done in parallel - not generally)": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Constructing%20Continuations%20%2D%20Continuations%20as%20Equivalence  
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
-	- ; follows from matching rewrite structure&merge ; If some underlying level of description doesn't match the relations at the other level of description we're using for equivalencies / hence homotopies. Then don't permit the invariance/variance and force no difference. Hence any equivalencr necessarily implies possible homotopies. Whether those spaces can actually be differentiated between to create infinite continuous differences between those points ss enumeration of possible homotopies isn't necessarily that obvious in the embedded space ; the underlying level of description  
 	- [ ] Can collapse a loop to a single point in the case of homotopy equivalence. The only thing that would prevent you from doing so is some notion, on the level of another intersecting hypergraph at the vertices, that there should be something in between
 	- [ ] collapse tonpoint, then point could have dinstinguishability that there's something there, or not, or by interactioon in a certain wau
 - "Hyperdistance Oracles in hypergraphs" seems obvious from the perspective of Ray? ; it's just traversing `.self` from some perspective instead of other things.
-- equivalence is an inconsistency from some perspective (and the other way round)
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
 - none: initial direct to terminal, no vertex in between. & reference none for "select none"
 - Like that you can also conceptualize multiple steps of none, initial -> initial -> initial -> terminal
