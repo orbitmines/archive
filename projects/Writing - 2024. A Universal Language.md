@@ -66,6 +66,9 @@ Unprocessed
 		- "Also ref to things like 'no cloning theorem'? Or ref to 'absolute equality'"
 	- Performing a copy (realizing it) can be conceptualized as traversing the entire structure. - and splitting off a copy through the traversing rays (can thus be parallel traversal as well)
 
+`.perspective`
+ -  "Applying the same thing in a different context"
+
 ---
 
 - Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
@@ -100,10 +103,6 @@ Ideas like:
 ---
 
 ## Perspective switching
- -  "Applying the same thing in a different context"  
- -  Somewhat related to Functors?  
-
-- [ ] ignorant referencing ray ; all these as ; 
 
 
  Open inputs, outputs, compute substrate, ..., interfaces ; means inputs/outputs are extremes match on initial/terminal. Substrate is anything in between. Interfaces are control of that in between if we're not fully defining how it is traversed by default.
