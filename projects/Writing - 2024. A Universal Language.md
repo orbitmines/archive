@@ -201,7 +201,7 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 ## Exploration and Discovery
 reverse engineering, debugging, checking for consistency, validation, fidelity
 
-In exploration, one necessarily has to confront the problem of forgetting.
+In exploration, one necessarily has to confront the problem of forgetting. Which becomes a tale of finding out how failures can be detected, ..., prevented. 
 
 Fidelity
 - [ ] Keep pulsing certain rays "does it continue" - is it still consistent?
@@ -252,10 +252,8 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 - [ ] Against forgetting/violation/inconsistencies
 	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.
 	- [ ] It's crossing some directionality and finding one cannot return back? (That would imply next time step or something - any inconsistency possibly 
-	- [ ] Testing/Simulating: Does a certain property still hold; what if not and deemed violated?  
 	- [ ] How could failures be detected? How can failures be prevented? 
 	- [ ] Redundancy: redundancy defined as aiding the resolving of unresolved values? (if compression is the goal: least redundant, if the goal is adaptability; sparsity)
-	  - [ ] Run multiple simultaneous processes which are supposed to do the same thing - compare  
 	- [ ] Self-imposed limitations to see if that can be sufficient  
 		- [ ] "What if I were to treat this as forgotten, what would happen?"  
 		- [ ]  - fidelity: If I don't check, I assume it will be consistent, if I do check, I assume the checking will be consistent. ; What to do when certain types of consistency fail?  
