@@ -152,8 +152,6 @@ direction at the point**: What does it mean for a point yo become its own direct
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
 ## Exploration and Discovery
-Links to [[Project - Research towards Designs (2024)]] - energy
-reverse engineering, debugging, checking for consistency, validation, fidelity
 
 In exploration, one necessarily has to confront the problem of forgetting. Which becomes a tale of finding out how failures can be detected, ..., prevented. How do you fight errors when rediscoverability is not obvious?
 
