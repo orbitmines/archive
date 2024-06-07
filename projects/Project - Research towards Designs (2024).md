@@ -133,8 +133,7 @@ Games
 - [ ] https://cybercat.institute/2024/05/09/exploiring-best-response-dynamics/
 
 #### Audio
-*research into this*
-[[Pinar Temiz]], ..
+People: [[Pinar Temiz]], ..
 
 - Audio ; basically like [[Writing - 2024. A Universal Language]] ; 'easy-rediscoverability/seperability in a certain way if not in the obvious seperation case.'
 	- separate audio sources so disentanglement/referencing is easier ; basically separating the superposed things ; generalize
@@ -164,7 +163,7 @@ Keyboard
 
 ---  
 
-Put the graphs setc at the top, invis lines, then draw them on hover, and maybe make surrounding stuff less visiable. ; context of how to apply somethig. ; minimap as ignorant ref
+- Idea for chyp-like functionaltiy: Put the graphs setc at the top, invis lines, then draw them on hover, and maybe make surrounding stuff less visiable. ; context of how to apply somethig. ; minimap as ignorant ref
 
 - Import arbitrary structure (drag/copy/paste)
 - Control
