@@ -155,9 +155,7 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 - [ ] Limitation as things we seem to not be able to change.
 - [ ] What if I could only solve this "without this other thing". ; Simulating different, ..., fewer resources.
 - [ ] "What if I were to treat this as forgotten, ..., ignored" What would happen?
-
-- [ ] Proved in some finite space as opposed to general one.  
-- [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
+- 
 
 ---
 
