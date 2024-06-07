@@ -48,8 +48,8 @@ Unprocessed
 
 `.superpose`
 
-`.add`, `.and`, `.assign`, : Compose an `initial & terminal`
-- and=and difference perspective
+`.add`, `.and`, `.assign`, : Compose an `initial & terminal` (.add is compose boundaries)
+- and=and difference perspective (.add` on vertices -> equiv initial from one side, terminal from other side.)
 - validity; checks as superposed maybe
 - single equivalence?
 `.set`, ` = `
@@ -81,14 +81,10 @@ Unprocessed
   
 Let's take logic gates as an example? - and maybe logic with different equiv func? - Like switching between true/false on each check?  
   
-  
 // TODO: Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
   
-
 ---
 
-add = and ... different perspective?
-`.add` on vertices -> equiv initial from one side, terminal from other side.
 ## Modelling Unknowns
 - [ ]  
 	  - Unknowns not yet verified with proposed consequences for either option?   
