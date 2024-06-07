@@ -147,7 +147,9 @@ Games
 
 ---
 
+Non-trivial interfaces
 - [ ] Holotile floor, and things like it, more future-oriented search
+- [ ] Tacticle/body movements,
 
 ---
 
