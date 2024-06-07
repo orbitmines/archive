@@ -36,6 +36,10 @@ Unprocessed
 `.rewrite`, `.replace`, `.collapse`
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
+- Switch perspective is switching names of functions
+`.reverse`
+		# @see "Reversibility after ignoring some difference": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility  
+		# @see "More accurately phrased as the assumption of Reversibility: with the potential of being violated.": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20Assumptions%20%26%20Assumption%20Violation
 
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
 - none: initial direct to terminal, no vertex in between. & reference none for "select none"
@@ -101,9 +105,7 @@ Unprocessed
 	  # TODO: compile/map/cast/ ... probably fit in that separate category. Wrap to any object if translation exists (in python case inspect?). - Realize is probably similarly on another level of abstraction.  
 	  # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
   
-
 `.traverse` .. 
-- Switch perspective is switching names of functions
 - It is ordered from one perspective, unordered from another.
 - number/int/... chain .any/.all with .as_ for example. (Prepare on the boundary, then shove it through. - lazy func)
 `.terminal / ..`
