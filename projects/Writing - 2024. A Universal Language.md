@@ -201,8 +201,6 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 
 - [ ] How to separate one's personal work, how to combine them, merge them, view them from the outside.
 
-### Some existing ideas: 
-
 ## Rendering engine
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"
 
