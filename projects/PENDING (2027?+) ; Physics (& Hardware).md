@@ -74,6 +74,11 @@ warp-level primitives?
 
 ---
 
+[[2024-06-07]] [SEMF Discord](https://discordapp.com/channels/844566471501414463/1111689941848694924/1248632910475689994)
+
+
+---
+
 [[2024-03-15]] [SEMF Discord](https://discordapp.com/channels/844566471501414463/1111689941848694924/1218215772460154920)
 Wait, anyone more familiar with particles know if you can phrase them as: "some local structure trying to escape some 'point' but being unable to escape some 'local gravitational structure' thereby being sucked back to the point. And having this keep repeating until something else breaks this sort of loop?" - If that's the case, do you know some approachable literature on this?
 
