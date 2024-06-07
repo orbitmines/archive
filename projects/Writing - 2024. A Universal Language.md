@@ -157,15 +157,6 @@ direction at the point**: What does it mean for a point yo become its own direct
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
-[[2024-05-15]] semf discord:
-Something like this: If you equip the thing I'm working on, or more likely someone who knows more about group theory has some way for me to compile grouptheoretic concepts into it at some point. 
-
-I suspect that all these moduli-type questions become computable problems. And it should become obvious that all these moduli-type questions are only answerable if you already have access to some other moduli space.
-
-And you can probably setup ways where you can switch between discrete/infinitary stuctures at will. - Of course this doesn't mean it's easily tractacble. But more that these problems become computable searchspaces.
-
-I think a lot of these confusions come from the language mathematics is using.
-
 ## Exploration and Discovery
 Links to [[Project - Research towards Designs (2024)]] - energy
 reverse engineering, debugging, checking for consistency, validation, fidelity
