@@ -5,7 +5,7 @@ Unprocessed
 
 ---
 
-
+Basically; some of these aliases are probably more appropriate as separate perspectives.  
 
 `.initial`
 
@@ -15,7 +15,8 @@ Unprocessed
 
 `.terminal`
 - .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
-- compile/map/cast/.realize/ ... probably fit in that separate category/level of abstraction
+- compile/render/map/cast/.realize/ ... probably fit in that separate category/level of abstraction
+	- expected not to have alternative behaviors based on binary/ternary calls
 
 `.is_extreme`
 - Extremes as superposed pattern matcher.
@@ -25,6 +26,9 @@ Unprocessed
 - Equivalence at continuation is parallel composition
 - 
 `compose`, `.is_composed`
+
+`.all`
+- Prepare on the boundary, then shove it through. - lazy func
 
 `.traverse`
 - Latch the initial, latch the .self, latch the .terminal, and we determine movement.
@@ -104,13 +108,7 @@ Unprocessed
 
 ---
 
-## Perspective switching
-
-`.terminal`
-	  # Todo: slightly different perspectives in cases of map/render etc..., where certain aliases of these are expected not to have alternative behaviors based on binary/ternary calls to this... ; Basically; some of these aliases are probably more appropriate as separate perspectives.  
-	
 `.traverse / .all / .map / .any`
-- number/int/... chain .any/.all with .as_ for example. (Prepare on the boundary, then shove it through. - lazy func)
 - initial/terminal, basically, which direction and then whether to skip the thing you're currently at. (direction by a ray abstract-level higher.)
 - the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 - becomes ignorant of `.all`, pick something, or allow in parallel from this perspective.
