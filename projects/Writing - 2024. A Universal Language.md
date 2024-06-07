@@ -132,8 +132,6 @@ Traversing `.self`
 - Like that you can also conceptualize multiple steps of none, initial -> initial -> initial -> terminal
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
-
-- noticing of runtime inconsistencies from some perspective ; adjustable
 - detach all connections into single one, what's this interpretation , move some connections to ignorant ref only,
 - Multiplier edge, ring addition
 
