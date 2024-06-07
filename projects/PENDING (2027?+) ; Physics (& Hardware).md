@@ -101,6 +101,12 @@ I want more ways of phrasing: If I thought of it as a point as @_Z said, it's qu
 
 ---
 
+Traversing `.self` 
+- Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to parallize like the superposition of a larger structure, hence it breaks on the further away things on .self
+	- Trade-off between branching spatial extent
+
+---
+
 Hermission/herminisity /time reversal; i.e. ray swap ; look up hermission?
 
 Blackhole as boundary?

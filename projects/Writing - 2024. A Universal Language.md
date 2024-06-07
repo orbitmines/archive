@@ -116,11 +116,6 @@ Unprocessed
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
 - `.all / .any` Difference in list of things parallel composed, or first ewuivalencinf them, then compose. Basically: compose on INITIAL vs - use .all func after separating from .any -. First calling equivalence on INITIAL (equivalence all in chain - separate in pairs, then equivalence - could be parallel) . Or basically this means sollidiving the selection. Then take that as a vertrx and compose with another  
-Traversing `.self` 
-- Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to parallize like the superposition of a larger structure, hence it breaks on the further away things on .self
-	- Trade-off between branching spatial extent
-- So this could be relatively be constructed in certain settings.
-	- a recursive definition of a projective plane but then (partially?) accessible as a calculus?
 `.is_orbit`
 	- TODO: Normal way of talking about a boolean, or probably any concept, is that this is always with .orbit on it. And without .orbit it's probably a weird case. We assume modularity of booleans.  
 	- .orbit by default, recursive?
