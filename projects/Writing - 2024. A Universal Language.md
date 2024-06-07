@@ -151,8 +151,6 @@ direction at the point**: What does it mean for a point yo become its own direct
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
-## Exploration and Discovery
-
 
 ##### Fidelity
 Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't need to spend resources to check whether that's actually the case. Will something fail? That question is what fidelity means. Fidelity checking is a safety mechanism.
