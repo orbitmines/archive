@@ -69,8 +69,8 @@ Unprocessed
  -  "Applying the same thing in a different context"
 
 `.equivalent`
-- Collapsing to a point
-	- Cohomology, ..., not collapsable if something stops this from happe
+- Collapsing to a point (with(/out) a additional filters, ..., ignorances)
+	- Cohomology, ..., not collapsable if something stops this from happening.
 
 ---
 
@@ -142,8 +142,6 @@ Traversing `.self`
 	 - # @see "Continuations as Equivalence (can often be done in parallel - not generally)": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Constructing%20Continuations%20%2D%20Continuations%20as%20Equivalence  
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
-	- similar to copying again, move from one vertex which branches into two, is similar to having a ray which holds the initial on either side. Basically just removing the left one, this being the mechanism to collapse the entire graph to a point. Where in the case of cohomoloy, something stops this from happening. Additional structure at each of the points perhbaps? ANother layer of descriptionwhich says there's something in between.
-	- Homotopy equivalence merely as some direction/reversibility constraint on some direction, ignoring additional structure (or incorporating it into the equiv) at the vertices. (Could be loosened where certain vertex-equivalences are also part of the homotopy)
 	- ; follows from matching rewrite structure&merge ; If some underlying level of description doesn't match the relations at the other level of description we're using for equivalencies / hence homotopies. Then don't permit the invariance/variance and force no difference. Hence any equivalencr necessarily implies possible homotopies. Whether those spaces can actually be differentiated between to create infinite continuous differences between those points ss enumeration of possible homotopies isn't necessarily that obvious in the embedded space ; the underlying level of description  
 	- [ ] Can collapse a loop to a single point in the case of homotopy equivalence. The only thing that would prevent you from doing so is some notion, on the level of another intersecting hypergraph at the vertices, that there should be something in between
 	- [ ] collapse tonpoint, then point could have dinstinguishability that there's something there, or not, or by interactioon in a certain wau
