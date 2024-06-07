@@ -32,7 +32,7 @@ Read
 - [ ] https://en.wikipedia.org/wiki/History_of_Maxwell's_equations
 - [ ] https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation
 - [ ] https://www.unitree.com/
-- [ ] 
+- [ ]  Post-Silicon Validation ?
 
 Discovery data
 - [ ] Higgs boson discovery data & others, where/are these things indexed?
