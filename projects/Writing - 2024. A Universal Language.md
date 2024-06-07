@@ -99,12 +99,10 @@ Unprocessed
 - Other way around: determining that something outside the context is looking inside the context
 - What do you do when the information you want is not available?
 - [ ] 'Unintended'/'Unrealized' effects realized? / Resources one didn't know one is consuming etc... (unknowns)  
-- [ ] Carrying of an initial/terminal from a reference without traversing the direction
 
 Ideas like:
-- [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
+
 - [ ] Non-abstract realizations: Potentially important: distinguishability doesn't need to be abstractly realized, it could just be in the temporal mechanisms of the system: Not reanosable to suggest that certain things should be known in certain cases?
-- [ ] Basically also this thing of, some type of assumption/proof - not need to check some thing ; you can use it without
 
 ---
 

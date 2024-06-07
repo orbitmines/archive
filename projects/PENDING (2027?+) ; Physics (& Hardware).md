@@ -111,6 +111,9 @@ How about phrasing that nothing there as traversal branching into a small local 
 - "Hyperdistance Oracles in hypergraphs" seems obvious from the perspective of Ray? ; it's just traversing `.self` from some perspective instead of other things.
 
 ---
+- [ ] Effectively random, like effective field equations, some idea from ignorance in the sense that: "might as well be truely random".  - unable to understand structure..
+
+---
 
 - [ ] Possible as an example: Rabin-Scoot theorem Jonathan tweeted which I first found (while browsing rust docs???) - Apply the inconsistency argument here, does it still make sense??
 
