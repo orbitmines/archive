@@ -159,9 +159,6 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 - [ ] Proved in some finite space as opposed to general one.  
 - [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
 
-- [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
-	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
-
 ---
 
 #### Universal Version Control
