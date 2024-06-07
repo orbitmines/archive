@@ -88,13 +88,6 @@ Unprocessed
 
   
 // TODO: Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
-  
----
-
-## Modelling Unknowns
-
-Ideas like:
-- [ ] Non-abstract realizations: Potentially important: distinguishability doesn't need to be abstractly realized, it could just be in the temporal mechanisms of the system: Not reanosable to suggest that certain things should be known in certain cases?
 
 ---
 
