@@ -76,7 +76,7 @@ Unprocessed
 `.perspective`
  -  "Applying the same thing in a different context"
 
-`.equivalent`, `.compose`
+`.equivalent`, `.compose` ; up the arity, probably makes less sense?
 - `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - equivalence is an inconsistency from some perspective (and the other way round)
 - Collapsing to a point (with(/out) a additional filters, ..., ignorances)
@@ -121,9 +121,8 @@ Unprocessed
 	- TODO: Normal way of talking about a boolean, or probably any concept, is that this is always with .orbit on it. And without .orbit it's probably a weird case. We assume modularity of booleans.  
 	- .orbit by default, recursive?
 
-`composition - equivalence - >` ; up the arity, probably makes less sense?
+`composition - equivalence - >` ; 
 - detach all connections into single one, what's this interpretation , move some connections to ignorant ref only,
-- Multiplier edge, ring addition
 
 ##### "Superpose in more detail"
 back & into.self
