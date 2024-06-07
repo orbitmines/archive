@@ -39,6 +39,7 @@ Basically; some of these aliases are probably more appropriate as separate persp
 - Ignorance/equivalence along arbitrary rays. = Equivalence
 - Undecided terminal for traversal / or break off structure to explore both.
 - Hard to say it's terminating. Need an orbit for that, and access to your own modular structure to say that. Otherwise it's "open loop traversal". Which is fine, just no abstract realization. Simple example is references to references. Or keep going in orbits when you can shut off the traversal.
+- the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 
 `.rewrite`, `.replace`, `.collapse`
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
@@ -110,7 +111,6 @@ Basically; some of these aliases are probably more appropriate as separate persp
 
 `.traverse / .all / .map / .any`
 - initial/terminal, basically, which direction and then whether to skip the thing you're currently at. (direction by a ray abstract-level higher.)
-
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
 - `.all` / `.any` pending/.../lazy to generate things from those pointers.
 - `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
