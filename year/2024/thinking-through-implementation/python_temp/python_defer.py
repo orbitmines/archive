@@ -4,6 +4,7 @@
 # TODO: Leave behind --] [-- or connect them basically..
 # TODO: Could lazily try to find references., garbage collectors and other concepts like it.
 # TODO: Maybe want a way to destroy from one end, so that if other references try to look, they won't find additional structure.
+# TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?
 
 def reverse(self) -> Ray:
   return Ray(initial=self.terminal, self=self.self, terminal=self.initial)
