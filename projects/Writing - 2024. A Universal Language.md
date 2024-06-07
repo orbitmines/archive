@@ -68,7 +68,9 @@ Unprocessed
 `.perspective`
  -  "Applying the same thing in a different context"
 
-
+`.equivalent`
+- Collapsing to a point
+	- Cohomology, ..., not collapsable if something stops this from happe
 
 ---
 
