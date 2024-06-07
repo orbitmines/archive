@@ -151,12 +151,6 @@ direction at the point**: What does it mean for a point yo become its own direct
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
-
-##### Fidelity
-Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't need to spend resources to check whether that's actually the case. Will something fail? That question is what fidelity means. Fidelity checking is a safety mechanism.
-
-- [ ] Retry: Keep pulsing certain rays "does it continue" - is it still consistent?
-
 ##### Self-imposed limitations
 - [ ] Limitation as things we seem to not be able to change.
 - [ ] What if I could only solve this "without this other thing". ; Simulating different, ..., fewer resources.
