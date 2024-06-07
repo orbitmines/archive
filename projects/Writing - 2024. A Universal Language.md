@@ -235,7 +235,6 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 - [ ] Brute-forcing: try to explore combinatorial exploding spaces. 
 - [ ] Solving ambiguity with additional context ; tolerance of ambiguity
 	- [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure. Ambiguity arises from this ignorance of structure.
-	- [ ] Then combating it would be: Want to collapse it, snap the modular structure. To converge to some structure (which could still be used as a modular space), but is now realized as not one within that context.
 
 
 ---
