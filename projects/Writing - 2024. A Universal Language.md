@@ -69,9 +69,10 @@ Unprocessed
  -  "Applying the same thing in a different context"
 
 `.equivalent`
+- `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - equivalence is an inconsistency from some perspective (and the other way round)
 - Collapsing to a point (with(/out) a additional filters, ..., ignorances)
-	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point,.
+	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 	- Cohomology, ..., not collapsable if something stops this from happening.
 
 ---
@@ -142,8 +143,6 @@ Traversing `.self`
 	- .orbit by default, recursive?
 `.compose`
 	 - # @see "Continuations as Equivalence (can often be done in parallel - not generally)": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Constructing%20Continuations%20%2D%20Continuations%20as%20Equivalence  
-`.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
-- Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
 
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
 - none: initial direct to terminal, no vertex in between. & reference none for "select none"
