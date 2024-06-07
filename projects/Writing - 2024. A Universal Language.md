@@ -15,6 +15,7 @@ Unprocessed
 
 `.terminal`
 - .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
+- compile/map/cast/.realize/ ... probably fit in that separate category/level of abstraction
 
 `.is_extreme`
 - Extremes as superposed pattern matcher.
@@ -82,7 +83,7 @@ Unprocessed
 `.equivalent`, `.compose` ; up the arity, probably makes less sense?
 - `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - equivalence is an inconsistency from some perspective (and the other way round)
-- Collapsing to a point (with(/out) a additional filters, ..., ignorances)
+- Collapsing to a point (with(/out) a additional filters, ..., ignorances) (where/if)
 	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 	- Cohomology, ..., not collapsable if something stops this from happening.
 
@@ -107,9 +108,7 @@ Unprocessed
 
 `.terminal`
 	  # Todo: slightly different perspectives in cases of map/render etc..., where certain aliases of these are expected not to have alternative behaviors based on binary/ternary calls to this... ; Basically; some of these aliases are probably more appropriate as separate perspectives.  
-	  # TODO: compile/map/cast/ ... probably fit in that separate category. Wrap to any object if translation exists (in python case inspect?). - Realize is probably similarly on another level of abstraction.  
-	  # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
-
+	
 `.traverse / .all / .map / .any`
 - number/int/... chain .any/.all with .as_ for example. (Prepare on the boundary, then shove it through. - lazy func)
 - initial/terminal, basically, which direction and then whether to skip the thing you're currently at. (direction by a ray abstract-level higher.)
