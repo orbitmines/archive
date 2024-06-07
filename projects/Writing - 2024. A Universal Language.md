@@ -97,9 +97,7 @@ Unprocessed
 	  - Expectations/claims based on incompleteness of some intermediary step.  
 	  - Also without expectation but simply an unsolved unknown.
 - Other way around: determining that something outside the context is looking inside the context
-- What do you do when the information you want is not available?
-- [ ] 'Unintended'/'Unrealized' effects realized? / Resources one didn't know one is consuming etc... (unknowns)  
-
+- What do you do when the information you want is not available? 
 Ideas like:
 
 - [ ] Non-abstract realizations: Potentially important: distinguishability doesn't need to be abstractly realized, it could just be in the temporal mechanisms of the system: Not reanosable to suggest that certain things should be known in certain cases?
