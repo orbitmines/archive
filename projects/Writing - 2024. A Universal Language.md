@@ -256,7 +256,6 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 		- [ ] If ones particular assumption falls it can be caught up by another: If some abstract form of time isn't necessary then one can revert to theories that allow perfect symmetries of relations which are not described by computation. ...etc. How would one invalidate the whole thing?  - safety mechanism for tests - or at least, that would be assumed
 	  - [ ] Try limitation on hardcoded relationships between things: Visual representations, symmetries of them etc..  
 	  - [ ] Testing/Simulating with fewer resources, see how that impacts behavior; temporal/visual/... (Modeling resources?)
-	  - [ ] Not having access to inner perceived structure (transduction/..)/equivalency rules  
 
 
 
