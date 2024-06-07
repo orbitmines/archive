@@ -199,6 +199,7 @@ direction at the point**: What does it mean for a point yo become its own direct
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
 ## Exploration and Discovery
+Links to [[Project - Research towards Designs (2024)]] - energy
 reverse engineering, debugging, checking for consistency, validation, fidelity
 
 In exploration, one necessarily has to confront the problem of forgetting. Which becomes a tale of finding out how failures can be detected, ..., prevented. How do you fight errors when rediscoverability is not obvious?
@@ -222,24 +223,24 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
 ##### Unusual, probing, ..., sporadic exploration
+- [ ] Practical guesses
 
 ##### Fuzzing, ..., discovery
 
 - [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
 	- [ ] Post-Silicon Validation
-- [ ] Brute-forcing: try to explore combinatorial exploding spaces. You can still try if there's not other 
+- [ ] Brute-forcing: try to explore combinatorial exploding spaces. 
 - [ ] Solving ambiguity with additional context ; tolerance of ambiguity
 	- [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure. Ambiguity arises from this ignorance of structure.
-	- [ ] You want to allow for ambiguity, and ways of resolving it.
 	- [ ] Then combating it would be: Want to collapse it, snap the modular structure. To converge to some structure (which could still be used as a modular space), but is now realized as not one within that context.
-	- [ ] Relate to [[Project - Indexing existing Abstract Models (2024-2025?)]] ; closeness/how quick does it fit your structure
 - [ ] Making a non theorem a theorem holding all properties and symmetries except its initial violation. It's not necessarily: "But that's not inside the definition of what this thing is supposed to be" - it's merely, well apparently I can do this, so your abstraction/description/implementation/... is clearly ignorant of something (obviously).
 
 - [ ] Unknowns & inconsistencies driving curiosity?   ; same with items, finding hints of possible quests to pursue
 
-*Unusual exploration, sporadic, probing*
+
+*
 - TODO: How about treating something like something which the context says it's not? (Could apply this sort of thing in some fidelity/consistency checking mechanism as a way of fuzzing the fidelity mechanism)
-- practical guesses
+
 
 
 
