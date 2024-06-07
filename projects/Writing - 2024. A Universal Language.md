@@ -252,9 +252,6 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 - [ ] Against forgetting/violation/inconsistencies
 	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.
 	- [ ] It's crossing some directionality and finding one cannot return back? (That would imply next time step or something - any inconsistency possibly 
-	- [ ] Redundancy: redundancy defined as aiding the resolving of unresolved values? (if compression is the goal: least redundant, if the goal is adaptability; sparsity)
-	- [ ] Self-imposed limitations to see if that can be sufficient  
-
 
 
 
