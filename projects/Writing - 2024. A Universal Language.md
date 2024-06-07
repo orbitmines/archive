@@ -205,11 +205,13 @@ In exploration, one necessarily has to confront the problem of forgetting. Which
 
 Fidelity
 Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't need to spend resources to check whether that's actually the case. Will something fail? That question is what fidelity means.
+
 - [ ] Keep pulsing certain rays "does it continue" - is it still consistent?
 
 Self-imposed limitations
 - [ ] Limitation as things we seem to not be able to change.
 - [ ] What if I could only solve this "without this other thing". ; Simulating different, ..., fewer resources.
+- [ ] "What if I were to treat this as forgotten, ..., ignored" What would happen?
 
 - [ ] Proved in some finite space as opposed to general one.  
 - [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
@@ -255,9 +257,6 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 	- [ ] It's crossing some directionality and finding one cannot return back? (That would imply next time step or something - any inconsistency possibly 
 	- [ ] Redundancy: redundancy defined as aiding the resolving of unresolved values? (if compression is the goal: least redundant, if the goal is adaptability; sparsity)
 	- [ ] Self-imposed limitations to see if that can be sufficient  
-		- [ ] "What if I were to treat this as forgotten, what would happen?"  
-		- [ ]  - fidelity: If I don't check, I assume it will be consistent, if I do check, I assume the checking will be consistent. ; What to do when certain types of consistency fail?  
-		- [ ] If ones particular assumption falls it can be caught up by another: If some abstract form of time isn't necessary then one can revert to theories that allow perfect symmetries of relations which are not described by computation. ...etc. How would one invalidate the whole thing?  - safety mechanism for tests - or at least, that would be assumed
 
 
 
