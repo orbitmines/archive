@@ -106,10 +106,8 @@ Basically; some of these aliases are probably more appropriate as separate persp
 - Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 - "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
-  
-- [ ] Applying a function on a Ray (vertex/initial/terminal) ; then go inside, insde can again be a vertex/initial/terminal on each vertex, apply on those.  
 
-  
+
 // TODO: Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
 
 ##### "Superpose in more detail"
