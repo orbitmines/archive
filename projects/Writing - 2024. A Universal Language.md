@@ -250,7 +250,6 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 ## Compression
 
 - [ ] Against forgetting/violation/inconsistencies
-	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.
 	- [ ] It's crossing some directionality and finding one cannot return back? (That would imply next time step or something - any inconsistency possibly 
 
 
