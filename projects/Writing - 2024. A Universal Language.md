@@ -46,6 +46,7 @@ Unprocessed
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
 - none: initial direct to terminal, no vertex in between. & reference none for "select none"
 `.orbit`
+- .orbit by default (turn off by splitting the boundary in two. Could do this locally with a wall)
 - Note that an orbit means reversibility (if no other context changes, and if we ignore the cursor)
 - This is what breaks our recursion. An equivalency we don't have access to.- It halts the program. (["And there we have it ..."](@see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.))
 - This tries for "global coherence" - which just means a self-loop where no change is assumed in surrounding context (obviously inconsistent, but that doesn't matter).
@@ -119,7 +120,6 @@ Unprocessed
 - `.all / .any` Difference in list of things parallel composed, or first ewuivalencinf them, then compose. Basically: compose on INITIAL vs - use .all func after separating from .any -. First calling equivalence on INITIAL (equivalence all in chain - separate in pairs, then equivalence - could be parallel) . Or basically this means sollidiving the selection. Then take that as a vertrx and compose with another  
 `.is_orbit`
 	- TODO: Normal way of talking about a boolean, or probably any concept, is that this is always with .orbit on it. And without .orbit it's probably a weird case. We assume modularity of booleans.  
-	- .orbit by default, recursive?
 
 `composition - equivalence - >` ; 
 - detach all connections into single one, what's this interpretation , move some connections to ignorant ref only,
