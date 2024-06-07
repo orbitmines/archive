@@ -153,13 +153,6 @@ Non-trivial interfaces
 
 ---
 
-
-- [ ] If no additional structure is defined, collapse reducible states in between to ("forgotten", but so many steps, or something similar.), Then one may still to that if there are intermediate points for which something is defined, as define it somewhere else.
-
-
-
-
-
 Features
 - [ ] Take two or more poins, collapse them all to reference one thing?.  ; either that selection, or anything else found at that selection.
 - [ ] Pulsing out, one perspective can't access but another can

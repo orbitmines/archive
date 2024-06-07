@@ -25,6 +25,7 @@ Unprocessed
 `compose`, `.is_composed`
 
 `.traverse`
+- Latch the initial, latch the .self, latch the .terminal, and we determine movement.
 - Can implement the ignorances through
 - those traversal layers on branches which dont go left/right but only one direction?
 - split off branching initial remainin o. the temrinal the ret marching along
@@ -292,9 +293,10 @@ Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
 
 ### Initial interface setup
+[[Project - Research towards Designs (2024)]]
+
 [Whatever this interface will look like, it necessitates conveniently being able to change **anything** about how it looks, ..., how it operates *from the interface itself*.](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Whatever%20this%20interface,the%20first%20case%3F)
 
-[[Project - Research towards Designs (2024)
 - [ ] Track program, rotation, ..., interface movements. Possibly replay at some accuracy. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
 	- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
 - [ ] Test on different OS & browsers
