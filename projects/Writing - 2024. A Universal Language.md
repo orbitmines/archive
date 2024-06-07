@@ -201,7 +201,11 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 ## Exploration and Discovery
 reverse engineering, debugging, checking for consistency, validation, fidelity
 
+Fidelity
+- [ ] Keep pulsing certain rays "does it continue" - is it still consistent?
+
 - [ ] Proved in some finite space as opposed to general one.  
+- [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
 
 - [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
 	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
@@ -253,7 +257,7 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 	  - [ ] Try limitation on hardcoded relationships between things: Visual representations, symmetries of them etc..  
 	  - [ ] Testing/Simulating with fewer resources, see how that impacts behavior; temporal/visual/... (Modeling resources?)
 	  - [ ] Not having access to inner perceived structure (transduction/..)/equivalency rules  
-- [ ] Keep pulsing certain directionalitiws for changes in sone "does it continue", agift behavior based on such changes
+
 
 
 ---
