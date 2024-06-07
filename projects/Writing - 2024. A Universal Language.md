@@ -228,11 +228,9 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 - [ ] Practical guesses
 - [ ] Treating something as something it's not
 - [ ] Unknowns & inconsistencies driving curiosity?   ; same with items, finding hints of possible quests to pursue
-- [ ] Fuzzing, ..., discovery
 - [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
-	- [ ] Post-Silicon Validation
+	- [ ] example: Post-Silicon Validation
 - [ ] Brute-forcing: try to explore combinatorial exploding spaces. 
-
 
 ---
 
