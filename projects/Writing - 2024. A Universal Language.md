@@ -203,12 +203,12 @@ reverse engineering, debugging, checking for consistency, validation, fidelity
 
 In exploration, one necessarily has to confront the problem of forgetting. Which becomes a tale of finding out how failures can be detected, ..., prevented. How do you fight errors when rediscoverability is not obvious?
 
-Fidelity
+##### Fidelity
 Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't need to spend resources to check whether that's actually the case. Will something fail? That question is what fidelity means. Fidelity checking is a safety mechanism.
 
 - [ ] Keep pulsing certain rays "does it continue" - is it still consistent?
 
-Self-imposed limitations
+##### Self-imposed limitations
 - [ ] Limitation as things we seem to not be able to change.
 - [ ] What if I could only solve this "without this other thing". ; Simulating different, ..., fewer resources.
 - [ ] "What if I were to treat this as forgotten, ..., ignored" What would happen?
@@ -220,12 +220,9 @@ Self-imposed limitations
 	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
 
-Fuzzing / discovery
-Could just randomly start generating possible combinations of logical gates (or any methods on Ray), which if the runtime has an explanation for (or in the debug mode just to listen), you can hook into that and create an implementation. In the case of python made something along the lines of an interpreter which gives you one, asks to write one in python...
+##### Fuzzing, ..., discovery
+
 [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
-
-
-Partially, locally, ... (same as on orbits)
 
 (other ideas, examples: Post-Silicon Validation, ... ?)
 
