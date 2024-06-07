@@ -1,7 +1,6 @@
 *Let's try for < [[2024-06-30]]*
 
 Unprocessed
-- [ ] (SEMF) Discord messages / livestream transcript
 - [ ] Some of the notebooks from 2023
 
 ---
