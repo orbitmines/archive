@@ -225,11 +225,9 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 
 ##### Fuzzing, ..., discovery
 
-[ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
-
-(other ideas, examples: Post-Silicon Validation, ... ?)
-
-- [ ] Brute-forcing if no better alternative has yet been found? ; try to explore combinatorial exploding spaces.
+- [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
+	- [ ] Post-Silicon Validation
+- [ ] Brute-forcing: try to explore combinatorial exploding spaces. You can still try if there's not other 
 - [ ] Solving ambiguity with additional context ; tolerance of ambiguity
 	- [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure. Ambiguity arises from this ignorance of structure.
 	- [ ] You want to allow for ambiguity, and ways of resolving it.
