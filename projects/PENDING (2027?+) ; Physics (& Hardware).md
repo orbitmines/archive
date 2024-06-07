@@ -79,7 +79,7 @@ Does there exist a dual black hole in the universe which doesn't merge, but rema
 
 If you could construct a thing like this, it's probably a way in which you can reprogram at the universe's scale is my thinking
 
-Or perhaps this is already the case ![🤔](https://discordapp.com/assets/02dfd69fe96885956810.svg) How would you even go about figuring out whether the number of black holes in the universe is an even number?
+Or perhaps this is already the case :thinking: How would you even go about figuring out whether the number of black holes in the universe is an even number?
 
 ---
 
