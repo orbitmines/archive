@@ -208,7 +208,7 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 ##### Fidelity
 Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't need to spend resources to check whether that's actually the case. Will something fail? That question is what fidelity means. Fidelity checking is a safety mechanism.
 
-- [ ] Keep pulsing certain rays "does it continue" - is it still consistent?
+- [ ] Retry: Keep pulsing certain rays "does it continue" - is it still consistent?
 
 ##### Self-imposed limitations
 - [ ] Limitation as things we seem to not be able to change.
@@ -221,6 +221,7 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 - [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
 	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
+##### Unusual, probing, ..., sporadic exploration
 
 ##### Fuzzing, ..., discovery
 
@@ -240,7 +241,6 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 
 *Unusual exploration, sporadic, probing*
 - TODO: How about treating something like something which the context says it's not? (Could apply this sort of thing in some fidelity/consistency checking mechanism as a way of fuzzing the fidelity mechanism)
-	- Trying again: doesn't change?
 - practical guesses
 
 
