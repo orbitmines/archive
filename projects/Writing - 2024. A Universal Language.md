@@ -112,11 +112,6 @@ Basically; some of these aliases are probably more appropriate as separate persp
   
 // TODO: Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
 
----
-
-
-- `.all / .any` Difference in list of things parallel composed, or first ewuivalencinf them, then compose. Basically: compose on INITIAL vs - use .all func after separating from .any -. First calling equivalence on INITIAL (equivalence all in chain - separate in pairs, then equivalence - could be parallel) . Or basically this means sollidiving the selection. Then take that as a vertrx and compose with another  
-
 ##### "Superpose in more detail"
 back & into.self
 
