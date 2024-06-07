@@ -203,6 +203,8 @@ reverse engineering, debugging, checking for consistency, validation, fidelity
 
 In exploration, one necessarily has to confront the problem of forgetting. Which becomes a tale of finding out how failures can be detected, ..., prevented. How do you fight errors when rediscoverability is not obvious?
 
+Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it?
+
 ##### Fidelity
 Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't need to spend resources to check whether that's actually the case. Will something fail? That question is what fidelity means. Fidelity checking is a safety mechanism.
 
@@ -233,7 +235,6 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 	- [ ] Then combating it would be: Want to collapse it, snap the modular structure. To converge to some structure (which could still be used as a modular space), but is now realized as not one within that context.
 	- [ ] Relate to [[Project - Indexing existing Abstract Models (2024-2025?)]] ; closeness/how quick does it fit your structure
 - [ ] Making a non theorem a theorem holding all properties and symmetries except its initial violation. It's not necessarily: "But that's not inside the definition of what this thing is supposed to be" - it's merely, well apparently I can do this, so your abstraction/description/implementation/... is clearly ignorant of something (obviously).
-- [ ] Deletion of information
 
 - [ ] Unknowns & inconsistencies driving curiosity?   ; same with items, finding hints of possible quests to pursue
 
@@ -242,7 +243,6 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 	- Trying again: doesn't change?
 - practical guesses
 
-Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - ; compression
 
 
 ---
