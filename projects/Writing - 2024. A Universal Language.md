@@ -247,12 +247,6 @@ Partially, locally, ... (same as on orbits)
 
 Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it? - ; compression
 
-## Compression
-
-- [ ] Against forgetting/violation/inconsistencies
-	- [ ] It's crossing some directionality and finding one cannot return back? (That would imply next time step or something - any inconsistency possibly 
-
-
 
 ---
 
