@@ -76,10 +76,7 @@ Unprocessed
 
   
 - [ ] Applying a function on a Ray (vertex/initial/terminal) ; then go inside, insde can again be a vertex/initial/terminal on each vertex, apply on those.  
-  
----  
-  
-Let's take logic gates as an example? - and maybe logic with different equiv func? - Like switching between true/false on each check?  
+
   
 // TODO: Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
   
