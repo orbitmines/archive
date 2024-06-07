@@ -153,11 +153,10 @@ Non-trivial interfaces
 
 ---
 
-going around the loop constantly ignoring dropping the one connection, unrolling the line on the loop, if both are a loop, could keep going / oscillate, or things like larger extent compare, or same frame cancel out when intersect  
 
 - [ ] If no additional structure is defined, collapse reducible states in between to ("forgotten", but so many steps, or something similar.), Then one may still to that if there are intermediate points for which something is defined, as define it somewhere else.
 
-Latch the initial, latch the .self, latch the .terminal, and we determine movement.
+
 
 
 
