@@ -149,21 +149,7 @@ Games
 
 Non-trivial interfaces
 - [ ] Holotile floor, and things like it, more future-oriented search
-- [ ] Tacticle/body movements,
-
----
-
-ring expanding then collapsing to a point. OM logo in the middle? ; small key to explode to outside
-
-
----
-
-rotate thr whole thing
-orbit local loop pull everything in
-
----
-
-orbit matching whole thing or not, hence prine number maybe
+- [ ] Tacticle/body movements, ...m anything
 
 ---
 

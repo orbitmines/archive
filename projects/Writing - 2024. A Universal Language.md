@@ -284,6 +284,9 @@ Intro
 - Ring in the middle rotsting, then expand, transparent background. grow into orbitmines logo then blank sheet, waiting for use
 	- grow from there structure onto the screen, superopositions, grow, collapse, grow..., nice animation for startup.
 - Ray growth over some grid as the 3d rendering engine
+- ring expanding then collapsing to a point. OM logo in the middle? ; small key to explode to outside
+- Rotate the whole thing / orbit local pull everything in
+- 
 
 Header
 - [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
