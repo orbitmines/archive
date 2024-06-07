@@ -204,7 +204,7 @@ reverse engineering, debugging, checking for consistency, validation, fidelity
 In exploration, one necessarily has to confront the problem of forgetting. Which becomes a tale of finding out how failures can be detected, ..., prevented. How do you fight errors when rediscoverability is not obvious?
 
 Fidelity
-Fidelity becom
+Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't need to spend resources to check whether that's actually the case. Will something fail? That question is what fidelity means.
 - [ ] Keep pulsing certain rays "does it continue" - is it still consistent?
 
 Self-imposed limitations
