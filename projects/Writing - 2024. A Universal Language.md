@@ -117,9 +117,6 @@ Basically; some of these aliases are probably more appropriate as separate persp
 - `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
 - `.all / .any` Difference in list of things parallel composed, or first ewuivalencinf them, then compose. Basically: compose on INITIAL vs - use .all func after separating from .any -. First calling equivalence on INITIAL (equivalence all in chain - separate in pairs, then equivalence - could be parallel) . Or basically this means sollidiving the selection. Then take that as a vertrx and compose with another  
 
-`composition - equivalence - >` ; 
-- detach all connections into single one, what's this interpretation , move some connections to ignorant ref only,
-
 ##### "Superpose in more detail"
 back & into.self
 
