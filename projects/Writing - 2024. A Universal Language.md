@@ -104,9 +104,6 @@ Ideas like:
 
 ## Perspective switching
 
-
- Open inputs, outputs, compute substrate, ..., interfaces ; means inputs/outputs are extremes match on initial/terminal. Substrate is anything in between. Interfaces are control of that in between if we're not fully defining how it is traversed by default.
-
 `.terminal`
 	# TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?  
 	  # Todo: slightly different perspectives in cases of map/render etc..., where certain aliases of these are expected not to have alternative behaviors based on binary/ternary calls to this... ; Basically; some of these aliases are probably more appropriate as separate perspectives.  
