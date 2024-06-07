@@ -71,6 +71,7 @@ Unprocessed
 `.equivalent`
 - equivalence is an inconsistency from some perspective (and the other way round)
 - Collapsing to a point (with(/out) a additional filters, ..., ignorances)
+	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point,.
 	- Cohomology, ..., not collapsable if something stops this from happening.
 
 ---
@@ -143,7 +144,6 @@ Traversing `.self`
 	 - # @see "Continuations as Equivalence (can often be done in parallel - not generally)": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Constructing%20Continuations%20%2D%20Continuations%20as%20Equivalence  
 `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - Then homotopy equivalent, when a particular perspective allows to collapse some ray to a single point/empty.
-	- [ ] Can collapse a loop to a single point in the case of homotopy equivalence. The only thing that would prevent you from doing so is some notion, on the level of another intersecting hypergraph at the vertices, that there should be something in between
 
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
 - none: initial direct to terminal, no vertex in between. & reference none for "select none"
