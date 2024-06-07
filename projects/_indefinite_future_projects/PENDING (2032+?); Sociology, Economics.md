@@ -9,6 +9,8 @@ Read
 *Tread carefully, confusion abound**
 
 #### Social
+[[2024-03-12]] [SEMF Discord](https://discordapp.com/channels/844566471501414463/1120765246051733544/1217120332071047240)
+I'm kind of surprised by how specialized people's abilities are. It's evidently incredibly hard to carry a particular interest/knowledge/.../competence to another setting. Albeit personal/financial/social/.../technical. But the overarching thing to me seems to be that once some convenient solution for something is found, is that it becomes incredibly hard to explore alternatives. Which as a superficial comment from me, seems to be the pattern.
 [[2024-02-27]]
 You probably wouldn't want to normalize (ie create the pressure that you must) publishing you everything do online - but that's probably what I'm signalling to now
 [[2024-02-05]]
