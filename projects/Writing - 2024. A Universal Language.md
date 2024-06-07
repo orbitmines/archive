@@ -92,13 +92,8 @@ Unprocessed
 ---
 
 ## Modelling Unknowns
-- [ ]  
-	  - Unknowns not yet verified with proposed consequences for either option?   
-	  - Expectations/claims based on incompleteness of some intermediary step.  
-	  - Also without expectation but simply an unsolved unknown.
 
 Ideas like:
-
 - [ ] Non-abstract realizations: Potentially important: distinguishability doesn't need to be abstractly realized, it could just be in the temporal mechanisms of the system: Not reanosable to suggest that certain things should be known in certain cases?
 
 ---
