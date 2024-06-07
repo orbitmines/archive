@@ -11,6 +11,10 @@ Read
 #### Social
 [[2024-03-12]] [SEMF Discord](https://discordapp.com/channels/844566471501414463/1120765246051733544/1217120332071047240)
 I'm kind of surprised by how specialized people's abilities are. It's evidently incredibly hard to carry a particular interest/knowledge/.../competence to another setting. Albeit personal/financial/social/.../technical. But the overarching thing to me seems to be that once some convenient solution for something is found, is that it becomes incredibly hard to explore alternatives. Which as a superficial comment from me, seems to be the pattern.
+[[2024-02-16]] [SEMF Discord](https://discordapp.com/channels/844566471501414463/1111689870507778173/1208060857502670909)
+Does it make sense to say that a symmetry is a single homotopy equivalence or ignorance along the asymmetrical entries of a homotopy equivalence. (i.e. The ignorance of differences along entries in a hyperedge is the definition of a symmetry). Or in some sense that the definition of an equivalence is (or is close to) a negative (; or is dual to??) (or perhaps a different arity/abstraction-level of)  ignorance?
+
+fyi, assume I'm totally ignorant of mathematics, my understanding is more fuzzy - question marks could be inserted after every word
 [[2024-02-27]]
 You probably wouldn't want to normalize (ie create the pressure that you must) publishing you everything do online - but that's probably what I'm signalling to now
 [[2024-02-05]]
