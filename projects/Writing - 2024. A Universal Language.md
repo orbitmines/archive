@@ -37,6 +37,8 @@ Unprocessed
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
 
+`.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
+- none: initial direct to terminal, no vertex in between. & reference none for "select none"
 `.orbit`
 - Note that an orbit means reversibility (if no other context changes, and if we ignore the cursor)
 - This is what breaks our recursion. An equivalency we don't have access to.- It halts the program. (["And there we have it ..."](@see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.))
@@ -127,13 +129,9 @@ Traversing `.self`
 `.compose`
 	 - # @see "Continuations as Equivalence (can often be done in parallel - not generally)": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Constructing%20Continuations%20%2D%20Continuations%20as%20Equivalence  
 
-`.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
-- none: initial direct to terminal, no vertex in between. & reference none for "select none"
-
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 - detach all connections into single one, what's this interpretation , move some connections to ignorant ref only,
 - Multiplier edge, ring addition
-
 
 ##### "Superpose in more detail"
 back & into.self
