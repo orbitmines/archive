@@ -45,6 +45,7 @@ Unprocessed
 
 `.none` Many ways of phrasing this ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
 - none: initial direct to terminal, no vertex in between. & reference none for "select none"
+- caollpse the loop with an extreme, 
 `.orbit`
 - .orbit by default (turn off by splitting the boundary in two. Could do this locally with a wall)
 - Note that an orbit means reversibility (if no other context changes, and if we ignore the cursor)
