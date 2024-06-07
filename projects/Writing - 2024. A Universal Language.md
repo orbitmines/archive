@@ -153,9 +153,9 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 
 ## Exploration and Discovery
 
-In exploration, one necessarily has to confront the problem of forgetting. Which becomes a tale of finding out how failures can be detected, ..., prevented. How do you fight errors when rediscoverability is not obvious?
 
-Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it?
+
+
 
 There is an ambiguity on where exactly one mentions the structure. Ambiguity arises from this ignorance of structure. Tolerence of ambiguity
 
