@@ -105,10 +105,7 @@ Basically; some of these aliases are probably more appropriate as separate persp
 - Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
 - Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 - "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
-
-
-
-// TODO: Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
+- Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
 
 ##### "Superpose in more detail"
 back & into.self
