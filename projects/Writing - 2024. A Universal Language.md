@@ -49,6 +49,7 @@ Unprocessed
 `.superpose`
 
 `.add`, `.and`, `.assign`, : Compose an `initial & terminal`
+- and=and difference perspective
 - validity; checks as superposed maybe
 - single equivalence?
 `.set`, ` = `
@@ -73,10 +74,6 @@ Unprocessed
 - Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 - "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
-**This is just preliminary, I'll change this later**  
-  
-> [!WARNING]  
-> Reasoning backwards, what should the JavaScript interface look like?  
   
 - [ ] Applying a function on a Ray (vertex/initial/terminal) ; then go inside, insde can again be a vertex/initial/terminal on each vertex, apply on those.  
   
@@ -84,16 +81,9 @@ Unprocessed
   
 Let's take logic gates as an example? - and maybe logic with different equiv func? - Like switching between true/false on each check?  
   
-```ts  
-import Ray from '@orbitmines/ar.ray';  
-  
-const initial = Ray.boolean().orbit().size(2);  
-const terminal = Ray.boolean().orbit().size(2);  
-  
   
 // TODO: Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
   
-```
 
 ---
 
