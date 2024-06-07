@@ -206,6 +206,8 @@ In exploration, one necessarily has to confront the problem of forgetting. Which
 
 Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question. ; What can we say about the information when we are missing or thinking corruption of it?
 
+There is an ambiguity on where exactly one mentions the structure. Ambiguity arises from this ignorance of structure. Tolerence of ambiguity
+
 ##### Fidelity
 Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't need to spend resources to check whether that's actually the case. Will something fail? That question is what fidelity means. Fidelity checking is a safety mechanism.
 
@@ -226,15 +228,10 @@ Fidelity becomes a story of trust [ref]. If I assume its consistency, so I don't
 - [ ] Practical guesses
 - [ ] Treating something as something it's not
 - [ ] Unknowns & inconsistencies driving curiosity?   ; same with items, finding hints of possible quests to pursue
-
-##### Fuzzing, ..., discovery
-
-
+- [ ] Fuzzing, ..., discovery
 - [ ] 'Monkey testing':/.../fuzzing Random changing values/random forgetting: Simulating, what would happen?
 	- [ ] Post-Silicon Validation
 - [ ] Brute-forcing: try to explore combinatorial exploding spaces. 
-- [ ] Solving ambiguity with additional context ; tolerance of ambiguity
-	- [ ] In reference to the idea of not having access to the details of what some point is, then gaining them, there is an ambiguity on where exactly one mentions the structure. Ambiguity arises from this ignorance of structure.
 
 
 ---
