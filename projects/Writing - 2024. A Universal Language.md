@@ -107,10 +107,8 @@ Unprocessed
   
 `.traverse` .. 
 - It is ordered from one perspective, unordered from another.
-- number/int/... chain .any/.all with .as_ for example. (Prepare on the boundary, then shove it through. - lazy func)
-`.terminal / ..`
-- Move `.self` to `.terminal
 `.traverse / .all / .map / .any`
+- number/int/... chain .any/.all with .as_ for example. (Prepare on the boundary, then shove it through. - lazy func)
 - initial/terminal, basically, which direction and then whether to skip the thing you're currently at. (direction by a ray abstract-level higher.)
 - the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 - becomes ignorant of `.all`, pick something, or allow in parallel from this perspective.
@@ -121,7 +119,7 @@ Unprocessed
 Traversing `.self` 
 - Like [[Jonathan Gorard]] mentioned inability to parallize obstruction to causality - in the sense of cant traverse the .self ray fast enough to parallize like the superposition of a larger structure, hence it breaks on the further away things on .self
 	- Trade-off between branching spatial extent
-- Traversing `.self` without time-step would be a projective plane? ; So this could be relatively be constructed in certain settings.
+- So this could be relatively be constructed in certain settings.
 	- a recursive definition of a projective plane but then (partially?) accessible as a calculus?
 `.is_orbit`
 	- TODO: Normal way of talking about a boolean, or probably any concept, is that this is always with .orbit on it. And without .orbit it's probably a weird case. We assume modularity of booleans.  
