@@ -201,8 +201,13 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 ## Exploration and Discovery
 reverse engineering, debugging, checking for consistency, validation, fidelity
 
+In exploration, one necessarily has to confront the problem of forgetting.
+
 Fidelity
 - [ ] Keep pulsing certain rays "does it continue" - is it still consistent?
+
+Self-imposed limitations
+
 
 - [ ] Proved in some finite space as opposed to general one.  
 - [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
