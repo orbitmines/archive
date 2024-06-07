@@ -5,6 +5,8 @@ Unprocessed
 
 ---
 
+
+
 `.initial`
 
 
@@ -74,7 +76,7 @@ Unprocessed
 `.perspective`
  -  "Applying the same thing in a different context"
 
-`.equivalent`
+`.equivalent`, `.compose`
 - `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - equivalence is an inconsistency from some perspective (and the other way round)
 - Collapsing to a point (with(/out) a additional filters, ..., ignorances)
@@ -83,6 +85,7 @@ Unprocessed
 
 ---
 
+- It is ordered from one perspective, unordered from another.
 - Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
 - empty on .self, vs .self ref vs ref, ; selection of two boundaries.
 - Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
@@ -104,9 +107,7 @@ Unprocessed
 	  # Todo: slightly different perspectives in cases of map/render etc..., where certain aliases of these are expected not to have alternative behaviors based on binary/ternary calls to this... ; Basically; some of these aliases are probably more appropriate as separate perspectives.  
 	  # TODO: compile/map/cast/ ... probably fit in that separate category. Wrap to any object if translation exists (in python case inspect?). - Realize is probably similarly on another level of abstraction.  
 	  # TODO: FILTER/WHERE/IF/... for instance - branch different effect  
-  
-`.traverse` .. 
-- It is ordered from one perspective, unordered from another.
+
 `.traverse / .all / .map / .any`
 - number/int/... chain .any/.all with .as_ for example. (Prepare on the boundary, then shove it through. - lazy func)
 - initial/terminal, basically, which direction and then whether to skip the thing you're currently at. (direction by a ray abstract-level higher.)
@@ -119,8 +120,6 @@ Unprocessed
 `.is_orbit`
 	- TODO: Normal way of talking about a boolean, or probably any concept, is that this is always with .orbit on it. And without .orbit it's probably a weird case. We assume modularity of booleans.  
 	- .orbit by default, recursive?
-`.compose`
-	 - # @see "Continuations as Equivalence (can often be done in parallel - not generally)": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Constructing%20Continuations%20%2D%20Continuations%20as%20Equivalence  
 
 `composition - equivalence - >` ; up the arity, probably makes less sense?
 - detach all connections into single one, what's this interpretation , move some connections to ignorant ref only,
