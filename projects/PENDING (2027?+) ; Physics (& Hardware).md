@@ -74,9 +74,30 @@ warp-level primitives?
 
 ---
 
-[[2024-03-15]]
-- Wait, anyone more familiar with particles know if you can phrase them as: "some local structure trying to escape some 'point' but being unable to escape some 'local gravitational structure' thereby being sucked back to the point. And having this keep repeating until something else breaks this sort of loop?" - If that's the case, do you know some approachable literature on this?
-- 
+[[2024-03-15]] [SEMF Discord](https://discordapp.com/channels/844566471501414463/1111689941848694924/1218215772460154920)
+Wait, anyone more familiar with particles know if you can phrase them as: "some local structure trying to escape some 'point' but being unable to escape some 'local gravitational structure' thereby being sucked back to the point. And having this keep repeating until something else breaks this sort of loop?" - If that's the case, do you know some approachable literature on this?
+
+How I'm thinking about it makes it somewhat hard to separate what counts as places to escape to and what it even means to be at that 'point'. But more that if it doesn't escape - ie keeps itself at some more (relatively) local 'point' (by which I mean keeps traveling/trafersing some larger topological structure); it is deemed as a particle. 
+
+I'm picturing a particle consisting of many of these sorts of structures trying to escape in every direction of the "local topological structure"
+
+I heard something that Von Neumann and someone else tried to put quantum physics in lattice theory terms and failed?
+
+Anyway, how I think about it is as follows: I have two "ordered/structures - unordered makes no sense to me". Each of those structures is the following: an arbitrarily branching cone in one direction, and a cone in the opposite direction.
+
+Then comes the part that's still a bit fuzzy to me: Propagation is preferred in one of those structures, but it is copied across the other structure arbitrarily, as a way of "ignoring its order", this being the way you get higher-arity structures, and the concept of "unordered".
+
+The difference between lattice theory-related things probably being the ignoring order part by some duplicating traversing structures.
+
+But as you can see it's still quite ill-defined 🤣
+
+(Von Neumann & Birkhoff evidently) though I've only read like a page or two on both of their histories
+
+I'm trying to use language which fails me a bit. Both cause the ideas aren't clear enough and the language isn't equipped for it. 
+
+Similarly it's not easy to make this distinction. There's by default (unless ignored) no embedding, everything is inferred from context which makes a minor local change be able to change quite larger (something you would deem as toplogical) structures. But this whole particle/embedding/topology terminology is part of my problem cause it's probably actively harmful in trying to frame it in this particular way.
+
+I want more ways of phrasing: If I thought of it as a point as @_Z said, it's quite nice and useful to think about it that way. But that perspective will always influence my questions I'm asking about it
 
 ---
 
