@@ -37,8 +37,11 @@ Read
 Discovery data
 - [ ] Higgs boson discovery data & others, where/are these things indexed?
 
+---
 # UNPROCESSED
 *Tread carefully, confusion abound*
+
+---
 
 - AMD rant from George - some important stuff
 	- Rockchip? RK3588
@@ -68,6 +71,12 @@ warp-level primitives?
 
 - the linux amd-gfx mailing list (https://www.overclock.net/threads/official-amd-radeon-rx-7900-xtx-xt-owners-club.1802706)
 
+
+---
+
+[[2024-03-15]]
+- Wait, anyone more familiar with particles know if you can phrase them as: "some local structure trying to escape some 'point' but being unable to escape some 'local gravitational structure' thereby being sucked back to the point. And having this keep repeating until something else breaks this sort of loop?" - If that's the case, do you know some approachable literature on this?
+- 
 
 ---
 
