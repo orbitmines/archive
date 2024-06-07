@@ -29,6 +29,7 @@ Basically; some of these aliases are probably more appropriate as separate persp
 
 `.all`
 - Prepare on the boundary, then shove it through. - lazy func
+- `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
 
 `.traverse`
 - Latch the initial, latch the .self, latch the .terminal, and we determine movement.
@@ -112,8 +113,7 @@ Basically; some of these aliases are probably more appropriate as separate persp
 `.traverse / .all / .map / .any`
 - initial/terminal, basically, which direction and then whether to skip the thing you're currently at. (direction by a ray abstract-level higher.)
 - places another ray at another level of description, pointing that way (for .initial.traverse or .self etc.. .traverse)
-- `.all` / `.any` pending/.../lazy to generate things from those pointers.
-- `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
+
 - `.all / .any` Difference in list of things parallel composed, or first ewuivalencinf them, then compose. Basically: compose on INITIAL vs - use .all func after separating from .any -. First calling equivalence on INITIAL (equivalence all in chain - separate in pairs, then equivalence - could be parallel) . Or basically this means sollidiving the selection. Then take that as a vertrx and compose with another  
 
 ##### "Superpose in more detail"
