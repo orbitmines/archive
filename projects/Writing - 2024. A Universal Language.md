@@ -201,6 +201,8 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 ## Exploration and Discovery
 reverse engineering, debugging, checking for consistency, validation, fidelity
 
+- [ ] Proved in some finite space as opposed to general one.  
+
 - [ ] Consistency as some verifications built in some temporal histories as tests or something: Dismissing as chaned..
 	- [ ] The abstract idea of persistence is quite straight-forward:  non-trivially limits access to the previous 'steps'. ; initial
 
@@ -240,7 +242,6 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 - [ ] Against forgetting/violation/inconsistencies
 	- [ ] Forgetting but remembering one has forgotten - structure, but acknowledgement, structure is missing.
 	- [ ] It's crossing some directionality and finding one cannot return back? (That would imply next time step or something - any inconsistency possibly 
-	- [ ] differently structurally forgetting
 	- [ ] Testing/Simulating: Does a certain property still hold; what if not and deemed violated?  
 	- [ ] How could failures be detected? How can failures be prevented? 
 	- [ ] Redundancy: redundancy defined as aiding the resolving of unresolved values? (if compression is the goal: least redundant, if the goal is adaptability; sparsity)
@@ -253,8 +254,7 @@ Whether either end, once found in isolation, can have itself be linked conceptua
 	  - [ ] Testing/Simulating with fewer resources, see how that impacts behavior; temporal/visual/... (Modeling resources?)
 	  - [ ] Not having access to inner perceived structure (transduction/..)/equivalency rules  
 - [ ] Keep pulsing certain directionalitiws for changes in sone "does it continue", agift behavior based on such changes
-- [ ] Proved in some finite space as opposed to general one.  
-- [ ] Dangers of simulating ignorances (removing certain inhibitions; (same for safety constraints in some sense..))
+
 
 ---
 
