@@ -151,12 +151,6 @@ direction at the point**: What does it mean for a point yo become its own direct
 
 Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
 
-##### Self-imposed limitations
-- [ ] Limitation as things we seem to not be able to change.
-- [ ] What if I could only solve this "without this other thing". ; Simulating different, ..., fewer resources.
-- [ ] "What if I were to treat this as forgotten, ..., ignored" What would happen?
-- 
-
 ---
 
 #### Universal Version Control
