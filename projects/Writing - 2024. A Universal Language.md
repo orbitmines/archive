@@ -46,9 +46,8 @@ Unprocessed
 - "it is expensive work to edge towards global coherence." ? To ensure consistency in some way
 - 
 
-`.superpose`
 
-`.add`, `.and`, `.assign`, : Compose an `initial & terminal` (.add is compose boundaries)
+`.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 - and=and difference perspective (.add` on vertices -> equiv initial from one side, terminal from other side.)
 - validity; checks as superposed maybe
 - single equivalence?
@@ -68,6 +67,8 @@ Unprocessed
 
 `.perspective`
  -  "Applying the same thing in a different context"
+
+
 
 ---
 
