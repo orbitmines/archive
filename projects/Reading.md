@@ -57,3 +57,7 @@ From before a good private setup, recheck these people:
 - [Gordon Plotkin](Gordon_Plotkin.pdf)  
 - [Ernst von Glasersfeld](Ernst_von_Glasersfeld.pdf)  
 - [George E. P. Box](George_E._P._Box.pdf)  
+- [Irene Greif](Irene_Greif.pdf)  
+- [Robin Milner](Robin_Milner.pdf)  
+- [Rudolf Carnap](Rudolf_Carnap.pdf)  
+- [Willard Van Orman Quine](Willard_Van_Orman_Quine.pdf)  
