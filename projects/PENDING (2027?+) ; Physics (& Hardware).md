@@ -47,6 +47,10 @@ Discovery data
 
 ---
 
+	- chiups have these things calls efuses, you can burn them to disable/enable (cant be unburned) ; hardware changes.
+
+---
+
 - AMD rant from George - some important stuff
 	- Rockchip? RK3588
 	- HSA to sidestep userend
