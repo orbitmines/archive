@@ -33,6 +33,8 @@ Read
 - [ ] https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation
 - [ ] https://www.unitree.com/
 - [ ]  Post-Silicon Validation ?
+- [ ] https://en.wikipedia.org/wiki/White_hole
+- [ ] 
 
 Discovery data
 - [ ] Higgs boson discovery data & others, where/are these things indexed?
