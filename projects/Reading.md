@@ -1,6 +1,7 @@
 
 todo; screenshot list   2 week
 ##### Reading  
+https://thebookofshaders.com/
 - [ ] Turings famous paper ([[Paul Taylor]])
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7
 - [ ] https://github.com/sindresorhus/awesome#readme
