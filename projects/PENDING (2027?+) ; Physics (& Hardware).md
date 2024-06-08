@@ -34,6 +34,8 @@ Read
 - [ ] https://www.unitree.com/
 - [ ]  Post-Silicon Validation ?
 - [ ] https://en.wikipedia.org/wiki/White_hole
+- [ ] https://en.wikipedia.org/wiki/Torsion_field_(pseudoscience)
+- [ ] https://discordapp.com/channels/844566471501414463/1111689941848694924/1248949135239942316
 - [ ] 
 
 Discovery data
