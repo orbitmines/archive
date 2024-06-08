@@ -2,6 +2,7 @@
 todo; screenshot list   2 week
 ##### Reading  
 https://thebookofshaders.com/
+- [ ] https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
 - [ ] Turings famous paper ([[Paul Taylor]])
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7
 - [ ] https://github.com/sindresorhus/awesome#readme
