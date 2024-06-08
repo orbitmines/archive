@@ -118,7 +118,7 @@ Server-like/find server-like functionality
 - [ ] Ways of finding you as "hook into your world"
 
 Interfaces
-- https://www.bigscreenvr.com/
+- https://www.bigscreenvr.com/ [[Bigscreen]]
 - 
 
 #### Research of Games, Engines, ...
