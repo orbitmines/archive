@@ -33,6 +33,7 @@ World Generation
 - [ ] https://www.val.town/v/thesephist/webgen
 - [ ] https://lumalabs.ai/
 - [ ] https://x.com/active_theory
+- [ ] Spatial computing
 - [ ] 
 
 Read
