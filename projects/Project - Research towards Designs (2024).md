@@ -117,6 +117,10 @@ Server-like/find server-like functionality
 - [ ] ideas loke actually being in some servers/having some server list/-like Minecraft, publically indexable etc. for people to collaborate their work in, is an essential idea. 
 - [ ] Ways of finding you as "hook into your world"
 
+Interfaces
+- https://www.bigscreenvr.com/
+- 
+
 #### Research of Games, Engines, ...
 Link to [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
