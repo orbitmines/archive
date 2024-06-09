@@ -7,6 +7,8 @@ Unprocessed
 
 Basically; some of these aliases are probably more appropriate as separate perspectives.  
 
+parallel just means composing boundaries of either terminals, or initials.
+
 `.initial`
 
 
