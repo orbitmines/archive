@@ -1,6 +1,6 @@
 
 [[2024-06-09]]
-I'm setting up tooling infrastructure for creators to make the metaverse a reality < 2026. I'm looking for some funding sources and giving GitHub sponsors a try. https://github.com/sponsors/FadiShawki #gamedev 
+I'm setting up tooling infrastructure for creators to make the metaverse a reality < 2026. I'm looking for some funding sources and giving GitHub sponsors a try. https://github.com/sponsors/FadiShawki #gamedev #metaverse #computerscience 
 
 [[2024-06-06]]
 *This is what functions, data, ..., information is.*
