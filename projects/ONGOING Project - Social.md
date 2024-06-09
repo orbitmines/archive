@@ -1,4 +1,7 @@
 
+[[2024-06-09]]
+I'm setting up infrastructure to make the metaverse a reality < 2026. 
+
 [[2024-06-06]]
 *This is what functions, data, ..., information is.*
 *This is what science, engineering, learning, ..., gaming will become.*
