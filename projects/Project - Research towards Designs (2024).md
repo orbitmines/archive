@@ -137,6 +137,10 @@ Games
 - [ ] https://store.steampowered.com/app/384190/ABZU/
 - [ ] https://store.steampowered.com/app/638230/Journey/
 - [ ] https://store.steampowered.com/app/2719750/Star_Birds/
+- [ ] http://braid-game.com/
+- [ ] http://the-witness.net/
+- [ ] https://edoublea.artstation.com/
+- [ ] https://makham.itch.io/pixel-composer
 - [ ] 
 
 - [ ] https://cybercat.institute/2024/05/09/exploiring-best-response-dynamics/
