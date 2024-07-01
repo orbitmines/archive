@@ -25,6 +25,8 @@ Read
 	- [ ] 
 - [ ] 
 
+Weather
+- https://spaceweather.com/archive.php?view=1&day=18&month=06&year=2024
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
