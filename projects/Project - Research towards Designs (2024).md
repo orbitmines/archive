@@ -142,7 +142,7 @@ Games
 - [ ] https://edoublea.artstation.com/
 
 [[Project - Indexing existing Abstract Models (2024-2025?)]] ; tools
-- [ ] https://makham.itch.io/pixel-composer, [aseprite](https://www.aseprite.org/)
+- [ ] [pixel-composer](https://makham.itch.io/pixel-composer), [aseprite](https://www.aseprite.org/)
 - [ ] 
 
 - [ ] https://cybercat.institute/2024/05/09/exploiring-best-response-dynamics/
