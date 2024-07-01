@@ -23,6 +23,7 @@ Read
 	- [ ] https://writings.stephenwolfram.com/2024/03/computing-the-eclipse-astronomy-in-the-wolfram-language/
 	- [ ] https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/
 	- [ ] 
+- [ ] https://ui.adsabs.harvard.edu/abs/2024arXiv240604075M/abstract
 - [ ] 
 
 Weather
