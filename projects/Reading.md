@@ -44,3 +44,5 @@ https://thebookofshaders.com/
 	- [ ] https://arc.net/
 	- [ ] 
 - [ ] Google  chrome reading list
+- [ ] https://cybercat.institute/2024/06/28/yoga-contexts/
+- [ ] 

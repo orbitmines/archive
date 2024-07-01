@@ -153,6 +153,9 @@ People: [[Pinar Temiz]], ..
 - Audio ; basically like [[Writing - 2024. A Universal Language]] ; 'easy-rediscoverability/seperability in a certain way if not in the obvious seperation case.'
 	- separate audio sources so disentanglement/referencing is easier ; basically separating the superposed things ; generalize
 
+Rendering Engine
+- [ ] https://siboehm.com/articles/22/CUDA-MMM
+- [ ] 
 
 ---
 
