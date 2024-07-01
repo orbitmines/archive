@@ -140,9 +140,11 @@ Games
 - [ ] http://braid-game.com/
 - [ ] http://the-witness.net/
 - [ ] https://edoublea.artstation.com/
+- [ ] everybody edits
+- [ ] 
 
 [[Project - Indexing existing Abstract Models (2024-2025?)]] ; tools
-- [ ] [pixel-composer](https://makham.itch.io/pixel-composer), [aseprite](https://www.aseprite.org/)
+- [ ] [pixel-composer](https://makham.itch.io/pixel-composer), [aseprite](https://www.aseprite.org/), [figma](https://www.figma.com/blog/behind-our-redesign-ui3/), 
 - [ ] 
 
 - [ ] https://cybercat.institute/2024/05/09/exploiring-best-response-dynamics/
