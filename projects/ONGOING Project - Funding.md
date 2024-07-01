@@ -43,6 +43,7 @@ Done
 	- [[Kennisvouchers]] (if this is more broad could be useful)
 		- https://www.nwo.nl/en/calls/kiem-mv
 	- [[Mkb-innovatiestimulering Regio en Topsectoren (MIT)]]
+	- PhD requirement: https://www.nwo.nl/en/news/veni-round-2024-now-open-for-pre-poposals
 
 #### Forgotten / Logistical remembered things
 
