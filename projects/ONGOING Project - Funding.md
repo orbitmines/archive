@@ -1,6 +1,6 @@
 ##### Hi there, no clue why you're here, but I'm still in need of some funding, none of these have worked for me yet: I'm roaming at https://discord.orbitmines.com/
 
-*Will always be ongoing - basically realizable as economic/practical/logistical considerations for the projects. Like things with hiring, always try to cover the things not already covered with a different approach.*
+*Will always be ongoing - basically realizable as economic/practical, ..., logistical considerations for the projects. Like things with hiring, always try to cover the things not already covered with a different approach.*
 
 ## 2024
 Try
@@ -8,7 +8,6 @@ Try
 - [ ] Open Technology Programme 2024
 
 Pending
-- [ ] https://openwebsearch.eu/community/3rdparty-calls/call2/
 
 Done
 - `.nl` WBSO 2024: Done for 1200 hours for [[Fadi Shawki]] - € 23.332 deduction
@@ -47,6 +46,8 @@ Done
 
 #### Forgotten / Logistical remembered things
 
+- [x] https://openwebsearch.eu/community/3rdparty-calls/call2/
+	- No without details.
 - [x] [[Project - Bug Bounty Programs]]
 	- This sort of thing won't be sustainable, just more of the `longshots` above. It works more for understanding code-bases.
 - [x] [[A letter to all university professors whom in may concern (2023) - Project PHD?]]
