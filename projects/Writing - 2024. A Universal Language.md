@@ -1,4 +1,4 @@
-*Let's try for < [[2024-12-31]]*
+*Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
 Unprocessed
 - [ ] Some of the notebooks from 2023
