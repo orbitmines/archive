@@ -8,7 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Creative(Old)" />
-    <orderEntry type="module" module-name="Creative" />
     <orderEntry type="module" module-name="Creative(Old2)" />
+    <orderEntry type="module" module-name="Creative" />
   </component>
 </module>
