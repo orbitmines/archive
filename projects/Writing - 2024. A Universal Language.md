@@ -3,6 +3,7 @@
 Unprocessed
 - [ ] Some of the notebooks from 2023
 - [ ] Streams 2023
+- [ ] Screenshots
 - [ ] [[Symposium on Compositional Structures (SYCO)]] notes
 - [ ] Rendering Engine ->, work backward.
 
