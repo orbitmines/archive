@@ -13,6 +13,9 @@ Basically; some of these aliases are probably more appropriate as separate persp
 
 parallel just means composing boundaries of either terminals, or initials.
 
+`none`
+- Should be 'supercompiled' from `is_none`, same with `.initial`/`.terminal`
+
 `.initial`
 
 
