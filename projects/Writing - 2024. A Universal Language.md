@@ -7,7 +7,7 @@ Unprocessed
 - [ ] [[Symposium on Compositional Structures (SYCO)]] notes
 
 - [ ] Rendering Engine ->, work backward
-- [ ] Initially don't capture full js functionality
+- [ ] Initially don't capture full js functionality ; Need some abstraction layers other than just Ray to bootstrap
 
 ---
 
