@@ -143,6 +143,10 @@ Local .orbit instead of composing at .terminal? ; pulling further-away stuff int
 
 ---
 
+Permutation selection of modular structures, to iterate over each possible selection
+
+---
+
 #### Universal Version Control
 - [ ] Arbitrary (partial, ..., incomplete) history of arbitrary functions, rewrites, ..., data types (generalized to some arbitrary Ray).
 	- [ ] This then includes the automatic inclusion of existing data structures
