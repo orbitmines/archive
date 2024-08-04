@@ -792,3 +792,7 @@ export default Ray.__NONE__.proxy;
 // Ray.all = TODO: .all is a move to .initial (as a reference).  
 // Ray.cast = <T>(self: Ray): T => { throw new NotImplementedError() }
 ```
+
+
+`.unordered`
+	- Ref to initial/terminal enumeration
