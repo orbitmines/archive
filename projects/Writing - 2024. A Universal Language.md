@@ -448,8 +448,6 @@ class Ray {
   protected readonly __name__?: string | symbol;  
   protected readonly __path__: Ray[]  
   
-  protected readonly __properties__: Dictionary<Ray> = {}  
-  
   private constructor({  
     __self__ = () => { return Ray.__new__(); } ,  
     __name__,  
@@ -468,11 +466,6 @@ class Ray {
   
     // Wrap the confusing JavaScript proxy into a more useful one.  
     this.__ref__ = new Proxy<Ray>(__self__ as any, {  
-      get: (__self__: any, property: string | symbol, self: Ray): any => __self__.__instance__.__get__(property),  
-      set: (__self__: any, property: string | symbol, newValue: any, self: Ray): boolean => __self__.__instance__.__set__(property, newValue),  
-      deleteProperty: (__self__: any, property: string | symbol): boolean => __self__.__instance__.__delete__(property),  
-      has: (__self__: any, property: string | symbol): boolean => __self__.__instance__.__has__(property),  
-  
       construct: (__self__: any, argArray: any[], self: any): object =>  
         new Ray({ __self__: () => __self__(...argArray), __name__: this.__name__, __path__: this.__path__ }).__ref__,  
       apply: (__self__: any, thisArg: Ray, argArray: any[]): any =>  
@@ -601,8 +594,7 @@ export default __ray__;
 ```
 
 ```ts
-protected readonly __proxy__: any;  
-  
+
 protected readonly __properties__: { [key: string | symbol]: Ref } = {}  
   
 private constructor() {  
