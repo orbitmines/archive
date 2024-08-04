@@ -795,4 +795,4 @@ export default Ray.__NONE__.proxy;
 
 
 `.unordered`
-	- Ref to initial/terminal enumeration
+	- Ref to initial/terminal enumeration / extremes somehow?
