@@ -797,4 +797,5 @@ export default Ray.__NONE__.proxy;
 `.unordered`
 	- Ref to initial/terminal enumeration / extremes somehow?
 
-`.initial/.terminal = .is_none or t`
+`.initial/.terminal = .is_none or this.initial = this.self`
+- The difference being interpretation
