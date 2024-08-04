@@ -601,22 +601,6 @@ export type Recursive<T> = (T | Recursive<T | T[]>)[];
   
 class Ray {  
   
-  /** Reflection */  
-  get __class__() { return Ray; }  
-  get __methods__() { return [...this.__static_methods__, ...this.__class_methods__]; }  
-  get __static_methods__() { return Object.keys(this.__class__) }  
-  get __class_methods__() { return Object.keys(this) }  
-  __method__ = (name: string) => (this.__class__ as any)[name] ?? (this as any)[name];  
-  
-  /** Instantiation */  
-  static __new__ = (args: any[] = [], kwargs: Dictionary = {}): any => {  
-    let {  
-      __GLOBAL_CONTEXT__ = undefined, __object__ = undefined  
-    } = kwargs;  
-  
-    throw new Error()  
-  }  
-  
   is_none = (self = this.proxy.self) => !('self' in self.self)  
   is_initial = (self = this.proxy.self) => self.initial.is_none  
   is_terminal = (self = this.proxy.self) => self.terminal.is_none  
