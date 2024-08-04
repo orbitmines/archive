@@ -579,8 +579,7 @@ class Ray {
     private constructor({ __GLOBAL_CONTEXT__ = undefined }: { __GLOBAL_CONTEXT__?: any } = {}) {  
       this.__GLOBAL_CONTEXT__ = __GLOBAL_CONTEXT__   
   
-    __has__ = (property: string | symbol): boolean => property in this.properties  
-    __delete__ = (property: string | symbol): boolean => delete this.properties[property]  
+  
     __set__ = (property: string | symbol, value: any): boolean => {  
       // this.__properties__[property] = new Property(value)  
       return true  
