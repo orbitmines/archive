@@ -614,22 +614,7 @@ class Ray {
       // this.__set__(property, this.__class__.none)  
       return this.__get__(property)  
     }  
-  
-  /** Reflection */  
-    get __class__() { return Ray; }  
-    get __methods__() { return [...this.__static_methods__, ...this.__class_methods__]; }  
-    get __static_methods__() { return Object.keys(this.__class__) }  
-    get __class_methods__() { return Object.keys(this) }  
-    __method__ = (name: string) => (this.__class__ as any)[name] ?? (this as any)[name];  
-  
-  /** Instantiation */  
-  static __new__ = (args: any[] = [], kwargs: Dictionary = {}): any => {  
-    let {  
-      __GLOBAL_CONTEXT__ = undefined, __object__ = undefined  
-    } = kwargs;  
-  
-    throw new Error()  
-  }  
+ 
 }  
   
   
