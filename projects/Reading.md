@@ -45,4 +45,5 @@ https://thebookofshaders.com/
 - [ ] Google  chrome reading list
 - [ ] https://cybercat.institute/2024/06/28/yoga-contexts/
 - [ ] https://fuglede.github.io/llama.ttf/
+- [ ] Thinking fast and slow
 - [ ] 
