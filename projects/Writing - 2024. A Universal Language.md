@@ -579,9 +579,7 @@ class Ray {
     private constructor({ __GLOBAL_CONTEXT__ = undefined }: { __GLOBAL_CONTEXT__?: any } = {}) {  
       this.__GLOBAL_CONTEXT__ = __GLOBAL_CONTEXT__  
   
-      // Need a function here to tell the JavaScript runtime we can use it as a function & constructor. Doesn't really matter, since we're just catching everything in the proxy anyway.  
-      function __proxy_function__() { throw new Error("Should never be called") }  
-      __proxy_function__.__instance__ = this;  
+     
   
 
   
