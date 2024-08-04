@@ -583,20 +583,7 @@ class Ray {
       function __proxy_function__() { throw new Error("Should never be called") }  
       __proxy_function__.__instance__ = this;  
   
-      // Wrap the confusing JavaScript proxy into a more useful one.  
-      this.__proxy__ = new Proxy<Ray>(__proxy_function__ as any, {  
-        get: (__proxy_function__: any, property: string | symbol, self: Ray): any => __proxy_function__.__instance__.__get__(property),  
-        apply: (__proxy_function__: any, thisArg: Ray, argArray: any[]): any => __proxy_function__.__instance__.__call__(argArray),  
-        set: (__proxy_function__: any, property: string | symbol, newValue: any, self: Ray): boolean => __proxy_function__.__instance__.__set__(property, newValue),  
-        deleteProperty: (__proxy_function__: any, property: string | symbol): boolean => __proxy_function__.__instance__.__delete__(property),  
-        has: (__proxy_function__: any, property: string | symbol): boolean => __proxy_function__.__instance__.__has__(property),  
-        construct: (__proxy_function__: any, argArray: any[], self: Function): object => __proxy_function__.__instance__.__class__.__new__(  
-          { __GLOBAL_CONTEXT__: __proxy_function__.__instance__, __object__: argArray }  
-        ),  
-        // TODO  
-        // defineProperty?(self: T, property: string | symbol, attributes: PropertyDescriptor): boolean;  
-        // getOwnPropertyDescriptor?(self: T, property: string | symbol): PropertyDescriptor | undefined;        // getPrototypeOf?(self: T): object | null;        // isExtensible?(self: T): boolean;        // ownKeys?(self: T): ArrayLike<string | symbol>;        // preventExtensions?(self: T): boolean;        // setPrototypeOf?(self: T, v: object | null): boolean;      });  
-    }  
+
   
     protected readonly __proxy__: any;  
     get proxy() { return this.__proxy__ }  
