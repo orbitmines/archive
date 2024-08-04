@@ -473,9 +473,7 @@ class Ray {
   
     });  
   }  
-  
-  __has__ = (property: string | symbol): boolean => property in this.__properties__  
-  __delete__ = (property: string | symbol): boolean => delete this.__properties__[property]  
+   
   __set__ = (property: string | symbol, value: any): boolean => {  
     // if (!(value instanceof Ray || value.prototype === Ray.prototype))  
     //   throw new Error('__set__ not implemented for non-ray type.')  
