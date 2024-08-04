@@ -577,14 +577,7 @@ class Ray {
   
   /** JavaScript Proxy */  
     private constructor({ __GLOBAL_CONTEXT__ = undefined }: { __GLOBAL_CONTEXT__?: any } = {}) {  
-      this.__GLOBAL_CONTEXT__ = __GLOBAL_CONTEXT__  
-  
-     
-  
-
-  
-    protected readonly __proxy__: any;  
-    get proxy() { return this.__proxy__ }  
+      this.__GLOBAL_CONTEXT__ = __GLOBAL_CONTEXT__   
   
     __has__ = (property: string | symbol): boolean => property in this.properties  
     __delete__ = (property: string | symbol): boolean => delete this.properties[property]  
