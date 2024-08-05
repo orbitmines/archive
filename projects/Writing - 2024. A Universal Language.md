@@ -800,5 +800,18 @@ export default Ray.__NONE__.proxy;
 `.initial/.terminal = .is_none or this.initial = this.self`
 - The difference being interpretation
 
-```
+```python
+  # def initial(self) -> Ray: raise NotImplementedError  
+  # def self(self) -> Ray: raise NotImplementedError  # def terminal(self) -> Ray: raise NotImplementedError  
+  @staticmethod  
+  def none() -> Ray: raise NotImplementedError  
+  @staticmethod  
+  def boolean() -> Ray: return (Ray.none * 2).orbit  
+  
+  @staticmethod  
+  def function(func: Callable[[Any, ...], Any]):  
+    return Ray()  
+  
+for name, fn in inspect.getmembers(Ray, inspect.isfunction):  
+  if name == '__new__' or name == '__init__' or name == 'function': continue
 ```
