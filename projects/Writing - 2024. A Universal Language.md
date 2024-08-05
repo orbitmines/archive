@@ -672,32 +672,6 @@ class Ray {
       ...dictionary  
     } = kwargs;  
   
-    if (__DEBUG__) {  
-      const __debug__ = (name: string, method: Function) => {  
-        return (...args: any) => {  
-          console.log(name, args)  
-          return method(...args)  
-        };  
-      }  
-      // __ray__.__static_methods__.forEach(name => {  
-      //   // @ts-ignore      //   __ray__.__class__[name] = __debug__(name, __ray__.__method__(name));      // });      this.__class_methods__.forEach(name => {  
-        // @ts-ignore  
-        if (is_function(this[name]))  
-          // @ts-ignore  
-          this[name] = __debug__(name, this.__method__(name));  
-      })  
-    }  
-  
-    // Set all the methods defined on `Ray` through `__set__`. As if we used `Ray.something = something`  
-    this.__methods__  
-      .filter(name => !name.startsWith('__'))  
-      .forEach(method => {  
-        const is_static = this.__static_methods__.includes(method)  
-        // Pass all methods through __set__, turning all functions into a Ray.  
-        this.__set__(method, this.__method__(method))  
-      });  
-  
-  
   
     // Instantiate reversible.  
     // const ray = this.proxy;    // ray.initial.reverse = ray.terminal    // ray.none.reverse = ray.some  
