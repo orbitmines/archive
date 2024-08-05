@@ -799,3 +799,6 @@ export default Ray.__NONE__.proxy;
 
 `.initial/.terminal = .is_none or this.initial = this.self`
 - The difference being interpretation
+
+```
+```
