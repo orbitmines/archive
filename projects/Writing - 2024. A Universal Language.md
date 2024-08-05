@@ -468,8 +468,6 @@ import _ from "lodash";
 export type Fn<T = any> = (...args: any[]) => T;  
 export type Dictionary<T = any> = { [key: string | symbol]: T }  
   
-export const is_function = (_object: any): _object is ((...args: any[]) => any) => _.isFunction(_object);  
-  
   
 class Ray {  
   
