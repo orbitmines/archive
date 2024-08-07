@@ -599,8 +599,6 @@ class Ray {
   
   is_none = (self = this.proxy.self) => !('self' in self.self)  
 
-  is_vertex = (self = this.proxy.self) => self.is_initial.nor(self.is_terminal)  
-
   is_extreme = (self = this.proxy.self) => self.is_none.and(self.is_boundary)  
   is_wall = (self = this.proxy.self) => self.is_none.and(self.initial.is_some).and(self.terminal.is_some)  
   
