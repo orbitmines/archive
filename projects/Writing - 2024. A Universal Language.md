@@ -600,7 +600,7 @@ class Ray {
   is_none = (self = this.proxy.self) => !('self' in self.self)  
 
   reverse = (self = this.proxy.self) => new self({ initial: self.terminal, self, terminal: self.initial })  
-  compose = (a = this.proxy.self, b: any) => a.terminal.equivalent(b.initial)  
+
   
   static none = new Ray()  
   static initial = Ray.none; static self = Ray.none; static terminal = Ray.none;  
