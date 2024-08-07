@@ -598,9 +598,7 @@ export type Recursive<T> = (T | Recursive<T | T[]>)[];
 class Ray {  
   
   is_none = (self = this.proxy.self) => !('self' in self.self)  
-  is_initial = (self = this.proxy.self) => self.initial.is_none  
-  is_terminal = (self = this.proxy.self) => self.terminal.is_none  
-  
+
   is_vertex = (self = this.proxy.self) => self.is_initial.nor(self.is_terminal)  
   is_reference = (self = this.proxy.self) => self.is_initial.and(self.is_terminal)  
   is_boundary = (self = this.proxy.self) => self.is_initial.xor(self.is_terminal)  
