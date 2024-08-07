@@ -599,7 +599,6 @@ class Ray {
   
   is_none = (self = this.proxy.self) => !('self' in self.self)  
 
-  is_extreme = (self = this.proxy.self) => self.is_none.and(self.is_boundary)  
   reverse = (self = this.proxy.self) => new self({ initial: self.terminal, self, terminal: self.initial })  
   compose = (a = this.proxy.self, b: any) => a.terminal.equivalent(b.initial)  
   
