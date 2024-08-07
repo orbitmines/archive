@@ -532,9 +532,7 @@ class Ray {
   }  
   
   is_empty = (self = this.__ref__.self) => self.is_initial.and(self.is_none).and(self.is_terminal) 
-  is_initial = (self = this.__ref__.self) => self.initial.is_none  
-  is_terminal = (self = this.__ref__.self) => self.terminal.is_none  
-  
+ 
 }  
   
 export default Ray;
