@@ -813,3 +813,35 @@ class Pointer {
   }  
 }
 ```
+
+```ts
+  
+class Ray implements Iterable<Ray> {  
+  
+  initial: Ray  
+  self: Ray  
+  terminal: Ray  
+  
+  constructor(...args: any[]) {  
+    this.initial = this; this.self = this; this.terminal = this;  
+  
+    if (args.length === 0)  
+      return;  
+  
+    // this.self = args[0]  
+    // let initial: Ray = this;    // for (let i = 1; i < args.length; i++) {    //   initial.terminal = new Ray(args[i])    //   initial.terminal.initial = initial;    //   initial = initial.terminal;    // }  }  
+  
+  *[Symbol.iterator](): Iterator<Ray> {  
+    yield this.self;  
+    if (!this.is_terminal())  
+      yield *this.terminal;  
+  }  
+  
+  is_none = (self = this.self) => self.self === self  
+  is_some = (self = this.self) => !self.is_none()  
+  is_initial = (self = this.self) => self.initial.is_none()  
+  is_terminal = (self = this.self) => self.terminal.is_none()  
+}  
+  
+export default Ray;
+```
