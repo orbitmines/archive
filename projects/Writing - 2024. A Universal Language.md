@@ -749,10 +749,6 @@ for name, fn in inspect.getmembers(Ray, inspect.isfunction):
   if name == '__new__' or name == '__init__' or name == 'function': continue
 ```
 
-```ts
-
-
-```
 
 ```ts
 const xor = (a: boolean, b: boolean) => (a && !b) || (a! && b)  
