@@ -751,21 +751,7 @@ for name, fn in inspect.getmembers(Ray, inspect.isfunction):
 
 ```ts
 
-  
-__has__ = (property: string | symbol): boolean => property in this.__properties__  
-__delete__ = (property: string | symbol): boolean => delete this.__properties__[property]  
-  
-__set__ = (property: string | symbol, value: any): boolean => {  
-  // TODO:  
-}  
-  
-__get__ = (property: string | symbol): any => {  
-  // TODO:  
-}  
-  
-static __new__ = (...args: any[]): Ref => {  
-  return new Ref();  
-}
+
 ```
 
 ```ts
