@@ -767,9 +767,8 @@ class Ray<T = any> {
     this.terminal = b.initial = join_iterators(this.terminal, b.initial);  
     return this;  
   }  
-  
-  is_none = () => this.self === undefined; // this.self === this  
-  is_some = () => !this.is_none()  
+
+
   is_initial = () => this.initial === undefined; // self.initial.is_none  
   is_terminal = () => this.terminal === undefined; // self.terminal.is_none  
   is_reference = () => this.is_initial() && this.is_terminal();  
