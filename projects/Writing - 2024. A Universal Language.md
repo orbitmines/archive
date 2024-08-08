@@ -768,9 +768,6 @@ class Ray<T = any> {
     return this;  
   }  
 
-
-  is_initial = () => this.initial === undefined; // self.initial.is_none  
-  is_terminal = () => this.terminal === undefined; // self.terminal.is_none  
   is_reference = () => this.is_initial() && this.is_terminal();  
   is_boundary = () => xor(this.is_initial(), this.is_terminal())  
   is_vertex = () => nor(this.is_initial(), this.is_terminal())  
