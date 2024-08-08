@@ -750,25 +750,7 @@ for name, fn in inspect.getmembers(Ray, inspect.isfunction):
 ```
 
 ```ts
-readonly __self__: any;  
-  
-private constructor() {  
-  // Need a function here to tell the JavaScript runtime we can use it as a function & constructor. Doesn't really matter, since we're just catching everything in the proxy anyway.  
-  function __proxy_function__() { throw new Error("Should never be called") }  
-  __proxy_function__.__instance__ = this;  
-  
-  // Wrap the confusing JavaScript proxy into a more useful one.  
-  this.__self__ = new Proxy(__proxy_function__ as any, {  
-    get: (__proxy_function__: any, property: string | symbol, self: any): any => __proxy_function__.__instance__.__get__(property),  
-    apply: (__proxy_function__: any, thisArg: any, argArray: any[]): any => (thisArg ?? __proxy_function__.__instance__).__call__(...argArray),  
-    set: (__proxy_function__: any, property: string | symbol, newValue: any, self: any): boolean => __proxy_function__.__instance__.__set__(property, newValue),  
-    deleteProperty: (__proxy_function__: any, property: string | symbol): boolean => __proxy_function__.__instance__.__delete__(property),  
-    has: (__proxy_function__: any, property: string | symbol): boolean => __proxy_function__.__instance__.__has__(property),  
-    // construct: (__proxy_function__: any, argArray: any[], self: Function): object => __proxy_function__.__instance__.__class__.__new__(  
-    //   { __GLOBAL_CONTEXT__: __proxy_function__.__instance__, __object__: argArray }    // ),    // TODO  
-  
-  });  
-}  
+
   
 __has__ = (property: string | symbol): boolean => property in this.__properties__  
 __delete__ = (property: string | symbol): boolean => delete this.__properties__[property]  
