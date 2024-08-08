@@ -786,12 +786,7 @@ class Pointer {
   
   private constructor() {  
     // Wrap the confusing JavaScript proxy into a more useful one.  
-    this.__ref__ = new Proxy<any>(Pointer, {  
-      get: (__class__: any, property: string | symbol, self: any): any => this.__get__(property),  
-      apply: (__class__: any, thisArg: any, argArray: any[]): any => (thisArg ?? this).__call__(...argArray),  
-      set: (__class__: any, property: string | symbol, newValue: any, self: any): boolean => this.__set__(property, newValue),  
-      construct: (__class__: any, argArray: any[], self: any): object => __class__.__new__(...argArray)  
-    });  
+    
   }  
   
   __set__ = (property: string | symbol, value: any): boolean => {  
