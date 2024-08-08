@@ -832,7 +832,6 @@ class Ray implements Iterable<Ray> {
       yield *this.terminal;  
   }  
   
-  is_none = (self = this.self) => self.self === self  
   is_some = (self = this.self) => !self.is_none()  
   is_initial = (self = this.self) => self.initial.is_none()  
   is_terminal = (self = this.self) => self.terminal.is_none()  
