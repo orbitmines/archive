@@ -778,17 +778,6 @@ class Ray<T = any> {
 ```
 
 ```ts
-class Pointer {  
-  
-
-  
-  static __new__ = (...args: any[]) => {  
-    return new Pointer().__ref__;  
-  }  
-}
-```
-
-```ts
   
 class Ray implements Iterable<Ray> {  
   
