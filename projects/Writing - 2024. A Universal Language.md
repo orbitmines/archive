@@ -780,28 +780,7 @@ class Ray<T = any> {
 ```ts
 class Pointer {  
   
-  protected readonly __ref__: any;  
-  
-  protected readonly __path__: (string | symbol)[] = [];  
-  
-  private constructor() {  
-    // Wrap the confusing JavaScript proxy into a more useful one.  
-    
-  }  
-  
-  __set__ = (property: string | symbol, value: any): boolean => {  
-    // TODO:  
-    return true;  
-  }  
-  
-  __get__ = (property: string | symbol): any => {  
-    this.__path__.push(property);  
-    return this.__ref__;  
-  }  
-  
-  __call__ = (...args: any[]): any => {  
-    return this.__ref__;  
-  }  
+
   
   static __new__ = (...args: any[]) => {  
     return new Pointer().__ref__;  
