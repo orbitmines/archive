@@ -561,7 +561,7 @@ class Ray {
    * Context Handling   * Consistency/coherence assumptions of surrounding context.   * - TODO: Can be better. enter/exit functionality (dynamic) etc..=  
    */  
     protected __GLOBAL_CONTEXT__?: Ray = undefined  
-    protected readonly __properties__: Dictionary<Ray> = {}  
+ 
     get properties(): any { return {...(this.__GLOBAL_CONTEXT__?.properties ?? {}), ...this.__properties__ }}  
   
   /** JavaScript Proxy */  
