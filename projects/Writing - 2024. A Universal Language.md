@@ -105,6 +105,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 
 `.perspective`
  -  "Applying the same thing in a different context"
+ - Essentially: What is the essence of differences and 
 
 `.equivalent`, `.compose` ; up the arity, probably makes less sense?
 - `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
