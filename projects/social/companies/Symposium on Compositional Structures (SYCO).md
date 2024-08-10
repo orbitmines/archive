@@ -41,34 +41,10 @@ the further you get away from flwo the ahrder it is to maintain, it's probably a
 - Monoidal Meta-Theorem  
   
 Universal as in context independence. Then rewriting is harder.  
-
-##### Tuesday  
-  
-- [[Sean Moss]]  
-- Random graph models - The markov category if a graph  
-
 inability to do the tensor operation is what defines irreversibility?  
 Programming with edge relationship looked interesting  
 
-- [[Grégoire Sergeant-Perthuis]]  
-- Compositional statistical mechanics, entropy and variational inference  
-  
-Stsatistical system as projective planes of observables  
-This seems related to relating the compositional structures to quantuk phyaics as Jonathan Goarard & others had done in one of their papers on hypergraphs - or they relied on other work? - Look thsis up and try to understand these two layers  
-  
-This area looks interesting, look up if he's made something more graphical as an entry point, some good ideas here.  
-  
-perturbetsivr case  
-  
-- [[Filippo Bonchi]], [[Alessandro Di Giorgio]], [[Nathan Haydon]], [[Paweł Sobocinski]]  
-- Diagrammatic Algebra of First Order Logic  
-  
-The black/white thing just needs to genwralized ti context within the thing itself. Just some ray on each of the other things too.  
-  
-Davida Trotta?  
-  
-Functor box?  
-  
+
   
 - [[Bruno Gavranović]], [[Paul Lessard 1]], [[Andrew Joseph Dudzik]], [[Tamara von Glehn]], [[João Guilherme Madeira Araújo]], [[Petar Veličković]]  
 - Categorical Deep Learning: An Algebraic Theory of Architectures  
