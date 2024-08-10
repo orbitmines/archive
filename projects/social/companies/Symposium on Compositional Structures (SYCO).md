@@ -35,14 +35,7 @@ aS a thought after this: need to make it clear that all these languages of attac
 descrepency over this "one-way" it's always: You have some asymmtry, and need a symmtry for that or the other way around. and the solution of the guy *who is he alexei next talk) in front of me, this hardware software is close but not right for "oneway" it's not the right solution. it's just that you have the other level of description: which is basically the other side of traversing on another level of description which allows for the "one-way" side since this is invered from the lower-level abstraction which is the type of the ray structure underneath, hence probably his referencing f soft/hardware, but this his is not the right language for it. it's just this lack of being able to deal with these dichotomies again?  
   
 the further you get away from flwo the ahrder it is to maintain, it's probably again interference of other local things which change it from a single arbirarily ray to some interfering ones.  
-  
-Online: dhurim cakiqi, andrew fish, cecilia pradic, nigel burke, (pixel art M something i found online recently popped in as well)  
-  
-  
-- [[Flavien Breuvart]], [[Quan Long]], [[Vladimir Zamdzhiev]]  
-- On the Centre of Strong Graded Monads  
-  
-?  
+
   
 - [[Aloïs Rosset]], [[Maaike Zwart]], [[Helle Hvid Hansen]], [[Jörg Endrullis]]  
 - Correspondence between Composite Theories and Distributive Laws  
