@@ -800,3 +800,60 @@ class Ray implements Iterable<Ray> {
   
 export default Ray;
 ```
+
+
+```ts
+abstract class Ray<T = any> implements Iterable<Ray> {  
+  
+  __call__ = (...args: any[]): any => {  
+  
+  }  
+  
+  abstract is_equivalent(b: Ray): boolean  
+  
+  static __new__ = (...args: any[]) => {  
+    return new Ray().__ref__;  
+  }  
+  
+  get self(): Ray { throw new Error() }  
+  get initial(): Ray { throw new Error() }  
+  get terminal(): Ray { throw new Error() }  
+  
+  *[Symbol.iterator](): Iterator<Ray> {  
+    yield this.self;  
+    if (!this.is_terminal())  
+      yield *this.terminal;  
+  }  
+  
+  is_none = (self = this.self) => self.self.is_equivalent(self);  
+  is_some = (self = this.self) => !self.is_none()  
+  is_initial = (self = this.self) => self.initial.is_none()  
+  is_terminal = (self = this.self) => self.terminal.is_none()  
+  
+}  
+  
+class Context {  
+  private readonly __ref__: any;  
+  
+  constructor() {  
+    // Wrap the confusing JavaScript proxy into a more useful one.  
+    this.__ref__ = new Proxy(Ray, {  
+      // construct: (target: any, args: any[], newTarget: Function): object => Ray.__new__(...args),  
+      // apply: (target: any, thisArg: any, args: any[]): any => this.__call__(...args),      get: (target: any, property: string | symbol, receiver: any): any => this.__get__(property),  
+      set: (target: any, property: string | symbol, newValue: any, receiver: any): boolean => this.__set__(property, newValue)  
+    });  
+  }  
+  
+  __set__ = (property: string | symbol, value: any): boolean => {  
+    return false;  
+  }  
+  
+  __get__ = (property: string | symbol): any => {  
+  
+  }  
+  
+  is_equivalent = (...all: any[]) => {  
+  
+  }  
+}
+```
