@@ -226,16 +226,8 @@ all this naming is clearly not helpful, there's needs to be good solutions for t
   
 LEft entry and all the other ones come for free. ?  
 change of base.? move to a common language??  
-  
-Free forgetful thing between Gbang and set? Hu  
-  
+
 ---  
-  
-discord messages all as well  
-  
-Ricardo student from the oxford cs in front  
-  
-the catt thing tim-- was working on, omega categories, modulus  
   
 - Ignorance of the functor is absolute equality
 - Yeah you make the symmetries an asymmytry by having it described on another level of descripton as how the traversal is done.  
