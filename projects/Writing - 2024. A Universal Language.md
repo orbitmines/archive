@@ -1,6 +1,6 @@
 *Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
-- [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal intentions (superposed extremes).
+- [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (superposed extremes).
 	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space.
 	- [ ] Type information + selection combination
 
