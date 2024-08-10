@@ -9,10 +9,11 @@
 	- [ ] Better notion of functions & variables (non-terminating; orbits)
 	- [ ] Notion of inaccessible additional complexity (say some javascript object which is not accessible but we can still use/return)
 	- [ ] How about inaccessible structures, like some mapping we don't have access to (say: input&output only, nothing in between)
-	- [ ] Way of d
+	- [ ] Way of dealing with orbits, realization of them, and switch to a variant which is aware of the orbit??? (ref on boundary now?)
 - [ ] Factory: Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] Build up store of equivalences & patterns in some structure.
+	- [ ] C
 
 
 Unprocessed
