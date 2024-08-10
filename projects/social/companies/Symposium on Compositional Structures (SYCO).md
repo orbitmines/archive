@@ -39,17 +39,6 @@ the further you get away from flwo the ahrder it is to maintain, it's probably a
 Online: dhurim cakiqi, andrew fish, cecilia pradic, nigel burke, (pixel art M something i found online recently popped in as well)  
   
   
-- [[Alexei Lisitsa]], [[Andrew Fish]]  
-- Automated Reasoning for Tangles with Quantum Verification Applications  
-  
-Pretty much the braids that jOhn baez was talking about. so knots, again related to prime related to nooncompressibility related to useful things releated to.....  
-  
-  
-Again this thing: Tangles, Quantles, for different structures different name, not the solution.  
-  
-Same guy asks a question here as well: "same info for the x/y/ no information on btoh sides. ; again hes hinting at the same thing. you need to have access to an assymetry to show the damn thing. THis intuition is clearly not properly instilled. *He's asking this question to figure out this pattenr too?)  
-  
-  
 - [[Flavien Breuvart]], [[Quan Long]], [[Vladimir Zamdzhiev]]  
 - On the Centre of Strong Graded Monads  
   
