@@ -794,12 +794,7 @@ class Ray implements Iterable<Ray> {
   
     // this.self = args[0]  
     // let initial: Ray = this;    // for (let i = 1; i < args.length; i++) {    //   initial.terminal = new Ray(args[i])    //   initial.terminal.initial = initial;    //   initial = initial.terminal;    // }  }  
-  
-  *[Symbol.iterator](): Iterator<Ray> {  
-    yield this.self;  
-    if (!this.is_terminal())  
-      yield *this.terminal;  
-  }  
+
     
 }  
   
