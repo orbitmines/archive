@@ -5,7 +5,8 @@
 	- [ ] Type information + selection combination
 	- [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
 	- [ ] Memorization vs rerunning
-	- [ ] Better notion of functions & variables
+	- [ ] Better notion of functions & variables (non-terminating; orbits)
+	- [ ] 
 - [ ] Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 
 
