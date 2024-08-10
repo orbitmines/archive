@@ -1,5 +1,8 @@
 *Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
+Curre
+
+
 Unprocessed
 - [ ] Some of the notebooks from 2023
 - [ ] Streams 2023
