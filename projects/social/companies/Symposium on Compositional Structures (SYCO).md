@@ -241,19 +241,13 @@ The relatuonal machine cal ukus
   
 jUst in case i didnt already wrote it down: the thing said at the community livestream: ignorance of the functor is absolute equaility, actually go through these livestream transcripts for processing  
   
-YEah you make the symmetries an asymmytry by having it described on another level of descripton as hwo the traversal is done.  
+YEah you make the symmetries an asymmytry by having it described on another level of descripton as how the traversal is done.  
 this is also how you prevent the start of traversal from sliipping terminal first still attached to the rest.  
   
 Structure on the edge, as a way of asking for types, basically pu tstuff as typingfinding on the terminal/initial  
-this thing was with check at domain/codomain  
-  
-AGAIN THIS IDEA OF MAAPING NAES TO THAT STRUCTURE, SEPARABLE INSEPERATBLE FOR SOMETHING ELSE ETC.. SEARCHABLE "LOOK INTO INVENTORY"  
   
   
 ## Attendees  
-  
-Attendees marked with an asterisk * will attend physically.  
-  
 - [[Adrián Doña Mateo]]
 - [[Alessandro Di Giorgio]]
 - [[Alexei Lisitsa]]
