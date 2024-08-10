@@ -45,20 +45,7 @@ inability to do the tensor operation is what defines irreversibility?
 Programming with edge relationship looked interesting  
 
 
-  
-- [[Bruno Gavranović]], [[Paul Lessard 1]], [[Andrew Joseph Dudzik]], [[Tamara von Glehn]], [[João Guilherme Madeira Araújo]], [[Petar Veličković]]  
-- Categorical Deep Learning: An Algebraic Theory of Architectures  
-  
-equivarianceequivariance with respect to invertable  
-  
-Lie derativat th emeasuring learned equivariance  
-  
-the f-colalrbgras are what alex kissinger was working with/mentioned? So it's the hypergraph rewriting? Or the frobenius ones??  
-  
-not lensises, just forward pass.  
-  
-Just endofunctor, so smaller lowerlevel, instead of monad, high abstraction?  
-  
+
 - [[Pablo Donato]]  
 - The Flower Calculus  
   
