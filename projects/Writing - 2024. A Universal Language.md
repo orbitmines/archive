@@ -808,8 +808,3 @@ class Ray implements Iterable<Ray> {
   
 export default Ray;
 ```
-
-```ts  
-  
-export default new Ray().__r
-```
