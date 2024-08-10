@@ -43,35 +43,6 @@ the further you get away from flwo the ahrder it is to maintain, it's probably a
 Universal as in context independence. Then rewriting is harder.  
 inability to do the tensor operation is what defines irreversibility?  
 Programming with edge relationship looked interesting  
-
-
-
-- [[Pablo Donato]]  
-- The Flower Calculus  
-  
-Existential graphs pierce 1896  
-  
-  
-- [[Nathan Corbyn]], [[Lukas Heidemann]], [[Nick Hu]], [[Chiara Sarti]], [[Calin Tataru]], [[Jamie Vicary]]  
-- homotopy.io: a proof assistant for finitely-presented globular n-categories  
-  
-  
-  
-- [[Tanguy Massacrier]], [[Philippe Malbos]], [[Georg Struth]]  
-- Single-set cubical categories and their formalisation with a proof assistant  
-  
-  
-Work in isabelle, the cubicalagda? homotopy, higher-dimensional rewriting.  
-  
-brown, higgings  
-  
-also connected to the omega category mentioned elsewhere  
-  
-Forgetting of lower structures, as long as higher abstraction is still applicable. Makes sense, no need to think about all these layers simultaenously, But then like in other things: less structure easier to intrepret  
-  
-again these omega strcutures, only way this modularity or any symmetry makes much sense is some assymmetrical handle on it  
-  
-"how mcuh reach" very much like how many composition of the ray  
   
 - [[Paul Blain Levy]]  
 - Game-enriched categories  
