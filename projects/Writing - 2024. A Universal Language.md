@@ -809,39 +809,7 @@ class Ray implements Iterable<Ray> {
 export default Ray;
 ```
 
-```ts
-class Ray {  
-  readonly __ref__: any;  
-  
-  constructor() {  
-    // Wrap the confusing JavaScript proxy into a more useful one.  
-    this.__ref__ = new Proxy(Ray, {  
-      construct: (target: any, args: any[], newTarget: Function): object => Ray.__new__(...args),  
-      apply: (target: any, thisArg: any, args: any[]): any => this.__call__(...args),  
-      get: (target: any, property: string | symbol, receiver: any): any => this.__get__(property),  
-      set: (target: any, property: string | symbol, newValue: any, receiver: any): boolean => this.__set__(property, newValue)  
-    });  
-  }  
-  
-  __set__ = (property: string | symbol, value: any): boolean => {  
-     return false;  
-  }  
-  
-  __get__ = (property: string | symbol): any => {  
-    if ((this as any)[property])  
-      return (this as any)[property];  
-  
-  }  
-  
-  __call__ = (...args: any[]): any => {  
-  
-  }  
-  
-  static __new__ = (...args: any[]) => {  
-    return new Ray().__ref__;  
-  }  
-}  
-  
+```ts  
   
 export default new Ray().__r
 ```
