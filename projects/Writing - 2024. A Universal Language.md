@@ -1,10 +1,11 @@
 *Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
 - [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (superposed extremes).
-	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retriev)
+	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 	- [ ] Type information + selection combination
 	- [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
 	- [ ] Memorization vs rerunning
+- [ ] Setup to constantly grow whatever in
 
 
 Unprocessed
