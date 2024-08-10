@@ -6,12 +6,9 @@ YouTube:
   - https://www.youtube.com/@syco12bham/streams
 ---
 
-[https://twitter.com/ctjlewis/status/1779740038852690393?t=5avrq9OCE_gmrv5UHjzsIQ&s=19](https://twitter.com/ctjlewis/status/1779740038852690393?t=5avrq9OCE_gmrv5UHjzsIQ&s=19)  
-Again this thing yesterday where defocus of eyes, for suposepose of the two in different ways. tHough harder to reach conclusion on other aprts of the eyes. Makes certain structures easier to see though.  
-  
 ### SYCO12  
 - [[Miriam Backens]]  
-- [Graphical rewriting of quantum computations using the ZX-calculus and flow properties](https://arxiv.org/abs/2304.08166)  
+- [Graphical rewriting of quantum computations using the ZX-calculus and flow properties](https://arxiv.org/abs/2304.08166)
   
   
 before:  
@@ -349,6 +346,3 @@ Attendees marked with an asterisk * will attend physically.
 - [[Dan R. Ghica]]  
 - [[Martín Hötzel Escardó]]  
 - [[Sonia Marin]]  
-  
-  
-max little online
