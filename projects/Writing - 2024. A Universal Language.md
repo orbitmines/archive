@@ -1,6 +1,6 @@
 *Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
-\*Thoughts going over 2022-2023 notebook*
+*Thoughts going over 2022-2023 notebook*
 - [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (superposed extremes).
 	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 	- [ ] Type information + selection combination
