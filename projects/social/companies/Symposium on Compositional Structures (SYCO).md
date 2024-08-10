@@ -46,20 +46,10 @@ Universal as in context independence. Then rewriting is harder.
   
 - [[Sean Moss]]  
 - Random graph models - The markov category if a graph  
-  
-Exchangeable (invariant) consistent (invariant in some restricted sense) local  
+
 inability to do the tensor operation is what defines irreversibility?  
-  
 Programming with edge relationship looked interesting  
-  
-I'll probably have to look into the distributivity at aome point  
-  
-large networks and graph limits ; some weird quircks in general case but still  
-  
-topos/rado-noiminal sets  
-categorical structures / algebraic constraints of random graph models  
-  
-  
+
 - [[Grégoire Sergeant-Perthuis]]  
 - Compositional statistical mechanics, entropy and variational inference  
   
