@@ -42,30 +42,13 @@ the further you get away from flwo the ahrder it is to maintain, it's probably a
   
 Universal as in context independence. Then rewriting is harder.  
 
-  
-- [[Joshua Wrigley]]  
-- A topos-theoretic framework for reconstruction theorems in model theory  
-  
-Drawing lines between the different lines of description  
-  
-Sheave, bundlehthing carrying the fucntion just lazy or the func on the whole thing by doing it local or traversing the entire thing.  
-  
-"if and only if" ; why not just "if" - :cry: - Similar, doesnt solve the problem: "more if than if"  
-  
-  
-  
 ##### Tuesday  
   
 - [[Sean Moss]]  
 - Random graph models - The markov category if a graph  
   
 Exchangeable (invariant) consistent (invariant in some restricted sense) local  
-  
-cone algebraic, branching ; all similar ideas (had some notes from Aleks kissingers paper somewhee for this too, Milewski pribably mentuond it on his kecture series too)  
-  
-Monoidal cone  
-  
-Reminded of this thing Jonathan gorard said at some point at send iirc (check this not sure could've been something close to it?); inability to do the tensor operation is what defines irreversibility?  
+inability to do the tensor operation is what defines irreversibility?  
   
 Programming with edge relationship looked interesting  
   
