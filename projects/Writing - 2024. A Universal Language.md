@@ -1,15 +1,17 @@
 *Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
-*Thoughts going over 2022-2023 notebook*
+*Thoughts going over 2022-2023 notebook (reprocessing)*
 - [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (superposed extremes).
 	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 	- [ ] Type information + selection combination
 	- [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
 	- [ ] Memorization vs rerunning
 	- [ ] Better notion of functions & variables (non-terminating; orbits)
-	- [ ] Notion of inaccessible additional complexity (say some javascript object which is not accessible but we can still use/return)
+	- [ ] Notion of inaccessible additional complexity (say some javascript object which is not accessible but we can still use/return)ow 
+	- [ ] H
 - [ ] Factory: Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
+	- [ ] Build up store of equivalences & patterns in some structure.
 
 
 Unprocessed
