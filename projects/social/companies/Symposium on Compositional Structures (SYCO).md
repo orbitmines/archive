@@ -239,12 +239,9 @@ the catt thing tim-- was working on, omega categories, modulus
   
 The relatuonal machine cal ukus  
   
-jUst in case i didnt already wrote it down: the thing said at the community livestream: ignorance of the functor is absolute equaility, actually go through these livestream transcripts for processing  
-  
-YEah you make the symmetries an asymmytry by having it described on another level of descripton as how the traversal is done.  
-this is also how you prevent the start of traversal from sliipping terminal first still attached to the rest.  
-  
-Structure on the edge, as a way of asking for types, basically pu tstuff as typingfinding on the terminal/initial  
+- Ignorance of the functor is absolute equality
+- Yeah you make the symmetries an asymmytry by having it described on another level of descripton as how the traversal is done.  
+- Structure on the edge, as a way of asking for types, basically pu tstuff as typingfinding on the terminal/initial  
   
   
 ## Attendees  
