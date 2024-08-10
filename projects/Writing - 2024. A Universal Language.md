@@ -8,7 +8,7 @@
 	- [ ] Better notion of functions & variables (non-terminating; orbits)
 	- [ ] 
 - [ ] Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
-	- [ ] Notion of queues, ..., priorities
+	- [ ] Notion of queues, resources (storage,, ..., priorities
 
 
 Unprocessed
