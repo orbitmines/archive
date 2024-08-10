@@ -13,6 +13,7 @@
 	- [ ] .terminal = .initial (self-referential ray like this)
 	- [ ] **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out a cycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
 	- [ ] Way of interpreting possible representations (as equivalences, but then for a particular purpose);
+	- [ ] Propagate next time step: each ray with a separate causal history
 - [ ] Factory (Version Control, Causal histories, ..., Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] Build up store of equivalences & patterns in some structure.
