@@ -11,18 +11,6 @@ YouTube:
 - [Graphical rewriting of quantum computations using the ZX-calculus and flow properties](https://arxiv.org/abs/2304.08166)
   
 
-  
-correction function basde on wrong opservered behavior, interesting, possibly related to extremes inhibited,  
-oneway  
-  
-flow preserving, just the circuit which is a particular interface which can perform something, and then the error correction is just trying to force the eisting thing into that interface. which is quite similar to a lot of things i'm headed to; namely changable interfaces, then the interesting thing would be what if the quantum circuit itself is changable and has connections to the things outside the circuit (obviously)  
-  
-Clear that this whole "certain complexity" here is also stopping exploration into more unusualvariants. Even with something like ZX. You never really consider the representation or everything like context. it's not they're consistent. They're consistent in some way, take in context, it falls apart. this concept is quite overarching: Still, how does i actually break down/ is it the infinite self-refernece recusion, or?  
-  
-Always this oh,w e have some other way of visually representing it, the hgate and the blue lines, again that itself is the same sort of problem, it's just not paid attention to.\\  
-  
-Yeah quite certain this merging in ZX is just a Ray onlg something related *as in the only difference is the difference of that ray and hence it allows for collapsing/expanding in that direction. It's an inconsistency, ignorance along a ray.  
-  
 Yep vertex splitting is moving to another perspective of the ray at the boundary, Either from the perspective of the boundary, or that of the rays joining at the boundary. "Vertex splitting is useful for reducing counts" -> There's no counts by default.  
   
 Non-stabaliser, just incompatable with the interface?  
