@@ -37,26 +37,6 @@ descrepency over this "one-way" it's always: You have some asymmtry, and need a 
 the further you get away from flwo the ahrder it is to maintain, it's probably again interference of other local things which change it from a single arbirarily ray to some interfering ones.  
 
   
-- [[Aloïs Rosset]], [[Maaike Zwart]], [[Helle Hvid Hansen]], [[Jörg Endrullis]]  
-- Correspondence between Composite Theories and Distributive Laws  
-  
-way to construct the zero thing is to have the opposite etremes; initial terminal, arbitrarily structured, be next to each other and then cancel each other out when we ignore the difference, Very much like the ZX thing of anniliation  
-  
-the two separate rows in composeiste theories, separate again arejust two parallel strands composed seperately, which we describe through another level of abstraction, just branching of the rays.  
-  
-Terminaing + local confluence _> gen confluence. What was that paper? Might have heard of it before (where?)  
-  
-Not the right solution for the rewriting structure: Again rays can just do this branching. THough the colors show this? "how deep in the structure" -> Just same thing but described differently.  
-  
-commutes, invariance  
-  
-- [[Adrián Doña Mateo]]  
-- Pushing monads forward  
-  
-Ring over the field, ignorance of the structure of the overlapping field to make it a ring?  
-; Just overlapping of the fields? And then drawing lines between these things.  
-Pushforward as in the modularity of the ring over the field?  
-  
 - [[David Forsman]]  
 - Monoidal Meta-Theorem  
   
