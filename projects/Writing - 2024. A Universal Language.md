@@ -6,7 +6,7 @@
 	- [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
 	- [ ] Memorization vs rerunning
 	- [ ] Better notion of functions & variables (non-terminating; orbits)
-	- [ ] Notion of
+	- [ ] Notion of inaccessible additional complexity (say some javascript object which is not accessible but we can still use/return)
 - [ ] Factory: Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 
