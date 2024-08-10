@@ -4,6 +4,7 @@
 	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space.
 	- [ ] Type information + selection combination
 	- [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
+	- [ ] Memorization vs rerunning
 
 
 Unprocessed
