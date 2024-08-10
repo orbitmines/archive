@@ -40,24 +40,8 @@ the further you get away from flwo the ahrder it is to maintain, it's probably a
 - [[David Forsman]]  
 - Monoidal Meta-Theorem  
   
-Lot of noncopying, nonuniqueness. - This is basically you want ignorance of the assymetrical structure which allows you to point that out, while also simultaneously make sure the ones matching are collapses together. in the case of arbitrary refernces, this might as well be better to combines them together with equivalences like functors on everything. AS a way of saying, yes, it's definitenly different, but pretty much the same. then you cgain get the functor construction where it branches arbitrarily through the structure as a single ray in the way of defining a single ray.  
-  
 Universal as in context independence. Then rewriting is harder.  
-  
-so sure local rewriting, but then with certain properties held after is the hard part. So that's what the ray also need a better hold on. At least the traversing is there. But then like with filters/partial stuff be able to like in the ZX/quantum stuff perform corrections, or perturb the system in such a way to change its behavior to something else  
-  
-context as in simply just recursively linking all the different abstraction levels ; like ray?  
-  
-multicategory again just structure preserving of a category, just again the same thing applied on a different context?  
-  
-enriched??  
-  
-multicatgeory encoded in enriched, or the other way around?  
-  
-- [[Aziz Kharoof]]  
-- Homotopical characterization of strong contextuality  
-  
-?  
+
   
 - [[Joshua Wrigley]]  
 - A topos-theoretic framework for reconstruction theorems in model theory  
