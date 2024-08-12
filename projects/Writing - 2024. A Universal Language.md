@@ -15,6 +15,7 @@
 		- [ ] Similarly, always a "superposed type" ; as structure??
 	- [ ] Way of interpreting possible representations (as equivalences, but then for a particular purpose);
 	- [ ] Propagate next time step: each ray with a separate causal history
+	- [ ] What if the `.initial` is many, instead of relying on a single one which branches to many. So how Chyp's edge'
 - [ ] Factory (Version Control, Causal histories, ..., Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] Build up store of equivalences & patterns in some structure.
