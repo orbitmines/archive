@@ -12,6 +12,7 @@
 	- [ ] Way of dealing with orbits, realization of them, and switch to a variant which is aware of the orbit??? (ref on boundary now?)
 	- [ ] .terminal = .initial (self-referential ray like this)
 	- [ ] **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
+		- [ ] Similarly, always a "superposed type" ; as structure??
 	- [ ] Way of interpreting possible representations (as equivalences, but then for a particular purpose);
 	- [ ] Propagate next time step: each ray with a separate causal history
 - [ ] Factory (Version Control, Causal histories, ..., Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
