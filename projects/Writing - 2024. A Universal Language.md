@@ -20,7 +20,7 @@
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] Build up store of equivalences & patterns in some structure.
 	- [ ] Notion of some intermediate state matching a selection
-	- [ ] 
+	- [ ] Causal history = 
 
 
 Unprocessed
