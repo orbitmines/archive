@@ -2,9 +2,9 @@
 ##### Reading  
 - [ ] https://thebookofshaders.com/
 
-- [ ] Turings famous paper https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7
 
+- [ ] Google chrome reading list
 - [ ] Papers we love, to read?  
 - [ ] Read up on [[Lee Cronin]]'s work  
 
@@ -16,7 +16,6 @@
 - [ ] https://writings.stephenwolfram.com/2017/10/are-all-fish-the-same-shape-if-you-stretch-them-the-victorian-tale-of-on-growth-and-form/
 - [ ] https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/
 
-- [ ] Google  chrome reading list
 - [ ] https://cybercat.institute/2024/06/28/yoga-contexts/
 - [ ] https://cybercat.institute/2024/04/15/neural-network-first-principles/
 
