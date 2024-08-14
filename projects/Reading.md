@@ -1,7 +1,7 @@
 
 ##### Reading  
-https://thebookofshaders.com/
-- [ ] https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
+- [ ] https://thebookofshaders.com/
+
 - [ ] Turings famous paper https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7
 
@@ -22,3 +22,4 @@ https://thebookofshaders.com/
 
 - [ ] https://fuglede.github.io/llama.ttf/
 - [ ] https://github.com/karpathy/llm.c
+- [ ] https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
