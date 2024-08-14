@@ -18,7 +18,6 @@ https://thebookofshaders.com/
 - [ ] https://www.cambridge.org/core/books/cognition-and-intractability/2FC21B94CCCFBBD1E11A2D30D4503A23
 - [ ] https://press.princeton.edu/books/paperback/9780691138718/fearless-symmetry
 - [ ] https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.200701215
-- [ ] https://sci-hub.se/
 - [ ] https://writings.stephenwolfram.com/2017/10/are-all-fish-the-same-shape-if-you-stretch-them-the-victorian-tale-of-on-growth-and-form/
 - [ ] https://github.com/google-deepmind/alphafold
 - [ ] https://www.chenyang.co/diffusion.html
