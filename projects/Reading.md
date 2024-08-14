@@ -2,7 +2,7 @@
 ##### Reading  
 https://thebookofshaders.com/
 - [ ] https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
-- [ ] Turings famous paper ([[Paul Taylor]])
+- [ ] Turings famous paper https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7
 
 - [ ] Papers we love, to read?  
