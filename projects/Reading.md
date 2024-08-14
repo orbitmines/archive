@@ -24,9 +24,6 @@ https://thebookofshaders.com/
 - [ ] https://github.com/karpathy/llm.c
 - [ ] https://www.amazon.com/Number-Sense-Mind-Creates-Mathematics/dp/0195132408
 - [ ] https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/
-- [ ] [[Paul Taylor]] ; the scientificof physics describing only relovtionaries never met  
-	- [ ] what was gping on peopees head euqlids elemnts  
-- [ ] https://www.usnc.com/
 - [ ] Google  chrome reading list
 - [ ] https://cybercat.institute/2024/06/28/yoga-contexts/
 - [ ] https://fuglede.github.io/llama.ttf/
