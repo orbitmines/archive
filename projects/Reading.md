@@ -10,10 +10,7 @@ https://thebookofshaders.com/
 - [ ] Read up on [[Lee Cronin]]'s work  
 - [ ] [[David Deutsch]]'s writing
 - [ ] [[Judea Pearl]]'s Book of why?
-- [ ] https://patrickcollison.com/svhistory
-	- [ ] https://patrickcollison.com/people
-	- [ ] https://patrickcollison.com/links
-	- [ ] https://patrickcollison.com/growth
+
 - [ ] https://leibniz-katalog.bbaw.de/en
 
 - [ ] https://press.princeton.edu/books/paperback/9780691138718/fearless-symmetry
