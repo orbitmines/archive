@@ -21,11 +21,12 @@ https://thebookofshaders.com/
 - [ ] https://writings.stephenwolfram.com/2017/10/are-all-fish-the-same-shape-if-you-stretch-them-the-victorian-tale-of-on-growth-and-form/
 - [ ] https://github.com/google-deepmind/alphafold
 - [ ] https://urosn.github.io/
-- [ ] https://github.com/karpathy/llm.c
-- [ ] https://www.amazon.com/Number-Sense-Mind-Creates-Mathematics/dp/0195132408
+
 - [ ] https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/
+
 - [ ] Google  chrome reading list
 - [ ] https://cybercat.institute/2024/06/28/yoga-contexts/
-- [ ] https://fuglede.github.io/llama.ttf/
 - [ ] https://cybercat.institute/2024/04/15/neural-network-first-principles/
-- [ ] 
+
+- [ ] https://fuglede.github.io/llama.ttf/
+- [ ] https://github.com/karpathy/llm.c
