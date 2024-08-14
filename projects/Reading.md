@@ -7,8 +7,6 @@ https://thebookofshaders.com/
 - [ ] https://github.com/sindresorhus/awesome#readme
 - [ ] ICFP (Higher-order, Typed, Inferred, Strict: ML Family Workshop 2023 ; Kenchgi)  
 - [ ] Papers we love, to read?  
-- [ ] Through [[Project - Archive - "OrbitMines' Journey" (2025-2026?)]] setup automatic reading list (each month)  
-  - [ ] Temporary script to this for me based on git.  
 - [ ] Read up on [[Lee Cronin]]'s work  
 - [ ] [[David Deutsch]]'s writing
 - [ ] [[Judea Pearl]]'s Book of why?
