@@ -28,7 +28,7 @@ https://thebookofshaders.com/
 - [ ] https://github.com/karpathy/llm.c
 - [ ] https://www.amazon.com/Number-Sense-Mind-Creates-Mathematics/dp/0195132408
 - [ ] https://eos-nexus.org/
-- [ ] Jacob L. S. Bellmund*, Peter Gärdenfors, Edvard I. Moser
+- [ ] Jacob L. S. Bellmund*, Peter Gärdenfors
 - [ ] https://cybercat.institute/2024/04/15/neural-network-first-principles/
 - [ ] https://mobileworldcapital-my.sharepoint.com/:x:/g/personal/nasmwc_mobileworldcapital_com2/Efo2zsRlhl1HpnVLqJA1MlcBnaNL9rnIy_HfB30Z3op_jg?rtime=m6tp1Idj3Eg
 - [ ] https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/
