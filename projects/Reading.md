@@ -20,9 +20,7 @@ https://thebookofshaders.com/
 - [ ] https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.200701215
 - [ ] https://writings.stephenwolfram.com/2017/10/are-all-fish-the-same-shape-if-you-stretch-them-the-victorian-tale-of-on-growth-and-form/
 - [ ] https://github.com/google-deepmind/alphafold
-- [ ] https://www.chenyang.co/diffusion.html
 - [ ] https://urosn.github.io/
-- [ ] neuro; https://sites.google.com/view/pablojercogteam/
 - [ ] plant cognition: https://roundtable.org/live-courses/science/planta-sapiens-the-new-science-of-plant-intelligence
 - [ ] https://github.com/karpathy/llm.c
 - [ ] https://www.amazon.com/Number-Sense-Mind-Creates-Mathematics/dp/0195132408
