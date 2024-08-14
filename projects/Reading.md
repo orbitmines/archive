@@ -4,8 +4,7 @@ https://thebookofshaders.com/
 - [ ] https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
 - [ ] Turings famous paper ([[Paul Taylor]])
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7
-- [ ] https://github.com/sindresorhus/awesome#readme
-- [ ] ICFP (Higher-order, Typed, Inferred, Strict: ML Family Workshop 2023 ; Kenchgi)  
+
 - [ ] Papers we love, to read?  
 - [ ] Read up on [[Lee Cronin]]'s work  
 
