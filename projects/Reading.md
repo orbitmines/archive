@@ -20,7 +20,7 @@ https://thebookofshaders.com/
 - [ ] https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.200701215
 - [ ] https://writings.stephenwolfram.com/2017/10/are-all-fish-the-same-shape-if-you-stretch-them-the-victorian-tale-of-on-growth-and-form/
 - [ ] https://github.com/google-deepmind/alphafold
-- [ ] https://urosn.github.io/
+
 
 - [ ] https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/
 
