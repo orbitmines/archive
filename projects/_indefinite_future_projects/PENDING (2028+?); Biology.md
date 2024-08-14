@@ -19,6 +19,7 @@ Read
 	- [ ] Some intuitionf for things like Proteins, ... Amino Acids
 	- [ ] morphogen?
 - [ ] https://ultradao.to/info
+- [ ] https://github.com/google-deepmind/alphafold
 
 People, [[Gizem Gumuskaya]]
 
