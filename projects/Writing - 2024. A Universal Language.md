@@ -3,7 +3,7 @@
 - 
 
 *Thoughts going over 2022-2023 notebook (reprocessing)*
-- [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (superposed extremes).
+- [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (**superposed** extremes).
 	- [ ] "Draw a line between anything and say 'what if they're the same'"
 	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 	- [ ] Type information + selection combination
@@ -272,6 +272,7 @@ Header
 
 
 Process:
+- Inconsistency is statement of reprogrammability - or multiple levels of abstraction
 
 postponed (from 2023):
 Some concepts from 2023:
