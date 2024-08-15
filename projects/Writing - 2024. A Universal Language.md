@@ -463,9 +463,6 @@ def has_next(self) -> Ray: return self.next().is_some
 #
 ```
 
-```ts
-
-```
 
 ```ts
 import _ from "lodash";  
