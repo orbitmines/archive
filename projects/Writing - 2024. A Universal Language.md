@@ -57,6 +57,7 @@ parallel just means composing boundaries of either terminals, or initials.
 - .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
 - compile/render/map/cast/.realize/ ... probably fit in that separate category/level of abstraction
 	- expected not to have alternative behaviors based on binary/ternary calls
+- If no terminal - .self or .terminal
 
 `.is_extreme`
 - Extremes as superposed pattern matcher.
