@@ -67,13 +67,10 @@ parallel just means composing boundaries of either terminals, or initials.
 `none`
 - Should be 'supercompiled' from `is_none`, same with `.initial`/`.terminal`
 
-`.initial`
-
-
 `.self`: What is our current position? (can dynamically change) - "Moving an abstraction layer lower - what's inside?"
 	`this = .self`: Equivalency Ray = Context Ray? BETTER NAMES
 
-`.terminal`
+`.initial/.terminal`
 - .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
 - compile/render/map/cast/.realize/ ... probably fit in that separate category/level of abstraction
 	- expected not to have alternative behaviors based on binary/ternary calls
@@ -82,10 +79,9 @@ parallel just means composing boundaries of either terminals, or initials.
 `.is_extreme`
 - Extremes as superposed pattern matcher.
 
--> This needs a better pattern for the different abstraction layers. (for everything)
 `.equivalent`, `.is_equivalent`
 - Equivalence at continuation is parallel composition
-- 
+
 `compose`, `.is_composed`
 
 `.all`
@@ -96,7 +92,6 @@ parallel just means composing boundaries of either terminals, or initials.
 - places another ray at another level of description points to initial/self/terminal, then starts traversing
 	- the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 - Latch the initial, latch the .self, latch the .terminal, and we determine movement.
-- Can implement the ignorances through
 - those traversal layers on branches which dont go left/right but only one direction?
 - split off branching initial remainin o. the temrinal the ret marching along
 - Can just move the terminal which holds the pointer to the boundary
