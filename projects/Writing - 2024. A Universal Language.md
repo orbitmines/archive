@@ -144,10 +144,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 		- "Also ref to things like 'no cloning theorem'? Or ref to 'absolute equality'"
 	- Performing a copy (realizing it) can be conceptualized as traversing the entire structure. - and splitting off a copy through the traversing rays (can thus be parallel traversal as well)
 
-`.perspective`
- -  "Applying the same thing in a different context"
- - Essentially: What is the essence of differences and equivalences/sameness
-
 `.equivalent`, `.compose` ; up the arity, probably makes less sense?
 - `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
 - equivalence is an inconsistency from some perspective (and the other way round)
@@ -156,14 +152,15 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 	- Cohomology, ..., not collapsable if something stops this from happening.
 
 ---
-
-- It is ordered from one perspective, unordered from another.
+ 
+ - What is the essence of differences and equivalences/sameness
 - Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
 - empty on .self, vs .self ref vs ref, ; selection of two boundaries.
 - Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
 - Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 - "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 - Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
+- It is ordered from one perspective, unordered from another.
 
 ##### "Superpose in more detail"
 back & into.self
