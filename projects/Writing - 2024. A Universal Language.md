@@ -14,10 +14,14 @@
 	- [ ] How about inaccessible structures, like some mapping we don't have access to (say: input&output only, nothing in between)
 	- [ ] Way of dealing with orbits, realization of them, and switch to a variant which is aware of the orbit??? (ref on boundary now?)
 	- [ ] .terminal = .initial (self-referential ray like this)
-	- [ ] **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
+	- [ ] **Ordered/Unordered**
+	- [ ] 
+	- [ ] **Modularity, Loops, Cycles**: **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
+		- [ ] "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
 		- [ ] Similarly, always a "superposed type" ; as structure??
 		- [ ] It is ordered from one perspective, unordered from another.
-			- [ ] Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
+		
+	- [ ] 
 	- [ ] Way of interpreting possible representations (as equivalences, but then for a particular purpose);
 	- [ ] Propagate next time step: each ray with a separate causal history
 	- [ ] What if the `.initial` is many, instead of relying on a single one which branches to many. So how Chyp's edge's work: many sources, to many targets. Could also use like `.self` that `.initial` & `.terminal` are necessarily an equivalency frame, where it's not obvious that there's a connection back. So there's a difference in `.self` & `.initial/.terminal` - remove this difference?
@@ -163,7 +167,7 @@ back & into.self
 
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
 	- ref on self-reference?
-	- "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
+
 	- Some way to conceptualize a qubit as pattern matched on any other thing ; similar to the "push structure inside thing."
 	- ; So that would be like finding the higher-arity structure there, and selecting it like the vertex on vertex, having it branch off.
 	- ; So similarly, it's infinity groupoids which break the recursion of the stack. So the `.is_orbit`s.
