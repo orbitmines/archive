@@ -22,6 +22,7 @@
 	- [ ] Build up store of equivalences & patterns in some structure.
 	- [ ] Notion of some intermediate state matching a selection
 	- [ ] Causal history = coherence conditions ; ex: some input-output relation where some binary value switches, coherence in mapping 0 -> 0, 1->1, but change in selection.
+	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
 ---
 
@@ -158,9 +159,8 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - empty on .self, vs .self ref vs ref, ; selection of two boundaries.
 - Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
 - Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
-- "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
-- Compiles to a sequence of traversal checks?, and setting ops?, and arbitrary many of them make up a program.  
 - It is ordered from one perspective, unordered from another.
+
 
 ##### "Superpose in more detail"
 back & into.self
