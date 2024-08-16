@@ -171,8 +171,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 	- What does it mean for a point yo become its own direction? 
 	- Data becoming function, geometry etc..
 
-Local .orbit instead of composing at .terminal? ; pulling further-away stuff into this ; locally
-
 
 ---
 
