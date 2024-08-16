@@ -169,7 +169,7 @@ back & into.self
 
 	- Usual superposition is where every entry of an arbitrarty direction only references itself on the `.self`. Hence a tensored variant like this in linear time, if you can traverse that in one step.
 	- DIfference between a bit and a qubit is that in the case of a qubit we assume differentiability between?
-	- Wave function collapse, snapping of connection to the frame. Binary superposition to binary value ; but then for supoerposed 2d- grid ?? - need to understand this better. Or switching from boundary ref to ref on value & modular collapse?
+	- [[PENDING (2027?+) ; Physics (& Hardware)]] - Wave function collapse ; how does that l
 
 direction at the point**: What does it mean for a point yo become its own direction? ; function becoming data becoming toplogies becoming ..
 
