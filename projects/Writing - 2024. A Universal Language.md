@@ -128,10 +128,10 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - This is what breaks our recursion. An equivalency we don't have access to.- It halts the program. (["And there we have it ..."](@see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.))
 - This tries for "global coherence" - which just means a self-loop where no change is assumed in surrounding context (obviously inconsistent, but that doesn't matter).
 - This self-loop breaks the recursion because it self-referentially answers the question of: "The only thing you'll ever find here is that same structure you already had, without having to traverse that structure."
-- Here the collapse thing both sides?
 - "it is expensive work to edge towards global coherence." ? To ensure consistency in some way
 - 
 
+- Collapsing to a point (from both sides)
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 - and=and difference perspective (.add` on vertices -> equiv initial from one side, terminal from other side.)
