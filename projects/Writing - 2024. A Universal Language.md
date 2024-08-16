@@ -304,7 +304,6 @@ Some concepts from 2023:
  * ; These are just the same sort of thing from different perspectives, you need additional context for separation of concepts/.../duals - And separation is likely somewhat arbitrary and inconsistent - but that doesn't prevent them from being useful. */
 ```
 
-Python def
 ```py
 # def free(self): raise NotImplementedError
 # TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().
@@ -312,44 +311,6 @@ Python def
 # TODO: Could lazily try to find references., garbage collectors and other concepts like it.
 # TODO: Maybe want a way to destroy from one end, so that if other references try to look, they won't find additional structure.
 # TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?
-
-size/add/pow... (basically copies/merges, different perspectives/context)
-  # size = length = no params different behavior
-  # resize = structure  mul = __mul__ = times
-  # duplicate = copy = clone = size.from_perspective_of
-
-
-#
-# Python runtime converters  #
-@staticmethod
-def integer(val: int) -> Ray: raise NotImplementedError
-@staticmethod
-def iterator(val: Iterator[Any]) -> Ray: raise NotImplementedError
-@staticmethod
-def iterable(val: Iterable[Any]) -> Ray: raise NotImplementedError
-@staticmethod
-def string(val: str) -> Ray: raise NotImplementedError
-@staticmethod
-def false(): return Ray.boolean(False)
-@staticmethod
-def true(): return Ray.boolean(True)
-@staticmethod
-def obj(val: object) -> Ray: raise NotImplementedError
-@staticmethod
-def arbitrary(val: Arbitrary) -> Ray:
-  if isinstance(val, bool): return Ray.boolean(val)
-  if isinstance(val, int): return Ray.integer(val)
-  if isinstance(val, str): return Ray.string(val)
-  if isinstance(val, object): return Ray.obj(val)
-  # TODO ... - Could do all through object/iterable in the case of python ...
-
-  raise NotImplementedError
-
-  #
-
-#  TODO: Are these "GLOBAL" varibles from the perspective of the ignorant setup - or more accuarrately something which it could be made aware of.
-# TODO: WHILE = WITH = SCOPE = CONTEXT = GLOBAL = //... (= DEBUG/LISTENER/OBSERVER/WRAPPER / MONAD)
-enter / exit
 
 
 @staticmethod
@@ -366,17 +327,8 @@ def memoized(self) -> Ray:
 # res = self.next
 # res.initial = self    # return res    raise NotImplementedError
 
-Arbitrary = Union[int, Ray]
-
-def as_javascript() -> str: raise NotImplementedError
-def runtimes() -> Ray: raise NotImplementedError
-def compiler() -> Ray: raise NotImplementedError
-
-
-def radd(self) -> Ray: return -self.add.perspective
 def push_back(a, b: Arbitrary) -> Ray: return a.last().compose(b)
 # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...
-
 
 def from_perspective_of(a, b):
   raise NotImplementedError
@@ -385,9 +337,6 @@ def perspective(self) -> Ray: raise NotImplementedError
 # def filter / search
 
 kwargs / args  # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.
-
-
-
 
 
 
