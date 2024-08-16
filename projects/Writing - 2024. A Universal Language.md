@@ -126,8 +126,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - .orbit by default (turn off by splitting the boundary in two. Could do this locally with a wall)
 - Note that an orbit means reversibility (if no other context changes, and if we ignore the cursor)
 - This is what breaks our recursion. An equivalency we don't have access to.- It halts the program. (["And there we have it ..."](@see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.))
-
-- This self-loop breaks the recursion because it self-referentially answers the question of: "The only thing you'll ever find here is that same structure you already had, without having to traverse that structure."
+- *this or superposition, what's the differenceThis self-loop breaks the recursion because it self-referentially answers the question of: "The only thing you'll ever find here is that same structure you already had, without having to traverse that structure."
 
 
 - Coherence
