@@ -123,7 +123,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - caollpse the loop with an extreme, setting both initial/terminal to none for that step, forcing? "collapsing infinite with extreme idea??"
 `.orbit`
 - .orbit by default (turn off by splitting the boundary in two. Could do this locally with a wall)
-- Normal way of thinking about a boolean is .orbitm we assume modularity of booleans
 - Note that an orbit means reversibility (if no other context changes, and if we ignore the cursor)
 - This is what breaks our recursion. An equivalency we don't have access to.- It halts the program. (["And there we have it ..."](@see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.))
 - This tries for "global coherence" - which just means a self-loop where no change is assumed in surrounding context (obviously inconsistent, but that doesn't matter).
@@ -134,6 +133,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - Collapsing to a point (from both sides)
 
 - Boolean
+	- Normal way of thinking about a boolean is .orbitm we assume modularity of booleans
 	- Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
