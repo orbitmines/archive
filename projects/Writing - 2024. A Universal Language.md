@@ -29,7 +29,7 @@ vertex = graph which defines edges
 edge = initial/terminals defined on vertex  
 -.- = ??? defines two sides of an edge and a way to reference it, .self not sccounted for  
 hyperedge: follow entire initial/terminal, skip the .self (-.-)  
-  
+
 vertex; graph of edges in/out  
 edge; graph of vertices it's made out of  
   
