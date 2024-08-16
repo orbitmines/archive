@@ -68,7 +68,6 @@ parallel just means composing boundaries of either terminals, or initials.
 - Should be 'supercompiled' from `is_none`, same with `.initial`/`.terminal`
 
 `.self`: What is our current position? (can dynamically change) - "Moving an abstraction layer lower - what's inside?"
-	`this = .self`: Equivalency Ray = Context Ray? BETTER NAMES
 
 `.initial/.terminal`
 - .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
@@ -88,7 +87,7 @@ parallel just means composing boundaries of either terminals, or initials.
 - Prepare on the boundary, then shove it through. - lazy func
 - `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
 
-`.traverse`
+`.traverse / .all / .map / .any
 - places another ray at another level of description points to initial/self/terminal, then starts traversing
 	- the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 - Latch the initial, latch the .self, latch the .terminal, and we determine movement.
@@ -98,9 +97,6 @@ parallel just means composing boundaries of either terminals, or initials.
 - Ignorance/equivalence along arbitrary rays. = Equivalence
 - Undecided terminal for traversal / or break off structure to explore both.
 - Hard to say it's terminating. Need an orbit for that, and access to your own modular structure to say that. Otherwise it's "open loop traversal". Which is fine, just no abstract realization. Simple example is references to references. Or keep going in orbits when you can shut off the traversal.
-
-
-`.traverse / .all / .map / .any
 
 `.memoized`
  - .memoized is always orbit consistency in anything we traverse
