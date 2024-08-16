@@ -545,77 +545,7 @@ class Ray {
     else throw new Error("Not implemented")  
   }  
 }  
-  
-class Ray {  
-  
-  __call__ = (args: any[] = [], kwargs: Dictionary): any => {  
-    // console.log('a', Ray.__new__().terminal)  
-    // return this.proxy.terminal  
-    // /** ray() is called. */    // if (args.length === 0) return this.proxy.terminal    // /** ray(a, b, ...) is called. */    // if (args.length !== 1) { throw new Error() }    //    // /** ray(a) is called. */    // if (is_function(args[0])) {    //   const fn = args[0]    //    //   if (fn.length === 0) {    //     return fn()    //   } else if (fn.length === 1) {    //     // Ray.something = (self: Self) => {}    //     // return arg(this);    //     console.log(fn(fn))    //     throw new Error()    //   } else {    //     throw new Error()    //   }    // }    // const __call__ = this.__new__(args)    // __call__.initial = this.proxy.self;    // __call__.self = this.proxy.terminal;    // __call__.terminal =  
-    throw new Error('No __call__')  
-  }  
-  
-  
-  protected __INCLUDED_CONTEXT__: boolean = false;  
-  __enter__ = () => { this.__INCLUDED_CONTEXT__ = true }  
-  __exit__ = () => { this.__INCLUDED_CONTEXT__ = false }  
-  with = (fn: Function) => {  
-    this.__enter__()  
-    fn()  
-    this.__exit__()  
-  }  
-  
-  __assign__ = (args: any[] = [], kwargs: Dictionary = {}) => {  
-    let {  
-      __GLOBAL_CONTEXT__ = undefined,  
-      __DEBUG__ = true,  
-      ...dictionary  
-    } = kwargs;  
-  
-  
-    // Instantiate reversible.  
-    // const ray = this.proxy;    // ray.initial.reverse = ray.terminal    // ray.none.reverse = ray.some  
-    //   TODO: Reversible, or two functions cancel each other.  
-    //   TODO: Reversible Iterator: Memoized .next (- reversible through memory)  
-  
-    // TODO: Instantiate .args at .self  
-  }  
-  
-  static __new__ = (args: any[] = [], kwargs: Dictionary = {}): any => {  
-    let {  
-      __GLOBAL_CONTEXT__ = undefined, __object__ = undefined,  
-      initial = Ray.none, self = Ray.none, terminal = Ray.none  
-    } = kwargs;  
-  
-    // Map different __object__ values.  
-  
-    __object__ = as_ray()  
-  
-    // If we've already got a Ray, just return that.  
-    if (__object__ instanceof Ray || __object__.prototype === Ray.prototype)  
-      return __object__  
-  
-    const __ray__ = new Ray({ __GLOBAL_CONTEXT__ });  
-    __ray__.__assign__(args, kwargs)  
-  
-    return __ray__.proxy;  
-  }  
-  
-  equivalent = (self = this.proxy, b = Ray.none) => {  
-    // TODO: Should return 'this.proxy'  
-    return (new self({ initial: self.self, self, terminal: b.self })).self  
-  }  
-  
-  // traverse = self.as_extreme  
-  
-  // /** Define `Ray.function` first, then immediately, it gets called with itself - to define itself in terms of a Ray. */  
-  
-   // static constructor = (ray: JS.Constructor) => Ray.none  
-}  
-  
-Ray.__NONE__.__assign__()  
-export default Ray.__NONE__.proxy;  
-  
+ 
 // This {1 -> self/self.self , & 2 -> a, b} could be generalized (is_none, is_orbit, ..)  
 // Ray.is_none = (self: Self) => self.is_orbit(self.self)  
 // Ray.is_orbit = (self: Self, other: Self) => self === other  
@@ -645,22 +575,6 @@ export default Ray.__NONE__.proxy;
 
 `.initial/.terminal = .is_none or this.initial = this.self`
 - The difference being interpretation
-
-```python
-  # def initial(self) -> Ray: raise NotImplementedError  
-  # def self(self) -> Ray: raise NotImplementedError  # def terminal(self) -> Ray: raise NotImplementedError  
-  @staticmethod  
-  def none() -> Ray: raise NotImplementedError  
-  @staticmethod  
-  def boolean() -> Ray: return (Ray.none * 2).orbit  
-  
-  @staticmethod  
-  def function(func: Callable[[Any, ...], Any]):  
-    return Ray()  
-  
-for name, fn in inspect.getmembers(Ray, inspect.isfunction):  
-  if name == '__new__' or name == '__init__' or name == 'function': continue
-```
 
 
 ```ts
