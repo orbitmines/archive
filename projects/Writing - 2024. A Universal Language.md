@@ -1,7 +1,5 @@
 *Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
-- 
-
 *Thoughts going over 2022-2023 notebook (reprocessing)*
 - [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (**superposed** extremes).
 	- [ ] "Draw a line between anything and say 'what if they're the same'"
@@ -24,6 +22,21 @@
 	- [ ] Build up store of equivalences & patterns in some structure.
 	- [ ] Notion of some intermediate state matching a selection
 	- [ ] Causal history = coherence conditions ; ex: some input-output relation where some binary value switches, coherence in mapping 0 -> 0, 1->1, but change in selection.
+
+---
+
+vertex = graph which defines edges  
+edge = initial/terminals defined on vertex  
+-.- = ??? defines two sides of an edge and a way to reference it, .self not sccounted for  
+hyperedge: follow entire initial/terminal, skip the .self (-.-)  
+  
+vertex; graph of edges in/out  
+edge; graph of vertices it's made out of  
+  
+Vertex references another vertex  
+edge references another edge
+
+---
 
 
 Unprocessed
