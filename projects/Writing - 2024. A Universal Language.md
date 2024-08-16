@@ -259,8 +259,6 @@ Header
 
 ---
 ###### Examples: Delayed till working implementation
-- Chyp
-- Physics also / superposition ; Using them for fractal expansion - shoving structure in between
 - [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics).
 - Folding ray on high-dimensional tensor. Or some GPU operators.
 - Tensor
@@ -290,19 +288,12 @@ Header
 
 ---
 
-
 Process:
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction
 
 postponed (from 2023):
-Some concepts from 2023:
-```ts
-/**  
  * TODO ; Composability is Non-locality?  
- * TODO ; Encoding is usually Ignorant of its use  
- *  
- * ; These are just the same sort of thing from different perspectives, you need additional context for separation of concepts/.../duals - And separation is likely somewhat arbitrary and inconsistent - but that doesn't prevent them from being useful. */
-```
+
 
 ```py
 # def free(self): raise NotImplementedError
