@@ -98,12 +98,9 @@ parallel just means composing boundaries of either terminals, or initials.
 
 `.traverse / .all / .map / .any
 - places another ray at another level of description points to initial/self/terminal, then starts traversing
-	- the "teleport over thing" could just be the calculus of slow destroying the green ray on a side of the direction you want it to move to, hence moving it from vertex to initial to following the thing
 - Latch the initial, latch the .self, latch the .terminal, and we determine movement.
 - those traversal layers on branches which dont go left/right but only one direction?
 - Ignorance/equivalence along arbitrary rays. = Equivalence
-- Undecided terminal for traversal / or break off structure to explore both.
-- Hard to say it's terminating. Need an orbit for that, and access to your own modular structure to say that. Otherwise it's "open loop traversal". Which is fine, just no abstract realization. Simple example is references to references. Or keep going in orbits when you can shut off the traversal.
 
 `.memoized`
  - .memoized is always orbit consistency in anything we traverse
