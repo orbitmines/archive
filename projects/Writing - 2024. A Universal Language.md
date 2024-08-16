@@ -36,8 +36,8 @@ edge; graph of vertices it's made out of
 Vertex references another vertex  
 edge references another edge
 
-Vertex - follow entire graph, match for Initials (Outgoing Edges) & Terminals (Incoming Edges)
-Hyperedge - follow entire graph, match for (Initial/Terminal)
+Vertex - follow graph, match for Initials (Outgoing Edges) & Terminals (Incoming Edges)
+Hyperedge - follow graph, match for Vertices ; 
 
 ---
 
