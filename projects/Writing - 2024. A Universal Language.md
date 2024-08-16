@@ -36,6 +36,8 @@ edge; graph of vertices it's made out of
 Vertex references another vertex  
 edge references another edge
 
+Vertex - follow entire graph, match for 
+
 ---
 
 
