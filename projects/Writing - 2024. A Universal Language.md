@@ -134,12 +134,10 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - Collapsing to a point (from both sides)
 
 - Boolean
-	- - Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
+	- Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
-- and=and difference perspective (.add` on vertices -> equiv initial from one side, terminal from other side.)
-- single equivalence?
-
+- .add integers: single equivalence; ` on vertices -> equiv initial from one side, terminal from other side.)
 
 `.set`, ` = `, `assign` (add to (compose with) `.self`)
 - Close to `.and`
