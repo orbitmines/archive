@@ -1,5 +1,7 @@
 *Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
+"Capturing: What is the essence of differences and similarities"
+
 *Thoughts going over 2022-2023 notebook (reprocessing)*
 - [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (**superposed** extremes).
 	- [ ] "Draw a line between anything and say 'what if they're the same'"
@@ -156,17 +158,12 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 	- Cohomology, ..., not collapsable if something stops this from happening.
 
----
- 
- - What is the essence of differences and equivalences/sameness
-
-
 ##### "Superpose in more detail"
 back & into.self
 
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
 	- ref on self-reference?
-	- "Can abstractly only satisfy a loop through another loop? While pattern matching?"
+	- "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
 	- Some way to conceptualize a qubit as pattern matched on any other thing ; similar to the "push structure inside thing."
 	- ; So that would be like finding the higher-arity structure there, and selecting it like the vertex on vertex, having it branch off.
 	- ; So similarly, it's infinity groupoids which break the recursion of the stack. So the `.is_orbit`s.
