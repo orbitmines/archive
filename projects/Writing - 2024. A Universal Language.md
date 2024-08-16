@@ -39,6 +39,8 @@ edge references another edge
 Vertex - follow graph, match for Initials (Outgoing Edges) & Terminals (Incoming Edges)
 Hyperedge - follow graph, match for Vertices (graphs of initials/terminals)
 
+Vertex in a normal graph is like a hyperedge?
+
 ---
 
 
