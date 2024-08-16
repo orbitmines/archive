@@ -14,6 +14,8 @@
 	- [ ] .terminal = .initial (self-referential ray like this)
 	- [ ] **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
 		- [ ] Similarly, always a "superposed type" ; as structure??
+		- [ ] It is ordered from one perspective, unordered from another.
+			- [ ] Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
 	- [ ] Way of interpreting possible representations (as equivalences, but then for a particular purpose);
 	- [ ] Propagate next time step: each ray with a separate causal history
 	- [ ] What if the `.initial` is many, instead of relying on a single one which branches to many. So how Chyp's edge's work: many sources, to many targets. Could also use like `.self` that `.initial` & `.terminal` are necessarily an equivalency frame, where it's not obvious that there's a connection back. So there's a difference in `.self` & `.initial/.terminal` - remove this difference?
@@ -130,6 +132,8 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - and=and difference perspective (.add` on vertices -> equiv initial from one side, terminal from other side.)
 - validity; checks as superposed maybe
 - single equivalence?
+- Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
+
 `.set`, ` = `, `assign`
 - Close to `.and`
 - `assign`, add to (compose with) `.self`
@@ -155,11 +159,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 ---
  
  - What is the essence of differences and equivalences/sameness
-- Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
-- empty on .self, vs .self ref vs ref, ; selection of two boundaries.
-- Only difference is the assymetry of is_orbit and the consequences of that if self/initial/terminal all are is_orbit that of another  
-- Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
-- It is ordered from one perspective, unordered from another.
 
 
 ##### "Superpose in more detail"
