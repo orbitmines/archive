@@ -41,7 +41,7 @@ Hyperedge - follow graph, match for Vertices (graphs of initials/terminals)
 
 Vertex in a normal graph is like a hyperedge?
 
-In hypergraphs, the vertices and edges are separated, in the case of reprogrammability, this becomes less obvious. When vertices mention vertices instead of edges,
+In hypergraphs, the vertices and edges are separated, in the case of reprogrammability, this becomes less obvious; When vertices mention vertices instead of edges, and edges mention other edges instead of vertices, determining whether something is an edge or vertex becomes contextual/.../dynamic.  
 
 ---
 
