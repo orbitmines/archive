@@ -26,9 +26,7 @@ Read
 - [ ] https://github.com/AMDESE/amd_ucode_info
 - [ ] https://www.mov-axbx.com/wopr/wopr_concept.html
 - [ ] https://github.com/hughperkins/VeriGPU
-
 - [ ] https://www.feynmanlectures.caltech.edu/I_toc.html
-
 - [ ] https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation
 - [ ] https://www.unitree.com/
 - [ ]  Post-Silicon Validation ?
@@ -42,7 +40,7 @@ Read
 - [ ] https://en.wikipedia.org/wiki/Alfv%C3%A9n_wave
 - [ ] https://en.wikipedia.org/wiki/History_of_Maxwell's_equations
 - [ ] https://en.wikipedia.org/wiki/Weak_interaction
-- [ ] 
+*Quantum*
 - [ ] https://en.wikipedia.org/wiki/Asymptotic_freedom
 - [ ] https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics
 - [ ] https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory
