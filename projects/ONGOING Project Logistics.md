@@ -43,14 +43,9 @@ Game industry profiles setup
 - [ ] Steam profile, gameindustry dutch signup, steam, etc...
 	- [ ] Steam distro is 100 USD fee or something?
 
-- [ ] 
-
-
 ---
 
-- [ ] [[X, Twitter]]
 - [ ] https://scholar.google.com/citations?view_op=new_profile&hl=en  ; scholar profile if google indexes my face
-- [ ] Automatically log conversations with people into some structure here. (from certain platforms?)
 
 https://github.com/mattermost/mattermost
 https://github.com/42wim/matterbridge
