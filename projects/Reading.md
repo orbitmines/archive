@@ -5,7 +5,6 @@
 
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7
 
-- [ ] Google chrome reading list
 - [ ] Papers we love, to read?  
 - [ ] Read up on [[Lee Cronin]]'s work  
 
