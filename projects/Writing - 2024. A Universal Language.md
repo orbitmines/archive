@@ -1,6 +1,7 @@
 *Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
-"Capturing: What is the essence of differences and similarities"
+- "Capturing: What is the essence of differences and similarities"
+- Have some nice translations for these concepts: (hyper-/)'Vertex', (hyper-/)'Edge', (hyper-/)'Graph', (hyper-/)'Rule', (hyper-/)'Tactic', (hyper-/)..., (hyper-/)'Rewrite'
 
 *Thoughts going over 2022-2023 notebook (reprocessing)*
 - [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (**superposed** extremes).
