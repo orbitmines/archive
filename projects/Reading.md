@@ -11,6 +11,8 @@
 
 - [ ] [[Judea Pearl]]'s Book of why?
 - [ ] https://press.princeton.edu/books/paperback/9780691138718/fearless-symmetry
+- [ ] https://www.amazon.es/Inconsistent-Geometry-Studies-Logic-Mortensen/dp/1848900228
+- [ ] 
 
 - [ ] https://leibniz-katalog.bbaw.de/en
 
