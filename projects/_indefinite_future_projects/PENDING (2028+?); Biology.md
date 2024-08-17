@@ -20,6 +20,8 @@ Read
 	- [ ] morphogen?
 - [ ] https://ultradao.to/info
 - [ ] https://github.com/google-deepmind/alphafold
+- [ ] Conferences/Symposiums
+	- [ ] https://psb.stanford.edu/
 
 People, [[Gizem Gumuskaya]]
 
