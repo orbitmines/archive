@@ -33,8 +33,6 @@ Read
 - [ ] https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation
 - [ ] https://www.unitree.com/
 - [ ]  Post-Silicon Validation ?
-- [ ] https://en.wikipedia.org/wiki/White_hole
-- [ ] https://en.wikipedia.org/wiki/Torsion_field_(pseudoscience)
 - [ ] https://discordapp.com/channels/844566471501414463/1111689941848694924/1248949135239942316
 - [ ] https://books.google.nl/books/about/Introduction_to_Elementary_Particles.html?id=dGIOEAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y#v=onepage&q&f=false
 - [ ] https://github.com/philipturner/bootstrapping-code-archive
@@ -42,7 +40,8 @@ Read
 	- [ ] https://en.wikipedia.org/wiki/Asymptotic_freedom
 	- [ ] https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics
 	- [ ] https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory
-	- [ ] 
+	- [ ] https://en.wikipedia.org/wiki/Elitzur%E2%80%93Vaidman_bomb_tester
+	- [ ] https://en.wikipedia.org/wiki/Quantum_entanglement
 
 Discovery data
 - [ ] Higgs boson discovery data & others, where/are these things indexed?
