@@ -345,7 +345,7 @@ export const is_async_iterable = <T = any>(_object: any): _object is AsyncIterab
 export const is_array = <T = any>(_object: any): _object is T[] => _.isArray(_object);  
 export const is_async = (_object: any) => _.has(_object, 'then') && is_function(_.get(_object, 'then')); // TODO, Just an ugly check  
 export const is_error = (_object: any): _object is Error => _.isError(_object);  
-export const is_function = (_object: any): _object is ((...args: any[]) => any) => _.isFunction(_object);  
+ 
   
 
 
