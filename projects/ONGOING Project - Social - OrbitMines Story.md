@@ -62,6 +62,7 @@ In any case, now in Fallen Kingdom style, I'm still picking up the pieces. Perha
 
 Until realization catches up with imagined dreams.
 
-
-
 ---
+
+## Arc II
+*Chapter I - ??*
