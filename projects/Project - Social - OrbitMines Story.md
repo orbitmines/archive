@@ -50,7 +50,7 @@ Perhaps, again, all you lack is a dirty mirror....
 
 You see, the problem the Mule had, was that his restless pursuit made him blind to the obvious. Unable to contain himself to his own little universe. Unable to give an allowance to boredom. In his blindness, a fuel for his energy was sought. A yearning which did not satisfy easily.
 
-Surprisingly, it doesn't matter much how stable you think your mind is. In an instant a single bit-flip of being blind is enough to send you on that pursuit-train. In that obsessive search, never looking back, never contemplating the path that sent you there.
+Surprisingly, it doesn't matter much how stable you think your mind is. In an instant, a single bit-flip of being blind is enough to send you on that pursuit-train. In that obsessive search, never looking back, never contemplating the path that sent you there.
 
 And so it was for this pretend-Mule, that on an unsuspecting evening in May after having spent some time with friends, the unexpected happened. Tired yet unable to sleep, I bought a ticket on that train which led me down this multi-month journey to find back coherence. Though an amusing tale, its details matter little. The fact that your mind can enter a fail-mode itself says enough, and evidently that it can do so with striking regularity.
 
