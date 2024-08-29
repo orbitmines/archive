@@ -258,6 +258,8 @@ Header
 
 Process:
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction
+- Forced orbit around a point as default data structure, necessarily circular orbit
+- Want to allow for conflicting perspectives, of which aspects can still be invariant
 
 postponed (from 2023):
  * TODO ; Composability is Non-locality?  
