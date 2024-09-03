@@ -8,17 +8,11 @@
 - [ ] Papers we love, to read?  
 - [ ] Read up on [[Lee Cronin]]'s work  
 
-- [ ] [[Judea Pearl]]'s Book of why?
-- [ ] https://press.princeton.edu/books/paperback/9780691138718/fearless-symmetry
+- [ ] [[Judea Pearl]]'s Book of why? 
 - [ ] https://www.amazon.es/Inconsistent-Geometry-Studies-Logic-Mortensen/dp/1848900228
-- [ ] 
+
 
 - [ ] https://leibniz-katalog.bbaw.de/en
-
-- [ ] https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/
-
-- [ ] https://cybercat.institute/2024/06/28/yoga-contexts/
-- [ ] https://cybercat.institute/2024/04/15/neural-network-first-principles/
 
 - [ ] https://fuglede.github.io/llama.ttf/
 - [ ] https://github.com/karpathy/llm.c
