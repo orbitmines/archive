@@ -8,7 +8,7 @@
 - [ ] Papers we love, to read?  
 - [ ] Read up on [[Lee Cronin]]'s work  
 
-- [ ] [[Judea Pearl]]'s Book of why? 
+- [ ] [[Judea Pearl]]'s Book of why?
 - [ ] https://www.amazon.es/Inconsistent-Geometry-Studies-Logic-Mortensen/dp/1848900228
 
 
