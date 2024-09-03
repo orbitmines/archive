@@ -37,8 +37,6 @@ World Generation
 - [ ] 
 
 Read
-- [ ] https://gilmorejon.wordpress.com/2024/04/24/open-world-blues-on-mechanical-dynamism-and-difficulty-curves/?blogid=121042342&blogsub=confirming#subscribe-blog
-- [ ] https://www.elopezr.com/life-and-death-of-a-graphics-programmer/
 - [ ] 
 
 ###### Open explorations/quests
@@ -161,6 +159,7 @@ Rendering Engine
 - [ ] https://siboehm.com/articles/22/CUDA-MMM
 - [ ] https://jbaker.graphics/
 - [ ] https://thebookofshaders.com/07/
+	- [ ] How is GLSL used in WebGL, three.js and game engines?
 - [ ] https://otoro.net/ml/
 - [ ] overlayed, layers in window (https://www.fxhash.xyz/vertex/entangled)
 
