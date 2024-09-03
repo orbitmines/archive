@@ -160,7 +160,7 @@ People: [[Pinar Temiz]], ..
 Rendering Engine
 - [ ] https://siboehm.com/articles/22/CUDA-MMM
 - [ ] https://jbaker.graphics/
-- [ ] https://thebookofshaders.com/
+- [ ] https://thebookofshaders.com/07/
 - [ ] https://otoro.net/ml/
 - [ ] overlayed, layers in window (https://www.fxhash.xyz/vertex/entangled)
 

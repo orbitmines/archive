@@ -1,6 +1,5 @@
 
 ##### Reading  
-- [ ] https://thebookofshaders.com/
 - [ ] Computational neuro: https://compneuro.neuromatch.io/tutorials/intro.html
 
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7
