@@ -75,7 +75,9 @@ Discovery data
 
 - https://discord.com/channels/1068976834382925865/1068976834928193609/1221543200213176340
 	- AMD docs: https://gitlab.freedesktop.org/tomstdenis/umr
-		- 
+
+Read
+- [ ] https://en.algorithmica.org/hpc/complexity/
 
 dwave?
 
