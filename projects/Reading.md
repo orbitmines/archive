@@ -12,8 +12,6 @@
 - [ ] https://www.amazon.es/Inconsistent-Geometry-Studies-Logic-Mortensen/dp/1848900228
 
 
-- [ ] https://leibniz-katalog.bbaw.de/en
-
 - [ ] https://fuglede.github.io/llama.ttf/
 - [ ] https://github.com/karpathy/llm.c
 - [ ] https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
