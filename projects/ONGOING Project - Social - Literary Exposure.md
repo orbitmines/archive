@@ -84,6 +84,17 @@ console.log(res);
 - :wolfram: [Are All Fish the Same Shape if You Stretch Them? The Victorian Tale of On Growth and Form (2017)](https://writings.stephenwolfram.com/2017/10/are-all-fish-the-same-shape-if-you-stretch-them-the-victorian-tale-of-on-growth-and-form/) ; *Stephen Wolfram*
 - :wolfram: [What’s Really Going On in Machine Learning? Some Minimal Models (2024)](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/) ; *Stephen Wolfram*
 
+- :youtube: [The Breakthrough We’ve Been Waiting For](https://www.youtube.com/watch?v=cUj2TcZSlZc)  
+- :youtube: [Mindscape 287 | Jean-Paul Faguet on Institutions and the Legacy of History](https://www.youtube.com/watch?v=FKVmYeU11y0)  
+- :youtube: [The Hydrogen Atom, Part 1 of 3: Intro to Quantum Physics](https://www.youtube.com/watch?v=-Y0XL-K0jy0)  
+- :youtube: [Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438](https://www.youtube.com/watch?v=Kbk9BiPhm7o)  
+- :youtube: [The Crisis in (Fundamental) Physics is Worse Than You Think...](https://www.youtube.com/watch?v=9AoRxtYZrZo)  
+- :youtube: [Live Science | Spinal Graphs | Hypergraph Confluence, Symmetry and Efficiency](https://www.youtube.com/watch?v=uZkqNDIOQLs)  
+- :youtube: [Live Science | Infrageometry: Correspondences | Differential Geometry, Hypergraph Rewriting](https://www.youtube.com/watch?v=Mr1zfZtoFX0)  
+- :youtube: [Live Science | Quantum Paradoxes | Delayed Choice Quantum Eraser, CHSH Game, Quasiprobabilities](https://www.youtube.com/watch?v=rTKSWObWtNE)  
+- :youtube: [Michael Levin: Consciousness, Biology, Universal Mind, Emergence, Cancer Research](https://www.youtube.com/watch?v=c8iFtaltX-s)  
+- :youtube: [Sara Walker: Physics of Life, Time, Complexity, and Aliens | Lex Fridman Podcast #433](https://www.youtube.com/watch?v=wwhTfyX9J34)
+
 - :wikipedia: Wikipedia Articles: [Blaise_Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal), [Destination_Earth_(European_Union)](https://en.wikipedia.org/wiki/Destination_Earth_(European_Union)), [Edvard_Moser](https://en.wikipedia.org/wiki/Edvard_Moser), [Existential_graph](https://en.wikipedia.org/wiki/Existential_graph), [Karl_Sims](https://en.wikipedia.org/wiki/Karl_Sims), [Peter_Gärdenfors](https://en.wikipedia.org/wiki/Peter_G%C3%A4rdenfors), [Quantum_entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 
 
