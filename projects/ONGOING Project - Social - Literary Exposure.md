@@ -78,7 +78,8 @@ console.log(res);
 # 2024, June, July & August - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- [I. -- Computing Machinery and Intelligence]
+- [Computing Machinery and Intelligence (1950)](https://academic.oup.com/mind/article/LIX/236/433/986238?url=http://szyxflb.com&login=false) ; *A. M. Turing*
+- 
 
 # 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
