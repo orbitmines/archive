@@ -84,7 +84,7 @@ console.log(res);
 - :wolfram: [Are All Fish the Same Shape if You Stretch Them? The Victorian Tale of On Growth and Form (2017)](https://writings.stephenwolfram.com/2017/10/are-all-fish-the-same-shape-if-you-stretch-them-the-victorian-tale-of-on-growth-and-form/) ; *Stephen Wolfram*
 - :wolfram: [What’s Really Going On in Machine Learning? Some Minimal Models (2024)](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/) ; *Stephen Wolfram*
 
-- :wikipedia: Wikipedia Articles: [Blaise_Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal), [Destination_Earth_(European_Union)](https://en.wikipedia.org/wiki/Destination_Earth_(European_Union)), [Edvard_Moser](https://en.wikipedia.org/wiki/Edvard_Moser), [Existential_graph](https://en.wikipedia.org/wiki/Existential_graph), [Karl_Sims](https://en.wikipedia.org/wiki/Karl_Sims), [Peter_G\303\244rdenfors.pdf"](https://en.wikipedia.org/wiki/Peter_G\303\244rdenfors.pdf"), [Quantum_entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
+- :wikipedia: Wikipedia Articles: [Blaise_Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal), [Destination_Earth_(European_Union)](https://en.wikipedia.org/wiki/Destination_Earth_(European_Union)), [Edvard_Moser](https://en.wikipedia.org/wiki/Edvard_Moser), [Existential_graph](https://en.wikipedia.org/wiki/Existential_graph), [Karl_Sims](https://en.wikipedia.org/wiki/Karl_Sims), [Peter_Gärdenfors](https://en.wikipedia.org/wiki/Peter_G%C3%A4rdenfors), [Quantum_entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 
 # 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
