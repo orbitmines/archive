@@ -18,7 +18,7 @@ find ./_/attachments/read/ -type f -newermt 2024-06-01
 
  git whatchanged --since '2024/04/01' --until '2024/04/30' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia
  
- git whatchanged --since '2024/05/01' --until '2024/06/04' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
+ git whatchanged --since '2024/06/01' --until '2024/09/01' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
 
 git log --since="1 month ago" --diff-filter=ACM --name-only | grep /read/wikipedia | sort | uniq | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
 
@@ -81,7 +81,7 @@ console.log(res);
 - [Computing Machinery and Intelligence (1950)](https://academic.oup.com/mind/article/LIX/236/433/986238?url=http://szyxflb.com&login=false) ; *A. M. Turing*
 - [Von Neumann and Lattice Theory (1958)](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-64/issue-3.P2/Von-Neumann-and-lattice-theory/bams/1183522370.pdf) ; *Garrett Birkhoff*
 - :wolfram: [When Exactly Will the Eclipse Happen? A Multimillennium Tale of Computation (2024)](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/) ; *Stephen Wolfram*
-- :wolfram: [When Exactly Will the Eclipse Happen? A Multimillennium Tale of Computation (2024)](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/) ; *Stephen Wolfram*
+- :wolfram: [Are All Fish the Same Shape if You Stretch Them? The Victorian Tale of On Growth and Form (2017)](https://writings.stephenwolfram.com/2017/10/are-all-fish-the-same-shape-if-you-stretch-them-the-victorian-tale-of-on-growth-and-form/) ; *Stephen Wolfram*
 - :wolfram: [What’s Really Going On in Machine Learning? Some Minimal Models (2024)](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/) ; *Stephen Wolfram*
 
 # 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
