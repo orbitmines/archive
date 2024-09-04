@@ -14,7 +14,7 @@ The last 10 months of my literary exposure (2023-07 - 2024-04)
 ```shell
 cd ~/Desktop/orbitmines/private-journal/
 
-find ./_/_/attachments/read/ -type f -newermt 2024-06-01
+find ./_/attachments/read/ -type f -newermt 2024-06-01
 
  git whatchanged --since '2024/04/01' --until '2024/04/30' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia
  
