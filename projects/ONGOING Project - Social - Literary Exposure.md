@@ -86,6 +86,7 @@ console.log(res);
 
 - :wikipedia: Wikipedia Articles: [Blaise_Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal), [Destination_Earth_(European_Union)](https://en.wikipedia.org/wiki/Destination_Earth_(European_Union)), [Edvard_Moser](https://en.wikipedia.org/wiki/Edvard_Moser), [Existential_graph](https://en.wikipedia.org/wiki/Existential_graph), [Karl_Sims](https://en.wikipedia.org/wiki/Karl_Sims), [Peter_Gärdenfors](https://en.wikipedia.org/wiki/Peter_G%C3%A4rdenfors), [Quantum_entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 
+
 # 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
