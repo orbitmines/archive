@@ -77,13 +77,18 @@ console.log(res);
 
 # 2024, August - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
+### Literary Exposure
+
+
 # 2024, July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
 
+
 # 2024, June - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
+
 
 # 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
