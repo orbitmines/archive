@@ -79,7 +79,7 @@ console.log(res);
 
 ### Literary Exposure
 - [Computing Machinery and Intelligence (1950)](https://academic.oup.com/mind/article/LIX/236/433/986238?url=http://szyxflb.com&login=false) ; *A. M. Turing*
-- 
+- [Von Neumann and Lattice Theory (1958)](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-64/issue-3.P2/Von-Neumann-and-lattice-theory/bams/1183522370.pdf) ; *Garrett Birkhoff*
 
 # 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
