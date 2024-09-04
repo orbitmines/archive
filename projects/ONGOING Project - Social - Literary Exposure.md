@@ -80,6 +80,9 @@ console.log(res);
 ### Literary Exposure
 - [Computing Machinery and Intelligence (1950)](https://academic.oup.com/mind/article/LIX/236/433/986238?url=http://szyxflb.com&login=false) ; *A. M. Turing*
 - [Von Neumann and Lattice Theory (1958)](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-64/issue-3.P2/Von-Neumann-and-lattice-theory/bams/1183522370.pdf) ; *Garrett Birkhoff*
+- :wolfram: [When Exactly Will the Eclipse Happen? A Multimillennium Tale of Computation (2024)](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/) ; *Stephen Wolfram*
+- :wolfram: [When Exactly Will the Eclipse Happen? A Multimillennium Tale of Computation (2024)](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/) ; *Stephen Wolfram*
+- :wolfram: [What’s Really Going On in Machine Learning? Some Minimal Models (2024)](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/) ; *Stephen Wolfram*
 
 # 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
