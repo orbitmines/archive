@@ -90,7 +90,7 @@ console.log(res);
 - :youtube: [Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438](https://www.youtube.com/watch?v=Kbk9BiPhm7o)  
 - :youtube: [The Crisis in (Fundamental) Physics is Worse Than You Think...](https://www.youtube.com/watch?v=9AoRxtYZrZo)  
 - :youtube: [Live Science | Spinal Graphs | Hypergraph Confluence, Symmetry and Efficiency](https://www.youtube.com/watch?v=uZkqNDIOQLs)  
-- :youtube: [Live Science | Infrageometry: Correspondences | Differential Geometry, Hypergraph Rewriting](https://www.youtube.com/watch?v=Mr1zfZtoFX0)  
+- :youtube: :wolfram_institute: [Live Science | Infrageometry: Correspondences | Differential Geometry, Hypergraph Rewriting](https://www.youtube.com/watch?v=Mr1zfZtoFX0)  
 - :youtube: [Live Science | Quantum Paradoxes | Delayed Choice Quantum Eraser, CHSH Game, Quasiprobabilities](https://www.youtube.com/watch?v=rTKSWObWtNE)  
 - :youtube: [Michael Levin: Consciousness, Biology, Universal Mind, Emergence, Cancer Research](https://www.youtube.com/watch?v=c8iFtaltX-s)  
 - :youtube: [Sara Walker: Physics of Life, Time, Complexity, and Aliens | Lex Fridman Podcast #433](https://www.youtube.com/watch?v=wwhTfyX9J34)
