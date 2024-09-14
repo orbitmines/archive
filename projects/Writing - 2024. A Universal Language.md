@@ -508,4 +508,21 @@ Types as boolean values in 3-size arrays
 
 ---
 
+1-circle fits 2-circle fits 3-circle,  
+  
+Can't move through concept as a terminal to a something? Important concept. Then also" spawns" a direction, the usecase of that being an eval?  
+  
+What about incomplete or partial casaul histories?  
+  
+Simple 2d-grid, work out possible ways of representing it  
+  
+What are other ways of thinking about points  
+  
+Edges are vertices in another hypergraph  
+  
+different perspectives as coexisting, ignoring the ray, ...  
+  
+In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
+
+---
 
