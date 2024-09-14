@@ -297,8 +297,6 @@ def perspective(self) -> Ray: raise NotImplementedError
 
 # def filter / search
 
-kwargs / args  # TODO: Named args in the sense, similar to class definition, in the sense that they equivalences on the existing functions. Again this thing of assign.
-
 
 
 # EXTREMES
