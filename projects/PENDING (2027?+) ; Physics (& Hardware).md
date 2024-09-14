@@ -373,3 +373,33 @@ Not so sure about these points:
 [[2024-05-08]]
 Supermarasive blackholes that would've merged, already merged, that's why you don't see them. Not this "smaller ones that need to merge to get larger ones" - like on the podcast with Chiara
 
+
+---
+
+Coherence in type information vs coherence in value. Only the former for binary op  
+  
+Initial,self,terminal as 3 sepwrate pointers, or as whole, and saying they're already directly the ewuivalence rays.  
+  
+Always finite, but with modular property, so *as_iterable always returns finite rays. But still carries the modular info how?  
+  
+Ray  
+Selection ; proxy
+
+---
+
+The extreme pattern of follow this direction to its end, is what causes it to be ignored, which is why it has its effect on thinking, how is this intuitively done?  
+  
+Example where binary values have some other semantic meaning, and have a way of overlapping these things.  
+  
+A number embedded in a 2d grid vs no embedding, or a 2d grid as a number (would assume structure), whereas normal numbers don't except for their numerical value  
+  
+Two intersecting VERTEX can be interpreted as noninterfering superposed structures?  
+Similarly the distinction between nodes and extremes are in some way determined through noninteraction?
+
+---
+
+Default data structure collapsing a single direction all the way? So points, lists of geaphs which define connections, how to think about that usefully?
+
+
+---
+
