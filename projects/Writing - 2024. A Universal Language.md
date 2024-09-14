@@ -257,7 +257,7 @@ Header
 ---
 
 Process:
-- Inconsistency is statement of reprogrammability - or multiple levels of abstraction
+- Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
 - Forced orbit around a point as default data structure, necessarily circular orbit
 - Want to allow for conflicting perspectives, of which aspects can still be invariant
 
