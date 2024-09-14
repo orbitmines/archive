@@ -14,11 +14,11 @@ The last 10 months of my literary exposure (2023-07 - 2024-04)
 ```shell
 cd ~/Desktop/orbitmines/private-journal/
 
-find ./_/_/attachments/read/ -type f -newermt 2024-05-01
+find ./_/attachments/read/ -type f -newermt 2024-06-01
 
  git whatchanged --since '2024/04/01' --until '2024/04/30' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia
  
- git whatchanged --since '2024/05/01' --until '2024/06/04' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
+ git whatchanged --since '2024/06/01' --until '2024/09/01' --oneline --name-only --pretty=format: | sort | uniq | grep /read/wikipedia | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
 
 git log --since="1 month ago" --diff-filter=ACM --name-only | grep /read/wikipedia | sort | uniq | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
 
@@ -74,6 +74,28 @@ console.log(res);
 ---
 
 ![[Pasted image 20240604084826.png]]
+
+# 2024, June, July & August - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+
+### Literary Exposure
+- [Computing Machinery and Intelligence (1950)](https://academic.oup.com/mind/article/LIX/236/433/986238?url=http://szyxflb.com&login=false) ; *Alan M. Turing*
+- [Von Neumann and Lattice Theory (1958)](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-64/issue-3.P2/Von-Neumann-and-lattice-theory/bams/1183522370.pdf) ; *Garrett Birkhoff*
+- :wolfram: [When Exactly Will the Eclipse Happen? A Multimillennium Tale of Computation (2024)](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/) ; *Stephen Wolfram*
+- :wolfram: [Are All Fish the Same Shape if You Stretch Them? The Victorian Tale of On Growth and Form (2017)](https://writings.stephenwolfram.com/2017/10/are-all-fish-the-same-shape-if-you-stretch-them-the-victorian-tale-of-on-growth-and-form/) ; *Stephen Wolfram*
+- :wolfram: [What’s Really Going On in Machine Learning? Some Minimal Models (2024)](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/) ; *Stephen Wolfram*
+
+- :youtube: [The Hydrogen Atom: Intro to Quantum Physics](https://www.youtube.com/watch?v=-Y0XL-K0jy0) ; *Richard Behiel*  
+- :youtube: :mindscape: [Mindscape 287 | Institutions and the Legacy of History](https://www.youtube.com/watch?v=FKVmYeU11y0) ; *Jean-Paul Faguet, Sean Carroll*  
+- :youtube: :wolfram_institute: [Live Science | Spinal Graphs | Hypergraph Confluence, Symmetry and Efficiency](https://www.youtube.com/watch?v=uZkqNDIOQLs)  
+- :youtube: :wolfram_institute: [Live Science | Infrageometry: Correspondences | Differential Geometry, Hypergraph Rewriting](https://www.youtube.com/watch?v=Mr1zfZtoFX0)  
+- :youtube: :wolfram_institute: [Live Science | Quantum Paradoxes | Delayed Choice Quantum Eraser, CHSH Game, Quasiprobabilities](https://www.youtube.com/watch?v=rTKSWObWtNE)  
+- :youtube: :toe: [Consciousness, Biology, Universal Mind, Emergence, Cancer Research](https://www.youtube.com/watch?v=c8iFtaltX-s) ; *Michael Levin, Curt Jaimungal*  
+- :youtube: :toe: [The Crisis in (Fundamental) Physics is Worse Than You Think...](https://www.youtube.com/watch?v=9AoRxtYZrZo) ; *Sean Carroll, Curt Jaimungal*  
+- :youtube: :lex_fridman_podcast: [Neuralink and the Future of Humanity | Lex Fridman Podcast #438](https://www.youtube.com/watch?v=Kbk9BiPhm7o)  
+- :youtube: :lex_fridman_podcast: [Physics of Life, Time, Complexity, and Aliens | Lex Fridman Podcast #433](https://www.youtube.com/watch?v=wwhTfyX9J34) ; *Sara Walker, Lex Fridman*
+
+- :wikipedia: Wikipedia Articles: [Blaise_Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal), [Destination_Earth_(European_Union)](https://en.wikipedia.org/wiki/Destination_Earth_(European_Union)), [Edvard_Moser](https://en.wikipedia.org/wiki/Edvard_Moser), [Existential_graph](https://en.wikipedia.org/wiki/Existential_graph), [Karl_Sims](https://en.wikipedia.org/wiki/Karl_Sims), [Peter_Gärdenfors](https://en.wikipedia.org/wiki/Peter_G%C3%A4rdenfors), [Quantum_entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
+
 
 # 2024, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
