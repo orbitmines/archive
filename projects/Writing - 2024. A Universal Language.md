@@ -482,4 +482,7 @@ How about for physics, initial tries to go to initial, terminal to terminal, and
 
 ---
 
+for filters, what ends up at some target, instead of just the target (translations that sort of thing)
+
+
 
