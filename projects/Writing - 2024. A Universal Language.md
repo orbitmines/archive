@@ -319,10 +319,6 @@ def orbit(a, b: Arbitrary) -> Ray:
 
   return a
 
-# TODO: Other layer of abstraction waiting for .next step function - will hook into anything that finishes, and allows already composing stuff after .last .
-def last(self) -> Ray: raise NotImplementedError
-
-
 def has_next(self) -> Ray: return self.next().is_some
 
 # COPYING
