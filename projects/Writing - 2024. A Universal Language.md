@@ -304,10 +304,6 @@ kwargs / args  # TODO: Named args in the sense, similar to class definition, in 
 # EXTREMES
 # Traverse as extreme>?
 
-# .next/.has_next/.last
-# .previous/.has_previous/.first
-# .boundary/.has_boundary/.extremes
-
 #
 # - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility
 # TODO: Make use of extremes (.last/.first as extreme
