@@ -83,11 +83,6 @@ parallel just means composing boundaries of either terminals, or initials.
 `.is_extreme`
 - Extremes as superposed pattern matcher.
 
-`.equivalent`, `.is_equivalent`
-- Equivalence at continuation is parallel composition
-
-`compose`, `.is_composed`
-
 `.all`
 - Prepare on the boundary, then shove it through. - lazy func
 - `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
