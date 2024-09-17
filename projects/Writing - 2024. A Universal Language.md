@@ -272,14 +272,10 @@ def readonly() -> Ray: raise NotImplementedError
 
 # TODO, writeonly would be?
 
-# Any arbitrary direction, where reversing the direction relies on some arbitrary memory mechanism
 def memoized(self) -> Ray:
 # = cached
-# TODO: Better ideas what local caching looks like, (i.e. put it in some local structure to cache, this can be delayed till some useful implementation is ready)
-# res = self.next
-# res.initial = self    # return res    raise NotImplementedError
+# TODO: Better ideas what local caching looks like
 
-def push_back(a, b: Arbitrary) -> Ray: return a.last().compose(b)
 # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...
 
 def from_perspective_of(a, b):
