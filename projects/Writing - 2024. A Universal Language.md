@@ -92,10 +92,6 @@ parallel just means composing boundaries of either terminals, or initials.
 - Latch the initial, latch the .self, latch the .terminal, and we determine movement.
 - those traversal layers on branches which dont go left/right but only one direction?
 - Ignorance/equivalence along arbitrary rays. = Equivalence
-
-`.memoized`
- - .memoized is always orbit consistency in anything we traverse
-
 `.rewrite`, `.replace`, `.collapse`
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
