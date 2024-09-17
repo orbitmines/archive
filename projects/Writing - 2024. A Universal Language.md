@@ -424,11 +424,7 @@ class Ray<T = any> {
     return this;  
   }  
 
-  is_reference = () => this.is_initial() && this.is_terminal();  
-  is_boundary = () => xor(this.is_initial(), this.is_terminal())  
-  is_vertex = () => nor(this.is_initial(), this.is_terminal())  
-  is_extreme = () => this.is_none() && this.is_boundary()  
-  is_wall = () => this.is_none() && !this.is_initial() && !this.is_terminal()  
+ 
   
 }
 ```
