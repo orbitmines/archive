@@ -284,21 +284,11 @@ def perspective(self) -> Ray: raise NotImplementedError
 
 # def filter / search
 
-
-
-# EXTREMES
 # Traverse as extreme>?
 
 #
 # - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility
-# TODO: Make use of extremes (.last/.first as extreme
-def orbit(a, b: Arbitrary) -> Ray:
-  # - TODO: If we're only doing one end: This already assumes they are connected on the other end.
-  # - TODO: should be a connection here, with is_composed ; or "reference.is_equivalent" so that you can drop one of the sides, or both.
-  b.last().compose(a.first())
-  a.first().compose(b.last())
 
-  return a
 
 def has_next(self) -> Ray: return self.next().is_some
 
