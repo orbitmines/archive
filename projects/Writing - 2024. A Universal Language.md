@@ -405,31 +405,6 @@ class Ray {
 `.initial/.terminal = .is_none or this.initial = this.self`
 - The difference being interpretation
 
-
-```ts
-const xor = (a: boolean, b: boolean) => (a && !b) || (a! && b)  
-const nor = (a: boolean, b: boolean) => !(a || b)  
-  
-let join_iterators = function*<T>(...iterators: Iterable<T>[]) {  
-  for (let iterator of iterators) yield* iterator;  
-};  
-  
-class Ray<T = any> {  
-  initial: Iterable<Ray<T>> | undefined  
-  self: T  
-  terminal: Iterable<Ray<T>> | undefined  
-  
-  compose = (b: Ray<T>): Ray<T> => {  
-    this.terminal = b.initial = join_iterators(this.terminal, b.initial);  
-    return this;  
-  }  
-
- 
-  
-}
-```
-
-
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
