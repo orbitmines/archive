@@ -223,7 +223,6 @@ Header
 - Tensor
 	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
 	- TODO: zip, tensor (are these the same as match/switch?)
-- xor/xnor is close to   # TODO: Could be 'is_equivalent' too? or is_orbit  ?
 - similar to next/anext into python await operator?
 - Encoding: Usually ignorant of its use
 - Superposed different inconsistent/logical systems
