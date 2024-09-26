@@ -55,7 +55,7 @@ In hypergraphs, the vertices and edges are separated, in the case of reprogramma
 
 What about dynamically changing rewrite rules, are those explored by anyone? ; some form of reprogrammability as foundational
 
-Interpreting; Functions, speeds, acceleration
+Interpreting; Functions (and coordinate spaces), speeds, acceleration
 
 ---
 
