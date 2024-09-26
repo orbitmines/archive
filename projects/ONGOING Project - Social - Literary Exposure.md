@@ -78,7 +78,8 @@ console.log(res);
 # 2024, September - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- []
+- [Hunters of Dune (2006)](https://en.wikipedia.org/wiki/Hunters_of_Dune) ; *Brian Herbert, Kevin J. Anderson*
+- [The Little Book of Deep Learning ()](https://fleuret.org/public/lbdl.pdf) ; 
 
 ---
 
