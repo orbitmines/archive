@@ -3,6 +3,8 @@
 - "Capturing: What is the essence of differences and similarities" ; Not just that something is equivalent, but how/why
 - Have some nice translations for these concepts: (hyper-/)'Vertex', (hyper-/)'Edge', (hyper-/)'Graph', (hyper-/)'Rule', (hyper-/)'Tactic', (hyper-/)..., (hyper-/)'Rewrite'
 
+
+
 *Thoughts going over 2022-2023 notebook (reprocessing)*
 - [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (**superposed** extremes).
 	- [ ] "Draw a line between anything and say 'what if they're the same'"
