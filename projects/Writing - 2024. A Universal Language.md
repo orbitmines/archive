@@ -2,6 +2,7 @@
 
 - "Capturing: What is the essence of differences and similarities" ; Not just that something is equivalent, but how/why
 - Have some nice translations for these concepts: (hyper-/)'Vertex', (hyper-/)'Edge', (hyper-/)'Graph', (hyper-/)'Rule', (hyper-/)'Tactic', (hyper-/)..., (hyper-/)'Rewrite'
+- "On Structure and Interaction"
 
 
 
