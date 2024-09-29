@@ -80,7 +80,9 @@ console.log(res);
 ### Literary Exposure
 - [Hunters of Dune (2006)](https://en.wikipedia.org/wiki/Hunters_of_Dune) ; *Brian Herbert, Kevin J. Anderson*
 - [The Little Book of Deep Learning (2023)](https://fleuret.org/public/lbdl.pdf) ; *François Fleuret*
-- [Preface: What is OpenGL? (2014)]() *Eddy Luten*
+- [Preface: What is OpenGL? (2014)](https://openglbook.com/chapter-0-preface-what-is-opengl.html#:~:text=On%20the%20most%20fundamental%20level,the%20finer%20details%20of%20OpenGL.) *Eddy Luten*
+- [Foundations of Bidirectional Programming I: Well-Typed Substructural Languages]()
+- [Foundations of Bidirectional Programming II: Negative Types]
 
 ---
 
