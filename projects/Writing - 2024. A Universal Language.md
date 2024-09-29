@@ -465,3 +465,16 @@ In compression tasks, is in the case of real numbers, the length of a fraction c
 
 ---
 
+Implement a simple getter /setter structure in the initial/terminals? as reversible memoized  
+  
+The larger the integer, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number) ; some loose analogy here to energy as a concept?  
+  
+Different way for binary numbers; flip a single ray upside down instead of two possible options, what's the difference in interpretation here? - No, this difference comes from the additional structure at the initial or terminal  
+  
+Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
+
+---
+
+All these non-psyhical things become physical if you introduce a timestep?  
+  
+Acceleration stopped by barrier, intuit ?
