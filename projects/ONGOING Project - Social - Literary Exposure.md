@@ -83,6 +83,7 @@ console.log(res);
 - [Preface: What is OpenGL? (2014)](https://openglbook.com/chapter-0-preface-what-is-opengl.html#:~:text=On%20the%20most%20fundamental%20level,the%20finer%20details%20of%20OpenGL.) *Eddy Luten*
 - [Foundations of Bidirectional Programming I: Well-Typed Substructural Languages (2024)](https://cybercat.institute/2024/08/26/bidirectional-programming-i/) ; *Jules Hedges*
 - [Foundations of Bidirectional Programming II: Negative Types (2024)](https://cybercat.institute/2024/09/05/bidirectional-programming-ii/) ; *Jules Hedges*
+- :wolfram: [Why Does Biological Evolution Work? A Minimal Model for Biological Evolution and Other Adaptive Processes (2024)](https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/) ; *Stephen Wolfram*
 
 ---
 
