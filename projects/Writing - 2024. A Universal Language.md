@@ -319,49 +319,14 @@ export const is_error = (_object: any): _object is Error => _.isError(_object);
  
   
 
-
-import _ from "lodash";  
-import {Dictionary, Function, is_boolean, is_function, is_iterable, is_number, is_object} from "./ray";  
   
 export type Recursive<T> = (T | Recursive<T | T[]>)[];  
   
 class Ray {  
-  
-  is_none = (self = this.proxy.self) => !('self' in self.self)  
+
 
   reverse = (self = this.proxy.self) => new self({ initial: self.terminal, self, terminal: self.initial })  
 
-  
-  static none = new Ray()  
-  static initial = Ray.none; static self = Ray.none; static terminal = Ray.none;  
-  
-  static undefined = Ray.none; static null = Ray.none;  
-  static boolean = (ray: boolean) => Ray.none; static true = Ray.none; static false = Ray.none;  
-  static object = (ray: object) => Ray.none  
-  static iterable = <T>(ray: Iterable<T>) => Ray.none  
-  static iterator = <T>(ray: Iterator<T>) => Ray.none  
-  static async_iterable = <T>(ray: AsyncIterable<T>) => Ray.none  
-  static async_iterator = <T>(ray: AsyncIterator<T>) => Ray.none  
-  static number = (ray: number) => Ray.none  
-  static function = (ray: Function) => {  
-    if (!is_function(ray)) return Ray.none  
-  
-    // const ray = Ray.__new__();  
-    // ray.terminal = () => {    //   // const input = ray.terminal.terminal;    //   // const output = fn(input)    //   // input.terminal = output;    //   // return output;    //   throw new Error()    // };    // return ray    return Ray.none  
-  }  
-  
-  static any = (ray: any) => {  
-    if (ray === undefined) return Ray.undefined;  
-    else if (ray === null) return Ray.null;  
-    else if (ray instanceof Ray || ray.prototype === Ray.prototype) return new ray() // This is a copy  
-    else if (is_function(ray)) return Ray.function(ray)  
-    else if (is_boolean(ray)) return Ray.boolean(ray)  
-    else if (is_number(ray)) return Ray.number(ray)  
-    else if (is_iterable(ray)) return Ray.iterable(ray)  
-    else if (is_object(ray)) return Ray.object(ray)  
-    else throw new Error("Not implemented")  
-  }  
-}  
  
 // This {1 -> self/self.self , & 2 -> a, b} could be generalized (is_none, is_orbit, ..)  
 // Ray.is_none = (self: Self) => self.is_orbit(self.self)  
