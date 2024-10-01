@@ -130,9 +130,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 `.set`, ` = `, `assign` (add to (compose with) `.self`)
 - Close to `.and`
 
-`.reference`
-- reference as orbit/constant/repeats maybe
-
 `.copy`
 - Say some modular structure: send traversing left & right simultaneously, and cancel each other out
 - Problems with copy
