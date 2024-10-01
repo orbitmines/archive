@@ -129,7 +129,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 
 `.set`, ` = `, `assign` (add to (compose with) `.self`)
 - Close to `.and`
-- Assign in the sense of adding to existing equivalences: i.e. offering a specific implementation for a certain thing, vs the destroy of them and replacing it with something specific: i.e. removing all existing assigns and setting a single one.
 
 `.reference`
 - reference as orbit/constant/repeats maybe
