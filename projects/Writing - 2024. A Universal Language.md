@@ -410,3 +410,7 @@ Acceleration stopped by barrier, intuit ?
 ---
 
 locally changing connections of larger topologies as a way to scatter cursors to either topology
+
+---
+
+Spatial seperation 
