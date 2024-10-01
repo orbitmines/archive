@@ -138,7 +138,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - Problems with copy
 	- A problem with a copy, is that in or to be generalizable, it needs to alter all references to the thing it's copying to itself - this cannot be done with certainty.
 
-		- "Also ref to things like 'no cloning theorem'? Or ref to 'absolute equality'"
+	- "Also ref to things like 'no cloning theorem'? Or ref to 'absolute equality'"
 	- Performing a copy (realizing it) can be conceptualized as traversing the entire structure. - and splitting off a copy through the traversing rays (can thus be parallel traversal as well)
 
 `.equivalent`, `.compose` ; up the arity, probably makes less sense?
