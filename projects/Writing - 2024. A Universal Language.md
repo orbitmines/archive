@@ -297,8 +297,7 @@ def has_next(self) -> Ray: return self.next().is_some
 
 # COPYING
 # Copy by adding a one-way reference to the same thing or duplicating the structure (slower often)
-# def size/copy
-#
+
 ```
 
 
@@ -367,7 +366,6 @@ class Ray {
 // This {1 -> self/self.self , & 2 -> a, b} could be generalized (is_none, is_orbit, ..)  
 // Ray.is_none = (self: Self) => self.is_orbit(self.self)  
 // Ray.is_orbit = (self: Self, other: Self) => self === other  
-// // TODO: These likely change or merge, generalize ; perspective switch. ;  
 // //   They are "is_" -> Does there exist a connection between their `.self`'s ; or basically is there an orbit (so bi-directional), and one-way would be?  
 // //   composed: a.traverse().is_orbit(b.traverse()) // Basically: does there exist a single connection between the two?  
 // //   equivalent: a.self().traverse().is_orbit(b.self().traverse())  
