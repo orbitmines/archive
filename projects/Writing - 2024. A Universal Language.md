@@ -479,3 +479,7 @@ Subtraction is more complicated than performing addition, for subtraction you ne
 All these non-psyhical things become physical if you introduce a timestep?  
   
 Acceleration stopped by barrier, intuit ?
+
+---
+
+locally changing connections of larger topologies as a way to scatter cursors  
