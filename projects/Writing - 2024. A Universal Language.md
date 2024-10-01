@@ -281,10 +281,6 @@ def memoized(self) -> Ray:
 
 # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...
 
-def from_perspective_of(a, b):
-  raise NotImplementedError
-def perspective(self) -> Ray: raise NotImplementedError
-
 # def filter / search
 
 # Traverse as extreme>?
