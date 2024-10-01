@@ -118,7 +118,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - Coherence
 	- This tries for "global coherence" - which just means a self-loop where no change is assumed in surrounding context (obviously inconsistent, but that doesn't matter).
 	- "it is expensive work to edge towards global coherence." ? To ensure consistency in some way
-- Collapsing to a point (from both sides)
 
 - Boolean
 	- Normal way of thinking about a boolean is .orbitm we assume modularity of booleans
