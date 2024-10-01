@@ -413,4 +413,4 @@ locally changing connections of larger topologies as a way to scatter cursors to
 
 ---
 
-Spatial seperation 
+Spatial separation is what allows for parallel/simultaneous rewrites under some maximum travel speed (for causality) 
