@@ -389,9 +389,6 @@ class Ray {
 `.unordered`
 	- Ref to initial/terminal enumeration / extremes somehow?
 
-`.initial/.terminal = .is_none or this.initial = this.self`
-- The difference being interpretation
-
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
