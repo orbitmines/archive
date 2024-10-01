@@ -401,9 +401,7 @@ perhaps simple inconsistent differences between different logic sustems as an ex
   
 could also do simple superposing of operators  
   
-Could like the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
-  
-back & into.self
+Could like the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now
 
 ---
 
