@@ -86,7 +86,13 @@ console.log(res);
 - [The Yoga of Contexts I (2024)](https://cybercat.institute/2024/06/28/yoga-contexts/) ; *Jules Hedges*
 - :wolfram: [Why Does Biological Evolution Work? A Minimal Model for Biological Evolution and Other Adaptive Processes (2024)](https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/) ; *Stephen Wolfram*
 
-
+- :youtube: :toe: [20th Century’s Greatest Living Scientist | Sir Roger Penrose (2024)](https://www.youtube.com/watch?v=sGm505TFMbU) ; *Roger Penrose, Curt Jaimungal*  
+- :youtube: :toe: [The Quantum Heretic: A New Theory of Everything? (2024)](https://www.youtube.com/watch?v=6Z_p3viqW1g) ; *Jonathan Oppenheim, Curt Jaimungal*  
+- :youtube: :lex_fridman_podcast: [Maya, Aztec, Inca, and Lost Civilizations of South America | Lex Fridman Podcast #446 (2024)](https://www.youtube.com/watch?v=AzzE7GOvYz8) ; *Ed Barnhart, Lex Fridman*  
+- :youtube: :lex_fridman_podcast: [The Roman Empire - Rise and Fall of Ancient Rome | Lex Fridman Podcast #443 (2024)](https://www.youtube.com/watch?v=DyoVVSggPjY) ; *Gregory Aldrete, Lex Fridman*  
+- :youtube: :mindscape: [Mindscape 289 | The Next Generation of Particle Experiments (2024)](https://www.youtube.com/watch?v=ELe3fvuTsdE) ; *Cari Cesarotti, Sean Carroll*  
+- :youtube: :mindscape: [Mindscape 291 | The Biology of Death and Aging (2024)](https://www.youtube.com/watch?v=aNqwamgxNiU) ; *Venki Ramakrishnan, Sean Carroll*  
+- :youtube: [Maths of Quantum Mechanics (2023)](https://www.youtube.com/watch?v=3nvbBEzfmE8&list=PL8ER5-vAoiHAWm1UcZsiauUGPlJChgNXC) ; *Brandon Sandoval*
 
 - :wikipedia: Wikipedia Articles: [Observational_equivalence](https://en.wikipedia.org/wiki/Observational_equivalence), [Universal_science](https://en.wikipedia.org/wiki/Universal_science)
 
