@@ -86,6 +86,10 @@ console.log(res);
 - [The Yoga of Contexts I (2024)](https://cybercat.institute/2024/06/28/yoga-contexts/) ; *Jules Hedges*
 - :wolfram: [Why Does Biological Evolution Work? A Minimal Model for Biological Evolution and Other Adaptive Processes (2024)](https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/) ; *Stephen Wolfram*
 
+
+
+- :wikipedia: Wikipedia Articles: [Observational_equivalence](https://en.wikipedia.org/wiki/Observational_equivalence), [Universal_science](https://en.wikipedia.org/wiki/Universal_science)
+
 ---
 
 # 2024, June, July & August - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
