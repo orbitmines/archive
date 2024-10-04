@@ -418,7 +418,7 @@ Spatial separation is what allows for parallel/simultaneous rewrites under some 
 
 ---
 
-Not traversal, but collapse of local connectivity to determine "next" steps.
+Not traversal, but collapse of local connectivity to determine "next" steps. ; until current pointer holds something we're looking for.
 
 ---
 
