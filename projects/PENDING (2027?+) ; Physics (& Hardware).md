@@ -403,3 +403,5 @@ Default data structure collapsing a single direction all the way? So points, lis
 
 ---
 
+[[2024-10-04]]
+Gravity - inabi
