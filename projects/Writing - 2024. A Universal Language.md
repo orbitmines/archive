@@ -344,11 +344,6 @@ Can phrase the conceptual extremes as an assumption of halting at the boundary, 
 
 ---
 
-
-How about for physics, initial tries to go to initial, terminal to terminal, and self stays in place by default if there's something around it? Next tick tries again and if the others have not moved it stays the same
-
----
-
 for filters, what ends up at some target, instead of just the target (translations that sort of thing)
 
 
