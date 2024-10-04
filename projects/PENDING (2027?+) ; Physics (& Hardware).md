@@ -13,9 +13,6 @@ This is necessarily a much harder problem than all other software-related proble
 ---
 
 - [ ] Sean Caroll answer 'priority questions' from his Patreon supporters in his AMAs, perhaps once some quantum idea gets stuck reach out to him.
-- [ ] Process these ideas:
-
-Physics
 
 ---
 
