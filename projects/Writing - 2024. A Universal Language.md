@@ -341,11 +341,6 @@ Superposing of operators
 Can phrase the conceptual extremes as an assumption of halting at the boundary, clearly then you consteuct from there the idra, what if that wasn't the case - it not being the boundary at all. Hence the words pointing to some extreme are more accurately phrased as an assumption like that; "But there could be arbitrary structure there which is ignored"  
 
 ---
-
-for filters, what ends up at some target, instead of just the target (translations that sort of thing)
-
-
----
 \
 Memory slots of lists, and then memory slots of ehich are ignored (ie) superposed  
   
