@@ -334,7 +334,7 @@ at the end simple example of efficiency/closeness/differentiability
   
 perhaps simple inconsistent differences between different logic sustems as an example for superposed languages or do that at the rendering engine section with pixels  
   
-could also do simple superposing of operators  
+Superposing of operators  
   
 Could like the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now
 
