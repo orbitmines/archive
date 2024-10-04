@@ -370,13 +370,8 @@ Infrageometry spinal graphs ; ternsry edge is a modular 3 connected vertices in 
   
 Separate precense checks as "spinal" as well, and references. So structure as precense checks, references as what additionally is there. That waysuperposed we care about the type we're rewriting? Needs better thinking..  
   
-Types as boolean values in 3-size arrays  
-[0,0,0],[1,0,0] instead of seperate func for each one,
-
 ---
 
-1-circle fits 2-circle fits 3-circle,  
-  
 Can't move through concept as a terminal to a something? Important concept. Then also" spawns" a direction, the usecase of that being an eval?  
   
 What about incomplete or partial casaul histories?  
