@@ -351,10 +351,6 @@ for filters, what ends up at some target, instead of just the target (translatio
 \
 Memory slots of lists, and then memory slots of ehich are ignored (ie) superposed  
   
-See functions as answers you'd want to be able to give from each position, defaulting to No if not defined?  
-  
-Reverse a modular binary, no difference except for the time step  
-  
 Can have an orbit with 5 initials to a single vertex, that vertex at .self has an initial which maps 5 vertices to those 5 initials. But what is an additional selection of value in this case? A vertex on vertex in the .self??  
   
 Infrageometry spinal graphs ; ternsry edge is a modular 3 connected vertices in a circle. As opposed to three pairwise "bags".  
