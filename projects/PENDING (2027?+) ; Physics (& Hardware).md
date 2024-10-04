@@ -404,4 +404,4 @@ Default data structure collapsing a single direction all the way? So points, lis
 ---
 
 [[2024-10-04]]
-Gravity - increasing inability to move: to escape some relative local structure. At both extremes (never)
+Gravity - increasing inability to move: to escape some relative local structure. At both extremes (never or always moving) this could mean massless propagation
