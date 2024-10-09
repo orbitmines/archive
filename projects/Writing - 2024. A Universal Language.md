@@ -1,7 +1,7 @@
 *Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
 
 ### Introduction
-How do you possibly design a language which encompasses all others? That is in essence the question explored here. 
+
 
 ###
 
