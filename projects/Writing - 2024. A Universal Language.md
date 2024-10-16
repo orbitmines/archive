@@ -251,7 +251,6 @@ Header
 	- ....
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
 
-- Could link the practical ignorance/intelligence to partially reversible ignorant compression - or just ignore these for now  
 - pond example
 
 
