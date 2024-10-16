@@ -70,8 +70,6 @@ Unprocessed
 
 `.initial/.terminal`
 - .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
-- If no terminal - .self or .terminal
-
 
 `.traverse / .all / .map / .any
 - those traversal layers on branches which dont go left/right but only one direction?
