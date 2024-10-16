@@ -288,10 +288,8 @@ Spatial separation is what allows for parallel/simultaneous rewrites under some 
 Not traversal, but collapse of local connectivity to determine "next" steps. ; until current pointer holds something we're looking for. Always with intermediate results, which can be acted on separately: "what if this was the result" even when it's still pending?
 
 ---
-
-point is in between its beginning and end, related to in between is described by an entire ray of initials/terminals, the point us similarly described  
   
-Any symmetry must be breakable - any symmetry has some ignored assymetrical property  
+Any symmetry must be breakable - any symmetry has some ignored assymetrical property
   
 unordered is parallel? how about set? or how about all of them but in any ofder? How about parallel, in a loop? And then parallel in a loop, excluding current one? Or excluding ones in a path (any order)
 
