@@ -97,9 +97,6 @@ parallel just means composing boundaries of either terminals, or initials.
 - .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
 - If no terminal - .self or .terminal
 
-`.is_extreme`
-- Extremes as superposed pattern matcher.
-
 `.all`
 - Prepare on the boundary, then shove it through. - lazy func
 - `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
