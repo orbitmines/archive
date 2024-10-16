@@ -411,3 +411,7 @@ All these non-psyhical things become physical if you introduce a timestep?
 ---
 
 Less gravity, less structure? So shorter distances where there is less structure, gravity? Or some variant of this idea? ; Longer-ranging but thinner structures possibly
+
+---
+
+What about dynamically changing rewrite rules, are those explored by anyone? ; some form of reprogrammability as foundational

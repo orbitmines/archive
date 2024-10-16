@@ -50,25 +50,7 @@ What does it take to build a universal language? That is the main question which
 
 ---
 
-vertex = graph which defines edges  
-edge = initial/terminals defined on vertex  
--.- = ??? defines two sides of an edge and a way to reference it, .self not sccounted for  
-hyperedge: follow entire initial/terminal, skip the .self (-.-)  
-
-vertex; graph of edges in/out  
-edge; graph of vertices it's made out of  
-  
-Vertex references another vertex  
-edge references another edge
-
-Vertex - follow graph, match for Initials (Outgoing Edges) & Terminals (Incoming Edges)
-Hyperedge - follow graph, match for Vertices (graphs of initials/terminals)
-
-Vertex in a normal graph is like a hyperedge?
-
-In hypergraphs, the vertices and edges are separated, in the case of reprogrammability, this becomes less obvious; When vertices mention vertices instead of edges, and edges mention other edges instead of vertices, determining whether something is an edge or vertex becomes contextual/.../dynamic.  
-
-What about dynamically changing rewrite rules, are those explored by anyone? ; some form of reprogrammability as foundational
+In hypergraphs, the vertices and edges are separated, in the case of reprogrammability, this becomes less obvious; When vertices mention vertices instead of edges, and edges mention other edges instead of vertices, determining whether something is an edge or vertex becomes contextual/.../dynamic.
 
 Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 
