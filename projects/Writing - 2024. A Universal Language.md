@@ -295,41 +295,6 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 <Section head="Introduction">    
 <Arc head="Arc: Core Ideas">  
   <Section head="A few steps back" sub="">  
-
-    <BR/>  
-  
-    That however, doesn't necessarily make it easy to phrase the things we would like to phrase. But let's start somewhere anyway:  
-  
-    <Block>  
-  
-    </Block>  
-    Not much of a somewhere. But the basic premise becomes this: I don't know what things around me look like. Let's start by looking around me in some direction:  
-  
-    <Block>  
-  
-    </Block>  
-    I don't yet know what this is or means, I just know I moved in some direction. You'll start to see the pattern of what we're doing here: I need to start traversing to find things around me - otherwise I can't know about them.  
-  
-    <BR/>  
-  
-    Alright now let's try to move backwards.  
-  
-    <Block>  
-  
-    </Block>  
-    You'll see that there's no recollection of what we just did. In order to say even something as simple as that, we need some notion of memory. We need some way remember what we just did. Let's try it again with a notion of memory of where we've already been:  
-  
-    <Block>  
-  
-    </Block>  
-    And a simple move back:  
-  
-    <Block>  
-  
-    </Block>  
-    <TODO>...</TODO>  
-  
-    <BR/>  
     <span style={{textAlign: 'left', minWidth: '100%'}}>Essentially what any of this comes down to. Is things are entirely inferred from surrounding context. Yet your abstractions can be ignorant of how you're using them. Whether something is a <span  
         className="bp5-text-muted">function, number, geometry, topology, ..., structure</span> becomes quite hard to say when you consider its surrounding context [REPHRASE]. More usefully what we're doing here, is saying: "Can you see a difference? And can you ignore it?"</span>  
   </Section>  <Section head="What is a Ray?">  
