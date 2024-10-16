@@ -317,16 +317,6 @@ class Ray {
 // //   equivalent: a.self().traverse().is_orbit(b.self().traverse())   
   
 // // TODO: .is_equivalent & is_orbit are 0, 1, n perspective?  
-  
-  
-// // TODO { self }, for .reference.as_initial, if it's just .as_initial, we need to break it apart  
-// /* */ Ray.as_initial = (self: Ray) => Ray.initial({ self })  
-// /* */ Ray.as_vertex = (self: Ray) => Ray.vertex({ self })  
-// /* */ Ray.as_terminal = (self: Ray) => Ray.terminal({ self })  
-// /* */ Ray.as_reference = (self: Ray) => Ray.reference({ self })  
-  
-// Ray.all = TODO: .all is a move to .initial (as a reference).  
-// Ray.cast = <T>(self: Ray): T => { throw new NotImplementedError() }
 ```
 
 
