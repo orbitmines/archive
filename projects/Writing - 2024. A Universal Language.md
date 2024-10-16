@@ -295,8 +295,7 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 <Section head="Introduction">    
 <Arc head="Arc: Core Ideas">  
   <Section head="A few steps back" sub="">  
-    Let's first take a few steps back; this will be necessary. First, you must throw out any kind of assumptions you're bringing to the table. Just like we'll do now for Rays: Anything we'd like to make, should be phraseable in our universal language. It wouldn't be much of one if that wasn't the case.  
-  
+
     <BR/>  
   
     That however, doesn't necessarily make it easy to phrase the things we would like to phrase. But let's start somewhere anyway:  
