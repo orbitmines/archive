@@ -101,9 +101,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 
 `.equivalent`, `.compose` ; up the arity, probably makes less sense?
 - Basically: does there exist a single connection between the two?
-- Collapsing to a point (with(/out) a additional filters, ..., ignorances) (where/if)
-	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
-	- Cohomology, ..., not collapsable if something stops this from happening.
+- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 
 ##### "Superpose in more detail"
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
