@@ -279,20 +279,9 @@ def memoized(self) -> Ray:
 
 # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...
 
-# def filter / search
-
 # Traverse as extreme>?
 
 
-```
-
-
-```ts
-// Basically: does there exist a single connection between the two?  
-// //   composed: a.traverse().is_orbit(b.traverse())
-// //   equivalent: a.self().traverse().is_orbit(b.self().traverse())   
-  
-// // TODO: .is_equivalent & is_orbit are 0, 1, n perspective?  
 ```
 
 
