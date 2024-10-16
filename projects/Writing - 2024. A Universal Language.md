@@ -71,9 +71,6 @@ Unprocessed
 `.initial/.terminal`
 - .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
 
-`.traverse / .all / .map / .any
-- those traversal layers on branches which dont go left/right but only one direction?
-- Ignorance/equivalence along arbitrary rays. = Equivalence
 `.rewrite`, `.replace`, `.collapse`
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
 - Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
