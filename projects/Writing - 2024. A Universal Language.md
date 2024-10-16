@@ -103,8 +103,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - Basically: does there exist a single connection between the two?
 - Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 
-##### "Superpose in more detail"
-- `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
+`qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision).
 
 - Reprogrammability
 	- What does it mean for a point yo become its own direction? 
