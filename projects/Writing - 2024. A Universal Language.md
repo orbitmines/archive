@@ -263,7 +263,7 @@ Spatial separation is what allows for parallel/simultaneous rewrites under some 
 
 ---
   
-Any symmetry must be breakable - any symmetry has some ignored assymetrical property
+Any symmetry must be breakable - any symmetry has some ignored assymetrical property ; Does not have to be the case from the perspective of the symmetry.
 
 unordered is parallel? how about set? or how about all of them but in any ofder? How about parallel, in a loop? And then parallel in a loop, excluding current one? Or excluding ones in a path (any order)
 
