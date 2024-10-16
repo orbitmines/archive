@@ -165,7 +165,6 @@ Header
 - Simple web setup for localstorage
 
 ---
-###### Examples: Delayed till working implementation
 
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
 
