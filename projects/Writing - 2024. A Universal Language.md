@@ -289,7 +289,6 @@ locally changing connections of larger topologies as a way to scatter cursors to
 
 Spatial separation is what allows for parallel/simultaneous rewrites under some maximum travel speed (for causality) 
 
-
 ---
 
 Not traversal, but collapse of local connectivity to determine "next" steps. ; until current pointer holds something we're looking for. Always with intermediate results, which can be acted on separately: "what if this was the result" even when it's still pending?
