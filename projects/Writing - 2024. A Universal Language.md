@@ -290,7 +290,7 @@ Not traversal, but collapse of local connectivity to determine "next" steps. ; u
 ---
   
 Any symmetry must be breakable - any symmetry has some ignored assymetrical property
-  
+
 unordered is parallel? how about set? or how about all of them but in any ofder? How about parallel, in a loop? And then parallel in a loop, excluding current one? Or excluding ones in a path (any order)
 
 ---
