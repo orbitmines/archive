@@ -281,8 +281,6 @@ read/write-only?
 
 Acceleration stopped by barrier, intuit ?
 
----
-
 Spatial separation is what allows for parallel/simultaneous rewrites under some maximum travel speed (for causality) 
 
 ---
