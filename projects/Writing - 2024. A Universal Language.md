@@ -84,9 +84,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - *this or superposition, what's the difference?*: This self-loop breaks the recursion because it self-referentially answers the question of: "The only thing you'll ever find here is that same structure you already had, without having to traverse that structure."
 
 
-- Coherence
-	- This tries for "global coherence" - which just means a self-loop where no change is assumed in surrounding context (obviously inconsistent, but that doesn't matter).
-	- "it is expensive work to edge towards global coherence." ? To ensure consistency in some way
+- Coherence is expensive?
 
 - Boolean
 	- Normal way of thinking about a boolean is .orbitm we assume modularity of booleans
