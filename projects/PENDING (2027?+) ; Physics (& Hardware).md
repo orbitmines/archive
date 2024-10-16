@@ -407,3 +407,7 @@ Gravity - increasing inability to move: to escape some relative local structure.
 ---
 
 All these non-psyhical things become physical if you introduce a timestep?  
+
+---
+
+Less gravity, less structure? So shorter distances where there is less structure, gravity? Or some variant of this idea? ; Longer-ranging but thinner structures possibly

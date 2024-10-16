@@ -293,13 +293,6 @@ Any symmetry must be breakable - any symmetry has some ignored assymetrical prop
 
 unordered is parallel? how about set? or how about all of them but in any ofder? How about parallel, in a loop? And then parallel in a loop, excluding current one? Or excluding ones in a path (any order)
 
----
-
-Arbitrary steucture at initial,self,terminal, and only presence checks for the type. What would that look like?
-
----
-
-Less gravity, less structure? So shorter distances where there is less structure, gravity? Or some variant of this idea? ; Longer-ranging but thinner structures possibly
 
 ---
 
