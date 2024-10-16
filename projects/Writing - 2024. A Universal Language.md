@@ -88,7 +88,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 
 - Boolean
 	- Normal way of thinking about a boolean is .orbitm we assume modularity of booleans
-	- Hence the difference between add/sub and a normal boolean. Is context. What add/sub is applied to; i.e. what effects it has.  
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 - .add integers: single equivalence; ` on vertices -> equiv initial from one side, terminal from other side.)
@@ -99,9 +98,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 `.copy`
 - Say some modular structure: send traversing left & right simultaneously, and cancel each other out
 - Problems with copy
-	- A problem with a copy, is that in or to be generalizable, it needs to alter all references to the thing it's copying to itself - this cannot be done with certainty.
-	- "A copy is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=If%20I%20have%20one%20thing%20and%20I%20make%20a%20perfect%20copy
-	- "Also ref to things like 'no cloning theorem'? Or ref to 'absolute equality'"
 	- Performing a copy (realizing it) can be conceptualized as traversing the entire structure. - and splitting off a copy through the traversing rays (can thus be parallel traversal as well)
 
 `.equivalent`, `.compose` ; up the arity, probably makes less sense?
