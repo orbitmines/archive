@@ -97,12 +97,10 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 
 `.copy`
 - Say some modular structure: send traversing left & right simultaneously, and cancel each other out
-- Problems with copy
-	- Performing a copy (realizing it) can be conceptualized as traversing the entire structure. - and splitting off a copy through the traversing rays (can thus be parallel traversal as well)
+- Copy as traversing entire structure
 
 `.equivalent`, `.compose` ; up the arity, probably makes less sense?
-- `.is_equivalent = a.self.traverse.is_orbit(b.self.traverse))` Basically: does there exist a single connection between the two?
-- equivalence is an inconsistency from some perspective (and the other way round)
+- Basically: does there exist a single connection between the two?
 - Collapsing to a point (with(/out) a additional filters, ..., ignorances) (where/if)
 	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 	- Cohomology, ..., not collapsable if something stops this from happening.
