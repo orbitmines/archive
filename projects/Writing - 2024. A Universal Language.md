@@ -407,6 +407,18 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 
 ---
 
+Reference snywhere on the structure in the sense when that steucture is collapsed to a point you'd say it's the same. But still, necessarily some part is referenced? What does it otherwise look like?
+
+---
+
+Arbitrary steucture at initial,self,terminal, and only presence checks for the type. What would that look like?
+
+---
+
+Less gravity, less structure? So shorter distances where there is less structure, gravity? Or some variant of this idea? ; Longer-ranging but thinner structures possibly
+
+---
+
 <Section head="Introduction">  
   This thing is, in essence, a language to understand inconsistencies. A conceptual framework to make sense of ambiguity: A story of how destructively confusing languages can be. Though to me, most importantly, it is here as infrastructure. Infrastructure for the design and implementation of a <Reference is="reference" index={referenceCounter()} reference={{link: _2024_02_ORBITMINES_AS_A_GAME_PROJECT.reference.link, title: "different category of (programming) interfaces"}} simple inline />.  
   
