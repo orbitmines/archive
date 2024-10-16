@@ -174,14 +174,6 @@ Header
 - Encoding: Usually ignorant of its use
 - Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
-- Simple 2d-grid, work out possible ways of representing it  
-
-- Link back to the other stuff from the notebook as well:
-	- "Binary": just list a few possible ways of constructing it.
-		- binary reverse op is also conceivable as initial/self/terminal over two possible values
-		- orbiting ray around it / bouncing off the edges ; generalize
-		- ...
-		- Perspective of 0/1,
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
 
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
@@ -193,7 +185,6 @@ Header
 
 Process:
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
-- Forced orbit around a point as default data structure, necessarily circular orbit
 - Want to allow for conflicting perspectives, of which aspects can still be invariant
 
 postponed (from 2023):
