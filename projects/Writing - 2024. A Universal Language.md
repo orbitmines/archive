@@ -270,15 +270,6 @@ read/write-only?
 
 # UNPROCESSED
 *Tread carefully, confusion abound*
-
-
-Can phrase the conceptual extremes as an assumption of halting at the boundary, clearly then you consteuct from there the idra, what if that wasn't the case - it not being the boundary at all. Hence the words pointing to some extreme are more accurately phrased as an assumption like that; "But there could be arbitrary structure there which is ignored"  
-
----
-\
-Memory slots of lists, and then memory slots of ehich are ignored (ie) superposed  
-  
-Can have an orbit with 5 initials to a single vertex, that vertex at .self has an initial which maps 5 vertices to those 5 initials. But what is an additional selection of value in this case? A vertex on vertex in the .self??  
   
 Infrageometry spinal graphs ; ternsry edge is a modular 3 connected vertices in a circle. As opposed to three pairwise "bags".  
   
