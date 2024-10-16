@@ -68,8 +68,6 @@ Unprocessed
 
 ---
 
-parallel just means composing boundaries of either terminals, or initials.
-
 `.self`: What is our current position? (can dynamically change) - "Moving an abstraction layer lower - what's inside?"
 
 `.initial/.terminal`
