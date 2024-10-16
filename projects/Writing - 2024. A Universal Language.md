@@ -270,12 +270,7 @@ read/write-only?
 
 # UNPROCESSED
 *Tread carefully, confusion abound*
-  
-perhaps simple inconsistent differences between different logic sustems as an example for superposed languages or do that at the rendering engine section with pixels  
-  
-Superposing of operators  
 
----
 
 Can phrase the conceptual extremes as an assumption of halting at the boundary, clearly then you consteuct from there the idra, what if that wasn't the case - it not being the boundary at all. Hence the words pointing to some extreme are more accurately phrased as an assumption like that; "But there could be arbitrary structure there which is ignored"  
 
