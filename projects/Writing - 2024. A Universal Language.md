@@ -292,9 +292,6 @@ def memoized(self) -> Ray:
 
 # Traverse as extreme>?
 
-#
-# - Like with 'copy' and all concepts: Note that we're only after reversibility after ignoring some difference.  #  # @see "Reversibility is necessarily inconsistent": https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Another%20example%20of%20this%20is%20reversibility
-
 
 def has_next(self) -> Ray: return self.next().is_some
 
