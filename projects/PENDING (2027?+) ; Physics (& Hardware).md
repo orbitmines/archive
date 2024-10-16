@@ -414,4 +414,8 @@ Less gravity, less structure? So shorter distances where there is less structure
 
 ---
 
-What about dynamically changing rewrite rules, are those explored by anyone? ; some form of reprogrammability as foundational
+What about dynamically changing rewrite rules, are those explored by anyone? ; some form of reprogrammability as foundational\
+
+---
+
+Composability is Non-locality? 
