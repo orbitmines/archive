@@ -166,11 +166,6 @@ Header
 
 ---
 ###### Examples: Delayed till working implementation
-- [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics).
-- Encoding: Usually ignorant of its use
-- Superposed different inconsistent/logical systems
-- What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
-- Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
 
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
 
