@@ -288,8 +288,6 @@ def memoized(self) -> Ray:
 
 
 ```ts
-  reverse = (self = this.proxy.self) => new self({ initial: self.terminal, self, terminal: self.initial })  
-
 // Basically: does there exist a single connection between the two?  
 // //   composed: a.traverse().is_orbit(b.traverse())
 // //   equivalent: a.self().traverse().is_orbit(b.self().traverse())   
