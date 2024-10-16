@@ -311,9 +311,9 @@ class Ray {
  
 // This {1 -> self/self.self , & 2 -> a, b} could be generalized (is_none, is_orbit, ..)  
 // Ray.is_none = (self: Self) => self.is_orbit(self.self)  
-// Ray.is_orbit = (self: Self, other: Self) => self === other  
-// //   They are "is_" -> Does there exist a connection between their `.self`'s ; or basically is there an orbit (so bi-directional), and one-way would be?  
-// //   composed: a.traverse().is_orbit(b.traverse()) // Basically: does there exist a single connection between the two?  
+// Ray.is_orbit = (self: Self, other: Self) => self === other
+// Basically: does there exist a single connection between the two?  
+// //   composed: a.traverse().is_orbit(b.traverse())
 // //   equivalent: a.self().traverse().is_orbit(b.self().traverse())   
   
 // // TODO: .is_equivalent & is_orbit are 0, 1, n perspective?  
