@@ -73,12 +73,10 @@ Unprocessed
 
 `.rewrite`, `.replace`, `.collapse`
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
-- Local modular structure: left/right collapse simultaneously to get a modular rewrite in ; then check locally to break the recursion.
 - Switch perspective is switching names of functions
 
 `.none` 
 There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
-- none: initial direct to terminal, no vertex in between. & reference none for "select none"
 - caollpse the loop with an extreme, setting both initial/terminal to none for that step, forcing? "collapsing infinite with extreme idea??"
 
 `.orbit`
