@@ -2,7 +2,7 @@
 
 # Towards a Universal Language
 **
-### Introduction
+###### Introduction
 What are the requirements for having a universal language? That is the main question which is explored here. A language which can span graphs, programming languages, ..., sciences. A language which you never have to leave.
 
 ### 
