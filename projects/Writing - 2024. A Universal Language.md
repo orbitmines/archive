@@ -3,7 +3,7 @@
 # Towards a Universal Language
 **
 ### Introduction
-
+What are the requirements for a universal language? That is the question which is explored 
 
 ###
 
