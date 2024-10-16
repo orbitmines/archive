@@ -230,6 +230,7 @@ Header
 - Encoding: Usually ignorant of its use
 - Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
+- Simple 2d-grid, work out possible ways of representing it  
 - Link back to the other stuff from the notebook as well:
 	- "Binary": just list a few possible ways of constructing it.
 		- binary reverse op is also conceivable as initial/self/terminal over two possible values
@@ -271,16 +272,6 @@ read/write-only?
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
-  
-Separate precense checks as "spinal" as well, and references. So structure as precense checks, references as what additionally is there. That waysuperposed we care about the type we're rewriting? Needs better thinking..  
-  
----
-
-Can't move through concept as a terminal to a something? Important concept. Then also" spawns" a direction, the usecase of that being an eval?  
-  
-What about incomplete or partial casaul histories?  
-  
-Simple 2d-grid, work out possible ways of representing it  
   
 What are other ways of thinking about points  
   
