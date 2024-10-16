@@ -399,6 +399,14 @@ Not traversal, but collapse of local connectivity to determine "next" steps. ; u
 
 ---
 
+point is in between its beginning and end, related to in between is described by an entire ray of initials/terminals, the point us similarly described  
+  
+Any symmetry must be breakable - any symmetry has some ignored assymetrical property  
+  
+unordered is parallel? how about set? or how about all of them but in any ofder? How about parallel, in a loop? And then parallel in a loop, excluding current one? Or excluding ones in a path (any order)
+
+---
+
 <Section head="Introduction">  
   This thing is, in essence, a language to understand inconsistencies. A conceptual framework to make sense of ambiguity: A story of how destructively confusing languages can be. Though to me, most importantly, it is here as infrastructure. Infrastructure for the design and implementation of a <Reference is="reference" index={referenceCounter()} reference={{link: _2024_02_ORBITMINES_AS_A_GAME_PROJECT.reference.link, title: "different category of (programming) interfaces"}} simple inline />.  
   
