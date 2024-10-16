@@ -295,10 +295,6 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 
 ---
 
-Reference snywhere on the structure in the sense when that steucture is collapsed to a point you'd say it's the same. But still, necessarily some part is referenced? What does it otherwise look like?
-
----
-
 Arbitrary steucture at initial,self,terminal, and only presence checks for the type. What would that look like?
 
 ---
