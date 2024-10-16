@@ -141,21 +141,19 @@ Intro
 - Rotate the whole thing / orbit local pull everything in
 - 
 
-Header
-- [ ] Some excerpt of the chyp implementation in the header as background & same for the thumbnail
-
 ### Initial interface setup
 [[Project - Research towards Designs (2024)]]
 
 - [ ] Track program, rotation, ..., interface movements. Possibly replay at some accuracy. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
 	- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
-- [ ] going around the loop constantly ignoring dropping the one connection, unrolling the line on the loop, if both are a loop, could keep going / oscillate, or things like larger extent compare, or same frame cancel out when intersect  
 
 
 ---
 
+Examples
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
 
+Energy/Resources
 - In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
 - The larger the integer, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number) ; some loose analogy here to energy as a concept?  
 
