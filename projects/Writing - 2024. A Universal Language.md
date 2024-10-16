@@ -226,7 +226,6 @@ Header
 - Tensor
 	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
 	- TODO: zip, tensor (are these the same as match/switch?)
-- similar to next/anext into python await operator?
 - Encoding: Usually ignorant of its use
 - Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
