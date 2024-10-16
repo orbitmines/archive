@@ -182,11 +182,6 @@ Header
 		- orbiting ray around it / bouncing off the edges ; generalize
 		- ...
 		- Perspective of 0/1,
-	- Tripple superposition
-	- modular numbers
-	- p-adic numbers
-	- sierpinski etc.. a xor b = a+b ; boundary is addition of boundary/self-loop?
-	- ....
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
 
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
