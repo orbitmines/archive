@@ -209,9 +209,6 @@ read/write-only?
 
 ```py
 # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...
-
-
-
 ```
 
 
