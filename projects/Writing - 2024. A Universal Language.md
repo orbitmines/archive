@@ -303,15 +303,8 @@ def has_next(self) -> Ray: return self.next().is_some
 
 
 ```ts
-class Ray {  
-
-
   reverse = (self = this.proxy.self) => new self({ initial: self.terminal, self, terminal: self.initial })  
 
- 
-// This {1 -> self/self.self , & 2 -> a, b} could be generalized (is_none, is_orbit, ..)  
-// Ray.is_none = (self: Self) => self.is_orbit(self.self)  
-// Ray.is_orbit = (self: Self, other: Self) => self === other
 // Basically: does there exist a single connection between the two?  
 // //   composed: a.traverse().is_orbit(b.traverse())
 // //   equivalent: a.self().traverse().is_orbit(b.self().traverse())   
