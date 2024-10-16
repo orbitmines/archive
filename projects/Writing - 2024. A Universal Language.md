@@ -15,7 +15,7 @@ What does it take to build a universal language? That is the main question which
 - "Capturing: What is the essence of differences and similarities" ; Not just that something is equivalent, but how/why
 - Have some nice translations for these concepts: (hyper-/)'Vertex', (hyper-/)'Edge', (hyper-/)'Graph', (hyper-/)'Rule', (hyper-/)'Tactic', (hyper-/)..., (hyper-/)'Rewrite'
 - "On Structure and Interaction"
-
+- Implement a simple getter /setter structure in the initial/terminals? as reversible memoized 
 
 
 *Thoughts going over 2022-2023 notebook (reprocessing)*
@@ -231,6 +231,7 @@ Header
 - Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
 - Simple 2d-grid, work out possible ways of representing it  
+- In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
 - Link back to the other stuff from the notebook as well:
 	- "Binary": just list a few possible ways of constructing it.
 		- binary reverse op is also conceivable as initial/self/terminal over two possible values
@@ -272,14 +273,8 @@ read/write-only?
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
-
-different perspectives as coexisting, ignoring the ray, ...  
-  
-In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
-
 ---
 
-Implement a simple getter /setter structure in the initial/terminals? as reversible memoized  
   
 The larger the integer, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number) ; some loose analogy here to energy as a concept?  
   
