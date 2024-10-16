@@ -279,7 +279,6 @@ read/write-only?
 
 ---
 
-  
 Acceleration stopped by barrier, intuit ?
 
 ---
