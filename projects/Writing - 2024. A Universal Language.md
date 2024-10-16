@@ -270,10 +270,7 @@ read/write-only?
 
 # UNPROCESSED
 *Tread carefully, confusion abound*
-  
-Infrageometry spinal graphs ; ternsry edge is a modular 3 connected vertices in a circle. As opposed to three pairwise "bags".  
-  
----  
+
   
 Separate precense checks as "spinal" as well, and references. So structure as precense checks, references as what additionally is there. That waysuperposed we care about the type we're rewriting? Needs better thinking..  
   
