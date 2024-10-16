@@ -105,9 +105,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 
 ##### "Superpose in more detail"
 - `qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision). So `qubits, orbits, higher-arity structures, ignorance along rays`, same thing?.
-	- Usual superposition is where every entry of an arbitrarty direction only references itself on the `.self`. Hence a tensored variant like this in linear time, if you can traverse that in one step.
-	- DIfference between a bit and a qubit is that in the case of a qubit we assume differentiability between?
-	- [[PENDING (2027?+) ; Physics (& Hardware)]] - Wave function collapse ; how does that look like for a simple structure, and a more complicated one? Snapping to specific value or?
 
 - Reprogrammability
 	- What does it mean for a point yo become its own direction? 
