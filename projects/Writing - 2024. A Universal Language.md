@@ -68,8 +68,6 @@ Unprocessed
 
 ---
 
-`.self`: What is our current position? (can dynamically change) - "Moving an abstraction layer lower - what's inside?"
-
 `.initial/.terminal`
 - .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
 - If no terminal - .self or .terminal
