@@ -296,41 +296,8 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 
 ---
 
-<Section head="Introduction">  
-  This thing is, in essence, a language to understand inconsistencies. A conceptual framework to make sense of ambiguity: A story of how destructively confusing languages can be. Though to me, most importantly, it is here as infrastructure. Infrastructure for the design and implementation of a <Reference is="reference" index={referenceCounter()} reference={{link: _2024_02_ORBITMINES_AS_A_GAME_PROJECT.reference.link, title: "different category of (programming) interfaces"}} simple inline />.  
-  
-  <BR/>  
-  
-  <span style={{textAlign: 'left', minWidth: '100%'}}>A simple way of phrasing this, is that the concept of a <span  
-      className="bp5-text-muted"><span  
-      className="bp5-text-disabled">(hyper-/) </span>'Vertex', <span  
-      className="bp5-text-disabled">(hyper-/) </span>'Edge', <span  
-      className="bp5-text-disabled">(hyper-/) </span>'Graph', <span  
-      className="bp5-text-disabled">(hyper-/) </span>'Rule', <span  
-      className="bp5-text-disabled">(hyper-/) </span>'Tactic', <span  
-      className="bp5-text-disabled">(hyper-/) </span>..., <span  
-      className="bp5-text-disabled">(hyper-/) </span>'Rewrite'</span> are merged into one thing: a Ray. It handles <span  
-      className="bp5-text-muted">surrounding context, ignorances, equivalences, ..., differentiation</span> (And if it cannot, then it offers a way of implementing it for all of the above).</span>  
-  
-  <BR/>  
-  <span style={{textAlign: 'left', minWidth: '100%'}}>Though quite importantly, even if those previous words are complete nonsense to you: Either this, or projects following from this, will aid in your understanding. This is the start of a story which will provide infrastructure for communication between all <span className="bp5-text-muted">sciences, (programming) languages, compilers, interfaces, ..., videogames</span>.</span>  
-  
-  <BR/>  
-  Let me show you how.  
-</Section>  
-  
+<Section head="Introduction">    
 <Arc head="Arc: Where to start...">  
-  Admittedly, this starts with a simple concession: that this is a generalization of many ideas whose details I don't fully understand. Though crucially, this is not important for my purposes here.  
-  
-  <BR/>  
-  
-  {/* TODO: These refs authors ... */}  
-   <span style={{textAlign: 'left', minWidth: '100%'}}>  
-     A list which undoubtedly falls short, would contain: <span className="bp5-text-muted">  
-     <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Characteristica universalis', link: 'https://en.wikipedia.org/wiki/Characteristica_universalis'}} />, <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Lingua universalis', link: 'https://en.wikipedia.org/wiki/Lingua_generalis'}} />, <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Category Theory', link: 'https://ncatlab.org/nlab/show/category+theory'}} />, <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Hypergraphs', link: 'https://en.wikipedia.org/wiki/Hypergraph'}} />, Covariant computation <Reference is="footnote" index={referenceCounter()} reference={{title: "It's all coming together: after developing the formalism (and the tools) on-and-off for a couple of years, we now glimpse the beginnings of a fully covariant theory of computation...", link: 'https://twitter.com/getjonwithit/status/1780722985747263709', authors: [{name: 'Jonathan Gorard'}], date: '2024-04-18', organizations: [ORGANIZATIONS.twitter]}} /> <Reference is="footnote" index={referenceCounter()} reference={{title: 'Continuation of Computation, Causality and Compositionality @ SEMF 2023', link: 'https://www.youtube.com/watch?v=p2vadd_6550', date: '2023-07-28', organizations: [ORGANIZATIONS.youtube, ORGANIZATIONS.semf], authors: [{name: 'Jonathan Gorard'}]}} />, <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Chyp', link: 'https://github.com/akissinger/chyp', authors: [{name: 'Aleks Kissinger'}]}} />, <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'ZX-Calculus', link: 'https://zxcalculus.com/'}} />, <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Interaction nets', link: 'https://en.wikipedia.org/wiki/Interaction_nets'}} />, ..., Infrageometry <Reference is="footnote" index={referenceCounter()} reference={REFERENCES.WOLFRAM_INSTITUTES_INFRAGEOMETRY_LIVESTREAMS.reference} /> <Reference is="footnote" index={referenceCounter()} reference={{title: 'Infrageometry', link: 'https://github.com/WolframInstitute/Infrageometry', organizations: [ORGANIZATIONS.github, ORGANIZATIONS.wolfram_institute]}} />  
-   </span>. A more complete set of ideas and a partial history of me becoming aware of them can be found in my archive <Reference is="footnote" index={referenceCounter()} reference={{title: 'https://github.com/orbitmines/archive', link: 'https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Indexing%20existing%20Abstract%20Models%20(2024-2025%3F).md', authors: [{  
-       ...PROFILES.fadi_shawki}], organizations: [ORGANIZATIONS.github, ORGANIZATIONS.orbitmines_research]}} /> and the <Reference is="reference" index={referenceCounter()} reference={{link: "https://github.com/orbitmines/library", title: "OrbitMines Library"}} simple inline />.  
-  </span>  
   
   <BR/>  <div style={{width: '100%'}}><HorizontalLine/></div>  
   <BR/>  
