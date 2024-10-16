@@ -149,13 +149,8 @@ Header
 
 - [ ] Track program, rotation, ..., interface movements. Possibly replay at some accuracy. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
 	- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
-- [ ] Test on different OS & browsers
 - [ ] going around the loop constantly ignoring dropping the one connection, unrolling the line on the loop, if both are a loop, could keep going / oscillate, or things like larger extent compare, or same frame cancel out when intersect  
 
-
-*Use the graphical rendering as the language/data embedded.Just put hte ray interface on top of that.*
-- moving along just moved a single ray, both structures intersect move throygh rach other from some other perspective ; Then whether it's ignored/branched, or doesn't interfere with each other.
-- Drop the self-loop from on-orbit check ; peek by going there, then one more step, and dropping .self and moving back to terminal
 
 ---
 
