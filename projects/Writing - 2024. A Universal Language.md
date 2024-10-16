@@ -105,8 +105,6 @@ parallel just means composing boundaries of either terminals, or initials.
 - `.all` if looking for boundary (extreme), `.any` if looking for vertex. 
 
 `.traverse / .all / .map / .any
-- places another ray at another level of description points to initial/self/terminal, then starts traversing
-- Latch the initial, latch the .self, latch the .terminal, and we determine movement.
 - those traversal layers on branches which dont go left/right but only one direction?
 - Ignorance/equivalence along arbitrary rays. = Equivalence
 `.rewrite`, `.replace`, `.collapse`
