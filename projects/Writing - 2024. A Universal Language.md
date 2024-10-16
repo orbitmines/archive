@@ -62,7 +62,6 @@ Unprocessed
 - [ ] Screenshots
 - [x] [[Symposium on Compositional Structures (SYCO)]] notes
 	- Universal as in context independence. Then rewriting is harder.  
-	- inability to do the tensor operation is what defines irreversibility?  
 	- Ignorance of the functor is absolute equality
 
 ---
@@ -80,10 +79,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 
 
 - An equivalency we don't have access to.- It halts the program. (["And there we have it ..."](@see https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=And%20there%20we%20have%20it%2C%20an%20infinity%2C%20loop%2C%20...%2C%20orbit%20if%20we%20ignore%20the%20difference.))
-- *this or superposition, what's the difference?*: This self-loop breaks the recursion because it self-referentially answers the question of: "The only thing you'll ever find here is that same structure you already had, without having to traverse that structure."
 
-
-- Coherence is expensive?
 
 - Boolean
 	- Normal way of thinking about a boolean is .orbitm we assume modularity of booleans
@@ -153,7 +149,7 @@ Examples
 Energy/Resources
 - In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
 - The larger the integer, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number) ; some loose analogy here to energy as a concept?  
-
+- Coherence is expensive?
 ---
 
 Process:
