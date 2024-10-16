@@ -293,9 +293,6 @@ def memoized(self) -> Ray:
 # Traverse as extreme>?
 
 
-def has_next(self) -> Ray: return self.next().is_some
-
-
 ```
 
 
