@@ -63,7 +63,6 @@ Unprocessed
 - [x] [[Symposium on Compositional Structures (SYCO)]] notes
 	- Universal as in context independence. Then rewriting is harder.  
 	- inability to do the tensor operation is what defines irreversibility?  
-	- Programming with edge relationship looked interesting  
 	- Ignorance of the functor is absolute equality
 
 ---
