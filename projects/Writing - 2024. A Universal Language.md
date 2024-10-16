@@ -50,7 +50,7 @@ What does it take to build a universal language? That is the main question which
 
 ---
 
-In hypergraphs, the vertices and edges are separated, in the case of reprogrammability, this becomes less obvious; When vertices mention vertices instead of edges, and edges mention other edges instead of vertices, determining whether something is an edge or vertex becomes contextual/.../dynamic.
+determining whether something is an edge or vertex becomes contextual/.../dynamic.
 
 Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 
