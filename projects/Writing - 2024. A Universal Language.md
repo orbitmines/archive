@@ -231,7 +231,7 @@ Header
 - Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
 - Simple 2d-grid, work out possible ways of representing it  
-- In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
+
 - Link back to the other stuff from the notebook as well:
 	- "Binary": just list a few possible ways of constructing it.
 		- binary reverse op is also conceivable as initial/self/terminal over two possible values
@@ -245,6 +245,9 @@ Header
 	- ....
 - Separate example of homoiconicity, move along/switch position through two local changes, or something more interesting ; take entire structure, and place at some selection.
 
+
+- In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
+- The larger the integer, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number) ; some loose analogy here to energy as a concept?  
 
 ---
 
@@ -276,7 +279,6 @@ read/write-only?
 ---
 
   
-The larger the integer, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number) ; some loose analogy here to energy as a concept?  
   
 Different way for binary numbers; flip a single ray upside down instead of two possible options, what's the difference in interpretation here? - No, this difference comes from the additional structure at the initial or terminal  
   
