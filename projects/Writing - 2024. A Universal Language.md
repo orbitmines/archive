@@ -272,11 +272,7 @@ read/write-only?
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
-  
-What are other ways of thinking about points  
-  
-Edges are vertices in another hypergraph  
-  
+
 different perspectives as coexisting, ignoring the ray, ...  
   
 In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
