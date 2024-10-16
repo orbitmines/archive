@@ -167,10 +167,6 @@ Header
 ---
 ###### Examples: Delayed till working implementation
 - [ ] Expanding superpositions to there permutations (a simple rewrite rule?) - For the general case? (/combinatorics).
-- Folding ray on high-dimensional tensor. Or some GPU operators.
-- Tensor
-	- TODO: match, switch, enum (like key=value), dict, keyvalue, pair, ....  
-	- TODO: zip, tensor (are these the same as match/switch?)
 - Encoding: Usually ignorant of its use
 - Superposed different inconsistent/logical systems
 - What can be done in parallel ; preference for it. So move to stacking in multiple layers parallel composed for execution. Need a practical example ffor this.
