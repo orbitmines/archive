@@ -256,27 +256,10 @@ Process:
 postponed (from 2023):
  * TODO ; Composability is Non-locality?  
 
+read/write-only?
+
 
 ```py
-# def free(self): raise NotImplementedError
-# TODO: Destroy the current thing, connect .initial & .terminal ? (can do just direct connection, preserves 'could have been something here') - then something like [self.initial, self, self.terminal].pop().
-# TODO: Leave behind --] [-- or connect them basically..
-# TODO: Could lazily try to find references., garbage collectors and other concepts like it.
-# TODO: Maybe want a way to destroy from one end, so that if other references try to look, they won't find additional structure.
-# TODo: __anext__ in python case might need addition async def setup? - How is that interpreted as operators for awaitable?
-
-
-@staticmethod
-# - TODO: readonly setup, where only traversal ops are allowed. Of course these are writing in some sense, but those writings aren't directly accessible from this perspective
-def readonly() -> Ray: raise NotImplementedError
-# TODO: Runtime with its read/writeonly, basically (non-/)availability of write operations. Where read operations are already also write operations from another perspective, just not the one accessible here.
-
-# TODO, writeonly would be?
-
-def memoized(self) -> Ray:
-# = cached
-# TODO: Better ideas what local caching looks like
-
 # TODO: lshift/rshift respects the .size of the ray. So it's push_back & pop front, or in certain interpretations, we might keep and not pop...
 
 # Traverse as extreme>?
