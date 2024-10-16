@@ -297,22 +297,6 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 ---
 
 <Section head="Introduction">    
-<Arc head="Arc: Where to start...">  
-  
-  <BR/>  <div style={{width: '100%'}}><HorizontalLine/></div>  
-  <BR/>  
-  I suspect that a large numbers of problems arise from a rather simple conceptual mistake. And perhaps calling it a mistake - is itself a mistake. For we are always forced to first find practical tools, before we can find better ones. But therein lies to me the possibility of that mistake: <Reference is="reference" index={referenceCounter()} reference={{link: "https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project#:~:text=Once%20something%20seemingly%20convenient%20is%20found%2C%20it%20is%20seriously%20hard%20to%20explore%20and%20steer%20away%20from%20that.", title: "\"Once something seemingly convenient is found, it is seriously hard to explore and steer away from that\""}} simple inline />.  
-  
-  <BR/>  
-  
-  Perhaps you could consider this as my attempt to provide proper infrastructure for that exploration. Perhaps not just exploration, perhaps better communication.  
-  
-  <BR/>  
-  
-  Though, in my ignorance, only recently did I become properly aware of the scope of this project <Reference is="footnote" index={referenceCounter()} reference={{title: 'This feels pretty much in the ballpark of Wolfram’s automata / Lafont’s Interaction Nets / Pearl’s causal graphs / 16th century Lingua Universalis / Hesse’s Glass bead game. So, in that vein, you have tagged a good amount of people working in this niche there.', link: 'https://twitter.com/prathyvsh/status/1760679779819540592/',  
-  authors: [{name: '@prathyvsh'}], date: '2024-02-22', organizations: [ORGANIZATIONS.twitter] }} />. And so, even though I still need to learn more about his history at some point, allow me to take on <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'Leibniz', link: 'https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz'}} />' naming: A Universal Language.  
-</Arc>  
-<BR/>  
 <Arc head="Arc: Core Ideas">  
   <Section head="A few steps back" sub="">  
     Let's first take a few steps back; this will be necessary. First, you must throw out any kind of assumptions you're bringing to the table. Just like we'll do now for Rays: Anything we'd like to make, should be phraseable in our universal language. It wouldn't be much of one if that wasn't the case.  
