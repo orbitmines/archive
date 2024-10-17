@@ -7,6 +7,10 @@ What does it take to build a universal language? That is the main question which
 
 ### 
 
+###### How to think about time, histories, ..., causal structure?
+
+######
+
 ###
 
 ###
