@@ -157,29 +157,12 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 - Breaking recursion: Local self-references, constants, orbits & Self-referential operators
 	- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
 	- Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
+- Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
 
 ---
 
 <Section head="Introduction">    
 <Arc head="Arc: Core Ideas">  
-  <Section head="A few steps back" sub="">  
-    <span style={{textAlign: 'left', minWidth: '100%'}}>Essentially what any of this comes down to. Is things are entirely inferred from surrounding context. Yet your abstractions can be ignorant of how you're using them. Whether something is a <span  
-        className="bp5-text-muted">function, number, geometry, topology, ..., structure</span> becomes quite hard to say when you consider its surrounding context [REPHRASE]. More usefully what we're doing here, is saying: "Can you see a difference? And can you ignore it?"</span>  
-  </Section>  <Section head="What is a Ray?">  
-    Simply put, a Ray consists of two parts. One part [....]  
-  </Section>  
-  <Section head="Breaking Recursion" sub="Local self-references, constants, orbits & Self-referential operators">  
-    Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.  
-  
-    <BR/>  
-  
-    {/*A simple example could be the difference INITIAL + NEGACTIVE VS TERMINAL + NEGATIVE VS INITIAL/TERMINAL*/}  
-  </Section>  
-
-  <Section head="Superposing Languages" sub="Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation">  
-
-  </Section>  
-
   <Section head="Compression" sub="Generalization of (perceived, ..., partial) geodesics">  
     <span style={{textAlign: 'left', minWidth: '100%'}}>Now that we can superpose languages, and state with better clarity what having access to certain <span  
         className="bp5-text-muted">operators, ..., structure</span> even means. We now fall into the world of compression. As this allows for a generalization of 'shorter paths' given our capabilities.</span>  
