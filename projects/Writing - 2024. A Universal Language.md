@@ -165,13 +165,13 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 Dynamics, Physics
 - ordered to talk about usefully (assymetry), higher-arity cases more in line with ignoring/invariances of that order. Where an invariance is something like a branching ray as a cursor along every entry of some other ray. ( "Also, interesting to note might be that Von Neumann and Birkhoff attempted to ground quantum mechanics using order theory (their attempt was not very successful at that)." @pr)  
 - Local changes move larger structures.
-- Cannot have interaction without an idea similar to gravity?</TODO>  
-  Shoving causal history in some direction?</TODO>  
-    Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.  
-- Particles are seemingly temporally stable orbits/modular structures?</TODO>  
-    <TODO>"Wrong dynamics" from a particular perspective, often probably still keep traversing - they still work. It's just that from the perspective you wanted, they don't.</TODO>  
-    <TODO>Reprogrammability & inconsistencies as foundational?</TODO>  
-    <TODO>Invariances at start hence a modular structure might be a necessity physically</TODO>  
+- Cannot have interaction without an idea similar to gravity?  
+-  Shoving causal history in some direction?  
+-   Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.  
+- Particles are seemingly temporally stable orbits/modular structures?  
+- Wrong dynamics" from a particular perspective, often probably still keep traversing they still work. It's just that from the perspective you wanted, they don't.  
+- Reprogrammability & inconsistencies as foundational?  
+- Invariances at start hence a modular structure might be a necessity physically
 
 ---
 
