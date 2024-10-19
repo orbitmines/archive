@@ -159,7 +159,7 @@ descriptions, definitions, lazy functions, unresolved pointers, non-committal ig
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
 - Compression: Any store about compression, becomes a story of rediscovery
 - A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
-- 
+- whose rediscoverability is not entirely obvious. In the case of version control, or reversibility, the gnawing question becomes: "What if I didn't know about something?" nor could rely on these things I currently know about.  could I rediscover this other thing I'm interested in?"  
 ---
 
 Dynamics, Physics
@@ -189,16 +189,7 @@ Mathematics
   <Section sub="Concurrency, Dependency management, Causal Histories, ..., Theorem proving">  
     <span style={{textAlign: 'left', minWidth: '100%'}}><span  
         className="bp5-text-muted">Version control, causal histories, theorem proving, ..., a (programming) language</span> are all rather similar. Always we consider some sort of <span  
-        className="bp5-text-muted">persisting, surviving, ..., crafted</span> items whose rediscoverability is not entirely obvious. In the case of version control, or reversibility, the gnawing question becomes: "What if I didn't know about something?"</span>  
-  
-    <Block>  
-    </Block>  
-    nor could rely on these things I currently know about.  
-  
-    <Block>  
-  
-    </Block>  
-    could I rediscover this other thing I'm interested in?"  
+        className="bp5-text-muted">persisting, surviving, ..., crafted</span> items 
   
     <Block>  
   
