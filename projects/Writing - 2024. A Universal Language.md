@@ -185,34 +185,7 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
   
     <Block>  
     </Block>  
-    This is essentially what it means to point to something you don't yet understand: I point in some direction without having to define what that something is.  
-  
-    <BR/>  
-  
-    This allows us to phrase what it means to have unintended, ..., unrealized effects: Essentially phrasing resources you didn't know you were consuming:  
-  
-    <Block>  
-  
-    </Block>  
-    <BR/>  
-    This begs the question: How do you phrase an expectation for something which isn't yet known?  
-  
-    <Block>  
-  
-    </Block>  
-    What do you do when the information you want is not available?  
-  
-    <Block>  
-  
-    </Block>  
-    How do you determine that something from outside available context is looking inside?  
-  
-    <Block>  
-  
-    </Block>  
-    What about effects which aren't abstractly realized, yet still have an effect on the outcome? [REPHRASE ; No causal links on one language, but the superposed one knows about them - how else could I point it out?]  
-  
-  </Section>  
+    
   <Section head="Compression" sub="Generalization of (perceived, ..., partial) geodesics">  
     <span style={{textAlign: 'left', minWidth: '100%'}}>Now that we can superpose languages, and state with better clarity what having access to certain <span  
         className="bp5-text-muted">operators, ..., structure</span> even means. We now fall into the world of compression. As this allows for a generalization of 'shorter paths' given our capabilities.</span>  
