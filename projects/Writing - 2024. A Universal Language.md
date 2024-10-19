@@ -169,14 +169,9 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
   
     {/*A simple example could be the difference INITIAL + NEGACTIVE VS TERMINAL + NEGATIVE VS INITIAL/TERMINAL*/}  
   </Section>  
-  {/* TODO Elena; "Formalism rosetta stone?" */}  
+
   <Section head="Superposing Languages" sub="Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation">  
-    Almost always with any abstraction, you'll see the following simple pattern: (1) First one of something, (2) then more of things like it, (3) then some recursive construction of that thing. And noticing that is far from obvious.  
-  
-  </Section>  
-  <Section head="Switching Perspectives">  
-  
-    But this introduces a rather hard problem, namely that: <Reference is="reference" inline simple index={referenceCounter()} reference={{title: '"Any scale, ..., any language will in some respect introduce this arbitrary complexity."', link: 'https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Any%20scale%2C%20...%2C%20any%20language%20will%20in%20some%20respect%20introduce%20this%20arbitrary%20complexity.%20The%20only%20way%20to%20properly%20deal%20with%20that%20is%20the%20possibility%20of%20exploration.%20You%20cannot%20have%20this%20without%20an%20open%20world%20generation%20aspect.', organizations: [ORGANIZATIONS.orbitmines_research]}} />.  
+
   </Section>  
   <Section head="Naming & Grouping superposed Languages">  
     <TODO>Move elsewhere?</TODO>  
