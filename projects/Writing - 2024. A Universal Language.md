@@ -159,7 +159,7 @@ descriptions, definitions, lazy functions, unresolved pointers, non-committal ig
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
 - Compression: Any store about compression, becomes a story of rediscovery
 - A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
--  But what we can say is this: Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question.. whose rediscoverability is not entirely obvious. In the case of version control, or reversibility, the gnawing question becomes: "What if I didn't know about something?" nor could rely on these things I currently know about.  could I rediscover this other thing I'm interested in?"  
+-  But what we can say is this: Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question.. whose rediscoverability is not entirely obvious. 
 ---
 
 Dynamics, Physics
