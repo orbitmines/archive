@@ -148,6 +148,10 @@ Any symmetry must be breakable - any symmetry has some ignored assymetrical prop
 
 unordered is parallel? how about set? or how about all of them but in any ofder? How about parallel, in a loop? And then parallel in a loop, excluding current one? Or excluding ones in a path (any order)
 
+---
+
+<span  
+        className="bp5-text-muted">descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures</span>. Or: We can point to things to which we don't yet have any (or a definitive) answer. Take for instance an extreme of saying: "Whatever this direction is, you need to follow it completely":
 
 ---
 
@@ -159,11 +163,7 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
   </Section>  <Section head="What is a Ray?">  
     Simply put, a Ray consists of two parts. One part [....]  
   </Section>  
- <Section head="Traversal" sub="Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences">  
- 
-  </Section>  
-  <Section head="">  
-  </Section>  <Section head="Breaking Recursion" sub="Local self-references, constants, orbits & Self-referential operators">  
+  <Section head="Breaking Recursion" sub="Local self-references, constants, orbits & Self-referential operators">  
     Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.  
   
     <BR/>  
