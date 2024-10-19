@@ -108,12 +108,8 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 ---
 
 #### Universal Version Control
-- [ ] Arbitrary (partial, ..., incomplete) history of arbitrary functions, rewrites, ..., data types (generalized to some arbitrary Ray).
-	- [ ] This then includes the automatic inclusion of existing data structures
-		- [ ] Automatically includes DPO(I), ..., Git histories.
-	- [ ] Allow for the realization that any arbitrary part of the rays are destroyed (this could include local connectivity).
 - [ ] Can have a history, but no current value. No structure, ..., type, permutation information on, ..., between vertices except for that of something we identify as history.
-- [ ] Arbitrary initial setup not necessarily optimal version. And through time find more optimal one's given a particular situation. (Hence just apply the same version control system on the version control system itself.)
+- [ ] Apply the same version control system on the version control system itself. (Generalized to keeping track of "equivalent programs")
 	- [ ] Thus requires the automatic shifting between possible ways of representing histories.
 	- [ ] This thus includes a way of mapping perceived geodesics.
 - [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
