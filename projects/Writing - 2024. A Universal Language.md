@@ -122,6 +122,7 @@ Energy/Resources
 - In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
 - The larger the integer, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number) ; some loose analogy here to energy as a concept?  
 - Coherence is expensive?
+- Names in language as a way of indexing hard-to-find things
 ---
 
 Process:
@@ -173,17 +174,7 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
   <Section head="Superposing Languages" sub="Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation">  
 
   </Section>  
-  <Section head="Naming & Grouping superposed Languages">  
-    <TODO>Move elsewhere?</TODO>  
-  
-    A lot of this comes from the realization. That most differences come from the context in which they're applied. But this presents a problem of how one often uses languages: Specific names for specific perspectives. And that makes useful generalization quite hard. [REPHRASE]  
-  
-    <BR/>  
-  
-    Essentially the problem becomes. When do you decide that a particular kind of perspective, or switch in perspective should have a different name associated with it. Essentially what we're asking, is: Why is it so important to name this differently? Would it be harder to find if one didn't do that? [REPHRASE]  
-  
-    <TODO></TODO>  
-  </Section>  <Section head="Modelling Unknowns">  
+  <Section head="Modelling Unknowns">  
     <span style={{textAlign: 'left', minWidth: '100%'}}>Part of any task then, becomes this: <Reference  
         is="reference" inline simple index={referenceCounter()} reference={{title: '"You will have to deal with being able to move in certain data structures for which there might not (yet) be a nice translation to something you can understand."', link: 'https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=You%20will%20have%20to%20deal%20with%20being%20able%20to%20move%20in%20certain%20data%20structures%20for%20which%20there%20might%20not%20(yet)%20be%20a%20nice%20translation%20to%20something%20you%20can%20understand.', organizations: [ORGANIZATIONS.orbitmines_research]}} />. This should somewhere be quite intuitive: You can use tools without knowing how to make those tools. Essentially wanting to understand unknowns, might as well be called reverse engineering: How is it done? What aspects of it can be <span  
         className="bp5-text-muted">replicated, decomposed, ..., understood</span>?</span>  
