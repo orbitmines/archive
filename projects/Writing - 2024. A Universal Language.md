@@ -150,8 +150,7 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 
 ---
 
-<span  
-        className="bp5-text-muted">descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures</span>. Or: We can point to things to which we don't yet have any (or a definitive) answer. Take for instance an extreme of saying: "Whatever this direction is, you need to follow it completely":
+descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer. Take for instance an extreme of saying: "Whatever this direction is, you need to follow it completely":
 
 - Traversal: Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 - Breaking recursion: Local self-references, constants, orbits & Self-referential operators
@@ -159,7 +158,8 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 	- Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
 - Compression: Any store about compression, becomes a story of rediscovery
-
+- A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
+- 
 ---
 
 Dynamics, Physics
@@ -183,33 +183,8 @@ Mathematics
 
 <Arc head="Arc: Examples">  
 <Arc head="Arc: Rendering Engine">  
-  <Section head={<span>A Reprogrammable <span  
-      className="bp5-text-muted">(Visual)</span> Interface</span>} sub="Open inputs, outputs, compute substrate, ..., interfaces">  
-    <span style={{textAlign: 'left', minWidth: '100%'}}>Now we finally get to the points which are the most interesting ones to me. All this allows us to phrase a setting, where we have open <span  
-        className="bp5-text-muted">inputs, outputs, compute substrate, ..., interfaces</span>.</span>  
-  
-    <BR/>  
-    Where inputs and outputs are an extreme:  
-  
-    <Block>  
-  
-    </Block>  
-    A substrate being a superposed language:  
-  
-    <Block>  
-  
-    </Block>  
-    Intermediate steps being the program:  
-  
-    <Block>  
-  
-    </Block>  
-    And the interfaces we have on it, being additional levers of control, or reading out intermediate steps (which our system could be ignorant of).  
-  
-    <Block>  
-  
-    </Block>  </Section>  <Section sub="">  
-  </Section></Arc>  
+  <Section head={<span>">  
+ </Arc>  
 <Arc head="Arc: Universal Version Control">  
   <Section sub="Concurrency, Dependency management, Causal Histories, ..., Theorem proving">  
     <span style={{textAlign: 'left', minWidth: '100%'}}><span  
