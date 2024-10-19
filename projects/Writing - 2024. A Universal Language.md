@@ -119,11 +119,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
 - [ ] Separation, combining/merging, branching
 
-## Rendering engine
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"
-
-Visualization changes
-- Small ring outline in continuation + vertex?
 
 ---
 
