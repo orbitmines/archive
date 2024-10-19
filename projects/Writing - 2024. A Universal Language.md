@@ -158,25 +158,14 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 	- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
 	- Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
-- Compression: 
+- Compression: Any store about compression, becomes a story of rediscovery
 
 ---
 
-<Section head="Introduction">    
-<Arc head="Arc: Core Ideas">  
-  <Section head="Compression" sub="Generalization of (perceived, ..., partial) geodesics">  
-    Thus, any story about compression, becomes a story of rediscovery. Bringing with it an incredibly complicated world: You will have to deal with <span  
-        className="bp5-text-muted">redundancy, ambiguity, forgetting, assumption violation, ..., inconsistencies</span>. Where changes in <span  
-        className="bp5-text-muted">resources, ..., capabilities</span> will always play a role in <span  
-        className="bp5-text-muted">how, ..., when</span> one can compress. Or even better: This will <b>always</b> play a role in any (partial) translation. It's just often ignored as a problem.</span>  
-  
+Dynamics, Phys
 
-</Arc>  
-<Arc head="Arc: Full Implementation">  
-  <Section head="Ray.py" sub="Python Implementation">  
-  
-  </Section>  <Section head="Ray.py - Ray.ts" sub="Crosscompilation of Python and TypeScript Implementation">  
-  </Section></Arc>  
+---
+
 <Arc head="Arc: Examples">  
   <Section head="Example: Dynamics" sub="Some preliminary intuitions for physics">  
     <BR/>  
@@ -187,15 +176,6 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
     <div style={{width: '100%'}}><HorizontalLine/></div>  
     <BR/>  
   
-    <TODO>Ordered to talk about usefully (assymetry), higher-arity cases more in line with ignoring/invariances of that order. Where an invariance is something like a branching ray as a cursor along every entry of some other ray. ( "Also, interesting to note might be that Von Neumann and Birkhoff attempted to ground quantum mechanics using order theory (their attempt was not very successful at that)." @pr)</TODO>  
-    <TODO>Local changes move larger structures.</TODO>  
-    <TODO>Cannot have interaction without an idea similar to gravity?</TODO>  
-    <TODO>Shoving causal history in some direction?</TODO>  
-    <TODO>Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.</TODO>  
-    <TODO>Particles are seemingly temporally stable orbits/modular structures?</TODO>  
-    <TODO>"Wrong dynamics" from a particular perspective, often probably still keep traversing - they still work. It's just that from the perspective you wanted, they don't.</TODO>  
-    <TODO>Reprogrammability & inconsistencies as foundational?</TODO>  
-    <TODO>Invariances at start hence a modular structure might be a necessity physically</TODO>  
   
   </Section>  <Section head="Example: Mathematics" sub="Some preliminary intuitions for mathematics">  
     You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. Basically: I'm saying all these things:  
