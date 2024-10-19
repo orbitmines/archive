@@ -111,7 +111,7 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - [ ] Apply the same version control system on the version control system itself. (Generalized to keeping track of "equivalent (and smaller) programs")
 - [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"\
-- [ ] Better way of thinking about needing some none
+- [ ] Better way of thinking about needing some none-one-way to describe a one-way connection
 
 ---
 
@@ -158,19 +158,8 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
   </Section>  <Section head="What is a Ray?">  
     Simply put, a Ray consists of two parts. One part [....]  
   </Section>  
-  <Section head="References" sub="Direction, arrows, ..., one-way connections">  
-    {/* TODO: This needs to be different, not good*/}  
-  
-    Similar to <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'asymmetries/symmetries', link: 'https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=What%20I%27m%20basically%20saying%20here%2C%20is%20that%20in%20order%20to%20point%20out%20some%20symmetry%2C%20invariance%2C%20...%2C%20equivalence%2C%20I%20need%20access%20to%20some%20asymmetry%2C%20variance%2C%20...%2C%20inconsistency.'}} />. The only way to show you a one-way connection, is to have access to some way in which it is not one-way. What do I mean by that? - Quite simply put it is this: If you can't remember that you forgot something, you wouldn't notice. [REPHRASE]  
-  
-  </Section>  
-  <Section head="Superpositions">  
-  
-  </Section>  <Section head="Traversal" sub="Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences">  
-    <TODO>This needs some restructure, good ordering here</TODO>  
-  
-    <TODO>?</TODO>  
-    ...TODO... This way, you can just draw a single line (or even arbitrary structure), and say: "What if I wanted to regard that as the same? What would happen?". The answer to those are far from obvious.  
+ <Section head="Traversal" sub="Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences">  
+ 
   </Section>  
   <Section head="">  
   </Section>  <Section head="Breaking Recursion" sub="Local self-references, constants, orbits & Self-referential operators">  
