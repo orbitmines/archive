@@ -153,6 +153,10 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 <span  
         className="bp5-text-muted">descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures</span>. Or: We can point to things to which we don't yet have any (or a definitive) answer. Take for instance an extreme of saying: "Whatever this direction is, you need to follow it completely":
 
+- Traversal: Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
+- Breaking recursion: Local self-references, constants, orbits & Self-referential operators
+- 
+
 ---
 
 <Section head="Introduction">    
