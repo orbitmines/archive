@@ -159,7 +159,7 @@ descriptions, definitions, lazy functions, unresolved pointers, non-committal ig
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
 - Compression: Any store about compression, becomes a story of rediscovery
 - A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
-- whose rediscoverability is not entirely obvious. In the case of version control, or reversibility, the gnawing question becomes: "What if I didn't know about something?" nor could rely on these things I currently know about.  could I rediscover this other thing I'm interested in?"  
+-  But what we can say is this: Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question.. whose rediscoverability is not entirely obvious. In the case of version control, or reversibility, the gnawing question becomes: "What if I didn't know about something?" nor could rely on these things I currently know about.  could I rediscover this other thing I'm interested in?"  
 ---
 
 Dynamics, Physics
@@ -186,24 +186,14 @@ Mathematics
   <Section head={<span>">  
  </Arc>  
 <Arc head="Arc: Universal Version Control">  
-  <Section sub="Concurrency, Dependency management, Causal Histories, ..., Theorem proving">  
-    <span style={{textAlign: 'left', minWidth: '100%'}}><span  
-        className="bp5-text-muted">Version control, causal histories, theorem proving, ..., a (programming) language</span> are all rather similar. Always we consider some sort of <span  
-        className="bp5-text-muted">persisting, surviving, ..., crafted</span> items 
-  
-    <Block>  
-  
-    </Block>  
-    Essentially, version control comes hand-in-hand with compression. It becomes a story of redundancy, ..., recoverability. And we always consider both, simultaneously.  
-  </Section>  
-</Arc>  
+
 <Arc head="Arc: Exploration and Discovery">  
   <span style={{textAlign: 'left', minWidth: '100%'}}>In exploration, one necessarily has to confront the problem of forgetting. Which becomes a tale of finding out how failures can be <span  
       className="bp5-text-muted">detected, ..., prevented</span>. How do you fight errors when rediscoverability is not obvious?</span>  
   
   <BR/>  
   <span style={{textAlign: 'left', minWidth: '100%'}}>The interesting thing about discovery, is that it's not easy to say <span  
-      className="bp5-text-muted">whether, ..., why</span> a particular strategy is a good one for exploration. But what we can say is this: Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question.</span>  
+      className="bp5-text-muted">whether, ..., why</span> a particular strategy is a good one for exploration.</span>  
   
   <BR/>  
   <TODO>Ref with examples?</TODO>  
