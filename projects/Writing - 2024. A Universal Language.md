@@ -110,7 +110,8 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - [ ] Can have a history, but no current value. No structure, ..., type, permutation information on, ..., between vertices except for that of something we identify as history.
 - [ ] Apply the same version control system on the version control system itself. (Generalized to keeping track of "equivalent (and smaller) programs")
 - [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
-- [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"
+- [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"\
+- [ ] Better way of thinking about needing some none
 
 ---
 
