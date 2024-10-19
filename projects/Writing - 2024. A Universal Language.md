@@ -126,12 +126,6 @@ Visualization changes
 - Small ring outline in continuation + vertex?
 - Intersection on screen been non-intersection in the structure, way of rendering it. (Overlapped on the screen vs overlapped in the representation)
 
-Intro
-- Ring in the middle rotsting, then expand, transparent background. grow into orbitmines logo then blank sheet, waiting for use
-	- grow from there structure onto the screen, superopositions, grow, collapse, grow..., nice animation for startup.
-- ring expanding then collapsing to a point. OM logo in the middle? ; small key to explode to outside
-
-
 ### Initial interface setup
 [[Project - Research towards Designs (2024)]]
 
