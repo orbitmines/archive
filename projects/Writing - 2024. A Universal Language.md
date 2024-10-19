@@ -173,19 +173,13 @@ Dynamics, Physics
 - Reprogrammability & inconsistencies as foundational?  
 - Invariances at start hence a modular structure might be a necessity physically
 
+Mathematics
+- You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. And this becomes problematic for mathematics if there is some way to traverse from `.self`, back to the current ray we're referencing. Which would be the moment you'd call it an inconsistency. But that as an argument, only holds up if you can indeed traverse arbitrarily. But it is likely exactly this property which allows for homoiconic foundations of mathematics 
+
 ---
 
 <Arc head="Arc: Examples">  
-  <Section head="Example: Dynamics" sub="Some preliminary intuitions for physics">  
-    <BR/>  
-  
-    But for program dynamics we can ignore those connections for now, as they are probably quite similar.  
-  
-    <BR/>  
-    <div style={{width: '100%'}}><HorizontalLine/></div>  
-    <BR/>  
-  
-  
+
   </Section>  <Section head="Example: Mathematics" sub="Some preliminary intuitions for mathematics">  
     You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. Basically: I'm saying all these things:  
   
