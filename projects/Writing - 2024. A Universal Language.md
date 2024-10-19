@@ -162,19 +162,6 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
   
     Similar to <Reference is="reference" simple inline index={referenceCounter()} reference={{title: 'asymmetries/symmetries', link: 'https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=What%20I%27m%20basically%20saying%20here%2C%20is%20that%20in%20order%20to%20point%20out%20some%20symmetry%2C%20invariance%2C%20...%2C%20equivalence%2C%20I%20need%20access%20to%20some%20asymmetry%2C%20variance%2C%20...%2C%20inconsistency.'}} />. The only way to show you a one-way connection, is to have access to some way in which it is not one-way. What do I mean by that? - Quite simply put it is this: If you can't remember that you forgot something, you wouldn't notice. [REPHRASE]  
   
-    <BR/>  
-  
-    Or in terms of our Rays: If I didn't have access to this [SOMETHING]  
-    <Block>  
-  
-    </Block>  
-    I wouldn't be able to point it out, so it would just be this:  
-  
-    <Block>  
-  
-    </Block>  
-  
-    {/* TODO Link to reversibility here>>>. */}  
   </Section>  
   <Section head="Superpositions">  
   
