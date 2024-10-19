@@ -187,35 +187,9 @@ Mathematics
  </Arc>  
 <Arc head="Arc: Universal Version Control">  
 
-Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation)
-  You could try practical guesses.  
-   
-  
-  <Section head="Fidelity" sub="Consistency checking, reverse engineering, debugging, ..., validation">  
-    Fidelity, becomes a story of trust <Reference is="footnote" index={referenceCounter()} reference={{title: "A useful extreme to point out here is 'trust'. If verification of uncertainty results into uncertainty, then trust is the point at which we simply cut off the infinite regression and say: \"Let's just trust this output\".", link: "https://orbitmines.com/papers/on-intelligibility#:~:text=A%20useful%20extreme%20to%20point%20out%20here%20is%20%27trust%27", authors: [{name: 'Fadi Shawki'}], date: '2022-12-31', organizations: [ORGANIZATIONS.orbitmines_research]}}/>. If I assume some consistency,  
-  
-    <Block>  
-  
-    </Block>  
-    <span style={{textAlign: 'left', minWidth: '100%'}}>I won't spend the resources to check whether that's actually the case: WIll something fail? That question is what fidelity means. If I have some way of checking that fidelity, that could be conceptualized as some <span  
-        className="bp5-text-muted">error correcting, ..., safety mechanism</span>. Not doing so, in some <span  
-        className="bp5-text-muted">simulation, ..., emulation</span>,</span>  
-  
-    <Block>  
-    </Block>  
-    Could have unexpected consequences:  
-  
-    <Block>  
-  
-    </Block>  
-    <TODO>Fuzzing, random changes/forgetting</TODO>  
-  </Section>  <Section head="(Self-)imposed Limitations" sub="Constraints, ..., resources">  
-    <TODO>Limitation as things which seem like they can't be changed (from some perspective)</TODO>  
-  </Section>  <Section head="Discovery" sub="Unusual, probing, ..., sporadic exploration">  
-  
-  </Section>  
-  <TODO>Link to energy?</TODO>  
-</Arc>  
+Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
+
+ 
 <Arc head="Wrapping up">  
   <Section head="Future inquiries">  
     {/*I suspect that we've always lacked a proper tool to think across fields. E*/}  
