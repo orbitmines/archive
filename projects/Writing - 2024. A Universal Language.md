@@ -52,9 +52,12 @@ What does it take to build a universal language? That is the main question which
 
 ---
 
-determining whether something is an edge or vertex becomes contextual/.../dynamic.
-
 Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
+
+- [ ] How to determine what is selected, ..., referenced?
+	- Graph as a point / edge
+- [ ] How to think about time, histories, ..., causal structure?
+- [ ] How to have multiple perspectives simultaneously?
 
 ---
 
