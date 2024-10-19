@@ -187,38 +187,9 @@ Mathematics
  </Arc>  
 <Arc head="Arc: Universal Version Control">  
 
-<Arc head="Arc: Exploration and Discovery">  
-  <span style={{textAlign: 'left', minWidth: '100%'}}>In exploration, one necessarily has to confront the problem of forgetting. Which becomes a tale of finding out how failures can be <span  
-      className="bp5-text-muted">detected, ..., prevented</span>. How do you fight errors when rediscoverability is not obvious?</span>  
-  
-  <BR/>  
-  <span style={{textAlign: 'left', minWidth: '100%'}}>The interesting thing about discovery, is that it's not easy to say <span  
-      className="bp5-text-muted">whether, ..., why</span> a particular strategy is a good one for exploration.</span>  
-  
-  <BR/>  
-  <TODO>Ref with examples?</TODO>  
-  
+Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation)
   You could try practical guesses.  
-  
-  <Block>  
-  
-  </Block>  
-  Brute-forcing enumeration:  
-  
-  <Block>  
-  
-  </Block>  
-  You could have your unknowns drive your curiosity. [EXTREMES?]  
-  
-  <Block>  
-  
-  </Block>  
-  Treating something as something it's not - essentially by simulating a "what if" scenario:  
-  
-  <Block>  
-  
-  </Block>  
-  Quite funky constructions can be used it, but we're always considering some form of error correction. [REPHRASE]  
+   
   
   <Section head="Fidelity" sub="Consistency checking, reverse engineering, debugging, ..., validation">  
     Fidelity, becomes a story of trust <Reference is="footnote" index={referenceCounter()} reference={{title: "A useful extreme to point out here is 'trust'. If verification of uncertainty results into uncertainty, then trust is the point at which we simply cut off the infinite regression and say: \"Let's just trust this output\".", link: "https://orbitmines.com/papers/on-intelligibility#:~:text=A%20useful%20extreme%20to%20point%20out%20here%20is%20%27trust%27", authors: [{name: 'Fadi Shawki'}], date: '2022-12-31', organizations: [ORGANIZATIONS.orbitmines_research]}}/>. If I assume some consistency,  
