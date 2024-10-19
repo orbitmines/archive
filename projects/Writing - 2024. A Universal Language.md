@@ -175,51 +175,13 @@ Dynamics, Physics
 
 Mathematics
 - You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. And this becomes problematic for mathematics if there is some way to traverse from `.self`, back to the current ray we're referencing. Which would be the moment you'd call it an inconsistency. But that as an argument, only holds up if you can indeed traverse arbitrarily. But it is likely exactly this property which allows for homoiconic foundations of mathematics 
+- Traversing `.self` without time-step would be a projective plane? Recursive definition of a projective plan but then (partially?) accessible as a calculus?
+- And you can probably setup ways where you can switch between discrete/infinitary stuctures at will. - Of course this doesn't mean it's easily tractable. But more that these problems become computable searchspaces.  
+-  I suspect that all these moduli-type questions become computable problems. And it should become obvious that all these moduli-type questions are only answerable if you already have access to some other moduli space.  
 
 ---
 
 <Arc head="Arc: Examples">  
-
-  </Section>  <Section head="Example: Mathematics" sub="Some preliminary intuitions for mathematics">  
-    You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. Basically: I'm saying all these things:  
-  
-    <Block>  
-  
-    </Block>  
-    are the same. But I'm ignoring how I know about that.  
-  
-    <Block>  
-  
-    </Block>  
-    Or in other words: I'm assuming their consistency - and that assumption has consequences, as alluded to here: <Reference is="reference" index={referenceCounter()} reference={{link: "https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies/#:~:text=One%20might%20as%20well%20%2D%20more%20practically%20%2D%20say%20that%20some%20consistency%2C%20...%2C%20well%2Ddefined%20property%20could%20be%20more%20vaguely%20restated%20as", title: "\"One might as well - more practically - say that some consistency, ..., well-defined property could be more vaguely restated as...\""}} simple inline />  
-  
-    <BR/>  
-    And this becomes problematic for mathematics if there is some way to traverse from `.self`, back to the current ray we're referencing. [NEEDS REPHRASING]  
-  
-    <Block>  
-  
-    </Block>  
-    <BR/>  
-    Which would be the moment you'd call it an inconsistency. But that as an argument, only holds up if you can indeed traverse arbitrarily. But it is likely exactly this property which allows for homoiconic foundations of mathematics <Reference is="footnote" index={referenceCounter()} reference={{title: "This made me think again about a question which has bugged me for a long time: what would a truly homoiconic foundation for mathematics look like? Proof theory gives one the syntax of math. Model theory gives one its semantics (i.e. the \"substrate\" on which proofs act)", link: 'https://twitter.com/_FadiShawki/status/1664387058721325056',  
-    authors: [{name: 'Jonathan Gorard'}, {name: 'Fadi Shawki'}], date: '2023-06-01', organizations: [ORGANIZATIONS.twitter] }} />. [NEEDS EXAMPLE]  
-  
-    <Block>  
-  
-    </Block>  
-    Similarly. Concepts like - absolute equality -, follow a similar pattern <Reference is="footnote" index={referenceCounter()} reference={{link: "https://www.youtube.com/live/YAwWctUq3zw?si=eieXuSLc49nmBKDp&t=6013", title: "Community Livestream | Information Continuum", date: '2024-03-14', authors: [{name: 'Fadi Shawki'}, {name: 'Carlos Zapata Carratalá'}, {name: 'Álvaro Moreno Vallori'}, {name: 'Alejandro Sospedra Orellano'}], organizations: [ORGANIZATIONS.youtube, ORGANIZATIONS.semf]}} />. Namely in the sense that it is an admission of a difference and the ignorance of it.  
-  
-    <Block>  
-  
-    </Block>  
-  
-    <TODO>      I suspect that all these moduli-type questions become computable problems. And it should become obvious that all these moduli-type questions are only answerable if you already have access to some other moduli space.  
-    </TODO>  
-    <TODO>      And you can probably setup ways where you can switch between discrete/infinitary stuctures at will. - Of course this doesn't mean it's easily tractable. But more that these problems become computable searchspaces.  
-    </TODO>  
-    <TODO>Traversing `.self` without time-step would be a projective plane? Recursive definition of a projective plan but then (partially?) accessible as a calculus?</TODO>  
-  
-  </Section></Arc>  
-  
 <Arc head="Arc: Rendering Engine">  
   <Section head={<span>A Reprogrammable <span  
       className="bp5-text-muted">(Visual)</span> Interface</span>} sub="Open inputs, outputs, compute substrate, ..., interfaces">  
