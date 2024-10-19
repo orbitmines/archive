@@ -116,7 +116,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - [ ] Arbitrary initial setup not necessarily optimal version. And through time find more optimal one's given a particular situation. (Hence just apply the same version control system on the version control system itself.)
 	- [ ] Thus requires the automatic shifting between possible ways of representing histories.
 	- [ ] This thus includes a way of mapping perceived geodesics.
-- [ ] Unrolling of loops, ..., orbits, and setup argument for what kind of information one needs to differentiate between iterations of that loop, and possibly what certain initial places were.
 - [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed and need human attentioin overarching features of some programming language (across some versions), and provide entry into what is not defined. (this a ref to the robert project)
 
 - [ ] How to separate one's personal work, how to combine them, merge them, view them from the outside.
