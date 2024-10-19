@@ -181,23 +181,10 @@ Mathematics
 
 ---
 
-<Arc head="Arc: Examples">  
-<Arc head="Arc: Rendering Engine">  
-  <Section head={<span>">  
- </Arc>  
-<Arc head="Arc: Universal Version Control">  
-
 Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
 
- 
-<Arc head="Wrapping up">  
-  <Section head="Future inquiries">  
-    {/*I suspect that we've always lacked a proper tool to think across fields. E*/}  
-    There's much left to do where this infrastructure is concerned. More specifically, I see the following steps on my horizon:  
-  
-    <BR/>  
-  
-    <span style={{textAlign: 'left', minWidth: '100%'}}>- Expanding the <Reference is="reference" index={referenceCounter()} reference={{link: "https://github.com/orbitmines/library", title: "OrbitMines Library"}} simple inline /> project. Providing steps towards <span  
+ Wrappingg up
+<span style={{textAlign: 'left', minWidth: '100%'}}>- Expanding the <Reference is="reference" index={referenceCounter()} reference={{link: "https://github.com/orbitmines/library", title: "OrbitMines Library"}} simple inline /> project. Providing steps towards <span  
         className="bp5-text-muted">language, ..., platform</span> interoperability <Reference is="footnote" index={referenceCounter()} reference={{title: "Whatever function it is that platforms and interfaces serve, they will probably converge to being more of a theme applied on a particular type of structure. Only as a supply of resources (access to certain kinds of information/compute) will they persist. They will not persist as separable interfaces.", link: "https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Whatever%20sets%20up,have%20been%20found.", organizations: [ORGANIZATIONS.orbitmines_research]}}/> <Reference is="footnote" index={referenceCounter()} reference={{title: "This would have to include higher-order version control, keeping track of causal histories. And constantly reprogramming the renderer on the fly. Before a thing like this becomes even remotely practical.\n\nBut all these intermediate things are all practical tools for a smaller audience anyway.", link: 'https://x.com/_FadiShawki/status/1790005202084335947', authors: [{name: 'Fadi Shawki'}], date: '2024-05-13', organizations: [ORGANIZATIONS.twitter]}} />.</span>  
   
     <BR/>  
@@ -216,8 +203,3 @@ Exploration: Brute-force enumeration, unkowns drive curiosity, treating somethin
     <BR/>  
     And to wrap up this "Wrapping up" arc, let me quickly repeat a few things already alluded to in my 2023 thought excerpts <Reference is="footnote" index={referenceCounter()} reference={{...ON_ORBITS.reference}}/>: <Reference is="reference" simple inline index={referenceCounter()} reference={{title: '"On self-publishing and referencing"', link: 'https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20self%2Dpublishing%20and%20referencing'}} /> & <Reference is="reference" simple inline index={referenceCounter()} reference={{title: '"On language and my bending of it"', link: 'https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20language%20and%20my%20bending%20of%20it'}} />. Which by default should carry over to everything I write down. Though repeating it might be necessary.  
   
-    <BR/>  
-  
-    In any case, even though I did not understand the scope of what I was making: We edge ever closer to the project I have been anticipating for several years now: <Reference is="reference" index={referenceCounter()} reference={{link: _2024_02_ORBITMINES_AS_A_GAME_PROJECT.reference.link, title: "OrbitMines: A Game Project"}} simple inline />. This is merely one of the first few steps of many more to come.  
-  </Section>  
-</Arc>
