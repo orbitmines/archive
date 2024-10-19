@@ -174,18 +174,7 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
   <Section head="Superposing Languages" sub="Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation">  
 
   </Section>  
-  <Section head="Modelling Unknowns">  
-    <span style={{textAlign: 'left', minWidth: '100%'}}>Part of any task then, becomes this: <Reference  
-        is="reference" inline simple index={referenceCounter()} reference={{title: '"You will have to deal with being able to move in certain data structures for which there might not (yet) be a nice translation to something you can understand."', link: 'https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=You%20will%20have%20to%20deal%20with%20being%20able%20to%20move%20in%20certain%20data%20structures%20for%20which%20there%20might%20not%20(yet)%20be%20a%20nice%20translation%20to%20something%20you%20can%20understand.', organizations: [ORGANIZATIONS.orbitmines_research]}} />. This should somewhere be quite intuitive: You can use tools without knowing how to make those tools. Essentially wanting to understand unknowns, might as well be called reverse engineering: How is it done? What aspects of it can be <span  
-        className="bp5-text-muted">replicated, decomposed, ..., understood</span>?</span>  
-  
-    <BR/>  
-    <span style={{textAlign: 'left', minWidth: '100%'}}>This lands us in the world of <span  
-        className="bp5-text-muted">descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures</span>. Or: We can point to things to which we don't yet have any (or a definitive) answer. Take for instance an extreme of saying: "Whatever this direction is, you need to follow it completely":</span>  
-  
-    <Block>  
-    </Block>  
-    
+
   <Section head="Compression" sub="Generalization of (perceived, ..., partial) geodesics">  
     <span style={{textAlign: 'left', minWidth: '100%'}}>Now that we can superpose languages, and state with better clarity what having access to certain <span  
         className="bp5-text-muted">operators, ..., structure</span> even means. We now fall into the world of compression. As this allows for a generalization of 'shorter paths' given our capabilities.</span>  
