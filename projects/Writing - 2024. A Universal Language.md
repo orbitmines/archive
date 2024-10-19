@@ -158,24 +158,19 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
 	- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
 	- Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
+- Compression: 
 
 ---
 
 <Section head="Introduction">    
 <Arc head="Arc: Core Ideas">  
   <Section head="Compression" sub="Generalization of (perceived, ..., partial) geodesics">  
-    <span style={{textAlign: 'left', minWidth: '100%'}}>Now that we can superpose languages, and state with better clarity what having access to certain <span  
-        className="bp5-text-muted">operators, ..., structure</span> even means. We now fall into the world of compression. As this allows for a generalization of 'shorter paths' given our capabilities.</span>  
-  
-    <BR/>  
-    <span style={{textAlign: 'left', minWidth: '100%'}}>Note that with compression, we're always necessarily partially ignorant <Reference is="footnote" index={referenceCounter()} reference={{title: '"The only way to actually do that, is to introduce some inconsistency along some direction"', link: 'https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=The%20only%20way%20to%20actually%20do%20that%2C%20is%20to%20introduce%20some%20inconsistency%20along%20some%20direction', organizations: [ORGANIZATIONS.orbitmines_research]}} /> of context and relying on some invariance <Reference is="footnote" index={referenceCounter()} reference={{title: '"Which would rely on strategies like easy re-discoverability for things forgotten"', link: 'https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=Which%20would%20rely%20on%20strategies%20like%20easy%20re%2Ddiscoverability%20for%20things%20forgotten', organizations: [ORGANIZATIONS.orbitmines_research]}} />. Thus, any story about compression, becomes a story of rediscovery. Bringing with it an incredibly complicated world: You will have to deal with <span  
+    Thus, any story about compression, becomes a story of rediscovery. Bringing with it an incredibly complicated world: You will have to deal with <span  
         className="bp5-text-muted">redundancy, ambiguity, forgetting, assumption violation, ..., inconsistencies</span>. Where changes in <span  
         className="bp5-text-muted">resources, ..., capabilities</span> will always play a role in <span  
         className="bp5-text-muted">how, ..., when</span> one can compress. Or even better: This will <b>always</b> play a role in any (partial) translation. It's just often ignored as a problem.</span>  
   
-    <BR/>  
-    But let's first do a dive into the implementation details, before we start attacking these problems.  
-  </Section>  
+
 </Arc>  
 <Arc head="Arc: Full Implementation">  
   <Section head="Ray.py" sub="Python Implementation">  
@@ -184,13 +179,6 @@ unordered is parallel? how about set? or how about all of them but in any ofder?
   </Section></Arc>  
 <Arc head="Arc: Examples">  
   <Section head="Example: Dynamics" sub="Some preliminary intuitions for physics">  
-    Some of these physics-related intuitions will have to be confirmed elsewhere. This is currently not my priority for understanding. I'll defer to Jonathan Gorard's <Reference is="footnote" index={referenceCounter()} reference={{title: "\"The boundary of a boundary is always empty.\"\n" +  
-        "A huge amount of (classical) physics, including much of general relativity and electromagnetism, can be deduced directly from this simple mathematical fact.\n" +  
-        "Yet, on the surface, it doesn't seem to have much to do with physics.", link: 'https://twitter.com/getjonwithit/status/1784599157015007391',  
-    authors: [{name: 'Jonathan Gorard'}], date: '2024-04-28', organizations: [ORGANIZATIONS.twitter] }} /> <Reference is="footnote" index={referenceCounter()} reference={{title: "There are many nice ways to think about light, but a fun one is that it's the propagation of a set of coordinate constraints.\n" +  
-        "Suppose that you took each point in spacetime and associated it with a little circle. Each of these little circles is called a \"fiber\".", link: 'https://twitter.com/getjonwithit/status/1784028804887064891',  
-    authors: [{name: 'Jonathan Gorard'}], date: '2024-04-27', organizations: [ORGANIZATIONS.twitter] }} /> (and other's) work for that for now.  
-  
     <BR/>  
   
     But for program dynamics we can ignore those connections for now, as they are probably quite similar.  
