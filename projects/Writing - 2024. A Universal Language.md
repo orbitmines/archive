@@ -124,14 +124,6 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 
 Visualization changes
 - Small ring outline in continuation + vertex?
-- Intersection on screen been non-intersection in the structure, way of rendering it. (Overlapped on the screen vs overlapped in the representation)
-
-### Initial interface setup
-[[Project - Research towards Designs (2024)]]
-
-- [ ] Track program, rotation, ..., interface movements. Possibly replay at some accuracy. (Some directionality seen as temporal as to interface inputs.) ; causal histories.
-	- [ ] possible: log the things one might want to undo to, instead of logging the thing something currently is after applying something  
-
 
 ---
 
