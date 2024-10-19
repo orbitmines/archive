@@ -116,9 +116,8 @@ There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "l
 - [ ] Arbitrary initial setup not necessarily optimal version. And through time find more optimal one's given a particular situation. (Hence just apply the same version control system on the version control system itself.)
 	- [ ] Thus requires the automatic shifting between possible ways of representing histories.
 	- [ ] This thus includes a way of mapping perceived geodesics.
-- [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed and need human attentioin overarching features of some programming language (across some versions), and provide entry into what is not defined. (this a ref to the robert project)
-
-- [ ] How to separate one's personal work, how to combine them, merge them, view them from the outside.
+- [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
+- [ ] Separation, combining/merging, branching
 
 ## Rendering engine
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"
