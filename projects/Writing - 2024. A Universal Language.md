@@ -79,9 +79,9 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 - .add integers: single equivalence; ` on vertices -> equiv initial from one side, terminal from other side.)
-
+Numbers, Integers, base-n, 
 Functions, variables, parameters
-- Close to `and`: `.set`, ` = `, `assign` (add to (compose with) `.self`)
+- `.set`, ` = `, `assign` (add to (compose with) `.self`)
 
 
 `.copy`
