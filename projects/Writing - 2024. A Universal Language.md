@@ -64,8 +64,6 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 
 
 Unprocessed
-- [ ] Streams 2023
-- [ ] Screenshots
 - [x] [[Symposium on Compositional Structures (SYCO)]] notes
 	- Universal as in context independence. Then rewriting is harder.  
 	- Ignorance of the functor is absolute equality
