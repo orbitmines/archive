@@ -78,8 +78,9 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 - Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
-- .add integers: single equivalence; ` on vertices -> equiv initial from one side, terminal from other side.)
-Numbers, Integers, base-n, 
+
+Numbers, Integers, base-n, fractions, floating point
+- .add integers: single equivalence; initial from one side, terminal from other side.) 
 Functions, variables, parameters
 - `.set`, ` = `, `assign` (add to (compose with) `.self`)
 
