@@ -61,6 +61,7 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 - [ ] How to have multiple perspectives simultaneously?
 
 ---
+
 - Universal as in context independence. Then rewriting is harder.  
 - Ignorance of the functor is absolute equality
 
