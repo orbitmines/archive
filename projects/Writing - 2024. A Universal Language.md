@@ -72,6 +72,7 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 - collapse the loop/infinity with an extreme
 - differentiable between two points to arbitrary precision, how is it constructed?
 - qubits, linear superpositions, complex (higher-arity) numbers?
+- Equivalence in some perspective: Does there exist a connection between the two.
 
 - Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
 
