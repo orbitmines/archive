@@ -80,7 +80,7 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 
 Numbers, Integers, base-n, fractions, floating point
-- .add integers: single equivalence; initial from one side, terminal from other side.) 
+- .add integers: single equivalence (initial from one side, terminal from other side.) 
 Functions, variables, parameters
 - `.set`, ` = `, `assign` (add to (compose with) `.self`)
 
