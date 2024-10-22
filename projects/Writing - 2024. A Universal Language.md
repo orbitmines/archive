@@ -67,8 +67,7 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 
 ---
 
-`.initial/.terminal`
-- .initial/.terminal could be seen as a part of .self, but you can only say that if you can make it separable. (So .self ignores it, hence it's different.)
+- Initial/Terminal difference assumes some spatial separation
 
 `.rewrite`, `.replace`, `.collapse`
 - start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
