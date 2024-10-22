@@ -71,6 +71,7 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 - There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "looked at, then ignored". (`none`)
 - collapse the loop/infinity with an extreme
 - differentiable between two points to arbitrary precision, how is it constructed?
+- qubits, linear superpositions, complex (higher-arity) numbers?
 
 - Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
 
@@ -86,13 +87,6 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 `.equivalent`, `.compose` ; up the arity, probably makes less sense?
 - Basically: does there exist a single connection between the two?
 - Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
-
-`qubit / linear superposition / complex numbers` is a binary superposition, ..., orbit, which is differentiable in between steps (basically, if something else from outside the context can reach in between, it would find something there. ; Based on that precision).
-
-- Reprogrammability
-	- What does it mean for a point yo become its own direction? 
-	- Data becoming function, geometry etc..
-
 
 ---
 
