@@ -67,18 +67,11 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 
 ---
 
-- Initial/Terminal difference assumes some spatial separation
-
-`.rewrite`, `.replace`, `.collapse`
-- start with one, find match, then match entire structure and revert if not. ; one way. Detach and reattach.
-- Switch perspective is switching names of functions
-
-`.none` 
-There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "looked at, then ignored".
+- Initial/Terminal difference assumes some spatial separation 
+- There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "looked at, then ignored". (`none`)
 - collapse the loop/infinity with an extreme
 
-
-- Boolean: Normal way of thinking about a boolean is .orbitm we assume modularity of booleans
+- Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 - .add integers: single equivalence; ` on vertices -> equiv initial from one side, terminal from other side.)
