@@ -70,6 +70,7 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 - Initial/Terminal difference assumes some spatial separation 
 - There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "looked at, then ignored". (`none`)
 - collapse the loop/infinity with an extreme
+- differentiable between two points to arbitrary precision, how is it constructed?
 
 - Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
 
