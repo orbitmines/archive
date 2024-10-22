@@ -73,6 +73,7 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 - differentiable between two points to arbitrary precision, how is it constructed?
 - qubits, linear superpositions, complex (higher-arity) numbers?
 - Equivalence in some perspective: Does there exist a connection between the two.
+	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 
 - Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
 
@@ -84,10 +85,6 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 `.copy`
 - Say some modular structure: send traversing left & right simultaneously, and cancel each other out
 - Copy as traversing entire structure
-
-`.equivalent`, `.compose` ; up the arity, probably makes less sense?
-- Basically: does there exist a single connection between the two?
-- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 
 ---
 
