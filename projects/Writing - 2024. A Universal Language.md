@@ -61,12 +61,8 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 - [ ] How to have multiple perspectives simultaneously?
 
 ---
-
-
-Unprocessed
-- [x] [[Symposium on Compositional Structures (SYCO)]] notes
-	- Universal as in context independence. Then rewriting is harder.  
-	- Ignorance of the functor is absolute equality
+- Universal as in context independence. Then rewriting is harder.  
+- Ignorance of the functor is absolute equality
 
 ---
 
