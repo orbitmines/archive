@@ -87,7 +87,7 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 
 - Initial/Terminal difference assumes some spatial separation 
 - There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "looked at, then ignored". (`none`)
-- collapse the loop/infinity with an extreme
+- collapse the loop/infinity with an extreme -> Two branching pointers sent in opposite direction which annihilate when they cross each-other.
 - differentiable between two points to arbitrary precision, how is it constructed?
 - qubits, linear superpositions, complex (higher-arity) numbers?
 - Equivalence in some perspective: Does there exist a connection between the two.
