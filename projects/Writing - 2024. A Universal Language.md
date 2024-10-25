@@ -24,6 +24,8 @@
 
 - What does a mapping look like?
 
+- Take as an example vertex mapping of domain to codomain as an example perspective. Then "Image" would be a perspective which only sees the codomain (as a set, and unordered, deduplicated - How to represent this?) Which is ignorant of the 
+
 Separate underlying structure from `.self`
 
 - "Capturing: What is the essence of differences and similarities" ; Not just that something is equivalent, but how/why
