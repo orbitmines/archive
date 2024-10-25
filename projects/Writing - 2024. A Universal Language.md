@@ -22,6 +22,8 @@
 
 ---
 
+- What does a mapping look like?
+
 Separate underlying structure from `.self`
 
 - "Capturing: What is the essence of differences and similarities" ; Not just that something is equivalent, but how/why
