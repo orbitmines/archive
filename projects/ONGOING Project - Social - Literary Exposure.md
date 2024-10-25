@@ -79,7 +79,8 @@ console.log(res);
 
 ### Literary Exposure
 - [Applied Category Theory in Chemistry, Computing, and Social Networks (2022)](https://math.ucr.edu/home/baez/mrc_2022.pdf) ; *John Baez, Simon Cho, Daniel Cicala, Nina Otter, Valeria de Paiva*
-- [Uniqueness Trees: A Possible Polynomial Approach to the Graph Isomorphism Problem ()]
+- [Uniqueness Trees: A Possible Polynomial Approach to the Graph Isomorphism Problem (2016)](https://arxiv.org/pdf/1606.06399) ; *Jonathan Gorard*
+
 
 # 2024, September - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
