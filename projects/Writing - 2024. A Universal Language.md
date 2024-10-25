@@ -27,7 +27,7 @@
 
 - Take as an example vertex mapping of domain to codomain as an example perspective. Then "Image" would be a perspective which only sees the codomain (as a set, and unordered, deduplicated - How to represent this?) Which is ignorant of the mapping perspective. Superpose these two on top of each other?
 
-- Isomorphism under ignored directions how?
+- Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
 ---
 
