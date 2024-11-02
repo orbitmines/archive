@@ -56,7 +56,6 @@ Separate underlying structure from `.self`
 		- [ ] Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
 	- [ ] **Modularity, Loops, Cycles**: **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
 		- [ ] "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
-		- [ ] Similarly, always a "superposed type" ; as structure??
 		- [ ] Permutation selection of modular structures, to iterate over each possible selection
 		- [ ] .orbit: modularity by default? (turn off by splitting the boundary in two. Could do this locally with a wall)
 	- [ ] 
