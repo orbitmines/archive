@@ -51,8 +51,6 @@
 		- [ ] "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
 		- [ ] Permutation selection of modular structures, to iterate over each possible selection
 		- [ ] .orbit: modularity by default? (turn off by splitting the boundary in two. Could do this locally with a wall)
-	- [ ] 
-	- [ ] Way of interpreting possible representations (as equivalences, but then for a particular purpose);
 - [ ] Factory (Version Control, Causal histories, ..., Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] Causal history = coherence conditions ; ex: some input-output relation where some binary value switches, coherence in mapping 0 -> 0, 1->1, but change in selection.
