@@ -51,10 +51,14 @@
 		- [ ] "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
 		- [ ] Permutation selection of modular structures, to iterate over each possible selection
 		- [ ] .orbit: modularity by default? (turn off by splitting the boundary in two. Could do this locally with a wall)
+
+After
 - [ ] Factory (Version Control, Causal histories, ..., Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] Causal history = coherence conditions ; ex: some input-output relation where some binary value switches, coherence in mapping 0 -> 0, 1->1, but change in selection.
 	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
+	- [ ] Apply the same version control system on the version control system itself. (Generalized to keeping track of "equivalent (and smaller) programs")
+	- [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
 
 ---
 
@@ -82,8 +86,6 @@ Functions, variables, parameters
 
 ---
 
-- [ ] Apply the same version control system on the version control system itself. (Generalized to keeping track of "equivalent (and smaller) programs")
-- [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"\
 - [ ] Better way of thinking about needing some none-one-way to describe a one-way connection
 
