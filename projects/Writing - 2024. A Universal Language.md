@@ -80,6 +80,10 @@
 - Coherence is expensive? - Takes a lot of structure
 - Names in language as a way of indexing hard-to-find things
 
+###### Statements?
+- Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
+- Want to allow for conflicting perspectives, of which aspects can still be invariant
+- Better way of thinking about needing some none-one-way to describe a one-way connection
 
 ---
 
@@ -93,23 +97,9 @@
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 
-`.copy`
-- Say some modular structure: send traversing left & right simultaneously, and cancel each other out
-- Copy as traversing entire structure
-
 ---
 
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"\
-- [ ] Better way of thinking about needing some none-one-way to describe a one-way connection
-
----
-
-
----
-
-Process:
-- Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
-- Want to allow for conflicting perspectives, of which aspects can still be invariant
 
 ---
 
