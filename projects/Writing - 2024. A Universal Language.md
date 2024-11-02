@@ -47,7 +47,8 @@ Separate underlying structure from `.self`
 	- [ ] Type information + selection combination
 	- [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
 	- [ ] Memorization vs rerunning
-	- [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstraction level ; ex. no nice mappings)) 
+	- [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstraction level ; ex. no nice mappings))
+		- Function as direction on "an unknown (optionally of some type/structure)"
 	- [x] Notion of inaccessible additional complexity (say some javascript object which is not accessible but we can still use/return)
 	- [ ] How about inaccessible structures, like some mapping we don't have access to (say: input&output only, nothing in between)
 	- [ ] Way of dealing with orbits, realization of them, and switch to a variant which is aware of the orbit??? (ref on boundary now?)
