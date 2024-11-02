@@ -142,14 +142,10 @@ Dynamics, Physics
 -   Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.  
 - Particles are seemingly temporally stable orbits/modular structures?  
 - Wrong dynamics" from a particular perspective, often probably still keep traversing they still work. It's just that from the perspective you wanted, they don't.  
-- Reprogrammability & inconsistencies as foundational?  
-- Invariances at start hence a modular structure might be a necessity physically
 
 Mathematics
 - You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. And this becomes problematic for mathematics if there is some way to traverse from `.self`, back to the current ray we're referencing. Which would be the moment you'd call it an inconsistency. But that as an argument, only holds up if you can indeed traverse arbitrarily. But it is likely exactly this property which allows for homoiconic foundations of mathematics 
 - Traversing `.self` without time-step would be a projective plane? Recursive definition of a projective plan but then (partially?) accessible as a calculus?
-- And you can probably setup ways where you can switch between discrete/infinitary stuctures at will. - Of course this doesn't mean it's easily tractable. But more that these problems become computable searchspaces.  
--  I suspect that all these moduli-type questions become computable problems. And it should become obvious that all these moduli-type questions are only answerable if you already have access to some other moduli space.  
 
 ---
 
