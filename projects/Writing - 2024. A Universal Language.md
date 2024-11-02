@@ -51,7 +51,6 @@ Separate underlying structure from `.self`
 		- Function as direction on "an unknown (optionally of some type/structure)"
 	- [x] Notion of inaccessible additional complexity (say some javascript object which is not accessible but we can still use/return)
 	- [ ] How about inaccessible structures, like some mapping we don't have access to (say: input&output only, nothing in between)
-	- [ ] Way of dealing with orbits, realization of them, and switch to a variant which is aware of the orbit??? (ref on boundary now?)
 	- [ ] .terminal = .initial (self-referential ray like this)
 	- [ ] **Ordered/Unordered**: It is ordered from one perspective, unordered from another.
 		- [ ] Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
