@@ -58,10 +58,6 @@
 
 ---
 
-- Ignorance of the functor is absolute equality
-
----
-
 - There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "looked at, then ignored". (`none`)
 - collapse the loop/infinity with an extreme 
 	- or-> Two branching pointers sent in opposite direction which annihilate when they cross each-other.
@@ -86,7 +82,6 @@ Functions, variables, parameters
 
 ---
 
-- [ ] Can have a history, but no current value. No structure, ..., type, permutation information on, ..., between vertices except for that of something we identify as history.
 - [ ] Apply the same version control system on the version control system itself. (Generalized to keeping track of "equivalent (and smaller) programs")
 - [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"\
