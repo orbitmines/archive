@@ -124,8 +124,7 @@ Examples
 - Geometry: 0 (dividing at the boundary) already assumes some notion of distance?
 
 Energy/Resources
-- In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
-- The larger the integer, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number) ; some loose analogy here to energy as a concept?  
+- The larger the integer/fraction, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
 - Coherence is expensive?
 - Names in language as a way of indexing hard-to-find things
 ---
