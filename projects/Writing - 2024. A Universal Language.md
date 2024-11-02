@@ -33,7 +33,6 @@
 ---
 
 - "On Structure and Interaction"
-- Implement a simple getter /setter structure in the initial/terminals? as reversible memoized 
 
 
 *Thoughts going over 2022-2023 notebook (reprocessing)*
