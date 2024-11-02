@@ -64,6 +64,7 @@
 	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 	- [ ] Apply the same version control system on the version control system itself. (Generalized to keeping track of "equivalent (and smaller) programs")
 	- [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
+- Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
 
 ---
 
@@ -135,7 +136,7 @@ descriptions, definitions, lazy functions, unresolved pointers, non-committal ig
 ---
 
 Dynamics, Physics
-- ordered to talk about usefully (assymetry), higher-arity cases more in line with ignoring/invariances of that order. Where an invariance is something like a branching ray as a cursor along every entry of some other ray. ( "Also, interesting to note might be that Von Neumann and Birkhoff attempted to ground quantum mechanics using order theory (their attempt was not very successful at that)." @pr)  
+- ordered to talk about usefully (assymetry), higher-arity cases more in line with ignoring/invariances of that order. Where an invariance is something like a branching ray as a cursor along every entry of some other ray. 
 - Local changes move larger structures.
 - Shoving causal history in some direction?  ; determining traversal of branched structure??
 - Particles are seemingly temporally stable orbits/modular structures?  
@@ -143,28 +144,3 @@ Dynamics, Physics
 Mathematics
 - You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. And this becomes problematic for mathematics if there is some way to traverse from `.self`, back to the current ray we're referencing. Which would be the moment you'd call it an inconsistency. But that as an argument, only holds up if you can indeed traverse arbitrarily. But it is likely exactly this property which allows for homoiconic foundations of mathematics 
 - Traversing `.self` without time-step would be a projective plane? Recursive definition of a projective plan but then (partially?) accessible as a calculus?
-
----
-
-Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
-
- Wrappingg up
-<span style={{textAlign: 'left', minWidth: '100%'}}>- Expanding the <Reference is="reference" index={referenceCounter()} reference={{link: "https://github.com/orbitmines/library", title: "OrbitMines Library"}} simple inline /> project. Providing steps towards <span  
-        className="bp5-text-muted">language, ..., platform</span> interoperability <Reference is="footnote" index={referenceCounter()} reference={{title: "Whatever function it is that platforms and interfaces serve, they will probably converge to being more of a theme applied on a particular type of structure. Only as a supply of resources (access to certain kinds of information/compute) will they persist. They will not persist as separable interfaces.", link: "https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=Whatever%20sets%20up,have%20been%20found.", organizations: [ORGANIZATIONS.orbitmines_research]}}/> <Reference is="footnote" index={referenceCounter()} reference={{title: "This would have to include higher-order version control, keeping track of causal histories. And constantly reprogramming the renderer on the fly. Before a thing like this becomes even remotely practical.\n\nBut all these intermediate things are all practical tools for a smaller audience anyway.", link: 'https://x.com/_FadiShawki/status/1790005202084335947', authors: [{name: 'Fadi Shawki'}], date: '2024-05-13', organizations: [ORGANIZATIONS.twitter]}} />.</span>  
-  
-    <BR/>  
-    - Additional steps towards gamified learning: <Reference is="reference" index={referenceCounter()} reference={{link: "https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Research%20towards%20Designs%20(2024).md", title: "Research Towards Designs (2024)", organizations: [ORGANIZATIONS.github, ORGANIZATIONS.orbitmines_research]}} simple inline />.  
-  
-    <BR/>  
-  
-    - The setting up of <Reference is="reference" index={referenceCounter()} reference={{link: "https://github.com/orbitmines/archive/blob/main/projects/Project%20-%20Computer%20Networking%2C%20Security%2C%20Encryption%20%20%26%20Communication%20(2025%3F).md", title: "Universal Networking Infrastructure (2025)", organizations: [ORGANIZATIONS.github, ORGANIZATIONS.orbitmines_research]}} simple inline />.  
-  
-    <BR/>  
-  
-    And plenty of other explorations. Though now that this initial theoretical step is behind me, my hope is that my projects will start picking up in pace.  
-  
-    <BR/>  
-    <div style={{width: '100%'}}><HorizontalLine/></div>  
-    <BR/>  
-    And to wrap up this "Wrapping up" arc, let me quickly repeat a few things already alluded to in my 2023 thought excerpts <Reference is="footnote" index={referenceCounter()} reference={{...ON_ORBITS.reference}}/>: <Reference is="reference" simple inline index={referenceCounter()} reference={{title: '"On self-publishing and referencing"', link: 'https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20self%2Dpublishing%20and%20referencing'}} /> & <Reference is="reference" simple inline index={referenceCounter()} reference={{title: '"On language and my bending of it"', link: 'https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=On%20language%20and%20my%20bending%20of%20it'}} />. Which by default should carry over to everything I write down. Though repeating it might be necessary.  
-  
