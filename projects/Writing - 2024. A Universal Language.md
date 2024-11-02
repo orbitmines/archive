@@ -81,7 +81,6 @@ Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
 
 ---
 
-- Initial/Terminal difference assumes some spatial separation 
 - There are many ways of phrasing ; "it's explored/.../branched but dies", ..., "looked at, then ignored". (`none`)
 - collapse the loop/infinity with an extreme 
 	- or-> Two branching pointers sent in opposite direction which annihilate when they cross each-other.
