@@ -76,8 +76,6 @@ After
 
 Numbers, Integers, base-n, fractions, floating point
 - .add integers: single equivalence (initial from one side, terminal from other side.) 
-Functions, variables, parameters
-- `.set`, ` = `, `assign` (add to (compose with) `.self`)
 
 
 `.copy`
