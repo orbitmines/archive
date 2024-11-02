@@ -45,7 +45,6 @@
 	- [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstraction level ; ex. no nice mappings))
 		- Function as direction on "an unknown (optionally of some type/structure)"
 		- Functions as unrealized directions on any point
-	- [ ] How about inaccessible structures, like some mapping we don't have access to (say: input&output only, nothing in between)
 	- [ ] **Ordered/Unordered**: It is ordered from one perspective, unordered from another.
 		- [ ] Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
 	- [ ] **Modularity, Loops, Cycles**: **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
