@@ -51,7 +51,7 @@
 		- [ ] "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
 		- [ ] Permutation selection of modular structures, to iterate over each possible selection
 		- [ ] .orbit: modularity by default? (turn off by splitting the boundary in two. Could do this locally with a wall)
-
+- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
 ###### Function Repository
 - Breaking recursion: Local self-references, constants, orbits & Self-referential operators
 	- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
@@ -62,7 +62,7 @@
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] Causal history = coherence conditions ; ex: some input-output relation where some binary value switches, coherence in mapping 0 -> 0, 1->1, but change in selection.
 	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
-	- [ ] Apply the same version control system on the version control system itself. (Generalized to keeping track of "equivalent (and smaller) programs")
+	- [ ] Apply the same version control system on the version control system itself. 
 	- [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
 - Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
 
@@ -96,8 +96,6 @@ Numbers, Integers, base-n, fractions, floating point
 ---
 
 Examples
-- Description which generates the thing I'm interested in, formulated how?
-
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
 - Two zero points cross paths at endpoints, what is the interpretation
 - 2d grid expansion as an example base rewrite rule, "expand loop"
