@@ -90,8 +90,6 @@ Numbers, Integers, base-n, fractions, floating point
 ---
 
 Examples
-- Pattern matching
-- if-else branching
 - Description which generates the thing I'm interested in, formulated how?
 
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
