@@ -125,7 +125,7 @@ Examples
 
 Energy/Resources
 - The larger the integer/fraction, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
-- Coherence is expensive?
+- Coherence is expensive? - Takes a lot of structure
 - Names in language as a way of indexing hard-to-find things
 ---
 
