@@ -32,9 +32,6 @@
 
 ---
 
-Separate underlying structure from `.self`
-
-- Have some nice translations for these concepts: (hyper-/)'Vertex', (hyper-/)'Edge', (hyper-/)'Graph', (hyper-/)'Rule', (hyper-/)'Tactic', (hyper-/)..., (hyper-/)'Rewrite'
 - "On Structure and Interaction"
 - Implement a simple getter /setter structure in the initial/terminals? as reversible memoized 
 
