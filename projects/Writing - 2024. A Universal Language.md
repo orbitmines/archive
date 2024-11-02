@@ -107,10 +107,6 @@ Process:
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
 - Want to allow for conflicting perspectives, of which aspects can still be invariant
 
-
-`.unordered`
-	- Ref to initial/terminal enumeration / extremes somehow?
-
 ---
 
 Spatial separation is what allows for parallel/simultaneous rewrites under some maximum travel speed (for causality) 
