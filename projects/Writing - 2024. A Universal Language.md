@@ -127,7 +127,7 @@ Examples
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
 - Two zero points cross paths at endpoints, what is the interpretation
 - 2d grid expansion as an example base rewrite rule, "expand loop"
-- Geometry: 0 (dividing ) already assumes some notion of distance?
+- Geometry: 0 (dividing at the boundary) already assumes some notion of distance?
 
 Energy/Resources
 - In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
