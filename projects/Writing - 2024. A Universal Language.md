@@ -125,6 +125,8 @@ Examples
 - Description which generates the thing I'm interested in, formulated how?
 
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
+- Two zero points cross paths at endpoints, what is the interpretation
+- 
 
 Energy/Resources
 - In compression tasks, is in the case of real numbers, the length of a fraction considered as a resource? - More precision, the larger the structure
