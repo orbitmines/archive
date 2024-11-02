@@ -50,7 +50,6 @@ Separate underlying structure from `.self`
 	- [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstraction level ; ex. no nice mappings))
 		- Function as direction on "an unknown (optionally of some type/structure)"
 		- Functions as unrealized directions on any point
-	- [x] Notion of inaccessible additional complexity (say some javascript object which is not accessible but we can still use/return)
 	- [ ] How about inaccessible structures, like some mapping we don't have access to (say: input&output only, nothing in between)
 	- [ ] .terminal = .initial (self-referential ray like this)
 	- [ ] **Ordered/Unordered**: It is ordered from one perspective, unordered from another.
