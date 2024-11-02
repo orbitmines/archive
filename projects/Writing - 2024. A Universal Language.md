@@ -63,8 +63,6 @@ Separate underlying structure from `.self`
 	- [ ] Way of interpreting possible representations (as equivalences, but then for a particular purpose);
 - [ ] Factory (Version Control, Causal histories, ..., Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
-	- [ ] Build up store of equivalences & patterns in some structure.
-	- [ ] Notion of some intermediate state matching a selection
 	- [ ] Causal history = coherence conditions ; ex: some input-output relation where some binary value switches, coherence in mapping 0 -> 0, 1->1, but change in selection.
 	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
