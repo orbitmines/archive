@@ -58,16 +58,6 @@
 
 ---
 
-Interpreting; Functions (and coordinate spaces), variables, speeds, acceleration
-
-- [ ] How to determine what is selected, ..., referenced?
-	- Graph as a point / edge
-- [ ] How to think about time, histories, ..., causal structure?
-- [ ] How to have multiple perspectives simultaneously?
-
----
-
-- Universal as in context independence. Then rewriting is harder.  
 - Ignorance of the functor is absolute equality
 
 ---
