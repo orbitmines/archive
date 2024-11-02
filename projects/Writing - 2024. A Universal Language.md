@@ -76,13 +76,7 @@
 - Equivalence in some perspective: Does there exist a connection between the two.
 	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 
-- Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
-
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
-
-Numbers, Integers, base-n, fractions, floating point
-- .add integers: single equivalence (initial from one side, terminal from other side.) 
-
 
 `.copy`
 - Say some modular structure: send traversing left & right simultaneously, and cancel each other out
@@ -100,11 +94,16 @@ Examples
 - Two zero points cross paths at endpoints, what is the interpretation
 - 2d grid expansion as an example base rewrite rule, "expand loop"
 - Geometry: 0 (dividing at the boundary) already assumes some notion of distance?
+- Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
+- Numbers, Integers, base-n, fractions, floating point
+	- .add integers: single equivalence (initial from one side, terminal from other side.) 
+
 
 Energy/Resources
 - The larger the integer/fraction, the larger the number of digits in a fractal, the more structure tou need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
 - Coherence is expensive? - Takes a lot of structure
 - Names in language as a way of indexing hard-to-find things
+
 ---
 
 Process:
