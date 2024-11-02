@@ -137,11 +137,8 @@ descriptions, definitions, lazy functions, unresolved pointers, non-committal ig
 Dynamics, Physics
 - ordered to talk about usefully (assymetry), higher-arity cases more in line with ignoring/invariances of that order. Where an invariance is something like a branching ray as a cursor along every entry of some other ray. ( "Also, interesting to note might be that Von Neumann and Birkhoff attempted to ground quantum mechanics using order theory (their attempt was not very successful at that)." @pr)  
 - Local changes move larger structures.
-- Cannot have interaction without an idea similar to gravity?  
--  Shoving causal history in some direction?  
--   Something like: Constantly all the rays as functions are executing (in orbits), then if something causes something else's behavior to change, you get the inconsistencies.  
+- Shoving causal history in some direction?  ; determining traversal of branched structure??
 - Particles are seemingly temporally stable orbits/modular structures?  
-- Wrong dynamics" from a particular perspective, often probably still keep traversing they still work. It's just that from the perspective you wanted, they don't.  
 
 Mathematics
 - You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. And this becomes problematic for mathematics if there is some way to traverse from `.self`, back to the current ray we're referencing. Which would be the moment you'd call it an inconsistency. But that as an argument, only holds up if you can indeed traverse arbitrarily. But it is likely exactly this property which allows for homoiconic foundations of mathematics 
