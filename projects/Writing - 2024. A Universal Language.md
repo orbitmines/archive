@@ -77,7 +77,8 @@
 	- .add integers: single equivalence (initial from one side, terminal from other side.) 
 - Single point, all perspectives. Ref on initial, entire initial ref as the .self, what about "entire" under some maximum travel speed/steps (or some variant of that idea)
 - Initial/terminal, what does a generalized variant of more than those two look like?
-- Progra
+- Program language syntax
+- Nested arrays as structure on the initials, different than a 2d grid. + How does this work with unrealized array functions, or realized ones? Like .at(index).
 
 ###### Energy/Resources
 - The larger the integer/fraction, the larger the number of digits in a fractal, the more structure you need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
