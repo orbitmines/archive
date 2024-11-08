@@ -65,6 +65,7 @@
 	- [ ] Apply the same version control system on the version control system itself. 
 	- [ ] Which I believe was something along the lines of seeing where certain changes had happened in dependencies/how that would break symmetries, notify that they have changed, and provide entry into what is not defined.
 - Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
+- [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"\
 
 ###### Examples
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
@@ -84,6 +85,15 @@
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
 - Want to allow for conflicting perspectives, of which aspects can still be invariant
 - Better way of thinking about needing some none-one-way to describe a one-way connection
+- Dynamics, Physics
+	- ordered to talk about usefully (assymetry), higher-arity cases more in line with ignoring/invariances of that order. Where an invariance is something like a branching ray as a cursor along every entry of some other ray. 
+	- Local changes move larger structures.
+	- Shoving causal history in some direction?  ; determining traversal of branched structure??
+	- Particles are seemingly temporally stable orbits/modular structures?  
+- Mathematics
+	- You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. And this becomes problematic for mathematics if there is some way to traverse from `.self`, back to the current ray we're referencing. Which would be the moment you'd call it an inconsistency. But that as an argument, only holds up if you can indeed traverse arbitrarily. But it is likely exactly this property which allows for homoiconic foundations of mathematics 
+	- Traversing `.self` without time-step would be a projective plane? Recursive definition of a projective plan but then (partially?) accessible as a calculus?
+
 
 ---
 
@@ -96,10 +106,6 @@
 	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
-
----
-
-- [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"\
 
 ---
 
@@ -122,13 +128,3 @@ descriptions, definitions, lazy functions, unresolved pointers, non-committal ig
 - A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
 -  But what we can say is this: Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question.. whose rediscoverability is not entirely obvious. 
 ---
-
-Dynamics, Physics
-- ordered to talk about usefully (assymetry), higher-arity cases more in line with ignoring/invariances of that order. Where an invariance is something like a branching ray as a cursor along every entry of some other ray. 
-- Local changes move larger structures.
-- Shoving causal history in some direction?  ; determining traversal of branched structure??
-- Particles are seemingly temporally stable orbits/modular structures?  
-
-Mathematics
-- You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. And this becomes problematic for mathematics if there is some way to traverse from `.self`, back to the current ray we're referencing. Which would be the moment you'd call it an inconsistency. But that as an argument, only holds up if you can indeed traverse arbitrarily. But it is likely exactly this property which allows for homoiconic foundations of mathematics 
-- Traversing `.self` without time-step would be a projective plane? Recursive definition of a projective plan but then (partially?) accessible as a calculus?
