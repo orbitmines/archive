@@ -112,8 +112,6 @@
 Spatial separation is what allows for parallel/simultaneous rewrites under some maximum travel speed (for causality) 
 
 ---
-  
-
 
 unordered is parallel? how about set? or how about all of them but in any ofder? How about parallel, in a loop? And then parallel in a loop, excluding current one? Or excluding ones in a path (any order)
 
@@ -124,7 +122,7 @@ descriptions, definitions, lazy functions, unresolved pointers, non-committal ig
 - Traversal: Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
-- Compression: Any store about compression, becomes a story of rediscovery
+- Compression: Any story about compression, becomes a story of rediscovery
 - A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
 -  But what we can say is this: Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question.. whose rediscoverability is not entirely obvious. 
 ---
