@@ -30,6 +30,8 @@
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
+- Local rewriting
+
 ---
 
 - "On Structure and Interaction"
