@@ -75,7 +75,7 @@ console.log(res);
 
 ![[Pasted image 20240604084826.png]]
 
-# 2024, October - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+# 2024, October, November & December - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
 - [Applied Category Theory in Chemistry, Computing, and Social Networks (2022)](https://math.ucr.edu/home/baez/mrc_2022.pdf) ; *John Baez, Simon Cho, Daniel Cicala, Nina Otter, Valeria de Paiva*
