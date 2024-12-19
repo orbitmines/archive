@@ -1,3 +1,0 @@
-/media/fs/hdd-18tb-003/_legacy_backup/8tb-hdd-I/backup_ssd_500/Fadi PC Backup/Laptop Backup/Desktop/openmod/HideAndSeekArena5/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/Backup.2020/backup/Fadi PC Backup/Laptop Backup/Desktop/openmod/HideAndSeekArena5/level.dat
-/home/fs/.minecraft/saves/HideAndSeekArena5/level.dat

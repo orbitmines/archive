@@ -1,6 +1,0 @@
-/media/fs/hdd-18tb-003/_legacy_backup/disk_2tb/people/laptop backu/backup/minecraft/servers/TODO_name_server/world/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/disk_2tb/people/laptop backu/backup/minecraft/servers/TODO_name_server/world2/DIVERSITY 3 v1.6.5 - for 1.14.4/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/backup/minecraft/servers/TODO_name_server/world/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/backup/minecraft/servers/TODO_name_server/world2/DIVERSITY 3 v1.6.5 - for 1.14.4/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/minecraft/servers/TODO_name_server/world/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/minecraft/servers/TODO_name_server/world2/DIVERSITY 3 v1.6.5 - for 1.14.4/level.dat

@@ -1,8 +1,0 @@
-name: FireWorks
-author: O_o_Fadi_o_O
-version: 1.0
-description: FireWorks by O_o_Fadi_o_O
-main: me.O_o_Fadi_o_O.FireWorks.Start
-commands:
-   fw:
-     description: FireWorks Help

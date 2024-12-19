@@ -1,8 +1,0 @@
-name: Event-Survival
-author: O_o_Fadi_o_O
-version: 1.0
-description: Event-Survival by O_o_Fadi_o_O
-main: me.O_o_Fadi_o_O.Event.Start
-commands:
-  startgame:
-    description: Start the Game!

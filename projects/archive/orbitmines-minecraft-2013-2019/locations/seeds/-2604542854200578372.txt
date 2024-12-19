@@ -1,9 +1,0 @@
-/media/fs/hdd-18tb-003/_legacy_backup/disk_2tb/people/laptop backu/backup/projects/mc-fs/test/.server/world_the_end/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/disk_2tb/people/laptop backu/backup/projects/mc-fs/test/.server/world_nether/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/disk_2tb/people/laptop backu/backup/projects/mc-fs/test/.server/world/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/projects/mc-fs/test/.server/world_the_end/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/projects/mc-fs/test/.server/world_nether/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/projects/mc-fs/test/.server/world/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/backup/projects/mc-fs/test/.server/world_the_end/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/backup/projects/mc-fs/test/.server/world_nether/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/backup_II/backup/projects/mc-fs/test/.server/world/level.dat

@@ -1,8 +1,0 @@
-/media/fs/hdd-18tb-003/_legacy_backup/8tb-hdd-I/backup_ssd_500/Fadi PC Backup/PC Backup 2015-08-03/OrbitMines/World Backups/Update Mei 2015/CreativeLobby/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/8tb-hdd-I/backup_ssd_500/Fadi PC Backup/PC Backup 2015-08-03/OrbitMines/1.8 Test Server (Creative)/CreativeLobby/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/8tb-hdd-I/backup_ssd_500/Fadi PC Backup/PC Backup 2015-08-03/OrbitMines/Update 01-08-2015/Backup/Creative/CreativeLobby/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/8tb-hdd-I/backup_ssd_500/Fadi PC Backup/PC Backup 2015-08-03/Spigot/Spigot Test Server 2/CreativeLobby/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/Backup.2020/backup/Fadi PC Backup/PC Backup 2015-08-03/OrbitMines/World Backups/Update Mei 2015/CreativeLobby/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/Backup.2020/backup/Fadi PC Backup/PC Backup 2015-08-03/OrbitMines/1.8 Test Server (Creative)/CreativeLobby/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/Backup.2020/backup/Fadi PC Backup/PC Backup 2015-08-03/OrbitMines/Update 01-08-2015/Backup/Creative/CreativeLobby/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/Backup.2020/backup/Fadi PC Backup/PC Backup 2015-08-03/Spigot/Spigot Test Server 2/CreativeLobby/level.dat

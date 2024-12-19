@@ -1,8 +1,0 @@
-name: OrbitMinesPlotGenerator
-author: O_o_Fadi_o_O
-load: STARTUP
-version: 1
-description: OrbitMinesPlotGenerator by O_o_Fadi_o_O
-main: me.O_o_Fadi_o_O.OrbitMinesPlotGenerator.Start
-commands:
-depend: [Multiverse-Core]

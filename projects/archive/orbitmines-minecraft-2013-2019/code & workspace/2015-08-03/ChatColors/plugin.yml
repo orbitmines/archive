@@ -1,8 +1,0 @@
-name: ChatColors
-author: O_o_Fadi_o_O
-version: 1.2.1
-description: ChatColors by O_o_Fadi_o_O
-main: me.O_o_Fadi_o_O.ChatColors.Start
-commands:
-   chatcolor:
-     description: ChatColor Help

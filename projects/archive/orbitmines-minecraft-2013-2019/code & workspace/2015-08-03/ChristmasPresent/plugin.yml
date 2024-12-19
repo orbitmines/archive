@@ -1,8 +1,0 @@
-name: CristmasPresent
-author: O_o_Fadi_o_O
-version: 1
-description: CristmasPresent by O_o_Fadi_o_O
-main: me.O_o_Fadi_o_O.ChristmasPresent.Start
-commands:
-depend: [Hub]
-depend: [NoteBlockAPI]

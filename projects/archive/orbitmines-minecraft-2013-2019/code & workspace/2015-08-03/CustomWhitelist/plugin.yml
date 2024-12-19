@@ -1,8 +1,0 @@
-name: CustomWhitelist
-author: O_o_Fadi_o_O
-version: 1.0
-description: CustomWhitelist by O_o_Fadi_o_O
-main: me.O_o_Fadi_o_O.CustomWhitelist.Start
-commands:
-   wl:
-     description: CustomWhitelist Help

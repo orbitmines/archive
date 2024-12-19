@@ -1,6 +1,0 @@
-VoteRewardsNotGiven:
- - Test|4|
-players:
-  TestPlayer:
-    Votes: 1
-    ClaimedMonthlyVIPPoints: false

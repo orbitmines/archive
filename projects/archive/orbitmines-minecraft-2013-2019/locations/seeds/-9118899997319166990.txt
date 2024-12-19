@@ -1,6 +1,0 @@
-/media/fs/hdd-18tb-003/_legacy_backup/8tb-hdd-I/backup_ssd_500/Fadi PC Backup/PC Backup 2015-08-03/Spigot/Spigot Test Server 4/world_nether/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/8tb-hdd-I/backup_ssd_500/Fadi PC Backup/PC Backup 2015-08-03/Spigot/Spigot Test Server 2/world_nether/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/8tb-hdd-I/backup_ssd_500/Fadi PC Backup/PC Backup 2015-08-03/Spigot/Spigot Test Server 3/world_nether/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/Backup.2020/backup/Fadi PC Backup/PC Backup 2015-08-03/Spigot/Spigot Test Server 4/world_nether/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/Backup.2020/backup/Fadi PC Backup/PC Backup 2015-08-03/Spigot/Spigot Test Server 2/world_nether/level.dat
-/media/fs/hdd-18tb-003/_legacy_backup/Backup.2020/backup/Fadi PC Backup/PC Backup 2015-08-03/Spigot/Spigot Test Server 3/world_nether/level.dat
