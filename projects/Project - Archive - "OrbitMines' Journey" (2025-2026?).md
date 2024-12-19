@@ -1,6 +1,10 @@
+See https://github.com/orbitmines/minecraft-archive
+
 I want both my and :orbitmines: OrbitMines' archives to be better managed and published online. This includes in particular any OrbitMines' Minecraft history which survived, including its codebase. This should tell "OrbitMines' Story" from 2013-2019 better than I could in words.
 
 On the Discord there's a channel setup which already includes a lot of archive material, but it's far from everything (https://discord.com/channels/1055502602365845534/1126441974040379442).
+
+
 
 The currently uploaded Minecraft archives includes:
 - [My 2014-08-02 - 2015-08-02 Screenshots](https://archive.orbitmines.com/minecraft/2014-08-02_2015-08-02_Screenshots.zip)
