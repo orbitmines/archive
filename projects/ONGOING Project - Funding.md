@@ -2,15 +2,7 @@
 
 *Will always be ongoing - basically realizable as economic/practical, ..., logistical considerations for the projects. Like things with hiring, always try to cover the things not already covered with a different approach.*
 
-## 2024
-Try
-- [ ] https://www.sidnfonds.nl/
-- [ ] Open Technology Programme 2024
 
-Pending
-
-Done
-- `.nl` WBSO 2024: Done for 1200 hours for [[Fadi Shawki]] - € 23.332 deduction
 
 ---
 
