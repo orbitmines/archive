@@ -1,4 +1,4 @@
-*Let's try for [[2024-12-31]] ; - Yearly excerpt of thoughts*
+*Let's try for [[2025-12-31]] ; - Yearly excerpt of thoughts*
 
 # Towards a Universal Language
 **
