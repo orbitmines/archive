@@ -15,15 +15,6 @@ TODO:
 - [ ] slight area around rendering collr for girhub ; light variant in github doesnt show the ray renderings nicely.
 
 ---
-[[Society for Multidisciplinary and Fundamental Research (SEMF)]] logistics:
-- Discord events ([[Irida Altman]])
-	- Calendar events//
-		- [ ] https://calendar.google.com/calendar/u/0/r/settings/addbyurl
-		- [ ] https://en.wikipedia.org/wiki/ICalendar
-
-- Finalize initial bot setup, before summer school?
-
----
 
 ### Publicly promised future inquiries  
 - [ ] Setup archival [[OrbitMines#Minecraft (2013-2019)]] ; notify community & @Lylum2 / wes on twitter & old orbitmines community.  
