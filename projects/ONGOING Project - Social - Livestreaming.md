@@ -15,10 +15,3 @@ cd ~/Documents/github.com/orbitmines/workspace/github.com/orbitmines/bot && npm 
 ---
 
 Cloudflare stream probably just denies RMTP conenction when there are dead outputs - cost me some time to figure out - quick delete, switch between different inputs works
-
-
----
-
-- More topic-centric streams / random explorations
-- OrbitMines vs others
-- Silent Archives?
