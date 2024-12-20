@@ -128,6 +128,7 @@ Interfaces
 Link to [[Project - Indexing existing Abstract Models (2024-2025?)]]
 
 - [ ] Are there people who have been thinking about game-invariant puzzles?
+- [ ] Self-modifying rendering engines?
 
 Games
 - [ ] https://store.steampowered.com/app/303210/The_Beginners_Guide/
