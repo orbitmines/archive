@@ -44,13 +44,13 @@ https://github.com/42wim/matterbridge
 Incorporate mailing lists, & things like ([[n-Category Café]])
 
 ---
-For [[ONGOING Project - Funding]]
+For [[Project - Funding]]
 - [ ] Setup checks for new https://www.rvo.nl/subsidies-financiering  
 - [ ] Index potential other EU grants ; https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search  
   - Automate feed updates for these and other grant places
   - Database of projects RVO: https://data.rvo.nl/subsidies-regelingen/projecten?f%5B0%5D=subsidies%3A3865&f%5B1%5D=subsidies%3A3888&f%5B2%5D=subsidies%3A3980&f%5B3%5D=subsidies%3A27097&f%5B4%5D=subsidies%3A3867  
 
-For [[ONGOING Project - Social - Livestreaming]]
+For [[Project - Social - Livestreaming]]
 - [ ] livechat on screen
 - [ ] Scheduled (discord events) interop
 - [ ] 
