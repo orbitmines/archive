@@ -32,8 +32,6 @@
 
 - Local rewriting
 
-- Always anything which returns x
-
 ---
 
 - "On Structure and Interaction"
