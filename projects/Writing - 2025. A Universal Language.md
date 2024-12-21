@@ -32,6 +32,8 @@
 
 - Local rewriting
 
+- Always anything which returns x
+
 ---
 
 - "On Structure and Interaction"
@@ -57,7 +59,6 @@
 - Breaking recursion: Local self-references, constants, orbits & Self-referential operators
 	- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
 	- Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
-
 ###### After Restructure
 - [ ] Factory (Version Control, Causal histories, ..., Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
