@@ -114,7 +114,7 @@ Read
 
 - [ ] If I can show it in some asymmetry in multiple ways, prefer to show in multiple ways to aid disambiguation ; or not always, but a better variant of this.
 
-[[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
+[[PENDING Project - Computer Networking, Security, Encryption  & Communication (2026?)]]
 Server-like/find server-like functionality
 - [ ] ideas loke actually being in some servers/having some server list/-like Minecraft, publically indexable etc. for people to collaborate their work in, is an essential idea. 
 - [ ] Ways of finding you as "hook into your world"
