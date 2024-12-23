@@ -23,7 +23,7 @@
 
 ---
 
-- Reference (in)variant, or "most recent - direction on th" to some other direction (say time)
+- Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time)
 
 - What does a mapping look like?
 	- Taking an example of `is_surjective` for one step in a mapping. Where a generalization would be compositions of surjective mappings.
