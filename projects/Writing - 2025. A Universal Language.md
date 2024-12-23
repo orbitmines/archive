@@ -88,11 +88,7 @@
 ###### Statements?
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
 - Better way of thinking about needing some none-one-way to describe a one-way connection
-- Dynamics, Physics
-	- ordered to talk about usefully (assymetry), higher-arity cases more in line with ignoring/invariances of that order. Where an invariance is something like a branching ray as a cursor along every entry of some other ray. 
-	- Local changes move larger structures.
-	- Shoving causal history in some direction?  ; determining traversal of branched structure??
-	- Particles are seemingly temporally stable orbits/modular structures?  
+
 - Mathematics
 	- You could probably phrase mathematics as have access to the `.self` equivalency Ray, and assuming one can traverse that structure arbitrarily, and ignoring how one has access to that. And this becomes problematic for mathematics if there is some way to traverse from `.self`, back to the current ray we're referencing. Which would be the moment you'd call it an inconsistency. But that as an argument, only holds up if you can indeed traverse arbitrarily. But it is likely exactly this property which allows for homoiconic foundations of mathematics 
 	- Traversing `.self` without time-step would be a projective plane? Recursive definition of a projective plan but then (partially?) accessible as a calculus?
