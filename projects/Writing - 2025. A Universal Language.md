@@ -24,6 +24,8 @@
 ---
 
 - Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time)
+- Differences between function looking for variable(s) or not
+
 
 - What does a mapping look like?
 	- Taking an example of `is_surjective` for one step in a mapping. Where a generalization would be compositions of surjective mappings.
