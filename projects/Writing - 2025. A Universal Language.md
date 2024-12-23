@@ -102,7 +102,6 @@
 - differentiable between two points to arbitrary precision, how is it constructed?
 - qubits, linear superpositions, complex (higher-arity) numbers?
 - Equivalence in some perspective: Does there exist a connection between the two.
-	- Homotopy equivalence: When superposed perspectives can be collapsed to a single point.
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 
