@@ -87,7 +87,6 @@
 
 ###### Statements?
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
-- Want to allow for conflicting perspectives, of which aspects can still be invariant
 - Better way of thinking about needing some none-one-way to describe a one-way connection
 - Dynamics, Physics
 	- ordered to talk about usefully (assymetry), higher-arity cases more in line with ignoring/invariances of that order. Where an invariance is something like a branching ray as a cursor along every entry of some other ray. 
