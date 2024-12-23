@@ -29,21 +29,7 @@ Game industry profiles setup
 - [ ] Steam profile, gameindustry dutch signup, steam, etc...
 	- [ ] Steam distro is 100 USD fee or something?
 
----
-
-- [ ] https://scholar.google.com/citations?view_op=new_profile&hl=en  ; scholar profile if google indexes my face
-
-https://github.com/mattermost/mattermost
-https://github.com/42wim/matterbridge
-
 Incorporate mailing lists, & things like ([[n-Category Café]])
-
----
-For [[Project - Funding]]
-- [ ] Setup checks for new https://www.rvo.nl/subsidies-financiering  
-- [ ] Index potential other EU grants ; https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search  
-  - Automate feed updates for these and other grant places
-  - Database of projects RVO: https://data.rvo.nl/subsidies-regelingen/projecten?f%5B0%5D=subsidies%3A3865&f%5B1%5D=subsidies%3A3888&f%5B2%5D=subsidies%3A3980&f%5B3%5D=subsidies%3A27097&f%5B4%5D=subsidies%3A3867  
 
 For [[Project - Social - Livestreaming]]
 - [ ] livechat on screen
