@@ -23,7 +23,7 @@
 
 ---
 
-- Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time)
+- Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time). "Most recent (.last)" / "Entire direction (.all)"
 - Differences between function looking for variable(s) or not
 
 
