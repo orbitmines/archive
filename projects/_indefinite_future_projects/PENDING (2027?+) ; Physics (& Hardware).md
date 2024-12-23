@@ -90,6 +90,11 @@ warp-level primitives?
 
 ---
 
+- Shoving causal history in some direction?  ; determining traversal of branched structure??
+- Particles are seemingly temporally stable orbits/modular structures? 
+
+---
+
 [[2024-06-07]] [SEMF Discord](https://discordapp.com/channels/844566471501414463/1111689941848694924/1248632910475689994)
 Does there exist a dual black hole in the universe which doesn't merge, but remain at each-other's boundary? If not is anyone looking for it? (Oppositely rotating or something) 
 
