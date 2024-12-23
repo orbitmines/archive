@@ -18,7 +18,6 @@ TODO:
 
 ### Publicly promised future inquiries  
 - [ ] Setup archival [[OrbitMines#Minecraft (2013-2019)]] ; notify community & @Lylum2 / wes on twitter & old orbitmines community.  
-- [ ] expand on idea of sharing found info
 - [ ] Translate to usual way of thinking about hypergraphs
 - [ ] Include the journey of how certain references were found (; more detailed in wrapping-up)  - "More expressive references"
 - [ ] [[Prathyush]] ; "And keep me posted on any updates. Would love to take a look on how it evolves."
@@ -28,8 +27,6 @@ TODO:
 Game industry profiles setup
 - [ ] Steam profile, gameindustry dutch signup, steam, etc...
 	- [ ] Steam distro is 100 USD fee or something?
-
-Incorporate mailing lists, & things like ([[n-Category Café]])
 
 For [[Project - Social - Livestreaming]]
 - [ ] livechat on screen
