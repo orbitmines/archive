@@ -24,6 +24,7 @@
 	- Function as direction on "an unknown (optionally of some type/structure)"
 	- Functions as unrealized directions on any point
 	- Intermediate results pending change
+		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
@@ -72,8 +73,6 @@
 
 
 ---
-
-descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
 
 - Traversal: Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
