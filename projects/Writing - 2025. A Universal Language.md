@@ -65,7 +65,6 @@
 
 ###### Statements?
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
-- Better way of thinking about needing some none-one-way to describe a one-way connection
 - Any symmetry must be breakable - any symmetry has some ignored assymetrical property ; Does not have to be the case from the perspective of the symmetry.
 
 ---
