@@ -20,12 +20,12 @@
 - Differences between function looking for variable(s) or not
 - From "location" to "data entry"
 - ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
-- Intermediate results pending change
 - Better way of thinking about one-way referenced structure
 - (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
 - [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstraction level ; ex. no nice mappings))
 	- Function as direction on "an unknown (optionally of some type/structure)"
 	- Functions as unrealized directions on any point
+	- Intermediate results pending change
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
@@ -33,7 +33,7 @@
 
 - [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 - [ ] Type information + selection combination
-- [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
+- [ ] Canonicalization/deduplication
 
 ###### Function Repository
 - Breaking recursion: Local self-references, constants, orbits & Self-referential operators
