@@ -20,6 +20,7 @@
 - Differences between function looking for variable(s) or not
 - From "location" to "data entry"
 - ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
+- Intermediate results pending change
 
 
 - What does a mapping look like?
@@ -96,11 +97,6 @@
 - differentiable between two points to arbitrary precision, how is it constructed?
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
-
-
----
-
-unordered is parallel? how about set? or how about all of them but in any ofder? How about parallel, in a loop? And then parallel in a loop, excluding current one? Or excluding ones in a path (any order)
 
 ---
 
