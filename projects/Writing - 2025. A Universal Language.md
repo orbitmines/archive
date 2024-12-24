@@ -33,8 +33,6 @@
 
 ---
 
-- "On Structure and Interaction"
-
 
 *Thoughts going over 2022-2023 notebook (reprocessing)*
 - [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (**superposed** extremes).
