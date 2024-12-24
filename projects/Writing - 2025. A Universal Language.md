@@ -16,7 +16,7 @@
 
 ---
 
-- Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time). "Most recent (.last)" / "Entire direction (.all)"
+- Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time). "Most recent (.last)" / "Entire direction (.all)". This way get an unordered reference?
 - Differences between function looking for variable(s) or not
 - From "location" to "data entry"
 - ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
@@ -34,9 +34,6 @@
 - [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 - [ ] Type information + selection combination
 - [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
-
-- [ ] **Modularity, Loops, Cycles**: **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
-	- [ ] "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
 
 ###### Function Repository
 - Breaking recursion: Local self-references, constants, orbits & Self-referential operators
