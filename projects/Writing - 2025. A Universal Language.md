@@ -43,7 +43,6 @@
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 	- [ ] Apply the same version control system on the version control system itself. 
-	- [ ] Which I believe was something along the lines of seeing where certain changes had happened ine changed, a dependencies/how that would break symmetries, notify that they havnd provide entry into what is not defined.
 - Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
 - [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"\
 
