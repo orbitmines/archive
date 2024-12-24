@@ -48,9 +48,7 @@
 
 ###### Examples
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
-- Two zero points cross paths at endpoints, what is the interpretation
 - 2d grid expansion as an example base rewrite rule, "expand loop"
-- Geometry: 0 (dividing at the boundary) already assumes some notion of distance?
 - Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
 - Numbers, Integers, base-n, fractions, floating point
 	- .add integers: single equivalence (initial from one side, terminal from other side.) 
@@ -76,8 +74,6 @@
 - collapse the loop/infinity with an extreme 
 	- or-> Two branching pointers sent in opposite direction which annihilate when they cross each-other.
 
-
-`.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 
 ---
 
