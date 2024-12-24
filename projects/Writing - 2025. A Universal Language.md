@@ -22,26 +22,23 @@
 - ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
 - Intermediate results pending change
 - Better way of thinking about one-way referenced structure
-- (Local) rewriting
+- (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
 ---
 
-
-*Thoughts going over 2022-2023 notebook (reprocessing)*
-- [ ] Current setup of Rays solves structure only. Need some slight alteration to include causal history (one-way referenced structure) & traversal/rewrite intentions (**superposed** extremes).
-	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
-	- [ ] Type information + selection combination
-	- [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
-	- [ ] Memorization vs rerunning
-	- [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstraction level ; ex. no nice mappings))
-		- Function as direction on "an unknown (optionally of some type/structure)"
-		- Functions as unrealized directions on any point
-	- [ ] **Ordered/Unordered**: It is ordered from one perspective, unordered from another.
-		- [ ] Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
-	- [ ] **Modularity, Loops, Cycles**: **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
-		- [ ] "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
+- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
+- [ ] Type information + selection combination
+- [ ] Canonicalization/deduplication (Ignores a single ray, what if more)
+- [ ] Memorization vs rerunning
+- [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstraction level ; ex. no nice mappings))
+	- Function as direction on "an unknown (optionally of some type/structure)"
+	- Functions as unrealized directions on any point
+- [ ] **Ordered/Unordered**: It is ordered from one perspective, unordered from another.
+	- [ ] Causal = ordering = sorting = indexing = assymmetry = variance ; grouped usefully
+- [ ] **Modularity, Loops, Cycles**: **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
+	- [ ] "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
 
 ###### Function Repository
 - Breaking recursion: Local self-references, constants, orbits & Self-referential operators
