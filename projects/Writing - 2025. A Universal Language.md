@@ -75,6 +75,7 @@
 - Initial/terminal, what does a generalized variant of more than those two look like?
 - Program language syntax
 - Nested arrays as structure on the initials, different than a 2d grid. + How does this work with unrealized array functions, or realized ones? Like .at(index).
+- differentiable between two points to arbitrary precision, how is it constructed?
 
 ###### Energy/Resources
 - The larger the integer/fraction, the larger the number of digits in a fractal, the more structure you need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
@@ -90,7 +91,7 @@
 
 - collapse the loop/infinity with an extreme 
 	- or-> Two branching pointers sent in opposite direction which annihilate when they cross each-other.
-- differentiable between two points to arbitrary precision, how is it constructed?
+
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 
