@@ -100,9 +100,7 @@
 descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer. Take for instance an extreme of saying: "Whatever this direction is, you need to follow it completely":
 
 - Traversal: Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
-
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
-- Compression: Any story about compression, becomes a story of rediscovery
 - A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
 - But what we can say is this: Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question.. whose rediscoverability is not entirely obvious. 
 
