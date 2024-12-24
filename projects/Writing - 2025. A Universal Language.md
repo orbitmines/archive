@@ -21,11 +21,10 @@
 - From "location" to "data entry"
 - ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
 - Intermediate results pending change
-
+- Better way of thinking about one-way referenced structure
+- (Local) rewriting
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
-
-- Local rewriting
 
 ---
 
