@@ -19,6 +19,7 @@
 - Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time). "Most recent (.last)" / "Entire direction (.all)"
 - Differences between function looking for variable(s) or not
 - From "location" to "data entry"
+- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
 
 
 - What does a mapping look like?
@@ -49,8 +50,7 @@
 	- [ ] **Modularity, Loops, Cycles**: **Important property which needs better phrasing - and current setup can't capture this nicely: In order to point out acycle, you are required to have some way of breaking that symmetry ; so any cycle has some notion of ordered/.../labelled. Similarly any asymmetry can be made cyclic by ignoring the order.**
 		- [ ] "Can abstractly only satisfy a loop/modular structure through another loop? While pattern matching?"
 		- [ ] Permutation selection of modular structures, to iterate over each possible selection
-		- [ ] .orbit: modularity by default? (turn off by splitting the boundary in two. Could do this locally with a wall)
-- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
+
 ###### Function Repository
 - Breaking recursion: Local self-references, constants, orbits & Self-referential operators
 	- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
