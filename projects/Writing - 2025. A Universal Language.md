@@ -94,13 +94,9 @@
 - collapse the loop/infinity with an extreme 
 	- or-> Two branching pointers sent in opposite direction which annihilate when they cross each-other.
 - differentiable between two points to arbitrary precision, how is it constructed?
-- Equivalence in some perspective: Does there exist a connection between the two.
 
 `.add`, `.and`, `.assign`, `.superpose` : Compose an `initial & terminal` (.add is compose boundaries)
 
----
-
-Spatial separation is what allows for parallel/simultaneous rewrites under some maximum travel speed (for causality) 
 
 ---
 

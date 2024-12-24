@@ -92,6 +92,7 @@ warp-level primitives?
 
 - Shoving causal history in some direction?  ; determining traversal of branched structure??
 - Particles are seemingly temporally stable orbits/modular structures? 
+- Spatial separation is what allows for parallel/simultaneous rewrites under some maximum travel speed (for causality) 
 
 ---
 
