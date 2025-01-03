@@ -83,7 +83,7 @@ console.log(res);
 - :youtube: :lex_fridman_podcast: [Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455 (2024)](https://www.youtube.com/watch?v=yhZAXXI83-4&ab_channel=LexFridman) ; *Adam Frank, Lex Fridman*
 - :youtube: :toe: [There’s No Wave Function? (2024)](https://www.youtube.com/watch?v=7oWip00iXbo&ab_channel=CurtJaimungal) ; *Jacob Barandes, Curt Jaimungal*
 - :youtube: :toe: [The Potential of the Human Brain (2024)](https://www.youtube.com/watch?v=Q9sBKCd2HD0&ab_channel=CurtJaimungal) ; *Iain McGilchrist, Curt Jaimungal*
-- :youtube: :toe: [There’s No Wave Function? (2024)](https://www.youtube.com/watch?v=7oWip00iXbo&ab_channel=CurtJaimungal) ; *Jacob Barandes, Curt Jaimungal*
+- :youtube: :toe: [The Universe Writes Itself Into Existence Moment by Moment (2024)](https://www.youtube.com/watch?v=pWRAaimQT1E&ab_channel=CurtJaimungal) ; *Avshalom Elitzur, Curt Jaimungal*
 
 # 2024, September - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
