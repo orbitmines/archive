@@ -80,10 +80,10 @@ console.log(res);
 ### Literary Exposure
 - [Applied Category Theory in Chemistry, Computing, and Social Networks (2022)](https://math.ucr.edu/home/baez/mrc_2022.pdf) ; *John Baez, Simon Cho, Daniel Cicala, Nina Otter, Valeria de Paiva*
 - [Uniqueness Trees: A Possible Polynomial Approach to the Graph Isomorphism Problem (2016)](https://arxiv.org/pdf/1606.06399) ; *Jonathan Gorard*
-- :youtube: :lex_fridman_podcast: [Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455](https://www.youtube.com/watch?v=yhZAXXI83-4&ab_channel=LexFridman) ; *Adam Frank, Lex Fridman*
-- :youtube: :toe: [There’s No Wave Function?](https://www.youtube.com/watch?v=7oWip00iXbo&ab_channel=CurtJaimungal) ; *Jacob Barandes Curt Jaimungal*
-- :youtube: :toe: [There’s No Wave Function?](https://www.youtube.com/watch?v=7oWip00iXbo&ab_channel=CurtJaimungal) ; *Jacob Barandes Curt Jaimungal*
-- :youtube: :toe: [There’s No Wave Function?](https://www.youtube.com/watch?v=7oWip00iXbo&ab_channel=CurtJaimungal) ; *Jacob Barandes Curt Jaimungal*
+- :youtube: :lex_fridman_podcast: [Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455 (2024)](https://www.youtube.com/watch?v=yhZAXXI83-4&ab_channel=LexFridman) ; *Adam Frank, Lex Fridman*
+- :youtube: :toe: [There’s No Wave Function? (2024)](https://www.youtube.com/watch?v=7oWip00iXbo&ab_channel=CurtJaimungal) ; *Jacob Barandes, Curt Jaimungal*
+- :youtube: :toe: [The Potential of the Human Brain (2024)](https://www.youtube.com/watch?v=Q9sBKCd2HD0&ab_channel=CurtJaimungal) ; *Iain McGilchrist, Curt Jaimungal*
+- :youtube: :toe: [There’s No Wave Function? (2024)](https://www.youtube.com/watch?v=7oWip00iXbo&ab_channel=CurtJaimungal) ; *Jacob Barandes, Curt Jaimungal*
 
 # 2024, September - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
