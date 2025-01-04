@@ -20,7 +20,7 @@
 - ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
 - Better way of thinking about one-way referenced structure
 - (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
-- [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstraction level ; ex. no nice mappings))
+- [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstrzaction level ; ex. no nice mappings))
 	- Function as direction on "an unknown (optionally of some type/structure)"
 	- Functions as unrealized directions on any point
 	- Intermediate results pending change
