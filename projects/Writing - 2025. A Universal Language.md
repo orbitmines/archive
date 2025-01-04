@@ -96,7 +96,7 @@ export type Ray = {
 } & Iterable<Ray> & AsyncIterable<Ray>  
   
   
-class Instance implements Iterable<Ray>, AsyncIterable<Ray> {  
+class Instance {  
   
   // Usually inaccessible, yet additional structure  
   __object__: any  
