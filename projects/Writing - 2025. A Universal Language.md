@@ -162,7 +162,7 @@ class Instance implements Iterable<Ray>, AsyncIterable<Ray> {
   *[Symbol.iterator](): Iterator<Ray> {  
   }  
   async *[Symbol.asyncIterator](): AsyncIterator<Ray> {  
-  }  
+  }
   
   // Capturing: What is the essence of a difference?  
   // TODO: Any function, needs a traversal strategy:  
