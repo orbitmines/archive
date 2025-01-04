@@ -147,7 +147,7 @@ class Instance implements Iterable<Ray>, AsyncIterable<Ray> {
   __get__ = (property: string | symbol): any => {  
     if (property === "__instance__") return this;  
     if (property === Symbol.iterator || property === Symbol.asyncIterator || property === "__object__") return (this as any)[property]  
-    if (is_string(property) && !Number.isNaN(Number.parseInt(property))) return this.at(Number.parseInt(property))  
+
     if (property === 'initial' || property === 'terminal') return Instance.__new__()  
   
     return Instance.__new__({ __object__: (this as any)[property] });  
