@@ -261,3 +261,103 @@ class Instance {
 export default Instance.__new__();
 
 ```
+
+```ts
+/**
+ * Local rewriting ; local rules
+ *
+ *
+ *
+ *
+ * Think more loosely about the ray's structure:
+ * - Point to a function/program on some structure
+ *  - How to think about this as a single function with intermediate steps.
+ *      How is that different from applying same function in that direction?: Described on another level of description?
+ *  - Requires "looking for" type information. Ex. Function looking for parameter
+ *  - Requires: Point to entire graph without specifying where.
+ *  - Requires: Point to everything in a graph collapsed to a point.
+ *
+ *
+ *
+ *  What about: Some structure, but superposed on others. Value A on all these B positions.
+ *
+ * - Control flow as partial pattern-matched on branching structure.
+ *   - How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
+ *
+ * - Merging, pattern-matching, copying, isomorphism, deleting
+ *
+ * - How does execution happen?
+ *   - What about the expansion case which needs both add structure and replace a reference?
+ *
+ * Rethink in terms of central program which manages history, values, and control flow.
+ *  - Not just thinking about structure.
+ *
+ *
+ * Functions/Unrealized structure on location: Potential "Context"/Structure
+ *    =
+ * Additional structure on location
+ *
+ */
+
+export type Function = string | symbol | number;
+
+export type Pointer = {
+  [key: string | symbol | number]: Pointer
+  (...args: any[]): Location;
+}
+
+abstract class Location implements AsyncIterable<Function> {
+  abstract __step__: (fn: Function) => Location
+  abstract __set__: (value: Location) => void
+  abstract [Symbol.asyncIterator](): AsyncIterator<Function>
+
+  is_none = async (): Promise<boolean> => {
+    for await (const fn of this) { return false; }
+    return true;
+  }
+
+  static of = (any: any): Pointer => {
+    throw new Error('Not implemented');
+  }
+
+  get pointer(): Pointer {
+    const fn = (property: string | symbol): Function => {
+      if (!is_string(property)) return property;
+
+      const number = Number.parseInt(property);
+      if (!Number.isNaN(number)) return number;
+
+      return property;
+    }
+
+    return new Proxy(class {}, {
+      apply: (_: any, thisArg: any, argArray: any[]): any =>
+        this,
+      set: (_: any, property: string | symbol, newValue: any, receiver: any): boolean => {
+        this.__step__(fn(property)).__set__(Location.of(newValue)());
+        return true;
+      },
+      get: (_: any, property: string | symbol, receiver: any): any =>
+        this.__step__(fn(property)).pointer,
+      // has: (_: any, property: string | symbol): boolean => true,
+      // construct: (_: any, argArray: any[], newTarget: any): object =>
+      //   new Pointer(this.location),
+      // deleteProperty: (_: any, property: string | symbol): boolean => this.__delete__(property)
+    });
+  }
+}
+
+
+// TODO Copy from lodash - remove as a dependency.
+import _ from "lodash";
+export const is_string = (_object: any): _object is string => _.isString(_object)
+export const is_boolean = (_object: any): _object is boolean => _.isBoolean(_object);
+export const is_number = (_object: any): _object is number => _.isNumber(_object);
+export const is_object = (_object: any): _object is object => _.isObject(_object);
+export const is_iterable = <T = any>(_object: any): _object is Iterable<T> => Symbol.iterator in Object(_object) && is_function(_object[Symbol.iterator]);
+export const is_async_iterable = <T = any>(_object: any): _object is AsyncIterable<T> => Symbol.asyncIterator in Object(_object) && is_function(_object[Symbol.asyncIterator]);
+export const is_array = <T = any>(_object: any): _object is T[] => _.isArray(_object);
+export const is_async = (_object: any) => _.has(_object, 'then') && is_function(_.get(_object, 'then')); // TODO, Just an ugly check
+export const is_error = (_object: any): _object is Error => _.isError(_object);
+export const is_function = (_object: any): _object is ((...args: any[]) => any) => _.isFunction(_object);
+```
