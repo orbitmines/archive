@@ -208,8 +208,8 @@ class Instance {
   xor = (b: Ray): Ray => this.and(b.not()).or(this.not().and(b))  
   nor = (b: Ray): Ray => (this.or(b)).not()  
   
-  is_initial = () => this.initial.is_none()  
-  is_terminal = () => this.terminal.is_none()  
+  is_initial = () => this.initial.is_none()
+  is_terminal = () => this.terminal.is_none()
   is_reference = () => this.is_initial().and(this.is_terminal())  
   is_boundary = () => this.is_initial().xor(this.is_terminal())  
   is_vertex = () => this.is_initial().nor(this.is_terminal())  
