@@ -210,10 +210,7 @@ class Instance {
   // static none: Ray = new Ray(Symbol("none"))  
   boolean = (x: boolean) => this.any(x)  
   string = (x: string) => this.iterable(x)  
-  iterable = <T>(x: Iterable<T>) => this.iterator(x[Symbol.iterator]());  
-  iterator = <T>(x: Iterator<T>) => {  
-    return Instance.__new__()  
-  }  
+
   function = (x: (...args: any[]) => any) => {  
   
   }  
