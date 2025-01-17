@@ -198,16 +198,7 @@ class Instance {
   orbit = () => this.last().compose(this.first())  
   push_front = (b: Ray): Ray => b.compose(this.first())  
   push_back = (b: Ray): Ray => this.last().compose(b)  
-  
-  is_none = (): Ray => { return this.boolean(false) }  
-  is_some = (): Ray => this.is_none().not()  
-  
-  and = (b: Ray): Ray => { return undefined; }  
-  or = (b: Ray): Ray => { return undefined; }  
-  not = (): Ray => { return undefined; }  
-  xor = (b: Ray): Ray => this.and(b.not()).or(this.not().and(b))  
-  nor = (b: Ray): Ray => (this.or(b)).not()  
-  
+
   at = (steps: number): Ray => {  
     console.log(steps)  
     return undefined;  
