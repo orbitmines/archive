@@ -312,15 +312,6 @@ abstract class Location implements AsyncIterable<Function> {
   }
 
   get pointer(): Pointer {
-    const fn = (property: string | symbol): Function => {
-      if (!is_string(property)) return property;
-
-      const number = Number.parseInt(property);
-      if (!Number.isNaN(number)) return number;
-
-      return property;
-    }
-
     return new Proxy(class {}, {
       apply: (_: any, thisArg: any, argArray: any[]): any =>
         this,
