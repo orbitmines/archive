@@ -159,8 +159,7 @@ class Instance {
     return false;  
   }  
   
-  *[Symbol.iterator](): Iterator<Ray> {  
-  }  
+
   async *[Symbol.asyncIterator](): AsyncIterator<Ray> {  
   }
   
