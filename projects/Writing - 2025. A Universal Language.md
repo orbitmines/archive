@@ -182,9 +182,7 @@ class Instance {
   next = (): Ray => { return undefined; }  
   
   orbit = () => this.last().compose(this.first())  
-  push_front = (b: Ray): Ray => b.compose(this.first())  
-  push_back = (b: Ray): Ray => this.last().compose(b)  
-
+ 
   
   // static unknown: Ray = new Ray(Symbol("unknown"))  
   // static none: Ray = new Ray(Symbol("none"))  
