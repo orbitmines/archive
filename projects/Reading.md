@@ -6,8 +6,6 @@
 
 - [ ] Read up on [[Lee Cronin]]'s work  
 
-- [ ] [[Judea Pearl]]'s Book of why?
-
 Machine Learning
 - [ ] https://fuglede.github.io/llama.ttf/
 - [ ] https://github.com/karpathy/llm.c
