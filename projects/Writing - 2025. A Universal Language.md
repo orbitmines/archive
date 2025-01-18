@@ -181,9 +181,6 @@ class Instance {
   previous = (): Ray => { return undefined; }  
   next = (): Ray => { return undefined; }  
   
-  has_previous = (): boolean => this.initial().is_some()  
-  has_next = (): Ray => this.terminal().is_some()  
-  
   orbit = () => this.last().compose(this.first())  
   push_front = (b: Ray): Ray => b.compose(this.first())  
   push_back = (b: Ray): Ray => this.last().compose(b)  
