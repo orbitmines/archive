@@ -178,9 +178,6 @@ class Instance {
   // Collapse entire ray to a point  
   all = (): Ray => { return undefined; }  
   
-  previous = (): Ray => { return undefined; }  
-  next = (): Ray => { return undefined; }  
-  
   orbit = () => this.last().compose(this.first())  
  
   
