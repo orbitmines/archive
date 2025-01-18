@@ -114,17 +114,7 @@ class Instance {
   // Iterate over possible representations: Matching is_equivalent/is_isomorphic  
   representations: Ray  
   
-  get initial(): Ray { return this.__get__('initial') }  
-  // selector for everything else at the point  
-  // self: Ray  get terminal(): Ray { return this.__get__('terminal') }  
   
-  constructor(...args: any[]) {  
-    if (args.length === 0) return;  
-  
-    // TODO: args.slice(1) is instantiated from this position  
-    const object = { ...args[0] }  
-    Object.keys(object).forEach(key => this.__set__(key, object[key]));  
-  }  
   
   static __new__ = (...args: any[]): Ray => new Instance(...args).__proxy__  
   
