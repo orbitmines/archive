@@ -188,7 +188,6 @@ class Instance {
   push_front = (b: Ray): Ray => b.compose(this.first())  
   push_back = (b: Ray): Ray => this.last().compose(b)  
 
-  boundary = (): Ray => { return undefined; }  
   
   // static unknown: Ray = new Ray(Symbol("unknown"))  
   // static none: Ray = new Ray(Symbol("none"))  
