@@ -4,25 +4,6 @@
 **
 ###### Introduction
 
-
-"Whenever you have one of something, what if you had more of that thing"  
-  
-self reference in equiv ray means its not none  
-  
-pair of empty initial/terminal for each of the slots  
-selfref equiv ray how does it work for init/terminal  
-  
-equiv ray collapse.self  
-.all in both directions  
-. reverse baked in how  
-  
-equiv ray at intersection - then what does initial mean?  
-  
-result of iterator one or many  
-  
-different perspectives one object how?
-
-
 ---
 
 # UNPROCESSED
@@ -31,6 +12,7 @@ different perspectives one object how?
 
 ---
 
+- "Whenever you have one of something, what if you had more of that thing"  
 - Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time). "Most recent (.last)" / "Entire direction (.all)". This way get an unordered reference?
 - Differences between function looking for variable(s) or not
 - From "location" to "data entry"
@@ -95,6 +77,23 @@ different perspectives one object how?
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
 - A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
 - But what we can say is this: Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question.. whose rediscoverability is not entirely obvious. 
+
+---
+
+self reference in equiv ray means its not none  
+  
+pair of empty initial/terminal for each of the slots  
+selfref equiv ray how does it work for init/terminal  
+  
+equiv ray collapse.self  
+.all in both directions  
+. reverse baked in how  
+  
+equiv ray at intersection - then what does initial mean?  
+  
+result of iterator one or many  
+  
+different perspectives one object how?
 
 ---
 
