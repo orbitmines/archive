@@ -5,6 +5,23 @@
 ###### Introduction
 
 
+"Whenever you have one of something, what if you had more of that thing"  
+  
+self reference in equiv ray means its not none  
+  
+pair of empty initial/terminal for each of the slots  
+selfref equiv ray how does it work for init/terminal  
+  
+equiv ray collapse.self  
+.all in both directions  
+. reverse baked in how  
+  
+equiv ray at intersection - then what does initial mean?  
+  
+result of iterator one or many  
+  
+different perspectives one object how?
+
 
 ---
 
