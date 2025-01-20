@@ -6,6 +6,8 @@
 
 - [ ] Read up on [[Lee Cronin]]'s work  
 
+- https://cybercat.institute/2025/01/03/bidirectional-programming-iv/
+
 Machine Learning
 - [ ] https://fuglede.github.io/llama.ttf/
 - [ ] https://github.com/karpathy/llm.c
