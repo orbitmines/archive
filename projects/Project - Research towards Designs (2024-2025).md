@@ -145,6 +145,7 @@ Games
 
 Science/research games
 - [ ] https://fold.it/
+- [ ] https://eyewire.org/
 - [ ] 
 
 [[Project - Indexing existing Abstract Models (2024-2025?)]] ; tools
