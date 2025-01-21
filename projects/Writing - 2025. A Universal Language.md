@@ -366,8 +366,6 @@ class Ray implements Iterable<Ray> {
   get previous(): Ray { return this.at(-1); }
 
   // TODO first/last support when in a cycle: Should return ???
-  get first(): Ray { throw new Error('Reverse direction not yet implemented') }
-  get last(): Ray { return this.at(this.length - 1); }
   get boundary(): Ray { return Ray.ref([this.first, this.last]); }
 
   push_front = (b: Ray): Ray => b.compose(this.first)
