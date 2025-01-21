@@ -353,9 +353,6 @@ class Ray implements Iterable<Ray> {
     }
   }
 
-  // TODO first/last support when in a cycle: Should return ???
-  get boundary(): Ray { return Ray.ref([this.first, this.last]); }
-
   *[Symbol.iterator](): Iterator<Ray> {
     // if (!this.is_boundary()) return this;
 
