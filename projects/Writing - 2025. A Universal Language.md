@@ -361,10 +361,6 @@ class Ray implements Iterable<Ray> {
     }
   }
 
-  get next(): Ray { return this.at(1); }
-  get current(): Ray { return this.at(0); }
-  get previous(): Ray { return this.at(-1); }
-
   // TODO first/last support when in a cycle: Should return ???
   get boundary(): Ray { return Ray.ref([this.first, this.last]); }
 
