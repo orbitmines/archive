@@ -364,8 +364,6 @@ class Ray implements Iterable<Ray> {
   // TODO first/last support when in a cycle: Should return ???
   get boundary(): Ray { return Ray.ref([this.first, this.last]); }
 
-  push_front = (b: Ray): Ray => b.compose(this.first)
-  push_back = (b: Ray): Ray => this.last.compose(b)
 
   compose = (b: Ray) => {
     switch (this.type) {
