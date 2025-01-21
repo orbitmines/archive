@@ -367,8 +367,6 @@ class Ray implements Iterable<Ray> {
   *[Symbol.iterator](): Iterator<Ray> {
     // if (!this.is_boundary()) return this;
 
-    // TODO: Reverse direction support
-
     // TODO: Abstract away to use Rays instead
     // TODO: Cycle detection & merger
 
