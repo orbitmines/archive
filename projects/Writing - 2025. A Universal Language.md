@@ -381,8 +381,6 @@ class Ray implements Iterable<Ray> {
     throw new Error('Not Implemented')
   }
 
-  collapse = () => {}
-
   *[Symbol.iterator](): Iterator<Ray> {
     // if (!this.is_boundary()) return this;
 
