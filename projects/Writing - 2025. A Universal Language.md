@@ -336,13 +336,6 @@ abstract class Node {
 
 class Ray implements Iterable<Ray> {
 
-  public __object__?: any
-
-  private __none__?: boolean // TODO Better solutions for this
-  is_none = (): boolean => this.__none__ || this.length === 0;
-  is_some = () => !this.is_none()
-
-
 
   get length(): number {
     if (!this.is_boundary()) return 1;
