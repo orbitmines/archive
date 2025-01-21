@@ -345,7 +345,6 @@ class Ray implements Iterable<Ray> {
 
   at = (index: number): Ray | undefined => {
     // TODO: Iterator results which turn ref/or initial/terminal for multiple results
-    // TODO: Support negative index
     // TODO: Not ref, but reposition index to that one; so initial/terminal need to be set on what gets returned
     let i = 0;
     for (let current of this) {
