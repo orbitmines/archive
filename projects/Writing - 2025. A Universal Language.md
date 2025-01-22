@@ -95,6 +95,8 @@ result of iterator one or many
   
 different perspectives one object how?
 
+intermediate results & search phow?
+
 ---
 
 ```ts
