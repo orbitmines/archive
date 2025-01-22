@@ -193,9 +193,6 @@ class Instance {
   
   contains = (b: Ray): Ray => { return undefined; }  
   
-  // Collapse entire ray to a point  
-  all = (): Ray => { return undefined; }  
-  
   orbit = () => this.last().compose(this.first())  
  
   
