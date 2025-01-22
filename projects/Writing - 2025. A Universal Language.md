@@ -183,8 +183,7 @@ class Instance {
   
     return false;  
   }  
-  // TODO: What's the difference between is_equivalent and is_isomorphic  
-  is_isomorphic = (b: Ray): boolean => { return false; }  
+
   is_composed = (b: Ray) => this.all().contains(b)  
   // "Draw a line between anything and say 'what if they're the same'"  
   // TODO: Better interpretation of "Add to compose with .self"  
