@@ -172,7 +172,6 @@ class Instance {
 
   async *[Symbol.asyncIterator](): AsyncIterator<Ray> {  
   }
-    
   
   orbit = () => this.last().compose(this.first())  
  
