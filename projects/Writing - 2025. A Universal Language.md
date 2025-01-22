@@ -173,11 +173,6 @@ class Instance {
   async *[Symbol.asyncIterator](): AsyncIterator<Ray> {  
   }
     
-  // "Draw a line between anything and say 'what if they're the same'"  
-  // TODO: Better interpretation of "Add to compose with .self"  
-  equivalent = (b: Ray): Ray => { return undefined; }  
-  compose = (b: Ray): Ray => this.terminal.equivalent(b.initial)  
-  
   
   orbit = () => this.last().compose(this.first())  
  
