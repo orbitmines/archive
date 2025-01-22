@@ -199,8 +199,6 @@ class Instance {
   // static unknown: Ray = new Ray(Symbol("unknown"))  
   // static none: Ray = new Ray(Symbol("none"))  
 
-  string = (x: string) => this.iterable(x)  
-
   function = (x: (...args: any[]) => any) => {  
   
   }  
