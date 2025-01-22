@@ -466,11 +466,6 @@ export default Ray;
 //     return undefined;
 //   }
 //
-//   filter<S extends T>(predicate: (value: T, index: number, array: T[]) => value is S, thisArg?: any): S[];
-//   filter(predicate: (value: T, index: number, array: T[]) => unknown, thisArg?: any): T[];
-//   filter(predicate, thisArg?: any): any {
-//   }
-//
 //   find<S extends T>(predicate: (value: T, index: number, obj: T[]) => value is S, thisArg?: any): S | undefined;
 //   find(predicate: (value: T, index: number, obj: T[]) => unknown, thisArg?: any): T | undefined;
 //   find(predicate, thisArg?: any): any {
