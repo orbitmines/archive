@@ -178,7 +178,6 @@ class Instance {
   equivalent = (b: Ray): Ray => { return undefined; }  
   compose = (b: Ray): Ray => this.terminal.equivalent(b.initial)  
   
-  contains = (b: Ray): Ray => { return undefined; }  
   
   orbit = () => this.last().compose(this.first())  
  
