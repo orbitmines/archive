@@ -95,7 +95,7 @@ result of iterator one or many
   
 different perspectives one object how?
 
-intermediate results & search phow?
+intermediate results & search pointers how?
 
 ---
 
@@ -201,7 +201,7 @@ class Instance {
   
   // static unknown: Ray = new Ray(Symbol("unknown"))  
   // static none: Ray = new Ray(Symbol("none"))  
-  boolean = (x: boolean) => this.any(x)  
+
   string = (x: string) => this.iterable(x)  
 
   function = (x: (...args: any[]) => any) => {  
