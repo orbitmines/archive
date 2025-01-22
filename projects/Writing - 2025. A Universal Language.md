@@ -171,11 +171,6 @@ class Instance {
   async *[Symbol.asyncIterator](): AsyncIterator<Ray> {  
   }
   
-  // Capturing: What is the essence of a difference?  
-  // TODO: Any function, needs a traversal strategy:  
-  //  How do I search through the space of equivalences:  
-  //  Not just that something is the same, but how? why?  
-  // TODO: New variant of  - When there exists a connection between the two .self?  
   is_equivalent = (b: Ray): boolean => {  
     if (this === b.__instance__) return true;  
   
