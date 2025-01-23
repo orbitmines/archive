@@ -99,7 +99,8 @@ intermediate results & search pointers how?
 
 `.distance` as a mapping retaining the structure of something like `.last`? More generally this abstracted away as?
 
-
+- reference structure again?
+- collapsed value at each point, followed b
 
 ---
 
