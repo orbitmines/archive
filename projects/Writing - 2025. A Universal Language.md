@@ -99,6 +99,7 @@ intermediate results & search pointers how?
 
 `.distance` as a mapping retaining the structure of something like `.last`? More generally this abstracted away as?
 
+Initial/terminal as pointer direction on reference? Or too hacky
 
 ---
 
