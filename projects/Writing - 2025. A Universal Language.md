@@ -395,32 +395,6 @@ class Ray implements Iterable<Ray> {
 
   }
 
-  static none = () => new Ray({ __none__: true })
-
-  static ref = (x: Ray | Ray[] | (() => Ray)): Ray => new Ray({ __self__: () => x instanceof Array ? Ray.iterable(x) : x instanceof Ray ? x : x() })
-  static initial = (object: any = {}) => new Ray({ self: new Ray(), terminal: new Ray(), ...object })
-  static vertex = (object: any = {}) => new Ray({ initial: new Ray(), self: new Ray(), terminal: new Ray(), ...object })
-  static terminal = (object: any = {}) => new Ray({ initial: new Ray(), self: new Ray(), ...object })
-
-  static iterable = <T>(x: Iterable<T>) => this.iterator(x[Symbol.iterator]());
-  static iterator = <T>(x: Iterator<T>) => {
-    const next = (previous?: Ray): Ray => {
-      const { done, value } = x.next();
-
-      const current = done ? Ray.terminal() : Ray.vertex({ __object__: value });
-      previous.terminal = current
-
-      if (done) return current
-
-      current.terminal = () => next(current)
-
-      return current
-    }
-
-    const iterator = Ray.initial({ terminal: () => next(iterator) });
-
-    return iterator;
-  }
 }
 export default Ray;
 
