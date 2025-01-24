@@ -182,12 +182,6 @@ class Instance {
   // static unknown: Ray = new Ray(Symbol("unknown"))  
   // static none: Ray = new Ray(Symbol("none"))  
 
-  function = (x: (...args: any[]) => any) => {  
-  
-  }  
-  reversible_function = (initial: (...args: any[]) => any, terminal: (...args: any[]) => any) => {  
-  
-  }  
   variable = () => {  
     // TODO: Implement simple getter/setter structure  
   }  
