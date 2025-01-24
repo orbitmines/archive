@@ -100,6 +100,8 @@ intermediate results & search pointers how?
 
 Initial/terminal as pointer direction on reference? Or too hacky
 
+Separated space vs "additional structure directions":
+
 ---
 
 ```ts
