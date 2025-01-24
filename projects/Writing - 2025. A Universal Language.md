@@ -102,6 +102,9 @@ Initial/terminal as pointer direction on reference? Or too hacky
 
 Separated space vs "additional structure directions":
 
+
+Better notion of 
+
 ---
 
 ```ts
