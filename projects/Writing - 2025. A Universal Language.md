@@ -81,8 +81,7 @@
 ---
 
 self reference in equiv ray means its not none  
-  
-pair of empty initial/terminal for each of the slots  
+
 selfref equiv ray how does it work for init/terminal  
   
 equiv ray collapse.self  
