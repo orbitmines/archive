@@ -185,9 +185,7 @@ class Instance {
   variable = () => {  
     // TODO: Implement simple getter/setter structure  
   }  
-  object = (x: object) => {}  
-  any = (x: any) => Instance.__new__({ __object__: x })  
-  
+
   // toString = (): string => {  
   //   return "";  // }  
   get __proxy__(): Ray { return new Proxy(class {}, {  
@@ -200,9 +198,6 @@ class Instance {
   }) }  
 }  
   
-
-export default Instance.__new__();
-
 ```
 
 ```ts
