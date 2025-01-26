@@ -105,7 +105,8 @@ Separated space vs "additional structure directions":
 
 
 *Better notion of how the equivalence ray should work*.
-
+- Equiv ray circular by default?
+- Program defined at terminal what terminal should be
 
 ---
 
