@@ -283,18 +283,6 @@ abstract class Location implements AsyncIterable<Function> {
 }
 
 
-// TODO Copy from lodash - remove as a dependency.
-import _ from "lodash";
-export const is_string = (_object: any): _object is string => _.isString(_object)
-export const is_boolean = (_object: any): _object is boolean => _.isBoolean(_object);
-export const is_number = (_object: any): _object is number => _.isNumber(_object);
-export const is_object = (_object: any): _object is object => _.isObject(_object);
-export const is_iterable = <T = any>(_object: any): _object is Iterable<T> => Symbol.iterator in Object(_object) && is_function(_object[Symbol.iterator]);
-export const is_async_iterable = <T = any>(_object: any): _object is AsyncIterable<T> => Symbol.asyncIterator in Object(_object) && is_function(_object[Symbol.asyncIterator]);
-export const is_array = <T = any>(_object: any): _object is T[] => _.isArray(_object);
-export const is_async = (_object: any) => _.has(_object, 'then') && is_function(_.get(_object, 'then')); // TODO, Just an ugly check
-export const is_error = (_object: any): _object is Error => _.isError(_object);
-export const is_function = (_object: any): _object is ((...args: any[]) => any) => _.isFunction(_object);
 ```
 
 ```ts
