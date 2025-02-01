@@ -82,8 +82,8 @@ console.log(res);
 - [The future of brain emulation is looking spiky (2025)](https://neurobiology.substack.com/p/the-future-of-brain-emulation-is) ; *Andy McKenzie*
 
 - :youtube: :toe: [Why The "Godfather of AI" Now Fears His Own Creation (2025)](https://www.youtube.com/watch?v=b_DUft-BdIE&t=1s&ab_channel=CurtJaimungal) ; *Geoffrey Hinton, Curt Jaimungal*
-- :youtube: :toe: [ (2025)]() ; *, Curt Jaimungal*
-- :youtube: :toe: [ (2025)]() ; *, Curt Jaimungal*
+- :youtube: :toe: [The Major Flaws in Fundamental Physics (2024)](https://www.youtube.com/watch?v=E3y-Z0pgupg&t=6148s&ab_channel=CurtJaimungal) ; *Sabine Hossenfelder, Curt Jaimungal*
+- :youtube: :toe: [ (2024)]() ; *, Curt Jaimungal*
 - :youtube: :toe: [ (2025)]() ; *, Curt Jaimungal*
 
 # 2024, October, November & December - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
