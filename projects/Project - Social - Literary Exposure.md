@@ -78,7 +78,7 @@ console.log(res);
 # 2024, January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- 
+- [Einstein: His Life and Universe (2007)](https://en.wikipedia.org/wiki/Einstein:_His_Life_and_Universe) ; *Walter Isaacson*
 - [The future of brain emulation is looking spiky (2025)](https://neurobiology.substack.com/p/the-future-of-brain-emulation-is) ; *Andy McKenzie*
 
 # 2024, October, November & December - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
