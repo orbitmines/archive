@@ -81,6 +81,11 @@ console.log(res);
 - [Einstein: His Life and Universe (2007)](https://en.wikipedia.org/wiki/Einstein:_His_Life_and_Universe) ; *Walter Isaacson*
 - [The future of brain emulation is looking spiky (2025)](https://neurobiology.substack.com/p/the-future-of-brain-emulation-is) ; *Andy McKenzie*
 
+- :youtube: :toe: [Why The "Godfather of AI" Now Fears His Own Creation (2025)](https://www.youtube.com/watch?v=b_DUft-BdIE&t=1s&ab_channel=CurtJaimungal) ; *Geoffrey Hinton, Curt Jaimungal*
+- :youtube: :toe: [ (2025)]() ; *, Curt Jaimungal*
+- :youtube: :toe: [ (2025)]() ; *, Curt Jaimungal*
+- :youtube: :toe: [ (2025)]() ; *, Curt Jaimungal*
+
 # 2024, October, November & December - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
