@@ -81,10 +81,10 @@ console.log(res);
 - [Einstein: His Life and Universe (2007)](https://en.wikipedia.org/wiki/Einstein:_His_Life_and_Universe) ; *Walter Isaacson*
 - [The future of brain emulation is looking spiky (2025)](https://neurobiology.substack.com/p/the-future-of-brain-emulation-is) ; *Andy McKenzie*
 
-- :youtube: :toe: [Why The "Godfather of AI" Now Fears His Own Creation (2025)](https://www.youtube.com/watch?v=b_DUft-BdIE&t=1s&ab_channel=CurtJaimungal) ; *Geoffrey Hinton, Curt Jaimungal*
-- :youtube: :toe: [The Major Flaws in Fundamental Physics (2024)](https://www.youtube.com/watch?v=E3y-Z0pgupg&t=6148s&ab_channel=CurtJaimungal) ; *Sabine Hossenfelder, Curt Jaimungal*
-- :youtube: :toe: [ (2024)]() ; *, Curt Jaimungal*
-- :youtube: :toe: [ (2025)]() ; *, Curt Jaimungal*
+- :youtube: :toe: [Why The "Godfather of AI" Now Fears His Own Creation (2025)](https://www.youtube.com/watch?v=b_DUft-BdIE&ab_channel=CurtJaimungal) ; *Geoffrey Hinton, Curt Jaimungal*
+- :youtube: :toe: [The Major Flaws in Fundamental Physics (2024)](https://www.youtube.com/watch?v=E3y-Z0pgupg&ab_channel=CurtJaimungal) ; *Sabine Hossenfelder, Curt Jaimungal*
+- :youtube: :toe: [The Crisis in String Theory is Worse Than You Think (2024)](https://www.youtube.com/watch?v=2p_Hlm6aCok&ab_channel=CurtJaimungal) ; *Leonard Susskind, Curt Jaimungal*
+- :youtube: :toe: [Math Has Changed Forever… (2025)](https://www.youtube.com/watch?v=wbP0KjWm0pw&ab_channel=CurtJaimungal) ; *, Curt Jaimungal*
 
 # 2024, October, November & December - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
