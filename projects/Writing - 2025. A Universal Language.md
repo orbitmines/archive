@@ -779,30 +779,12 @@ export enum Type {
   // TERMINAL_EXTREME,  // WALL // TODO: Could be renamed empty?  
 }  
   
-// Separate class?  
-// class Reference extends Ray {  
-//   private __reverse__: boolean = false  
-// }  
-  
 class Ray implements Iterable<Ray> {  
   
   public __object__?: any  
   
   // TODO public visitors: Ray  
-  
-  private __initial__: () => Ray = () => Ray.none(); get initial(): Ray { return this.__initial__() }; set initial(x: Ray | Ray[] | (() => Ray)) { this.__initial__ = this.__getter__(x); }  
-  private __self__: () => Ray = () => Ray.none(); get self(): Ray { return this.__self__() }; set self(x: Ray | Ray[] | (() => Ray)) { this.__self__ = this.__getter__(x); }  
-  private __terminal__: () => Ray = () => Ray.none(); get terminal(): Ray { return this.__terminal__() }; set terminal(x: Ray | Ray[] | (() => Ray)) { this.__terminal__ = this.__getter__(x); }  
-  
-  private __getter__ = (x: Ray | Ray[] | (() => Ray)): (() => Ray) => {  
-    if (is_function(x)) return x;  
-    let value = x instanceof Array ? Ray.iterable(x) : Ray.ref(x);  
-    return () => value;  
-  }  
-  
-  constructor(object: any = {}) {  
-    Object.keys(object).forEach(key => (this as any)[key] = object[key]);  
-  }  
+
   
   is_initial = () => this.initial.is_none()  
   is_terminal = () => this.terminal.is_none()  
