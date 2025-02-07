@@ -705,12 +705,8 @@ class Ray implements Iterable<Ray> {
   }  
   some = (predicate: (x: Ray) => boolean): boolean => {}  
   every = (predicate: (x: Ray) => boolean): boolean => {}  
-  // TODO: Map might want to retain/replace additional structure too, how?  
-  map = <T>(predicate: (x: Ray) => T): Ray => {}  
-  // TODO: Filter as additional layer passing through a sub-slice of the original structure?  
-  // TODO: Or: retain the same structure, but filter out additional structure on the excluded values?  
-  filter = (predicate: (x: Ray) => boolean): Ray => {}  
-  
+ 
+
   copy = (): Ray => {  
   
   }  
