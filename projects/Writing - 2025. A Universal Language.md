@@ -765,17 +765,7 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
 
 ```ts
 class Ray implements Iterable<Ray> {  
-  
-  get type(): Type {  
-    if (this.is_reference()) return Type.REFERENCE;  
-    if (this.is_initial()) return Type.INITIAL;  
-    if (this.is_terminal()) return Type.TERMINAL;  
-    if (this.is_vertex()) return Type.VERTEX;  
-    // if (this.is_wall()) return Type.WALL;  
-    throw new Error('Should not happen')  
-  }  
-  
-
+ 
   traverse = ({  
     traverser  
               }: { collapsed?: boolean, traverser?: Ray } = {}) => {  
