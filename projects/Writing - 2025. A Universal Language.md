@@ -292,16 +292,6 @@ abstract class Location implements AsyncIterable<Function> {
 
 ```ts
 
-export type Pointer = {
-  [key: string | symbol]: Pointer
-}
-
-abstract class Node {
-  abstract get self(): any
-  abstract is_none(): boolean
-  is_some = (): boolean => !this.is_none()
-}
-
 class Ray implements Iterable<Ray> {
 
 
@@ -309,16 +299,6 @@ class Ray implements Iterable<Ray> {
     if (!this.is_boundary()) return 1;
 
     return [...this].length // TODO: Handle cycles differently?
-  }
-
-  at = (index: number): Ray | undefined => {
-    // TODO: Iterator results which turn ref/or initial/terminal for multiple results
-    // TODO: Not ref, but reposition index to that one; so initial/terminal need to be set on what gets returned
-    let i = 0;
-    for (let current of this) {
-      if (i === index) return Ray.ref(current);
-      i++;
-    }
   }
 
   *[Symbol.iterator](): Iterator<Ray> {
