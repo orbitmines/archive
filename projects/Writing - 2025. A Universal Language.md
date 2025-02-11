@@ -12,8 +12,11 @@
 
 ---
 
+Summarized:
 - "Whenever you have one of something, what if you had more of that thing"
-- "Whenever you have any iteration of things, it's unknown whether it will halt, yet you still need to operate on interm"
+- "Whenever you have any iteration of things, it's unknown whether it will halt, yet you still need to be able to operate on intermediate results"
+
+
 
 - Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time). "Most recent (.last)" / "Entire direction (.all)". This way get an unordered reference?
 - Differences between function looking for variable(s) or not
