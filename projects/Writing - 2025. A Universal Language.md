@@ -577,37 +577,6 @@ export enum Type {
   
 class Ray implements Iterable<Ray> {  
   
-  public __object__?: any  
-    
-  private __initial__: () => Ray = () => Ray.none(); get initial(): Ray { return this.__initial__() }; set initial(x: Ray | Ray[] | (() => Ray)) { this.__initial__ = () => x instanceof Array ? Ray.iterable(x) : Ray.ref(x instanceof Ray ? x : x()); }  
-  private __self__: () => Ray = () => Ray.none(); get self(): Ray { return this.__self__() }; set self(x: Ray | Ray[] | (() => Ray)) { this.__self__ = () => x instanceof Array ? Ray.iterable(x) : Ray.ref(x instanceof Ray ? x : x()); }  
-  private __terminal__: () => Ray = () => Ray.none(); get terminal(): Ray { return this.__terminal__() }; set terminal(x: Ray | Ray[] | (() => Ray)) { this.__terminal__ = () => x instanceof Array ? Ray.iterable(x) : Ray.ref(x instanceof Ray ? x : x()); }  
-  
-  constructor(object: any = {}) {  
-    Object.keys(object).forEach(key => (this as any)[key] = object[key]);  
-  }  
-  
-  is_initial = () => this.initial.is_none()  
-  is_terminal = () => this.terminal.is_none()  
-  is_reference = () => this.is_initial() && this.is_terminal()  
-  is_boundary = () => xor(this.is_initial(), this.is_terminal())  
-  is_vertex = () => !this.is_initial() && !this.is_terminal()  
-  is_extreme = () => this.is_none() && this.is_boundary()  
-  is_wall = () => this.is_none() && !this.is_initial() && !this.is_terminal()  
-  
-  private __none__?: boolean // TODO Better solutions for this  
-  is_none = (): boolean => this.__none__ || this.length.max === 0;  
-  is_some = () => !this.is_none()  
-  
-  get type(): Type {  
-    if (this.is_reference()) return Type.REFERENCE;  
-    if (this.is_initial()) return Type.INITIAL;  
-    if (this.is_terminal()) return Type.TERMINAL;  
-    if (this.is_vertex()) return Type.VERTEX;  
-    // if (this.is_wall()) return Type.WALL;  
-    throw new Error('Should not happen')  
-  }  
-  
   get reverse(): Ray {  
     // Set on pointer-level  
   }  
