@@ -646,12 +646,6 @@ class Ray implements Iterable<Ray> {
     }  
   }  
   
-  push_front = (b: Ray): Ray => b.compose(this.first)  
-  push_back = (b: Ray): Ray => this.last.compose(b)  
-  
-  compose = (b: Ray): Ray => {  
-    // this.terminal.compose(b.initial)  
-  }  
   // equivalent  
   
   for_each = (predicate: (x: Ray) => any) => {  
