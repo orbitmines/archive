@@ -764,36 +764,7 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
 
 
 ```ts
-  
-  
-export enum Type {  
-  REFERENCE = "REFERENCE", //TODO: Reference could be vertex?  
-  VERTEX = "VERTEX",  
-  INITIAL = "INITIAL",  
-  TERMINAL = "TERMINAL",  
-  // INITIAL_EXTREME,  
-  // TERMINAL_EXTREME,  // WALL // TODO: Could be renamed empty?  
-}  
-  
 class Ray implements Iterable<Ray> {  
-  
-  public __object__?: any  
-  
-  // TODO public visitors: Ray  
-
-  
-  is_initial = () => this.initial.is_none()  
-  is_terminal = () => this.terminal.is_none()  
-  is_reference = () => this.is_initial() && this.is_terminal()  
-  is_empty_reference = () => this.is_reference() && this.self.is_none()  
-  is_boundary = () => xor(this.is_initial(), this.is_terminal())  
-  is_vertex = () => !this.is_initial() && !this.is_terminal()  
-  is_extreme = () => this.is_none() && this.is_boundary()  
-  is_wall = () => this.is_none() && !this.is_initial() && !this.is_terminal()  
-  
-  private __none__?: boolean // TODO Better solutions for this  
-  is_none = (): boolean => this.__none__ || this.length === 0;  
-  is_some = () => !this.is_none()  
   
   get type(): Type {  
     if (this.is_reference()) return Type.REFERENCE;  
@@ -804,22 +775,6 @@ class Ray implements Iterable<Ray> {
     throw new Error('Should not happen')  
   }  
   
-  get length(): number { return [...this].length }  
-  
-  get next(): Ray { return this.at(1); }  
-  get current(): Ray { return this.at(0); }  
-  get previous(): Ray { return this.at(-1); }  
-  
-  has_next = (): boolean => this.next.is_none()  
-  has_previous = (): boolean => this.previous.is_none()  
-  
-  at = (index: number): Ray => {  
-    let i = 0;  
-    for (let current of this) {  
-      if (i === index) return current;  
-      i++;  
-    }  
-  }  
 
   traverse = ({  
     traverser  
