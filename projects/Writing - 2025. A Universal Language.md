@@ -820,12 +820,7 @@ class Ray implements Iterable<Ray> {
       i++;  
     }  
   }  
-  
-  * collapse(): Generator<Ray> {  
-    yield *this;  
-    // TODO yield entire (backwards and forwards, or backwards&forwards on each step)?  
-  }  
-  
+
   traverse = ({  
     traverser  
               }: { collapsed?: boolean, traverser?: Ray } = {}) => {  
