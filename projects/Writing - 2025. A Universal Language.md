@@ -630,18 +630,7 @@ class Ray implements Iterable<Ray> {
     // TODO : Merge first & last  
     // TODO: What would be the situation where you want the boundary to include initial/terminal cycles?  
   }  
-  
-  get next(): Ray { return this.at(1); }  
-  get current(): Ray { return this.at(0); }  
-  get previous(): Ray { return this.at(-1); }  
-  
-  has_next = (): boolean => this.next.is_none()  
-  has_previous = (): boolean => this.previous.is_none()  
-  
-  at = (index: number): Ray => {  
-    // if (index === Number.NEGATIVE_INFINITY) return this.first;  
-    // if (index === Number.POSITIVE_INFINITY) return this.last;  }  
-  
+
   distance = (b: Ray): Ray => {  
     // TODO Should this return distance in the direction the ray is pointing in? yes?  
     // let distance = 0;  
@@ -758,8 +747,6 @@ export default Ray;
   
 // Separate function builder and functionality  
   
-const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
-
 ```
 
 
