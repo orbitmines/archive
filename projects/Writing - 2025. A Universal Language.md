@@ -590,11 +590,7 @@ class Ray implements Iterable<Ray> {
     // const terminal = this.next[Symbol.iterator]();    //    // while (true) {    //   const a = initial.next()    //   const b = terminal.next()    //    //   if (!a.done) yield a.value;    //   if (!b.done) yield b.value;    //    //   if (a.done && b.done) break;    // }    yield *this.reverse.next; yield *this  
   }  
   
-  // TODO: Detect and exclude cycles  
-  get first(): Ray { return this.reverse.last }  
-  get last(): Ray {  
-    // TODO: Returns terminal boundaries  
-  }  
+
   get boundary(): Ray {  
     // TODO : Merge first & last  
     // TODO: What would be the situation where you want the boundary to include initial/terminal cycles?  
