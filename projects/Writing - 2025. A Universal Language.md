@@ -757,36 +757,7 @@ class Ray implements Iterable<Ray> {
   static none = () => new Ray({ __none__: true })  
   
   static ref = (x: Ray | Ray[] | (() => Ray)): Ray => new Ray({ __self__: () => x instanceof Array ? Ray.iterable(x) : x instanceof Ray ? x : x() })  
-  static initial = (object: any = {}) => new Ray({ self: Ray.none(), terminal: Ray.none(), ...object })  
-  static vertex = (object: any = {}) => new Ray({ initial: Ray.none(), self: Ray.none(), terminal: Ray.none(), ...object })  
-  static terminal = (object: any = {}) => new Ray({ initial: Ray.none(), self: Ray.none(), ...object })  
-  
-  static last = (x: Ray) => {  
-    return new Ray({ self: () => x.last })  
-  }  
-  
-  // TODO: .iterable conversion should be automatic, and additional functionality of string & other objects  
-  // TODO: Could be added automatically.  
-  static string = (string: string) => Ray.iterable(string)  
-  static iterable = <T>(x: Iterable<T>) => this.iterator(x[Symbol.iterator]());  
-  static iterator = <T>(x: Iterator<T>) => {  
-    const next = (previous?: Ray): Ray => {  
-      const { done, value } = x.next();  
-  
-      const current = done ? Ray.terminal({ initial: previous }) : Ray.vertex({ __object__: value, initial: previous });  
-      previous.terminal = current  
-  
-      if (done) return current  
-  
-      current.terminal = () => next(current)  
-  
-      return current  
-    }  
-  
-    const iterator = Ray.initial({ terminal: () => next(iterator) });  
-  
-    return iterator;  
-  }  
+
 }  
 export default Ray;  
   
