@@ -14,7 +14,7 @@
 
 Summarized:
 - "Whenever you have one of something, what if you had more of that thing"
-- "Whenever you have any iteration of things (which is always), it's unknown whether it will halt, yet you still need to be able to operate on intermediate results"
+- "The halting of any part of any program is unknown , yet you still need to be able to operate on intermediate results"
 
 
 
