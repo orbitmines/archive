@@ -545,26 +545,8 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
 
 ```ts
   
-  
-export enum Type {  
-  REFERENCE, //TODO: Reference could be vertex?  
-  VERTEX,  
-  INITIAL,  
-  TERMINAL,  
-  // INITIAL_EXTREME,  
-  // TERMINAL_EXTREME,  // WALL // TODO: Could be renamed empty?  
-}  
-  
-// Separate class?  
-// class Reference extends Ray {  
-//   private __reverse__: boolean = false  
-// }  
-  
 class Ray implements Iterable<Ray> {  
-  
-  get reverse(): Ray {  
-    // Set on pointer-level  
-  }  
+
   
   get length(): Ray { return this.distance(this.last) }  
   get max(): number {}  
