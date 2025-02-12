@@ -552,11 +552,6 @@ class Ray implements Iterable<Ray> {
   get max(): number {}  
   get min(): number {}  
   
-  * all(): Generator<Ray> {  
-    // const initial = this.reverse[Symbol.iterator]();  
-    // const terminal = this.next[Symbol.iterator]();    //    // while (true) {    //   const a = initial.next()    //   const b = terminal.next()    //    //   if (!a.done) yield a.value;    //   if (!b.done) yield b.value;    //    //   if (a.done && b.done) break;    // }    yield *this.reverse.next; yield *this  
-  }  
-  
 
   get boundary(): Ray {  
     // TODO : Merge first & last  
