@@ -18,6 +18,8 @@ Summarized:
 
 - Structure is innate, something more general than yet similar to graphs
 
+- Partial equality confirmed up to,
+
 - Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time). "Most recent (.last)" / "Entire direction (.all)". This way get an unordered reference?
 - Differences between function looking for variable(s) or not
 - From "location" to "data entry"
