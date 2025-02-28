@@ -30,7 +30,7 @@ find ./_/attachments/read/ -type f -newermt 2023-12-01 | sort | uniq | grep /rea
 const policy = window.trustedTypes?.createPolicy("default", {createHTML: (input) => input});
 
 console.log([...document.querySelectorAll("#video-title")].filter(video => video.title !== '').forEach(video => {
-	video.insertAdjacentHTML("afterend", policy.createHTML("<button>New Content</button>"));
+	video.insertAdjacentHTML("afterend", policy.createHTML("<div><input type="text" value="Hello, World!" readonly> <button onclick="this.previousElementSibling.select();document.execCommand('copy');">Copy</button></div>"));
 }))
 
 
