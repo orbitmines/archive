@@ -92,7 +92,8 @@ console.log(res);
 ### Literary Exposure
 - :youtube: [The equivalence between geometrical structures and entropy (2025)](https://www.youtube.com/watch?v=lp0RgZ6kQF8) ; *Gabriele Carcassi*
 - :youtube: :lex_fridman_podcast: [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | #459 (2025)](https://www.youtube.com/watch?v=_1f-o0nqpEI) ;  *Dylan Patel, Nathan Lambert, Lex Fridman*
-- :youtube: [Harvard Physicist Debunks Particle Superposition | Jacob Barandes Λ Manolis Kellis (2025)](https://www.youtube.com/watch?v=MTD8xkbiGis&t=11s) ;  **
+- :youtube: :toe: [Harvard Physicist Debunks Particle Superposition (2025)](https://www.youtube.com/watch?v=MTD8xkbiGis&t=11s) ;  *Jacob Barandes, Manolis Kellis, Curt Jaimungal*
+- :youtube: [Why Physics Without Philosophy Is Deeply Broken... [Part 2] (2025)](https://www.youtube.com/watch?v=YaS1usLeXQM) ;  *Jacob Barandes, Curt Jaimungal*
 
 # 2025, January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
