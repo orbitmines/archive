@@ -28,7 +28,7 @@ Summarized:
 - (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
 - [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstrzaction level ; ex. no nice mappings))
 	- Function as direction on "an unknown (optionally of some type/structure)"
-	- Function as initial instantia
+	- Function as initial instantiated from some vertex
 	- Functions as unrealized directions on any point
 	- Intermediate results pending change
 		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
