@@ -82,10 +82,15 @@ console.log(res);
 
 ![[Pasted image 20240604084826.png]]
 
-# 2025, February - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+# 2025, March - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
 - 
+
+# 2025, February - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+
+### Literary Exposure
+- :youtube: [The equivalence between geometrical structures and entropy (2025)](https://www.youtube.com/watch?v=lp0RgZ6kQF8) ; *Gabriele Carcassi*
 
 # 2025, January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
