@@ -29,6 +29,10 @@ find ./_/attachments/read/ -type f -newermt 2023-12-01 | sort | uniq | grep /rea
 
 const policy = window.trustedTypes?.createPolicy("default", {createHTML: (input) => input});
 
+console.log([...document.querySelectorAll("#video-title")].filter(video => video.title !== '').forEach(video => {
+	video.insertAdjacentHTML("afterend", safeHTML);
+policy.createHTML("<button>New Content</button>");
+}))
 
 
 console.log([...document.querySelectorAll("#video-title")].filter(video => video.title !== '').map(video => `- :youtube: [${video.title}](${video.href})`).join('\n'))
