@@ -30,7 +30,7 @@ find ./_/attachments/read/ -type f -newermt 2023-12-01 | sort | uniq | grep /rea
 const policy = window.trustedTypes?.createPolicy("default", {createHTML: (input) => input});
 
 console.log([...document.querySelectorAll("#video-title")].filter(video => video.title !== '').forEach(video => {
-	video.insertAdjacentHTML("afterend", policy.createHTML(`<div><input type="text" value="- :youtube: [${video.title} (2025)](${video.href})" readonly> <button onclick="this.previousElementSibling.select();document.execCommand('copy');">Copy</button></div>`));
+	video.insertAdjacentHTML("afterend", policy.createHTML(`<div><input type="text" value="- :youtube: [${video.title} (2025)](${video.href}) ;  **" readonly> <button onclick="this.previousElementSibling.select();document.execCommand('copy');">Copy</button></div>`));
 }))
 
 
@@ -91,6 +91,7 @@ console.log(res);
 
 ### Literary Exposure
 - :youtube: [The equivalence between geometrical structures and entropy (2025)](https://www.youtube.com/watch?v=lp0RgZ6kQF8) ; *Gabriele Carcassi*
+- :youtube: [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459 (2025)](https://www.youtube.com/watch?v=_1f-o0nqpEI) ;  *Dylan Patel, Nathan L*
 
 # 2025, January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
