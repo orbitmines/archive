@@ -91,7 +91,7 @@ console.log(res);
 
 ### Literary Exposure
 - :youtube: [The equivalence between geometrical structures and entropy (2025)](https://www.youtube.com/watch?v=lp0RgZ6kQF8) ; *Gabriele Carcassi*
-- :youtube: [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459 (2025)](https://www.youtube.com/watch?v=_1f-o0nqpEI) ;  *Dylan Patel, Nathan L*
+- :youtube: :lex_fridman_podcast: [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | #459 (2025)](https://www.youtube.com/watch?v=_1f-o0nqpEI) ;  *Dylan Patel, Nathan Lambert, Lex Fridman*
 
 # 2025, January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
