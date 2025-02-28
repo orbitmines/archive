@@ -27,6 +27,8 @@ find ./_/attachments/read/ -type f -newermt 2023-12-01 | grep /read/wikipedia
 find ./_/attachments/read/ -type f -newermt 2023-12-01 | sort | uniq | grep /read/wikipedia | sed -e 's:.*/::' -e 's/.pdf$//' -e 's/.*/, [&]\(https:\/\/en\.wikipedia\.org\/wiki\/&\)/' | paste -sd ''
 
 
+const policy = window.trustedTypes?.createPolicy("default", {createHTML: (input) => input});
+
 console.log([...document.querySelectorAll("#video-title")].filter(video => video.title !== '').map(video => `- :youtube: [${video.title}](${video.href})`).join('\n'))
 
 ```
