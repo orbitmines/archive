@@ -28,13 +28,14 @@ Summarized:
 - (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
 - [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstrzaction level ; ex. no nice mappings))
 	- Function as direction on "an unknown (optionally of some type/structure)"
+	- Function as initi
 	- Functions as unrealized directions on any point
 	- Intermediate results pending change
 		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
-- Each usage refers to many users, same structure for multiple selectors ; could also be separated from us
+- Each usage refers to many users, same structure for multiple selectors ; could also be separated from usual list of intersections like history.
 
 ---
 
