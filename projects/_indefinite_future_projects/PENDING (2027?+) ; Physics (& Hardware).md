@@ -173,6 +173,9 @@ The difference in interpretation of 'inconsistency' in mathematical terms, and i
 [[2025-02-20]]
 Speed of light not the max but close to it due to it still having some structure? The less structure the faster max speed is?
 
+[[2025-02-07]]
+Phrasing measurement in physics as the halting of some before non-halting process?
+
 [[2024-03-11]]
 water light simluationr redications
 
