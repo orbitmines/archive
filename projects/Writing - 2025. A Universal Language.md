@@ -34,7 +34,7 @@ Summarized:
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
-- Each usage 
+- Each usage refers to many users, same structure for multiple selectors ; could also be separated from us
 
 ---
 
