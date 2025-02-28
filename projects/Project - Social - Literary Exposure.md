@@ -95,6 +95,8 @@ console.log(res);
 - :youtube: :toe: [Harvard Physicist Debunks Particle Superposition (2025)](https://www.youtube.com/watch?v=MTD8xkbiGis&t=11s) ;  *Jacob Barandes, Manolis Kellis, Curt Jaimungal*
 - :youtube: :toe: [Why Physics Without Philosophy Is Deeply Broken... [Part 2] (2025)](https://www.youtube.com/watch?v=YaS1usLeXQM) ;  *Jacob Barandes, Curt Jaimungal*
 - :youtube: :toe: [Top AI Scientist Unifies Wolfram, Leibniz, & Consciousness (2025)](https://www.youtube.com/watch?v=3fkg0uTA3qU) ;  *William Hahn, Curt Jaimungal*
+- :youtube: [The Theory That Explains YOU... (Free Energy Principle) | Michael Levin Λ Karl Friston (2025)](https://www.youtube.com/watch?v=0yOV9Pzk2zw) ;  **
+
 # 2025, January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
