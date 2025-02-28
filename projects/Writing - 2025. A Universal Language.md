@@ -34,6 +34,8 @@ Summarized:
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
+- Each usage 
+
 ---
 
 - [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
