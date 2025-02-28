@@ -30,6 +30,7 @@ Summarized:
 	- Function as direction on "an unknown (optionally of some type/structure)"
 	- Function as initial instantiated from some vertex
 	- Functions as unrealized directions on any point
+	- Composed functions in single step would be?
 	- Intermediate results pending change
 		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
 
@@ -37,6 +38,8 @@ Summarized:
 
 - Each usage refers to many users, same structure for multiple selectors ; could also be separated from usual list of intersections like history.
 	- Like ; Structure at points ehich is not relevant to crrtain kinds of probing: Say a numerical value on a node which does not influence the structure around the node.
+
+- `.collapse` means order invariant I matching of result
 
 ---
 
