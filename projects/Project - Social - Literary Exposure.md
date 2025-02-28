@@ -93,7 +93,7 @@ console.log(res);
 - :youtube: [The equivalence between geometrical structures and entropy (2025)](https://www.youtube.com/watch?v=lp0RgZ6kQF8) ; *Gabriele Carcassi*
 - :youtube: :lex_fridman_podcast: [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | #459 (2025)](https://www.youtube.com/watch?v=_1f-o0nqpEI) ;  *Dylan Patel, Nathan Lambert, Lex Fridman*
 - :youtube: :toe: [Why Physics Without Philosophy Is Deeply Broken... [Part 2] (2025)](https://www.youtube.com/watch?v=YaS1usLeXQM) ;  *Jacob Barandes, Curt Jaimungal*
-- :youtube: :toe: [Harvard Scientist: "There is No Quantum Multiverse" | Jacob Barandes [Part 3] (2025)](https://www.youtube.com/watch?v=wrUvtqr4wOs) ;  *Jacob Barandes, Curt Jaimungal*
+- :youtube: :toe: [Harvard Scientist: "There is No Quantum Multiverse" [Part 3] (2025)](https://www.youtube.com/watch?v=wrUvtqr4wOs) ;  *Jacob Barandes, Curt Jaimungal*
 - :youtube: :toe: [Harvard Physicist Debunks Particle Superposition (2025)](https://www.youtube.com/watch?v=MTD8xkbiGis&t=11s) ;  *Jacob Barandes, Manolis Kellis, Curt Jaimungal*
 - :youtube: :toe: [Top AI Scientist Unifies Wolfram, Leibniz, & Consciousness (2025)](https://www.youtube.com/watch?v=3fkg0uTA3qU) ;  *William Hahn, Curt Jaimungal*
 - :youtube: :toe: [The Theory That Explains YOU... (Free Energy Principle) (2025)](https://www.youtube.com/watch?v=0yOV9Pzk2zw) ;  *Michael Levin, Karl Friston, Curt Jaimungal*
