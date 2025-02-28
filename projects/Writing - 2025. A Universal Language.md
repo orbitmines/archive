@@ -36,6 +36,7 @@ Summarized:
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
 - Each usage refers to many users, same structure for multiple selectors ; could also be separated from usual list of intersections like history.
+	- Like ; Structure at points ehich is not relevant to crrtain kinds of probing: Say a numerical value on a node which does not influence the structure around the node.
 
 ---
 

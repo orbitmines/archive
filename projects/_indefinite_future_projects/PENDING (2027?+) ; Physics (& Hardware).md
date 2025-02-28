@@ -170,6 +170,8 @@ The difference in interpretation of 'inconsistency' in mathematical terms, and i
 - [ ] Is this merely, within one system, there's a single inconsistency, which makes the whole thing ergodic, or is there something else?
 	- [ ] It is precisely inconsistent systems which allow for ergodic exploration? - Then extact to another system to formalize
 
+[[2025-02-20]]
+Speed of light not the max but close to it due to it still having some structure? The less structure the faster max speed is?
 
 [[2024-03-11]]
 water light simluationr redications
