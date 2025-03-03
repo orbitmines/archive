@@ -16,7 +16,8 @@ Summarized:
 - "Whenever you have one of something, what if you had more of that thing"
 - "The halting of any part of any program is unknown. It is therefore a rephrasing of the problem of (1) how many resources you dedicate to which problem and (2) how you deal with intermediate results."
 
-- Structure is innate, something more general than yet similar to graphs
+- Structure is innate, something more general than, yet similar to graphs
+
 
 - Partial equality confirmed up to,
 
