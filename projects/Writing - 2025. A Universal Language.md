@@ -31,6 +31,7 @@ Summarized:
 	- Function as initial instantiated from some vertex
 	- Functions as unrealized directions on any point
 	- Composed functions in single step would be?
+		- multiple initial in sequence suprrposed by composed vatiant?
 	- Intermediate results pending change
 		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
 
@@ -40,6 +41,8 @@ Summarized:
 	- Like ; Structure at points ehich is not relevant to crrtain kinds of probing: Say a numerical value on a node which does not influence the structure around the node.
 
 - `.collapse` means order invariant I matching of result
+
+- Given larger context something which uniquely indexes substructure (from some other location)
 
 ---
 
