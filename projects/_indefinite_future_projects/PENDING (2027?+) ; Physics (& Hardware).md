@@ -95,6 +95,14 @@ warp-level primitives?
 - Spatial separation is what allows for parallel/simultaneous rewrites under some maximum travel speed (for causality) 
 
 ---
+[[2025-02-28]]
+Particles as tangled space
+
+[[2025-02-20]]
+Speed of light not the max but close to it due to it still having some structure? The less structure the faster max speed is?
+
+[[2025-02-07]]
+Phrasing measurement in physics as the halting of some before non-halting process?
 
 [[2024-06-07]] [SEMF Discord](https://discordapp.com/channels/844566471501414463/1111689941848694924/1248632910475689994)
 Does there exist a dual black hole in the universe which doesn't merge, but remain at each-other's boundary? If not is anyone looking for it? (Oppositely rotating or something) 
@@ -169,12 +177,6 @@ I suspect there to be some deep (a)symmetries between the certain conceptualizat
 The difference in interpretation of 'inconsistency' in mathematical terms, and it's more usual definition of abstract change/directionality/asymmetry?
 - [ ] Is this merely, within one system, there's a single inconsistency, which makes the whole thing ergodic, or is there something else?
 	- [ ] It is precisely inconsistent systems which allow for ergodic exploration? - Then extact to another system to formalize
-
-[[2025-02-20]]
-Speed of light not the max but close to it due to it still having some structure? The less structure the faster max speed is?
-
-[[2025-02-07]]
-Phrasing measurement in physics as the halting of some before non-halting process?
 
 [[2024-03-11]]
 water light simluationr redications
