@@ -15,10 +15,10 @@
 Summarized:
 - "Whenever you have one of something, what if you had more of that thing"
 - "The halting of any part of any program is unknown. It is therefore a rephrasing of the problem of (1) how many resources you dedicate to which problem and (2) how you deal with intermediate results."
-
 - Structure is innate, something more general than, yet similar to graphs
 
 
+- filter/map/... as expressions/program on state?
 - Partial equality confirmed up to,
 
 - Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time). "Most recent (.last)" / "Entire direction (.all)". This way get an unordered reference?
