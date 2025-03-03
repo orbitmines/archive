@@ -21,7 +21,6 @@ Summarized:
 - filter/map/... as expressions/program on state?
 - Partial equality confirmed up to,
 
-- Reference (in)variant, or "most recent - direction on the direction" to some other direction (say time). "Most recent (.last)" / "Entire direction (.all)". This way get an unordered reference?
 - Differences between function looking for variable(s) or not
 - From "location" to "data entry"
 - ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
