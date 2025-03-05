@@ -393,11 +393,6 @@ export default Ray;
 //   unshift(...items: T[]): number {
 //     return 0;
 //   }
-//
-//
-//   with(index: number, value: T): T[] {
-//     return [];
-//   }
 // }
 
 // Separate function builder and functionality
