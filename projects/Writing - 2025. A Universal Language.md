@@ -380,14 +380,6 @@ export default Ray;
 //     return undefined;
 //   }
 //
-//   slice(start?: number, end?: number): T[] {
-//     return [];
-//   }
-//
-//   some(predicate: (value: T, index: number, array: T[]) => unknown, thisArg?: any): boolean {
-//     return false;
-//   }
-//
 //   sort(compareFn?: (a: T, b: T) => number): this {
 //     return undefined;
 //   }
@@ -398,27 +390,10 @@ export default Ray;
 //     return [];
 //   }
 //
-//   toReversed(): T[] {
-//     return [];
-//   }
-//
-//   toSorted(compareFn?: (a: T, b: T) => number): T[] {
-//     return [];
-//   }
-//
-//   toSpliced(start: number, deleteCount: number, ...items: T[]): T[];
-//   toSpliced(start: number, deleteCount?: number): T[];
-//   toSpliced(start: number, deleteCount?: number, ...items: T[]): T[] {
-//     return [];
-//   }
-//
 //   unshift(...items: T[]): number {
 //     return 0;
 //   }
 //
-//   values(): IterableIterator<T> {
-//     return undefined;
-//   }
 //
 //   with(index: number, value: T): T[] {
 //     return [];
