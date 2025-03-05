@@ -349,21 +349,8 @@ class Ray implements Iterable<Ray> {
 export default Ray;
 
 // class TempImpl<T> implements Array<T> {
-//   [n: number]: T;
-//
-//   readonly [Symbol.unscopables]: { [K in keyof any[]]?: boolean };
-//   length: number;
-//
-//   [Symbol.iterator](): IterableIterator<T> {
-//     return undefined;
-//   }
 //
 //
-//   concat(...items: ConcatArray<T>[]): T[];
-//   concat(...items: (ConcatArray<T> | T)[]): T[];
-//   concat(...items: (ConcatArray<T> | T)[]): T[] {
-//     return [];
-//   }
 //
 //   copyWithin(target: number, start: number, end?: number): this {
 //     return undefined;
