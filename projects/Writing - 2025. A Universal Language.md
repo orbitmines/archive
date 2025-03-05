@@ -450,14 +450,7 @@ class Ray implements Iterable<Ray> {
     }  
   }  
   
-  // equivalent  
-  
-  for_each = (predicate: (x: Ray) => any) => {  
-  
-  }  
-  some = (predicate: (x: Ray) => boolean): boolean => {}  
-  every = (predicate: (x: Ray) => boolean): boolean => {}  
- 
+  // equivalent
 
   copy = (): Ray => {  
   
@@ -476,9 +469,6 @@ class Ray implements Iterable<Ray> {
   
   }  
 
-  
-// Separate function builder and functionality  
-  
 ```
 
 
