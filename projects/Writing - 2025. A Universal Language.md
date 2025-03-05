@@ -142,8 +142,6 @@ self reference in equiv ray means its not none
 selfref equiv ray how does it work for init/terminal  
   
 equiv ray collapse.self  
-.all in both directions  
-. reverse baked in how  
   
 equiv ray at intersection - then what does initial mean?  
   
