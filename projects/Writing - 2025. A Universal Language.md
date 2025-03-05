@@ -360,10 +360,6 @@ export default Ray;
 //     return undefined;
 //   }
 //
-//   push(...items: T[]): number {
-//     return 0;
-//   }
-//
 //   reduce(callbackfn: (previousValue: T, currentValue: T, currentIndex: number, array: T[]) => T): T;
 //   reduce(callbackfn: (previousValue: T, currentValue: T, currentIndex: number, array: T[]) => T, initialValue: T): T;
 //   reduce<U>(callbackfn: (previousValue: U, currentValue: T, currentIndex: number, array: T[]) => U, initialValue: U): U;
