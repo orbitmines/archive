@@ -403,12 +403,7 @@ export default Ray;
 ```ts
   
 class Ray implements Iterable<Ray> {  
-  
 
-  get boundary(): Ray {  
-    // TODO : Merge first & last  
-    // TODO: What would be the situation where you want the boundary to include initial/terminal cycles?  
-  }  
   
   is_isomorphic = (b: Ray): boolean => {  
   
