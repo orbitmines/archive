@@ -348,23 +348,12 @@ class Ray implements Iterable<Ray> {
 }
 export default Ray;
 
-//   forEach(callbackfn: (value: T, index: number, array: T[]) => void, thisArg?: any): void {
-//   }
-//
-//   includes(searchElement: T, fromIndex?: number): boolean {
-//     return false;
-//   }
-//
 //   indexOf(searchElement: T, fromIndex?: number): number {
 //     return 0;
 //   }
 //
 //   join(separator?: string): string {
 //     return "";
-//   }
-//
-//   keys(): IterableIterator<number> {
-//     return undefined;
 //   }
 //
 //   lastIndexOf(searchElement: T, fromIndex?: number): number {
