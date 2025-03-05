@@ -348,16 +348,6 @@ class Ray implements Iterable<Ray> {
 }
 export default Ray;
 
-// class TempImpl<T> implements Array<T> {
-//
-//   flat<A, D = 1 extends number>(depth?: D): FlatArray<A, D>[] {
-//     return [];
-//   }
-//
-//   flatMap<U, This = undefined>(callback: (this: This, value: T, index: number, array: T[]) => (ReadonlyArray<U> | U), thisArg?: This): U[] {
-//     return [];
-//   }
-//
 //   forEach(callbackfn: (value: T, index: number, array: T[]) => void, thisArg?: any): void {
 //   }
 //
