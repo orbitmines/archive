@@ -147,10 +147,6 @@ equiv ray at intersection - then what does initial mean?
   
 different perspectives one object how?
 
-`.distance` as a mapping retaining the structure of something like `.last`? More generally this abstracted away as?
-
-Initial/terminal as pointer direction on reference? Or too hacky
-
 Separated space vs "additional structure directions":
 
 ---
