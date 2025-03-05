@@ -397,8 +397,6 @@ export default Ray;
 
 // Separate function builder and functionality
 
-const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
-
 ```
 
 ```ts
