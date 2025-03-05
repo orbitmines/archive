@@ -474,15 +474,7 @@ class Ray implements Iterable<Ray> {
 
 ```ts
 class Ray implements Iterable<Ray> {  
- 
-  traverse = ({  
-    traverser  
-              }: { collapsed?: boolean, traverser?: Ray } = {}) => {  
-    // Traverser: Ray where .self is bound to the .last value of another ray which is the traversal history.  
-    if (traverser.includes(this))  
-      return;  
-    // TODO collapsed, one step in each direction, generalized to different step func?  
-  }  
+
   
   * [Symbol.iterator](): Generator<Ray> {  
   
