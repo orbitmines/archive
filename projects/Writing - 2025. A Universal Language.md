@@ -35,6 +35,46 @@ Summarized:
 	- Intermediate results pending change
 		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
 
+
+```ts
+/**
+ * Local rewriting ; local rules
+ *
+ *
+ *
+ *
+ * Think more loosely about the ray's structure:
+ * - Point to a function/program on some structure
+ *  - How to think about this as a single function with intermediate steps.
+ *      How is that different from applying same function in that direction?: Described on another level of description?
+ *  - Requires "looking for" type information. Ex. Function looking for parameter
+ *  - Requires: Point to entire graph without specifying where.
+ *  - Requires: Point to everything in a graph collapsed to a point.
+ *
+ *
+ *
+ *  What about: Some structure, but superposed on others. Value A on all these B positions.
+ *
+ * - Control flow as partial pattern-matched on branching structure.
+ *   - How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
+ *
+ * - Merging, pattern-matching, copying, isomorphism, deleting
+ *
+ * - How does execution happen?
+ *   - What about the expansion case which needs both add structure and replace a reference?
+ *
+ * Rethink in terms of central program which manages history, values, and control flow.
+ *  - Not just thinking about structure.
+ *
+ *
+ * Functions/Unrealized structure on location: Potential "Context"/Structure
+ *    =
+ * Additional structure on location
+ *
+ */
+```
+
+
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
 - Each usage refers to many users, same structure for multiple selectors ; could also be separated from usual list of intersections like history.
