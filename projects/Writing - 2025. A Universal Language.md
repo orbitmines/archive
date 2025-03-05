@@ -409,16 +409,6 @@ class Ray implements Iterable<Ray> {
     // TODO : Merge first & last  
     // TODO: What would be the situation where you want the boundary to include initial/terminal cycles?  
   }  
-
-  distance = (b: Ray): Ray => {  
-    // TODO Should this return distance in the direction the ray is pointing in? yes?  
-    // let distance = 0;  
-    // for (const a of this) {    //   if (a.equals(b)) return distance;    //   distance++;    // }  
-  }  
-  
-  contains = (b: Ray): boolean => {  
-  
-  }  
   
   is_isomorphic = (b: Ray): boolean => {  
   
