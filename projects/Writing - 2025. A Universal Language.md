@@ -147,8 +147,6 @@ equiv ray collapse.self
   
 equiv ray at intersection - then what does initial mean?  
   
-result of iterator one or many  
-  
 different perspectives one object how?
 
 intermediate results & search pointers how?
