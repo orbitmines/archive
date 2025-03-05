@@ -403,11 +403,6 @@ export default Ray;
 ```ts
   
 class Ray implements Iterable<Ray> {  
-
-  
-  get length(): Ray { return this.distance(this.last) }  
-  get max(): number {}  
-  get min(): number {}  
   
 
   get boundary(): Ray {  
