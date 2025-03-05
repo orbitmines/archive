@@ -350,40 +350,6 @@ export default Ray;
 
 // class TempImpl<T> implements Array<T> {
 //
-//
-//
-//   copyWithin(target: number, start: number, end?: number): this {
-//     return undefined;
-//   }
-//
-//
-//   every<S extends T>(predicate: (value: T, index: number, array: T[]) => value is S, thisArg?: any): this is S[];
-//   every(predicate: (value: T, index: number, array: T[]) => unknown, thisArg?: any): boolean;
-//   every(predicate, thisArg?: any): any {
-//   }
-//
-//   fill(value: T, start?: number, end?: number): this {
-//     return undefined;
-//   }
-//
-//   find<S extends T>(predicate: (value: T, index: number, obj: T[]) => value is S, thisArg?: any): S | undefined;
-//   find(predicate: (value: T, index: number, obj: T[]) => unknown, thisArg?: any): T | undefined;
-//   find(predicate, thisArg?: any): any {
-//   }
-//
-//   findIndex(predicate: (value: T, index: number, obj: T[]) => unknown, thisArg?: any): number {
-//     return 0;
-//   }
-//
-//   findLast<S extends T>(predicate: (value: T, index: number, array: T[]) => value is S, thisArg?: any): S | undefined;
-//   findLast(predicate: (value: T, index: number, array: T[]) => unknown, thisArg?: any): T | undefined;
-//   findLast(predicate, thisArg?: any): any {
-//   }
-//
-//   findLastIndex(predicate: (value: T, index: number, array: T[]) => unknown, thisArg?: any): number {
-//     return 0;
-//   }
-//
 //   flat<A, D = 1 extends number>(depth?: D): FlatArray<A, D>[] {
 //     return [];
 //   }
