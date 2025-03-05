@@ -127,7 +127,6 @@ Summarized:
 - collapse the loop/infinity with an extreme 
 	- or-> Two branching pointers sent in opposite direction which annihilate when they cross each-other.
 
-
 ---
 
 - Traversal: Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
@@ -138,10 +137,6 @@ Summarized:
 ---
 
 self reference in equiv ray means its not none  
-
-selfref equiv ray how does it work for init/terminal  
-  
-different perspectives one object how?
 
 Separated space vs "additional structure directions":
 
