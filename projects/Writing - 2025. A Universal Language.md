@@ -356,9 +356,6 @@ export default Ray;
 //     return undefined;
 //   }
 //
-//   entries(): IterableIterator<[number, T]> {
-//     return undefined;
-//   }
 //
 //   every<S extends T>(predicate: (value: T, index: number, array: T[]) => value is S, thisArg?: any): this is S[];
 //   every(predicate: (value: T, index: number, array: T[]) => unknown, thisArg?: any): boolean;
