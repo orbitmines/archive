@@ -591,8 +591,5 @@ class Ray implements Iterable<Ray> {
   static ref = (x: Ray | Ray[] | (() => Ray)): Ray => new Ray({ __self__: () => x instanceof Array ? Ray.iterable(x) : x instanceof Ray ? x : x() })  
 
 }  
-export default Ray;  
-  
-// TODO Separate function builder and functionality  
-  
+
 ```
