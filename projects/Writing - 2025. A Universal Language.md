@@ -141,10 +141,6 @@ self reference in equiv ray means its not none
 
 selfref equiv ray how does it work for init/terminal  
   
-equiv ray collapse.self  
-  
-equiv ray at intersection - then what does initial mean?  
-  
 different perspectives one object how?
 
 Separated space vs "additional structure directions":
