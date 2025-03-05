@@ -124,11 +124,6 @@ Summarized:
 
 ---
 
-- collapse the loop/infinity with an extreme 
-	- or-> Two branching pointers sent in opposite direction which annihilate when they cross each-other.
-
----
-
 - Traversal: Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
 - A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
@@ -137,6 +132,8 @@ Summarized:
 ---
 
 self reference in equiv ray means its not none  
+
+- collapse the loop/infinity with an extreme 
 
 Separated space vs "additional structure directions":
 
