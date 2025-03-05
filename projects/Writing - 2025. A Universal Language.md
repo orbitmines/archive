@@ -259,47 +259,6 @@ class Instance {
  * Additional structure on location
  *
  */
-
-export type Function = string | symbol | number;
-
-export type Pointer = {
-  [key: string | symbol | number]: Pointer
-  (...args: any[]): Location;
-}
-
-abstract class Location implements AsyncIterable<Function> {
-  abstract __step__: (fn: Function) => Location
-  abstract __set__: (value: Location) => void
-  abstract [Symbol.asyncIterator](): AsyncIterator<Function>
-
-  is_none = async (): Promise<boolean> => {
-    for await (const fn of this) { return false; }
-    return true;
-  }
-
-  static of = (any: any): Pointer => {
-    throw new Error('Not implemented');
-  }
-
-  get pointer(): Pointer {
-    return new Proxy(class {}, {
-      apply: (_: any, thisArg: any, argArray: any[]): any =>
-        this,
-      set: (_: any, property: string | symbol, newValue: any, receiver: any): boolean => {
-        this.__step__(fn(property)).__set__(Location.of(newValue)());
-        return true;
-      },
-      get: (_: any, property: string | symbol, receiver: any): any =>
-        this.__step__(fn(property)).pointer,
-      // has: (_: any, property: string | symbol): boolean => true,
-      // construct: (_: any, argArray: any[], newTarget: any): object =>
-      //   new Pointer(this.location),
-      // deleteProperty: (_: any, property: string | symbol): boolean => this.__delete__(property)
-    });
-  }
-}
-
-
 ```
 
 ```ts
