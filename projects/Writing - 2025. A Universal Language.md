@@ -265,13 +265,6 @@ class Instance {
 
 class Ray implements Iterable<Ray> {
 
-
-  get length(): number {
-    if (!this.is_boundary()) return 1;
-
-    return [...this].length // TODO: Handle cycles differently?
-  }
-
   *[Symbol.iterator](): Iterator<Ray> {
     // if (!this.is_boundary()) return this;
 
