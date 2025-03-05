@@ -80,8 +80,6 @@ Summarized:
 - Each usage refers to many users, same structure for multiple selectors ; could also be separated from usual list of intersections like history.
 	- Like ; Structure at points ehich is not relevant to crrtain kinds of probing: Say a numerical value on a node which does not influence the structure around the node.
 
-- `.collapse` means order invariant I matching of result
-
 - Given larger context something which uniquely indexes substructure (from some other location)
 
 ---
