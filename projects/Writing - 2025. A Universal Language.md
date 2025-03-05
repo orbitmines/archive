@@ -356,14 +356,6 @@ export default Ray;
 //     return "";
 //   }
 //
-//   lastIndexOf(searchElement: T, fromIndex?: number): number {
-//     return 0;
-//   }
-//
-//   map<U>(callbackfn: (value: T, index: number, array: T[]) => U, thisArg?: any): U[] {
-//     return [];
-//   }
-//
 //   pop(): T | undefined {
 //     return undefined;
 //   }
