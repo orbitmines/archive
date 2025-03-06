@@ -833,7 +833,8 @@ class Ray implements AsyncIterable<Ray> {
   get length() { return this.filter(x => x.is_last()).distance() }  
   
   contains = async (b: any) => this.some(x => x.equals(b))  
-  
+
+  // TODO: Equals ignores additional structure, and only checks .self by default?
   equals = (b: any): boolean => {  
     throw new Error('Not implemented')  
   
