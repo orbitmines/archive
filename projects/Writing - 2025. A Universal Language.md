@@ -568,8 +568,7 @@ export enum Type {
   
 export type AnyOf<T> = T | T[] | (() => T | T[])  
 export type Any = undefined | AnyOf<Ray> | AnyOf<State>  
-export type MaybeAsync<T> = T | Promise<T>  
-  
+
 export interface IRange {  
   or: (b: IRange) => IRange  
   // and: (b: IRange) => IRange  
