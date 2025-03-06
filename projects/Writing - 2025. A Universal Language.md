@@ -734,6 +734,7 @@ class Ray implements AsyncIterable<Ray> {
   
   // TODO: map where each change in sequence effects the next one, vs map where we expect the initial structure to be the same  
   // TODO: How does .map effect .self/.terminal/.initial  
+  // TODO: Map preserves current structure (if it doesn't loop on itself)
   public __map__: ((x: Ray) => any)[] = []  
   map = <T>(predicate: (x: Ray) => T): Ray => this.clone({ __map__: [...this.__map__, predicate] })  
   
