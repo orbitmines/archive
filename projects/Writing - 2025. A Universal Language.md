@@ -789,7 +789,9 @@ class Ray implements AsyncIterable<Ray> {
   
     }  
     throw new Error('Not implemented')  
-  
+
+	// TODO: Not just a simple for await loop, can go depth first depending on program strategy.
+
     // TODO: History in case of .bidirectional after a .filter is?  
   
     // TODO: Traversal should support yielding initial/terminals as well  
