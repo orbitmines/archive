@@ -834,7 +834,7 @@ class Ray implements AsyncIterable<Ray> {
   
   contains = async (b: any) => this.some(x => x.equals(b))  
 
-  // TODO: Equals ignores additional structure, and only checks .self by default?
+  // TODO: Equals ignores additional structure, and only checks .self by default? Or some variant of this.
   equals = (b: any): boolean => {  
     throw new Error('Not implemented')  
   
