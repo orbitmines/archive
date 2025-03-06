@@ -821,9 +821,6 @@ class Ray implements AsyncIterable<Ray> {
   some = (predicate: (x: Ray) => boolean) => this.filter(predicate).has_next()  
   every = (predicate: (x: Ray) => boolean) => !this.map(x => predicate(x)).filter(x => x.equals(false)).has_next()  
   
-  for_each = async (callback: (x: Ray) => unknown) => {  
-    for await (let x of this) { callback(x) }  
-  }  
   
   // TODO: Index of/Distance function can be circular ; multiple/generating indexes as an answer  
   // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
