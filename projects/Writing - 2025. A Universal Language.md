@@ -657,7 +657,7 @@ export class AlteredIterable<T, R = T> implements AsyncIterable<R> {
   
 class Ray implements AsyncIterable<Ray> {  
 
-/
+  // TODO Multiselector by default
   public __state__: () => State; get state(): State { return this.__state__() }; set state(x: Any) {  
     // this.__state__ = ((x: Any): (() => State) => {  
     //   if (x === undefined) return State.none;    //   if (is_function(x)) return () => {    //     let value = x();    //     if (value instanceof Array) return // TODO  
