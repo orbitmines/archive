@@ -767,13 +767,14 @@ class Ray implements AsyncIterable<Ray> {
   
     // function * strategy(x: Ray) { yield [x.initial, x.terminal]; }  
     // yield * this.traverse({ strategy })  }   
-   
-  
+
+
+
   // TODO: When would you use a variant of first/last which includes terminal/initial cycle states?  
 
-  is_first = async () => !await this.has_previous()  
+
    
-  get first(): Ray { return this.reverse.last }  
+
   
   // is_on_boundary = async () => await this.is_first() || await this.is_last()  
   // get boundary(): Ray {  //   return this.bidirectional  //     .filter(x => x.is_on_boundary())  //     .map(x => x.is_first() ? Ray.initial({ terminal: x }) : Ray.terminal({ initial: x }))  // }  
