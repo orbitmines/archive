@@ -668,15 +668,6 @@ class Ray implements AsyncIterable<Ray> {
     Object.keys(object).forEach(key => (this as any)[key] = object[key]);  
   }  
   
-  
-  // TODO: Clone vs replacing references to this new one?  
-  clone = (object: Partial<Ray> = {}): Ray => {  
-    return new Ray(this.state, {  
-      ...Object.fromEntries(['__filter__', '__map__', '__reverse__'].map(key => [key, (this as any)[key]])),  
-      ...object  
-    })  
-  }  
-  
   // TODO: map where each change in sequence effects the next one, vs map where we expect the initial structure to be the same  
   // TODO: How does .map effect .self/.terminal/.initial  
   // TODO: Map preserves current structure (if it doesn't loop on itself)
