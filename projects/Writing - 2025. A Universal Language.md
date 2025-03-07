@@ -774,6 +774,21 @@ class Ray implements AsyncIterable<Ray> {
 
 
    
+some = (predicate: (x: Ray) => MaybeAsync<boolean>) => this.filter(predicate)  
+  
+get next(): Ray { return this.at(1); }  
+has_next = () => this.next.is_some()  
+get previous(): Ray { return this.at(-1); }  
+has_previous = () => this.previous.is_some()  
+  
+get last(): Ray { return this.filter(x => x.is_last()) }  
+is_last = async () => !await this.has_next()  
+get first(): Ray { return this.reverse().last }  
+is_first = async () => !await this.has_previous()  
+  
+// TODO: None selected  
+// is_none = async (): Promise<boolean> => { throw new Error('Not implemented') }  
+// is_some = async (): Promise<boolean> => !await this.is_none()
 
   
   // is_on_boundary = async () => await this.is_first() || await this.is_last()  
