@@ -770,9 +770,9 @@ class Ray implements AsyncIterable<Ray> {
    
   
   // TODO: When would you use a variant of first/last which includes terminal/initial cycle states?  
-  is_last = async () => !await this.has_next()  
+
   is_first = async () => !await this.has_previous()  
-  get last(): Ray { return this.filter(x => x.is_last()) }  
+   
   get first(): Ray { return this.reverse.last }  
   
   // is_on_boundary = async () => await this.is_first() || await this.is_last()  
