@@ -734,7 +734,7 @@ class Ray implements AsyncIterable<Ray> {
     throw new Error('Not implemented')  
   }  
   
-  some = (predicate: (x: Ray) => boolean) => this.filter(predicate).has_next()  
+
   every = (predicate: (x: Ray) => boolean) => !this.map(x => predicate(x)).filter(x => x.equals(false)).has_next()
   
   
