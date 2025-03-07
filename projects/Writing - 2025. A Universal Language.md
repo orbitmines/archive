@@ -767,9 +767,7 @@ class Ray implements AsyncIterable<Ray> {
   
     // function * strategy(x: Ray) { yield [x.initial, x.terminal]; }  
     // yield * this.traverse({ strategy })  }   
-  
-  has_next = async () => this.next.is_none()  
-  has_previous = async () => this.previous.is_none()  
+   
   
   // TODO: When would you use a variant of first/last which includes terminal/initial cycle states?  
   is_last = async () => !await this.has_next()  
