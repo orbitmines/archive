@@ -685,24 +685,7 @@ class Ray implements AsyncIterable<Ray> {
   // If the starting Ray is a vertex, which is excluded, it acts like an initial.  
   public __filter__
   
-  public __reverse__: boolean = false  
-  get reverse(): Ray { return this.clone({ __reverse__: !this.__reverse__ })}  
-  
-  public __at__?: IRange  
-  at = (index: number | IRange): Ray => {  
-    if (is_number(index)) {  
-      if (index === Infinity) return this.terminal_boundary;  
-      if (index < 0) return this.reverse.at(index * -1);  
-  
-      index = Range.Eq(index)  
-    }  
-  
-    if (this.__at__ === undefined) { return this.clone({ __at__: index })}  
-  
-    // this.__at__ = this.__at__.or(index)  
-    throw new Error(`Not sure yet whether to allow multi-chaining .at or what else to do with it`);  
-    return this;  
-  }  
+  public __reverse__  
   
   // TODO: Functions that alter structure like .flatten/.flat_map, what else?  
   
