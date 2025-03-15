@@ -865,7 +865,7 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
 ```
 
 ```ts
-export type MaybeAsync<T> = T | Promise<T>  
+
   
 export interface IRange {  
   or: (b: IRange) => IRange  
