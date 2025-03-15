@@ -548,7 +548,7 @@ class Ray implements Iterable<Ray> {
 
 
 - splce which is at but altering the structure.
-- Multiselector Ray by default  - Types/Values with multiple, or structured selectors.
+- Multiselector Ray by default  - Types/Values with multiple, or structured selectors. ; Array of parameters 
 
 
 ```ts
