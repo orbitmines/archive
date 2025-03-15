@@ -547,7 +547,7 @@ class Ray implements Iterable<Ray> {
 ```
 
 
-- splce which is at
+- splce which is at but altering the structure.
 
 ```ts
   
