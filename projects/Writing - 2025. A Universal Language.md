@@ -863,3 +863,111 @@ export default State;
 const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)  
   
 ```
+
+```ts
+export type MaybeAsync<T> = T | Promise<T>  
+  
+export interface IRange {  
+  or: (b: IRange) => IRange  
+  // and: (b: IRange) => IRange  
+  all: () => boolean  
+  contains: (x: number) => boolean  
+  more: (current: number, positive?: boolean) => boolean  
+}  
+export type Bound = { at: number, inclusive: boolean }  
+export class Range implements IRange {  
+  constructor(  
+    public lower: Bound,  
+    public upper: Bound,  
+  ) {  
+    if (lower.at > upper.at)  
+      throw new Error('Lower bound is greater than upper bound');  
+  }  
+  
+  all = () => this.lower.at === -Infinity && this.upper.at === Infinity  
+  
+  contains = (x: number): boolean => {  
+    return (this.lower === undefined || (this.lower.inclusive ? x >= this.lower.at : x > this.lower.at))  
+      && (this.upper === undefined || (this.upper.inclusive ? x <= this.upper.at : x < this.upper.at));  
+  }  
+  
+  more = (current: number, positive: boolean = true) =>  
+    positive ? this.upper.at > current : this.lower.at < current  
+  
+  or = (b: IRange): IRange => new MultiRange([this, b])  
+  
+  public static Eq = (x: number) => new Range({ at: x, inclusive: true }, { at: x, inclusive: true })  
+  public static Gt = (x: number) => new Range({ at: x, inclusive: false }, { at: Infinity, inclusive: false })  
+  public static Gte = (x: number) => new Range({ at: x, inclusive: true }, { at: Infinity, inclusive: false })  
+  public static Lt = (x: number) => new Range({ at: -Infinity, inclusive: false }, { at: x, inclusive: false })  
+  public static Lte = (x: number) => new Range({ at: -Infinity, inclusive: false }, { at: x, inclusive: true })  
+  
+}  
+export class MultiRange implements IRange {  
+  constructor(public ranges: IRange[] = []) {  
+  }  
+  
+  all = (): boolean =>  
+    this.ranges.some(range => range.all());  
+  contains = (x: number): boolean =>  
+    this.ranges.some(range => range.contains(x));  
+  more = (current: number, positive: boolean = true): boolean =>  
+    this.ranges.some(range => range.more(current, positive));  
+  or = (b: IRange): IRange => new MultiRange([...this.ranges, ...(b instanceof MultiRange ? (b as MultiRange).ranges : [b])])  
+  
+}  
+export namespace Property {  
+  export type Type<TInput, TOutput> = {  
+    (value: TInput): Ray  
+    value?: TOutput  
+  }  
+  export type Properties = {  
+    [P in keyof Ray]: P extends Property.Type<infer TInput, infer TOutput> ? Ray[P] : never;  
+  }  
+  export const property = <TInput = void, TOutput = TInput>(self: Ray, key: keyof Properties, setter: (value: TInput) => TOutput | Ray = (x) => x as any): Property.Type<TInput, TOutput> => {  
+    return (input: TInput) => {  
+      const output = setter(input);  
+      if (output instanceof Ray) return output;  
+  
+      const ray = new Ray().with(self);  
+      (ray[key] as Property.Type<TInput, TOutput>).value = output  
+      return ray;  
+    }  
+  }  
+  export const boolean = (self: Ray, key: keyof Properties) => property(self, key, () => true)  
+  
+}  
+  
+class Ray implements AsyncIterable<Ray> {  
+  
+  __parents__: Ray[] = []  
+  with = (parent: Ray): Ray => { this.__parents__.push(parent); return this; }  
+  
+  filter = Property.property<(x: Ray) => MaybeAsync<boolean>>(this, 'filter')  
+  map = Property.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
+  reverse = Property.boolean(this, 'reverse')  
+  bidirectional = Property.boolean(this, 'bidirectional')  
+  at = Property.property(this, 'at', (index: number | IRange): IRange | Ray => {  
+    if (is_number(index)) {  
+      // TODO if (index === Infinity) return this.terminal_boundary;  
+      // if (index < 0) return this.reverse().at(index * -1);  
+  
+      index = Range.Eq(index)  
+    }  
+  
+    return index;  
+  })  
+  
+  async * [Symbol.asyncIterator](): AsyncGenerator<Ray> {  
+  
+  }  
+  
+  for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) => {  
+    for await (let x of this) {  
+      const result = callback(x)  
+      if (is_async(result)) await result;  
+    }  
+  }  
+  
+}
+```
