@@ -548,6 +548,7 @@ class Ray implements Iterable<Ray> {
 
 
 - splce which is at but altering the structure.
+- Multiselector
 
 ```ts
   
