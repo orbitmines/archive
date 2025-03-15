@@ -797,14 +797,14 @@ is_first = async () => !await this.has_previous()
   // is_on_boundary = async () => await this.is_first() || await this.is_last()  
   // get boundary(): Ray {  //   return this.bidirectional  //     .filter(x => x.is_on_boundary())  //     .map(x => x.is_first() ? Ray.initial({ terminal: x }) : Ray.terminal({ initial: x }))  // }  
   // TODO" Ray.terminal should automatically be linked to the provided 'initial' (should respect reverse)  
-  get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
+
   get initial_boundary(): Ray { return this.reverse.terminal_boundary }  
   
   // TODO: Push-back list of possibilities vs list to follow after  
   push_front = (b: Ray): Ray => b.compose(this.first)  
   push_back = (b: Ray): Ray => this.last.compose(b)  
   
-  in_orbit = (): boolean => {  
+  in_orbit = (): boolean => {    get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
     throw new Error('Not implemented')  
   }  
   
