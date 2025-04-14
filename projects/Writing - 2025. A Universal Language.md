@@ -1009,9 +1009,7 @@ export interface Enumerable<TEnumerable extends Enumerable<TEnumerable>> {
   
   
   
-  filter: (predicate: (x: Node) => MaybeAsync<boolean>) => TEnumerable  
-  map: <R>(predicate: (x: Node) => R) => TEnumerable  
-  
+
 }
 
 ```
