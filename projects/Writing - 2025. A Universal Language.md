@@ -986,12 +986,12 @@ export interface Cursor<T, TCursor extends Cursor<T, TCursor>> {
   get previous(): TCursor  
   has_previous: () => MaybeAsync<boolean>  
   
-  get last(): TCursor  
+  get last(): TCursor
   is_last: () => MaybeAsync<boolean>  
-  get first(): TCursor  
+  get first(): TCursor
   is_first: () => MaybeAsync<boolean>  
-  get boundary(): TCursor  
-  on_boundary: () => MaybeAsync<boolean>  
+  get boundary(): TCursor
+  on_boundary: () => MaybeAsync<boolean>
   
 }  
   
