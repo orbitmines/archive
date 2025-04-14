@@ -1001,15 +1001,5 @@ export interface Cursor<T, TCursor extends Cursor<T, TCursor>> {
 //   push_front: (b: any) => T  
 // }  
   
-export interface Enumerable<TEnumerable extends Enumerable<TEnumerable>> {  
-  every: (predicate: (x: Node) => MaybeAsync<boolean>) => MaybeAsync<boolean>  
-  some: (predicate: (x: Node) => MaybeAsync<boolean>) => MaybeAsync<boolean>  
-  
-  contains: (b: any) => MaybeAsync<boolean>  
-  
-  
-  
-
-}
 
 ```
