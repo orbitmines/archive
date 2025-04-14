@@ -954,16 +954,7 @@ class Ray implements AsyncIterable<Ray> {
     return index;  
   })  
   
-  async * [Symbol.asyncIterator](): AsyncGenerator<Ray> {  
-  
-  }  
-  
-  for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) => {  
-    for await (let x of this) {  
-      const result = callback(x)  
-      if (is_async(result)) await result;  
-    }  
-  }  
+
   
 }
 ```
