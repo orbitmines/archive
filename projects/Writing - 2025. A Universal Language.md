@@ -967,3 +967,51 @@ class Ray implements AsyncIterable<Ray> {
   
 }
 ```
+
+```ts
+
+export class Ray {}  
+  
+
+  
+export interface Cursor<T, TCursor extends Cursor<T, TCursor>> {  
+  
+  current: () => AsyncGenerator<T>  
+    
+  is_none: () => MaybeAsync<boolean>  
+  is_some: () => MaybeAsync<boolean>  
+  
+  get next(): TCursor  
+  has_next: () => MaybeAsync<boolean>  
+  get previous(): TCursor  
+  has_previous: () => MaybeAsync<boolean>  
+  
+  get last(): TCursor  
+  is_last: () => MaybeAsync<boolean>  
+  get first(): TCursor  
+  is_first: () => MaybeAsync<boolean>  
+  get boundary(): TCursor  
+  on_boundary: () => MaybeAsync<boolean>  
+  
+}  
+  
+// export interface Cursor<T> extends ReadonlyCursor<T> {  
+//   push: (b: any) => T  
+//   push_back: (b: any) => T  
+//   push_front: (b: any) => T  
+// }  
+  
+export interface Enumerable<TEnumerable extends Enumerable<TEnumerable>> {  
+  every: (predicate: (x: Node) => MaybeAsync<boolean>) => MaybeAsync<boolean>  
+  some: (predicate: (x: Node) => MaybeAsync<boolean>) => MaybeAsync<boolean>  
+  
+  contains: (b: any) => MaybeAsync<boolean>  
+  
+  
+  
+  filter: (predicate: (x: Node) => MaybeAsync<boolean>) => TEnumerable  
+  map: <R>(predicate: (x: Node) => R) => TEnumerable  
+  
+}
+
+```
