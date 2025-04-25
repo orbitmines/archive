@@ -729,14 +729,10 @@ class Ray implements AsyncIterable<Ray> {
   
   // Compose for function initials?  
   compose = (b: Ray): Ray => {  
-    // TODO: Alterations on original structure or on altered or on copy ..  
-  
-  
-    // if (this.is_boundary()) return this.map(x => x.compose(b))  
-    // if (b.is_boundary()) return b.map(x => this.compose(x)) //TODO should return x.  
     throw new Error('Not implemented')  
   }  
-  
+
+
 
   
   // TODO: Index of/Distance function can be circular ; multiple/generating indexes as an answer 
@@ -772,6 +768,8 @@ has_previous = () => this.previous.is_some()
   get initial_boundary(): Ray { return this.reverse.terminal_boundary }  
   
   // TODO: Push-back list of possibilities vs list to follow after (using selection for list of possibilities, and add that structure./) 
+  // if (this.is_boundary()) return this.map(x => x.compose(b))  
+    // if (b.is_boundary()) return b.map(x => this.compose(x)) //TODO should return x. 
   push
   
   in_orbit = (): boolean => {    get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
@@ -836,6 +834,7 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
 
 
 **Changes applied to what structure**
+  // TODO: Alterations on original structure or on altered or on copy ..  
   // TODO: map where each change in sequence effects the next one, vs map where we expect the initial structure to be the same  TODO COUNTS FOR EVERY CHANGE. Might trigger changes which alter multiple layers of the altered Ray. -> Selection might not be reachable, or differently, or distance is altered, etc..
   // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
 
