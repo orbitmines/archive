@@ -767,8 +767,6 @@ class Ray implements AsyncIterable<Ray> {
 
 
    
-some = (predicate: (x: Ray) => MaybeAsync<boolean>) => this.filter(predicate)  
-  
 get next(): Ray { return this.at(1); }  
 has_next = () => this.next.is_some()  
 get previous(): Ray { return this.at(-1); }  
