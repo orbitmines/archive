@@ -861,57 +861,6 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
 ```
 
 ```ts
-
-  
-export interface IRange {  
-  or: (b: IRange) => IRange  
-  // and: (b: IRange) => IRange  
-  all: () => boolean  
-  contains: (x: number) => boolean  
-  more: (current: number, positive?: boolean) => boolean  
-}  
-export type Bound = { at: number, inclusive: boolean }  
-export class Range implements IRange {  
-  constructor(  
-    public lower: Bound,  
-    public upper: Bound,  
-  ) {  
-    if (lower.at > upper.at)  
-      throw new Error('Lower bound is greater than upper bound');  
-  }  
-  
-  all = () => this.lower.at === -Infinity && this.upper.at === Infinity  
-  
-  contains = (x: number): boolean => {  
-    return (this.lower === undefined || (this.lower.inclusive ? x >= this.lower.at : x > this.lower.at))  
-      && (this.upper === undefined || (this.upper.inclusive ? x <= this.upper.at : x < this.upper.at));  
-  }  
-  
-  more = (current: number, positive: boolean = true) =>  
-    positive ? this.upper.at > current : this.lower.at < current  
-  
-  or = (b: IRange): IRange => new MultiRange([this, b])  
-  
-  public static Eq = (x: number) => new Range({ at: x, inclusive: true }, { at: x, inclusive: true })  
-  public static Gt = (x: number) => new Range({ at: x, inclusive: false }, { at: Infinity, inclusive: false })  
-  public static Gte = (x: number) => new Range({ at: x, inclusive: true }, { at: Infinity, inclusive: false })  
-  public static Lt = (x: number) => new Range({ at: -Infinity, inclusive: false }, { at: x, inclusive: false })  
-  public static Lte = (x: number) => new Range({ at: -Infinity, inclusive: false }, { at: x, inclusive: true })  
-  
-}  
-export class MultiRange implements IRange {  
-  constructor(public ranges: IRange[] = []) {  
-  }  
-  
-  all = (): boolean =>  
-    this.ranges.some(range => range.all());  
-  contains = (x: number): boolean =>  
-    this.ranges.some(range => range.contains(x));  
-  more = (current: number, positive: boolean = true): boolean =>  
-    this.ranges.some(range => range.more(current, positive));  
-  or = (b: IRange): IRange => new MultiRange([...this.ranges, ...(b instanceof MultiRange ? (b as MultiRange).ranges : [b])])  
-  
-}  
 export namespace Property {  
   export type Type<TInput, TOutput> = {  
     (value: TInput): Ray  
