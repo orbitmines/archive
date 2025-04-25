@@ -857,27 +857,7 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
 ```
 
 ```ts
-export namespace Property {  
-  export type Type<TInput, TOutput> = {  
-    (value: TInput): Ray  
-    value?: TOutput  
-  }  
-  export type Properties = {  
-    [P in keyof Ray]: P extends Property.Type<infer TInput, infer TOutput> ? Ray[P] : never;  
-  }  
-  export const property = <TInput = void, TOutput = TInput>(self: Ray, key: keyof Properties, setter: (value: TInput) => TOutput | Ray = (x) => x as any): Property.Type<TInput, TOutput> => {  
-    return (input: TInput) => {  
-      const output = setter(input);  
-      if (output instanceof Ray) return output;  
-  
-      const ray = new Ray().with(self);  
-      (ray[key] as Property.Type<TInput, TOutput>).value = output  
-      return ray;  
-    }  
-  }  
-  export const boolean = (self: Ray, key: keyof Properties) => property(self, key, () => true)  
-  
-}  
+
   
 class Ray implements AsyncIterable<Ray> {  
   
