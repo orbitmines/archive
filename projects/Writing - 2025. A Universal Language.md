@@ -727,7 +727,7 @@ class Ray implements AsyncIterable<Ray> {
     // TODO: Allow for additional operations on .traverse/.last like .push_back, where we have pending for non-found values of .last yet  
   }  
   
-  // TODO: Rename to push? And composing for function initials?  
+  // Compose for function initials?  
   compose = (b: Ray): Ray => {  
     // TODO: Alterations on original structure or on altered or on copy ..  
   
