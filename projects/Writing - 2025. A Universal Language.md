@@ -774,9 +774,8 @@ has_previous = () => this.previous.is_some()
 
   get initial_boundary(): Ray { return this.reverse.terminal_boundary }  
   
-  // TODO: Push-back list of possibilities vs list to follow after  
-  push_front = (b: Ray): Ray => b.compose(this.first)  
-  push_back = (b: Ray): Ray => this.last.compose(b)  
+  // TODO: Push-back list of possibilities vs list to follow after (using selection for list of possibilities, and add that structure./) 
+  push
   
   in_orbit = (): boolean => {    get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
     throw new Error('Not implemented')  
