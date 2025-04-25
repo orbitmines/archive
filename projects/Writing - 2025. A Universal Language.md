@@ -767,8 +767,6 @@ class Ray implements AsyncIterable<Ray> {
 
 
 
-  // TODO: When would you use a variant of first/last which includes terminal/initial cycle states?  
-
 
    
 some = (predicate: (x: Ray) => MaybeAsync<boolean>) => this.filter(predicate)  
