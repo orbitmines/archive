@@ -139,25 +139,12 @@ Separated space vs "additional structure directions":
 
 ```ts
   
-// () => Ray[]  
-  
-export type Ray = {  
-  [TProperty in keyof Instance]: Ray;  
-} & {  
-  __object__: any;  
-  __instance__: Instance;  
-  readonly [n: number]: any;  
-  (...args: any[]): any;  
-  new (...args: any[]): any;  
-} & Iterable<Ray> & AsyncIterable<Ray>  
-  
-  
 class Instance {  
   
   // Usually inaccessible, yet additional structure  
   __object__: any  
   // Each Ray with a separate causal history  
-  // Can have a history, but no current value  // TODO: Memorization through causal history  
+  // Can have a history, but no current value  // TODO: Memorization through causal history
   history: Ray  
   // Superposed type??  
   type: Ray  
