@@ -741,9 +741,7 @@ class Ray implements AsyncIterable<Ray> {
   get length() { return this.filter(x => x.is_last()).distance().all().unique() 
   // TODO: Could merge the lengths into branches. so [-5, +3] | [-5, -2] to [-5, -3 | -2]
   }  
-  
-  contains = async (b: any) => this.some(x => x.equals(b))  
-
+ 
   // TODO: Equals ignores additional structure, and only checks .self by default? Or some variant of this.
   equals
   
