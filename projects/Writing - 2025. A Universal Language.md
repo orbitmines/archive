@@ -205,15 +205,9 @@ class Instance {
     return false;  
   }  
   
-
-  async *[Symbol.asyncIterator](): AsyncIterator<Ray> {  
-  }
   
   orbit = () => this.last().compose(this.first())  
  
-  
-  // static unknown: Ray = new Ray(Symbol("unknown"))  
-  // static none: Ray = new Ray(Symbol("none"))  
 
   variable = () => {  
     // TODO: Implement simple getter/setter structure  
