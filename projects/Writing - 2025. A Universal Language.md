@@ -742,7 +742,7 @@ class Ray implements AsyncIterable<Ray> {
   
   
   // TODO: Index of/Distance function can be circular ; multiple/generating indexes as an answer 
-  // TODO: Distance is possibly a sequence of index steps, as [-5, +3] != [-2] (not in every case) - take .bidirectional for example. (Or can be thought of as a list of binary values for left/right). This can be superposed and branch: [-5, ]
+  // TODO: Distance is possibly a sequence of index steps, as [-5, +3] != [-2] (not in every case) - take .bidirectional for example. (Or can be thought of as a list of binary values for left/right). This can be superposed and branch: [-5, +3 | -2] etc..
   distance = (): Ray => { throw new Error('Not implemented') }  
   index_of = (b: any) => this.filter(x => x.equals(b)).distance()  
   get length() { return this.filter(x => x.is_last()).distance() }  
