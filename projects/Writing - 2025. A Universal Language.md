@@ -806,8 +806,16 @@ filter to change initial structure, get the initial structure/
 // TODO: next when none is selected should return the first entries? (Including looped initials?; optionally?)
 
 
-```
+```ts
+
+/**  
+ * Deem initial and terminal cycles as part of the boundary: * - Each entry within a cycle is deemed a possible boundary value. * - A boundary cycle is deemed one if there is no initial/terminal out of the cycle. (Say, no initial side to an initial cycle) * TODO: What if there are two cycles, and one has an initial and the other does not?  
+ */  
+cycles_are_boundaries: () => TCursor
+
+cycles_are_boundaries = Property.boolean(this, 'cycles_are_boundaries')
 
 
+ || (Property.is(this.cycles_are_boundaries) && false)   // TODO: Detect cycles for cycles_are_boundaries
 
 ```
