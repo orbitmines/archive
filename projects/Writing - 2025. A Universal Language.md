@@ -834,27 +834,6 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
   
 ```
 
-```ts
-
-  
-class Ray implements AsyncIterable<Ray> {  
-  
-  at = Property.property(this, 'at', (index: number | IRange): IRange | Ray => {  
-    if (is_number(index)) {  
-      // TODO if (index === Infinity) return this.terminal_boundary;  
-      // if (index < 0) return this.reverse().at(index * -1);  
-  
-      index = Range.Eq(index)  
-    }  
-  
-    return index;  
-  })  
-  
-
-  
-}
-```
-
 
 **Changes applied to what structure**
   // TODO: map where each change in sequence effects the next one, vs map where we expect the initial structure to be the same  TODO COUNTS FOR EVERY CHANGE. Might trigger changes which alter multiple layers of the altered Ray. -> Selection might not be reachable, or differently, or distance is altered, etc..
