@@ -413,8 +413,7 @@ class Ray implements Iterable<Ray> {
 
   
   * [Symbol.iterator](): Generator<Ray> {  
-  
-    // console.log(this.type)  
+
     // TODO: Forloops bundled  
     // TODO: On boundary, you'd want to loop simultaneously through all  
     switch (this.type) {  
