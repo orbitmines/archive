@@ -746,7 +746,7 @@ class Ray implements AsyncIterable<Ray> {
   distance = (): Ray => { throw new Error('Not implemented') }  
   index_of = (b: any) => this.filter(x => x.equals(b)).distance().all().unique() 
   get length() { return this.filter(x => x.is_last()).distance().all().unique() 
-  // TODO: Could merge the lengths into branches. so [-5, +3] | [-5, -2] to []
+  // TODO: Could merge the lengths into branches. so [-5, +3] | [-5, -2] to [-5, -3 | -2]
   }  
   
   contains = async (b: any) => this.some(x => x.equals(b))  
