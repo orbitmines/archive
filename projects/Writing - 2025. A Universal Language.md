@@ -864,8 +864,6 @@ class Ray implements AsyncIterable<Ray> {
   __parents__: Ray[] = []  
   with = (parent: Ray): Ray => { this.__parents__.push(parent); return this; }  
   
-  filter = Property.property<(x: Ray) => MaybeAsync<boolean>>(this, 'filter')  
-  map = Property.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
   reverse = Property.boolean(this, 'reverse')  
   bidirectional = Property.boolean(this, 'bidirectional')  
   at = Property.property(this, 'at', (index: number | IRange): IRange | Ray => {  
