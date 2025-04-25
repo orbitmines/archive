@@ -859,11 +859,6 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
   
 class Ray implements AsyncIterable<Ray> {  
   
-  __parents__: Ray[] = []  
-  with = (parent: Ray): Ray => { this.__parents__.push(parent); return this; }  
-  
-  reverse = Property.boolean(this, 'reverse')  
-  bidirectional = Property.boolean(this, 'bidirectional')  
   at = Property.property(this, 'at', (index: number | IRange): IRange | Ray => {  
     if (is_number(index)) {  
       // TODO if (index === Infinity) return this.terminal_boundary;  
