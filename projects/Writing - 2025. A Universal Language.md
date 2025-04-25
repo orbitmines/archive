@@ -293,9 +293,6 @@ class Ray implements Iterable<Ray> {
 }
 export default Ray;
 
-//   indexOf(searchElement: T, fromIndex?: number): number {
-//     return 0;
-//   }
 //
 //   join(separator?: string): string {
 //     return "";
