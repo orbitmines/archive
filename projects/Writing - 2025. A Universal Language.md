@@ -992,16 +992,6 @@ export interface Cursor<T, TCursor extends Cursor<T, TCursor>> {
 //   push_front: (b: any) => T  
 // }  
   
-export interface Enumerable extends AsyncIterable<Node> {  
-  every: (predicate: (x: Node) => MaybeAsync<boolean>) => MaybeAsync<boolean>  
-  some: (predicate: (x: Node) => MaybeAsync<boolean>) => MaybeAsync<boolean>  
-  
-  contains: (b: any) => MaybeAsync<boolean>  
-  
-  filter: (predicate: (x: Node) => MaybeAsync<boolean>) => Enumerable  
-  map: <R>(predicate: (x: Node) => R) => Enumerable  
-}  
-  
 export interface Cursor extends Enumerable {  
   get selection(): Enumerable  
 }
