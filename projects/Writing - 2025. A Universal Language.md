@@ -741,9 +741,7 @@ class Ray implements AsyncIterable<Ray> {
   every = (predicate: (x: Ray) => boolean) => !this.map(x => predicate(x)).filter(x => x.equals(false)).has_next()
   
   
-  // TODO: Index of/Distance function can be circular ; multiple/generating indexes as an answer  
-  // TODO: Might never give a result because of filter and infinitely generating terminal.  
-  // TODO: Depending on how the program steps, this might not be in ascending order.  
+  // TODO: Index of/Distance function can be circular ; multiple/generating indexes as an answer 
   // TODO: Distance is possibly a sequence of index steps, as [-5, +3] != [-2] (not in every case) - take .bidirectional for example. (Or can be thought of as a list of binary values for left/right)  
   distance = (): Ray => { throw new Error('Not implemented') }  
   index_of = (b: any) => this.filter(x => x.equals(b)).distance()  
@@ -907,7 +905,7 @@ class Ray implements AsyncIterable<Ray> {
 ```
 
 
-C
+**Changes applied to what structure**
   // TODO: map where each change in sequence effects the next one, vs map where we expect the initial structure to be the same  TODO COUNTS FOR EVERY CHANGE. Might trigger changes which alter multiple layers of the altered Ray. -> Selection might not be reachable, or differently, or distance is altered, etc..
   // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
 
