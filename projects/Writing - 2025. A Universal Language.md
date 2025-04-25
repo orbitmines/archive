@@ -547,8 +547,6 @@ class Ray implements Iterable<Ray> {
 ```
 
 
-- - Types/Values with multiple, or structured selectors. ; Array of parameters is structured selector in single list (or mapped to name or more complicated)
-
 
 ```ts
   
