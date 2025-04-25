@@ -919,15 +919,5 @@ export interface Cursor<T, TCursor extends Cursor<T, TCursor>> {
   
 
   
-}  
-  
-// export interface Cursor<T> extends ReadonlyCursor<T> {  
-//   push: (b: any) => T  
-//   push_back: (b: any) => T  
-//   push_front: (b: any) => T  
-// }  
-  
-export interface Cursor extends Enumerable {  
-  get selection(): Enumerable  
 }
 ```
