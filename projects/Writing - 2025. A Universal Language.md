@@ -673,8 +673,6 @@ class Ray implements AsyncIterable<Ray> {
     Object.keys(object).forEach(key => (this as any)[key] = object[key]);  
   }  
   
-  // TODO: map where each change in sequence effects the next one, vs map where we expect the initial structure to be the same  TODO COUNTS FOR EVERY CHANGE. Might trigger changes which alter multiple layers of the altered Ray. -> Selection might not be reachable, or differently, or distance is altered, etc..
-  
   // TODO: How does .map effect .self/.terminal/.initial  
   // TODO: Map preserves current structure (if it doesn't loop on itself)
   public __map__
@@ -744,7 +742,6 @@ class Ray implements AsyncIterable<Ray> {
   
   
   // TODO: Index of/Distance function can be circular ; multiple/generating indexes as an answer  
-  // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
   // TODO: Might never give a result because of filter and infinitely generating terminal.  
   // TODO: Depending on how the program steps, this might not be in ascending order.  
   // TODO: Distance is possibly a sequence of index steps, as [-5, +3] != [-2] (not in every case) - take .bidirectional for example. (Or can be thought of as a list of binary values for left/right)  
@@ -909,6 +906,10 @@ class Ray implements AsyncIterable<Ray> {
 }
 ```
 
+
+C
+  // TODO: map where each change in sequence effects the next one, vs map where we expect the initial structure to be the same  TODO COUNTS FOR EVERY CHANGE. Might trigger changes which alter multiple layers of the altered Ray. -> Selection might not be reachable, or differently, or distance is altered, etc..
+  // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
 
 // TODO: next for certain selections might not have a next, but others do. Different functionality for remaining at those boundaries (can be done by infinite loop in the structure at the end), discarding them (default behavior?), or ... ?
 
