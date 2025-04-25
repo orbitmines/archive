@@ -798,6 +798,9 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
   // TODO: map where each change in sequence effects the next one, vs map where we expect the initial structure to be the same  TODO COUNTS FOR EVERY CHANGE. Might trigger changes which alter multiple layers of the altered Ray. -> Selection might not be reachable, or differently, or distance is altered, etc..
   // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
 
+filter to change initial structure, get the initial structure/
+
+
 // TODO: next for certain selections might not have a next, but others do. Different functionality for remaining at those boundaries (can be done by infinite loop in the structure at the end), discarding them (default behavior?), or ... ?
 
 // TODO: next when none is selected should return the first entries? (Including looped initials?; optionally?)
