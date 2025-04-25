@@ -240,7 +240,6 @@ class Ray implements Iterable<Ray> {
   *[Symbol.iterator](): Iterator<Ray> {
     // if (!this.is_boundary()) return this;
 
-    // TODO: Abstract away to use Rays instead
     // TODO: Cycle detection & merger
 
     // TODO: Might switch to index=0 being on VERTEX and adding left/right to iterable
