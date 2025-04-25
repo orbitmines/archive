@@ -750,12 +750,6 @@ class Ray implements AsyncIterable<Ray> {
     yield * this.traverse({ strategy })  
   }  
   
-
-get next(): Ray { return this.at(1); }  
-has_next = () => this.next.is_some()  
-get previous(): Ray { return this.at(-1); }  
-has_previous = () => this.previous.is_some()  
-
   
   
   // get boundary(): Ray {
