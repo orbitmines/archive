@@ -340,7 +340,6 @@ export default Ray;
 
 ```
 
-// Separate function builder and functionality
 
 ```ts
   
