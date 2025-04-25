@@ -757,12 +757,6 @@ class Ray implements AsyncIterable<Ray> {
     yield * this.traverse({ strategy })  
   }  
   
-  // TODO: Bidirectional opens up the problem that something can be -5, then + 3 steps ahead, yet not show up as the initial -2. How should this be handled?  
-  get bidirectional
-  
-    // function * strategy(x: Ray) { yield [x.initial, x.terminal]; }  
-    // yield * this.traverse({ strategy })  }   
-
 
 
 
