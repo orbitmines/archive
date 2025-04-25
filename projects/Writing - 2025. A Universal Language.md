@@ -648,6 +648,7 @@ class Ray implements AsyncIterable<Ray> {
   public __map__
   
   // If the starting Ray is a vertex, which is excluded, it acts like an initial.  
+  // TODO: Selection after filter change reapply, TODO: For all changes
   public __filter__
   
   // TODO: Functions that alter structure like .flatten/.flat_map, what else?  
