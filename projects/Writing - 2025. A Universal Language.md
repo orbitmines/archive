@@ -651,8 +651,6 @@ class Ray implements AsyncIterable<Ray> {
   public __filter__
   
   // TODO: Functions that alter structure like .flatten/.flat_map, what else?  
-  
-  // TODO Distance/Index mapping  
   // TODO: join/pop/shift/sort/max/min or similar alterations  
   
   // get initial(): Ray { return this.__reverse__ ? this.state.terminal : this.state.initial }; set initial(x: Any) { this.__reverse__ ? this.state.terminal = x : this.state.initial = x; }  
