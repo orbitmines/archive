@@ -758,9 +758,6 @@ class Ray implements AsyncIterable<Ray> {
   }  
   
 
-
-
-   
 get next(): Ray { return this.at(1); }  
 has_next = () => this.next.is_some()  
 get previous(): Ray { return this.at(-1); }  
