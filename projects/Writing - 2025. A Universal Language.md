@@ -768,8 +768,10 @@ has_previous = () => this.previous.is_some()
 
   
   
-  // is_on_boundary = async () => await this.is_first() || await this.is_last()  
-  // get boundary(): Ray {  //   return this.bidirectional  //     .filter(x => x.is_on_boundary())  //     .map(x => x.is_first() ? Ray.initial({ terminal: x }) : Ray.terminal({ initial: x }))  // }  
+  // get boundary(): Ray {  
+  //   return this.bidirectional  
+  //     .filter(x => x.is_on_boundary())  
+  //     .map(x => x.is_first() ? Ray.initial({ terminal: x }) : Ray.terminal({ initial: x }))  // }
   // TODO" Ray.terminal should automatically be linked to the provided 'initial' (should respect reverse)  
 
   get initial_boundary(): Ray { return this.reverse.terminal_boundary }  
