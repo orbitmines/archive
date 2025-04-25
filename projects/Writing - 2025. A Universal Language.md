@@ -911,9 +911,7 @@ class Ray implements AsyncIterable<Ray> {
 
 ```ts  
 export interface Cursor<T, TCursor extends Cursor<T, TCursor>> {  
-  
-  current: () => AsyncGenerator<T>  
-    
+
   is_none: () => MaybeAsync<boolean>  
   is_some: () => MaybeAsync<boolean>  
   
@@ -921,3 +919,5 @@ export interface Cursor<T, TCursor extends Cursor<T, TCursor>> {
   
 }
 ```
+
+// TODO: next for certain selections might not have a next, but others do. Different functionality for remaining at those boundaries (can be done by infinite loop in the structure at the end), discarding them (default behavior?), or ... ?
