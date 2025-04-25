@@ -959,12 +959,7 @@ class Ray implements AsyncIterable<Ray> {
 }
 ```
 
-```ts
-
-export class Ray {}  
-  
-
-  
+```ts  
 export interface Cursor<T, TCursor extends Cursor<T, TCursor>> {  
   
   current: () => AsyncGenerator<T>  
