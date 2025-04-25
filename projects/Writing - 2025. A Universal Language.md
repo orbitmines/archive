@@ -917,17 +917,7 @@ export interface Cursor<T, TCursor extends Cursor<T, TCursor>> {
   is_none: () => MaybeAsync<boolean>  
   is_some: () => MaybeAsync<boolean>  
   
-  get next(): TCursor  
-  has_next: () => MaybeAsync<boolean>  
-  get previous(): TCursor  
-  has_previous: () => MaybeAsync<boolean>  
-  
-  get last(): TCursor
-  is_last: () => MaybeAsync<boolean>  
-  get first(): TCursor
-  is_first: () => MaybeAsync<boolean>  
-  get boundary(): TCursor
-  on_boundary: () => MaybeAsync<boolean>
+
   
 }  
   
