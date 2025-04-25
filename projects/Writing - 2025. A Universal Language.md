@@ -768,9 +768,7 @@ has_previous = () => this.previous.is_some()
 
   
   
-  // get boundary(): Ray {  
-  //   return this.bidirectional  
-  //     .filter(x => x.is_on_boundary())  
+  // get boundary(): Ray {
   //     .map(x => x.is_first() ? Ray.initial({ terminal: x }) : Ray.terminal({ initial: x }))  // }
   // TODO" Ray.terminal should automatically be linked to the provided 'initial' (should respect reverse)  
 
