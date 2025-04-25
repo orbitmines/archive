@@ -645,7 +645,6 @@ class Ray implements AsyncIterable<Ray> {
   }  
   
   // TODO: How does .map effect .self/.terminal/.initial  
-  // TODO: Map preserves current structure (if it doesn't loop on itself)
   public __map__
   
   // If the starting Ray is a vertex, which is excluded, it acts like an initial.  
