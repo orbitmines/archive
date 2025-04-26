@@ -726,15 +726,14 @@ class Ray implements AsyncIterable<Ray> {
   // TODO" Ray.terminal should automatically be linked to the provided 'initial' (should respect reverse)  
 
   get initial_boundary(): Ray { return this.reverse.terminal_boundary }  
-  
+  get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
+    
   // TODO: Push-back list of possibilities vs list to follow after (using selection for list of possibilities, and add that structure./) 
   // if (this.is_boundary()) return this.map(x => x.compose(b))  
     // if (b.is_boundary()) return b.map(x => this.compose(x)) //TODO should return x. 
   push
   
   in_orbit = (): boolean => {   
-  
-   get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
     throw new Error('Not implemented')  
   }  
   
