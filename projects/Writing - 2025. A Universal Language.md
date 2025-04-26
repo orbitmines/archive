@@ -732,7 +732,9 @@ class Ray implements AsyncIterable<Ray> {
     // if (b.is_boundary()) return b.map(x => this.compose(x)) //TODO should return x. 
   push
   
-  in_orbit = (): boolean => {    get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
+  in_orbit = (): boolean => {   
+  
+   get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
     throw new Error('Not implemented')  
   }  
   
