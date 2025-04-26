@@ -802,7 +802,6 @@ const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)
 filter to change initial structure, get the initial structure/
 
 
-// TODO: next for certain selections might not have a next, but others do. Different functionality for remaining at those boundaries (can be done by infinite loop in the structure at the end), discarding them (default behavior?), or ... ?
 
 // TODO: next when none is selected should return the first entries? (Including looped initials?; optionally?)
 
