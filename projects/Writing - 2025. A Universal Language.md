@@ -827,4 +827,5 @@ cycles_are_boundaries = Property.boolean(this, 'cycles_are_boundaries')
  */  
 selection: TCursor
 
+private __selection__: Ray; get selection(): Ray { return this.__selection__ ??= new Ray() }; set selection(value: Ray) { this.__selection__ = value }
 ```
