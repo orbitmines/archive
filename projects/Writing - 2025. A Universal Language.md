@@ -293,9 +293,6 @@ class Ray implements Iterable<Ray> {
 }
 export default Ray;
 //
-//   pop(): T | undefined {
-//     return undefined;
-//   }
 //
 //   reduce(callbackfn: (previousValue: T, currentValue: T, currentIndex: number, array: T[]) => T): T;
 //   reduce(callbackfn: (previousValue: T, currentValue: T, currentIndex: number, array: T[]) => T, initialValue: T): T;
@@ -309,10 +306,6 @@ export default Ray;
 //   reduceRight(callbackfn, initialValue?): any {
 //   }
 //
-//   shift(): T | undefined {
-//     return undefined;
-//   }
-//
 //   sort(compareFn?: (a: T, b: T) => number): this {
 //     return undefined;
 //   }
@@ -321,10 +314,6 @@ export default Ray;
 //   splice(start: number, deleteCount: number, ...items: T[]): T[];
 //   splice(start: number, deleteCount?: number, ...items: T[]): T[] {
 //     return [];
-//   }
-//
-//   unshift(...items: T[]): number {
-//     return 0;
 //   }
 // }
 
