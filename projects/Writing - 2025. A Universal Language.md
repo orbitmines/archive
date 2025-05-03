@@ -810,3 +810,17 @@ TODO Replaced with .all
 for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) => {  
   // for await (let x of this) { await callback(x) }
 ```
+
+```ts
+splice: (start: number, deleteCount?: number, ...xs: any[]) => TCursor
+
+// TODO https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice#:~:text=Zero%2Dbased%20index%20at%20which%20to%20start%20changing%20the%20array%2C%20converted%20to%20an%20integer.
+splice = (start: number, deleteCount?: number, ...xs: any[]) => {  
+  const cursor = this.at(start);  
+  if (deleteCount) cursor.at(Range.Between(0, deleteCount)).remove();  
+  xs.forEach(x => cursor.push_back(x));  
+  return this;  
+}
+
+
+```
