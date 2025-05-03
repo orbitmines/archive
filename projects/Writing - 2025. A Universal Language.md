@@ -829,3 +829,10 @@ selection: TCursor
 
 private __selection__: Ray; get selection(): Ray { return this.__selection__ ??= new Ray() }; set selection(value: Ray) { this.__selection__ = value }
 ```
+
+```ts
+TODO Replaced with .all
+
+for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) => {  
+  // for await (let x of this) { await callback(x) }
+```
