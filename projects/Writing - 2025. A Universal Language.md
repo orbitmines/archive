@@ -747,7 +747,13 @@ class State {
 export default State;  
   
 const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)  
-  
+
+
+
+constructor(object: any = {}) {  
+  Object.keys(object).forEach(key => (this as any)[key] = object[key]);  
+}
+
 ```
 
 
