@@ -678,9 +678,6 @@ class Ray implements AsyncIterable<Ray> {
 
 
 
-  // TODO: Distance is possibly a sequence of index steps, as [-5, +3] != [-2] (not in every case) - take .bidirectional for example. (Or can be thought of as a list of binary values for left/right). This can be superposed and branch: [-5, +3 | -2] etc.. or [-5, +3] | [-5, -2]
-
-  
   
   // get boundary(): Ray {
   //     .map(x => x.is_first() ? Ray.initial({ terminal: x }) : Ray.terminal({ initial: x }))  // }
