@@ -819,3 +819,12 @@ cycles_are_boundaries = Property.boolean(this, 'cycles_are_boundaries')
  || (Property.is(this.cycles_are_boundaries) && false)   // TODO: Detect cycles for cycles_are_boundaries
 
 ```
+
+```ts
+
+/**  
+ * A list of additional locations our Ray is at. * * TODO: What if selection has non-unique locations? -> Should operations be duplicated, or does this sort of functionality have to be enabled/disabled?  
+ */  
+selection: TCursor
+
+```
