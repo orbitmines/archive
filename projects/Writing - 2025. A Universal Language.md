@@ -309,12 +309,6 @@ export default Ray;
 //   sort(compareFn?: (a: T, b: T) => number): this {
 //     return undefined;
 //   }
-//
-//   splice(start: number, deleteCount?: number): T[];
-//   splice(start: number, deleteCount: number, ...items: T[]): T[];
-//   splice(start: number, deleteCount?: number, ...items: T[]): T[] {
-//     return [];
-//   }
 // }
 
 
