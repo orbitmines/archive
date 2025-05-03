@@ -314,10 +314,6 @@ export default Ray;
 //   reduceRight(callbackfn, initialValue?): any {
 //   }
 //
-//   reverse(): T[] {
-//     return [];
-//   }
-//
 //   shift(): T | undefined {
 //     return undefined;
 //   }
