@@ -292,11 +292,6 @@ class Ray implements Iterable<Ray> {
 
 }
 export default Ray;
-
-//
-//   join(separator?: string): string {
-//     return "";
-//   }
 //
 //   pop(): T | undefined {
 //     return undefined;
