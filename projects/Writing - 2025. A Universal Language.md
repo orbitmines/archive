@@ -817,12 +817,4 @@ splice = (start: number, deleteCount?: number, ...xs: any[]) => {
 
 ```ts
 
-collect = <R>(predicate: (x: Ray) => MaybeAsync<R>): IRay<R> => {  
-  
-}
-
-/**  
- * Map all continued functions on this ray to a specific type. 
- */
-collect: <R>(predicate: (x: TNode) => MaybeAsync<R>) => IRay<R>
 ```
