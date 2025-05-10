@@ -17,7 +17,7 @@ Summarized:
 - "The halting of any part of any program is unknown. It is therefore a rephrasing of the problem of (1) how many resources you dedicate to which problem and (2) how you deal with intermediate results."
 - Structure is innate, something more general than, yet similar to graphs
 
-- Whereas usual graphs, we concern ourselves with vertices and edges, this is a rephrasing 
+- Whereas usual graphs, we concern ourselves with vertices and edges, this is a rephrasing to a [Does the state of a ray have a more intuitive name?]. Which encompasses both what it means to be vertex and edge.
 
 
 - filter/map/... as expressions/program on state?
