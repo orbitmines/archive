@@ -654,16 +654,6 @@ cycles_are_boundaries = Property.boolean(this, 'cycles_are_boundaries')
 ```
 
 ```ts
-
-/**  
- * A list of additional locations our Ray is at. * * TODO: What if selection has non-unique locations? -> Should operations be duplicated, or does this sort of functionality have to be enabled/disabled?  
- */  
-selection: TCursor
-
-private __selection__: Ray; get selection(): Ray { return this.__selection__ ??= new Ray() }; set selection(value: Ray) { this.__selection__ = value }
-```
-
-```ts
 TODO Replaced with .all
 
 for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) => {  
@@ -684,15 +674,3 @@ splice = (start: number, deleteCount?: number, ...xs: any[]) => {
 
 ```
 
-
-```ts
-
-collect = <R>(predicate: (x: Ray) => MaybeAsync<R>): IRay<R> => {  
-  
-}
-
-/**  
- * Map all continued functions on this ray to a specific type. 
- */
-collect: <R>(predicate: (x: TNode) => MaybeAsync<R>) => IRay<R>
-```
