@@ -24,7 +24,6 @@ Summarized:
 - Partial equality confirmed up to,
 
 - Differences between function looking for variable(s) or not
-- From "location" to "data entry"
 - ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
 - Better way of thinking about one-way referenced structure
 - (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
