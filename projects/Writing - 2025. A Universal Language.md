@@ -35,7 +35,7 @@ Summarized:
 		- multiple initial in sequence suprrposed by composed vatiant?
 	- Intermediate results pending change
 		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
-
+	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 
 ```ts
 /**
@@ -70,12 +70,9 @@ Summarized:
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
 
-- Given larger context something which uniquely indexes substructure (from some other location)
-
 ---
 
-- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
-- [ ] Type information + selection combination
+- [ ] Type information
 - [ ] Canonicalization/deduplication
 
 ###### Function Repository
