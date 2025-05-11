@@ -397,24 +397,8 @@ class Ray implements AsyncIterable<Ray> {
 
 // type = async (): Promise<Type> => {  //   if (await this.is_reference()) return Type.REFERENCE;  //   if (await this.is_initial()) return Type.INITIAL;  //   if (await this.is_terminal()) return Type.TERMINAL;  //   if (await this.is_vertex()) return Type.VERTEX;  //   // if (this.is_wall()) return Type.WALL;  //   throw new Error('Should not happen')  // }  
 
-  // TODO: At each step, the intermediate iterator result which gets returned, might be expanded on later, when deemed it has changed, when would you want to know about that change mid-iteration?  
-  // TODO: What about traversing and mapping the entire structure including terminal/initial structure?  
-  async * traverse({  
-    strategy,  
-    history,  
-  }: { strategy?: (x: Ray) => Iterable<Ray | Ray[]>, history?: Ray } = {}) {  
-    const { __filter__, __map__ } = this;  
-  
-    function * found(unfiltered: Iterable<Ray>) {  
-      // TODO history.contains() ; Only needs a 'have I been here flag'  
-  
-    }  
-    throw new Error('Not implemented')  
-  }  
-  
 
-
-
+  
 
   
   // get boundary(): Ray {
