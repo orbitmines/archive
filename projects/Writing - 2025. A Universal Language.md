@@ -347,8 +347,7 @@ class Ray implements Iterable<Ray> {
         yield Ray.ref(this.self);  
         break;  
       case Type.VERTEX:  
-        // TODO __filter__  
-        // TODO __map__  
+	  
         yield Ray.ref(this);  
   
         let generators = [...this.terminal.collapse()].map(x => x[Symbol.iterator]());  
@@ -395,54 +394,6 @@ class Ray implements Iterable<Ray> {
     }  
   }  
   
-  add = (b: Ray): Ray => {  
-    // if (this.is_reference()) this.as_vertex();  
-    //    // switch (b.type) {    //   case Type.REFERENCE:    //   case Type.VERTEX:    //     b.as_vertex();    //     this.compose(b);    //     return b;    //   case Type.INITIAL:    //   case Type.TERMINAL:    //    //     break;    //    // }  }  
-  
-  compose = (b: Ray): Ray => {  
-    // TODO Could abstract this product (to proxy?)  
-    if (this.is_boundary()) {  
-      for (let vertex of this) { vertex.compose(b) }  
-      return this;  
-    }  
-    if (b.is_boundary()) {  
-      for (let vertex of b) { this.compose(vertex) }  
-      return this;  
-    }  
-  
-    if (this.type === Type.REFERENCE || b.type === Type.REFERENCE) {  
-      throw new Error('What to do in case of references?');  
-    }  
-  
-    if (this.terminal.is_empty_reference()) {  
-      this.terminal = b;  
-    } else {  
-      if (this.terminal.is_reference()) this.terminal.as_vertex();  
-  
-      // this.terminal.last.compose(Ray.vertex({ self: b }))  
-    }  
-  
-    if (b.initial.is_empty_reference()) {  
-      b.initial = this;  
-    } else {  
-      if (b.initial.is_reference()) b.initial.as_vertex();  
-  
-      // Ray.vertex({ self: this }).compose(b.initial.first)  
-    }  
-  
-    return this;  
-  }  
-  
-  as_vertex = (): Ray => {  
-    if (this.is_initial()) this.initial = new Ray();  
-    if (this.is_terminal()) this.terminal = new Ray();  
-    return this;  
-  }  
-  
-  static none = () => new Ray({ __none__: true })  
-  
-  static ref = (x: Ray | Ray[] | (() => Ray)): Ray => new Ray({ __self__: () => x instanceof Array ? Ray.iterable(x) : x instanceof Ray ? x : x() })  
-
 }  
 
 ```
