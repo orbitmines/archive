@@ -24,7 +24,7 @@ Summarized:
 - Partial equality confirmed up to,
 
 - Differences between function looking for variable(s) or not
-- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs")
+- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs") -> difference between program A generates number Y.
 - Better way of thinking about one-way referenced structure
 - (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
 - [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstrzaction level ; ex. no nice mappings))
@@ -98,7 +98,7 @@ Summarized:
 - differentiable between two points to arbitrary precision, how is it constructed?
 
 ###### Energy/Resources
-- The larger the integer/fraction, the larger the number of digits in a fractal, the more structure you need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
+- The larger the integer, the more structure you need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
 - Coherence is expensive? - Takes a lot of structure
 - Names in language as a way of indexing hard-to-find things
 - [ ] Memorization vs rerunning
