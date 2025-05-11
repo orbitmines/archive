@@ -660,13 +660,4 @@ for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) => {
   // for await (let x of this) { await callback(x) }
 ```
 
-```ts
-/**  
- * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice */splice = (start: number, deleteCount?: number, ...xs: any[]) => {  
-  
-  if (new Ray(start).lt(this.deselect().length.max())) start = 0;  
-  
-}  
-
-```
 
