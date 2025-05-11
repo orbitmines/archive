@@ -556,8 +556,6 @@ class Ray implements AsyncIterable<Ray> {
     // TODO Instantly yield intermediate results by returning an iterable of which the next values are still pending.  
     // TODO: Returned iterable result can also be infinitely generating  
   
-  
-    // TODO: Map maps .self values of each vertex.  
     // TODO: Map replaces either original structure or within the altered (filtered/mapped) structure?  
   
     // TODO: Allow for additional operations on .traverse/.last like .push_back, where we have pending for non-found values of .last yet  
