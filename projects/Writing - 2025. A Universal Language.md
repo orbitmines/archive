@@ -36,6 +36,7 @@ Summarized:
 	- Intermediate results pending change
 		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
 	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
+	- [ ] Compose for function initials?  
 
 ```ts
 /**
@@ -551,20 +552,13 @@ class Ray implements AsyncIterable<Ray> {
     // TODO: History in case of .bidirectional after a .filter is?  
   
     // TODO: Traversal should support yielding initial/terminals as well  
-  
-  
-    // TODO Instantly yield intermediate results by returning an iterable of which the next values are still pending.  
-    // TODO: Returned iterable result can also be infinitely generating  
+
   
     // TODO: Map replaces either original structure or within the altered (filtered/mapped) structure?  
   
     // TODO: Allow for additional operations on .traverse/.last like .push_back, where we have pending for non-found values of .last yet  
   }  
   
-  // Compose for function initials?  
-  compose = (b: Ray): Ray => {  
-    throw new Error('Not implemented')  
-  }  
 
 
 
