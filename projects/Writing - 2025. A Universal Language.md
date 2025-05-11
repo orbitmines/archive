@@ -48,8 +48,6 @@ Summarized:
  *  - How to think about this as a single function with intermediate steps.
  *      How is that different from applying same function in that direction?: Described on another level of description?
  *  - Requires "looking for" type information. Ex. Function looking for parameter
- *  - Requires: Point to entire graph without specifying where.
- *  - Requires: Point to everything in a graph collapsed to a point.
  *
  *
  *
