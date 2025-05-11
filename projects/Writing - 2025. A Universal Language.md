@@ -19,10 +19,6 @@ Summarized:
 
 - Whereas usual graphs, we concern ourselves with vertices and edges, this is a rephrasing to a [Does the state of a ray have a more intuitive name?]. Which encompasses both what it means to be vertex and edge.
 
-
-- filter/map/... as expressions/program on state?
-- Partial equality confirmed up to,
-
 - Differences between function looking for variable(s) or not
 - ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs") -> difference between program A generates number Y.
 - Better way of thinking about one-way referenced structure
