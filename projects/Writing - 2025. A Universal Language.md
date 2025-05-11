@@ -39,7 +39,6 @@ Summarized:
 
 ```ts
 /**
- * Local rewriting ; local rules
  *
  *
  *
