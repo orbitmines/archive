@@ -448,3 +448,9 @@ constructor(object: any = {}) {
 
 
 - cycles_are_boundaries ?
+```ts
+/**  
+ * Connect the front and back of the structure. * TODO: Should preserve the .first and .last. (POSSIBLE_CONTINUATION should)  
+ */  
+orbit = () => this.push_back(this.first)
+```
