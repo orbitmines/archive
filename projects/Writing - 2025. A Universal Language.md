@@ -552,7 +552,6 @@ class Ray implements AsyncIterable<Ray> {
   
     // TODO: Traversal should support yielding initial/terminals as well  
   
-    // TODO: Program.step here with metadata  
   
     // TODO Instantly yield intermediate results by returning an iterable of which the next values are still pending.  
     // TODO: Returned iterable result can also be infinitely generating  
