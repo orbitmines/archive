@@ -136,7 +136,6 @@ class Instance {
   equivalences: Ray  
   // Unrealized functions which could be applied to this Ray  
   // How is this different from additional structure on .self? This as unrealized, .self as realized?  // TODO: Should this contain .initial & .terminal as functions? Or should this be  
-  // TODO: Separated into another class  
   functions: Ray   
   // Iterate over possible representations: Matching is_equivalent/is_isomorphic  
   representations: Ray  
