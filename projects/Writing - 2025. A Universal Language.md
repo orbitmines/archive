@@ -636,7 +636,6 @@ constructor(object: any = {}) {
   // TODO: Alterations on original structure or on altered or on copy ..  
   // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
 
-filter to change initial structure, get the initial structure/
 
 
 
