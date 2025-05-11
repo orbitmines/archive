@@ -294,19 +294,7 @@ class Ray implements Iterable<Ray> {
 
 }
 export default Ray;
-//
-//
-//   reduce(callbackfn: (previousValue: T, currentValue: T, currentIndex: number, array: T[]) => T): T;
-//   reduce(callbackfn: (previousValue: T, currentValue: T, currentIndex: number, array: T[]) => T, initialValue: T): T;
-//   reduce<U>(callbackfn: (previousValue: U, currentValue: T, currentIndex: number, array: T[]) => U, initialValue: U): U;
-//   reduce(callbackfn, initialValue?): any {
-//   }
-//
-//   reduceRight(callbackfn: (previousValue: T, currentValue: T, currentIndex: number, array: T[]) => T): T;
-//   reduceRight(callbackfn: (previousValue: T, currentValue: T, currentIndex: number, array: T[]) => T, initialValue: T): T;
-//   reduceRight<U>(callbackfn: (previousValue: U, currentValue: T, currentIndex: number, array: T[]) => U, initialValue: U): U;
-//   reduceRight(callbackfn, initialValue?): any {
-//   }
+
 //
 //   sort(compareFn?: (a: T, b: T) => number): this {
 //     return undefined;
