@@ -529,7 +529,6 @@ class Ray implements AsyncIterable<Ray> {
   public __filter__
   
   // TODO: Functions that alter structure like .flatten/.flat_map, what else?  
-  // TODO: join/pop/shift/sort/max/min or similar alterations  
   
   // get initial(): Ray { return this.__reverse__ ? this.state.terminal : this.state.initial }; set initial(x: Any) { this.__reverse__ ? this.state.terminal = x : this.state.initial = x; }  
   // get self(): Ray { return this.state.self }; set self(x: Any) { this.state.self = x; }  // get terminal(): Ray { return this.__reverse__ ? this.state.initial : this.state.terminal }; set terminal(x: Any) { this.__reverse__ ? this.state.initial = x : this.state.terminal = x; }  
@@ -545,12 +544,6 @@ class Ray implements AsyncIterable<Ray> {
   
     function * found(unfiltered: Iterable<Ray>) {  
       // TODO history.contains() ; Only needs a 'have I been here flag'  
-  
-      let x = new AlteredIterable(unfiltered)  
-      // TODO: This doesnt work, filter.map.filter is different  
-      __filter__.forEach(filter => x = x.filter(filter))  
-      __map__.forEach(map => x = x.map(map))  
-  
   
     }  
     throw new Error('Not implemented')  
