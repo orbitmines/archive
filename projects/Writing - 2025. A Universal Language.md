@@ -618,19 +618,10 @@ class State {
   private __self__: Ray = new Ray(); get self(): Ray { return this.__self__ }; set self(x: Any) { this.__self__ = new Ray(x); }  
   private __terminal__: Ray = new Ray(); get terminal(): Ray { return this.__terminal__ }; set terminal(x: Any) { this.__terminal__ = new Ray(x); }  
   
-  constructor(object: any = {}) {  
-    Object.keys(object).forEach(key => (this as any)[key] = object[key]);  
-  }  
     
-  public __none__?: boolean // TODO Better solutions for this  
-  
-  
-  static none = () => new State({ __none__: true })  
-  
 }  
 export default State;  
   
-const xor = (a: boolean, b: boolean) => (a && !b) || (!a && b)  
 
 
 
