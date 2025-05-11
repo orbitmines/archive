@@ -59,9 +59,6 @@ Summarized:
  * - How does execution happen?
  *   - What about the expansion case which needs both add structure and replace a reference?
  *
- * Rethink in terms of central program which manages history, values, and control flow.
- *  - Not just thinking about structure.
- *
  *
  * Functions/Unrealized structure on location: Potential "Context"/Structure
  *    =
