@@ -277,10 +277,6 @@ export enum Type {
   // INITIAL_EXTREME,  
   // TERMINAL_EXTREME,  // WALL // TODO: Could be renamed empty?  
 }  
-  
-export type AnyOf<T> = T | T[] | (() => T | T[])  
-export type Any = undefined | AnyOf<Ray> | AnyOf<State>  
-
 
   
 // TODO: Could be merged back into Ray  
@@ -399,11 +395,6 @@ class Ray implements AsyncIterable<Ray> {
 
 
   
-
-  
-  // get boundary(): Ray {
-  //     .map(x => x.is_first() ? Ray.initial({ terminal: x }) : Ray.terminal({ initial: x }))  // }
-  // TODO" Ray.terminal should automatically be linked to the provided 'initial' (should respect reverse)  
 
   get initial_boundary(): Ray { return this.reverse.terminal_boundary }  
   get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
