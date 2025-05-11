@@ -667,7 +667,7 @@ splice: (start: number, deleteCount?: number, ...xs: any[]) => TCursor
 splice = (start: number, deleteCount?: number, ...xs: any[]) => {  
   const cursor = this.at(start);  
   if (deleteCount) cursor.at(Range.Between(0, deleteCount)).remove();  
-  xs.forEach(x => cursor.push_back(x));  
+  cursor.push_back(...xs)  
   return this;  
 }
 
