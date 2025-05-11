@@ -668,9 +668,8 @@ splice = (start: number, deleteCount?: number, ...xs: any[]) => {
   const cursor = this
 	  .apply(...[deleteCount ? cursor.at(Range.Between(0, deleteCount)).remove() : []])
 	  .orbit()
-	  .at(start);  
-    
-  cursor.push_back(...xs)  
+	  .at(start)
+	  .push(...xs)  
   return this;  
 }
 
