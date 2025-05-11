@@ -552,8 +552,7 @@ class Ray implements AsyncIterable<Ray> {
     throw new Error('Not implemented')  
 
     // TODO: History in case of .bidirectional after a .filter is?  
-  
-    // TODO: Traversal should support yielding initial/terminals as well  
+
 
   
     // TODO: Map replaces either original structure or within the altered (filtered/mapped) structure?  
