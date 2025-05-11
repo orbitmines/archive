@@ -40,10 +40,6 @@ Summarized:
 
 ```ts
 /**
- *
- *
- *
- *
  * Think more loosely about the ray's structure:
  * - Point to a function/program on some structure
  *  - How to think about this as a single function with intermediate steps.
@@ -64,7 +60,6 @@ Summarized:
  * Functions/Unrealized structure on location: Potential "Context"/Structure
  *    =
  * Additional structure on location
- *
  */
 ```
 
@@ -107,18 +102,13 @@ Summarized:
 ###### Statements?
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
 - Any symmetry must be breakable - any symmetry has some ignored assymetrical property ; Does not have to be the case from the perspective of the symmetry.
-
+- collapse the loop/infinity with an extreme 
 ---
 
 - Traversal: Arbitrarily branching, stepwise, superposed, ..., partial traversal & equivalences
 - Superposing Languages: Simultaneously having 'different levels of abstraction', superposing operators, 'multiple abstraction implementations', ..., simulation
 - A Reprogrammable (Visual) Interface: Open inputs, outputs, compute substrate, ..., interfaces
 - But what we can say is this: Whether either end, once found in isolation, can have itself be linked conceptually to its counterpart, is the interesting question.. whose rediscoverability is not entirely obvious. 
-
----
-
-- collapse the loop/infinity with an extreme 
-
 
 ---
 
