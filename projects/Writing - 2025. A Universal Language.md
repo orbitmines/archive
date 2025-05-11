@@ -634,7 +634,6 @@ constructor(object: any = {}) {
 
 **Changes applied to what structure**
   // TODO: Alterations on original structure or on altered or on copy ..  
-  // TODO: map where each change in sequence effects the next one, vs map where we expect the initial structure to be the same  TODO COUNTS FOR EVERY CHANGE. Might trigger changes which alter multiple layers of the altered Ray. -> Selection might not be reachable, or differently, or distance is altered, etc..
   // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
 
 filter to change initial structure, get the initial structure/
