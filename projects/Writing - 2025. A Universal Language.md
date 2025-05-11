@@ -116,8 +116,6 @@ Summarized:
 
 ---
 
-self reference in equiv ray means its not none  
-
 - collapse the loop/infinity with an extreme 
 
 Separated space vs "additional structure directions":
