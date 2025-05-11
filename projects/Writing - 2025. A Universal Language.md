@@ -204,8 +204,7 @@ class Ray implements Iterable<Ray> {
   *[Symbol.iterator](): Iterator<Ray> {
     // if (!this.is_boundary()) return this;
 
-    // TODO: Cycle detection & merger
-
+   
     // TODO: Might switch to index=0 being on VERTEX and adding left/right to iterable
     const queue: Ray[] = [this]
     while (queue.length !== 0) {
