@@ -329,25 +329,7 @@ class Ray implements Iterable<Ray> {
         break;  
     }  
   }  
-  
-  // equivalent
 
-  copy = (): Ray => {  
-  
-  }  
- 
-  static object = (x: object): Ray => {  
-  
-  }  
-  static function = (x: (...args: any[]) => any): Ray => {  
-  
-  }  
-  static reversible_function = (initial: (...args: any[]) => any, terminal: (...args: any[]) => any): Ray => {  
-  
-  }  
-  static number = (number: number, options = { base: 10 }): Ray => {  
-  
-  }  
 
 ```
 
