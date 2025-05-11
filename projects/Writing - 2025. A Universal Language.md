@@ -51,8 +51,6 @@ Summarized:
  *
  *
  *
- *  What about: Some structure, but superposed on others. Value A on all these B positions.
- *
  * - Control flow as partial pattern-matched on branching structure.
  *   - How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
  *
