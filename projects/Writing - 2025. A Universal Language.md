@@ -381,11 +381,6 @@ class Ray implements AsyncIterable<Ray> {
     //   if (x === undefined) return State.none;    //   if (is_function(x)) return () => {    //     let value = x();    //     if (value instanceof Array) return // TODO  
     //     return value instanceof State ? value : value.state  
     //   };    //   let value = x instanceof Array ? Ray.iterable(x) : Ray.ref(x);    //   return () => value;    // })(x)  }  
-    
-  constructor(x: Any = undefined, object: any = {}) {  
-    this.state = x;  
-    Object.keys(object).forEach(key => (this as any)[key] = object[key]);  
-  }  
   
   // TODO: How does .map effect .self/.terminal/.initial  
   public __map__
@@ -401,6 +396,7 @@ class Ray implements AsyncIterable<Ray> {
   
 
 // type = async (): Promise<Type> => {  //   if (await this.is_reference()) return Type.REFERENCE;  //   if (await this.is_initial()) return Type.INITIAL;  //   if (await this.is_terminal()) return Type.TERMINAL;  //   if (await this.is_vertex()) return Type.VERTEX;  //   // if (this.is_wall()) return Type.WALL;  //   throw new Error('Should not happen')  // }  
+
   // TODO: At each step, the intermediate iterator result which gets returned, might be expanded on later, when deemed it has changed, when would you want to know about that change mid-iteration?  
   // TODO: What about traversing and mapping the entire structure including terminal/initial structure?  
   async * traverse({  
