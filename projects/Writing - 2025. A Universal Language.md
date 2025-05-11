@@ -637,11 +637,6 @@ constructor(object: any = {}) {
   // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
 
 
-
-
-// TODO: next when none is selected should return the first entries? (Including looped initials?; optionally?)
-
-
 ```ts
 
 /**  
