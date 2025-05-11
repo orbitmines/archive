@@ -653,11 +653,3 @@ cycles_are_boundaries = Property.boolean(this, 'cycles_are_boundaries')
 
 ```
 
-```ts
-TODO Replaced with .all
-
-for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) => {  
-  // for await (let x of this) { await callback(x) }
-```
-
-
