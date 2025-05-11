@@ -667,10 +667,6 @@ for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) => {
   if (new Ray(start).lt(this.deselect().length.max())) start = 0;  
   
 }  
-/**  
- * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice */slice = (index?: number | IRange) => {  
-  if (index === undefined) return this;  
-  return this.at((is_number(index) ? Range.Between(index, Infinity) : index))  
-}
+
 ```
 
