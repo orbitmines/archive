@@ -118,7 +118,6 @@ Summarized:
 
 - collapse the loop/infinity with an extreme 
 
-Separated space vs "additional structure directions":
 
 ---
 
