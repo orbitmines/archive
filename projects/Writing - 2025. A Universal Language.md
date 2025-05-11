@@ -525,6 +525,9 @@ class Ray implements AsyncIterable<Ray> {
   // TODO: How does .map effect .self/.terminal/.initial  
   public __map__
   
+  // If the starting Ray is a vertex, which is excluded, it acts like an initial.  
+  public __filter__
+  
   // TODO: Functions that alter structure like .flatten/.flat_map, what else?  
   
   // get initial(): Ray { return this.__reverse__ ? this.state.terminal : this.state.initial }; set initial(x: Any) { this.__reverse__ ? this.state.terminal = x : this.state.initial = x; }  
