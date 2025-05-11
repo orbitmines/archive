@@ -398,10 +398,7 @@ class Ray implements AsyncIterable<Ray> {
 
   get initial_boundary(): Ray { return this.reverse.terminal_boundary }  
   get terminal_boundary(): Ray { return this.last.map(x => Ray.terminal({ initial: x })) }  
-    
-  // if (this.is_boundary()) return this.map(x => x.compose(b))  
-    // if (b.is_boundary()) return b.map(x => this.compose(x)) //TODO should return x. 
-  push
+
   
   
   static ref = (self: Any): Ray => new Ray(new State({ self }))  
@@ -409,9 +406,7 @@ class Ray implements AsyncIterable<Ray> {
   static initial = (object: any = {}) => new Ray(new State({ self: State.none(), terminal: State.none(), ...object }))  
   static vertex = (object: any = {}) => new Ray(new State({ initial: State.none(), self: State.none(), terminal: State.none(), ...object }))  
   static terminal = (object: any = {}) => new Ray(new State({ initial: State.none(), self: State.none(), ...object }))  
-    
-  // TODO: .iterable conversion should be automatic, and additional functionality of string & other objects  
-  // TODO: Could be added automatically.  
+
   static string = (string: string) => Ray.iterable(string)  
   static iterable = <T>(x: Iterable<T>) => this.iterator(x[Symbol.iterator]());  
   static iterator = <T>(x: Iterator<T>) => {  
@@ -459,7 +454,6 @@ constructor(object: any = {}) {
 
 
 **Changes applied to what structure**
-  // TODO: Alterations on original structure or on altered or on copy ..  
   // TODO: Indexes relative to what? The original structure probably, or the applied filter? Or which filter?  
 
 
