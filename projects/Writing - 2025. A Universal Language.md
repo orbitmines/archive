@@ -561,21 +561,21 @@ export class Ray {
    * Opposite of filter.   */  exclude = this.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'exclude')  
   map = this.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
   /**  
-   * Ignores duplicates after visiting the first one.   */  unique = Property.boolean(this, 'unique')  
+   * Ignores duplicates after visiting the first one.   */  unique = this.boolean(this, 'unique')  
   /**  
-   * Maps the original structure to one where you find the distances at the Nodes.   *   * Note: This can include infinitely generating index options.   */  distance = Property.boolean(this, 'distance')  
+   * Maps the original structure to one where you find the distances at the Nodes.   *   * Note: This can include infinitely generating index options.   */  distance = this.boolean(this, 'distance')  
   /**  
-   * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = Property.boolean(this, 'deselect')  
+   * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.boolean(this, 'deselect')  
   /**  
-   * Select all nodes in this structure.   */  all = Property.boolean(this, 'all')  
+   * Select all nodes in this structure.   */  all = this.boolean(this, 'all')  
   /**  
    * Select all nodes at a specific index/range.   * TODO Make sure negative index works  
    */  
   at = this.property(this, 'at', (index: number | IRange): IRange | Ray => is_number(index) ? Range.Eq(index) : index)  
   /**  
-   * Reverse direction starting from the selection   */  reverse = Property.boolean(this, 'reverse')  
+   * Reverse direction starting from the selection   */  reverse = this.boolean(this, 'reverse')  
   /**  
-   * A ray going both forward and backward.   */  bidirectional = Property.boolean(this, 'bidirectional')  
+   * A ray going both forward and backward.   */  bidirectional = this.boolean(this, 'bidirectional')  
   /**  
    * Change the values of all selected nodes.   */  set = this.property<any>(this, 'set')  
   
@@ -601,7 +601,7 @@ export class Ray {
   
   /**  
    * Whether anything is selected   */  is_some = (): Ray => this.is_none().not()  
-  is_none = Property.boolean(this, 'is_none')  
+  is_none = this.boolean(this, 'is_none')  
   
   /**  
    *   * Note: If there are multiple things selected, the ones without a 'next' node are discarded. With a terminal loop,   * one can keep terminal boundaries in the selection.   */  get next(): Ray { return this.at(1) }  
