@@ -456,6 +456,29 @@ orbit = () => this.push_back(this.first)
 ```
 
 ```ts
+
+export interface IState {  
+  is_initial: () => Ray  
+  is_terminal: () => Ray  
+  is_reference: () => Ray  
+  is_boundary: () => Ray  
+  is_vertex: () => Ray  
+  is_extreme: () => Ray  
+}  
+  
+export class State {  
+  // value: any  
+  initial: Ray  
+  // TODO: Certain structures like history/types/.. which are ignored from certain selections, but included elsewhere?: Separated space vs "additional structure directions":  
+  self: Ray  
+  terminal: Ray  
+  
+  // export type AnyOf<T> = T | T[] | (() => T | T[])  
+  // export type Any = undefined | AnyOf<Ray> | AnyOf<State>  
+  // TODO: What does self-reference mean here.  
+  is_terminal = () => this.terminal.is_empty()  
+}
+
   
 // TODO: What would be graph rewriting functions, include those  
 // TODO: What about loops which are only repeated an x number of times. (which are quite common), are there some other variants of this? (.slice/.splice would for example make use of a single .orbit use in selecting a range/start index)  
