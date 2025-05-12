@@ -617,7 +617,6 @@ export class Ray {
   on_boundary = (): Ray => this.is_first().or(this.is_last())  
   
   
-  // TODO: Equals in multicursor means any one of the cursors are equal. ?? What else to do with it  
   // TODO: If nothing is selected. .equals is the same as .identical. Because [1, 2, 3] = [1, 2, 3]  
   // TODO: Intermediate partial equality how?  
   /**  
