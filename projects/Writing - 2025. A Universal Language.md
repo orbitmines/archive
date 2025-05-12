@@ -593,7 +593,7 @@ export class Ray {
    * Push a value after the selection.
    * Note: In the case of an array, this will push "the structure of an array" after the selection. NOT a list of possibilities.
    */
-push = (...x: any[]) => this.__push__(new Ray(...x), PushStrategy.POSSIBLE_CONTINUATION)  
+   push = (...x: any[]) => this.__push__(new Ray(...x), PushStrategy.POSSIBLE_CONTINUATION)  
   
   /**  
    * Push a value between the current and next node.   */  push_after = (...x: any[]): Ray => this.__push__(new Ray(...x), PushStrategy.AFTER_CURRENT)  
