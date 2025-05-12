@@ -533,7 +533,7 @@ export class Ray {
   reduce = Property.property<[(accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any]>(this, 'reduce')  
   reduce_right = (callback: (accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any) => this.reverse().reduce(callback, initial_value)  
   
- 
+  filter = Property.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'filter')  
   /**  
    * Opposite of filter.   */  exclude = Property.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'exclude')  
   map = Property.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
