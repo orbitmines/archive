@@ -547,19 +547,19 @@ export class Ray {
   /**  
    * Applies successive transformation and returns the result.   *   * TODO: Could figure out what can be done in parallel and what can't.  
    */  
-  apply = Property.property<Ray[]>(this, 'apply')  
+  apply = this.property<Ray[]>(this, 'apply')  
   
   // TODO: Way to get index from the ray. With a default .distance function applied somewhere?  
   // TODO: Allow for intermediate result. -> Halting problem  
   // TODO: Checks for uniqueness, only once per location  
   // TODO: The order in which things appear can vary based on what strategy is used in the traverser.  
-  reduce = Property.property<[(accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any]>(this, 'reduce')  
+  reduce = this.property<[(accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any]>(this, 'reduce')  
   reduce_right = (callback: (accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any) => this.reverse().reduce(callback, initial_value)  
   
-  filter = Property.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'filter')  
+  filter = this.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'filter')  
   /**  
-   * Opposite of filter.   */  exclude = Property.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'exclude')  
-  map = Property.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
+   * Opposite of filter.   */  exclude = this.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'exclude')  
+  map = this.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
   /**  
    * Ignores duplicates after visiting the first one.   */  unique = Property.boolean(this, 'unique')  
   /**  
@@ -571,18 +571,18 @@ export class Ray {
   /**  
    * Select all nodes at a specific index/range.   * TODO Make sure negative index works  
    */  
-  at = Property.property(this, 'at', (index: number | IRange): IRange | Ray => is_number(index) ? Range.Eq(index) : index)  
+  at = this.property(this, 'at', (index: number | IRange): IRange | Ray => is_number(index) ? Range.Eq(index) : index)  
   /**  
    * Reverse direction starting from the selection   */  reverse = Property.boolean(this, 'reverse')  
   /**  
    * A ray going both forward and backward.   */  bidirectional = Property.boolean(this, 'bidirectional')  
   /**  
-   * Change the values of all selected nodes.   */  set = Property.property<any>(this, 'set')  
+   * Change the values of all selected nodes.   */  set = this.property<any>(this, 'set')  
   
   /**  
-   * Remove the selection from the underlying ray.   */  remove = Property.property(this, 'remove', (strategy?: void | RemoveStrategy) => strategy ?? RemoveStrategy.PRESERVE_STRUCTURE)  
+   * Remove the selection from the underlying ray.   */  remove = this.property(this, 'remove', (strategy?: void | RemoveStrategy) => strategy ?? RemoveStrategy.PRESERVE_STRUCTURE)  
   
-  __push__ = Property.property<[Ray, PushStrategy]>(this, '__push__')  
+  __push__ = this.property<[Ray, PushStrategy]>(this, '__push__')  
   /**  
    * Push a value after the selection.   * Note: In the case of an array, this will push "the structure of an array" after the selection. NOT a list of possibilities.   */  push = (...x: any[]) => this.__push__(new Ray(...x), PushStrategy.POSSIBLE_CONTINUATION)  
   
