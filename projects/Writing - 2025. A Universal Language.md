@@ -457,6 +457,11 @@ orbit = () => this.push_back(this.first)
 
 ```ts
 
+TODO FUNCTION BUILDER
+
+
+
+
 export interface IState {  
   is_initial: () => Ray  
   is_terminal: () => Ray  
