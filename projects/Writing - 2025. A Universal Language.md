@@ -563,26 +563,25 @@ export class Ray {
   reduce = this.property<[(accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any]>(this, 'reduce')  
   reduce_right = (callback: (accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any) => this.reverse().reduce(callback, initial_value)  
   
-  filter = this.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'filter')  
   /**  
    * Opposite of filter.   */  exclude = this.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'exclude')  
   map = this.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
   /**  
-   * Ignores duplicates after visiting the first one.   */  unique = this.boolean(this, 'unique')  
+   * Ignores duplicates after visiting the first one.   */  unique = this.property(this, 'unique')  
   /**  
-   * Maps the original structure to one where you find the distances at the Nodes.   *   * Note: This can include infinitely generating index options.   */  distance = this.boolean(this, 'distance')  
+   * Maps the original structure to one where you find the distances at the Nodes.   *   * Note: This can include infinitely generating index options.   */  distance = this.property(this, 'distance')  
   /**  
-   * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.boolean(this, 'deselect')  
+   * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.property(this, 'deselect')  
   /**  
-   * Select all nodes in this structure.   */  all = this.boolean(this, 'all')  
+   * Select all nodes in this structure.   */  all = this.property(this, 'all')  
   /**  
    * Select all nodes at a specific index/range.   * TODO Make sure negative index works  
    */  
   at = this.property(this, 'at', (index: number | IRange): IRange | Ray => is_number(index) ? Range.Eq(index) : index)  
   /**  
-   * Reverse direction starting from the selection   */  reverse = this.boolean(this, 'reverse')  
+   * Reverse direction starting from the selection   */  reverse = this.property(this, 'reverse')  
   /**  
-   * A ray going both forward and backward.   */  bidirectional = this.boolean(this, 'bidirectional')  
+   * A ray going both forward and backward.   */  bidirectional = this.property(this, 'bidirectional')  
   /**  
    * Change the values of all selected nodes.   */  set = this.property<any>(this, 'set')  
   
@@ -591,7 +590,10 @@ export class Ray {
   
   __push__ = this.property<[Ray, PushStrategy]>(this, '__push__')  
   /**  
-   * Push a value after the selection.   * Note: In the case of an array, this will push "the structure of an array" after the selection. NOT a list of possibilities.   */  push = (...x: any[]) => this.__push__(new Ray(...x), PushStrategy.POSSIBLE_CONTINUATION)  
+   * Push a value after the selection.
+   * Note: In the case of an array, this will push "the structure of an array" after the selection. NOT a list of possibilities.
+   */
+push = (...x: any[]) => this.__push__(new Ray(...x), PushStrategy.POSSIBLE_CONTINUATION)  
   
   /**  
    * Push a value between the current and next node.   */  push_after = (...x: any[]): Ray => this.__push__(new Ray(...x), PushStrategy.AFTER_CURRENT)  
@@ -608,7 +610,7 @@ export class Ray {
   
   /**  
    * Whether anything is selected   */  is_some = (): Ray => this.is_none().not()  
-  is_none = this.boolean(this, 'is_none')  
+  is_none = this.property(this, 'is_none')  
   
   /**  
    *   * Note: If there are multiple things selected, the ones without a 'next' node are discarded. With a terminal loop,   * one can keep terminal boundaries in the selection.   */  get next(): Ray { return this.at(1) }  
