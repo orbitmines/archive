@@ -682,3 +682,26 @@ export class Ray {
   //   throw new Error('Not implemented');  // }  // static object = (x: object): Ray => {  //   throw new Error('Not implemented');  // }  // // static function = (x: (...args: unknown[]) => unknown): Ray => {}  // static map = <K, V>(x: Map<K, V>): Ray => {  //   throw new Error('Not implemented');  // }}
   
 ```
+
+
+```ts
+
+// export const is = (property: Property.Type): boolean => !!value(property)  
+// export const modular_is = (property: Property.Type): any => {  
+//   let value = false;  
+//   while (property !== undefined) {  
+//     if (property.value) value = !value;  
+//  
+//     property = (property.__self__.__parent__ as any).value[property.__name__] as Property.Type  
+//   }  
+//   return value;  
+// }  
+// export const value = (property: Property.Type): any => {  
+//   while (property !== undefined) {  
+//     if (property.value) return property.value;  
+//  
+//     property = (property.__self__.__parent__ as any).value[property.__name__] as Property.Type  
+//   }  
+//   return undefined;  
+// }
+```
