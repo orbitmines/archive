@@ -620,19 +620,8 @@ export class Ray {
   
   // TODO  
   // private __eq_number__ = async (x: number | Ray, eq: (left: number, right: number) => boolean): Promise<boolean> => {  
-  //   const left = await this.to_number(); const right = is_number(x) ? x : await x.to_number();  //   if (left === undefined) return false;  //   if (right === undefined) return true;  //   return eq(left, right);  // }  gt = Property.property(this, 'or', (x: number | Ray) => new Ray(x))  
-  gte = Property.property(this, 'gte', (x: number | Ray) => new Ray(x))  
-  lt = Property.property(this, 'lt', (x: number | Ray) => new Ray(x))  
-  lte = Property.property(this, 'lte', (x: number | Ray) => new Ray(x))  
-  
-  // TODO: Better construction of this sort of thing with the function builder -> What is implemented and cross-implement.  
-  not = Property.boolean(this, 'not')  
-  or = Property.property(this, 'or', (x: boolean | Ray) => new Ray(x))  
-  and = Property.property(this, 'and', (x: boolean | Ray) => new Ray(x))  
-  xor = (x: boolean | Ray) => { x = new Ray(x); return (this.and(x.not())).or(this.not().and(x)) }  
-  nor = (x: boolean | Ray) => this.or(x).not()  
-  nand = (x: boolean | Ray) => this.and(x).not()  
-  
+  //   const left = await this.to_number(); const right = is_number(x) ? x : await x.to_number();  //   if (left === undefined) return false;  //   if (right === undefined) return true;  //   return eq(left, right);  // }
+
   async * [Symbol.asyncIterator](): AsyncGenerator<Ray> {  
   
   }  
