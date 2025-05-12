@@ -458,8 +458,10 @@ orbit = () => this.push_back(this.first)
 ```ts
 
 TODO FUNCTION BUILDER
-
-
+// TODO: Better construction of this sort of thing with the function builder -> What is implemented and cross-implement.
+xor = (x: boolean) => { return (this.and(x.not())).or(this.not().and(x)) }  
+nor = (x: boolean) => this.or(x).not()  
+nand = (x: boolean) => this.and(x).not()
 
 
 export interface IState {  
