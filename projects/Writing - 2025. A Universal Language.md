@@ -454,3 +454,222 @@ constructor(object: any = {}) {
  */  
 orbit = () => this.push_back(this.first)
 ```
+
+```ts
+  
+// TODO: What would be graph rewriting functions, include those  
+// TODO: What about loops which are only repeated an x number of times. (which are quite common), are there some other variants of this? (.slice/.splice would for example make use of a single .orbit use in selecting a range/start index)  
+// TODO: .map which maps both structure and values  
+export class Ray {  
+  
+  constructor(...args: any[]) {  
+    if (args.length !== 0) this.__parent__ = new Ray().from(() => Ray.converter(args));  
+  }  
+  
+  // TODO: Cache results in between for some runtime library.  
+  
+  
+  for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) =>  
+    await callback(this.all()) // TODO; Might not be it  
+  // TODO: What about an infinitely generating structure which we through some other finite method proof holds for this predicate?  
+  every = (predicate: (x: Ray) => MaybeAsync<boolean | Ray>) =>  
+    this.map(x => predicate(x)).filter(x => x.equals(false)).is_empty()  
+  some = (predicate: (x: Ray) => MaybeAsync<boolean | Ray>) =>  
+    this.filter(predicate).is_nonempty()  
+  contains = (value: any) =>  
+    this.some(x => x.equals(value))  
+  /**  
+   * Set all nodes within this ray to a given value.   */  fill = (value: any) =>  
+    this.all().set(value)  
+  // TODO: Make sure this works for branching possibilities (no duplicate inserted values)  
+  // TODO: Make sure this works for different levels of description say ABCDEF/[ABC][DEF] then push between C-D.  
+  join = (value: any) =>  
+    this.all().exclude(x => x.is_last()).push_after(value)  
+  unshift = (...xs: any[]) => this.push_front(...xs);  
+  
+  pop_front = () =>  
+    this.first.remove()  
+  pop_back = () =>  
+    this.last.remove()  
+  /**  
+   * @alias pop_front  
+   */  
+  shift = this.pop_front  
+  // TODO index_of vs steps used to get there. -1, 1, 1, -1 etc..  
+  // TODO: Could merge the lengths into branches. so [-5, +3] | [-5, -2] to [-5, -3 | -2]  
+  // TODO: Now doesnt look for negative indexes.  
+  index_of = (value: any) =>  
+    this.filter(x => x.equals(value)).distance().all().unique()  
+  // TODO: Needs a +1 and sum over distances, abs for the negative steps.  
+  /**  
+   * Note: that since variable lengths are possible, .length will return a number of possibilities.   */  get length() { return this.distance().filter(x => x.is_last()).map(async x => await x.to_number() + 1).all().unique() }  
+  /**  
+   * Counts the number of nodes.   * Note: that since a ray's structure allows for branching, it could be that .length.max() != .count.   */  count = () => new Ray().from(async () =>  
+    await this.length.max().equals(Infinity).to_boolean() ? new Ray(Infinity) : this.reduce(async (acc) => await acc.to_number() + 1, 0))  
+  
+  is_nonempty = (): Ray => this.is_empty().not()  
+  is_empty = (): Ray => this.reduce(async (acc, current, cancel) => { cancel(); return false; }, true)  
+  
+  max = (): Ray => this.reduce(async (acc, current, cancel) => {  
+    if (acc.equals(Infinity)) return cancel(); // Stop reducing if already reached infinity.  
+    return await acc.gt(current).to_boolean() ? acc : current;  
+  }, undefined)  
+  min = (): Ray => this.reduce(async (acc, current, cancel) => {  
+    if (acc.equals(-Infinity)) return cancel(); // Stop reducing if already reached -infinity.  
+    return await acc.lt(current).to_boolean() ? acc : current; // TODO: Move these conditionals into a property?  
+  }, undefined)  
+  
+  // TODO: sort using reduce.  
+  
+  /**  
+   * Applies successive transformation and returns the result.   *   * TODO: Could figure out what can be done in parallel and what can't.  
+   */  
+  apply = Property.property<Ray[]>(this, 'apply')  
+  
+  // TODO: Way to get index from the ray. With a default .distance function applied somewhere?  
+  // TODO: Allow for intermediate result. -> Halting problem  
+  // TODO: Checks for uniqueness, only once per location  
+  // TODO: The order in which things appear can vary based on what strategy is used in the traverser.  
+  reduce = Property.property<[(accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any]>(this, 'reduce')  
+  reduce_right = (callback: (accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any) => this.reverse().reduce(callback, initial_value)  
+  
+  filter = Property.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'filter')  
+  /**  
+   * Opposite of filter.   */  exclude = Property.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'exclude')  
+  map = Property.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
+  /**  
+   * Ignores duplicates after visiting the first one.   */  unique = Property.boolean(this, 'unique')  
+  /**  
+   * Maps the original structure to one where you find the distances at the Nodes.   *   * Note: This can include infinitely generating index options.   */  distance = Property.boolean(this, 'distance')  
+  /**  
+   * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = Property.boolean(this, 'deselect')  
+  /**  
+   * Select all nodes in this structure.   */  all = Property.boolean(this, 'all')  
+  /**  
+   * Select all nodes at a specific index/range.   * TODO Make sure negative index works  
+   */  
+  at = Property.property(this, 'at', (index: number | IRange): IRange | Ray => is_number(index) ? Range.Eq(index) : index)  
+  /**  
+   * Reverse direction starting from the selection   */  reverse = Property.boolean(this, 'reverse')  
+  /**  
+   * A ray going both forward and backward.   */  bidirectional = Property.boolean(this, 'bidirectional')  
+  /**  
+   * Change the values of all selected nodes.   */  set = Property.property<any>(this, 'set')  
+  
+  /**  
+   * Remove the selection from the underlying ray.   */  remove = Property.property(this, 'remove', (strategy?: void | RemoveStrategy) => strategy ?? RemoveStrategy.PRESERVE_STRUCTURE)  
+  
+  __push__ = Property.property<[Ray, PushStrategy]>(this, '__push__')  
+  /**  
+   * Push a value after the selection.   * Note: In the case of an array, this will push "the structure of an array" after the selection. NOT a list of possibilities.   */  push = (...x: any[]) => this.__push__(new Ray(...x), PushStrategy.POSSIBLE_CONTINUATION)  
+  
+  /**  
+   * Push a value between the current and next node.   */  push_after = (...x: any[]): Ray => this.__push__(new Ray(...x), PushStrategy.AFTER_CURRENT)  
+  /**  
+   * Push a value between the previous and current node.   */  push_before = (...x: any[]): Ray => this.reverse().push_after(...x)  
+  
+  /**  
+   * Push a value to the end of the ray.   */  push_back = (...x: any[]): Ray => this.last.push(...x)  
+  /**  
+   * Push a value to the beginning of the ray.   * TODO: In the case of an array, push_front(A, B, C) will push [A, B, C] in front of [D, E, F] making [A, B, C, D, E, F].  
+   */  
+  push_front = (...x: any[]): Ray => new Ray(...x).push_back(this.first)  
+  
+  
+  /**  
+   * Whether anything is selected   */  is_some = (): Ray => this.is_none().not()  
+  is_none = Property.boolean(this, 'is_none')  
+  
+  /**  
+   *   * Note: If there are multiple things selected, the ones without a 'next' node are discarded. With a terminal loop,   * one can keep terminal boundaries in the selection.   */  get next(): Ray { return this.at(1) }  
+  has_next = (): Ray => this.next.is_some()  
+  get previous(): Ray { return this.at(-1) }  
+  has_previous = (): Ray => this.previous.is_some()  
+  
+  get last(): Ray { return this.filter(x => x.is_last()) }  
+  is_last = (): Ray => this.has_next().not()  
+  get first(): Ray { return this.reverse().last }  
+  is_first = (): Ray => this.has_previous().not()  
+  get boundary(): Ray { return this.all().filter(x => x.on_boundary()) }  
+  on_boundary = (): Ray => this.is_first().or(this.is_last())  
+  
+  
+  // TODO: Equals in multicursor means any one of the cursors are equal. ?? What else to do with it  
+  // TODO: If nothing is selected. .equals is the same as .identical. Because [1, 2, 3] = [1, 2, 3]  
+  // TODO: Intermediate partial equality how?  
+  /**  
+   * Equal in value (ignores structure).   */  equals = Property.property(this, 'equals', (x: any) => new Ray(x))  
+  /**  
+   * Structurally equal (ignores value).   */  isomorphic = Property.property(this, 'isomorphic', (x: any) => new Ray(x))  
+  /**  
+   * Two rays are identical if there's no possible distinction between the "values and structure".   *   * Note: two different instantiations of the same array, say: new Ray(1, 2, 3) and new Ray(1, 2, 3) are in fact   *       identical. From the perspective of JavaScript, you would say: No, they are two different entities, so they   *       cannot be identical. But we're not considering JavaScripts perspective here. We're assuming only knowledge   *       from the rays themselves. And they CANNOT see a difference between the two. You need additional structure on   *       either ray to make that distinction. (This, for example, could be a label to the JavaScript object ID, which   *       is what allows us to make that distinction in JavaScript.)   */  identical = (x: any) => this.equals(x).and(this.isomorphic(x))  
+  
+  // TODO  
+  // private __eq_number__ = async (x: number | Ray, eq: (left: number, right: number) => boolean): Promise<boolean> => {  
+  //   const left = await this.to_number(); const right = is_number(x) ? x : await x.to_number();  //   if (left === undefined) return false;  //   if (right === undefined) return true;  //   return eq(left, right);  // }  gt = Property.property(this, 'or', (x: number | Ray) => new Ray(x))  
+  gte = Property.property(this, 'gte', (x: number | Ray) => new Ray(x))  
+  lt = Property.property(this, 'lt', (x: number | Ray) => new Ray(x))  
+  lte = Property.property(this, 'lte', (x: number | Ray) => new Ray(x))  
+  
+  // TODO: Better construction of this sort of thing with the function builder -> What is implemented and cross-implement.  
+  not = Property.boolean(this, 'not')  
+  or = Property.property(this, 'or', (x: boolean | Ray) => new Ray(x))  
+  and = Property.property(this, 'and', (x: boolean | Ray) => new Ray(x))  
+  xor = (x: boolean | Ray) => { x = new Ray(x); return (this.and(x.not())).or(this.not().and(x)) }  
+  nor = (x: boolean | Ray) => this.or(x).not()  
+  nand = (x: boolean | Ray) => this.and(x).not()  
+  
+  async * [Symbol.asyncIterator](): AsyncGenerator<Ray> {  
+  
+  }  
+  
+  // TODO: Throw if not number  
+  to_number = (): MaybeAsync<undefined | number> => {  
+    throw new Error('Not implemented');  
+    // throw new ConversionError('Not a number')  
+  }  
+  to_boolean = (): MaybeAsync<undefined | boolean> => {  
+    throw new Error('Not implemented');  
+  }  
+  to_array = <R>(predicate: (x: Ray) => MaybeAsync<R>): MaybeAsync<R[]> => {  
+    throw new Error('Not implemented');  
+  }  
+  // to_function = (): MaybeAsync<(...args: unknown[]) => unknown> => {  
+  //   throw new Error('Not implemented');  // }  to_object = (): MaybeAsync<object> => {  
+    throw new Error('Not implemented');  
+  }  
+  cast = <T>(constructor: new () => T): MaybeAsync<T> => {  
+    throw new Error('Not implemented');  
+  }  
+  to_string = (): MaybeAsync<string> => {  
+    throw new Error('Not implemented');  
+  }  
+  
+  /**  
+   * Converts any JavaScript value to a ray.   */  static converter: (x: any) => Ray = x => {  
+    if (x instanceof Array) {  
+      if (x.length === 0) return new Ray()  
+      if (x.length === 1) x = x[0]  
+    }  
+  
+    if (x instanceof Ray) return x;  
+  
+    throw new Error('Not implemented')  
+  }  
+  
+  /**  
+   *   */  
+  __parent__?: Ray  
+  __property__?: keyof Properties  
+  
+  /**  
+   * Sometimes it's necessary to do an async call to construct a Ray. By using this you can hide the promise.   */  from = (getter: () => MaybeAsync<Ray>): Ray => {  
+    if (this.__parent__ !== undefined) throw new Error('Can only use .from on an uninitialized ray.');  
+    (this.from as any).value = getter  
+    return this;  
+  }  
+  
+  // static array = <T>(x: T[]): Ray => {  
+  //   throw new Error('Not implemented');  // }  // static object = (x: object): Ray => {  //   throw new Error('Not implemented');  // }  // // static function = (x: (...args: unknown[]) => unknown): Ray => {}  // static map = <K, V>(x: Map<K, V>): Ray => {  //   throw new Error('Not implemented');  // }}
+  
+```
