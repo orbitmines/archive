@@ -569,7 +569,9 @@ export class Ray {
   /**  
    * Ignores duplicates after visiting the first one.   */  unique = this.property(this, 'unique')  
   /**  
-   * Maps the original structure to one where you find the distances at the Nodes.   *   * Note: This can include infinitely generating index options.   */  distance = this.property(this, 'distance')  
+   * Maps the original structure to one where you find the distances at the Nodes.
+   *
+   * Note: This can include infinitely generating index options.   */  distance = this.property(this, 'distance')  
   /**  
    * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.property(this, 'deselect')  
   /**  
