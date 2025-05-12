@@ -616,15 +616,7 @@ export class Ray {
   get boundary(): Ray { return this.all().filter(x => x.on_boundary()) }  
   on_boundary = (): Ray => this.is_first().or(this.is_last())  
   
-  
-  // TODO: If nothing is selected. .equals is the same as .identical. Because [1, 2, 3] = [1, 2, 3]  
-  // TODO: Intermediate partial equality how?  
-  /**  
-   * Equal in value (ignores structure).   */  equals = Property.property(this, 'equals', (x: any) => new Ray(x))  
-  /**  
-   * Structurally equal (ignores value).   */  isomorphic = Property.property(this, 'isomorphic', (x: any) => new Ray(x))  
-  /**  
-   * Two rays are identical if there's no possible distinction between the "values and structure".   *   * Note: two different instantiations of the same array, say: new Ray(1, 2, 3) and new Ray(1, 2, 3) are in fact   *       identical. From the perspective of JavaScript, you would say: No, they are two different entities, so they   *       cannot be identical. But we're not considering JavaScripts perspective here. We're assuming only knowledge   *       from the rays themselves. And they CANNOT see a difference between the two. You need additional structure on   *       either ray to make that distinction. (This, for example, could be a label to the JavaScript object ID, which   *       is what allows us to make that distinction in JavaScript.)   */  identical = (x: any) => this.equals(x).and(this.isomorphic(x))  
+ 
   
   // TODO  
   // private __eq_number__ = async (x: number | Ray, eq: (left: number, right: number) => boolean): Promise<boolean> => {  
