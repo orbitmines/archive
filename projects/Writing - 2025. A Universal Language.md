@@ -579,8 +579,6 @@ export class Ray {
   /**  
    * Change the values of all selected nodes.   */  set = this.property<any>(this, 'set')  
   
-  /**  
-   * Remove the selection from the underlying ray.   */  remove = this.property(this, 'remove', (strategy?: void | RemoveStrategy) => strategy ?? RemoveStrategy.PRESERVE_STRUCTURE)  
   
   __push__ = this.property<[Ray, PushStrategy]>(this, '__push__')  
   /**  
