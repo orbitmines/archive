@@ -517,9 +517,6 @@ export class Ray {
    * Note: This can include infinitely generating index options.   */  distance = this.property(this, 'distance')  
   /**  
    * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.property(this, 'deselect')  
-  /**  
-   * Select all nodes in this structure.   */  all = this.property(this, 'all')  
-
 
   /**  
    * A ray going both forward and backward.   */  bidirectional = this.property(this, 'bidirectional')  
