@@ -612,14 +612,7 @@ export class Ray {
   
     throw new Error('Not implemented')  
   }  
-  
-  /**  
-   * Sometimes it's necessary to do an async call to construct a Ray. By using this you can hide the promise.   */
-  from = (getter: () => MaybeAsync<Ray>): Ray => {  
-    if (this.__parent__ !== undefined) throw new Error('Can only use .from on an uninitialized ray.');  
-    (this.from as any).value = getter  
-    return this;  
-  }  
+
   
   // static array = <T>(x: T[]): Ray => {  
   //   throw new Error('Not implemented');  // }  // static object = (x: object): Ray => {  //   throw new Error('Not implemented');  // }  // // static function = (x: (...args: unknown[]) => unknown): Ray => {}  // static map = <K, V>(x: Map<K, V>): Ray => {  //   throw new Error('Not implemented');  // }}
