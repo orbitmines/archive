@@ -621,8 +621,7 @@ export class Ray {
   has_next = (): Ray => this.next.is_some()  
   get previous(): Ray { return this.at(-1) }  
   has_previous = (): Ray => this.previous.is_some()  
-  
-  get last(): Ray { return this.filter(x => x.is_last()) }  
+    
   is_last = (): Ray => this.has_next().not()  
   get first(): Ray { return this.reverse().last }  
   is_first = (): Ray => this.has_previous().not()  
