@@ -544,7 +544,7 @@ export class Ray {
 
   /**  
    * Opposite of filter.   */  exclude = this.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'exclude')  
-  map = this.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
+   
   /**  
    * Ignores duplicates after visiting the first one.   */  unique = this.property(this, 'unique')  
   /**  
