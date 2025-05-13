@@ -558,13 +558,7 @@ export class Ray {
    */  
   apply = this.property<Ray[]>(this, 'apply')  
   
-  // TODO: Way to get index from the ray. With a default .distance function applied somewhere?  
-  // TODO: Allow for intermediate result. -> Halting problem  
-  // TODO: Checks for uniqueness, only once per location  
-  // TODO: The order in which things appear can vary based on what strategy is used in the traverser.  
-  reduce = this.property<[(accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any]>(this, 'reduce')  
-  reduce_right = (callback: (accumulator: Ray, current: Ray, cancel: () => void) => MaybeAsync<void | any>, initial_value: any) => this.reverse().reduce(callback, initial_value)  
-  
+
   /**  
    * Opposite of filter.   */  exclude = this.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'exclude')  
   map = this.property<(x: Ray) => MaybeAsync<any>>(this, 'map')  
