@@ -446,6 +446,7 @@ constructor(object: any = {}) {
 
 ```
 
+- Mapping infinity to a number is a loop, and a loop in the reverse direction for -infinity?
 
 - cycles_are_boundaries ?
 ```ts
