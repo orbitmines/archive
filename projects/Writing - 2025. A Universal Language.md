@@ -524,8 +524,7 @@ join = (value: any) =>
 
   /**  
    * A ray going both forward and backward.   */  bidirectional = this.property(this, 'bidirectional')  
-  /**  
-   * Change the values of all selected nodes.   */  set = this.property<any>(this, 'set')  
+
   
   
   __push__ = this.property<[Ray, PushStrategy]>(this, '__push__')  
