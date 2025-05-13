@@ -537,17 +537,6 @@ export class Ray {
    * Counts the number of nodes.   * Note: that since a ray's structure allows for branching, it could be that .length.max() != .count.   */  count = () => new Ray().from(async () =>  
     await this.length.max().equals(Infinity).to_boolean() ? new Ray(Infinity) : this.reduce(async (acc) => await acc.to_number() + 1, 0))  
   
-  is_nonempty = (): Ray => this.is_empty().not()  
-  is_empty = (): Ray => this.reduce(async (acc, current, cancel) => { cancel(); return false; }, true)  
-  
-  max = (): Ray => this.reduce(async (acc, current, cancel) => {  
-    if (acc.equals(Infinity)) return cancel(); // Stop reducing if already reached infinity.  
-    return await acc.gt(current).to_boolean() ? acc : current;  
-  }, undefined)  
-  min = (): Ray => this.reduce(async (acc, current, cancel) => {  
-    if (acc.equals(-Infinity)) return cancel(); // Stop reducing if already reached -infinity.  
-    return await acc.lt(current).to_boolean() ? acc : current; // TODO: Move these conditionals into a property?  
-  }, undefined)  
   
   // TODO: sort using reduce.  
   
