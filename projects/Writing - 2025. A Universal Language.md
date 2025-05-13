@@ -583,7 +583,9 @@ export class Ray {
    */  
   at = this.property(this, 'at', (index: number | IRange): IRange | Ray => is_number(index) ? Range.Eq(index) : index)  
   /**  
-   * Reverse direction starting from the selection   */  reverse = this.property(this, 'reverse')  
+   * Reverse direction starting from the selection
+   */
+   reverse = this.property(this, 'reverse')  
   /**  
    * A ray going both forward and backward.   */  bidirectional = this.property(this, 'bidirectional')  
   /**  
