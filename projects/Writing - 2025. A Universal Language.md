@@ -616,7 +616,9 @@ export class Ray {
   is_none = this.property(this, 'is_none')  
   
   /**  
-   *   * Note: If there are multiple things selected, the ones without a 'next' node are discarded. With a terminal loop,   * one can keep terminal boundaries in the selection.   */  get next(): Ray { return this.at(1) }  
+   *   * Note: If there are multiple things selected, the ones without a 'next' node are discarded. With a terminal loop,   * one can keep terminal boundaries in the selection.   */ 
+
+get next(): Ray { return this.at(1) }  
   has_next = (): Ray => this.next.is_some()  
   get previous(): Ray { return this.at(-1) }  
   has_previous = (): Ray => this.previous.is_some()  
