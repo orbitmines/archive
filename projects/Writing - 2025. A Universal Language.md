@@ -498,36 +498,7 @@ export class Ray {
   
   for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) =>  
     await callback(this.all()) // TODO; Might not be it  
-  
-  /**  
-   * Set all nodes within this ray to a given value.   */  fill = (value: any) =>  
-    this.all().set(value)  
-  // TODO: Make sure this works for branching possibilities (no duplicate inserted values)  
-  // TODO: Make sure this works for different levels of description say ABCDEF/[ABC][DEF] then push between C-D.  
-  join = (value: any) =>  
-    this.all().exclude(x => x.is_last()).push_after(value)  
-  unshift = (...xs: any[]) => this.push_front(...xs);  
-  
-  pop_front = () =>  
-    this.first.remove()  
-  pop_back = () =>  
-    this.last.remove()  
-  /**  
-   * @alias pop_front  
-   */  
-  shift = this.pop_front  
-  // TODO index_of vs steps used to get there. -1, 1, 1, -1 etc..  
-  // TODO: Could merge the lengths into branches. so [-5, +3] | [-5, -2] to [-5, -3 | -2]  
-  // TODO: Now doesnt look for negative indexes.  
-  index_of = (value: any) =>  
-    this.filter(x => x.equals(value)).distance().all().unique()  
-  // TODO: Needs a +1 and sum over distances, abs for the negative steps.  
-  /**  
-   * Note: that since variable lengths are possible, .length will return a number of possibilities.   */  get length() { return this.distance().filter(x => x.is_last()).map(async x => await x.to_number() + 1).all().unique() }  
-  /**  
-   * Counts the number of nodes.   * Note: that since a ray's structure allows for branching, it could be that .length.max() != .count.   */  count = () => new Ray().from(async () =>  
-    await this.length.max().equals(Infinity).to_boolean() ? new Ray(Infinity) : this.reduce(async (acc) => await acc.to_number() + 1, 0))  
-  
+
   
   // TODO: sort using reduce.  
   
