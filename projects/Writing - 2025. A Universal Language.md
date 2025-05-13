@@ -622,27 +622,6 @@ export class Ray {
   
   }  
   
-  // TODO: Throw if not number  
-  to_number = (): MaybeAsync<undefined | number> => {  
-    throw new Error('Not implemented');  
-    // throw new ConversionError('Not a number')  
-  }  
-  to_boolean = (): MaybeAsync<undefined | boolean> => {  
-    throw new Error('Not implemented');  
-  }  
-  to_array = <R>(predicate: (x: Ray) => MaybeAsync<R>): MaybeAsync<R[]> => {  
-    throw new Error('Not implemented');  
-  }  
-  // to_function = (): MaybeAsync<(...args: unknown[]) => unknown> => {  
-  //   throw new Error('Not implemented');  // }  to_object = (): MaybeAsync<object> => {  
-    throw new Error('Not implemented');  
-  }  
-  cast = <T>(constructor: new () => T): MaybeAsync<T> => {  
-    throw new Error('Not implemented');  
-  }  
-  to_string = (): MaybeAsync<string> => {  
-    throw new Error('Not implemented');  
-  }  
   
   /**  
    * Converts any JavaScript value to a ray.   */  static converter: (x: any) => Ray = x => {  
