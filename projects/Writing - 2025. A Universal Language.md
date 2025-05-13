@@ -618,12 +618,8 @@ export class Ray {
   /**  
    *   * Note: If there are multiple things selected, the ones without a 'next' node are discarded. With a terminal loop,   * one can keep terminal boundaries in the selection.   */ 
 
-get next(): Ray { return this.at(1) }  
-  has_next = (): Ray => this.next.is_some()  
-  get previous(): Ray { return this.at(-1) }  
-  has_previous = (): Ray => this.previous.is_some()  
  
-  is_first = (): Ray => this.has_previous().not()  
+  
   get boundary(): Ray { return this.all().filter(x => x.on_boundary()) }  
   on_boundary = (): Ray => this.is_first().or(this.is_last())  
   
