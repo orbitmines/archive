@@ -492,9 +492,6 @@ export class State {
 // TODO: .map which maps both structure and values  
 export class Ray {  
   
-  constructor(...args: any[]) {  
-    if (args.length !== 0) this.__parent__ = new Ray().from(() => Ray.converter(args));  
-  }  
   
   // TODO: Cache results in between for some runtime library.  
   
