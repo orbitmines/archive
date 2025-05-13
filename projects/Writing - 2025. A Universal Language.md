@@ -501,13 +501,7 @@ export class Ray {
   
   for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) =>  
     await callback(this.all()) // TODO; Might not be it  
-  // TODO: What about an infinitely generating structure which we through some other finite method proof holds for this predicate?  
-  every = (predicate: (x: Ray) => MaybeAsync<boolean | Ray>) =>  
-    this.map(x => predicate(x)).filter(x => x.equals(false)).is_empty()  
-  some = (predicate: (x: Ray) => MaybeAsync<boolean | Ray>) =>  
-    this.filter(predicate).is_nonempty()  
-  contains = (value: any) =>  
-    this.some(x => x.equals(value))  
+  
   /**  
    * Set all nodes within this ray to a given value.   */  fill = (value: any) =>  
     this.all().set(value)  
