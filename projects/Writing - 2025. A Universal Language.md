@@ -502,8 +502,12 @@ export class Ray {
 
   
   // TODO: sort using reduce.  
-  
- 
+
+// TODO: Needs to check for terminals
+ // TODO: Make sure this works for branching possibilities (no duplicate inserted values)  
+// TODO: Make sure this works for different levels of description say ABCDEF/[ABC][DEF] then push between C-D.  
+join = (value: any) =>  
+  this.filter(x => x.is_last().not()).push_after(value)
   
 
   /**  
