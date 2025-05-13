@@ -601,17 +601,7 @@ export class Ray {
   }  
   
   
-  /**  
-   * Converts any JavaScript value to a ray.   */  static converter: (x: any) => Ray = x => {  
-    if (x instanceof Array) {  
-      if (x.length === 0) return new Ray()  
-      if (x.length === 1) x = x[0]  
-    }  
   
-    if (x instanceof Ray) return x;  
-  
-    throw new Error('Not implemented')  
-  }  
 
   
   // static array = <T>(x: T[]): Ray => {  
