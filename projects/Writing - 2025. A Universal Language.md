@@ -614,7 +614,8 @@ export class Ray {
   }  
   
   /**  
-   * Sometimes it's necessary to do an async call to construct a Ray. By using this you can hide the promise.   */  from = (getter: () => MaybeAsync<Ray>): Ray => {  
+   * Sometimes it's necessary to do an async call to construct a Ray. By using this you can hide the promise.   */
+  from = (getter: () => MaybeAsync<Ray>): Ray => {  
     if (this.__parent__ !== undefined) throw new Error('Can only use .from on an uninitialized ray.');  
     (this.from as any).value = getter  
     return this;  
