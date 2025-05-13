@@ -578,10 +578,7 @@ export class Ray {
    * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.property(this, 'deselect')  
   /**  
    * Select all nodes in this structure.   */  all = this.property(this, 'all')  
-  /**  
-   * Select all nodes at a specific index/range.   * TODO Make sure negative index works  
-   */  
-  at = this.property(this, 'at', (index: number | IRange): IRange | Ray => is_number(index) ? Range.Eq(index) : index)  
+
 
   /**  
    * A ray going both forward and backward.   */  bidirectional = this.property(this, 'bidirectional')  
