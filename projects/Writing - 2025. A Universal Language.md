@@ -527,25 +527,6 @@ join = (value: any) =>
 
   
   
-  __push__ = this.property<[Ray, PushStrategy]>(this, '__push__')  
-  /**  
-   * Push a value after the selection.
-   * Note: In the case of an array, this will push "the structure of an array" after the selection. NOT a list of possibilities.
-   */
-   push = (...x: any[]) => this.__push__(new Ray(...x), PushStrategy.POSSIBLE_CONTINUATION)  
-  
-  /**  
-   * Push a value between the current and next node.   */  push_after = (...x: any[]): Ray => this.__push__(new Ray(...x), PushStrategy.AFTER_CURRENT)  
-  /**  
-   * Push a value between the previous and current node.   */  push_before = (...x: any[]): Ray => this.reverse().push_after(...x)  
-  
-  /**  
-   * Push a value to the end of the ray.   */  push_back = (...x: any[]): Ray => this.last.push(...x)  
-  /**  
-   * Push a value to the beginning of the ray.   * TODO: In the case of an array, push_front(A, B, C) will push [A, B, C] in front of [D, E, F] making [A, B, C, D, E, F].  
-   */  
-  push_front = (...x: any[]): Ray => new Ray(...x).push_back(this.first)  
-  
   
   /**  
    * Whether anything is selected   */  is_some = (): Ray => this.is_none().not()  
