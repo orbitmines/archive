@@ -520,8 +520,7 @@ join = (value: any) =>
   /**  
    * Opposite of filter.   */  exclude = this.property<(x: Ray) => MaybeAsync<Ray | boolean>>(this, 'exclude')  
    
-  /**  
-   * Ignores duplicates after visiting the first one.   */  unique = this.property(this, 'unique')  
+
  
   /**  
    * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.property(this, 'deselect')  
