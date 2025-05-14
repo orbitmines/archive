@@ -522,12 +522,7 @@ join = (value: any) =>
    
   /**  
    * Ignores duplicates after visiting the first one.   */  unique = this.property(this, 'unique')  
-  /**  
-   * Maps the original structure to one where you find the distances at the Nodes.
-   *
-   * Note: This can include infinitely generating index options.   */ 
-   // TODO Map_reduce here.
-   distance = this.property(this, 'distance')  
+ 
   /**  
    * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.property(this, 'deselect')  
 
