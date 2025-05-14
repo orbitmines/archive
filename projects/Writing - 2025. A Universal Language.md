@@ -522,7 +522,9 @@ join = (value: any) =>
   /**  
    * Maps the original structure to one where you find the distances at the Nodes.
    *
-   * Note: This can include infinitely generating index options.   */  distance = this.property(this, 'distance')  
+   * Note: This can include infinitely generating index options.   */ 
+   // TODO Map_reduce here.
+   distance = this.property(this, 'distance')  
   /**  
    * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.property(this, 'deselect')  
 
