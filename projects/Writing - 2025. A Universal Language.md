@@ -69,6 +69,8 @@ Summarized:
 - [ ] Type information
 - [ ] Canonicalization/deduplication
 
+###### Theorem Proving System
+- Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
 ###### Function Repository
 - Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
 - Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
