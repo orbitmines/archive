@@ -69,6 +69,9 @@ Summarized:
 - [ ] Type information
 - [ ] Canonicalization/deduplication
 
+
+- History/causal graph
+
 ###### Theorem Proving System
 - Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
 ###### Function Repository
