@@ -1032,3 +1032,122 @@ export class Ray extends Selection<Ray> {
 
 }
 ```
+
+```
+/**
+ * Range
+ */
+export interface IRange {
+  or: (b: IRange) => IRange
+  // and: (b: IRange) => IRange
+  all: () => boolean
+  contains: (x: number) => boolean
+  more: (current: number, positive?: boolean) => boolean
+  invert: () => IRange
+}
+export type Bound = { at: number, inclusive: boolean }
+export class Range implements IRange {
+  constructor(
+    public lower: Bound,
+    public upper: Bound,
+  ) {
+    if (lower.at > upper.at)
+      throw new Error('Lower bound is greater than upper bound');
+  }
+
+  all = () => this.lower.at === -Infinity && this.upper.at === Infinity
+
+  contains = (x: number): boolean => {
+    return (this.lower === undefined || (this.lower.inclusive ? x >= this.lower.at : x > this.lower.at))
+      && (this.upper === undefined || (this.upper.inclusive ? x <= this.upper.at : x < this.upper.at));
+  }
+
+  more = (current: number, positive: boolean = true) =>
+    positive ? this.upper.at > current : this.lower.at < current
+
+  or = (b: IRange): IRange => new MultiRange([this, b])
+
+  invert = (): IRange => {
+    if (this.all()) return new Range({ at: Infinity, inclusive: false }, { at: Infinity, inclusive: false });
+
+    const ranges = []
+    if (this.lower.at === -Infinity) ranges.push(new Range({ at: this.upper.at, inclusive: !this.upper.inclusive }, { at: Infinity, inclusive: true }));
+    if (this.upper.at === Infinity) ranges.push(new Range({ at: -Infinity, inclusive: true }, { at: this.lower.at, inclusive: !this.lower.inclusive }));
+
+    return ranges.length === 1 ? ranges[0] : new MultiRange(ranges)
+  }
+
+  public static Eq = (x: number) => new Range({ at: x, inclusive: true }, { at: x, inclusive: true })
+  public static Gt = (x: number) => new Range({ at: x, inclusive: false }, { at: Infinity, inclusive: false })
+  public static Gte = (x: number) => new Range({ at: x, inclusive: true }, { at: Infinity, inclusive: false })
+  public static Lt = (x: number) => new Range({ at: -Infinity, inclusive: false }, { at: x, inclusive: false })
+  public static Lte = (x: number) => new Range({ at: -Infinity, inclusive: false }, { at: x, inclusive: true })
+
+  public static Between = (lower: number, upper: number) => new Range({ at: lower, inclusive: true }, { at: upper, inclusive: true })
+}
+export class MultiRange implements IRange {
+  constructor(public ranges: IRange[] = []) {}
+
+  all = (): boolean =>
+    this.ranges.some(range => range.all());
+  contains = (x: number): boolean =>
+    this.ranges.some(range => range.contains(x));
+  more = (current: number, positive: boolean = true): boolean =>
+    this.ranges.some(range => range.more(current, positive));
+  or = (b: IRange): IRange => new MultiRange([...this.ranges, ...(b instanceof MultiRange ? (b as MultiRange).ranges : [b])])
+
+  invert = (): IRange => { throw new Error('Not implemented') }
+
+}
+
+/**
+ * Copied from https://github.com/lodash/lodash/blob/main/dist/lodash.js
+ */
+export const is_string = (value: any): value is string =>
+  typeof value == 'string' || (!is_array(value) && is_object_like(value) && base_tag(value) == '[object String]');
+export const is_boolean = (value: any): value is boolean =>
+  value === true || value === false || (is_object_like(value) && base_tag(value) == '[object Boolean]');
+export const is_number = (value: any): value is number =>
+  typeof value == 'number' || (is_object_like(value) && base_tag(value) == '[object Number]');
+export const is_object = (value: any): value is object =>
+  value != null && (typeof value == 'object' || typeof value == 'function');
+export const is_object_like = (value: any) =>
+  value != null && typeof value == 'object';
+export const is_iterable = <T = any>(value: any): value is Iterable<T> =>
+  Symbol.iterator in Object(value) && is_function(value[Symbol.iterator]);
+export const is_async_iterable = <T = any>(value: any): value is AsyncIterable<T> =>
+  Symbol.asyncIterator in Object(value) && is_function(value[Symbol.asyncIterator]);
+export const is_array = Array.isArray
+export const is_function = (value: any): value is ((...args: any[]) => any) => {
+  if (!is_object(value)) return false;
+
+  let tag = base_tag(value);
+  return tag == '[object Function]' || tag == '[object GeneratorFunction]' || tag == '[object AsyncFunction]' || tag == '[object Proxy]';
+}
+export const base_tag = (value: any) => {
+  if (value == null) return value === undefined ? '[object Undefined]' : '[object Null]';
+
+  return (Symbol.toStringTag && Symbol.toStringTag in Object(value)) ? raw_tag(value) : to_string(value);
+}
+export const raw_tag = (value: any) => {
+  let isOwn = Object.prototype.hasOwnProperty.call(value, Symbol.toStringTag),
+    tag = value[Symbol.toStringTag];
+
+  let unmasked;
+  try {
+    value[Symbol.toStringTag] = undefined;
+    unmasked = true;
+  } catch (e) {}
+
+  let result = to_string(value);
+  if (unmasked) {
+    if (isOwn) {
+      value[Symbol.toStringTag] = tag;
+    } else {
+      delete value[Symbol.toStringTag];
+    }
+  }
+  return result;
+}
+export const to_string = (value: any): String => Object.prototype.toString.call(value);
+```
