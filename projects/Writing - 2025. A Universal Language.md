@@ -678,7 +678,6 @@ Node
    * TODO: This doesnt work, and should you want terminals reachable from this selection??
    */
   get last() { return this.filter(x => x.is_last()) }
-  get first() { return this.reverse().last }
 
 }
 
