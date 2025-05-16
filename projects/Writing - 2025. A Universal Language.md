@@ -664,9 +664,7 @@ Node
 
 
   // TODO: Needs a +1 and sum over distances, abs for the negative steps.
-  /**
-   * Note: that since variable lengths are possible, .length will return a number of possibilities.
-   */
+  
   get length() { return this.distance().filter(x => x.is_last()).map(async x => await x.to_number() + 1).all().unique() }
   /**
    * Counts the number of nodes.
