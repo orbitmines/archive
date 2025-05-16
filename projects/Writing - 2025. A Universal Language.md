@@ -671,10 +671,7 @@ Node
   push_front = (...x: any[]) => new Node(...x).push_back(this.first)
 
 
-
   /**
-   * The terminal boundaries reachable from this selection.
-   * Note: if you want ALL terminals, you should use .all().last
    * TODO: This doesnt work, and should you want terminals reachable from this selection??
    */
   get last() { return this.filter(x => x.is_last()) }
