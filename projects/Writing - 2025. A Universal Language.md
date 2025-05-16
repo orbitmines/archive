@@ -667,20 +667,10 @@ Node
 
 
 
-  push_back = (...x: any[]) => this.last.push(...x)
 
   push_front = (...x: any[]) => new Node(...x).push_back(this.first)
 
 
-  /**
-   * Select all nodes in this structure
-   */
-  all = this.property<void>(this.this(), 'all').cast(Ray)
-
-
-  // TODO: Should return Ray?. Many possibilities here.
-  get next() { return this.at(1) }
-  get previous() { return this.at(-1) }
 
   /**
    * The terminal boundaries reachable from this selection.
