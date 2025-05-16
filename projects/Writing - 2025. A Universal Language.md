@@ -638,12 +638,16 @@ export class ConversionError extends Error {}
 // TODO: We might expect these functions to execute on the node instead of the ray ?
 //       
 
+  // TODO: .every on a node's location. Should it start traversing from there, yes?
+
+Theorem proving.
+// TODO: What about an infinitely generating structure which we through some other finite method proof holds for this predicate?
+
 export abstract class Selection<TNode extends Selection<TNode>> extends Query<TNode> {
 
   this = () => this as any as TNode
 
-  // TODO: What about an infinitely generating structure which we through some other finite method proof holds for this predicate?
-  // TODO: .every on a node's location. Should it start traversing from there, yes?
+
   every = (predicate: MappedFunction<(x: Node) => boolean>) =>
     this.map(x => predicate(x)).filter(x => x.equals(false)).is_empty()
   some = (predicate: MappedFunction<(x: Node) => boolean>) =>
