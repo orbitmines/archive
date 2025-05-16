@@ -644,9 +644,9 @@ Theorem proving.
 // TODO: What about an infinitely generating structure which we through some other finite method proof holds for this predicate?
 
 export abstract class Selection<TNode extends Selection<TNode>> extends Query<TNode> {
+Node
 
-  this = () => this as any as TNode
-
+  this = () => this as any as T
 
   every = (predicate: MappedFunction<(x: Node) => boolean>) =>
     this.map(x => predicate(x)).filter(x => x.equals(false)).is_empty()
