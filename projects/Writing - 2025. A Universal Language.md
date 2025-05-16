@@ -682,16 +682,8 @@ Node
   
   at = this.property<number | IRange>(this.this(), 'at').cast(Ray)
 
-  distance = this.property<void>(this.this(), 'distance')
-  /**
-   * Ignores duplicates after visiting the first one.
-   */
-  unique = this.property<void>(this.this(), 'unique')
 
-  /**
-   * Change the values of all selected nodes.
-   */
-  set = this.property<any>(this.this(), 'set')
+
   /**
    * Remove the selection from the underlying ray.
    * TODO: Default RemoveStrategy.PRESERVE_STRUCTURE
