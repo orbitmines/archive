@@ -614,15 +614,6 @@ Node
   
 
 
-  
-  /**
-   * Applies successive transformation and returns the result.
-   *
-   * TODO: Could figure out what can be done in parallel and what can't.
-   */
-  apply = this.property<IQuery[]>(this.this(), 'apply')
-
-
 
 
   /**
