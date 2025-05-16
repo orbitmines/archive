@@ -625,18 +625,10 @@ Node
 
 
 
-  push_front = (...x: any[]) => new Node(...x).push_back(this.first)
-
-
   /**
    * TODO: This doesnt work, and should you want terminals reachable from this selection??
    */
   get last() { return this.filter(x => x.is_last()) }
-
-}
-
-// TODO: Separate methods on a value and on a structure.
-export class Value {
 
 }
 
