@@ -696,10 +696,6 @@ export class Node extends Selection<Node> {
 
 
   /**
-   * Structurally equal (ignores value).
-   */
-  isomorphic = this.property<any>(this, 'isomorphic')
-  /**
    * Two rays are identical if there's no possible distinction between the "values and structure".
    *
    * TODO: Slight rephrasing of this
