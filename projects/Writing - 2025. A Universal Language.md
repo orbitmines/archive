@@ -669,14 +669,10 @@ Node
   is_nonempty = () => this.is_empty().not()
   is_empty = () => this.reduce(async (acc, current, cancel) => { cancel(); return false; }, true)
 
-  min = () => this.reduce(async (acc, current, cancel) => {
-    if (acc.equals(-Infinity)) return cancel(); // Stop reducing if already reached -infinity.
-    return await acc.lt(current).to_boolean() ? acc : current; // TODO: Move these conditionals into a property?
-  }, undefined)
 
   // TODO: Way to get index from the ray. With a default .distance function applied somewhere?
-  // TODO: Allow for intermediate result. -> Halting problem
-  // TODO: Checks for uniqueness, only once per location: TODO: What would a reduce look like that doesn't do this (could be useful for intermediate results)
+  // TODO: Allow for intermediate result. for .count/.reduce and nodes -> Halting problem
+  // TODO: Checks for uniqueness, only once per location: TODO: What would a reduce look like that doesn't do this (could be useful for intermediate results) - is this useful?
   // TODO: The order in which things appear can vary based on what strategy is used in the traverser. Can be influenceced by using things like .all
   reduce = this.property<[(accumulator: Node, current: Node, cancel: () => void) => void | any, initial_value: any]>(this.this(), 'reduce').cast(Node)
   reduce_right = (callback: (accumulator: Node, current: Node, cancel: () => void) => void | any, initial_value: any) => this.reverse().reduce(callback, initial_value)
