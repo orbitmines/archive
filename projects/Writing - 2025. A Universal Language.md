@@ -608,17 +608,8 @@ Theorem proving.
 export abstract class Selection<TNode extends Selection<TNode>> extends Query<TNode> {
 Node
 
-  this = () => this as any as T
-
 
   nodes = this.select<Node>(this.this(), 'nodes', Node)
-
-  pop_front = () =>
-    this.first.remove()
-  pop_back = () =>
-    this.last.remove()
-
-
 
   
 
