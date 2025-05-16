@@ -666,14 +666,9 @@ Node
   apply = this.property<IQuery[]>(this.this(), 'apply')
 
 
-  /**
-   * Push a value to the end of the ray.
-   */
+
   push_back = (...x: any[]) => this.last.push(...x)
-  /**
-   * Push a value to the beginning of the ray.
-   * TODO: In the case of an array, push_front(A, B, C) will push [A, B, C] in front of [D, E, F] making [A, B, C, D, E, F].
-   */
+
   push_front = (...x: any[]) => new Node(...x).push_back(this.first)
 
 
