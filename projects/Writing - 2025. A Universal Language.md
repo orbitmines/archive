@@ -648,8 +648,6 @@ Node
 
   this = () => this as any as T
 
-  every = (predicate: MappedFunction<(x: Node) => boolean>) =>
-    this.map(x => predicate(x)).filter(x => x.equals(false)).is_empty()
   some = (predicate: MappedFunction<(x: Node) => boolean>) =>
     this.filter(predicate).is_nonempty()
   contains = (value: any) =>
