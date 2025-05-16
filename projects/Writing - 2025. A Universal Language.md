@@ -664,13 +664,8 @@ Node
 
   
 
-  /**
-   * Counts the number of nodes.
-   * Note: that since graph's structure allows for branching, it could be that .length.max() != .count.
-   */
-  count = () => new Node().from(async () =>
-    await this.length.max().equals(Infinity).to_boolean() ? new Node(Infinity) : this.reduce(async (acc) => await acc.to_number() + 1, 0))
 
+  
   is_nonempty = () => this.is_empty().not()
   is_empty = () => this.reduce(async (acc, current, cancel) => { cancel(); return false; }, true)
   max = () => this.reduce(async (acc, current, cancel) => {
