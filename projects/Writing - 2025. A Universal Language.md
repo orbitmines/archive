@@ -706,7 +706,6 @@ export class Node extends Selection<Node> {
    *       either ray to make that distinction. (This, for example, could be a label to the JavaScript object ID, which
    *       is what allows us to make that distinction in JavaScript.)
    */
-  identical = (x: any) => this.equals(x).and(this.isomorphic(x))
 
 
   has_next = () => this.next.is_some()
