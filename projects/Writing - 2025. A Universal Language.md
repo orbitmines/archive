@@ -665,7 +665,7 @@ Node
 
   // TODO: Needs a +1 and sum over distances, abs for the negative steps.
   
-  get length() { return this.distance().filter(x => x.is_last()).map(async x => await x.to_number() + 1).all().unique() }
+
   /**
    * Counts the number of nodes.
    * Note: that since a ray's structure allows for branching, it could be that .length.max() != .count.
