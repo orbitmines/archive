@@ -668,10 +668,7 @@ Node
   
   is_nonempty = () => this.is_empty().not()
   is_empty = () => this.reduce(async (acc, current, cancel) => { cancel(); return false; }, true)
-  max = () => this.reduce(async (acc, current, cancel) => {
-    if (acc.equals(Infinity)) return cancel(); // Stop reducing if already reached infinity.
-    return await acc.gt(current).to_boolean() ? acc : current;
-  }, undefined)
+
   min = () => this.reduce(async (acc, current, cancel) => {
     if (acc.equals(-Infinity)) return cancel(); // Stop reducing if already reached -infinity.
     return await acc.lt(current).to_boolean() ? acc : current; // TODO: Move these conditionals into a property?
