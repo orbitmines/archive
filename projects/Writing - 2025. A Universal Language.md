@@ -643,14 +643,14 @@ export class ConversionError extends Error {}
 Theorem proving.
 // TODO: What about an infinitely generating structure which we through some other finite method proof holds for this predicate?
 
+  // TODO: Map on terminals/initials and structure in general
+
 export abstract class Selection<TNode extends Selection<TNode>> extends Query<TNode> {
 Node
 
   this = () => this as any as T
 
-  contains = (value: any) =>
-    this.some(x => x.equals(value))
-  // TODO: Map on terminals/initials and structure in general
+
   map = this.property<(x: Node) => any>(this.this(), 'map')
   filter = this.property<(x: Node) => boolean>(this.this(), 'filter').cast(Ray)
 
