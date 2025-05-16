@@ -638,6 +638,8 @@ export class ConversionError extends Error {}
 // TODO: We might expect these functions to execute on the node instead of the ray ?
 //       
 
+  // TODO index_of vs path used to get there. -1, 1, 1, -1 etc.. (or more general version of path)
+
   // TODO: .every on a node's location. Should it start traversing from there, yes?
 
 Theorem proving.
@@ -659,11 +661,8 @@ Node
     this.last.remove()
 
 
-  // TODO index_of vs path used to get there. -1, 1, 1, -1 etc.. (or more general version of)
-  // TODO: Could merge the lengths into branches. so [-5, +3] | [-5, -2] to [-5, -3 | -2]
-  // TODO: Now doesnt look for negative indexes.
-  index_of = (value: any) =>
-    this.filter(x => x.equals(value)).distance().all().unique()
+
+
   // TODO: Needs a +1 and sum over distances, abs for the negative steps.
   /**
    * Note: that since variable lengths are possible, .length will return a number of possibilities.
