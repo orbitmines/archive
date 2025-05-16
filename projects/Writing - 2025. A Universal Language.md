@@ -647,6 +647,11 @@ Theorem proving.
 
   // TODO: Map on terminals/initials and structure in general
 
+
+  // TODO: Way to get index from the ray. With a default .distance function applied somewhere?
+  // TODO: Allow for intermediate result. for .count/.reduce and nodes -> Halting problem
+  // TODO: Checks for uniqueness, only once per location: TODO: What would a reduce look like that doesn't do this (could be useful for intermediate results) - is this useful?
+
 export abstract class Selection<TNode extends Selection<TNode>> extends Query<TNode> {
 Node
 
@@ -670,10 +675,6 @@ Node
   is_empty = () => this.reduce(async (acc, current, cancel) => { cancel(); return false; }, true)
 
 
-  // TODO: Way to get index from the ray. With a default .distance function applied somewhere?
-  // TODO: Allow for intermediate result. for .count/.reduce and nodes -> Halting problem
-  // TODO: Checks for uniqueness, only once per location: TODO: What would a reduce look like that doesn't do this (could be useful for intermediate results) - is this useful?
-  // TODO: The order in which things appear can vary based on what strategy is used in the traverser. Can be influenceced by using things like .all
   reduce = this.property<[(accumulator: Node, current: Node, cancel: () => void) => void | any, initial_value: any]>(this.this(), 'reduce').cast(Node)
   reduce_right = (callback: (accumulator: Node, current: Node, cancel: () => void) => void | any, initial_value: any) => this.reverse().reduce(callback, initial_value)
 
