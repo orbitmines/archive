@@ -651,11 +651,7 @@ Node
   this = () => this as any as T
 
 
-  map = this.property<(x: Node) => any>(this.this(), 'map')
-  filter = this.property<(x: Node) => boolean>(this.this(), 'filter').cast(Ray)
-
   nodes = this.select<Node>(this.this(), 'nodes', Node)
-
 
   unshift = (...xs: any[]) => this.push_front(...xs);
   pop_front = () =>
