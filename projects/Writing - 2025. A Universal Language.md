@@ -676,15 +676,6 @@ export class Node extends Selection<Node> {
   }
 
   /**
-   * Sometimes it's necessary to do an async call to construct a Node. By using this you can hide the promise.
-   */
-  from = (getter: () => MaybeAsync<Node>): this => {
-    if (this.__parent__ !== undefined) throw new Error('Can only use .from on an uninitialized Node.');
-    (this.from as any).value = getter
-    return this;
-  }
-
-  /**
    * Converts any JavaScript value to a ray.
    */
   static converter: (x: any) => Node = x => {
@@ -698,11 +689,7 @@ export class Node extends Selection<Node> {
     throw new Error('Not implemented')
   }
 }
-export class Ray extends Selection<Ray> {
 
-  // selection = this.select<Ray>(this.this(), 'selection', Ray)
-
-}
 ```
 
 ```
