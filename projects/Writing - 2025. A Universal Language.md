@@ -653,7 +653,6 @@ Node
 
   nodes = this.select<Node>(this.this(), 'nodes', Node)
 
-  unshift = (...xs: any[]) => this.push_front(...xs);
   pop_front = () =>
     this.first.remove()
   pop_back = () =>
