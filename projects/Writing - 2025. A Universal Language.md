@@ -400,12 +400,6 @@ constructor(object: any = {}) {
 - Mapping infinity to a number is a loop, and a loop in the reverse direction for -infinity?
 
 - cycles_are_boundaries ?
-```ts
-/**  
- * Connect the front and back of the structure. * TODO: Should preserve the .first and .last. (POSSIBLE_CONTINUATION should)  
- */  
-orbit = () => this.push_back(this.first)
-```
 
 ```ts
 
