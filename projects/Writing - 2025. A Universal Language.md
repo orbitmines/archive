@@ -134,41 +134,11 @@ class Instance {
   // Iterate over possible representations: Matching is_equivalent/is_isomorphic  
   representations: Ray  
   
-  
-  
-  static __new__ = (...args: any[]): Ray => new Instance(...args).__proxy__  
-  
-  __call__ = (...args: any[]): any => {  
-    if (is_function(this.__object__)) return this.__object__(...args)  
-  }  
+
   
   // A copy traverses the entire structure  
   // TODO: Send left/right copy simultaneously, and cancel each-other out  
-  __copy__ = (...args: any[]): any => {  
-    return Instance.__new__(...args)  
-  }  
-  
-  __set__ = (property: string | symbol, value: any): boolean => {  
-    if (property in this)  
-      return (this as any)[property] = value;  
-  
-    return true;  
-  }  
-  __get__ = (property: string | symbol): any => {  
-    if (property === "__instance__") return this;  
-    if (property === Symbol.iterator || property === Symbol.asyncIterator || property === "__object__") return (this as any)[property]  
 
-    if (property === 'initial' || property === 'terminal') return Instance.__new__()  
-  
-    return Instance.__new__({ __object__: (this as any)[property] });  
-  }  
-  __has__ = (property: string | symbol): boolean => {  
-    return false;  
-  }  
-  __delete__ = (property: string | symbol): any => {  
-    return false;  
-  }  
-  
   
   orbit = () => this.last().compose(this.first())  
  
@@ -176,10 +146,6 @@ class Instance {
   variable = () => {  
     // TODO: Implement simple getter/setter structure  
   }  
-
-  // toString = (): string => {  
-  //   return "";  // }  
-
 }  
   
 ```
