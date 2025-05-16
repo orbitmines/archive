@@ -666,13 +666,6 @@ Node
   apply = this.property<IQuery[]>(this.this(), 'apply')
 
 
-
-  /**
-   * Remove the selection from the underlying ray.
-   * TODO: Default RemoveStrategy.PRESERVE_STRUCTURE
-   */
-  remove = this.property<void | RemoveStrategy>(this.this(), 'remove')
-
   __push__ = this.property<[any[], PushStrategy]>(this.this(), '__push__')
   /**
    * Push a value after the selection.
