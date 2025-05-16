@@ -639,6 +639,9 @@ Theorem proving.
   // TODO: Allow for intermediate result. for .count/.reduce and nodes -> Halting problem
   // TODO: Checks for uniqueness, only once per location: TODO: What would a reduce look like that doesn't do this (could be useful for intermediate results) - is this useful?
 
+  // TODO: There exists a Node which is "nothing selected of some structure": If nothing is selected. .equals is the same as .identical. Because [1, 2, 3] = [1, 2, 3]
+  // TODO: Intermediate partial equality how?
+
 export abstract class Selection<TNode extends Selection<TNode>> extends Query<TNode> {
 Node
 
@@ -690,12 +693,8 @@ export class Node extends Selection<Node> {
     if (args.length !== 0) this.__parent__ = new Node().from(() => Node.converter(args));
   }
 
-  // TODO: There exists a Node which is "nothing selected of some structure": If nothing is selected. .equals is the same as .identical. Because [1, 2, 3] = [1, 2, 3]
-  // TODO: Intermediate partial equality how?
-  /**
-   * Equal in value (ignores structure).
-   */
-  equals = this.property<any>(this, 'equals')
+
+
   /**
    * Structurally equal (ignores value).
    */
