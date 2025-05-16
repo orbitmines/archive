@@ -659,7 +659,7 @@ Node
     this.last.remove()
 
 
-  // TODO index_of vs steps used to get there. -1, 1, 1, -1 etc..
+  // TODO index_of vs path used to get there. -1, 1, 1, -1 etc.. (or more general version of)
   // TODO: Could merge the lengths into branches. so [-5, +3] | [-5, -2] to [-5, -3 | -2]
   // TODO: Now doesnt look for negative indexes.
   index_of = (value: any) =>
