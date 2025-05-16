@@ -708,9 +708,6 @@ export class Node extends Selection<Node> {
    */
 
 
-  has_next = () => this.next.is_some()
-  has_previous = () => this.previous.is_some()
-
   // Todo: any terminals
   is_last = () => this.has_next().not()
   is_first = () => this.has_previous().not()
