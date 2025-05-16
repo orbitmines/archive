@@ -634,12 +634,6 @@ Node
 
 export class Node extends Selection<Node> {
 
-  constructor(...args: any[]) {
-    super()
-    if (args.length !== 0) this.__parent__ = new Node().from(() => Node.converter(args));
-  }
-
-
 
   /**
    * Two rays are identical if there's no possible distinction between the "values and structure".
