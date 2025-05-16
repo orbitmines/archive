@@ -122,11 +122,8 @@ class Instance {
   // Usually inaccessible, yet additional structure  
   __object__: any  
   // Each Ray with a separate causal history  
-  // Can have a history, but no current value  // TODO: Memorization through causal history
-  history: Ray  
-  // Superposed type??  
-  type: Ray  
-  // What else is at this point ;  
+
+
   equivalences: Ray  
   // Unrealized functions which could be applied to this Ray  
   // How is this different from additional structure on .self? This as unrealized, .self as realized?  // TODO: Should this contain .initial & .terminal as functions? Or should this be  
