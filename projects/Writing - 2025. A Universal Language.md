@@ -606,20 +606,7 @@ export class Graph {
   // TODO: Already the case?: -> Select needs to be more intelligent: both initials/terminals as vertex selected. "Entire subgraphs"
 }
 
-export enum RemoveStrategy {
-  /**
-   * Preserves structure around the removed selection.
-   * This is akin to removing elements from an array.
-   */
-  PRESERVE_STRUCTURE = "PRESERVE_STRUCTURE",
-  /**
-   * Removes all connectivity around the selection.
-   * This is akin to removing a vertex and all incoming/outgoing edges.
-   *
-   *   // TODO, Should only sever connections which are NOT in the selection. ?
-   */
-  SEVER_CONNECTIVITY = "SEVER_CONNECTIVITY"
-}
+
 
 export enum PushStrategy {
   /**
@@ -677,10 +664,6 @@ Node
    * TODO: Could figure out what can be done in parallel and what can't.
    */
   apply = this.property<IQuery[]>(this.this(), 'apply')
-
-  
-  
-  at = this.property<number | IRange>(this.this(), 'at').cast(Ray)
 
 
 
