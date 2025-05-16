@@ -712,17 +712,6 @@ export class Node extends Selection<Node> {
    */
   identical = (x: any) => this.equals(x).and(this.isomorphic(x))
 
-  gt = this.property<number>(this, 'or')
-  gte = this.property<number>(this, 'gte')
-  lt = this.property<number>(this, 'lt')
-  lte = this.property<number>(this, 'lte')
-
-  not = this.property(this, 'not')
-  or = this.property<boolean>(this, 'or')
-  and = this.property<boolean>(this, 'and')
-  xor = this.property<boolean>(this, 'xor')
-  nor = this.property<boolean>(this, 'nor')
-  nand = this.property<boolean>(this, 'nand')
 
   has_next = () => this.next.is_some()
   has_previous = () => this.previous.is_some()
