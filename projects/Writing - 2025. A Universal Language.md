@@ -666,22 +666,6 @@ Node
   apply = this.property<IQuery[]>(this.this(), 'apply')
 
 
-  __push__ = this.property<[any[], PushStrategy]>(this.this(), '__push__')
-  /**
-   * Push a value after the selection.
-   * Note: In the case of an array, this will push "the structure of an array" after the selection. NOT a list of possibilities.
-   */
-  push = (...x: any[]) => this.__push__(x, PushStrategy.POSSIBLE_CONTINUATION)
-
-  /**
-   * Push a value between the current and next node.
-   */
-  push_after = (...x: any[]) => this.__push__(x, PushStrategy.AFTER_CURRENT)
-  /**
-   * Push a value between the previous and current node
-   */
-  push_before = (...x: any[]) => this.reverse().push_after(...x)
-
   /**
    * Push a value to the end of the ray.
    */
