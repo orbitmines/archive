@@ -671,31 +671,17 @@ Node
 
 
   
-  is_nonempty = () => this.is_empty().not()
-  is_empty = () => this.reduce(async (acc, current, cancel) => { cancel(); return false; }, true)
-
   /**
    * Applies successive transformation and returns the result.
    *
    * TODO: Could figure out what can be done in parallel and what can't.
    */
   apply = this.property<IQuery[]>(this.this(), 'apply')
-  /**
-   * Reverse direction starting from the selection
-   */
-  reverse = this.property<void>(this.this(), 'reverse')
-  /**
-   * Select all nodes at a specific index/range.
-   * TODO Make sure negative index works
-   * TODO (index: number | IRange): IRange | Ray => is_number(index) ? Range.Eq(index) : index
-   */
+
+  
+  
   at = this.property<number | IRange>(this.this(), 'at').cast(Ray)
-  /**
-   * Maps the original structure to one where you find the distances at the Nodes.
-   *
-   * Note: This can include infinitely generating index options.
-   */
-    // TODO Map_reduce here.
+
   distance = this.property<void>(this.this(), 'distance')
   /**
    * Ignores duplicates after visiting the first one.
