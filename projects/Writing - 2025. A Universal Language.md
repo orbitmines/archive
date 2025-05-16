@@ -662,13 +662,11 @@ Node
 
 
 
-
-  // TODO: Needs a +1 and sum over distances, abs for the negative steps.
   
 
   /**
    * Counts the number of nodes.
-   * Note: that since a ray's structure allows for branching, it could be that .length.max() != .count.
+   * Note: that since graph's structure allows for branching, it could be that .length.max() != .count.
    */
   count = () => new Node().from(async () =>
     await this.length.max().equals(Infinity).to_boolean() ? new Node(Infinity) : this.reduce(async (acc) => await acc.to_number() + 1, 0))
