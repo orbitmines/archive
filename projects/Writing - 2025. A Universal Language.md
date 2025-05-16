@@ -674,10 +674,6 @@ Node
   is_nonempty = () => this.is_empty().not()
   is_empty = () => this.reduce(async (acc, current, cancel) => { cancel(); return false; }, true)
 
-
-  reduce = this.property<[(accumulator: Node, current: Node, cancel: () => void) => void | any, initial_value: any]>(this.this(), 'reduce').cast(Node)
-  reduce_right = (callback: (accumulator: Node, current: Node, cancel: () => void) => void | any, initial_value: any) => this.reverse().reduce(callback, initial_value)
-
   /**
    * Applies successive transformation and returns the result.
    *
