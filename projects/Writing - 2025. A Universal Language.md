@@ -657,10 +657,8 @@ Node
     this.first.remove()
   pop_back = () =>
     this.last.remove()
-  /**
-   * @alias pop_front
-   */
-  shift = this.pop_front
+
+
   // TODO index_of vs steps used to get there. -1, 1, 1, -1 etc..
   // TODO: Could merge the lengths into branches. so [-5, +3] | [-5, -2] to [-5, -3 | -2]
   // TODO: Now doesnt look for negative indexes.
