@@ -95,6 +95,7 @@ Summarized:
 - Program language syntax
 - Nested arrays as structure on the initials, different than a 2d grid. + How does this work with unrealized array functions, or realized ones? Like .at(index).
 - differentiable between two points to arbitrary precision, how is it constructed?
+- If the starting Ray is a vertex, which is excluded, it acts like an initial.
 
 ###### Energy/Resources
 - The larger the integer, the more structure you need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
@@ -318,8 +319,7 @@ class Ray implements AsyncIterable<Ray> {
   // TODO: How does .map effect .self/.terminal/.initial  
   public __map__
   
-  // If the starting Ray is a vertex, which is excluded, it acts like an initial.  
-  public __filter__
+
   
   // TODO: Functions that alter structure like .flatten/.flat_map, what else?  
   
