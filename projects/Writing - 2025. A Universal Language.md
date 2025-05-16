@@ -608,19 +608,9 @@ export class Graph {
 
 
 
-export enum PushStrategy {
-  /**
-   * Push a value as a possible continuation. (Ignores the next node)
-   */
-  POSSIBLE_CONTINUATION = "POSSIBLE_CONTINUATION",
-  /**
-   * Push a value between the current and next node.
-   */
-  AFTER_CURRENT = "AFTER_CURRENT",
-}
-
 export class ConversionError extends Error {}
-
+  
+// TODO: Number returns a type of number which is a cursor on a graph. (The graph being the numberline) For example .next on a decimal number is an infinitesimal node after the current one. But we can still use operations like >/</..
 
 // TODO: We might expect these functions to execute on the node instead of the ray ?
 //       
