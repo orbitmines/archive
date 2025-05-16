@@ -179,14 +179,7 @@ class Instance {
 
   // toString = (): string => {  
   //   return "";  // }  
-  get __proxy__(): Ray { return new Proxy(class {}, {  
-    apply: (_: any, thisArg: any, argArray: any[]): any => this.__call__(...argArray),  
-    set: (_: any, property: string | symbol, newValue: any, receiver: any): boolean => this.__set__(property, newValue),  
-    get: (_: any, property: string | symbol, receiver: any): any => this.__get__(property),  
-    has: (_: any, property: string | symbol): boolean => this.__has__(property),  
-    construct: (_: any, argArray: any[], newTarget: Function): object => this.__copy__(...argArray),  
-    deleteProperty: (_: any, property: string | symbol): boolean => this.__delete__(property)  
-  }) }  
+
 }  
   
 ```
