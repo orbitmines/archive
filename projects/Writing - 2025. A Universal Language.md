@@ -657,12 +657,6 @@ export abstract class Selection<TNode extends Selection<TNode>> extends Query<TN
   nodes = this.select<Node>(this.this(), 'nodes', Node)
 
 
-  /**
-   * Set all nodes within this ray to a given value.
-   */
-  fill = (value: any) =>
-    this.all().set(value)
-
   unshift = (...xs: any[]) => this.push_front(...xs);
   pop_front = () =>
     this.first.remove()
