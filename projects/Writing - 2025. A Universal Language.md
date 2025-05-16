@@ -648,8 +648,6 @@ Node
 
   this = () => this as any as T
 
-  some = (predicate: MappedFunction<(x: Node) => boolean>) =>
-    this.filter(predicate).is_nonempty()
   contains = (value: any) =>
     this.some(x => x.equals(value))
   // TODO: Map on terminals/initials and structure in general
