@@ -115,34 +115,22 @@ Summarized:
 
 ---
 
+  // Can have a history, but no current value  // TODO: Memorization through causal history
+
 ```ts
   
 class Instance {  
-  
-  // Usually inaccessible, yet additional structure  
-  __object__: any  
-  // Each Ray with a separate causal history  
-
-
-  equivalences: Ray  
+ 
   // Unrealized functions which could be applied to this Ray  
   // How is this different from additional structure on .self? This as unrealized, .self as realized?  // TODO: Should this contain .initial & .terminal as functions? Or should this be  
   functions: Ray   
-  // Iterate over possible representations: Matching is_equivalent/is_isomorphic  
-  representations: Ray  
-  
 
+  equivalences: Ray  
+  representations: Ray  
   
   // A copy traverses the entire structure  
   // TODO: Send left/right copy simultaneously, and cancel each-other out  
 
-  
-  orbit = () => this.last().compose(this.first())  
- 
-
-  variable = () => {  
-    // TODO: Implement simple getter/setter structure  
-  }  
 }  
   
 ```
