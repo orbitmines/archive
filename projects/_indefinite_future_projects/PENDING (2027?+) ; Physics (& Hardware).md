@@ -53,7 +53,7 @@ Discovery data
 
 ---
 
-Is temperature just moving the 
+Is increasing temperature associated with increasing gravity?
 
 ---
 
