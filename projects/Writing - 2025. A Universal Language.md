@@ -42,7 +42,6 @@ Summarized:
  * - Point to a function/program on some structure
  *  - How to think about this as a single function with intermediate steps.
  *      How is that different from applying same function in that direction?: Described on another level of description?
- *  - Requires "looking for" type information. Ex. Function looking for parameter
  *
  *
  *
