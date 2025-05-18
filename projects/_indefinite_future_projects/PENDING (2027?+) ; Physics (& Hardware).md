@@ -53,7 +53,7 @@ Discovery data
 
 ---
 
-Is increasing temperature associated with increasing gravity?
+Is increasing temperature associated with increasing gravity? How much does that contribute to change in behavior you see as you increase temperature?
 
 ---
 
