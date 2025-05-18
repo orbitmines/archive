@@ -53,6 +53,10 @@ Discovery data
 
 ---
 
+
+
+---
+
 	- chiups have these things calls efuses, you can burn them to disable/enable (cant be unburned) ; hardware changes.
 
 ---
