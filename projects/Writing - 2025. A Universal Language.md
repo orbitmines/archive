@@ -37,15 +37,9 @@ Summarized:
 - Theorem Proving System
 
 
-- [ ] 
 
-	 - Control flow
-		 * How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
-
-		
 
 - Copying means what now? with the automatic splits (related to caching?)
-
 
 
 ---
