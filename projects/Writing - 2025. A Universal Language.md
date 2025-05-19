@@ -53,7 +53,6 @@ Summarized:
 		- multiple initial in sequence suprrposed by composed vatiant?
 	- Intermediate results pending change
 		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
-	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 	- Compose for function initials?  
 	- How to think about this as a single function with intermediate steps.
 	 - Control flow what does it look like
