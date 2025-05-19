@@ -88,7 +88,7 @@ Summarized:
 - differentiable between two points to arbitrary precision, how is it constructed?
 - If the starting Ray is a vertex, which is excluded, it acts like an initial.
 - Mapping infinity to a number is a loop, and a loop in the reverse direction for -infinity?
-- Note that things like `.every` start traversing from the selected node(s) location(s). Or in case of a graph it starts at
+- Note that things like `.every` start traversing from the selected node(s) location(s). Or in case of a graph it starts at what?
 
 ###### Energy/Resources
 - The larger the integer, the more structure you need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
@@ -359,10 +359,15 @@ constructor(object: any = {}) {
 
 // export type AnyOf<T> = T | T[] | (() => T | T[])  
 // export type Any = undefined | AnyOf<Ray> | AnyOf<State>  
- 
+
+
+
+
+
 // TODO: Functions that alter structure like .flatten/.flat_map, what else?  
 // TODO: .map which maps both structure and values
  // TODO: sort using reduce. Sort is "bring to some canonicalized form"
+
 
   for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) =>  
     await callback(this.all()) // TODO; Might not be it 
