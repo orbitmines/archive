@@ -280,17 +280,9 @@ class Ray implements AsyncIterable<Ray> {
     //   if (x === undefined) return State.none;    //   if (is_function(x)) return () => {    //     let value = x();    //     if (value instanceof Array) return // TODO  
     //     return value instanceof State ? value : value.state  
     //   };    //   let value = x instanceof Array ? Ray.iterable(x) : Ray.ref(x);    //   return () => value;    // })(x)  }  
-  
-  // TODO: How does .map effect .self/.terminal/.initial  
-  public __map__
-  
 
   
-  // TODO: Functions that alter structure like .flatten/.flat_map, what else?  
-  
-  // get initial(): Ray { return this.__reverse__ ? this.state.terminal : this.state.initial }; set initial(x: Any) { this.__reverse__ ? this.state.terminal = x : this.state.initial = x; }  
-  // get self(): Ray { return this.state.self }; set self(x: Any) { this.state.self = x; }  // get terminal(): Ray { return this.__reverse__ ? this.state.initial : this.state.terminal }; set terminal(x: Any) { this.__reverse__ ? this.state.initial = x : this.state.terminal = x; }  
-  // is_initial = async () => this.initial.is_none()  
+// TODO: Functions that alter structure like .flatten/.flat_map, what else?  
   
 
 // is_empty_reference = async () => await this.is_reference() && await this.self.is_none()  
