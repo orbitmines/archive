@@ -36,6 +36,9 @@ Summarized:
 	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 	- Compose for function initials?  
 	- How to think about this as a single function with intermediate steps.
+	- Requires: "On another level of description", like "this w"
+
+
 
 ```ts
 /**
