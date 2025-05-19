@@ -52,8 +52,8 @@ Summarized:
 ---
 
 
-
 - History/causal graph
+	- Can have a history, but no current value 
 
 ###### Theorem Proving System
 - Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
@@ -97,7 +97,6 @@ Summarized:
 
 ---
 
-  // Can have a history, but no current value  // TODO: Memorization through causal history
 
 ```ts
   
