@@ -51,6 +51,11 @@ Discovery data
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
+
+---
+
+Destructive interference: The two possibilities dont merge in branchial space
+
 ---
 
 Is increasing temperature associated with increasing gravity? How much does that contribute to change in behavior you see as you increase temperature?
