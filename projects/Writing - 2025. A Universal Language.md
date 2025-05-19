@@ -364,19 +364,12 @@ join = (value: any) =>
    * A ray going both forward and backward.
    */  bidirectional = this.property(this, 'bidirectional')  
 
-  
-  
-  
-  /**  
-   *   * Note: If there are multiple things selected, the ones without a 'next' node are discarded. With a terminal loop,   * one can keep terminal boundaries in the selection.   */ 
-
  
   
   get boundary(): Ray { return this.all().filter(x => x.on_boundary()) }  
   on_boundary = (): Ray => this.is_first().or(this.is_last())  
   
- 
-  
+
   // TODO  
   // private __eq_number__ = async (x: number | Ray, eq: (left: number, right: number) => boolean): Promise<boolean> => {  
   //   const left = await this.to_number(); const right = is_number(x) ? x : await x.to_number();  //   if (left === undefined) return false;  //   if (right === undefined) return true;  //   return eq(left, right);  // }
