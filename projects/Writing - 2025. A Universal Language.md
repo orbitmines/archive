@@ -48,11 +48,9 @@ Summarized:
 
 
 
-- Many previous/next pairs for a single node means? Different structures are the refs all different nodes, or one node with all those steuctures?
-
 ---
 
-- [ ] Type information
+
 - [ ] Canonicalization/deduplication
 
 
