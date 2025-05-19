@@ -369,14 +369,9 @@ join = (value: any) =>
   get boundary(): Ray { return this.all().filter(x => x.on_boundary()) }  
   on_boundary = (): Ray => this.is_first().or(this.is_last())  
   
-
-
   async * [Symbol.asyncIterator](): AsyncGenerator<Ray> {  
   
   }  
-  
-  
-  
 
   
   // static array = <T>(x: T[]): Ray => {  
@@ -408,66 +403,8 @@ join = (value: any) =>
 ```
 
 ```
-export class FunctionBuilder {
-
-}
 
 
-// TODO: TRAVERSAL
-//      - Program strategy: which branches to take first.
-//        + Program stepping.
-//      - Cycle detection & merger
-//      - Intermediate results while others are still pending.
-//      - Support yielding initial/terminals as well. (intermediates which are still looking)
-//      -
-export class Traverser {
-
-  // TODO: Nothing selected but underlying structure. .first snaps to first (looped initial possible).
-  // TODO: Can include disconnected pieces. Also should include a disconnected piece without an initial. and so no qualifier to .first.
-
-  // TODO: What does .all().is_last() mean?
-  // TODO: Separate Ray and "Ray Part"? .next in Ray vs .next in "Ray Part"
-
-  // TODO: .next should be for each possible entry of terminal values. filter(x => x.is_last()) should also be for each possible selection, not the selection as a whole
-  // TODO: What to do if there are non-uniques in here, or is it always .unique ?
-  // states: AsyncIterable<State>
-  // TODO: Remember that we're at a terminal? Not that .next again returns the first element
-  // TODO: Filter should be applied to state.
-  // state: Ray
-
-
-}
-
-export class Function {
-
-}
-
-export class Graph {
-
-  // TODO: PRESERVING ALL STRUCTURES AND HISTORIES
-  //       How? Preserving both the original structure, and the rewritten graph.
-  //       -> Ambiguous rewrites etc..
-  //       -> Partial, without necessarily checking the entire graph.
-  //            (what happens when a second rewrite is given, which a pending first rewrite might still cancel):
-  //            (possible) Additional ambiguity of order of rewrite. What if invariant and doesn't matter?
-  //
-  // TODO: Split the graph at the differences?. Add/remove
-  //       OR better: Give the ray from which we want to access this, which contains the remove/non-removed history.
-  //
-  // TODO: Requires knowledge of what operation can effect what.
-
-
-
-  // TODO: Rewrite with checking structure at nodes, or ignored. (Basically only looking at between structure)
-  // rewrite: (lhs: Graph, rhs: Graph)
-  // dpo, spo, cartesion product, tensor product, union, disjoint union etc...
-  // compose matching domain/codomain
-
-  // TODO: History of rewrites as ray
-
-  // TODO: You want to be able to select X number of sub-graphs of a larger graph. Those subgraphs being selected how? Like: all the matches.
-  // TODO: Already the case?: -> Select needs to be more intelligent: both initials/terminals as vertex selected. "Entire subgraphs"
-}
 
 
 
