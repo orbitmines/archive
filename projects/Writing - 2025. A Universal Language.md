@@ -45,7 +45,7 @@ Summarized:
 
 	- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs") -> difference between program A generates number Y.
 
-	- Function as direction on "an unknown (optionally of some type/structure)"
+
 	- Function as initial instantiated from some vertex
 
 	- Composed functions in single step would be?
