@@ -38,15 +38,11 @@ Summarized:
 
 
 - [ ] 
-	- Allow for intermediate result. for .count/.reduce and nodes -> Halting problem
-
 
 	- Function as initial instantiated from some vertex
 
 	- Intermediate results pending change
 
-	- Compose for function initials?  
-	- How to think about this as a single function with intermediate steps.
 	 - Control flow
 		 * How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
 
