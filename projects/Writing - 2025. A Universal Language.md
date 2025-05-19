@@ -46,10 +46,8 @@ Summarized:
 
 	- Function as initial instantiated from some vertex
 
-	- Composed functions in single step would be?
-		- multiple initial in sequence suprrposed by composed vatiant?
 	- Intermediate results pending change
-		- descriptions, definitions, lazy functions, unresolved pointers, non-committal ignorance, awaiting function execution, questions, ..., conjectures. Or: We can point to things to which we don't yet have any (or a definitive) answer.
+
 	- Compose for function initials?  
 	- How to think about this as a single function with intermediate steps.
 	 - Control flow what does it look like
