@@ -26,6 +26,8 @@ Summarized:
 
 **TODO**
 - Functions
+- Graphs
+	- graph rewriting functions
 - Version Control
 - History/causal graph
 	- Can have a history, but no current value 
@@ -337,15 +339,12 @@ constructor(object: any = {}) {
 
 ```ts
   
-export class State {  
 
-  // export type AnyOf<T> = T | T[] | (() => T | T[])  
-  // export type Any = undefined | AnyOf<Ray> | AnyOf<State>  
+// export type AnyOf<T> = T | T[] | (() => T | T[])  
+// export type Any = undefined | AnyOf<Ray> | AnyOf<State>  
  
-}
-
   
-// TODO: What would be graph rewriting functions, include those  
+
 // TODO: What about loops which are only repeated an x number of times. (which are quite common), are there some other variants of this? (.slice/.splice would for example make use of a single .orbit use in selecting a range/start index)  
 // TODO: .map which maps both structure and values  
 export class Ray {  
