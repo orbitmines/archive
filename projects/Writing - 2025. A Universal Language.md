@@ -28,7 +28,7 @@ Summarized:
 - Functions
 - Graphs
 	- graph rewriting functions
-- Runtime
+- Runtime/Traversal
 	- Cache results in between for some runtime library.  
 - Version Control
 - History/causal graph
@@ -404,11 +404,6 @@ join = (value: any) =>
 
 ```
 
-
-
-
-
-export class ConversionError extends Error {}
   
 // TODO: Number returns a type of number which is a cursor on a graph. (The graph being the numberline) For example .next on a decimal number is an infinitesimal node after the current one. But we can still use operations like >/</..
 
