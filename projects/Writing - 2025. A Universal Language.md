@@ -81,6 +81,7 @@ Summarized:
 - Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
 - Numbers, Integers, base-n, fractions, floating point
 	- .add integers: single equivalence (initial from one side, terminal from other side.) 
+	- Number returns a type of number which is a cursor on a graph. (The graph being the numberline) For example .next on a decimal number is an infinitesimal node after the current one. But we can still use operations like >/</..
 - Single point, all perspectives. Ref on initial, entire initial ref as the .self, what about "entire" under some maximum travel speed/steps (or some variant of that idea)
 - Program language syntax
 - Nested arrays as structure on the initials, different than a 2d grid. + How does this work with unrealized array functions, or realized ones? Like .at(index).
