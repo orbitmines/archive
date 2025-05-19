@@ -292,11 +292,8 @@ class Ray implements AsyncIterable<Ray> {
   // get self(): Ray { return this.state.self }; set self(x: Any) { this.state.self = x; }  // get terminal(): Ray { return this.__reverse__ ? this.state.initial : this.state.terminal }; set terminal(x: Any) { this.__reverse__ ? this.state.initial = x : this.state.terminal = x; }  
   // is_initial = async () => this.initial.is_none()  
   
-// is_terminal = async () => this.terminal.is_none()  
-// is_reference = async () => await this.is_initial() && await this.is_terminal()  
+
 // is_empty_reference = async () => await this.is_reference() && await this.self.is_none()  
-// is_boundary = async () => xor(await this.is_initial(), await this.is_terminal())  
-// is_vertex = async () => !await this.is_initial() && !await this.is_terminal()
 // is_extreme = async () => await this.is_none() && await this.is_boundary() 
 // is_wall = async () => await this.is_none() && !await this.is_initial() && !await this.is_terminal()  // 
   
