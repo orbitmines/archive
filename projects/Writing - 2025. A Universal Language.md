@@ -339,6 +339,20 @@ constructor(object: any = {}) {
 - cycles_are_boundaries ?
 
 ```ts
+  /**
+   * Two rays are identical if there's no possible distinction between the "values and structure".
+   *
+   * TODO: Slight rephrasing of this
+   * Note: two different instantiations of the same array, say: new Ray(1, 2, 3) and new Ray(1, 2, 3) are in fact
+   *       identical. From the perspective of JavaScript, you would say: No, they are two different entities, so they
+   *       cannot be identical. But we're not considering JavaScripts perspective here. We're assuming only knowledge
+   *       from the rays themselves. And they CANNOT see a difference between the two. You need additional structure on
+   *       either ray to make that distinction. (This, for example, could be a label to the JavaScript object ID, which
+   *       is what allows us to make that distinction in JavaScript.)
+   */
+```
+
+```ts
   
 
 // export type AnyOf<T> = T | T[] | (() => T | T[])  
@@ -400,9 +414,7 @@ join = (value: any) =>
 //   }  
 //   return undefined;  
 // }
-```
 
-```
 
 
   nodes = this.select<Node>(this.this(), 'nodes', Node)
@@ -413,27 +425,18 @@ join = (value: any) =>
    */
   get last() { return this.filter(x => x.is_last()) }
 
-}
-
-export class Node extends Selection<Node> {
-
-
-  /**
-   * Two rays are identical if there's no possible distinction between the "values and structure".
-   *
-   * TODO: Slight rephrasing of this
-   * Note: two different instantiations of the same array, say: new Ray(1, 2, 3) and new Ray(1, 2, 3) are in fact
-   *       identical. From the perspective of JavaScript, you would say: No, they are two different entities, so they
-   *       cannot be identical. But we're not considering JavaScripts perspective here. We're assuming only knowledge
-   *       from the rays themselves. And they CANNOT see a difference between the two. You need additional structure on
-   *       either ray to make that distinction. (This, for example, could be a label to the JavaScript object ID, which
-   *       is what allows us to make that distinction in JavaScript.)
-   */
-
-
   // Todo: any terminals
   is_last = () => this.has_next().not()
   is_first = () => this.has_previous().not()
+
+}
+```
+
+```ts
+
+
+export class Node extends Selection<Node> {
+
 
   // TODO: Throw if not number
   to_number = (): MaybeAsync<undefined | number> => {
@@ -475,7 +478,7 @@ export class Node extends Selection<Node> {
 
 ```
 
-```
+```ts
 
 /**
  * Copied from https://github.com/lodash/lodash/blob/main/dist/lodash.js
