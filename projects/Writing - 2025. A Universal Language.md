@@ -46,21 +46,6 @@ Summarized:
 - Copying means what now? with the automatic splits (related to caching?)
 
 
-```ts
-/**
- *
- *
- * isomorphism, deleting
- *
- * - How does execution happen?
- *   - What about the expansion case which needs both add structure and replace a reference?
- *
- *
- * Functions/Unrealized structure on location: Potential "Context"/Structure
- *    =
- * Additional structure on location
- */
-```
 
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
