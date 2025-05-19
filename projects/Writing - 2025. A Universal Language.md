@@ -346,15 +346,10 @@ constructor(object: any = {}) {
  
 // TODO: Functions that alter structure like .flatten/.flat_map, what else?  
 // TODO: .map which maps both structure and values
- // TODO: sort using reduce. Sort is ""
-
-export class Ray {  
+ // TODO: sort using reduce. Sort is "bring to some canonicalized form"
 
   for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) =>  
-    await callback(this.all()) // TODO; Might not be it  
-
-  
- 
+    await callback(this.all()) // TODO; Might not be it 
 
 // TODO: Needs to check for terminals
  // TODO: Make sure this works for branching possibilities (no duplicate inserted values)  
