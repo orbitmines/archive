@@ -29,7 +29,8 @@ Summarized:
 - Graphs
 	- graph rewriting functions
 - Runtime/Traversal
-	- Cache results in between for some runtime library.  
+	- Cache results in between for some runtime library. 
+	- Invalidate c
 - Version Control
 - History/causal graph
 	- Can have a history, but no current value 
