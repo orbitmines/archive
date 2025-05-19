@@ -36,6 +36,8 @@ Summarized:
 	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 	- Compose for function initials?  
 	- How to think about this as a single function with intermediate steps.
+	 - Control flow
+		 * How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
 
 
 
@@ -44,11 +46,7 @@ Summarized:
 /**
  *
  *
- *
- * - Control flow as partial pattern-matched on branching structure.
- *   - How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
- *
- * - Merging, pattern-matching, copying, isomorphism, deleting
+ * - Merging, copying, isomorphism, deleting
  *
  * - How does execution happen?
  *   - What about the expansion case which needs both add structure and replace a reference?
