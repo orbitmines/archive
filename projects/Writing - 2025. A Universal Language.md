@@ -368,10 +368,6 @@ join = (value: any) =>
   
   
   /**  
-   * Whether anything is selected   */  is_some = (): Ray => this.is_none().not()  
-  is_none = this.property(this, 'is_none')  
-  
-  /**  
    *   * Note: If there are multiple things selected, the ones without a 'next' node are discarded. With a terminal loop,   * one can keep terminal boundaries in the selection.   */ 
 
  
