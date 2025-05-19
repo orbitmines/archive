@@ -27,6 +27,7 @@ Summarized:
 **TODO**
 - Types
 - Functions
+	- Programs
 - Graphs
 	- graph rewriting functions
 - Runtime/Traversal
