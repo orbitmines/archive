@@ -52,7 +52,8 @@ Summarized:
 	- How to think about this as a single function with intermediate steps.
 	 - Control flow
 		 * How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
-	- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. 
+	- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
+		
 
 - Copying means what now? with the automatic splits (related to caching?)
 
