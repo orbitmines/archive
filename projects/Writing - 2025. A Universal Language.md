@@ -49,8 +49,6 @@ Summarized:
 
 
 
----
-
 **Structure**
 - Version Control
 - History/causal graph
@@ -58,6 +56,7 @@ Summarized:
 - Theorem Proving System
 	- Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
 
+---
 ###### After Restructure
 - Function discovery
 - Compression/Geodesics
