@@ -298,9 +298,6 @@ class Ray implements AsyncIterable<Ray> {
 // is_wall = async () => await this.is_none() && !await this.is_initial() && !await this.is_terminal()  // 
   
 
-// type = async (): Promise<Type> => {  //   if (await this.is_reference()) return Type.REFERENCE;  //   if (await this.is_initial()) return Type.INITIAL;  //   if (await this.is_terminal()) return Type.TERMINAL;  //   if (await this.is_vertex()) return Type.VERTEX;  //   // if (this.is_wall()) return Type.WALL;  //   throw new Error('Should not happen')  // }  
-
-
   
 
   get initial_boundary(): Ray { return this.reverse.terminal_boundary }  
