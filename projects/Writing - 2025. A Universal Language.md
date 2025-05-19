@@ -345,7 +345,7 @@ constructor(object: any = {}) {
  
   
 
-// TODO: What about loops which are only repeated an x number of times. (which are quite common), are there some other variants of this? (.slice/.splice would for example make use of a single .orbit use in selecting a range/start index)  
+// TODO: What about loops which are only repeated an x number of times. (which are quite common), are there some other variants of this? (.slice/.splice would for example make use of a single .orbit use in selecting a range/start index) -> so use .length().max() = 1 on the loop
 // TODO: .map which maps both structure and values  
 export class Ray {  
   
