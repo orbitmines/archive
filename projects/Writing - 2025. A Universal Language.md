@@ -88,6 +88,7 @@ Summarized:
 - differentiable between two points to arbitrary precision, how is it constructed?
 - If the starting Ray is a vertex, which is excluded, it acts like an initial.
 - Mapping infinity to a number is a loop, and a loop in the reverse direction for -infinity?
+- Note that things like `.every` start traversing from the selected node(s) location(s). Or in case of a graph it starts at
 
 ###### Energy/Resources
 - The larger the integer, the more structure you need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
