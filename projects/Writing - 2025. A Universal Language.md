@@ -28,6 +28,8 @@ Summarized:
 - Functions
 - Graphs
 	- graph rewriting functions
+- Runtime
+	- Cache results in between for some runtime library.  
 - Version Control
 - History/causal graph
 	- Can have a history, but no current value 
@@ -285,8 +287,7 @@ class Ray implements AsyncIterable<Ray> {
     //   };    //   let value = x instanceof Array ? Ray.iterable(x) : Ray.ref(x);    //   return () => value;    // })(x)  }  
 
   
-// TODO: Functions that alter structure like .flatten/.flat_map, what else?  
-  
+
 
 // is_empty_reference = async () => await this.is_reference() && await this.self.is_none()  
 // is_extreme = async () => await this.is_none() && await this.is_boundary() 
@@ -343,19 +344,17 @@ constructor(object: any = {}) {
 // export type AnyOf<T> = T | T[] | (() => T | T[])  
 // export type Any = undefined | AnyOf<Ray> | AnyOf<State>  
  
+// TODO: Functions that alter structure like .flatten/.flat_map, what else?  
+// TODO: .map which maps both structure and values
+ // TODO: sort using reduce. Sort is ""
 
-// TODO: .map which maps both structure and values  
 export class Ray {  
-  
-  
-  // TODO: Cache results in between for some runtime library.  
-  
-  
+
   for_each = async (callback: (x: Ray) => MaybeAsync<unknown>) =>  
     await callback(this.all()) // TODO; Might not be it  
 
   
-  // TODO: sort using reduce.  
+ 
 
 // TODO: Needs to check for terminals
  // TODO: Make sure this works for branching possibilities (no duplicate inserted values)  
