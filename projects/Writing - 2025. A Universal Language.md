@@ -51,8 +51,6 @@ Summarized:
 ---
 
 
-- [ ] Canonicalization/deduplication
-
 
 - History/causal graph
 
