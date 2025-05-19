@@ -370,9 +370,6 @@ join = (value: any) =>
   on_boundary = (): Ray => this.is_first().or(this.is_last())  
   
 
-  // TODO  
-  // private __eq_number__ = async (x: number | Ray, eq: (left: number, right: number) => boolean): Promise<boolean> => {  
-  //   const left = await this.to_number(); const right = is_number(x) ? x : await x.to_number();  //   if (left === undefined) return false;  //   if (right === undefined) return true;  //   return eq(left, right);  // }
 
   async * [Symbol.asyncIterator](): AsyncGenerator<Ray> {  
   
