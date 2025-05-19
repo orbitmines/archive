@@ -37,7 +37,7 @@ Summarized:
 - Theorem Proving System
 
 
-- [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstrzaction level ; ex. no nice mappings))
+- [ ] 
 	- Allow for intermediate result. for .count/.reduce and nodes -> Halting problem
 
 
