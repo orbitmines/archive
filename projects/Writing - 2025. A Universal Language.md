@@ -27,6 +27,8 @@ Summarized:
 - (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
 - [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstrzaction level ; ex. no nice mappings))
 
+	- All functions are unrealized structure?
+
 	- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs") -> difference between program A generates number Y.
 
 	- Function as direction on "an unknown (optionally of some type/structure)"
