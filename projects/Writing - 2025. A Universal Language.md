@@ -21,12 +21,21 @@ Summarized:
 
 - A language where the possibility of multiple branches/possibilities is native.
 
-- Differences between function looking for variable(s) or not
 
 
-- (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
+
+**TODO**
+- Functions
+- Version Control
+- History/causal graph
+	- Can have a history, but no current value 
+- Theorem Proving System (All these things can be rewritten to all these other things)
+	- Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
+
+
 - [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstrzaction level ; ex. no nice mappings))
-
+	- Differences between function looking for variable(s) or not
+	- 
 	- All functions are unrealized structure?
 
 	- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs") -> difference between program A generates number Y.
