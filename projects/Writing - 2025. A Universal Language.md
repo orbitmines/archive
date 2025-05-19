@@ -23,7 +23,7 @@ Summarized:
 
 - Differences between function looking for variable(s) or not
 
-- Better way of thinking about one-way referenced structure
+
 - (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
 - [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstrzaction level ; ex. no nice mappings))
 
@@ -49,14 +49,6 @@ Summarized:
 - Copying means what now? with the automatic splits (related to caching?)
 
 
-
-
-**Structure**
-- Version Control
-- History/causal graph
-	- Can have a history, but no current value 
-- Theorem Proving System (All these things can be rewritten to all these other things)
-	- Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
 
 ---
 ###### After Restructure
