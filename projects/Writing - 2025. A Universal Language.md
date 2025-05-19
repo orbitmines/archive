@@ -53,7 +53,7 @@ Summarized:
 - Version Control
 - History/causal graph
 	- Can have a history, but no current value 
-- Theorem Proving System
+- Theorem Proving System (All these things can be rewritten to all the)
 	- Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
 
 ---
