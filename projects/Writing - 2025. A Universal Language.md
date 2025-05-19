@@ -39,10 +39,6 @@ Summarized:
 
 - [ ] 
 
-	- Function as initial instantiated from some vertex
-
-	- Intermediate results pending change
-
 	 - Control flow
 		 * How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
 
