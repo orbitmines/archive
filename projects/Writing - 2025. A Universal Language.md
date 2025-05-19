@@ -25,6 +25,7 @@ Summarized:
 
 
 **TODO**
+- Types
 - Functions
 - Graphs
 	- graph rewriting functions
