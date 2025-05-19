@@ -82,6 +82,7 @@ Summarized:
 - Nested arrays as structure on the initials, different than a 2d grid. + How does this work with unrealized array functions, or realized ones? Like .at(index).
 - differentiable between two points to arbitrary precision, how is it constructed?
 - If the starting Ray is a vertex, which is excluded, it acts like an initial.
+- Mapping infinity to a number is a loop, and a loop in the reverse direction for -infinity?
 
 ###### Energy/Resources
 - The larger the integer, the more structure you need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
@@ -324,22 +325,6 @@ class Ray implements AsyncIterable<Ray> {
     return iterator;  
   }  
 }  
-  
-class State {  
-  
-  public __object__?: any  
-  
-  // TODO public visitors: State  
-  
-  private __initial__: Ray = new Ray(); get initial(): Ray { return this.__initial__ }; set initial(x: Any) { this.__initial__ = new Ray(x); }  
-  private __self__: Ray = new Ray(); get self(): Ray { return this.__self__ }; set self(x: Any) { this.__self__ = new Ray(x); }  
-  private __terminal__: Ray = new Ray(); get terminal(): Ray { return this.__terminal__ }; set terminal(x: Any) { this.__terminal__ = new Ray(x); }  
-  
-    
-}  
-export default State;  
-  
-
 
 
 constructor(object: any = {}) {  
@@ -348,7 +333,6 @@ constructor(object: any = {}) {
 
 ```
 
-- Mapping infinity to a number is a loop, and a loop in the reverse direction for -infinity?
 
 - cycles_are_boundaries ?
 
