@@ -41,7 +41,8 @@ Summarized:
 	- How to think about this as a single function with intermediate steps.
 	 - Control flow what does it look like
 		 * How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
-
+	- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
+		- Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
 
 - Copying means what now? with the automatic splits (related to caching?)
 
@@ -56,16 +57,14 @@ Summarized:
 
 ###### Theorem Proving System
 - Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
-###### Function Repository
-- Note that whenever you have a self-reference through operators. Either we break the recursion there through some implementation. Or we simply decide to stop orbiting. And say it could be any of these things, it could be any of some superposition of things.
-- Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
+
 ###### After Restructure
 - [ ] Factory (Version Control, Causal histories, ..., Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 	- [ ] Apply the same version control system on the version control system itself. 
 - Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
-- [ ] Provide easy portability away from the current setup "Provide me with this and I'll recompile it into what you want"\
+- [ ] "Compile to" infrastructure
 
 ###### Examples
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
