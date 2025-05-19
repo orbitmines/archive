@@ -36,7 +36,7 @@ Summarized:
 	- [ ] How to think about non-realized functions usefully. Say coordinates to some non-realized geometrical space. (Similarly: locations of information and their retrieval)
 	- Compose for function initials?  
 	- How to think about this as a single function with intermediate steps.
-	 - Control flow
+	 - Control flow 
 		 * How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
 
 
