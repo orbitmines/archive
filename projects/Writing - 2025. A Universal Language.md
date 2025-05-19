@@ -51,15 +51,15 @@ Summarized:
 
 ---
 
-
+**Structure**
+- Version Control
 - History/causal graph
 	- Can have a history, but no current value 
-
-###### Theorem Proving System
-- Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
+- Theorem Proving System
+	- Proven that there's no terminal, .last returns empty, more elaborate theorem proving system
 
 ###### After Restructure
-- [ ] Factory (Version Control, Causal histories, ..., Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
+- [ ] Factory (Compression): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. (Good notion of causal histories & orbits needs to be there)
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 	- [ ] Apply the same version control system on the version control system itself. 
