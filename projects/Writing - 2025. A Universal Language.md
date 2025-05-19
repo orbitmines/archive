@@ -49,6 +49,7 @@ Summarized:
 
 
 - Isomorphism under ignored directions how? - First need a better notion of the structure of a ray
+	- Isomorphism under certain equivalences. Ignored directions is already unselected/ignored structure.
 
 - Many previous/next pairs for a single node means? Different structures are the refs all different nodes, or one node with all those steuctures?
 
