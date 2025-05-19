@@ -103,26 +103,6 @@ Summarized:
 
 
 ```ts
-  
-class Instance {  
- 
-  // Unrealized functions which could be applied to this Ray  
-  // How is this different from additional structure on .self? This as unrealized, .self as realized?  // TODO: Should this contain .initial & .terminal as functions? Or should this be  
-  functions: Ray   
-
-  equivalences: Ray  
-  representations: Ray  
-  
-  // A copy traverses the entire structure  
-  // TODO: Send left/right copy simultaneously, and cancel each-other out  
-
-}  
-  
-```
-
-
-
-```ts
 class Ray implements Iterable<Ray> {  
 
   
