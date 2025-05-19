@@ -358,11 +358,8 @@ join = (value: any) =>
   this.filter(x => x.is_last().not()).push_after(value)
   
 
-
- 
   /**  
    * Deselect all nodes. (Akin to having reference to an array/set/...).   */  deselect = this.property(this, 'deselect')  
-
   /**  
    * A ray going both forward and backward.
    */  bidirectional = this.property(this, 'bidirectional')  
