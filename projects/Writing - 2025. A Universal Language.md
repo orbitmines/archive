@@ -22,10 +22,13 @@ Summarized:
 - A language where the possibility of multiple branches/possibilities is native.
 
 - Differences between function looking for variable(s) or not
-- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs") -> difference between program A generates number Y.
+
 - Better way of thinking about one-way referenced structure
 - (Local) rewriting, Traversal (with superposed extremes as encoded directions?)
 - [ ] Better notion of functions (non-terminating; orbits) & variables (; replacing structures with others matching either in that structure (;rewrite) or variable replacement (; replace on inaccessible abstrzaction level ; ex. no nice mappings))
+
+	- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs") -> difference between program A generates number Y.
+
 	- Function as direction on "an unknown (optionally of some type/structure)"
 	- Function as initial instantiated from some vertex
 	- Functions as unrealized directions on any point
@@ -40,14 +43,14 @@ Summarized:
 		 * How to use outputs of results into new functions, then pattern-match on the combination of those functions with branches on results.
 
 
-
+- Copying means what now? with the automatic splits (related to caching?)
 
 
 ```ts
 /**
  *
  *
- * - copying, isomorphism, deleting
+ * isomorphism, deleting
  *
  * - How does execution happen?
  *   - What about the expansion case which needs both add structure and replace a reference?
