@@ -44,7 +44,7 @@ Summarized:
 
 
 	- ("Description which generates the thing I'm interested in" Generalized to keeping track of "equivalent (and smaller) programs") -> difference between program A generates number Y.
-	- Match
+	- Match: 
 
 
 	- Function as initial instantiated from some vertex
