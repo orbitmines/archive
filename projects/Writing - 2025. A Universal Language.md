@@ -404,40 +404,10 @@ join = (value: any) =>
 
 ```
 
-  
-// TODO: Number returns a type of number which is a cursor on a graph. (The graph being the numberline) For example .next on a decimal number is an infinitesimal node after the current one. But we can still use operations like >/</..
-
-// TODO: We might expect these functions to execute on the node instead of the ray ?
-//       
-
-  // TODO index_of vs path used to get there. -1, 1, 1, -1 etc.. (or more general version of path)
-
-  // TODO: .every on a node's location. Should it start traversing from there, yes?
-
-Theorem proving.
-// TODO: What about an infinitely generating structure which we through some other finite method proof holds for this predicate?
-
-  // TODO: Map on terminals/initials and structure in general
-
-
-  // TODO: Way to get index from the ray. With a default .distance function applied somewhere?
-  // TODO: Allow for intermediate result. for .count/.reduce and nodes -> Halting problem
-  // TODO: Checks for uniqueness, only once per location: TODO: What would a reduce look like that doesn't do this (could be useful for intermediate results) - is this useful?
-
-  // TODO: There exists a Node which is "nothing selected of some structure": If nothing is selected. .equals is the same as .identical. Because [1, 2, 3] = [1, 2, 3]
-  // TODO: Intermediate partial equality how?
-
-export abstract class Selection<TNode extends Selection<TNode>> extends Query<TNode> {
-Node
-
 
   nodes = this.select<Node>(this.this(), 'nodes', Node)
 
   
-
-
-
-
   /**
    * TODO: This doesnt work, and should you want terminals reachable from this selection??
    */
