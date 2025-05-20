@@ -43,16 +43,6 @@ Summarized:
 
 
 
-How to select a substructure of an edge as a path  
-
-  
-Casaul graph is the what effected what  
-Casaul graph of the casaul graph ...  
-- Casaul graph needs a notion of what structure changed, could be that it didn't touch the graph but only the value. Do you want to have it still be a causal link created there if the graph for example isn't effected  
-  
-More general way to think about types of steucture at a point  
-  
-Local going back in time to meet some other query
 
 
 ---

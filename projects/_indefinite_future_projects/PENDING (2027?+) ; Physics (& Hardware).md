@@ -54,6 +54,10 @@ Discovery data
 
 ---
 
+Local going back in time to meet some other query
+
+---
+
 Destructive interference: The two possibilities dont merge in branchial space
 
 ---
