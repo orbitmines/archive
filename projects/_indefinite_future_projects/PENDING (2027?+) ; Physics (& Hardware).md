@@ -17,6 +17,7 @@ This is necessarily a much harder problem than all other software-related proble
 ---
 
 Read
+- [ ] https://modal.com/gpu-glossary
 - [ ] https://www.reddit.com/r/archlinux/comments/6la6n5/trying_to_understand_drm_dri_mesa_radeon_gallium/
 - [ ] https://github.com/fail0verflow/radeon-tools/tree/master/f32
 	- [ ] [[fail0verflow]]
@@ -30,6 +31,7 @@ Read
 - [ ] https://discordapp.com/channels/844566471501414463/1111689941848694924/1248949135239942316
 - [ ] https://books.google.nl/books/about/Introduction_to_Elementary_Particles.html?id=dGIOEAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y#v=onepage&q&f=false
 - [ ] https://github.com/philipturner/bootstrapping-code-archive
+- [ ] 
 
 *Wikipedia*
 - [ ] https://en.wikipedia.org/wiki/White_hole
