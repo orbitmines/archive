@@ -33,8 +33,7 @@ Summarized:
 - Graphs
 	- graph rewriting functions
 - Runtime/Traversal
-	- Cache results in between for some runtime library. 
-		- Invalidate before some query, caching on some other base layer
+	
 - Version Control
 - History/causal graph and other mapping like a branchial graph
 	- Can have a history, but no current value 
