@@ -26,10 +26,10 @@ Summarized:
 
 
 **TODO**
-- Types
+- Types, Grammars, Pattern-matching
 - Functions
 	- Programs
-- Control-flow
+- Control-flow & programs
 - Graphs
 	- graph rewriting functions
 - Runtime/Traversal
