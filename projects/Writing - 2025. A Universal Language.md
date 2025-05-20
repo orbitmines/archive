@@ -44,8 +44,7 @@ Summarized:
 
 
 How to select a substructure of an edge as a path  
-  
-Selected structure for .next vs selected structure for .isomorphic  
+
   
 Casaul graph is the what effected what  
 Casaul graph of the casaul graph ...  
