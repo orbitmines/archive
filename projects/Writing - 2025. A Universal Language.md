@@ -42,10 +42,7 @@ Summarized:
 ---
 
 
-  
-Current rays don't have the notion of joining more than 2 vertices. .next is .[switch to hyperedge structure].all(). They do join more than two, but not necessarily in the same way.  
-The wall graph is for instance a little different: each step can't go to itself in the edge (unless there's a selfloop probably), but can go to the others. So structurally the edge is different from each perspective. Isomorphism would have to check for all the different edge perspectives.  
-  
+
 How to select a substructure of an edge as a path  
   
 Selected structure for .next vs selected structure for .isomorphic  
