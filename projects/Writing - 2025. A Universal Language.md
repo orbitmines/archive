@@ -24,10 +24,12 @@ Summarized:
 
 
 
+
 **TODO**
 - Types
 - Functions
 	- Programs
+- Control-flow
 - Graphs
 	- graph rewriting functions
 - Runtime/Traversal
