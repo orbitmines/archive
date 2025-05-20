@@ -58,6 +58,10 @@ Destructive interference: The two possibilities dont merge in branchial space
 
 ---
 
+Gravity is just removing structure, so something moves closer which is on/near that structure. Where does that structure go afterwards? Energy/activity consumes some surrounding structure so gravity increases?
+
+---
+
 Is increasing temperature associated with increasing gravity? How much does that contribute to change in behavior you see as you increase temperature?
 
 ---
