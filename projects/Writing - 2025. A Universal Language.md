@@ -43,14 +43,7 @@ Summarized:
 
 
 
-
-
----
-
-
 - Copying means what now? with the automatic splits (related to caching?)
-
-
 
 
 
