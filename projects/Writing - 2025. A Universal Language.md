@@ -428,28 +428,6 @@ join = (value: any) =>
 }
 ```
 
-```ts
-
-
-export class Node extends Selection<Node> {
-
-
-  /**
-   * Converts any JavaScript value to a ray.
-   */
-  static converter: (x: any) => Node = x => {
-    // if (x instanceof Array) {
-    //   if (x.length === 0) return new Ray()
-    //   if (x.length === 1) x = x[0]
-    // }
-    //
-    // if (x instanceof Ray) return x;
-
-    throw new Error('Not implemented')
-  }
-}
-
-```
 
 ```ts
 
