@@ -89,7 +89,7 @@ console.log(res);
 - [Influence of temporal information gaps on decision making: describing the dynamics of working memory (2024)](https://www.biorxiv.org/content/10.1101/2024.07.17.603868v1) ; *Alejandro Sospedra, Santiago Canals, Encarni Marcos*
 
 - :youtube: :lex_fridman_podcast: [Black Holes, Wormholes, Aliens, Paradoxes & Extra Dimensions | #468 (2025)](https://www.youtube.com/watch?v=A6m4iJIw_84) ;  *Janna Levin, Lex Fridman*
-- :youtube: :cool_worlds_podcast: [#19 Inflation, B Modes and Losing the Nobel Prize (2025)](https://www.youtube.com/watch?v=L5MDDTFbpfU&t=3s) ;  *Brian Keating, David Kipping*
+- :youtube: :cool_worlds_podcast: [#19 - Inflation, B Modes and Losing the Nobel Prize (2025)](https://www.youtube.com/watch?v=L5MDDTFbpfU&t=3s) ;  *Brian Keating, David Kipping*
 - :youtube: :cool_worlds_podcast: [#20 - Kepler Mission, Exoplanets with JWST, Future Imagers (2025)](https://www.youtube.com/watch?v=BCWd7NuTIcY&t=4s) ;  *Natalie Batalha, David Kipping*
 - :youtube: :cool_worlds_podcast: [#21 - Early Mars, Terraforming/Settling Mars (2025)](https://www.youtube.com/watch?v=-DaeWdIaMZE) ;  *Edwin Kite, David Kipping*
 - :youtube: :cool_worlds_podcast: [#22 - Origin of Life, Assembly Theory, Biosignatures (2025)](https://www.youtube.com/watch?v=W2duMnWYhDY) ;  *Sara Walker, David Kipping*
