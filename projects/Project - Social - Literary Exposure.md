@@ -82,7 +82,7 @@ console.log(res);
 
 ![[Pasted image 20240604084826.png]]
 
-# 2025, March - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+# 2025, March-May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
 - 
