@@ -88,6 +88,7 @@ console.log(res);
 - [String diagram rewrite theory III: Confluence with and without Frobenius (2022)](https://arxiv.org/abs/2109.06049) ; *Filippo Bonchi, Fabio Gadducci, Aleks Kissinger, Pawel Sobocinski, Fabio Zanasi*
 - [Influence of temporal information gaps on decision making: describing the dynamics of working memory (2024)](https://www.biorxiv.org/content/10.1101/2024.07.17.603868v1) ; *Alejandro Sospedra, Santiago Canals, Encarni Marcos*
 
+- :youtube: [#21 - Early Mars, Terraforming/Settling Mars (2025)](https://www.youtube.com/watch?v=-DaeWdIaMZE) ;  *Edwin Kite, David Kipping*
 - :youtube: :cool_worlds_podcast: [#22 - Origin of Life, Assembly Theory, Biosignatures (2025)](https://www.youtube.com/watch?v=W2duMnWYhDY) ;  *Sara Walker, David Kipping*
 
 # 2025, February - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
