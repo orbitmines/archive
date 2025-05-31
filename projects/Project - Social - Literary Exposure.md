@@ -93,8 +93,7 @@ console.log(res);
 - :youtube: :cool_worlds_podcast: [#20 - Kepler Mission, Exoplanets with JWST, Future Imagers (2025)](https://www.youtube.com/watch?v=BCWd7NuTIcY&t=4s) ;  *Natalie Batalha, David Kipping*
 - :youtube: :cool_worlds_podcast: [#21 - Early Mars, Terraforming/Settling Mars (2025)](https://www.youtube.com/watch?v=-DaeWdIaMZE) ;  *Edwin Kite, David Kipping*
 - :youtube: :cool_worlds_podcast: [#22 - Origin of Life, Assembly Theory, Biosignatures (2025)](https://www.youtube.com/watch?v=W2duMnWYhDY) ;  *Sara Walker, David Kipping*
-
-- :youtube: :demystifysci: [Rules that Reality Plays By - #343 (2025)](https://www.youtube.com/watch?v=aQCT_kboi8A) ;  *Stephen Wolfram, *
+- :youtube: :demystifysci: [Rules that Reality Plays By - #343 (2025)](https://www.youtube.com/watch?v=aQCT_kboi8A) ;  *Stephen Wolfram, Anastasia Bendebury, Michael Shilo DeLay*
 - :youtube: :demystifysci: [Mistaking the Map for the Territory in Physics - #344 (2025)](https://www.youtube.com/watch?v=9068pS75Uds&t=2s) ;  *Jacob Barandes, Anastasia Bendebury, Michael Shilo DeLay*
 
 # 2025, February - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
