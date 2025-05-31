@@ -94,8 +94,8 @@ console.log(res);
 - :youtube: :cool_worlds_podcast: [#21 - Early Mars, Terraforming/Settling Mars (2025)](https://www.youtube.com/watch?v=-DaeWdIaMZE) ;  *Edwin Kite, David Kipping*
 - :youtube: :cool_worlds_podcast: [#22 - Origin of Life, Assembly Theory, Biosignatures (2025)](https://www.youtube.com/watch?v=W2duMnWYhDY) ;  *Sara Walker, David Kipping*
 
-- :youtube: [Rules that Reality Plays By - #343 (2025)](https://www.youtube.com/watch?v=aQCT_kboi8A) ;  *Stephen Wolfram, *
-- :youtube: [Mistaking the Map for the Territory in Physics - #344 (2025)](https://www.youtube.com/watch?v=9068pS75Uds&t=2s) ;  *Jacob Barandes, *
+- :youtube: :demystifysci: [Rules that Reality Plays By - #343 (2025)](https://www.youtube.com/watch?v=aQCT_kboi8A) ;  *Stephen Wolfram, *
+- :youtube: :demystifysci: [Mistaking the Map for the Territory in Physics - #344 (2025)](https://www.youtube.com/watch?v=9068pS75Uds&t=2s) ;  *Jacob Barandes, *
 
 # 2025, February - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
