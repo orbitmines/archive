@@ -85,7 +85,8 @@ console.log(res);
 # 2025, March-May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- [String diagram rewrite theory III: Confluence with and without Frobenius](https://arxiv.org/abs/2109.06049) ; *Filippo Bonchi, Fabio Gadducci, Aleks Kissinger, Pawel Sobocinski, Fabio Zanasi*
+- [String diagram rewrite theory III: Confluence with and without Frobenius *](https://arxiv.org/abs/2109.06049) ; *Filippo Bonchi, Fabio Gadducci, Aleks Kissinger, Pawel Sobocinski, Fabio Zanasi*
+- [Influence of temporal information gaps on decision making: describing the dynamics of working memory]
 
 # 2025, February - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
