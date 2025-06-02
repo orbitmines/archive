@@ -1,5 +1,13 @@
 *Let's try for [[2025-12-31]] ; - Yearly excerpt of thoughts*
 
+Subtitle
+- An exposition of contemporary (programming) languages, the requirements for a universal programming language and an attempt in that direction.
+- What infrastructure are contemporary mathematics and other (programming) languages missing? 
+- Existing abstract models of computation, mathematics, ... (programming) languages : What are their commonalities and what infrastructure are they all missing?
+- What does it take to build a universal language? 
+
+-
+
 # Towards a Universal Language
 **
 ###### Introduction
