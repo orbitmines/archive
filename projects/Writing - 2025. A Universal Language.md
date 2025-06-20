@@ -80,6 +80,7 @@ Summarized:
 		- - ; a +reverse before applying  
 		- -number structured how? Just the same number but on a different position in the numberline?  
 		- What would a .minus()/.neg look like? How is it different from reverse
+	- Real numbers; something like a loop on another level than the usual structure is a simpler way to have it, assuming we somehow assume that the loop os realized. Otherwise what would the structure look like?
 - Single point, all perspectives. Ref on initial, entire initial ref as the .self, what about "entire" under some maximum travel speed/steps (or some variant of that idea)
 - Program language syntax
 - Nested arrays as structure on the initials, different than a 2d grid. + How does this work with unrealized array functions, or realized ones? Like .at(index).
