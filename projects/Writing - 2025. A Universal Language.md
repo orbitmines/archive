@@ -20,6 +20,8 @@ Subtitle
 
 ---
 
+A programming language centered around several key thoughts, namely:
+
 Summarized:
 - "Whenever you have one of something, what if you had more of that thing"
 - "The halting of any part of any program is unknown. It is therefore a rephrasing of the problem of (1) how many resources you dedicate to which problem and (2) how you deal with intermediate results."
