@@ -26,7 +26,7 @@ Summarized:
 - "Whenever you have one of something, what if you had more of that thing"
 - "The halting of any part of any program is unknown. It is therefore a rephrasing of the problem of (1) how many resources you dedicate to which problem and (2) how you deal with intermediate results/variables."
 - Structure is innate, something more general than, yet similar to graphs
-- One should be able to mix and combine programming languages. (Once knowledge of types of structure, syntax and control-flow at any abstraction layer exists.) - Control-flow is the hardest here?
+- One should be able to mix and combine programming languages. (Once knowledge of types of structure, syntax and control-flow at any abstraction layer exists.) - Of which control-flow is the hardest, which we can separate in the even harder "actual control flow" (for some "perceived actual execution layer") and some abstraction we suppose is the control flow.
 
 - Whereas usual graphs, we concern ourselves with vertices and edges, this is a rephrasing to a [Does the state of a ray have a more intuitive name?]. Which encompasses both what it means to be vertex and edge.
 
