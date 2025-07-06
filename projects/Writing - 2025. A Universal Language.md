@@ -98,9 +98,6 @@ Implemented in:
 Playername is similar to settings like Utf-8 in that it is some library one associates with themselves. 
 -> Can be set to some field which using a string, but string with different characters, say only letters and spaces.
 
-Later requirements:
-Multiplayer
-
 
 Things like the welcome screen are alterable, what happens when there's an update to the original? Any branches off the original screen should have some way of "plug any updates here automatically" " but this is changed/overridden"
 
@@ -117,6 +114,7 @@ Initial setup uses some html renderer until the language can express the require
 	- [ ] Apply the same version control system on the version control system itself. 
 - Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
 - [ ] "Compile to" infrastructure
+- Multiplayer
 
 ###### Examples
 - varargs as pattern match: What function parameters really are, is some pattern matched on a structure, and names attached to different parts of that pattern. Take for instance, varargs: [a, b, ...z]
