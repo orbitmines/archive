@@ -65,6 +65,46 @@ How far can you get with the limited controller interfaces in navigating a progr
 - Copying means what now? with the automatic splits (related to caching?)
 
 
+---
+
+##### Rendering Engine
+
+Engine/Project name: ??
+The Ether 
+
+First startup:
+Greetings! 
+[Player name]
+Second startup:
+Greetings, [Player name]
+
+Rendering Engine
+
+Typeface
+Character encodings:
+- ASCII
+- UTF-8
+Language preference & default (automatic translation overlapped with specific translations - for words or sentence references)
+Colors
+Shapes
+Images
+
+
+Implemented in:
+- html
+- threejs
+-
+
+Playername is similar to settings like Utf-8 in that it is some library one associates with themselves. 
+-> Can be set to some field which using a string, but string with different characters, say only letters and spaces.
+
+Later requirements:
+Multiplayer
+
+
+Things like the welcome screen are alterable, what happens when there's an update to the original? Any branches off the original screen should have some way of "plug any updates here automatically" " but this is changed/overridden"
+
+Initial setup uses some html renderer until the language can express the requirements for a renderer in itself 
 
 ---
 ###### After Restructure
