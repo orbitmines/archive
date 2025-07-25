@@ -104,6 +104,34 @@ Things like the welcome screen are alterable, what happens when there's an updat
 Initial setup uses some html renderer until the language can express the requirements for a renderer in itself 
 
 ---
+
+###### Worlds
+
+Some other primitive instantiation like function, but imbued with a minimap/item (artifact)/world -like property. With possible internal dynamics, yet still usuable like a function (to some other structure (type)). 
+
+- Similar to function a world like that can be influenced by surrounding context (say the rest of the project/language/file. Or even exotic things like abnormal deviations from execution semantics.
+
+  
+
+Indexed similar to function by a name, but also a symbol/image/structure.
+
+  
+
+The the location the "item/spell/world" is applied to similarly has to acknowledge/allow acess to it, whether read, or some other "write"/interact access the function is supposed to alter it. 
+
+  
+
+("The location" here, automatically also links to a separate UI interface which is a way of selecting that kind of location. Or in the code sense it would remain with text.)
+
+  
+
+That way you can have arbitrary functions on one side, being passed to some location, which in turn needs to accept/allow certain kinds of interaction.
+
+  
+
+icon/structure/minimap; are different rendering perspectives
+
+---
 ###### After Restructure
 - Function discovery
 - Compression/Geodesics
