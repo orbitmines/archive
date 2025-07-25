@@ -56,7 +56,7 @@ Discovery data
 
 ---
 
-Dark matter just means less spatial connections/structure furt
+Dark matter just means less spatial connections/structure further away in the disk of a galaxy. (Less structure -> faster moving relative to) So, less matter less spatial structure? Could you test this by seeing minor distortions of light coming from other galaxies?
 
 ---
 
