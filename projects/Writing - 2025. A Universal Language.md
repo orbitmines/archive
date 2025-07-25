@@ -127,9 +127,16 @@ The the location the "item/spell/world" is applied to similarly has to acknowled
 
 That way you can have arbitrary functions on one side, being passed to some location, which in turn needs to accept/allow certain kinds of interaction.
 
-  
 
 icon/structure/minimap; are different rendering perspectives
+
+
+What about returning a program as a next step? Say you'd have some projectile, which is a function applied to a location, returning a program which applies it to the next location. Keep doing that until? 
+
+Function is applied to location (or type x)
+Item is applied to location (or player or type x)
+
+**Item and functions have a user/player attached to them.**
 
 ---
 ###### After Restructure
