@@ -56,6 +56,10 @@ Discovery data
 
 ---
 
+Dark matter just means less spatial connections/structure furt
+
+---
+
 .move but something is blocking the way so move becomes . interact, how then does pushing something work? Start tries to move but can't, and will try to keep moving but instead interacts, until it can move, then the next layer.
 
 ---
