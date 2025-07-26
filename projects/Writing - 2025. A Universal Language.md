@@ -34,6 +34,7 @@ Summarized:
 
 - Whereas usual graphs, we concern ourselves with vertices and edges, this is a rephrasing to a [Does the state of a ray have a more intuitive name?]. Which encompasses both what it means to be vertex and edge.
 
+- A programming language which is an IDE which is an operating system which is a game
 - A language where the possibility of multiple branches/possibilities is native.
 - (The initial implementation with thing like keywords, should be changeable from some base.)
 
@@ -105,6 +106,44 @@ Initial setup uses some html renderer until the language can express the require
 
 ---
 
+###### Editor
+
+
+Up, valculate character at x level, go to there, monospace would be the same x coordinate
+
+Drag and drop something like a typeface into the program, get an object to do things on, like .set default typeface
+
+Whenever you change the interface like that, confirm in 30s or it goes back.
+
+
+Natively LLM lock from query to target where target is some fixed name from a map of keys. Technically these could be arbitrary structure again, how to put that in the language model? How to select from all possible contextually set values. Also add memory in the sense of particular keystrokes resolve to some value. (Like ide templates) And historically found maps also influence the mapping
+
+Show the LLM query as code, which executes some underlying code. So things like if <>
+
+Hold something like ALT + click to spring new window at location when starting to type.
+
+Alternative to using dots . to call functions, use spaces like a terminal command git clone arg arg -arg. 
+
+Directory is similarly just some command matching to some structure as /*/ (looped). You want things like select directory location, then apply function there like .open or other manipulation once it's selected as an object.
+
+Directory string type is ([A-Z]:)?/(dir name)/? looped, and then we define operations like .open() you on type Directory. 
+
+"on startup" enter, enters a new file ; file more generally as context, which is hooked to startup, after all the other startup scripts. Then some way to open the startup script which serially shows all the contexts as if they were a single file/context - since there is an order to them.
+
+"directory string" enter, then genereally any . method that follows is using rhe most recent variable declaration. But the result of .open wouldn't be a declaration (unluss explicitly typed) - others this would change the most recent for
+
+No "" or ' for strings, use tab or enter to exit it as a token. Use ctrl enter/tab for \t en \n. If accepting function doesn't allow for a space in the current position, space too exits the token. 
+
+Mouse hover next to it should allow you to exit the context too (in case of people forgetting the tab for instance) visually a terminal button shows up?
+
+A single ray is called Context?
+
+Ray functionality is at RAY.<> =, 
+
+~= Additional assignment, nonoverriding
+
+
+---
 ###### Worlds
 
 Some other primitive instantiation like function, but imbued with a minimap/item (artifact)/world -like property. With possible internal dynamics, yet still usuable like a function (to some other structure (type)). 
