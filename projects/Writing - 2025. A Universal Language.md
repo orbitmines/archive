@@ -51,6 +51,7 @@ Summarized:
 - Runtime/Traversal
 	
 - Version Control
+	- General notion of merges cross the "OS", if highly customized, more chance of having to merge stuff. What stuff can be partially merged, what stuff cancels the "whole" update? 
 - History/causal graph and other mapping like a branchial graph
 	- Can have a history, but no current value 
 - Theorem Proving System
