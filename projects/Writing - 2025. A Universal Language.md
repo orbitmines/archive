@@ -137,8 +137,6 @@ No "" or ' for strings, use tab or enter to exit it as a token. Use ctrl enter/t
 
 Mouse hover next to it should allow you to exit the context too (in case of people forgetting the tab for instance) visually a terminal button shows up?
 
-A single ray is called Context?
-
 Ray functionality is at RAY.<> =, 
 
 ~= Additional assignment, nonoverriding
