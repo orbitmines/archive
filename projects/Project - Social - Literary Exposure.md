@@ -88,6 +88,9 @@ console.log(res);
 - :youtube: [MSP 101: Generalisation in LLMs (Petar Veličković) (2025)](https://www.youtube.com/watch?v=7Z144Ymohd0) ;  **
 - :youtube: [Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471 (2025)](https://www.youtube.com/watch?v=9V6tWC4CdFQ) ;  **
 - :youtube: [Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472 (2025)](https://www.youtube.com/watch?v=HUkBz-cdB-k) ;  **
+- :youtube: [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474 (2025)](https://www.youtube.com/watch?v=vagyIcmIGOQ) ;  **
+- :youtube: [Mindscape 323 | Jacob Barandes on Indivisible Stochastic Quantum Mechanics (2025)](https://www.youtube.com/watch?v=gINYis8BgSY) ;  **
+- :youtube: [#23 Geraint Lewis - Fine-Tuning, Multiverse, Cosmological Tensions (2025)](https://www.youtube.com/watch?v=OejwZqh-F9U&t=29s) ;  **
 
 # 2025, March-May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
