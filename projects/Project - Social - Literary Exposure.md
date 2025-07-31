@@ -87,7 +87,7 @@ console.log(res);
 ### Literary Exposure
 - :youtube: [MSP 101: Generalisation in LLMs (Petar Veličković) (2025)](https://www.youtube.com/watch?v=7Z144Ymohd0) ;  **
 - :youtube: [Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471 (2025)](https://www.youtube.com/watch?v=9V6tWC4CdFQ) ;  **
-
+- :youtube: [Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472 (2025)](https://www.youtube.com/watch?v=HUkBz-cdB-k) ;  **
 
 # 2025, March-May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
