@@ -85,7 +85,10 @@ console.log(res);
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- :youtube: [MSP 101: Generalisation in LLMs (Petar Veličković) (2025)](https://www.youtube.com/watch?v=7Z144Ymohd0) ;  **
+- [Ready Player One (2011)](https://en.wikipedia.org/wiki/Ready_Player_One) ; *Ernest Cline*
+- [Ready Player Two (2011)](https://en.wikipedia.org/wiki/Ready_Player_One) ; *Ernest Cline*
+
+- :youtube: [MSP 101: Generalisation in LLMs (Petar Veličković) (2025)](https://www.youtube.com/watch?v=7Z144Ymohd0) ;  *Petar Veličković*
 - :youtube: :lex_fridman_podcast: [Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471 (2025)](https://www.youtube.com/watch?v=9V6tWC4CdFQ) ;  *Sundar Pichai, Lex Fridman*
 - :youtube: :lex_fridman_podcast: [Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472 (2025)](https://www.youtube.com/watch?v=HUkBz-cdB-k) ;  *Terence Tao, Lex Fridman*
 - :youtube: :lex_fridman_podcast: [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474 (2025)](https://www.youtube.com/watch?v=vagyIcmIGOQ) ;  *David Heinemeier Hansson, Lex Fridman*
