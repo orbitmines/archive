@@ -82,10 +82,10 @@ console.log(res);
 
 ![[Pasted image 20240604084826.png]]
 
-# 2025, June - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+# 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- 
+- :youtube: [MSP 101: Generalisation in LLMs (Petar Veličković) (2025)](https://www.youtube.com/watch?v=7Z144Ymohd0) ;  **
 
 # 2025, March-May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
