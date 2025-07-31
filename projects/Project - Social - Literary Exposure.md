@@ -86,12 +86,12 @@ console.log(res);
 
 ### Literary Exposure
 - :youtube: [MSP 101: Generalisation in LLMs (Petar Veličković) (2025)](https://www.youtube.com/watch?v=7Z144Ymohd0) ;  **
-- :youtube: :lex_fridman_podcast: [Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471 (2025)](https://www.youtube.com/watch?v=9V6tWC4CdFQ) ;  **
-- :youtube: :lex_fridman_podcast: [Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472 (2025)](https://www.youtube.com/watch?v=HUkBz-cdB-k) ;  **
-- :youtube: :lex_fridman_podcast: [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474 (2025)](https://www.youtube.com/watch?v=vagyIcmIGOQ) ;  **
-- :youtube: :lex_fridman_podcast: [Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475 (2025)](https://www.youtube.com/watch?v=-HzgcbRXUK8&t=8677s) ;  **
+- :youtube: :lex_fridman_podcast: [Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471 (2025)](https://www.youtube.com/watch?v=9V6tWC4CdFQ) ;  *Sundar Pichai, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472 (2025)](https://www.youtube.com/watch?v=HUkBz-cdB-k) ;  *Terence Tao, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474 (2025)](https://www.youtube.com/watch?v=vagyIcmIGOQ) ;  *David Heinemeier Hansson, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475 (2025)](https://www.youtube.com/watch?v=-HzgcbRXUK8&t=8677s) ;  *Demis Hassabis, Lex Fridman*
 - :youtube: :mindscape: [Mindscape 323 | Jacob Barandes on Indivisible Stochastic Quantum Mechanics (2025)](https://www.youtube.com/watch?v=gINYis8BgSY) ;  *Jacob Barandes, Sean Carroll*
-- :youtube: :cool_worlds_podcast: [#23 - Fine-Tuning, Multiverse, Cosmological Tensions (2025)](https://www.youtube.com/watch?v=OejwZqh-F9U&t=29s) ;  *Geraint Lewis, *
+- :youtube: :cool_worlds_podcast: [#23 - Fine-Tuning, Multiverse, Cosmological Tensions (2025)](https://www.youtube.com/watch?v=OejwZqh-F9U&t=29s) ;  *Geraint Lewis, David Kipping*
 
 # 2025, March-May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
