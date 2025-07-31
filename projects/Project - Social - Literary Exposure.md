@@ -84,6 +84,9 @@ console.log(res);
 
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
+### Attended Events
+- :semf: [SEMF School of 2025](https://www.ngi.eu/event/ngi-forum-2023/)
+
 ### Literary Exposure
 - [Ready Player One (2011)](https://en.wikipedia.org/wiki/Ready_Player_One) ; *Ernest Cline*
 - [Ready Player Two (2020)](https://en.wikipedia.org/wiki/Ready_Player_Two) ; *Ernest Cline*
