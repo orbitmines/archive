@@ -110,6 +110,7 @@ Initial setup uses some html renderer until the language can express the require
 
 ###### Editor
 
+2 ^ 32, should render as superscript 32, and backspace 
 
 Up, valculate character at x level, go to there, monospace would be the same x coordinate
 
