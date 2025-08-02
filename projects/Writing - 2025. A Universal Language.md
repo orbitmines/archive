@@ -43,6 +43,7 @@ Summarized:
 
 **TODO**
 - Types, Grammars, Pattern-matching
+	- Implement Backus-Naur Form, implement WASM, implement regex.
 - Functions
 	- Programs
 - Control-flow & programs
