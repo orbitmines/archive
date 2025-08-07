@@ -615,3 +615,41 @@ export const raw_tag = (value: any) => {
 }
 export const to_string = (value: any): String => Object.prototype.toString.call(value);
 ```
+
+
+---
+
+My project is the following: The creation of a universal language which allows one to specify the syntax and control flow of existing programming languages. 
+
+A few key thoughts in the project:
+- "Whenever you have one of something, what if you had more of that thing"
+- "The halting of any part of any program is unknown. It is therefore a rephrasing of the problem of (1) how many resources you dedicate to which problem and (2) how you deal with intermediate results/variables."
+- Structure is innate, something more general than, yet similar to graphs
+- One should be able to mix and combine programming languages. (Once knowledge of types of structure, syntax and control-flow at any abstraction layer exists.) - Of which control-flow is the hardest, which we can separate in the even harder "actual control flow" (for some "perceived actual execution layer") and some abstraction we suppose is the control flow.
+
+Central to the project is that of the data structure on which this system will run. Which is the problem I'm addressing now and I'd like a sparring partner for, which is where you come in:
+
+This datastructure is more general than hypergraphs: Namely, it can deal with overlapping hypergraphs, overlapping in the sense that nodes are shared with multiple graphs. A simple example is the following graph which is a binary number.
+
+Say I'd want to display the number 01101, usually you'd have: 5 Nodes: A-B-C-D-E (each corresponding to a single digit). Now where this overlap comes in, is that the value of a Node, say Node A which is 0. Is itself another graph. AKA numbers are graphs which are programs. So I'd have another graph two nodes called 0 and 1 (the possibly values of the binary number). Then we assume there's an intersection at Node A at 0. And that's how we know the value of A.
+
+As you can see this way, everything reduces to this graph structure. You can visualize this the following way:
+```
+ |
+ 1
+ |
+-0-B-C-D-E-
+ |
+```
+Then respectively, for B-C-D-E you could fill the values.  either 0 and 1, by adding overlapping graphs. This would be:
+
+```
+ | |
+ 1 1
+ | |
+-0-1-1-D-E-
+ | | | | 
+```
+
+Though the exact implementation of this data structure is something I'm still working on, it looks something like this: 3 values, initial, value and terminal. Like a linked-list initial defining what came before this node, terminal what comes after. And value holds the intersecting graphs which define the values like in the example.
+Then if there's no value at initial, this can be interpreted as an edge. "value" being what defines the edge, and "terminal" 
