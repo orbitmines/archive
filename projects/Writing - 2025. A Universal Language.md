@@ -656,6 +656,12 @@ Then respectively, for B-C-D-E you could fill the values.  either 0 and 1, by ad
 Though the exact implementation of this data structure is something I'm still working on, it looks something like this: 3 values, initial, value and terminal. Like a linked-list initial defining what came before this node, terminal what comes after. And value holds the intersecting graphs which define the values like in the example.
 Then if there's no value at initial, this can be interpreted as an edge. "value" being what defines the edge, and "terminal" being the first vertex the edge goes to. In the example you can see the dangling edges like this denoted with a '-' or '|'.
 
+Additionally there's an important concept called "Conditional Structures". Though not yet well-defined, this allows one to construct types, as I'll allude to in the files provided below. It allows you to say thing like this structure OR that structure, pick one. This way you can construct a concept like booleans like this:
+
+```
+-(0 OR 1)-(0 OR 1)-
+```
+
 Here is some additional context of the project, some preliminary implementations with comments which are all still rudimentary, but important:
 
-//
+// ray2.ts (The new implementation I'm now working on with the most recent thougts worked on.)
