@@ -644,11 +644,13 @@ As you can see this way, everything reduces to this graph structure. You can vis
 Then respectively, for B-C-D-E you could fill the values.  either 0 and 1, by adding overlapping graphs. This would be:
 
 ```
- | |
- 1 1
- | |
--0-1-1-D-E-
- | | | | 
+ |     |
+ 1     1
+ | | | | |
+-0-1-1-0-1- (-A-B-C-D-E-)
+ | | | | |
+   0 0   0
+   | |   |
 ```
 
 Though the exact implementation of this data structure is something I'm still working on, it looks something like this: 3 values, initial, value and terminal. Like a linked-list initial defining what came before this node, terminal what comes after. And value holds the intersecting graphs which define the values like in the example.
