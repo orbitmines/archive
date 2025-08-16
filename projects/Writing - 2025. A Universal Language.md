@@ -192,7 +192,7 @@ Item is applied to location (or player or type x)
 - Multiplayer
 
 ###### Examples
-- 2d finite vs infinite grid, x-y axis, equal in length, every next value is not in all the other axis (stable 2d growth at each step) .dimensionality() == 2 (AND) .dimensionality change at every point is constant. 2d grid of overlapping graphs for X/Y vs a normal single graph with dimensionality 2. (every x goes to an x, every y goes to an )
+- 2d finite vs infinite grid, x-y axis, equal in length, every next value is not in all the other axis (stable 2d growth at each step) .dimensionality() == 2 (AND) .dimensionality change at every point is constant. 2d grid of overlapping graphs for X/Y vs a normal single graph with dimensionality 2. (every x goes to an x, every y goes to a y)
 - varargs as pattern match: What function parameters really are, is some pattern matched on a structure, and names attached to different parts of that pattern. Take for instance, varargs: [a, b, ...z]
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
 - 2d grid expansion as an example base rewrite rule, "expand loop"
