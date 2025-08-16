@@ -193,6 +193,7 @@ Item is applied to location (or player or type x)
 
 ###### Examples
 - 2d finite vs infinite grid, x-y axis, equal in length, every next value is not in all the other axis (stable 2d growth at each step) .dimensionality() == 2 (AND) .dimensionality change at every point is constant. 2d grid of overlapping graphs for X/Y vs a normal single graph with dimensionality 2. (every x goes to an x, every y goes to a y)
+- Object as a type is a list of KV pairs, so type is a loop of KV pairs, where that loop is on the context equivalency ray. keys are unique
 - varargs as pattern match: What function parameters really are, is some pattern matched on a structure, and names attached to different parts of that pattern. Take for instance, varargs: [a, b, ...z]. .OR on zero-length terminal to a vertex.
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
 - 2d grid expansion as an example base rewrite rule, "expand loop"
