@@ -192,6 +192,7 @@ Item is applied to location (or player or type x)
 - Multiplayer
 
 ###### Examples
+- 2d finite vs infinite grid
 - varargs as pattern match: What function parameters really are, is some pattern matched on a structure, and names attached to different parts of that pattern. Take for instance, varargs: [a, b, ...z]
 - Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
 - 2d grid expansion as an example base rewrite rule, "expand loop"
