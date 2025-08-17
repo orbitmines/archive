@@ -64,6 +64,9 @@ How far can you get with the limited controller interfaces in navigating a progr
 
 ---
 
+"Could have infinite context"
+
+---
 
 - Copying means what now? with the automatic splits (related to caching?)
 
