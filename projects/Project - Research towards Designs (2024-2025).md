@@ -72,6 +72,8 @@ Read
 
 #### Interface Design
 
+- How do you make spatial propagation hard/limit it in a distributed sense when usually one can just skip a 
+
 - Any interface, hooks(/finds) unbound controls. Any follow-up changes hence possibly effected. Can be unbound, superposed, etc.. 
 	- ; Latching of controls, defaults of controls from context. ; Additional controls based on kind of interface etc..
 	- Basically move this aspects to [[Project - Indexing existing Abstract Models (2024-2025?)]]
