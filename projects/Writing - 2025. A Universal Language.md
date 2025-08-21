@@ -39,7 +39,7 @@ Summarized:
 - (The initial implementation with thing like keywords, should be changeable from some base.)
 
 
-- Though I'd like to 
+- Though I'd like to step away from the limitations of a text file, all programming infrastructure is based
 
 **TODO**
 - Types, Grammars, Pattern-matching
