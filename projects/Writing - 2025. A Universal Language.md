@@ -39,7 +39,7 @@ Summarized:
 - (The initial implementation with thing like keywords, should be changeable from some base.)
 
 
-- Though I'd like to step away from the limitations of a text file, all programming infrastructure relies on it. A move away from it, will require additional infrastructure, like the IDE and version control.  So ideally we'd like a way to translate the language into a text-based format. Which is where `.ray.txt` comes in.
+- Though I'd like to step away from the limitations of a text file, all programming infrastructure relies on it. A move away from it, will require additional infrastructure, like the IDE and version control. Even if all that is in place, it would still be good if we're able to use existing infrastructure. So ideally we'd like a way to translate the language into a text-based format. Which is where `.ray.txt` comes in.
 
 **TODO**
 - Types, Grammars, Pattern-matching
