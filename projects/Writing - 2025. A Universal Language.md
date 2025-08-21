@@ -39,7 +39,7 @@ Summarized:
 - (The initial implementation with thing like keywords, should be changeable from some base.)
 
 
-
+- Though I'd like to 
 
 **TODO**
 - Types, Grammars, Pattern-matching
