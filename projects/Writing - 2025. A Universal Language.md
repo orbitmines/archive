@@ -56,7 +56,7 @@ Summarized:
 - History/causal graph and other mapping like a branchial graph
 	- Can have a history, but no current value 
 - Theorem Proving System
-
+- Analyses and injection of existing binaries/programming languages.
 
 ---
 
