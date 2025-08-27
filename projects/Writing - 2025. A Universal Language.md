@@ -58,6 +58,7 @@ Summarized:
 - Theorem Proving System
 - Analyses and injection of existing binaries/programming languages.
 - `ray` CLI
+- IntelliJ & VS Code extension
 
 ---
 
