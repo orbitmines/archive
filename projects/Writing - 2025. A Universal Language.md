@@ -72,7 +72,7 @@ How far can you get with the limited controller interfaces in navigating a progr
 
 - Copying means what now? with the automatic splits (related to caching?)
 
-
+- Again we ask outselves, what's the actual purpose of generics, or polymorphism in the functiona
 ---
 
 ##### Rendering Engine
