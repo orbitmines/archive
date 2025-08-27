@@ -86,7 +86,8 @@ console.log(res);
 
 ### Literary Exposure
 - [Crafting Interpreters (2021)](https://www.craftinginterpreters.com/) ; *Robert Nystrom*
-- [Functional Programming in Lean (2023)](https://lean-lang.org/functional_programming_in_lean/ ; *David Thrane Christiansen*
+- [Functional Programming in Lean (2023)](https://lean-lang.org/functional_programming_in_lean/) ; *David Thrane Christiansen*
+- 
 
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
