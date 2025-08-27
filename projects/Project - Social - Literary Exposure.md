@@ -85,7 +85,7 @@ console.log(res);
 # 2025, August - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- [Crafting Interpreters (2011)](https://en.wikipedia.org/wiki/Ready_Player_One) ; *Ernest Cline*
+- [Crafting Interpreters (2021)](https://www.craftinginterpreters.com/) ; *Robert Nystrom*
 
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
