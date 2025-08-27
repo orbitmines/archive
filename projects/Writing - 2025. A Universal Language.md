@@ -58,7 +58,7 @@ Summarized:
 - Theorem Proving System
 - Analyses and injection of existing binaries/programming languages.
 - `ray` CLI
-- IntelliJ & VS Code extension
+- IntelliJ & VS Code extension (Can we use a popup window/context on the side to have interactive graphs?)
 
 ---
 
@@ -72,7 +72,7 @@ How far can you get with the limited controller interfaces in navigating a progr
 
 - Copying means what now? with the automatic splits (related to caching?)
 
-- Again we ask ourselves, what's the actual purpose of generics (or polymorphism in the functional programming in sense) ; It's the ability to partially fill variables 
+- Again we ask ourselves, what's the actual purpose of generics (or polymorphism in the functional programming in sense) ; It's the ability to partially fill variables. Take for instance ...
 ---
 
 ##### Rendering Engine
