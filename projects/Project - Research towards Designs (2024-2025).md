@@ -177,8 +177,55 @@ Rendering Engine
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
-###
+Desktop environment which is a 3d room with items/files in specific places. cudtom look in 3d rendering. like a book or a project. Search highlights the in 3d place. Hide stuff "in the air" at certain locations. Access the environment in the usual text/terminal format, define searchfunctions in that or 3d format
 
+Instead of having the entire 3d structure in memory different nodes of "in between with distance x", allow overlapping 
+
+#### open questions
+Reconceptualize a problem as movement in some structure. A toy example would be finding a path from A->B by hand, and having a tool which automatically explores in a particular way (tactic).
+
+What would be a problem to translate?
+
+What would be its structure?
+
+What tools (tactics basically) would be used?
+
+How does one apply the tools?
+
+What would be intermediate feedback states to communicate?
+
+How do we know we've reached a solution?
+
+What would be an example of a whole class of problems which are solved by some solution?
+
+What select which problems are interesting to solve? / Which problems are open and their effect if solved. (Effect might be access to unknown structures, how is that quantified)
+
+Which problems are much harder than simple navigation. Like exponentially exploding search spaces like possible programs?
+
+Some currency of how much (efficiency) is gained 
+
+How would you rephrase a programming language into an interactive tool which doesn't make use of variable names and much keyboard input besides moving?
+
+Which problems are NOT translatable?
+
+Which problems are easily translatable?
+
+What about dynamic spaces? Is it searching for a specific type of behavior.
+
+
+---
+
+Example problems:
+- cryptography problem (for certain problems you could have a timer on how it would take some tactic to solve it)
+- theorem proving (can you reach or prove to not reach a certain state).
+  -> Every problem is like this
+- Search for equivalent but more efficient programs
+   - Some importance on their usage -> What's the effect that's caused by some optimization 
+- Search for equivalencies (vague?)
+- program writing
+- 
+ 
+These are all abstract examples, I need something concrete 
 ---
 
 Non-trivial interfaces
