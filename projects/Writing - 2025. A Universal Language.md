@@ -75,6 +75,9 @@ How far can you get with the limited controller interfaces in navigating a progr
 - Again we ask ourselves, what's the actual purpose of generics (or polymorphism in the functional programming in sense) ; It's the ability to partially fill variables. Take for instance ...
 ---
 
+Version control: New version of a function is proved to not be equivalent
+
+---
 ##### Rendering Engine
 
 Engine/Project name: ??
