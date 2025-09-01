@@ -89,6 +89,8 @@ console.log(res);
 - [Functional Programming in Lean (2023)](https://lean-lang.org/functional_programming_in_lean/) ; *David Thrane Christiansen*
 - [Leviathan Wakes (2011)](https://en.wikipedia.org/wiki/Leviathan_Wakes) ; *James S. A. Corey*
 
+- 
+
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Attended Events
