@@ -75,6 +75,10 @@ How far can you get with the limited controller interfaces in navigating a progr
 - Again we ask ourselves, what's the actual purpose of generics (or polymorphism in the functional programming in sense) ; It's the ability to partially fill variables. Take for instance ...
 ---
 
+All other type definitions change the overlapping graphs defined on .vertex. Not the structure of the type.
+
+---
+
 Version control: New version of a function is proved to not be equivalent in some way, is it necessary to notify the user of that? Which non-equivalences dont matter, many would not.
 
 ---
