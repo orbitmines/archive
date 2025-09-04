@@ -88,6 +88,7 @@ console.log(res);
 - [Crafting Interpreters (2021)](https://www.craftinginterpreters.com/) ; *Robert Nystrom*
 - [Functional Programming in Lean (2023)](https://lean-lang.org/functional_programming_in_lean/) ; *David Thrane Christiansen*
 - [Reflections on Equality (2020)](https://amelia.how/posts/reflections-on-equality.html) ; *Amélia Liao*
+- 
 
 - [Leviathan Wakes (2011)](https://en.wikipedia.org/wiki/Leviathan_Wakes) ; *James S. A. Corey*
 
