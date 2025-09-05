@@ -30,7 +30,7 @@ find ./_/attachments/read/ -type f -newermt 2023-12-01 | sort | uniq | grep /rea
 const policy = window.trustedTypes?.createPolicy("default", {createHTML: (input) => input});
 
 console.log([...document.querySelectorAll("#video-title")].filter(video => video.title !== '').forEach(video => {
-	video.insertAdjacentHTML("afterend", policy.createHTML(`<div><input type="text" value="- :youtube: [${video.title.replaceAll("\"", "\\\"")} (2025)](${video.href}) ;  **" readonly> <button onclick="this.previousElementSibling.select();document.execCommand('copy');">Copy</button></div>`));
+	video.insertAdjacentHTML("afterend", policy.createHTML(`<div><input type="text" value="- :youtube: [${video.title.replaceAll("\"", "&quot;")} (2025)](${video.href}) ;  **" readonly> <button onclick="this.previousElementSibling.select();document.execCommand('copy');">Copy</button></div>`));
 }))
 
 
@@ -93,6 +93,7 @@ console.log(res);
 
 - [Leviathan Wakes (2011)](https://en.wikipedia.org/wiki/Leviathan_Wakes) ; *James S. A. Corey*
 
+- :youtube: ["Cubical types for the working formalizer" (2024)](https://www.youtube.com/watch?v=rhZAkHDo-r4&t=1s) ;  *Amélia Liao*
 - :youtube: :strangeloop: [A Little Taste of Dependent Types (2018)](https://www.youtube.com/watch?v=VxINoKFm-S4&ab_channel=StrangeLoopConference) ; *David Thrane Christiansen*
 - :youtube: :cool_worlds_podcast: [#24 - Modern Cosmology, Hubble Tension, Exotic Physics (2025)](https://www.youtube.com/watch?v=FkC-kVC2IRA) ;  *Colin Hill, David Kipping*
 - :youtube: :lex_fridman_podcast: [Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | #479 (2025)](https://www.youtube.com/watch?v=HsLgZzgpz9Y) ;  *Dave Plummer, Lex Fridman*
