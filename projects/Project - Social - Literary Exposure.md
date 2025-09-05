@@ -93,7 +93,7 @@ console.log(res);
 
 - [Leviathan Wakes (2011)](https://en.wikipedia.org/wiki/Leviathan_Wakes) ; *James S. A. Corey*
 
-- :strangeloop: [A Little Taste of Dependent Types (2018)](https://www.youtube.com/watch?v=VxINoKFm-S4&ab_channel=StrangeLoopConference) ; *David Thrane Christiansen*
+- :youtube: :strangeloop: [A Little Taste of Dependent Types (2018)](https://www.youtube.com/watch?v=VxINoKFm-S4&ab_channel=StrangeLoopConference) ; *David Thrane Christiansen*
 - :youtube: :cool_worlds_podcast: [#24 - Modern Cosmology, Hubble Tension, Exotic Physics (2025)](https://www.youtube.com/watch?v=FkC-kVC2IRA) ;  *Colin Hill, David Kipping*
 
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
