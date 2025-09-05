@@ -88,6 +88,7 @@ console.log(res);
 - [Crafting Interpreters (2021)](https://www.craftinginterpreters.com/) ; *Robert Nystrom*
 - [Functional Programming in Lean (2023)](https://lean-lang.org/functional_programming_in_lean/) ; *David Thrane Christiansen*
 - [Reflections on Equality (2020)](https://amelia.how/posts/reflections-on-equality.html) ; *Amélia Liao*
+- [Reflections on Equality (2020)](https://amelia.how/posts/reflections-on-equality.html) ; *Amélia Liao*
 - [Abstract Interpretation in a Nutshell (2005)](https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html) ; *Patrick Cousot*
 - [Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints (1977)](https://dl.acm.org/doi/pdf/10.1145/512950.512973) ; *Patrick Cousot, Radhia Cousot*
 
