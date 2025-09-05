@@ -94,11 +94,11 @@ console.log(res);
 - [Leviathan Wakes (2011)](https://en.wikipedia.org/wiki/Leviathan_Wakes) ; *James S. A. Corey*
 
 - :youtube: :strangeloop: [A Little Taste of Dependent Types (2018)](https://www.youtube.com/watch?v=VxINoKFm-S4&ab_channel=StrangeLoopConference) ; *David Thrane Christiansen*
-- :youtube: [
 - :youtube: :cool_worlds_podcast: [#24 - Modern Cosmology, Hubble Tension, Exotic Physics (2025)](https://www.youtube.com/watch?v=FkC-kVC2IRA) ;  *Colin Hill, David Kipping*
 - :youtube: :lex_fridman_podcast: [Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | #479 (2025)](https://www.youtube.com/watch?v=HsLgZzgpz9Y) ;  *Dave Plummer, Lex Fridman*
-- :youtube: [Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480 (2025)](https://www.youtube.com/watch?v=-Qm1_On71Oo) ;  *Dave Hone*
+- :youtube: :lex_fridman_podcast: [Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | #480 (2025)](https://www.youtube.com/watch?v=-Qm1_On71Oo) ;  *Dave Hone, Lex Fridman*
 - :youtube: :wolfram_institute: [Quantum Theory as a New Kind of Stochastic Process (2025)](https://www.youtube.com/watch?v=JsmX3YxiUj0&t=4288s) ;  *Jacob Barandes*
+
 
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
