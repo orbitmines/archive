@@ -82,7 +82,7 @@ console.log(res);
 
 ![[Pasted image 20240604084826.png]]
 
-# 2025, August - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+# 2025, August-September - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
 - [Crafting Interpreters (2021)](https://www.craftinginterpreters.com/) ; *Robert Nystrom*
