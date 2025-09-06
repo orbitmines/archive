@@ -98,6 +98,7 @@ console.log(res);
 - :youtube: :strangeloop: ["Easy Abstract Interpretation with SPARTA" (2019)](https://www.youtube.com/watch?v=_fA7vkVJhF8&t=2s) ;  *Arnaud Venet, Jez Ng*
 - :youtube: :strangeloop: [A Little Taste of Dependent Types (2018)](https://www.youtube.com/watch?v=VxINoKFm-S4&ab_channel=StrangeLoopConference) ; *David Thrane Christiansen*
 - :youtube: :cool_worlds_podcast: [#24 - Modern Cosmology, Hubble Tension, Exotic Physics (2025)](https://www.youtube.com/watch?v=FkC-kVC2IRA) ;  *Colin Hill, David Kipping*
+- :youtube: :cool_worlds_podcast: [#25 - PBS Spacetime, Science on YouTube, Quasars (2025)](https://www.youtube.com/watch?v=V7QjrsadlKQ&t=5327s) ;  *Matt O'Dowd, David Kipping*
 - :youtube: :lex_fridman_podcast: [Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | #479 (2025)](https://www.youtube.com/watch?v=HsLgZzgpz9Y) ;  *Dave Plummer, Lex Fridman*
 - :youtube: :lex_fridman_podcast: [Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | #480 (2025)](https://www.youtube.com/watch?v=-Qm1_On71Oo) ;  *Dave Hone, Lex Fridman*
 - :youtube: :wolfram_institute: [Quantum Theory as a New Kind of Stochastic Process (2025)](https://www.youtube.com/watch?v=JsmX3YxiUj0&t=4288s) ;  *Jacob Barandes*
