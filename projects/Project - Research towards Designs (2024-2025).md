@@ -98,6 +98,7 @@ Read
 	- Some notion of not expecting people to explore by themselves - simplicity (vs others who do), and guiding a way to stimulate that exploration - some form of ???.
 
 - Experience/Mana/Energy - Gravity/Entropy
+- Use the emergent gravity idea from spatial density to construct spaces
 	- [[Project - Indexing existing Abstract Models (2024-2025?)]]#differentiability / [[Writing - 2025. A Universal Language]]#compresison - some merge between these things, or where should this be put?
 - 
 	- Similarly, crafting, resource constraints and how to translate that to how it influences what one can see ; What can I change about my infrastructure vs what can't I? ; "Energy aware contexts, is how people refer to it"
