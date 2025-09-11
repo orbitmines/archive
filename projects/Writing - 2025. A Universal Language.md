@@ -46,6 +46,7 @@ Summarized:
 **TODO**
 - Types, Grammars, Pattern-matching
 	- Implement Backus-Naur Form, implement WASM, implement regex.
+	- Conditional Types/Dependent types
 - Functions
 	- Programs
 - Control-flow & programs
