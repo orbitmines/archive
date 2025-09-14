@@ -93,6 +93,7 @@ Read
 		- [ ] Notify me when you've found something you deem relevant for this unknown (while we dont know how to solve some unknown)
 		- [ ] This would allow for the hooking of the process by a programmer: Hey while you're still working on this thing, perhaps [some answer to some function] should be considered, what would happen then? (Basically simulating an answer by a programmer ; some arbitrary process which hooks into a function)  
 		- [ ] Already start doing something while decision is pending - do the things which one can reverse?  
+	- You want to do things like "include this thing like a video", if one has access to that - for instance if it needs to be paid for cond, in this place in the rest of the structure.
 
 - Exploratory functionality ; people explore differently.
 	- Some notion of not expecting people to explore by themselves - simplicity (vs others who do), and guiding a way to stimulate that exploration - some form of ???.
