@@ -232,6 +232,9 @@ Example problems:
 These are all abstract examples, I need something concrete 
 ---
 
+- Existing programmi
+
+
 Non-trivial interfaces
 - [ ] Holotile floor, and things like it, more future-oriented search
 - [ ] Tacticle/body movements, ...m anything
