@@ -232,7 +232,7 @@ Example problems:
 These are all abstract examples, I need something concrete 
 ---
 
-- Existing programmi
+- Existing programming languages with a more constrained interface like a controller.
 
 
 Non-trivial interfaces
