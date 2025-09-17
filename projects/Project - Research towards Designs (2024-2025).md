@@ -206,7 +206,7 @@ What select which problems are interesting to solve? / Which problems are open a
 
 Which problems are much harder than simple navigation. Like exponentially exploding search spaces like possible programs?
 
-Some currency of how much (efficiency) is gained 
+Some currency of how much (efficiency/value --> What is the effect of this discovery) is gained 
 
 How would you rephrase a programming language into an interactive tool which doesn't make use of variable names and much keyboard input besides moving?
 
