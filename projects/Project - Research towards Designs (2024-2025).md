@@ -74,7 +74,7 @@ Read
 
 - Collapse blocks of code down to an english summarization of what the code does.
 
-- How do you make spatial propagation hard/limit it in a distributed sense when usually one can just skip ahead programmatically? 
+
 
 - Any interface, hooks(/finds) unbound controls. Any follow-up changes hence possibly effected. Can be unbound, superposed, etc.. 
 	- ; Latching of controls, defaults of controls from context. ; Additional controls based on kind of interface etc..
