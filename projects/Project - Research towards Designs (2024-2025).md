@@ -246,3 +246,5 @@ Keyboard
 
 Always, how detailed, how much context, how much can it latch on etc..
 - Drag from one point of contact on the background to another place
+
+- 'Install app' in browser for desktop/mobile
