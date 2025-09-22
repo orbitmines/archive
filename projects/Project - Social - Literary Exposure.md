@@ -104,7 +104,7 @@ console.log(res);
 - :youtube: [Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | #467 (2025)](https://www.youtube.com/watch?v=477qF6QNSvc&t=14990s) ;  *Tim Sweeney, Lex Fridman*
 - :youtube: :wolfram_institute: [Quantum Theory as a New Kind of Stochastic Process (2025)](https://www.youtube.com/watch?v=JsmX3YxiUj0&t=4288s) ;  *Jacob Barandes*
 - :youtube: [Keynote: Higher Inductive Types in Homotopy Type Theory (2019)](https://www.youtube.com/watch?v=AMJIsEBS-zk) ;  *Kristina Sojakova*
-- :youtube: [The Verse Programming Language | GDC 2023 (2025)](https://www.youtube.com/watch?v=5prkKOIilJg&t=1517s) ;  *Tim Sweeney, Phil Pizlo, Tim TIllotson*
+- :youtube: [The Verse Programming Language | GDC 2023 (2023)](https://www.youtube.com/watch?v=5prkKOIilJg&t=1517s) ;  *Tim Sweeney, Phil Pizlo, Tim TIllotson*
 
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
