@@ -94,7 +94,6 @@ console.log(res);
 
 - [Leviathan Wakes (2011)](https://en.wikipedia.org/wiki/Leviathan_Wakes) ; *James S. A. Corey*
 
-- :youtube: [The Verse Programming Language | GDC 2023 (2025)](https://www.youtube.com/watch?v=5prkKOIilJg&t=1517s) ;  *Tim Sweeney*
 - :youtube: :topos_institute: ["Cubical types for the working formalizer" (2024)](https://www.youtube.com/watch?v=rhZAkHDo-r4&t=1s) ;  *Amélia Liao*
 - :youtube: :strangeloop: ["Easy Abstract Interpretation with SPARTA" (2019)](https://www.youtube.com/watch?v=_fA7vkVJhF8&t=2s) ;  *Arnaud Venet, Jez Ng*
 - :youtube: :strangeloop: [A Little Taste of Dependent Types (2018)](https://www.youtube.com/watch?v=VxINoKFm-S4&ab_channel=StrangeLoopConference) ; *David Thrane Christiansen*
@@ -102,8 +101,10 @@ console.log(res);
 - :youtube: :cool_worlds_podcast: [#25 - PBS Spacetime, Science on YouTube, Quasars (2025)](https://www.youtube.com/watch?v=V7QjrsadlKQ&t=5327s) ;  *Matt O'Dowd, David Kipping*
 - :youtube: :lex_fridman_podcast: [Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | #479 (2025)](https://www.youtube.com/watch?v=HsLgZzgpz9Y) ;  *Dave Plummer, Lex Fridman*
 - :youtube: :lex_fridman_podcast: [Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | #480 (2025)](https://www.youtube.com/watch?v=-Qm1_On71Oo) ;  *Dave Hone, Lex Fridman*
+- :youtube: [Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | #467 (2025)](https://www.youtube.com/watch?v=477qF6QNSvc&t=14990s) ;  *Tim Sweeney, Lex Fridman*
 - :youtube: :wolfram_institute: [Quantum Theory as a New Kind of Stochastic Process (2025)](https://www.youtube.com/watch?v=JsmX3YxiUj0&t=4288s) ;  *Jacob Barandes*
 - :youtube: [Keynote: Higher Inductive Types in Homotopy Type Theory (2019)](https://www.youtube.com/watch?v=AMJIsEBS-zk) ;  *Kristina Sojakova*
+- :youtube: [The Verse Programming Language | GDC 2023 (2025)](https://www.youtube.com/watch?v=5prkKOIilJg&t=1517s) ;  *Tim Sweeney, Phil Pizlo, Tim TIllotson*
 
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
