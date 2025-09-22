@@ -94,6 +94,7 @@ console.log(res);
 
 - [Leviathan Wakes (2011)](https://en.wikipedia.org/wiki/Leviathan_Wakes) ; *James S. A. Corey*
 
+- :youtube: [The Verse Programming Language | GDC 2023 (2025)](https://www.youtube.com/watch?v=5prkKOIilJg&t=1517s) ;  *Tim Sweeney*
 - :youtube: :topos_institute: ["Cubical types for the working formalizer" (2024)](https://www.youtube.com/watch?v=rhZAkHDo-r4&t=1s) ;  *Amélia Liao*
 - :youtube: :strangeloop: ["Easy Abstract Interpretation with SPARTA" (2019)](https://www.youtube.com/watch?v=_fA7vkVJhF8&t=2s) ;  *Arnaud Venet, Jez Ng*
 - :youtube: :strangeloop: [A Little Taste of Dependent Types (2018)](https://www.youtube.com/watch?v=VxINoKFm-S4&ab_channel=StrangeLoopConference) ; *David Thrane Christiansen*
