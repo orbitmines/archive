@@ -101,7 +101,7 @@ console.log(res);
 - :youtube: :cool_worlds_podcast: [#25 - PBS Spacetime, Science on YouTube, Quasars (2025)](https://www.youtube.com/watch?v=V7QjrsadlKQ&t=5327s) ;  *Matt O'Dowd, David Kipping*
 - :youtube: :lex_fridman_podcast: [Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | #479 (2025)](https://www.youtube.com/watch?v=HsLgZzgpz9Y) ;  *Dave Plummer, Lex Fridman*
 - :youtube: :lex_fridman_podcast: [Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | #480 (2025)](https://www.youtube.com/watch?v=-Qm1_On71Oo) ;  *Dave Hone, Lex Fridman*
-- :youtube: [Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | #467 (2025)](https://www.youtube.com/watch?v=477qF6QNSvc&t=14990s) ;  *Tim Sweeney, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | #467 (2025)](https://www.youtube.com/watch?v=477qF6QNSvc&t=14990s) ;  *Tim Sweeney, Lex Fridman*
 - :youtube: :wolfram_institute: [Quantum Theory as a New Kind of Stochastic Process (2025)](https://www.youtube.com/watch?v=JsmX3YxiUj0&t=4288s) ;  *Jacob Barandes*
 - :youtube: [Keynote: Higher Inductive Types in Homotopy Type Theory (2019)](https://www.youtube.com/watch?v=AMJIsEBS-zk) ;  *Kristina Sojakova*
 - :youtube: [The Verse Programming Language | GDC 2023 (2023)](https://www.youtube.com/watch?v=5prkKOIilJg&t=1517s) ;  *Tim Sweeney, Phil Pizlo, Tim TIllotson*
