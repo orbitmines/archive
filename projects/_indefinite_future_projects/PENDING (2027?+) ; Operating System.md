@@ -14,6 +14,10 @@ Similarly, this is just a placeholder for now for discussions at some point.
 
 ---
 
+- RNG entropy pool
+
+---
+
 Some projects
 *expand this list*
 - [ ] [[Oxide Computer Company]]
