@@ -163,7 +163,7 @@ Controller as main programming language tooling:
 	- Right scroll and select directionally left-right inside outside next scope. Up downis up-down next scope. Where it selects the next best thing, but moves smoothly.
 - Somthing like down/trigger/bumper for voice recognition, with a quick-edit to change the result. Which hijacks usual right-joystick control?
 	- Needs a good alternative if it's not possible rn
-- Using AI and joysticks for word typing to move across a usual keyboard? How about less usual inputs, like repeated Q.s? RIght trigger + Right stick for where to start, left trigger for a movement. First entry is difficult, repeats is easier. Or quickly typing 1234567890
+- Using AI and joysticks for word typing to move across a usual keyboard? How about less usual inputs, like repeated Q.s? RIght trigger + Right stick for where to start (NO), left trigger for a movement - it decides where to start. First entry is difficult, repeats is easier. Or quickly typing 1234567890
 	- Disamiguation of manby options necessary? Left trigger up/down 
 - Needs to take into account the style of the current user/project. 'Things like the user saying, if I do this, I mean this.'
 - Space of keyboard to target input to allow easy internationalization
