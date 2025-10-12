@@ -174,7 +174,7 @@ Controller as main programming language tooling:
 - Up is search for something (using AI bot - or normal search - both.)
 - X call property
 - Square, call method
-- Circle ctrl+z, triangle ctrl+y
+- Circle ctrl+z, triangle ctrl+y,. or Circle + Right bumper
 - Hold left joystick - do something with current selection, and then right joystick to do things like turn a == into a !=.
 - Right trigger swap between Many/Array/Graph/Tree.;
 - Left trigger swap ?
