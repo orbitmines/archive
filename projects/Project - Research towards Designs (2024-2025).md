@@ -165,7 +165,8 @@ Controller as main programming language tooling:
 - Somthing like down/trigger/bumper for voice recognition, with a quick-edit to change the result. Which hijacks usual right-joystick control?
 	- Needs a good alternative if it's not possible rn
 - Using AI and joysticks for word typing to move across a usual keyboard? How about less usual inputs, like repeated Q.s? RIght trigger + Right stick for where to start (NO), left trigger for a movement - it decides where to start. First entry is difficult, repeats is easier. Or quickly typing 1234567890
-	- Disamiguation of manby options necessary? Left trigger up/down 
+	- Disamiguation of manby options necessary? Left trigger up/down
+	- With the idea that everybody already has a map of keyboards in their heads, so  translation should be easier: 'map' in the sense that there's at least a spatial idea 
 - Needs to take into account the style of the current user/project. 'Things like the user saying, if I do this, I mean this.'
 - Space of keyboard to target input to allow easy internationalization
 - Allow with voice to spell out words if they;'re not yet in the dictionary, use words in 'project' - being the user-level / project-level etc.., directory as more likely.
