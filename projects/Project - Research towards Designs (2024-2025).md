@@ -169,7 +169,9 @@ Controller as main programming language tooling:
 - Allow with voice to spell out words if they;'re not yet in the dictionary, use words in 'project' - being the user-level / project-level etc.., directory as more likely.
 - X call property
 - Square, call method
-- Circle ctrl+z, 
+- Circle ctrl+z, triangle ctrl+y
+
+- What about even more restrictive interfaces like some VR controllers?
 
 ---
 
