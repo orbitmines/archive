@@ -182,6 +182,7 @@ Controller as main programming language tooling:
 - Left, is new closure
 - VIEW button switch context window (files or other contexts that the right joystick doesnt have access to)
 - Support for other languages, contexts.
+- Left/Right bumper reserved for alternat
 
 - What about even more restrictive interfaces like some VR controllers?
 
