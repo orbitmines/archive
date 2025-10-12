@@ -168,6 +168,7 @@ Controller as main programming language tooling:
 	- Or not right trigger but this is default behavior, right trigger to move with left joystick in another way
 	- Disamiguation of manby options necessary? Left trigger up/down
 	- With the idea that everybody already has a map of keyboards in their heads, so  translation should be easier: 'map' in the sense that there's at least a spatial idea of where the sequential next key is. 
+	- + Approximate shift 
 - Needs to take into account the style of the current user/project. 'Things like the user saying, if I do this, I mean this.'
 - Space of keyboard to target input to allow easy internationalization (though certain languages might make the ambiguity of where we're pointing very difficult)
 - Allow with voice to spell out words if they;'re not yet in the dictionary, use words in 'project' - being the user-level / project-level etc.., directory as more likely.
