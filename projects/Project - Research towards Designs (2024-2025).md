@@ -183,6 +183,7 @@ Controller as main programming language tooling:
 - VIEW button switch context window (files or other contexts that the right joystick doesnt have access to)
 - Support for other languages, contexts.
 - Left/Right bumper reserved for alternate context movements since they're 'hold down keys'
+- Creating a structure definition with joysticks. Loop is quick loop around (half circle) with the stick
 
 - What about even more restrictive interfaces like some VR controllers? Take Meta quest controllers for example, 2/3 buttons on either side instead of 4. Only one trigger/bumper instead of 2.
 
