@@ -164,6 +164,7 @@ Controller as main programming language tooling:
 - Somthing like down/trigger/bumper for voice recognition, with a quick-edit to change the result. Which hijacks usual right-joystick control?
 	- Needs a good alternative if it's not possible rn
 - Using AI and joysticks for word typing to move across a usual keyboard? How about less usual inputs, like repeated Q.s? First entry is difficult, repeats is easier. Or quickly typing 1234567890
+	- Disamiguation of manby options necessary? Left trigger up/down 
 - X call property
 - Square, call method
 
