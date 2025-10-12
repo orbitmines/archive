@@ -179,7 +179,7 @@ Controller as main programming language tooling:
 - Right trigger swap between Many/Array/Graph/Tree.;
 - Left trigger swap ?
 - Right, is new filter block
-- Left is intuitively?
+- Left, is new closure
 - VIEW button switch context window (files or other contexts that the right joystick doesnt have access to)
 - Support for other languages, contexts.
 
