@@ -184,7 +184,7 @@ Controller as main programming language tooling:
 - Support for other languages, contexts.
 - Left/Right bumper reserved for alternate context movements since they're 'hold down keys'
 
-- What about even more restrictive interfaces like some VR controllers?
+- What about even more restrictive interfaces like some VR controllers? Take Meta quest controllers for example, 2/3 buttons on either side instead of 4. Only one trigger/bumper instead of 2.
 
 ---
 
