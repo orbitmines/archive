@@ -179,7 +179,7 @@ Controller as main programming language tooling:
 - Right trigger swap between Many/Array/Graph/Tree.;
 - Left trigger swap ?
 - Right, is new filter block
-- Left, is Jump out of current context. L
+- Left, is Jump out of current context. Like selecting text field and editing, Or should this be right joystick?
 - VIEW button switch context window (files or other contexts that the right joystick doesnt have access to)
 - Support for other languages, contexts.
 - Left/Right bumper reserved for alternate context movements since they're 'hold down keys'
