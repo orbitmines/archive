@@ -173,8 +173,9 @@ Controller as main programming language tooling:
 - Allow with voice to spell out words if they;'re not yet in the dictionary, use words in 'project' - being the user-level / project-level etc.., directory as more likely.
 - Up is search for something (using AI bot - or normal search - both.)
 - X call property
-- Square, call method
-- Circle ctrl+z, triangle new closure, ctrl+y,. or Circle + Right bumper
+- Square, call method + right bumper: new closure
+- Circle ctrl+z, ctrl+y,. or Circle + Right bumper
+-  triangle back
 - Hold left joystick - do something with current selection, and then right joystick to do things like turn a == into a !=.
 - Right trigger swap between Many/Array/Graph/Tree.;
 - Left trigger swap ?
