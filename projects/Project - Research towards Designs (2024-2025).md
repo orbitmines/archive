@@ -163,7 +163,8 @@ Controller as main programming language tooling:
 	- Right scroll and select directionally left-right inside outside next scope. Up downis up-down next scope. Where it selects the next best thing, but moves smoothly.
 - Somthing like down/trigger/bumper for voice recognition, with a quick-edit to change the result. Which hijacks usual right-joystick control?
 	- Needs a good alternative if it's not possible rn
-- X call method
+- Using AI and joysticks for word typing to move across a usual keyboard?
+- X call property
 - 
 
 ---
