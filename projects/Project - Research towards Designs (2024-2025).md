@@ -155,7 +155,7 @@ Rendering Engine
 *Tread carefully, confusion abound*
 
 Controller as main programming language tooling:
-- 
+- Call nestedly in a variable by moving inside the object and selecting a field like that.
 
 ---
 
