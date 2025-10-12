@@ -176,6 +176,9 @@ Controller as main programming language tooling:
 - Circle ctrl+z, triangle ctrl+y
 - Hold left joystick - do something with current selection, and then right joystick to do things like turn a == into a !=.
 - Right trigger swap between Many/Array/Graph/Tree.;
+- Left trigger swap ?
+- Right, is new filter block
+- Left 
 - VIEW button switch context window (files or other contexts that the right joystick doesnt have access to)
 
 - What about even more restrictive interfaces like some VR controllers?
