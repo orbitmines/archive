@@ -165,7 +165,7 @@ Controller as main programming language tooling:
 	- Needs a good alternative if it's not possible rn
 - Using AI and joysticks for word typing to move across a usual keyboard? How about less usual inputs, like repeated Q.s? First entry is difficult, repeats is easier. Or quickly typing 1234567890
 - X call property
-- 
+- Square, call method
 
 ---
 
