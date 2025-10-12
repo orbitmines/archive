@@ -160,7 +160,7 @@ Controller as main programming language tooling:
 - .expand - Both joysticks to the outside
 - .collapse - Both joysticks to the inside
 - 2 cursors with both joysticks
-	- Right scroll and select
+	- Right scroll and select directionally left-right inside outside next scope. Up downis up-down next scope. Where it selects the next best thing, but moves smoothly.
 
 ---
 
