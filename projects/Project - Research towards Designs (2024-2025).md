@@ -170,7 +170,8 @@ Controller as main programming language tooling:
 - X call property
 - Square, call method
 - Circle ctrl+z, triangle ctrl+y
-- Hold left joystick - do something with current selection, and then right joystick to do thing 
+- Hold left joystick - do something with current selection, and then right joystick to do things like turn a == into a !=.
+- Right trigger swap between Many/Array/Graph/?/
 
 - What about even more restrictive interfaces like some VR controllers?
 
