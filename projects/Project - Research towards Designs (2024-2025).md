@@ -154,6 +154,7 @@ Rendering Engine
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
+With the thought that keyboards are less useful/portable in a VR setting:
 Controller as main programming language tooling:
 "The problem of translating 'usual programming language interface' to one which is more constricted'."
 - Call nestedly in a variable by moving inside the object and selecting a field like that.
