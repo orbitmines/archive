@@ -166,7 +166,7 @@ Controller as main programming language tooling:
 - Using AI and joysticks for word typing to move across a usual keyboard? How about less usual inputs, like repeated Q.s? RIght trigger + Right stick for where to start, left trigger for a movement. First entry is difficult, repeats is easier. Or quickly typing 1234567890
 	- Disamiguation of manby options necessary? Left trigger up/down 
 - Space of keyboard to target input to allow easy internationalization
-- Allow with voice to spell out
+- Allow with voice to spell out words if they;'re not yet in the dictionary, use words in 'project' - being the user-level /  directory as more likely.
 - X call property
 - Square, call method
 
