@@ -165,6 +165,8 @@ Controller as main programming language tooling:
 	- Needs a good alternative if it's not possible rn
 - Using AI and joysticks for word typing to move across a usual keyboard? How about less usual inputs, like repeated Q.s? RIght trigger + Right stick for where to start, left trigger for a movement. First entry is difficult, repeats is easier. Or quickly typing 1234567890
 	- Disamiguation of manby options necessary? Left trigger up/down 
+- Space of keyboard to target input to allow easy internationalization
+- Allow with voice to spell out
 - X call property
 - Square, call method
 
