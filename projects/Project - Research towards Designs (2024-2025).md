@@ -175,7 +175,7 @@ Controller as main programming language tooling:
 - X call property
 - Square, call method + right bumper: new closure
 - Circle ctrl+z, ctrl+y,. or Circle + Right bumper
--  triangle back
+- triangle backspace.
 - Hold left joystick - do something with current selection, and then right joystick to do things like turn a == into a !=.
 - Right trigger swap between Many/Array/Graph/Tree.;
 - Left trigger swap ?
