@@ -185,6 +185,7 @@ Controller as main programming language tooling:
 - Left/Right bumper reserved for alternate context movements since they're 'hold down keys'
 - Creating a structure definition with joysticks. Loop is quick loop around (half circle) with the stick
 - Use quick voice commands as quick alterations on what was just done.. 'That's with 2 r's, and then add it to the dictionary as well for that project/context and user'. Or when it's wrong, that's only within the X project, not this one. 
+- Descriube keyboard layout spatially
 
 - What about even more restrictive interfaces like some VR controllers? Take Meta quest controllers for example, 2/3 buttons on either side instead of 4. Only one trigger/bumper instead of 2.
 
