@@ -158,6 +158,7 @@ Controller as main programming language tooling:
 - Call nestedly in a variable by moving inside the object and selecting a field like that.
 - .expand - Both joysticks to the outside
 - .collapse - Both joysticks to the inside
+- 2 cursors with both joysticks
 
 ---
 
