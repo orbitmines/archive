@@ -11,7 +11,8 @@ Controller as main programming language tooling:
 - (Ignore selected text)
 - Surrounding text (after)  
 - Additional context in terms of project, dictionary, user-based, project-based, file type. (other contexts)  
-- Probabilities given some language model  
+- Probabilities given some language model
+	- How to deal with different vocabularies & sizes if we switch models
 - Currently editing text inserted after 'before', committed with clicking the left joystick (or by moving out of the context)
 
 
