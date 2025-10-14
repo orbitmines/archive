@@ -1,8 +1,29 @@
 With the thought that keyboards are less useful/portable in a VR setting:
 Controller as main programming language tooling:
 
+---
 
+# Model Input
+- Layout from the keyboard  
+- Controller Input (mapped to some generic way which would work for all types of controllers)  
+- Predictions from some algorithm based on joystick movement. (Mapped to locations on the keyboard)?  
+- Surrounding text (before)  
+- Surrounding text (after)  
+- Additional context in terms of project, dictionary, user-based, project-based, file type. (other contexts)  
+- Probabilities given some language model  
+- Currently editing text inserted after 'before', committed with clicking the left joystick (or by moving out of the context)  
 
+Fuzzing  
+- Add longer pauses between each successive change of direction.  
+  
+  
+  
+Auto generate controller input for training.  
+  
+How to retrain if we want additional functionality  
+Is retraining necessary if we choose a new language model?
+
+---
 
 "The problem of translating 'usual programming language interface' to one which is more constricted'."
 - Call nestedly in a variable by moving inside the object and selecting a field like that.
