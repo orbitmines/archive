@@ -8,11 +8,12 @@ Controller as main programming language tooling:
 - Controller Input (mapped to some generic way which would work for all types of controllers)  
 - Predictions from some algorithm based on joystick movement. (Mapped to locations on the keyboard)?  
 - Surrounding text (before)  
+- (Ignore selected text)
 - Surrounding text (after)  
 - Additional context in terms of project, dictionary, user-based, project-based, file type. (other contexts)  
 - Probabilities given some language model  
 - Currently editing text inserted after 'before', committed with clicking the left joystick (or by moving out of the context)
-- 
+
 
 Fuzzing  
 - Inaccurate timings: Add longer pauses between each successive change of direction.  
