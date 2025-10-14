@@ -16,7 +16,7 @@ Controller as main programming language tooling:
 Fuzzing  
 - Inaccurate timings: Add longer pauses between each successive change of direction.  
 - Inaccurate joystick angles
-- Inaccurate joystick lengths (full)
+- Inaccurate joystick lengths (full direction, ignoring )
   
   
 Auto generate controller input for training.  
