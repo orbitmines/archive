@@ -14,8 +14,9 @@ Controller as main programming language tooling:
 - Currently editing text inserted after 'before', committed with clicking the left joystick (or by moving out of the context)  
 
 Fuzzing  
-- Add longer pauses between each successive change of direction.  
-  
+- Inaccurate timings: Add longer pauses between each successive change of direction.  
+- Inaccurate joystick angles
+- Inaccurate 
   
   
 Auto generate controller input for training.  
