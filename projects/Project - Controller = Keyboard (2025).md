@@ -11,12 +11,14 @@ Controller as main programming language tooling:
 - Surrounding text (after)  
 - Additional context in terms of project, dictionary, user-based, project-based, file type. (other contexts)  
 - Probabilities given some language model  
-- Currently editing text inserted after 'before', committed with clicking the left joystick (or by moving out of the context)  
+- Currently editing text inserted after 'before', committed with clicking the left joystick (or by moving out of the context)
+- 
 
 Fuzzing  
 - Inaccurate timings: Add longer pauses between each successive change of direction.  
 - Inaccurate joystick angles
-- Inaccurate joystick lengths (full direction, ignoring )
+- Inaccurate joystick lengths (full direction, ignoring length)
+- 
   
   
 Auto generate controller input for training.  
