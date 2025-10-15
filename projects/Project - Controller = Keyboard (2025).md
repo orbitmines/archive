@@ -45,6 +45,7 @@ Is retraining necessary if we choose a new language model?
 	- + Approximate shift with left bumper
 - Needs to take into account the style of the current user/project. 'Things like the user saying, if I do this, I mean this.'
 - Space of keyboard to target input to allow easy internationalization (though certain languages might make the ambiguity of where we're pointing very difficult)
+	- Certain (likely asian) keyboard might be difficult since information might be more dense than a latin keyboard
 - Allow with voice to spell out words if they;'re not yet in the dictionary, use words in 'project' - being the user-level / project-level etc.., directory as more likely.
 - Up is search for something (using AI bot - or normal search - both.)
 - X call property
