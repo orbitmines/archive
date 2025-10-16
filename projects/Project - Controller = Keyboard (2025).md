@@ -3,6 +3,9 @@ Controller as main programming language tooling:
 
 ---
 
+Distrubution of 
+- Near where the previous key was
+
 # Model Input
 - Layout from the keyboard  
 - Controller Input (mapped to some generic way which would work for all types of controllers)  
