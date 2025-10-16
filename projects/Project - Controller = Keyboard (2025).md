@@ -5,7 +5,11 @@ Controller as main programming language tooling:
 
 Distribution of the next key
 - Near where the previous key was
-- In the general direction of the joystick movement, lower probabilities  
+- In the general direction of the joystick movement, lower probabilities further away. So something   
+- 
+
+
+- Tokens give higher probability to a specific sequence of smaller tokens
 
 # Model Input
 - Layout from the keyboard  
