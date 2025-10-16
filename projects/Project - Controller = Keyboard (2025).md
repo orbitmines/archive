@@ -5,7 +5,7 @@ Controller as main programming language tooling:
 
 Distribution of the next key
 - Near where the previous key was
-- In the general direction of the joystick movement, lower probabilities further away. So something   
+- In the general direction of the joystick movement, lower probabilities further away. So something like 'right' is high probabilities on the right, lower probabilities right+up/right+down, low probabilities for left.  
 - 
 
 
