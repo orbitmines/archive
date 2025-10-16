@@ -3,8 +3,9 @@ Controller as main programming language tooling:
 
 ---
 
-Distrubution of 
+Distribution of the next key
 - Near where the previous key was
+- In the general direction of the joystick movement, lower probabilities  
 
 # Model Input
 - Layout from the keyboard  
