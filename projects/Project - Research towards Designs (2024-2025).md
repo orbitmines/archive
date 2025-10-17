@@ -155,7 +155,9 @@ Rendering Engine
 *Tread carefully, confusion abound*
 
 What if we tried programming first, how would you gamify aspects of it? We're essentially saying how do you compress something which has so many degrees of freedom, into something which is much less flexible; less degrees of freedom, yet maintain the same sort of functionality.
-
+- What does resource gathering mean?
+- What does maze navigation mean to find new problems?
+- 
 
 ---
 
