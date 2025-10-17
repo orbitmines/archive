@@ -154,6 +154,8 @@ Rendering Engine
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
+What type of information is stored on player? Things like: Preferences, interested in these fields, these types of knowledge tre
+
 ---
 
 A stack is an arbitrary graph of some type, so say a stack of keys/credentials
