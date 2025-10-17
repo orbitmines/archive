@@ -160,7 +160,8 @@ Other IDE functionality:
 - A generating file with some syntax of some alternate language with intermediate code snippets which aren't interfering with the syntax. 
 - Server discovery with possibilities of some community driven setup. So discovering ways of discovering other servers.
 	- Local servers
-		- auto-join local server if last logout was there. (per device?)
+		- auto-join local server if last logout was there. per device, allow to (goto position of this device)
+		- non-local servers you'd join via the menu, with a last visited on this instance? or in general.
 
 ---
 
