@@ -159,7 +159,8 @@ What type of information is stored on player? Things like: Preferences, interest
 Other IDE functionality:
 - A generating file with some syntax of some alternate language with intermediate code snippets which aren't interfering with the syntax. 
 - Server discovery with possibilities of some community driven setup. So discovering ways of discovering other servers.
-	- 
+	- Local servers
+		- auto-join local server if last logout was there. (per device?)
 
 ---
 
