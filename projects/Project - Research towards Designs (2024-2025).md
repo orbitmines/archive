@@ -156,6 +156,9 @@ Rendering Engine
 
 What type of information is stored on player? Things like: Preferences, interested in these fields, these types of knowledge trees already unlocked (can autogenerate these to some extent?).
 
+Other IDE functionality:
+- A generating file with some syntax of some alternate language with intermediate code snippets which aren't interfering with the syntax. 
+
 ---
 
 A stack is an arbitrary graph of some type, so say a stack of keys/credentials
