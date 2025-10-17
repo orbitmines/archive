@@ -191,6 +191,7 @@ Infrastructure is there for things like navigating and storing items in any stru
 ---
 
 Desktop environment which is a 3d room with items/files in specific places. cudtom look in 3d rendering. like a book or a project. Search highlights the in 3d place. Hide stuff "in the air" at certain locations. Access the environment in the usual text/terminal format, define searchfunctions in that or 3d format
+Autogenerate some parts of this sort of environment when a user is first loading their desktop in.
 
 Instead of having the entire 3d structure in memory different nodes of "in between with distance x", allow overlapping 
 
