@@ -163,6 +163,7 @@ Other IDE functionality:
 		- auto-join local server if last logout was there. per device, allow to (goto position of this device)
 		- non-local servers you'd join via the menu, with a last visited on this instance? or in general.
 - location could just be a lace in a program for UI. with triggers to leave it etc.
+- Keyboard keys per context one is in, configured by looking at program graphs.
 
 ---
 
