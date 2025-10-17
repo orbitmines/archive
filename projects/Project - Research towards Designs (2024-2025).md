@@ -165,6 +165,7 @@ Other IDE functionality:
 - location could just be a lace in a program for UI. with triggers to leave it etc.
 - Keyboard keys per context one is in, configured by looking at program graphs.
 	- in keyboard/controller settings, highlight which parts are being used at that time.
+- Hotbar is just keyboard and other controls like sc
 
 ---
 
