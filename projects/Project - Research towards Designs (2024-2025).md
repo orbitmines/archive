@@ -154,7 +154,7 @@ Rendering Engine
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
-What type of information is stored on player? Things like: Preferences, interested in these fields, these types of knowledge tre
+What type of information is stored on player? Things like: Preferences, interested in these fields, these types of knowledge trees already unlocked (can autogenerate these to some extent?).
 
 ---
 
