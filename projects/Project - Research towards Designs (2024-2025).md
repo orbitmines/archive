@@ -154,6 +154,10 @@ Rendering Engine
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
+What if we tried programming first, how would you gamify aspects of it?
+
+---
+
 What type of information is stored on player? Things like: Preferences, interested in these fields, these types of knowledge trees already unlocked (can autogenerate these to some extent?).
 
 Other IDE functionality:
