@@ -156,6 +156,16 @@ Rendering Engine
 
 ---
 
+A stack is an arbitrary graph of some type, so say a stack of keys/credentials
+
+Whether a graph allows programmatic cursors to traverse it to find items like files in it. ; Or it requires a player to move there or be close to it. 
+Then you have things like "items in this room" or "items in this room I can traverse now"
+
+Infrastructure is there for things like navigating and storing items in any structure.
+
+**Central question becomes:** What is the game loop outside normal file management of an IDE.
+
+---
 
 Desktop environment which is a 3d room with items/files in specific places. cudtom look in 3d rendering. like a book or a project. Search highlights the in 3d place. Hide stuff "in the air" at certain locations. Access the environment in the usual text/terminal format, define searchfunctions in that or 3d format
 
