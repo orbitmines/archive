@@ -156,7 +156,7 @@ Rendering Engine
 
 What if we tried programming first, how would you gamify aspects of it? We're essentially saying how do you compress something which has so many degrees of freedom, into something which is much less flexible; less degrees of freedom, yet maintain the same sort of functionality.
 - What does resource gathering mean?
-	- What if we match resource gathering to some active q
+	- What if we match resource gathering to some active quest? Does something different depending on the active quest? But there's a general pattern of what that resource does?
 - What does maze navigation mean to find new problems?
 - 
 
