@@ -157,7 +157,8 @@ Rendering Engine
 What if we tried programming first, how would you gamify aspects of it? We're essentially saying how do you compress something which has so many degrees of freedom, into something which is much less flexible; less degrees of freedom, yet maintain the same sort of functionality.
 - What does resource gathering mean?
 	- What if we match resource gathering to some active quest? Does something different depending on the active quest? But there's a general pattern of what that resource does?
-	- A simple example is somewhere in the world have some 'smithy' which creates keys. So instead of having encryption keys being some command you have to remember, it's remembering you can go some place which will make one for you. Then the 'configura'
+	- A simple example is somewhere in the world have some 'smithy' which creates keys. So instead of having encryption keys being some command you have to remember, it's remembering you can go some place which will make one for you. Then the 'configuration' of the key is just some 'crafting menu'.
+		- One of the resources used in making that being the 'entropy' resource accumulated by the OS.
 - What does maze navigation mean to find new problems?
 - 
 
