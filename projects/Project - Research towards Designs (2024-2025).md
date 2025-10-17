@@ -156,6 +156,7 @@ Rendering Engine
 
 What if we tried programming first, how would you gamify aspects of it? We're essentially saying how do you compress something which has so many degrees of freedom, into something which is much less flexible; less degrees of freedom, yet maintain the same sort of functionality.
 
+
 ---
 
 What type of information is stored on player? Things like: Preferences, interested in these fields, these types of knowledge trees already unlocked (can autogenerate these to some extent?).
