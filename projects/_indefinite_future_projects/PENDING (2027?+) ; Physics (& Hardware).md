@@ -55,9 +55,9 @@ Discovery data
 
 ---
 
-Quantum physics properties non-markovian spatial circuit complexity?
+Quantum physics properties non-markovian higher spatial circuit complexity?
 
-
+Higher spatial density -> lower spatial circuit complexity
 
 ---
 
