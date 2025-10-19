@@ -56,8 +56,9 @@ Discovery data
 ---
 
 Quantum physics properties non-markovian higher spatial circuit complexity?
-
 Higher spatial density -> lower spatial circuit complexity
+Higher spatial density & higher temporal circuit complexity -> Higher gravity
+~ Alex
 
 ---
 
