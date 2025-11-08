@@ -34,7 +34,6 @@ Summarized:
 
 - Whereas usual graphs, we concern ourselves with vertices and edges, this is a rephrasing to a [Does the state of a ray have a more intuitive name?]. Which encompasses both what it means to be vertex and edge.
 
-- A programming language which is an IDE which is an operating system which is a game
 - A language where the possibility of multiple branches/possibilities is native.
 - (The initial implementation with thing like keywords, should be changeable from some base.)
 
