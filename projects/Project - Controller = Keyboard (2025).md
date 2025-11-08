@@ -3,6 +3,10 @@ Controller as main programming language tooling:
 
 ---
 
+How far can you get with the limited controller interfaces in navigating a program?
+
+---
+
 Distribution of the next key
 - Near where the previous key was
 - In the general direction of the joystick movement, lower probabilities further away. So something like 'right' is high probabilities on the right, lower probabilities right+up/right+down, low probabilities for left.  
