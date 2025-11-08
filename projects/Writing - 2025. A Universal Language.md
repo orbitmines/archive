@@ -38,8 +38,6 @@ Summarized:
 - (The initial implementation with thing like keywords, should be changeable from some base.)
 
 
-- Though this project will step away from the limitations of a text file, all programming infrastructure relies on it. A move away from it, will require additional infrastructure (like the IDE and version control). Even if all that is in place, it would still be good if we're able to use existing infrastructure. So ideally we'd like a way to translate the language into a text-based format. Which is where `.ray.txt` comes in.
-
 - Every program/definition is a type. 
 
 **TODO**
