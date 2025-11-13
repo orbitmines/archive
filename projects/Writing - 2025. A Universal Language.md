@@ -32,8 +32,6 @@ Summarized:
 - (The initial implementation with thing like keywords, should be changeable from some base.)
 
 
-- Every program/definition is a type. 
-
 **TODO**
 - Types, Grammars, Pattern-matching
 	- Implement Backus-Naur Form, implement WASM, implement regex.
@@ -56,12 +54,6 @@ Summarized:
 
 ---
 
-
----
-
-"Could have infinite context"
-
----
 
 - Copying means what now? with the automatic splits (related to caching?)
 
