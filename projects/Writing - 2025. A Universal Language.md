@@ -20,9 +20,6 @@ Subtitle
 
 
 ---
-
-Which means a return to some of the basics building blocks of any programming language and why they're there to begin with.
-
 ---
 
 A programming language centered around several key thoughts, namely:
