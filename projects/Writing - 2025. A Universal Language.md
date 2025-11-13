@@ -25,7 +25,6 @@ Subtitle
 A programming language centered around several key thoughts, namely:
 
 Summarized:
-- "The halting of any part of any program is unknown. It is therefore a rephrasing of the problem of (1) how many resources you dedicate to which problem and (2) how you deal with intermediate results/variables." - You need to be comfortably deal with possibly infinitely generating programs.
 - Structure is innate, something more general than, yet similar to graphs
 - One should be able to mix and combine programming languages. (Once knowledge of types of structure, syntax and control-flow at any abstraction layer exists.) - Of which control-flow is the hardest, which we can separate in the even harder "actual control flow" (for some "perceived actual execution layer") and some abstraction we suppose is the control flow.
 
