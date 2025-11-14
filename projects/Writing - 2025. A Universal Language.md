@@ -572,20 +572,13 @@ export const is_boolean = (value: any): value is boolean =>
   value === true || value === false || (is_object_like(value) && base_tag(value) == '[object Boolean]');
 export const is_number = (value: any): value is number =>
   typeof value == 'number' || (is_object_like(value) && base_tag(value) == '[object Number]');
-export const is_object = (value: any): value is object =>
-  value != null && (typeof value == 'object' || typeof value == 'function');
 
 export const is_iterable = <T = any>(value: any): value is Iterable<T> =>
   Symbol.iterator in Object(value) && is_function(value[Symbol.iterator]);
 export const is_async_iterable = <T = any>(value: any): value is AsyncIterable<T> =>
   Symbol.asyncIterator in Object(value) && is_function(value[Symbol.asyncIterator]);
 
-export const is_function = (value: any): value is ((...args: any[]) => any) => {
-  if (!is_object(value)) return false;
 
-  let tag = base_tag(value);
-  return tag == '[object Function]' || tag == '[object GeneratorFunction]' || tag == '[object AsyncFunction]' || tag == '[object Proxy]';
-}
 
 
 ```
