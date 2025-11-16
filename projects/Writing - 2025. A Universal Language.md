@@ -568,8 +568,7 @@ join = (value: any) =>
 
 
 
-export const is_boolean = (value: any): value is boolean =>
-  value === true || value === false || (is_object_like(value) && base_tag(value) == '[object Boolean]');
+
 export const is_number = (value: any): value is number =>
   typeof value == 'number' || (is_object_like(value) && base_tag(value) == '[object Number]');
 
