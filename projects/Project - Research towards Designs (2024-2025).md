@@ -151,6 +151,10 @@ Rendering Engine
 
 ---
 
+[igdb.com](http://igdb.com/) submit game to get twitch category
+
+---
+
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
