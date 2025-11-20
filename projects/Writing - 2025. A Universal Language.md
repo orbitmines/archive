@@ -32,6 +32,9 @@ Summarized:
 - (The initial implementation with thing like keywords, should be changeable from some base.)
 
 
+- IDE analysis of languages and executables: Interpretability of arbitrary programs
+
+
 **TODO**
 - Types, Grammars, Pattern-matching
 	- Implement Backus-Naur Form, implement WASM, implement regex.
