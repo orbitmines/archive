@@ -8,6 +8,8 @@ Subtitle
 
 -
 
+What we instead lack, is a kind of glue to pull together existing worlds, interfaces..
+
 # Towards a Universal Language
 **
 
