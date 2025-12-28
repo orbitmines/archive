@@ -11,7 +11,6 @@
 
 
 ###### Examples
-- Subtraction is more complicated than performing addition, for subtraction you need to know a length, unless you just cut something off without knowing how long it is.
 - 2d grid expansion as an example base rewrite rule, "expand loop"
 - Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
 - Numbers, Integers, base-n, fractions, floating point
