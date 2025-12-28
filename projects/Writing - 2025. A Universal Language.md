@@ -10,11 +10,6 @@
 
 
 
-###### Examples
-
-- Mapping infinity to a number is a loop, and a loop in the reverse direction for -infinity?
-- Note that things like `.every` start traversing from the selected node(s) location(s). Or in case of a graph it starts at what?
-- Function self-reference: Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
 ###### Energy/Resources
 - The larger the integer, the more structure you need to describe it ; (at least if you're not expressing it as a more simple program, but have to construct the actual number)
 - Coherence is expensive? - Takes a lot of structure
