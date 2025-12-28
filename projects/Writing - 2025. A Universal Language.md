@@ -7,27 +7,9 @@
 
 
 
--
-
-Playername is similar to settings like Utf-8 in that it is some library one associates with themselves. 
--> Can be set to some field which using a string, but string with different characters, say only letters and spaces.
-
-
-Things like the welcome screen are alterable, what happens when there's an update to the original? Any branches off the original screen should have some way of "plug any updates here automatically" " but this is changed/overridden"
-
-Initial setup uses some html renderer until the language can express the requirements for a renderer in itself 
-
 ---
 
 ###### Editor
-
-2 ^ 32, should render as superscript 32, and backspace on ^ should remove the cursor from superscript to normal size.
-
-Up, valculate character at x level, go to there, monospace would be the same x coordinate
-
-Drag and drop something like a typeface into the program, get an object to do things on, like .set default typeface
-
-Whenever you change the interface like that, confirm in 30s or it goes back.
 
 
 Natively LLM lock from query to target where target is some fixed name from a map of keys. Technically these could be arbitrary structure again, how to put that in the language model? How to select from all possible contextually set values. Also add memory in the sense of particular keystrokes resolve to some value. (Like ide templates) And historically found maps also influence the mapping
