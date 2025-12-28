@@ -9,7 +9,7 @@
 ###### After Restructure
 - Function discovery
 - Compression/Geodesics
-- Intermediate partial equality how?
+
 - [ ] Factory (Compression, ...): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. 
 	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
