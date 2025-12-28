@@ -10,8 +10,6 @@
 - Function discovery
 - Compression/Geodesics
 
-- [ ] Factory (Compression, ...): Setup to constantly grow whatever in-memory graph/equivalences are found, get to this place so we can start iterating on discovery functions. 
-	- [ ] Notion of queues, resources (storage, capabilities), ..., priorities
 	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
 	- [ ] Apply the same version control system on the version control system itself. 
 - Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
