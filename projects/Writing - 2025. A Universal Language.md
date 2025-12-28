@@ -10,10 +10,6 @@
 ---
 ###### Worlds
 
-  
-  
-
-
 What about returning a program as a next step? Say you'd have some projectile, which is a function applied to a location, returning a program which applies it to the next location. Keep doing that until? 
 
 Function is applied to location (or type x)

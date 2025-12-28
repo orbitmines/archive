@@ -40,6 +40,7 @@ Read
 
 
 
+What are different perspectives, on the same object in terms of the language.
 
 
 ###### Open explorations/quests
