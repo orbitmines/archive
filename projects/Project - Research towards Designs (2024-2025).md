@@ -39,6 +39,10 @@ World Generation
 Read
 
 
+---
+- Function discovery
+- Compression/Geodesics
+
 
 What are different perspectives, on the same object in terms of the language.
 

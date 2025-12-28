@@ -7,14 +7,8 @@
 
 ---
 ###### After Restructure
-- Function discovery
-- Compression/Geodesics
 
-	- [ ] "Measure of how hard something is to do in parallel (or in some other structure generally)" - differentiability of [[Project - Indexing existing Abstract Models (2024-2025?)]]
-	- [ ] Apply the same version control system on the version control system itself. 
-- Exploration: Brute-force enumeration, unkowns drive curiosity, treating something as something it's not (what-if simulation), fuzzing, random changes, 
-- [ ] "Compile to" infrastructure
-- Multiplayer
+
 
 ###### Examples
 - 2d finite vs infinite grid, x-y axis, equal in length, every next value is not in all the other axis (stable 2d growth at each step) .dimensionality() == 2 (AND) .dimensionality change at every point is constant. 2d grid of overlapping graphs for X/Y vs a normal single graph with dimensionality 2. (every x goes to an x, every y goes to a y)
