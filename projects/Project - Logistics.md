@@ -3,12 +3,9 @@ Related:
   - "[[Discord]]"
 ---
 TODO:
-- [ ] Clean up `orbitmines.com` repo, remove dependencies, simplify ....
-	- [ ] small fixes website (; x)
-	- [ ] * Ref [4] is missing 
+- [ ] `orbitmines.com`
 	- [ ] Fix the pdf render
-	- [ ] Single line/comment on literary exposure.	
-- [ ] Revamp `orbitmines.com` with OrbitMines infrastructure - make current website obsolete.
+	- [ ] Single line/comment on literary exposure.
 - [ ] Automatically sync "GitHub issues", the archive repo & the discord posts.
 - [ ] slight area around rendering collr for girhub ; light variant in github doesnt show the ray renderings nicely.
 
