@@ -12,21 +12,6 @@
 ###### Editor
 
 
-Natively LLM lock from query to target where target is some fixed name from a map of keys. Technically these could be arbitrary structure again, how to put that in the language model? How to select from all possible contextually set values. Also add memory in the sense of particular keystrokes resolve to some value. (Like ide templates) And historically found maps also influence the mapping
-
-Show the LLM query as code, which executes some underlying code. So things like if <>
-
-Hold something like ALT + click to spring new window at location when starting to type.
-
-Alternative to using dots . to call functions, use spaces like a terminal command git clone arg arg -arg. 
-
-Directory is similarly just some command matching to some structure as /*/ (looped). You want things like select directory location, then apply function there like .open or other manipulation once it's selected as an object.
-
-Directory string type is ([A-Z]:)?/(dir name)/? looped, and then we define operations like .open() you on type Directory. 
-
-"on startup" enter, enters a new file ; file more generally as context, which is hooked to startup, after all the other startup scripts. Then some way to open the startup script which serially shows all the contexts as if they were a single file/context - since there is an order to them.
-
-"directory string" enter, then genereally any . method that follows is using rhe most recent variable declaration. But the result of .open wouldn't be a declaration (unluss explicitly typed) - others this would change the most recent for
 
 No "" or ' for strings, use tab or enter to exit it as a token. Use ctrl enter/tab for \t en \n. If accepting function doesn't allow for a space in the current position, space too exits the token. 
 
