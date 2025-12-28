@@ -3,32 +3,9 @@
 *Tread carefully, confusion abound*
 
 
----
----
-
-A programming language centered around several key thoughts, namely:
-
-Summarized:
-
-
-
 **TODO**
-- Types, Grammars, Pattern-matching
-	- Implement Backus-Naur Form, implement WASM, implement regex.
-	- Conditional Types/Dependent types
-- Functions
-	- Programs
-- Control-flow & programs
-- Graphs
-	- graph rewriting functions
-- Runtime/Traversal
 
-- Version Control
-	- General notion of merges cross the "OS", if highly customized, more chance of having to merge stuff. What stuff can be partially merged, what stuff cancels the "whole" update? 
-- History/causal graph and other mapping like a branchial graph
-	- Can have a history, but no current value 
-- Theorem Proving System
-- Analyses and injection of existing binaries/programming languages.
+
 - `ray` CLI
 - IntelliJ & VS Code extension (Can we use a popup window/context on the side to have interactive graphs?)
 
