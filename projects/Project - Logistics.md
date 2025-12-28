@@ -6,8 +6,6 @@ TODO:
 - [ ] Clean up `orbitmines.com` repo, remove dependencies, simplify ....
 	- [ ] small fixes website (; x)
 	- [ ] * Ref [4] is missing 
-	* Would be great if bibliography links had backlinks to the relevant part in the essay 
-	* Bibliography repeats twice for some reason
 	- [ ] Fix the pdf render
 	- [ ] Single line/comment on literary exposure.	
 - [ ] Revamp `orbitmines.com` with OrbitMines infrastructure - make current website obsolete.
