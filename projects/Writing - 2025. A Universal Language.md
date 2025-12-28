@@ -1,21 +1,3 @@
-*Let's try for [[2025-12-31]] ; - Yearly excerpt of thoughts*
-
-Subtitle
-- An exposition of contemporary (programming) languages, the requirements for a universal programming language and an attempt in that direction.
-- What infrastructure are contemporary mathematics and other (programming) languages missing? 
-- Existing abstract models of computation, mathematics, ... (programming) languages : What are their commonalities and what infrastructure are they all missing?
-- What does it take to build a universal language? 
-
--
-
-What we instead lack, is a kind of glue to pull together existing worlds, interfaces..
-
-# Towards a Universal Language
-**
-
-###### Introduction
-
----
 
 # UNPROCESSED
 *Tread carefully, confusion abound*
@@ -27,14 +9,7 @@ What we instead lack, is a kind of glue to pull together existing worlds, interf
 A programming language centered around several key thoughts, namely:
 
 Summarized:
-- One should be able to mix and combine programming languages. (Once knowledge of types of structure, syntax and control-flow at any abstraction layer exists.) - Of which control-flow is the hardest, which we can separate in the even harder "actual control flow" (for some "perceived actual execution layer") and some abstraction we suppose is the control flow.
 
-- Whereas usual graphs, we concern ourselves with vertices and edges, this is a rephrasing to a [Does the state of a ray have a more intuitive name?]. Which encompasses both what it means to be vertex and edge.
-
-- (The initial implementation with thing like keywords, should be changeable from some base.)
-
-
-- IDE analysis of languages and executables: Interpretability of arbitrary programs
 
 
 **TODO**
