@@ -11,21 +11,7 @@
 
 
 ###### Examples
-- 2d grid expansion as an example base rewrite rule, "expand loop"
-- Boolean: Normal way of thinking about a boolean is .orbit we assume modularity of booleans
-- Numbers, Integers, base-n, fractions, floating point
-	- .add integers: single equivalence (initial from one side, terminal from other side.) 
-	- Number returns a type of number which is a cursor on a graph. (The graph being the numberline) For example .next on a decimal number is an infinitesimal node after the current one. But we can still use operations like >/</..
-	- Negative numbers
-		- - ; a +reverse before applying  
-		- -number structured how? Just the same number but on a different position in the numberline?  
-		- What would a .minus()/.neg look like? How is it different from reverse
-	- Real numbers; something like a loop on another level than the usual structure is a simpler way to have it, assuming we somehow assume that the loop os realized. Otherwise what would the structure look like?
-- Single point, all perspectives. Ref on initial, entire initial ref as the .self, what about "entire" under some maximum travel speed/steps (or some variant of that idea)
-- Program language syntax
-- Nested arrays as structure on the initials, different than a 2d grid. + How does this work with unrealized array functions, or realized ones? Like .at(index).
-- differentiable between two points to arbitrary precision, how is it constructed?
-- If the starting Ray is a vertex, which is excluded, it acts like an initial.
+
 - Mapping infinity to a number is a loop, and a loop in the reverse direction for -infinity?
 - Note that things like `.every` start traversing from the selected node(s) location(s). Or in case of a graph it starts at what?
 - Function self-reference: Initial + negative => terminal, terminal + negative => initial, initial/terminal => negative
