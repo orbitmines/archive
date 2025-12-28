@@ -6,50 +6,7 @@
 **TODO**
 
 
-- `ray` CLI
-- IntelliJ & VS Code extension (Can we use a popup window/context on the side to have interactive graphs?)
 
----
-
-
-- Copying means what now? with the automatic splits (related to caching?)
-
-- Again we ask ourselves, what's the actual purpose of generics (or polymorphism in the functional programming in sense) ; It's the ability to partially fill variables. Take for instance ...
----
-
-All other type definitions change the overlapping graphs defined on .vertex. Not the structure of the type.
-
----
-
-Version control: New version of a function is proved to not be equivalent in some way, is it necessary to notify the user of that? Which non-equivalences dont matter, many would not.
-
----
-##### Rendering Engine
-
-Engine/Project name: ??
-The Ether 
-
-First startup:
-Greetings! 
-[Player name]
-Second startup:
-Greetings, [Player name]
-
-Rendering Engine
-
-Typeface
-Character encodings:
-- ASCII
-- UTF-8
-Language preference & default (automatic translation overlapped with specific translations - for words or sentence references)
-Colors
-Shapes
-Images
-
-
-Implemented in:
-- html
-- threejs
 -
 
 Playername is similar to settings like Utf-8 in that it is some library one associates with themselves. 
