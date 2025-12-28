@@ -8,45 +8,10 @@
 
 
 ---
-
-###### Editor
-
-
-
-No "" or ' for strings, use tab or enter to exit it as a token. Use ctrl enter/tab for \t en \n. If accepting function doesn't allow for a space in the current position, space too exits the token. 
-
-Mouse hover next to it should allow you to exit the context too (in case of people forgetting the tab for instance) visually a terminal button shows up?
-
-Ray functionality is at RAY.<> =, 
-
-~= Additional assignment, nonoverriding
-
-
----
 ###### Worlds
 
-Some other primitive instantiation like function, but imbued with a minimap/item (artifact)/world -like property. With possible internal dynamics, yet still usuable like a function (to some other structure (type)). 
-
-- Similar to function a world like that can be influenced by surrounding context (say the rest of the project/language/file. Or even exotic things like abnormal deviations from execution semantics.
-
   
-
-Indexed similar to function by a name, but also a symbol/image/structure.
-
   
-
-The the location the "item/spell/world" is applied to similarly has to acknowledge/allow acess to it, whether read, or some other "write"/interact access the function is supposed to alter it. 
-
-  
-
-("The location" here, automatically also links to a separate UI interface which is a way of selecting that kind of location. Or in the code sense it would remain with text.)
-
-  
-
-That way you can have arbitrary functions on one side, being passed to some location, which in turn needs to accept/allow certain kinds of interaction.
-
-
-icon/structure/minimap; are different rendering perspectives
 
 
 What about returning a program as a next step? Say you'd have some projectile, which is a function applied to a location, returning a program which applies it to the next location. Keep doing that until? 

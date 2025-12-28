@@ -37,7 +37,10 @@ World Generation
 - [ ] 
 
 Read
-- [ ] 
+
+
+
+
 
 ###### Open explorations/quests
 *Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
