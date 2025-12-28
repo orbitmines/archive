@@ -10,13 +10,6 @@
 ---
 ###### Worlds
 
-What about returning a program as a next step? Say you'd have some projectile, which is a function applied to a location, returning a program which applies it to the next location. Keep doing that until? 
-
-Function is applied to location (or type x)
-Item is applied to location (or player or type x)
-
-**Item and functions have a user/player attached to them.**
-
 ---
 ###### After Restructure
 - Function discovery

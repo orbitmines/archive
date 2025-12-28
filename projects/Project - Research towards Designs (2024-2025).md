@@ -42,6 +42,7 @@ Read
 
 What are different perspectives, on the same object in terms of the language.
 
+Projectile, or some energy(/localized updates), is a keeping a program pointer around and ste
 
 ###### Open explorations/quests
 *Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
