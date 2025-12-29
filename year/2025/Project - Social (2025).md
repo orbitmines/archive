@@ -1,1 +1,1 @@
-2025. Progress Update: A collection
+2025. Progress Update: A collection of ideas and initial look at the Ray programming language.
