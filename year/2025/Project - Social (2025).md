@@ -7,3 +7,5 @@ My current predicated timeline for my projects is something like this:
 - 2028: Using the IDE, create functionality for the analysis, indexing and implementation in/of other programming languages: A start to the library project.
 - 2029: Think about turning the Ether into a fully-fledged rendering engine for 3d-environments/physics/games.
 - 2030-2035 Start research on gamification of science, engineering & (technical) education
+
+He
