@@ -24,7 +24,7 @@ It's very simple:
 	- Point to a small figure
 	- dot, line, grid, world, color, more complex world generation - till you're thrown in a more complicated world. 
 		- See some direction to move into for each step. (; small step automatically, wait for the rest) ;  "Shift the attention focus at the start as a way of guiding the first few quests to get familiar with how it works"
-- Zoom back out into a room, in front of an old screen, phase into the screen, and there the starting point of the game. Allowing you to explore the room if wanted
+- Zoom back out into a room, in front of an old screen, phase into the screen, and there the starting point of the game. Allowing you to explore the room if wanted. Or it spawns new things in the room.
 
 #### Open World Generation
 *A step to translating problems to game-like invariant quests, ..., puzzles.*
