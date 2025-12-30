@@ -39,6 +39,7 @@ World Generation
 
 Read
 
+- Changes to a room, as moved holograms, slider to move back and forth between versions
 
 ---
 - Function discovery
