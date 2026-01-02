@@ -26,7 +26,8 @@ Collision only if on same servers under X ms. Wherever server registered locatio
 So there are two different types of Regions on who holds truth: "" & "", one can be distributed much easier than the other.
 
 If locations are only able to receive X number of requests per second. Prefer requests from some nearby location, and do a full 360 sweep or perspectives within some render distance and what to render there. and communicate that to nearby nodes. So that nearby node, say 1 render distance away, only needs to parse that 360 sweep once, instead of traversing it all himself
-- lowering density of information at each successive step X m away. You need 2x the number of pixels needed to provide 
+- lowering density of information at each successive step X m away. You need 2x the number of pixels needed to render it provide good quality?
+	- What about people using zoom-in at some point: That would move their location to something closer to some other node in the system?; If everyone was doing that, you'd have more t
 
 Then reserve % of traffic for this communication between nodes.
 
