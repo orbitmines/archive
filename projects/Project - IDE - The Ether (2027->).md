@@ -11,6 +11,20 @@ It's very simple:
 
 ---
 
+# UNPROCESSED
+*Tread carefully, confusion abound*
+
+---
+
+# Large Game Graphs
+Collision only if on same servers under X ms. Wherever server reigstered location isnt necessary, prefer player registered locatio
+
+If locations are only able to receive X number of requests per second. Prefer requests from some nearby location, and do a full 360 sweep or perspectives within some render distance and what to render there. and communicate that to nearby nodes. So that nearby node, say 1 render distance away, only needs to parse that 360 sweep once, instead of traversing it all himself
+
+Then reserve % of traffic for this communication between nodes.
+
+How many nodes would you need to hold 1 million players & what is the most packed they can be how many m^2
+
 #### Game Intro
 - Already allow moving around even in this quick intro? - even before collapse down
 - Quick showcase of the possible worlds ; "See the possibilities" ; Too little to see isn't obvious enough. Short overwhelm, then calm
@@ -165,9 +179,6 @@ Rendering Engine
 [igdb.com](http://igdb.com/) submit game to get twitch category
 
 ---
-
-# UNPROCESSED
-*Tread carefully, confusion abound*
 
 What if we tried programming first, how would you gamify aspects of it? We're essentially saying how do you compress something which has so many degrees of freedom, into something which is much less flexible; less degrees of freedom, yet maintain the same sort of functionality.
 - What does resource gathering mean?
