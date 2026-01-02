@@ -21,7 +21,7 @@ Synced across regions (even planetary ones) "here is where this avatar was x ms/
 - () Can setup delay for the server: Only send my location packets after X.
 	- What about receiving audio and other information based on where your character was then: receive a server feed of the perspective of that server's information.
 		- Name of this server-feed:
-- () Invisibility vs no invisibility
+- () Invisibility vs no invisibility (infinite delay)
 - Want delayed effects say of player cha
 Collision only if on same servers under X ms. Wherever server registered location isnt necessary, prefer player registered location
 So there are two different types of Regions on who holds truth: "" & "", one can be distributed much easier than the other.
