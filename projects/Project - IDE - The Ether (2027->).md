@@ -57,7 +57,7 @@ If only privately hosted, if number of players increases, suggest to move to @et
 - How to handle collisions across adjacent nodes
 - How would you do audio. Let sources interfere with eachother, then add them together and render that. How to do that over a range of perspectives 
 - Sound/Light in certain directions.
-- Configurable speed of sound, and whether it can travel through something. (lower-bound however is that of the server latency - so also how many servers are needed to render worldgraph)
+- Configurable speed of sound, and whether it can travel through something. (lower-bound however is that of the server latency - so also how many servers are needed to render worldgraph); Unless we do multicast of certain information x Nodes away 
 
 Effectively what we need is a way to render audio/light etc.. to go in all directions. Without having to render all perspectives. (But then for efficiency, in a more intelligent way somehow: Interference of abstract structures.) ; Construct waves in the world graph. How is that done efficiently?
 
