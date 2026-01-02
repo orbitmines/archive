@@ -33,7 +33,7 @@ How many nodes would you need to hold 1 million players & what is the most packe
 
 10x10cm - 50cm x 50cm avatar size
 World (1 million players)
-- 100k m^2 - 500k m^2 (10km x 10km - 20km x 20km)
+- 
 
 
 Hazy World
