@@ -18,7 +18,7 @@ It's very simple:
 
 # Large Game Graphs
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
-- () Can setup delay for the server: Only send my location packets after X.
+- (Hazy vs ) Can setup delay for the server: Only send my location packets after X.
 	- What about receiving audio and other information based on where your character was then: receive a server feed of the perspective of that server's information.
 		- Name of this server-feed:
 - (Veiled) Invisibility vs no invisibility (infinite delay)
