@@ -28,6 +28,7 @@ So there are two different types of Regions on who holds truth: "" & "", one can
 If locations are only able to receive X number of requests per second. Prefer requests from some nearby location, and do a full 360 sweep or perspectives within some render distance and what to render there. and communicate that to nearby nodes. So that nearby node, say 1 render distance away, only needs to parse that 360 sweep once, instead of traversing it all himself
 - lowering density of information at each successive step X m away. You need 2x the number of pixels needed to render it provide good quality?
 	- So what is the screen resolution used at certain perspectives? ; larger screen more pixels of information needed. Use that information to calculate how much to transfer over boundaries; largest screen used from some perspective would dominate.
+		- Resolution and how large that perspective is in the game graph.
 	- What about people using zoom-in at some point: That would move their location to something closer to some other node in the system?; If everyone was doing that, you'd have more than the allotted players requesting from that Node, and it would lag. How to support this too?
 
 Then reserve % of traffic for this communication between nodes.
