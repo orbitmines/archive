@@ -40,6 +40,9 @@ How many nodes would you need to hold 1 million players & what is the most packe
 World (1 million players) 1000x1000 players
 - 100m x 100m - 500m x 500m
 
+Let's assume 100 players + a radius of other Nodes talk to each Node.
+
+
 
 Hazy World
 
