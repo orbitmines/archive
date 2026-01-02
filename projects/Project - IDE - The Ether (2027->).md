@@ -30,6 +30,7 @@ If locations are only able to receive X number of requests per second. Prefer re
 Then reserve % of traffic for this communication between nodes.
 
 How many nodes would you need to hold 1 million players & what is the most packed they can be how many m^2
+- dynamically associate 
 
 10x10cm - 50cm x 50cm avatar size
 World (1 million players) 1000x1000 players
