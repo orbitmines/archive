@@ -55,6 +55,7 @@ So technically, it'd have to provide rendering details for a 1m-5m x 1m-5m x Inf
 If only privately hosted, if number of players increases, suggest to move to @ether (or partially), or increase @private.managed.
 
 - How to handle collisions across adjacent nodes
+- How would you do audio. Let sources interfere with eachother, then add them together and render that. How to do that over a range of perspectives
 
 Hazy World
 
