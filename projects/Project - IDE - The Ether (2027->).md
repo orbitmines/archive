@@ -242,7 +242,7 @@ Which problems are easily translatable?
 What about dynamic spaces? Is it searching for a specific type of behavior.
 
 
-**Avatar**
+# **Avatar**
 Can optionally reserve another username specific to your avatar. ; or reuse ones from old Avatars
 Is a set of unlocked skills and paths traversed with that avatar
 Allow merging and copying of your own avatar
