@@ -18,6 +18,7 @@ It's very simple:
 
 # Large Game Graphs
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
+- Want delayed effects say of player cha
 Collision only if on same servers under X ms. Wherever server registered location isnt necessary, prefer player registered location
 So there are two different types of Regions on who holds truth: "" & "", one can be distributed much easier than the other.
 
@@ -26,6 +27,8 @@ If locations are only able to receive X number of requests per second. Prefer re
 Then reserve % of traffic for this communication between nodes.
 
 How many nodes would you need to hold 1 million players & what is the most packed they can be how many m^2
+
+---
 
 #### Game Intro
 - Already allow moving around even in this quick intro? - even before collapse down
