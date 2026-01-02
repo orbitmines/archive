@@ -242,6 +242,32 @@ Which problems are easily translatable?
 What about dynamic spaces? Is it searching for a specific type of behavior.
 
 
+**Avatar**
+Can optionally reserve another username specific to your avatar. ; or reuse ones from old Avatars
+Is a set of unlocked skills and paths traversed with that avatar
+Allow merging and copying of your own avatar
+
+Progression
+- (permanent) Character
+- Avatar ; per World (or group of Worlds)
+- Avatar/Character Level
+- Avatar/Character Class (Creator{Builder, Engineer},  Explorer)
+- Avatar/Character: Skill Proficiency (Skill = class of Quests)
+
+What awards progress? How to combat being gamed as a metric?
+- Want some baseline or historic, and a recency variability 
+
+- Whether certain skills are actually used (within some class)
+- Change function of what methods are used?; as a proxy for is there change (not necessarily improvement)
+- Skill proficiency is linked to recent usage; can be partially lost
+- Are because of this usage actual quests getting solved (combat nonuseful automation)
+- What downstream effects does your solved quests have? Social value, etc.. (What is contribution to some quest is partial - how to determine value of that contribution)
+- 
+
+What is unlocked by progressing?
+- Used as metric for difficulty rating of quests
+- Want some way for the game's rewards to be actual computational objects somehow; where having a skill is some actual skill instead of a lifeless check. (Takes actual skill to repair something, for instance); Again this question of how you create scarcity 
+
 ---
 
 Example problems:
