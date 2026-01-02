@@ -41,7 +41,7 @@ World (1 million players) 1000x1000 players
 - 100m x 100m - 500m x 500m
 
 Let's assume 100 players + a radius of other Nodes talk to each Node.
-So we have 10,000 Nodes to render a (100m x 100m - 500m x 500m) space.
+So we have (100x100)10,000 Nodes to render a (100m x 100m - 500m x 500m) space.
 
 
 Hazy World
