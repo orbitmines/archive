@@ -29,7 +29,7 @@ If locations are only able to receive X number of requests per second. Prefer re
 - lowering density of information at each successive step X m away. You need 2x the number of pixels needed to render it provide good quality?
 	- So what is the screen resolution used at certain perspectives? ; larger screen more pixels of information needed. Use that information to calculate how much to transfer over boundaries; largest screen used from some perspective would dominate.
 		- Resolution and how large that perspective is in the game graph.
-	- What about people using zoom-in at some point: That would move their location to something closer to some other node in the system?; If everyone was doing that, you'd have more than the allotted players requesting from that Node, and it would lag. How to support this too? Similarly, if portals/screens are setup to look 
+	- What about people using zoom-in at some point: That would move their location to something closer to some other node in the system?; If everyone was doing that, you'd have more than the allotted players requesting from that Node, and it would lag. How to support this too? Similarly, if portals/screens are setup to look into other locations. (Is a minor delayed allowed or not? ; the closer you are the less delay.)
 
 Then reserve % of traffic for this communication between nodes.
 
