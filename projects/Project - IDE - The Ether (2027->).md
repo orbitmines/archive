@@ -32,8 +32,8 @@ Then reserve % of traffic for this communication between nodes.
 How many nodes would you need to hold 1 million players & what is the most packed they can be how many m^2
 
 10x10cm - 50cm x 50cm avatar size
-World
-- 100k m^2
+World (1 million players)
+- 100k m^2 - 500k m^2 
 
 
 Hazy World
