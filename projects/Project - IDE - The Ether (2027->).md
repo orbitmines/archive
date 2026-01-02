@@ -36,13 +36,15 @@ Then reserve % of traffic for this communication between nodes.
 How many nodes would you need to hold 1 million players & what is the most packed they can be how many m^2
 - dynamically allocate more nodes the more players are in some region.
 
+Assuming 2d, though the same would apply over 3d distances, just more communication between Nodes.
+
 10x10cm - 50cm x 50cm avatar size
 World (1 million players) 1000x1000 players
 - 100m x 100m - 500m x 500m
 
 Let's assume 100 players + a radius of other Nodes talk to each Node.
-So we have (100x100)10,000 Nodes to render a (100m x 100m - 500m x 500m) space.
-
+So we have (100x100) 10,000 Nodes to render a (100m x 100m - 500m x 500m) space.
+So 1m x 1m - 5m x 5m 
 
 Hazy World
 
