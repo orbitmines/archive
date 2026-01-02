@@ -59,7 +59,7 @@ If only privately hosted, if number of players increases, suggest to move to @et
 - Sound/Light in certain directions.
 - Configurable speed of sound, and whether it can travel through something.
 
-Effectively what we need is a way to render audio/light etc.. to go in all directions. Without having to render all perspectives. ; Construct waves in the world graph.
+Effectively what we need is a way to render audio/light etc.. to go in all directions. Without having to render all perspectives. ; Construct waves in the world graph. How is that done efficiently?
 
 Hazy World
 
