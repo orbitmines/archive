@@ -52,6 +52,8 @@ Like this the latency would go up linearly as the distance of Nodes away increas
 So technically, it'd have to provide rendering details for a 1m-5m x 1m-5m x Inf cube,
 - What if there's additional rendering information, like for certain players, certain players are invisible, or for certain players, certain players are highlighted.
 
+If only privately hosted, if number of players increases, suggest to move to @ether, or increase @private.managed.
+
 - How to handle collisions across adjacent nodes
 
 Hazy World
