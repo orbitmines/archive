@@ -19,6 +19,7 @@ It's very simple:
 # Large Game Graphs
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
 - () Can setup delay for the server: Only send my location packets after X.
+	- What about receiving audio and other information based on where your character was then: receive a server feed of the perspective of that server's information.
 - () Invisibility vs no invisibility
 - Want delayed effects say of player cha
 Collision only if on same servers under X ms. Wherever server registered location isnt necessary, prefer player registered location
