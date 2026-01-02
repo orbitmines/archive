@@ -26,6 +26,7 @@ Collision only if on same servers under X ms. Wherever server registered locatio
 So there are two different types of Regions on who holds truth: "" & "", one can be distributed much easier than the other.
 
 If locations are only able to receive X number of requests per second. Prefer requests from some nearby location, and do a full 360 sweep or perspectives within some render distance and what to render there. and communicate that to nearby nodes. So that nearby node, say 1 render distance away, only needs to parse that 360 sweep once, instead of traversing it all himself
+ - Only directionally need to communicate this information to other Nodes. Only nodes in opposite direction of the source, need the information.
 - lowering density of information at each successive step X m away. You need 2x the number of pixels needed to render it provide good quality?
 	- So what is the screen resolution used at certain perspectives? ; larger screen more pixels of information needed. Use that information to calculate how much to transfer over boundaries; largest screen used from some perspective would dominate.
 		- Resolution and how large that perspective is in the game graph.
