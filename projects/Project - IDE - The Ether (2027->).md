@@ -61,6 +61,10 @@ If only privately hosted, if number of players increases, suggest to move to @et
 
 Effectively what we need is a way to render audio/light etc.. to go in all directions. Without having to render all perspectives. (But then for efficiency, in a more intelligent way somehow: Interference of abstract structures.) ; Construct waves in the world graph. How is that done efficiently?
 
+OR
+
+Store Ray and iterate through object at that World Node, eventually going through its boundary through another Node. Then defer to that World Node's last version of that information. Dont allow communication with the next Node.
+
 Hazy World
 
 ---
