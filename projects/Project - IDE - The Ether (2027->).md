@@ -16,6 +16,10 @@ It's very simple:
 
 ---
 
+Movement but the graph needs to go around some body to be put behind them? Instead if through
+
+
+
 # Large Game Graphs
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
 - (Hazy vs ) Can setup delay for the server: Only send my location packets after X.
