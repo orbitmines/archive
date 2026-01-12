@@ -18,7 +18,28 @@ It's very simple:
 
 Movement but the graph needs to go around some body to be put behind them? Instead if through
 
+profram terminating needs also sone check that every step takes finite time; it needs temporal awareness 
 
+difference in color mapped/filter across frequency
+
+double (()) mapped to the utf8 char 
+
+Programming language to create programming languages and IDEs for them
+- Have some language which is English compiled to Ray with some way of supporting sentence steucture. What is unsupported? ; Have some way of generating common grammatical structures from the language models. ; somehow integrate them into development here.
+- Things like collapse the Ray def to English if simpler ; link the two translations
+
+
+Any set of actions performed on a single thing, into a function
+
+Any object as tabular rendering; have preferences for certain types to render is certain ways per user
+
+as Renderable on String to define render func instead of the plain string
+
+Condition on source file like sort all the classes here in alphabetical order like library index
+
+Language Server Protocol support 
+
+Of course, we all know that pretty much every language is formally equivalent. But that's not helpful for answering the questions about differences between languages: Physical implementation, energy requirements etc.
 
 # Large Game Graphs
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
