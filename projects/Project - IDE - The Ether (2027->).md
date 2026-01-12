@@ -56,6 +56,50 @@ Reverse equivalence graph - add abstract definitions instead of specific code
 - Use "Comparing Languages" for specific algorithm comparisons; what changes in the possible analysis; what can we deduce now what we couldn't before
 - Endpoints, network calls, db, files etc.. all of it, configure custom values at each point
 
+# Comparing Languages
+Comparing Languages
+
+(Running evaluation)
+Spatial extent (memory&threads) & temporal extent - then compare the same function across languages
+
+Dichotomies: 
+Can we use the same thing Alex thought about?
+Markovian Nonmarkovian
+Abstract (High Level) vs  (Low Level) -> Interaction nets/combinators vs instruction sets, or gate implementations of those instruction sets
+In Time (x) In Space (y)
+
+Higher spatial density -> lower spatial circuit complexity
+Higher spatial density & higher temporal circuit complexity -> Higher gravity
+
+High/low spatial/temporal abstraction 
+
+Higher temporal complexity is many in sequence layers?
+Lower spatial complexity is fewer kinds of building blocks? (What happens if there are many redundant replicas of that building block?)
+
+resource use for certain types of algorithms
+
+Analysis of compilation process: Spatial and temporal circuit complexity in that specific algorithm
+- Quality of the equivalence graph, measured with what?
+
+What makes abstract models better than others? 
+- Time&Space vs Abstraction Depth? : Verboseness; How abstract certain statement are; deep meaningful statements, but still customizable 
+  - Sense of meaningful: Useful abstraction that get depended on a lot; and what they otherwise would've looked like without 
+- Coverage of what kind of functionality it has; but how do you put that in a 1d?
+- What kind of (classes of) thinking do they unlock; [how do you know this]
+- What is the abstraction ceiling? What paradigm are not expressible within some time/space complexity 
+- As abstraction increases what happens to control interface; what do you have influence over
+- Which abstract spaces are described effectively relative to the surface area (interface) one has. So a 3D interactive maps nicely but constructing a graph with just text less so? (what would be a 1d interpretation)
+- How competent in dealing with infinities & time 
+- Similarities in libraries or structures so that from the perspective of each language, how different/hard to learn is another language,( rudimentary difficulty rating)
+
+Competencies calculated with vs without all the libraries made for it 
+- Effectiveness of standard library? How much duplicate code is out there in libraries.
+
+Can you use these criteria to search for new useful abstract languages? Pick/Generate a new model with certain picked qualities
+
+Better for what?
+- Control over what type of system 
+
 # Large Game Graphs
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
 - (Hazy vs ) Can setup delay for the server: Only send my location packets after X.
