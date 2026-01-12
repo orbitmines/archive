@@ -41,6 +41,21 @@ Language Server Protocol support
 
 Of course, we all know that pretty much every language is formally equivalent. But that's not helpful for answering the questions about differences between languages: Physical implementation, energy requirements etc.
 
+# Tools for Excavation of Languages
+Reverse equivalence graph - add abstract definitions instead of specific code
+
+- Extract features from programming language/executable and implement in my own language (if possible)
+  - Assets, and renderable abstractions which use those assets
+  - Create scoped objects; What is relevant to what; what are functions applied to things which we can extract
+    - Rewrite as higherlevel code to analyze separately 
+- Compare differences of two separate executables
+- Find source code of targeting code, if in public repo somewhere, and being able to ref back to the original code from the generated code
+- Likely original highlevel language - or highest, in the case of LLVM they might look alike alot for instance
+- For translation from language A to B we might want custom compiler rules for specific languages
+- Run with breakpoints and the usual debugging tooling & edit the code (from multiple descriptions levels)
+- Use "Comparing Languages" for specific algorithm comparisons; what changes in the possible analysis; what can we deduce now what we couldn't before
+- Endpoints, network calls, db, files etc.. all of it, configure custom values at each point
+
 # Large Game Graphs
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
 - (Hazy vs ) Can setup delay for the server: Only send my location packets after X.
