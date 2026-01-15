@@ -55,6 +55,10 @@ Discovery data
 
 ---
 
+If you have an initial boundary as the originators of events other than the beginning of the universe, say those needed for freewill, so an argument against causation ; in the sense that not every event has a cause (like if the universe has an origin point). There's the interesting problem conflicting with energy conservation; is there only possible reshuffling of certain structures whose origin is not traced to an initial boundary, or does it introduce new energies, however small. Which would be detectable. Now if it doesn't, which is also interesting, that means there's an actual interruption of what would otherwise have happened with that structure - which might be detectable. It's a murky idea, but probably my best guess at actually combating the question of causation. But it does not cover the case of: only certain structures would lent themselves to opening up new initial causal boundaries; which would partially cause the initial boundary to happen; But that mighr not be a problem because it's only partially.
+
+---
+
 Quantum physics properties non-markovian higher spatial circuit complexity?
 Higher spatial density -> lower spatial circuit complexity
 Higher spatial density & higher temporal circuit complexity -> Higher gravity
@@ -469,3 +473,32 @@ What about dynamically changing rewrite rules, are those explored by anyone? ; s
 ---
 
 Composability is Non-locality? 
+
+
+---
+
+
+*Physics, speed of light, limitations of a system*
+
+If everything stands still except for one thing, what  is the largest speed that thing can attain, and if discreet steps, the every-th xth tick update of the universe would ensure only 1.0c, 0.5c, 0.33c ... be possible velocities. Other fractional velocities being caused by the relative moment of other objects? (ex: moving towards something at 0.5c, but it moving towards you at 0.33c, would allow for 0.83c in the sense of catching up to the thing?)
+
+Expansion of space faster than a tick? How would one explain that
+
+Reconcrptualize spped of light as the earliest tick-mechanism of the universe. Allowing for speeds of 1c, 0.5c, 0.33c ... only, discreet values
+
+Refractive properties of matter and decrease in speed of light, but between 1c & 0.5c caused by additional distance traveled to get around matter? But does not actually travel slower?
+
+
+My take on relativity and a speed limit, before carefully reading the literature;
+
+Was does it mean for there to be a speed limit? Be it the speed of light, or some conceptual not yet thought of limit. If we'd set aside loopholes one can take to go outside the system to achieve higher speeds (not ordinarily higher speeds, but simply to by other means travel across distances); we'll stay inside the system. When looking at existing formulas one might say: 'The faster one goes the harder (more energy) it is to accelerate even further, this nears infinity as one approaches the speed of light. (taking this as *the* speed limit)'. But what does this actually mean? Infinite energy required to accelerate even further? Like many concepts in physics and mathematics, I'd like to take the approach that (as most would acknowledge), that these formulas are simply models of expected behaviour of the universe. But they themselves can be quite deceiving and instill incorrect intuitions (as any perception would). Therefore, I'd like to simply offer an alternative perception on how a speed limit could possibly be constructed.
+
+Say two things were both moving at the exact same speed, and that speed it the limit. Imagine those two things to be you behind the steering wheel of some vehicle (in actually this likely wouldn't be possible, but consider these *things* to be an analogy for lower-level structures). In order to reach out one's hand to the steering wheel, your arm would need to accelerate; it needs to go faster in order to catch up between the distance of you and the vehicle. (Addition: Let alone you'd be able to think, that you'd be able to send signals from the brain to the arms to initiate such movement. That is why one says that at a speed limit, one would experience the transit as instantanious, for nothing could be thought or experience, because acceleration is necessary in order to do so.) But this is not possible, you'd need infinite energy to do such a thing.
+
+Look at this example another way. Instead of thinking about speed and acceleration in this way, perceive that at some low-level version of a universe, directly or as an emergent property, we could determine/observe the speeds of things. This particle has this speed and is moving in this direction, the other particle ... . Instead of thinking about speed at the highest attainable thing through acceleration, let's frame it as the following: Each particle has a time it is updated by the universe (whatever that paradoxical thing means), the way the universe *decides* which particle to update first, speed is the thing the universe looks at. The lowest update interval would be the speed limit, for how could you possibly go faster? Even if your property of speed said you're faster than that interval tick, it is of no consequence. Suddenly the idea of a speed limit becomes a lot easier to conceptualize, instead of the mind-bending idea of not being able to move one's arm if one was going fast enough. Relativity, where time is concerned, can suddenly become a lot easier to comprehend when not using such mathematical models.
+
+When looking at the other end of the spectrum, what it means to not move, the only way I could possibly think such a thing was possible is being so incredibly far from anything else. For if I have some piece of particles which are not moving on Earth, they are certainly moving in another context; the solar system. Again, relativity enters the mix.
+
+
+---
+

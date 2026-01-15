@@ -16,6 +16,18 @@ It's very simple:
 
 ---
 
+defining multiple entrypoints of a function with labels. Use func**.LABEL(). Also define a starting branch which doesn't executed by default but only accessible with a label
+
+  
+
+How to think about Object as a superposed Ray ; Where Object<String> is all those overlapping Rays ; resulting into Strings only.
+
+What about structures which define steps beyond&before the usual property getter/setter (is that just there's equipped structure on the return so .field.next if .field yields a ray
+
+That's in the language's implementation of itself
+
+---
+
 Movement but the graph needs to go around some body to be put behind them? Instead if through
 
 profram terminating needs also sone check that every step takes finite time; it needs temporal awareness 
