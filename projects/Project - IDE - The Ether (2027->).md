@@ -16,6 +16,10 @@ It's very simple:
 
 ---
 
+Equivalent code if type is refined Like Number vs i64
+
+---
+
 assume as a separate clause as well
 
 ---
