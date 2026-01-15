@@ -16,6 +16,10 @@ It's very simple:
 
 ---
 
+assume as a separate clause as well
+
+---
+
 defining multiple entrypoints of a function with labels. Use func**.LABEL(). Also define a starting branch which doesn't executed by default but only accessible with a label
 
   
@@ -392,6 +396,30 @@ Which problems are easily translatable?
 
 What about dynamic spaces? Is it searching for a specific type of behavior.
 
+Every part can be a dynamic
+
+(1) Quest Discovery
+  (a) Define problem in a known language; interface
+    - Knowledge Model
+    - Personalized Interface
+    - Can be incredibly abstract/vague
+  (b) In an Open World; generative world to search for problems
+    - Knowledge Model
+    - 
+
+Then looped;
+
+(2 - ) Quest refinement (Redefine problem in a new Interface)
+  - Possibly subdivide into many Quests (which parallel, which in sequence)
+  (a) Explore in Open World; possible representations
+  (b) Existing Interface/Item Discovery
+
+(2 - ) Quest progression (using items)
+
+
+---
+
+Now how do you make it feel like a game?
 
 # **Avatar**
 Can optionally reserve another username specific to your avatar. ; or reuse ones from old Avatars
