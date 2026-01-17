@@ -55,6 +55,26 @@ Discovery data
 
 ---
 
+Motion by which side we're absorbing spatial point from into the structure. It ripples through the structure as energy and wave
+
+Motion by pushing in between spatial points in the direction I'm going in; forcing them to the sides and then allowing them to merge behind you
+
+![[movement.png]]
+
+If you could observe a lightray from the side: Does a lightray (in this hypothetical case, observationally (not actually) slowly stretch longer (till max 2x its size) until its length in timesteps and then begin contracting again (when it interacts with something). This stretching/contracting being linear.
+
+Interaction: internal structure and spatial structure have influence on each other ; exchange energies.
+
+Internal state right a multigraph with
+
+Is the maximum frequency the same as the speed of light: like both internal state and spatial propegation are limited by the same parallel clock?
+
+What if it cycles between two states; where high frequency, but there's barely any structure. Why would that cause massive energy release? Maybe because it interacts with something else which has a lot of structure? 
+
+If photons move through eachother it's possible to move slightly faster than light since partially space is still contained within the photon.
+
+---
+
 If you have an initial boundary as the originators of events other than the beginning of the universe, say those needed for freewill, so an argument against causation ; in the sense that not every event has a cause (like if the universe has an origin point). There's the interesting problem conflicting with energy conservation; is there only possible reshuffling of certain structures whose origin is not traced to an initial boundary, or does it introduce new energies, however small. Which would be detectable. Now if it doesn't, which is also interesting, that means there's an actual interruption of what would otherwise have happened with that structure - which might be detectable. It's a murky idea, but probably my best guess at actually combating the question of causation. But it does not cover the case of: only certain structures would lent themselves to opening up new initial causal boundaries; which would partially cause the initial boundary to happen; But that mighr not be a problem because it's only partially.
 
 ---
