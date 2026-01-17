@@ -16,6 +16,15 @@ It's very simple:
 
 ---
 
+.cfg.ray
+
+& variables are mapped to & only changes types/flobally defined vars for that context?? Cfg /file/path, Cfg @me/file, If just toplevel, it searches for any with that name unless toplevel exists. Cfg /File, Cfg.File
+They still get executed.
+
+All field are instantiated with ?() that is already the default, if? then None
+
+---
+
 Equivalent code if type is refined Like Number vs i64
 
 ---
