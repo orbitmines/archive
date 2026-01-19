@@ -13,4 +13,7 @@ B. Gamification of Science, Engineering and Education
 - Quest Effectiveness: How does the reward of the quest influence our future?
 - Quest Difficulty Rating: How do you assign a difficulty rating to a quest, relative for the character completing it.
 - What primitives do you need to program NPC Quest selection?
-C. Platform and L
+C. The Ray Programming Language
+- I. 
+- II.
+- III.
