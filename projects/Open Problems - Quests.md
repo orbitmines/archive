@@ -12,6 +12,7 @@ B. Gamification of Science, Engineering and Education
 - Quest Discovery: How do you generate/find quests relevant relative to some model one has of a player's knowledge?
 - Quest Effectiveness: How does the reward of the quest influence our future?
 - Quest Difficulty Rating: How do you assign a difficulty rating to a quest, relative for the character completing it.
+- Quest Progress: What would be intermediate feedback states to communicate?
 - What primitives do you need to program NPC Quest selection?
 C. The Ray Programming Language
 - I. 

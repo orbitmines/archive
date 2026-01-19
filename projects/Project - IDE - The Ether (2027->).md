@@ -387,8 +387,6 @@ Instead of having the entire 3d structure in memory different nodes of "in betwe
 Reconceptualize a problem as movement in some structure. A toy example would be finding a path from A->B by hand, and having a tool which automatically explores in a particular way (tactic).
 
 
-What would be intermediate feedback states to communicate?
-
 How do we know we've reached a solution?
 
 What would be an example of a whole class of problems which are solved by some solution?
