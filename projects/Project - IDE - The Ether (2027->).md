@@ -381,10 +381,6 @@ Instead of having the entire 3d structure in memory different nodes of "in betwe
 #### open questions
 Reconceptualize a problem as movement in some structure. A toy example would be finding a path from A->B by hand, and having a tool which automatically explores in a particular way (tactic).
 
-What would be a problem to translate?
-
-What would be its structure?
-
 What tools (tactics basically) would be used?
 
 How does one apply the tools?
