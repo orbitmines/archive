@@ -12,5 +12,5 @@ B. Gamification of Science, Engineering and Education
 - Quest Discovery: 
 - Quest Effectiveness: How does the reward of the quest influence our future?
 - Quest Difficulty Rating:
-- NPC Quest 
+- NPC Quest selection: What primitives do you want to program NPC Quest selection?
 C. Platform and L
