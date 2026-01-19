@@ -5,7 +5,7 @@ A. Interpretation and Reinterpretation of existing Software
 - How do you compare [thousands](https://github.com/orbitmines/ray/blob/main/Ether/library/Index.ray) of languages, without redefining all the semantics by hand? (using their existing implementations)
 - 
 B. Gamification of Science, Engineering and Education
-- What would be an example problem, and example reimplementation of that problem in game-variant?
+- What would be an example problem, and example reimplementation of that problem as a game?
 - How do you tailor the interface to each player? ; When/How would you add to that arsenal?
 - 
 C. Platform and L
