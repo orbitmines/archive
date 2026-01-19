@@ -387,18 +387,6 @@ Instead of having the entire 3d structure in memory different nodes of "in betwe
 Reconceptualize a problem as movement in some structure. A toy example would be finding a path from A->B by hand, and having a tool which automatically explores in a particular way (tactic).
 
 
-
-
-Then looped;
-
-(2 - ) Quest refinement (Redefine problem in a new Interface)
-  - Possibly subdivide into many Quests (which parallel, which in sequence)
-  (a) Explore in Open World; possible representations
-  (b) Existing Interface/Item Discovery
-
-(2 - ) Quest progression (using items)
-
-
 ---
 
 Now how do you make it feel like a game?
