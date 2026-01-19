@@ -20,6 +20,7 @@ A. Interpretation and Reinterpretation of existing Software
 - Which categories do you use to measure all the diversity?
 	- Grammars (verbosity), Runtime Complexity (which abstraction layer), Parallel/Sequential Time/Spatial complexity (??)
 - How do you create differentiation of languages based on those measures?
+- How do you extract specific features from large executables?
 B. Gamification of Science, Engineering and Education
 - What would be an example problem, and example reimplementation of that problem as a game?
 - How do you model the existing knowledge of a player?
