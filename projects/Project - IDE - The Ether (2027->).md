@@ -25,6 +25,7 @@ B. Gamification of Science, Engineering and Education
 	- How do you create a metric: "leveling system" to describe a players skill-level with certain interfaces?
 - How do you tailor the interface to each player? ; When/How would you add to that arsenal?
 - Quest Discovery: How do you generate/find quests relevant relative to some model one has of a player's knowledge?
+	- How do you do open world generation based on a player's existing knowledge?
 - Quest Effectiveness: How does the reward of the quest influence our future?
 - Quest Difficulty Rating: How do you assign a difficulty rating to a quest, relative for the character completing it.
 - Quest Progress: What would be intermediate feedback states to communicate?
