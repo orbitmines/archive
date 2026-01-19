@@ -18,7 +18,7 @@ A. Interpretation and Reinterpretation of existing Software
 	- [A Program in Ray](https://github.com/orbitmines/ray/blob/main/Ether/.ray/Program.ray)
 - How do you compare [thousands](https://github.com/orbitmines/ray/blob/main/Ether/library/Index.ray) of languages, without redefining all the semantics by hand? (using their existing implementations)
 - Which categories do you use to measure all the diversity?
-	- Grammars (verbosity), Runtime Complexity (which abstraction layer), Parallel/Sequential Time/Spatial complexity (??)
+	- Grammars (verbosity), Runtime Complexity (which abstraction layer), Parallel/Sequential Time/Spatial complexity (??), Measurement of how complex the access to spatial structure of a Program is
 - How do you create differentiation of languages based on those measures?
 - How do you extract specific features from large executables/source code bases? And then reuse them in yours?
 - How do you generate version control for substructures when you're only given the complete current and previous states of the programs? 
