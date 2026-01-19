@@ -8,4 +8,6 @@ B. Gamification of Science, Engineering and Education
 - What would be an example problem, and example reimplementation of that problem as a game?
 - How do you tailor the interface to each player? ; When/How would you add to that arsenal?
 - Quest Discovery: 
+- Quest Effectiveness:
+- Quest Difficulty Rat
 C. Platform and L
