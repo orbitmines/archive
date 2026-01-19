@@ -4,5 +4,6 @@ A. Interpretation and Reinterpretation of existing Software
 	- [A Program in Ray](https://github.com/orbitmines/ray/blob/main/Ether/.ray/Program.ray)
 - How do you compare [thousands](https://github.com/orbitmines/ray/blob/main/Ether/library/Index.ray) of languages, without defining all the semantics by hand? (using their existing implementations)
 - 
-B. Gamification of Science, E 
-C. 
+B. Gamification of Science, Engineering and Education
+- 
+C. Platform and L
