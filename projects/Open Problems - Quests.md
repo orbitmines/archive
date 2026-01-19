@@ -6,8 +6,11 @@ A. Interpretation and Reinterpretation of existing Software
 - 
 B. Gamification of Science, Engineering and Education
 - What would be an example problem, and example reimplementation of that problem as a game?
+- How do you model the existing knowledge of a player?
+- How do you initially calibrate the existin
 - How do you tailor the interface to each player? ; When/How would you add to that arsenal?
 - Quest Discovery: 
 - Quest Effectiveness:
-- Quest Difficulty Rat
+- Quest Difficulty Rating:
+- 
 C. Platform and L
