@@ -8,7 +8,7 @@ B. Gamification of Science, Engineering and Education
 - What would be an example problem, and example reimplementation of that problem as a game?
 - How do you model the existing knowledge of a player?
 	- How do you initially calibrate the existing knowledge of a player?
-	- How do you create a metric: "leveling system" to describe a players 
+	- How do you create a metric: "leveling system" to describe a players skill-level with certain interfaces?
 - How do you tailor the interface to each player? ; When/How would you add to that arsenal?
 - Quest Discovery: How do you generate/find quests relevant relative to some model one has of a player's knowledge?
 - Quest Effectiveness: How does the reward of the quest influence our future?
