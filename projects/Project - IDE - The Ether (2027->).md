@@ -389,21 +389,6 @@ Reconceptualize a problem as movement in some structure. A toy example would be 
 
 
 
-Which problems are easily translatable?
-
-What about dynamic spaces? Is it searching for a specific type of behavior.
-
-Every part can be a dynamic
-
-(1) Quest Discovery
-  (a) Define problem in a known language; interface
-    - Knowledge Model
-    - Personalized Interface
-    - Can be incredibly abstract/vague
-  (b) In an Open World; generative world to search for problems
-    - Knowledge Model
-    - 
-
 Then looped;
 
 (2 - ) Quest refinement (Redefine problem in a new Interface)
