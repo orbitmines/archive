@@ -16,5 +16,7 @@ B. Gamification of Science, Engineering and Education
 C. The Ray Programming Language
 - I. 
 	- Should you superpose concurrent accesses of a variable?
+	- Is a function's control-graph without an initial boundary: a starting point, a valid function?
+	- 
 - II.
 - III.

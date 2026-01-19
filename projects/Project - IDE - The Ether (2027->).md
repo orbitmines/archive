@@ -33,6 +33,11 @@ assume as a separate clause as well
 
 ---
 
+Should you superpose concurrent accesses of a variable?
+: Could be a range of values if writing is overlapped, to model a languages behavior.
+
+---
+
 defining multiple entrypoints of a function with labels. Use func**.LABEL(). Also define a starting branch which doesn't executed by default but only accessible with a label
 
   
