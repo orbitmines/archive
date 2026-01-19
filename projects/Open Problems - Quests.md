@@ -9,8 +9,8 @@ B. Gamification of Science, Engineering and Education
 - How do you model the existing knowledge of a player?
 	- How do you initially calibrate the existing knowledge of a player?
 - How do you tailor the interface to each player? ; When/How would you add to that arsenal?
-- Quest Discovery: 
+- Quest Discovery: How do you generate/find quests relevant relative to some model one has of a player's knowledge.
 - Quest Effectiveness: How does the reward of the quest influence our future?
 - Quest Difficulty Rating:
-- NPC Quest selection: What primitives do you want to program NPC Quest selection?
+- What primitives do you need to program NPC Quest selection?
 C. Platform and L
