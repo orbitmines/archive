@@ -15,7 +15,7 @@ B. Gamification of Science, Engineering and Education
 - Quest Progress: What would be intermediate feedback states to communicate?
 - Quest Completion: How do you verify the solution?
 - What primitives do you need to program NPC Quest selection?
-- Translatability: What makes a problem translatable into a game?
+- Translatability: What makes a problem translatable into a game? And what determines h
 C. The Ray Programming Language
 - I. 
 	- Should you superpose concurrent accesses of a variable?
