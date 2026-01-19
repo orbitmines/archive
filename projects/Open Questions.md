@@ -1,4 +1,6 @@
 
 A. Interpretation and Reinterpretation of existing Software
-- What 
+- What is a useful Universal Language in which to compare all existing languages?
+	- 
+- 
 B. 
