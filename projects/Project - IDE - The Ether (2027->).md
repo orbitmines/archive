@@ -18,7 +18,7 @@ A. Interpretation and Reinterpretation of existing Software
 	- [A Program in Ray](https://github.com/orbitmines/ray/blob/main/Ether/.ray/Program.ray)
 - How do you compare [thousands](https://github.com/orbitmines/ray/blob/main/Ether/library/Index.ray) of languages, without redefining all the semantics by hand? (using their existing implementations)
 - Which categories do you use to measure all the diversity?
-	- Grammars (verbosity), Runtime Complexity (which abstraction layer), Parallel
+	- Grammars (verbosity), Runtime Complexity (which abstraction layer), Parallel/Sequential Time/Spatial complexity (??)
 - How do you create differentiation of languages based on those measures?
 B. Gamification of Science, Engineering and Education
 - What would be an example problem, and example reimplementation of that problem as a game?
@@ -513,3 +513,19 @@ Always, how detailed, how much context, how much can it latch on etc..
 - Drag from one point of contact on the background to another place
 
 - 'Install app' in browser for desktop/mobile
+
+ - [ ] Time & Spatial (Circuit) complexity  
+   One complexity is related to sequential processing capacity (hence circuit or time complexity, a very well known concept in computer science)  
+  
+The other is related to parallel processing capacity  
+  
+   For instance what is usually called high level languages (far from just zeros and ones), I think that affords higher parallel processing.  
+  
+Robustness of code etc I think is very connected to this too. More complex is usually less robust, but this means there will be two types of robustness I guess  
+  
+One last note: I think these two types of complexities and costs can be considered also "inverse problem solving" and "forward problem solving":  
+  
+- agents' cost of training: cost of inverse problem solving (forming the model, building it). Basically induction cost  
+- agents' cost of "deployment" or use: cost of forward problem solving (using the model to predict things; ""generative"" or predictive cost). Basically deduction cost  
+  
+~ Alex
