@@ -21,7 +21,7 @@ A. Interpretation and Reinterpretation of existing Software
 	- Grammars (verbosity), Runtime Complexity (which abstraction layer), Parallel/Sequential Time/Spatial complexity (??)
 - How do you create differentiation of languages based on those measures?
 - How do you extract specific features from large executables/source code bases?
-- How do you generate version control for substructures when you're only given th 
+- How do you generate version control for substructures when you're only given the complete current and previous states of the programs? 
 B. Gamification of Science, Engineering and Education
 - What would be an example problem, and example reimplementation of that problem as a game?
 - How do you model the existing knowledge of a player?
