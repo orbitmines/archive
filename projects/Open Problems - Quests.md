@@ -6,5 +6,6 @@ A. Interpretation and Reinterpretation of existing Software
 - 
 B. Gamification of Science, Engineering and Education
 - What would be an example problem, and example reimplementation of that problem in game-variant?
-- How do you tailor the interface to each player? When wou
+- How do you tailor the interface to each player? ; When/How would you add to that arsenal?
+- 
 C. Platform and L
