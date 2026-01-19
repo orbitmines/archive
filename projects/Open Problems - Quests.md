@@ -19,6 +19,8 @@ B. Gamification of Science, Engineering and Education
 - What primitives do you need to program NPC Quest selection?
 - Translatability: What makes a problem translatable into a game? And what determines how hard it is to translate that problem?
 - How does the game start? For new sessions starting with zero knowledge of the player, to one which is calibrated to them?
+- How do you make progression feel like a videogame?
+- 
 C. The Ray Programming Language
 - I. 
 	- Should you superpose concurrent accesses of a variable?

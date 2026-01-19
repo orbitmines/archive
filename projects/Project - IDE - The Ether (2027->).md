@@ -383,9 +383,6 @@ Autogenerate some parts of this sort of environment when a user is first loading
 
 Instead of having the entire 3d structure in memory different nodes of "in between with distance x", allow overlapping 
 
-#### open questions
-Reconceptualize a problem as movement in some structure. A toy example would be finding a path from A->B by hand, and having a tool which automatically explores in a particular way (tactic).
-
 
 ---
 
