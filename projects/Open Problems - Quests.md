@@ -25,8 +25,7 @@ C. The Ray Programming Language
 	- Is a function's control-graph without an initial boundary: a starting point, a valid function?
 	- How do you run a function backwards?
 	- How do you call and define inverses of functions?
-	- What would be an appror
+	- What would be an appropriate geometrical library for describing UI languages?
 - II.
 	- How do you scale large game graphs to millions of players?
 	- How do you limit spatial propagation by means of actual computational restraints?
-- III.
