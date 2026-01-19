@@ -15,5 +15,6 @@ B. Gamification of Science, Engineering and Education
 - What primitives do you need to program NPC Quest selection?
 C. The Ray Programming Language
 - I. 
+	- Should you superpose concurrent accesses of a variable?
 - II.
 - III.
