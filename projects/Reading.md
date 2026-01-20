@@ -1,6 +1,8 @@
 
 ##### Reading  
 - https://gaultier.github.io/blog/x11_x64.html
+- https://mariokartwii.com/armv8/
+- 
 - [ ] Computational neuro: https://compneuro.neuromatch.io/tutorials/intro.html
 
 - [ ] Active inference explore: https://coda.io/@active-inference-institute/aii-onboarding/activities-7
