@@ -77,6 +77,8 @@ so I would say that "what gives photons their energy" is not the most proper que
 
 Alex
 
+(Check the whole conversation afterwards.) January 2026
+
 ---
 
 Motion by which side we're absorbing spatial point from into the structure. It ripples through the structure as energy and wave
