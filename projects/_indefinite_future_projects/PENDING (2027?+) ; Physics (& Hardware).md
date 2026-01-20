@@ -55,6 +55,30 @@ Discovery data
 
 ---
 
+Fadi Shawki:
+
+Like the energy depends on the frequency of the lightwave yada yada, depending on the oscillation of the wave, sure. But where I get lost is that a single photon is enough to know its energy, and thus its frequency. So a photon can't just be a single point in space moving forwards: like the updates in a graph rewriting system. But it must carry with it some structure which uniformly moves as one (so massless) without interacting with space it moves through & without inner state updates (because well we're assuming we're at the max speed limit) and there must be more of that structure the higher the frequency is.
+
+  
+
+(((And the maximum frequency, thus energy is because I think you can at min oscillate back and forth between two possible states with each successive timestep)))
+
+  
+
+Does that make sense?
+
+  
+
+So either light does do some updating with the space it interacts with/moves through and is not the max speed (if only by a small amount). Or somehow these updates through space are independent of the light's structure. Or somehow that structure is actually collapsed to a single point and then when it interacts it """releases structure"""
+
+  
+
+so I would say that "what gives photons their energy" is not the most proper question. I would phrase it as "why is it relevant to differentiate particles between having mass or not? what does it mean to have the highest kinetic vs potential energy ratio possible?"
+
+Alex
+
+---
+
 Motion by which side we're absorbing spatial point from into the structure. It ripples through the structure as energy and wave
 
 Motion by pushing in between spatial points in the direction I'm going in; forcing them to the sides and then allowing them to merge behind you
