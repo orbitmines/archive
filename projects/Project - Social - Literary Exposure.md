@@ -100,10 +100,10 @@ console.log(res);
 - :youtube: :strangeloop: ["Programming Distributed Systems" (2023)](https://www.youtube.com/watch?v=Mc3tTRkjCvE) ;  *Mae Milano*
 - :youtube: :lex_fridman_podcast: [Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming | #484 (2025)](https://www.youtube.com/watch?v=o3gbXDjNWyI) ;  *Dan Houser, Lex Fridman*
 - :youtube: :lex_fridman_podcast: [Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | #487 (2025)](https://www.youtube.com/watch?v=_bBRVNkAfkQ&pp=0gcJCYcKAYcqIYzv) ;  *Irving Finkel, Lex Fridman*
-- :youtube: [Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | #482 (2025)](https://www.youtube.com/watch?v=qjPH9njnaVU) ;  *Pavel Durov, Lex Fridman*
-- :youtube: [David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | #485 (2025)](https://www.youtube.com/watch?v=m_CFCyc2Shs) ;  *David Kirtley, Lex Fridman*
-- :youtube: [Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | #488 (2025)](https://www.youtube.com/watch?v=14OPT6CcsH4) ;  *Joel David Hamkins, Lex Fridman*
-- :youtube: [Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | #489 (2026)](https://www.youtube.com/watch?v=Z-FRe5AKmCU) ;  *Paul Rosolie, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | #482 (2025)](https://www.youtube.com/watch?v=qjPH9njnaVU) ;  *Pavel Durov, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | #485 (2025)](https://www.youtube.com/watch?v=m_CFCyc2Shs) ;  *David Kirtley, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | #488 (2025)](https://www.youtube.com/watch?v=14OPT6CcsH4) ;  *Joel David Hamkins, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | #489 (2026)](https://www.youtube.com/watch?v=Z-FRe5AKmCU) ;  *Paul Rosolie, Lex Fridman*
 - :youtube: :cool_worlds_podcast: [#26 Will Kinney - Before the Big Bang, Inflation, Infinity of Worlds (2025)](https://www.youtube.com/watch?v=HSZtn0yKPBI) ;  *Will Kinney, David Kipping*
 - :youtube: :cool_worlds_podcast: [#27 Jason Steffen - Kepler Mission Legacy, Particle Physics, Optimal Plane Boarding (2025)](https://www.youtube.com/watch?v=vaqgPzT8PXA) ;  *Jason Steffen, David Kipping*
 - :youtube: :cool_worlds_podcast: [#28 Néstor Espinoza - JWST, Exoplanet Atmospheres, Molecule Detection (2025)](https://www.youtube.com/watch?v=bZ7Hge0OUTE) ;  *Néstor Espinoza, David Kipping*
