@@ -88,6 +88,9 @@ console.log(res);
 ![[Pasted image 20240604084826.png]]
 
 # 2025, October-2026 January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+### :orbitmines: OrbitMines Excerpt
+- :orbitmines: [2025 Progress Update: Towards A Universal Language (2025)](https://orbitmines.com/archive/towards-a-universal-language)
+
 ### Attended Events
 - :ursprung: [Ursprung IV (2026)](https://ursprung.community/)
 
@@ -136,9 +139,6 @@ console.log(res);
 - :youtube: [The Verse Programming Language | GDC 2023 (2023)](https://www.youtube.com/watch?v=5prkKOIilJg&t=1517s) ;  *Tim Sweeney, Phil Pizlo, Tim TIllotson*
 
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
-
-### :orbitmines: OrbitMines Excerpt
-- :orbitmines: [2025 Progress Update: Towards A Universal Language (2025)](https://github.com/orbitmines/orbitmines.com/issues/29)
 ### Attended Events
 - :semf: [SEMF School of 2025](https://semf.org.es/school2025/)
 
