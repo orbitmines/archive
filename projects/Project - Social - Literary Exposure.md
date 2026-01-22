@@ -85,7 +85,7 @@ console.log(res);
 # 2025, October-2026 January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- [The Strangest Man]
+- [The Strangest Man (2009)](https://en.wikipedia.org/wiki/The_Strangest_Man) ; *Graham Farmelo*
 
 - [Wool (2011)](https://en.wikipedia.org/wiki/Silo_(series)) ; *Hugh Howey*
 - [Shift (2013)](https://en.wikipedia.org/wiki/Silo_(series)) ; *Hugh Howey*
