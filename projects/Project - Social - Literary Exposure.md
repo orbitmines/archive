@@ -98,6 +98,7 @@ console.log(res);
 - [The Strangest Man (2009)](https://en.wikipedia.org/wiki/The_Strangest_Man) ; *Graham Farmelo*
 - [Ecce Homo (1908)](https://en.wikipedia.org/wiki/Ecce_Homo_(book)) ; *Friedrich Nietzsche*
 
+- [The Three-Body Problem (2008)](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) ; *Liu Cixin*
 - [Wool (2011)](https://en.wikipedia.org/wiki/Silo_(series)) ; *Hugh Howey*
 - [Shift (2013)](https://en.wikipedia.org/wiki/Silo_(series)) ; *Hugh Howey*
 - [Harry Potter 1-7 (1997-2007)](https://en.wikipedia.org/wiki/Harry_Potter) ; *J. K. Rowling*
