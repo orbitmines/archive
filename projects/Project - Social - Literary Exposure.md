@@ -96,6 +96,8 @@ console.log(res);
 - [Shift (2013)](https://en.wikipedia.org/wiki/Silo_(series)) ; *Hugh Howey*
 - [Harry Potter 1-7 (1997-2007)](https://en.wikipedia.org/wiki/Harry_Potter) ; *J. K. Rowling*
 
+- :youtube: :strangeloop: ["Propositions as Types" (2015)](https://www.youtube.com/watch?v=IOiZatlZtGU) ;  *Philip Wadler*
+
 # 2025, August-September - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
