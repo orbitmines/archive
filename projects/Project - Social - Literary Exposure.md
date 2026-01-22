@@ -29,6 +29,11 @@ find ./_/attachments/read/ -type f -newermt 2023-12-01 | sort | uniq | grep /rea
 
 const policy = window.trustedTypes?.createPolicy("default", {createHTML: (input) => input});
 
+console.log([...document.querySelectorAll(".yt-lockup-metadata-view-model__title")].filter(video => video.getAttribute('aria-label') !== '').forEach(video => {
+	video.insertAdjacentHTML("afterend", policy.createHTML(`<div><input type="text" value="- :youtube: [${video.getAttribute('aria-label').replaceAll("\"", "&quot;")} (2025)](${video.href}) ;  **" readonly> <button onclick="this.previousElementSibling.select();document.execCommand('copy');">Copy</button></div>`));
+}))
+
+
 console.log([...document.querySelectorAll("#video-title")].filter(video => video.title !== '').forEach(video => {
 	video.insertAdjacentHTML("afterend", policy.createHTML(`<div><input type="text" value="- :youtube: [${video.title.replaceAll("\"", "&quot;")} (2025)](${video.href}) ;  **" readonly> <button onclick="this.previousElementSibling.select();document.execCommand('copy');">Copy</button></div>`));
 }))
