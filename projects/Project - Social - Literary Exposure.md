@@ -137,6 +137,8 @@ console.log(res);
 
 # 2025, June-July - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
+### :orbitmines: OrbitMines Excerpt
+- :orbitmines: [2025 Progress Update: Towards A Universal Language (2025)](https://github.com/orbitmines/orbitmines.com/issues/29)
 ### Attended Events
 - :semf: [SEMF School of 2025](https://semf.org.es/school2025/)
 
