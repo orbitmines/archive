@@ -99,6 +99,7 @@ console.log(res);
 - :youtube: :strangeloop: ["Propositions as Types" (2015)](https://www.youtube.com/watch?v=IOiZatlZtGU) ;  *Philip Wadler*
 - :youtube: :strangeloop: ["Programming Distributed Systems" (2023)](https://www.youtube.com/watch?v=Mc3tTRkjCvE) ;  *Mae Milano*
 - :youtube: :lex_fridman_podcast: [Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming | #484 (2025)](https://www.youtube.com/watch?v=o3gbXDjNWyI&t=6617s) ;  *Lex Fridman, Dan Houser*
+- :youtube: :lex_fridman_podcast: [Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | #487 (2025)](https://www.youtube.com/watch?v=_bBRVNkAfkQ&pp=0gcJCYcKAYcqIYzv) ;  *Lex *
 - :youtube: :cool_worlds_podcast: [#28 Néstor Espinoza - JWST, Exoplanet Atmospheres, Molecule Detection (2025)](https://www.youtube.com/watch?v=bZ7Hge0OUTE) ;  **
 
 # 2025, August-September - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
