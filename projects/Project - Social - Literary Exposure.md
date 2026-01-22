@@ -85,9 +85,11 @@ console.log(res);
 # 2025, October-2026 January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
+- [The Strangest Man]
+
 - [Wool (2011)](https://en.wikipedia.org/wiki/Silo_(series)) ; *Hugh Howey*
 - [Shift (2013)](https://en.wikipedia.org/wiki/Silo_(series)) ; *Hugh Howey*
-- [Harry Potter 1-7]()
+- [Harry Potter 1-7 (1997-2007)](https://en.wikipedia.org/wiki/Harry_Potter) ; *J. K. Rowling*
 
 # 2025, August-September - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
