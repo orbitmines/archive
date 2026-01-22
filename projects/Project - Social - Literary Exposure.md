@@ -91,6 +91,7 @@ console.log(res);
 
 ### Literary Exposure
 - [The Strangest Man (2009)](https://en.wikipedia.org/wiki/The_Strangest_Man) ; *Graham Farmelo*
+- [Ecce Homo (1908)](https://en.wikipedia.org/wiki/Ecce_Homo_(book)) ; *Friedrich Nietzsche*
 
 - [Wool (2011)](https://en.wikipedia.org/wiki/Silo_(series)) ; *Hugh Howey*
 - [Shift (2013)](https://en.wikipedia.org/wiki/Silo_(series)) ; *Hugh Howey*
