@@ -98,11 +98,11 @@ console.log(res);
 
 - :youtube: :strangeloop: ["Propositions as Types" (2015)](https://www.youtube.com/watch?v=IOiZatlZtGU) ;  *Philip Wadler*
 - :youtube: :strangeloop: ["Programming Distributed Systems" (2023)](https://www.youtube.com/watch?v=Mc3tTRkjCvE) ;  *Mae Milano*
-- :youtube: :lex_fridman_podcast: [Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming | #484 (2025)](https://www.youtube.com/watch?v=o3gbXDjNWyI) ;  *Lex Fridman, Dan Houser*
-- :youtube: :lex_fridman_podcast: [Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | #487 (2025)](https://www.youtube.com/watch?v=_bBRVNkAfkQ&pp=0gcJCYcKAYcqIYzv) ;  *Lex Fridman, Irving Finkel*
-- :youtube: :cool_worlds_podcast: [#26 Will Kinney - Before the Big Bang, Inflation, Infinity of Worlds (2025)](https://www.youtube.com/watch?v=HSZtn0yKPBI) ;  *David Kippi*
-- :youtube: :cool_worlds_podcast: [#27 Jason Steffen - Kepler Mission Legacy, Particle Physics, Optimal Plane Boarding (2025)](https://www.youtube.com/watch?v=vaqgPzT8PXA) ;  **
-- :youtube: :cool_worlds_podcast: [#28 Néstor Espinoza - JWST, Exoplanet Atmospheres, Molecule Detection (2025)](https://www.youtube.com/watch?v=bZ7Hge0OUTE) ;  **
+- :youtube: :lex_fridman_podcast: [Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming | #484 (2025)](https://www.youtube.com/watch?v=o3gbXDjNWyI) ;  *Dan Houser, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | #487 (2025)](https://www.youtube.com/watch?v=_bBRVNkAfkQ&pp=0gcJCYcKAYcqIYzv) ;  *Irving Finkel, Lex Fridman*
+- :youtube: :cool_worlds_podcast: [#26 Will Kinney - Before the Big Bang, Inflation, Infinity of Worlds (2025)](https://www.youtube.com/watch?v=HSZtn0yKPBI) ;  *Will Kinney, David Kipping*
+- :youtube: :cool_worlds_podcast: [#27 Jason Steffen - Kepler Mission Legacy, Particle Physics, Optimal Plane Boarding (2025)](https://www.youtube.com/watch?v=vaqgPzT8PXA) ;  *Jason Steffen, David Kipping*
+- :youtube: :cool_worlds_podcast: [#28 Néstor Espinoza - JWST, Exoplanet Atmospheres, Molecule Detection (2025)](https://www.youtube.com/watch?v=bZ7Hge0OUTE) ;  *Néstor Espinoza, David Kipping*
 
 # 2025, August-September - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
