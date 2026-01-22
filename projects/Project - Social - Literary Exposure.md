@@ -88,6 +88,8 @@ console.log(res);
 ![[Pasted image 20240604084826.png]]
 
 # 2025, October-2026 January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+### Attended Events
+- :ursprung: [Ursprung IV](https://semf.org.es/school2025/)
 
 ### Literary Exposure
 - [The Strangest Man (2009)](https://en.wikipedia.org/wiki/The_Strangest_Man) ; *Graham Farmelo*
