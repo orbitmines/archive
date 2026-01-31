@@ -265,6 +265,10 @@ Hazy World
 
 ---
 
+Expand .. operator for 2D grid and graphs
+
+---
+
 #### Game Intro
 - Already allow moving around even in this quick intro? - even before collapse down
 - Quick showcase of the possible worlds ; "See the possibilities" ; Too little to see isn't obvious enough. Short overwhelm, then calm
