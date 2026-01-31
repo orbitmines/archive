@@ -99,6 +99,10 @@ All field are instantiated with ?() that is already the default, if? then None
 
 ---
 
+Keep doing . <search inside> remove the previous searched and save them as the program run, allow ctrl z ofc. As a way of exploring existing executables/codebases etc. eith the keyboard
+
+---
+
 Equivalent code if type is refined Like Number vs i64
 
 ---
