@@ -89,6 +89,10 @@ C. The Ray Programming Language
 // Editor, can be rewritten into preferred level of description, like there exists instead of #.some
 
 ---
+  
+// instantiations of a type using something like WaveFunctionCollapse
+
+---
 
 .cfg.ray
 
