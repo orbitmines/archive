@@ -91,7 +91,8 @@ C. The Ray Programming Language
 // When editing inside a double ((, force ((+TAB to turn into a (( (double << might be used for subexpressions.
 
 ---
-  
+Different locations have different normalizers : basically what I'm representing my thing as.
+
   
 // Superposed values hold their origin.  (Carry which caller effected it)
 //   -> The result should be refinable, "now I know it's true, so what's the result".
