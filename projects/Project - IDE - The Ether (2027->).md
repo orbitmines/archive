@@ -69,6 +69,7 @@ C. The Ray Programming Language
 // TODO - Notes on Type Checking  
 // If blocks like if array.length > 2 ... end, change the type of array within that block. // '{==.instance_of IP}' Automatically casts to IP.  
 // Functions should relax their arguments to 'actually used this from the type'. (So type refinements)  
+// ambniguity of types like String[], String[], defined in dependent type on the first/lkast arg, B = [] if A == ., & A = [] if B == . ; this is circularity, unless they both share the same condition, that should break circularity.
   
 // TODO - Notes on Theorem proving  
 // Expand tactic to inline proof. (different lvl of description - allow switch back it not altered ; or equivalence and change the view)  
