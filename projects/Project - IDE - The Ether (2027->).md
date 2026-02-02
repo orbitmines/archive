@@ -93,6 +93,7 @@ C. The Ray Programming Language
 ---
 Different locations have different normalizers : basically what I'm representing my thing as.
 
+// If a method doesn't exist on the variable, but it is castable to something which does define that method, say boolean and &/|. Converting it to that value and calling that method should be possible.
   
 // Superposed values hold their origin.  (Carry which caller effected it)
 //   -> The result should be refinable, "now I know it's true, so what's the result".
