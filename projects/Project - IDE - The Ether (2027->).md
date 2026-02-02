@@ -99,6 +99,10 @@ Different locations have different normalizers : basically what I'm representing
 
 ---
 
+//TODO You want something like ray[500..999] = 500-length array, instead of setting all those values to the 500-length array. How to differentiate
+
+---
+
 // instantiations of a type using something like WaveFunctionCollapse
 
 
