@@ -93,7 +93,7 @@ C. The Ray Programming Language
 ---
   
   
-// Superposed values hold their origin.  
+// Superposed values hold their origin.  (Carry which caller effected it)
 //   -> The result should be refinable, "now I know it's true, so what's the result".
 
 ---
