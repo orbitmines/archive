@@ -94,6 +94,9 @@ C. The Ray Programming Language
   
 // instantiations of a type using something like WaveFunctionCollapse
 
+
+// KV pair with everything delegated to value, so you can do ==. (separate class like TransparentKV)
+
 ---
 
 .cfg.ray
