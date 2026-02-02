@@ -71,6 +71,8 @@ C. The Ray Programming Language
 // Functions should relax their arguments to 'actually used this from the type'. (So type refinements)  
 // ambniguity of types like String[], String[], defined in dependent type on the first/lkast arg, B = [] if A == ., & A = [] if B == . ; this is circularity, unless they both share the same condition, that should break circularity.
 // Allow 'def Ray<T = Ray>', Meaning, T is unknown, but it is a Ray.
+// Allow multiple changes which make it adhere to the type, as long as nothing is accessed in between  
+//TODO If multiple edits makes it type compliant allow as if a single transaction
 
 // TODO - Notes on Theorem proving  
 // Expand tactic to inline proof. (different lvl of description - allow switch back it not altered ; or equivalence and change the view)  
