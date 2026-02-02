@@ -92,6 +92,12 @@ C. The Ray Programming Language
 
 ---
   
+  
+// Superposed values hold their origin.  
+//   -> The result should be refinable, "now I know it's true, so what's the result".
+
+---
+
 // instantiations of a type using something like WaveFunctionCollapse
 
 
