@@ -200,7 +200,7 @@ You also need some reference frame in order to make these judgements. Essentiall
 
 We'll call our initial reference frame our universal language. And the perspective we're currently judging from our reference language.
 
-Once we have that setup you can ask: How useful is our universal language, importantly: given our existing languages. This rather simplifies the - Is something """the universal language"""? -. And instead rephrases it as a cultural question. And we can just switch to what we judge to be the most useful universal language
+Once we have that setup you can ask: How useful is our universal language, importantly: given our existing languages. This rather simplifies the - Is something """the universal language"""? -. And instead rephrases it as a cultural question. Our universal language simply being a moving pointer to w
 
 ### Judgements
 - How useful is our reference frame as a universal language. ; This is a cultural question, not: is it actually the best universal language, but given our existing languages, is it the most useful? 
