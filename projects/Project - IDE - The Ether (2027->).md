@@ -216,9 +216,6 @@ Complexity relative to some target (specific implementation of that target) -> o
 	- Does it have support for X -> X is a selection from some other library (otherwise X is ill-defined). Possibly through library.
 	- Precision of changes of states.
 
-
-Comparing Languages
-
 (Running evaluation)
 Spatial extent (memory&threads) & temporal extent - then compare the same function across languages
 
