@@ -203,6 +203,7 @@ Complexity relative to some target (specific implementation of that target) -> o
 - Filter for what do you want to optimize for.
 	- Optimize targeting X. (In least complexity or ..)
 	- Optimize 
+	- Does it have support for X -> X is a selection from some other library (otherwise X . Possibly through library.
 
 Comparing Languages
 
