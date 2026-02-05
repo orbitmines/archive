@@ -196,7 +196,7 @@ Reverse equivalence graph - add abstract definitions instead of specific code
 # Comparing Languages
 Instead of classifying arbitrary complexity. Create a general method of classifying it, so that it can change appropriately.
 
-You want to also compare things like LLM/models as implementations of English or other languages. 
+You want to also compare things like LLM/models as implementations of English or other languages. -> Can be targeted in the sense that they then in turn generate something else. Large surface area of how to target them though: what format do you use.
 
 Need to have some metrics and some useful meaning to them, categorized or?
 Complexity relative to some target (specific implementation of that target). 
