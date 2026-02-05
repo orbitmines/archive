@@ -204,7 +204,7 @@ We'll call our initial reference frame our universal language. And the perspecti
 - How useful is our reference frame as a universal language. ; This is a cultural question, not: is it actually the best universal language, but given our existing languages, is it the most useful?
 	- What does "useful" mean here?
 		- Lowest complexity of existing languages
-			- Given which preferences? Weighted by use of the language? "use" in the sense of active development vs existing code basis in "use", by how many devices/people. How critical are they?
+	- Given which preferences? Weighted by use of the language? "use" in the sense of active development vs existing code basis in "use", by how many devices/people. How critical are they?
 
 You want to also compare things like LLM/models as implementations of English or other languages. -> Can be targeted in the sense that they then in turn generate something else. Large surface area of how to target them though: what format do you use.
 
