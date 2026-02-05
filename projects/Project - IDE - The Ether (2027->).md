@@ -194,6 +194,8 @@ Reverse equivalence graph - add abstract definitions instead of specific code
 - Endpoints, network calls, db, files etc.. all of it, configure custom values at each point
 
 # Comparing Languages
+Complexity relative to some T 
+
 Comparing Languages
 
 (Running evaluation)
