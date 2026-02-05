@@ -194,6 +194,7 @@ Reverse equivalence graph - add abstract definitions instead of specific code
 - Endpoints, network calls, db, files etc.. all of it, configure custom values at each point
 
 # Comparing Languages
+How do you start classifying arbitrary complexity? One of the things I've directly arrived at is that whatever that classif
 Instead of classifying arbitrary complexity. Create a general method of classifying it, so that it can change appropriately.
 
 You want to also compare things like LLM/models as implementations of English or other languages. -> Can be targeted in the sense that they then in turn generate something else. Large surface area of how to target them though: what format do you use.
