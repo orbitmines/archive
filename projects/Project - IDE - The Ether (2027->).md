@@ -197,6 +197,8 @@ Reverse equivalence graph - add abstract definitions instead of specific code
 Need to have some metrics and some useful meaning to them, categorized or?
 Complexity relative to some target (specific implementation of that target). 
 - Filter for what do you want to optimize for.
+	- Optimize targeting X.
+	- Optimize 
 
 Comparing Languages
 
