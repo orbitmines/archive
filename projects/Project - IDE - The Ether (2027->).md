@@ -222,6 +222,7 @@ Analysis of compilation process: Spatial and temporal circuit complexity in that
 - Quality of the equivalence graph, measured with what?
 
 What makes abstract models better than others? 
+- Flexibility, how flexible are expressio 
 - Time&Space vs Abstraction Depth? : Verboseness; How abstract certain statement are; deep meaningful statements, but still customizable 
   - Sense of meaningful: Useful abstraction that get depended on a lot; and what they otherwise would've looked like without 
 - Coverage of what kind of functionality it has; but how do you put that in a 1d?
