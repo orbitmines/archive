@@ -200,8 +200,10 @@ You also need some reference frame in order to make these judgements. Essentiall
 
 We'll call our initial reference frame our universal language. And the perspective we're currently judging from our reference language.
 
+Once we 
+
 ### Judgements
-- How useful is our reference frame as a universal language. ; This is a cultural question, not: is it actually the best universal language, but given our existing languages, is it the most useful?
+- How useful is our reference frame as a universal language. ; This is a cultural question, not: is it actually the best universal language, but given our existing languages, is it the most useful? This rather simplifies the is something """the universal language""". And instead rephrases it as a cultural question
 	- What does "useful" mean here?
 		- Lowest complexity of existing languages
 	- Given which preferences? Weighted by use of the language? "use" in the sense of active development vs existing code basis in "use", by how many devices/people. How critical are they?
