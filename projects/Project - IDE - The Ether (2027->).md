@@ -198,6 +198,8 @@ How do you start classifying arbitrary complexity? One of the things I've direct
 
 You also need some reference frame in order to make these judgements. Essentially to comparing two different languages, you are required to have some other language in which to phrase and compare the two. Any judgement you'll make will be relative to this language: if one were to pick a different language as its basis, you might come to different conclusions. Once you have picked your universal language as your reference frame, we can solve the issue of reference frames: We can lift it to another reference frame and ignore anything caused by that change of frame. Basically: what complexity is required to express that other language, and subtract that complexity from the final judgement.
 
+After you've done that, 
+
 You want to also compare things like LLM/models as implementations of English or other languages. -> Can be targeted in the sense that they then in turn generate something else. Large surface area of how to target them though: what format do you use.
 
 Need to have some metrics and some useful meaning to them, categorized or?
