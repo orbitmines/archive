@@ -198,6 +198,7 @@ How do you start classifying arbitrary complexity? One of the things I've direct
 
 You also need some reference frame in order to make these judgements. Essentially to compare two different languages, you are required to have some other language in which to phrase and compare the two. Any judgement you'll make will be relative to this language: if one were to pick a different language as its basis, you might come to different conclusions. Once you have picked your universal language as your reference frame, we can solve the issue of reference frames: We can lift it to another reference frame and ignore anything caused by that change of frame. Basically: what complexity is required to express that other language, and subtract that complexity (if possible) from the final judgement. This allows us to say: from which perspective do you want to classify the arbitrary complexity.
 
+We'll call our initial reference frame our universal language. And the perspective we're currently judging from our reference frame.
 
 ###
 
