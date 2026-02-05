@@ -201,7 +201,9 @@ You also need some reference frame in order to make these judgements. Essentiall
 We'll call our initial reference frame our universal language. And the perspective we're currently judging from our reference frame.
 
 ### Judgements
-- How useful is our reference frame as a universal language. ; This is a cultural question, not: is it actually the best universal language, but given our existing languages does it 
+- How useful is our reference frame as a universal language. ; This is a cultural question, not: is it actually the best universal language, but given our existing languages, is it the most useful?
+	- What does "useful" mean here?
+		- 
 
 You want to also compare things like LLM/models as implementations of English or other languages. -> Can be targeted in the sense that they then in turn generate something else. Large surface area of how to target them though: what format do you use.
 
