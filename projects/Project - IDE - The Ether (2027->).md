@@ -196,6 +196,7 @@ Reverse equivalence graph - add abstract definitions instead of specific code
 # Comparing Languages
 Need to have some metrics and some useful meaning to them, categorized or?
 Complexity relative to some target (specific implementation of that target). 
+- Filter for what do you want to optimize for.
 
 Comparing Languages
 
@@ -222,7 +223,7 @@ Analysis of compilation process: Spatial and temporal circuit complexity in that
 - Quality of the equivalence graph, measured with what?
 
 What makes abstract models better than others? 
-- Flexibility, how flexible are expressio 
+- Flexibility, how flexible are the types of expressions 
 - Time&Space vs Abstraction Depth? : Verboseness; How abstract certain statement are; deep meaningful statements, but still customizable 
   - Sense of meaningful: Useful abstraction that get depended on a lot; and what they otherwise would've looked like without 
 - Coverage of what kind of functionality it has; but how do you put that in a 1d?
