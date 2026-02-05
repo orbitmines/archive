@@ -196,7 +196,7 @@ Reverse equivalence graph - add abstract definitions instead of specific code
 # Comparing Languages
 How do you start classifying arbitrary complexity? One of the things I've directly arrived at is that whatever that classification is, it must be some mutable thing; every judgement made of some metric (say some kind of complexity rating), is not (easily; if at all) reduced to the least complex implementation of that classification. The metric will necessarily be a judgement: It is a rephrasing of: "currently it is this metric" instead of "it is this metric". A subtle but important difference.
 
-You also need some reference frame in order to make these judgements. What is the minimal  
+You also need some reference frame in order to make these judgements. Essentially, with reference  
 
 You want to also compare things like LLM/models as implementations of English or other languages. -> Can be targeted in the sense that they then in turn generate something else. Large surface area of how to target them though: what format do you use.
 
