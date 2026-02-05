@@ -92,7 +92,7 @@ C. The Ray Programming Language
 // Associate @players.choose, with a comment/dynamic page above it which is quest information on why you can make thise choice, also how do you indicate, you just want to store the results preiodically and use later.  
 // Editor, can be rewritten into preferred level of description, like there exists instead of #.some
 // When editing inside a double ((, force ((+TAB to turn into a (( (double << might be used for subexpressions.
-// Encrypted is editable as plaintext, but then normalizes to Encrypted. Encrypted with password which is required to be fi
+// Encrypted is editable as plaintext, but then normalizes to Encrypted. Encrypted with password which is required to be filled by the user on use.,
 
 ---
 Different locations have different normalizers : basically what I'm representing my thing as.
