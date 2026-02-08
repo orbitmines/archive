@@ -57,6 +57,15 @@ C. The Ray Programming Language
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
+  
+```
+// Standalone: stop string hit → returns content before (stop-at, SUCCESS)
+const r2 = parse(ctx.not('=>'), 'hello=>world');
+assert('stops at =>, returns "hello"', r2.success && r2.value === 'hello');
+```
+
+Should not succeed. If the pattern doesn't fully match it fails. So .not doesnt stop at => it just says it must not continue with that. So the pattern fully fails, of course unless there's another Any which does in fact match.
+
 ---
 
 Wrap remote executable with what to get out of global context intutively and not so verbose? is @me, the me who sent it or?
