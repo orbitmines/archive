@@ -214,6 +214,8 @@ We'll call our initial reference frame our universal language. And the perspecti
 
 Once we have that setup you can ask: How useful is our universal language, importantly: given our existing languages. This rather simplifies the - Is something """the universal language"""? -. And instead rephrases it as a cultural question. Which leaves the rather gnawing question of what we deem as "useful" here. Whatever it is, we'll consider it as a mutable cultural thing: It depends on what your preferences are. Let's go over some of these preferences we may have: 
 
+https://arena.ai/leaderboard/code
+
 ### Judgements
 - What does "useful" mean here?
 	- Lowest complexity of existing languages
