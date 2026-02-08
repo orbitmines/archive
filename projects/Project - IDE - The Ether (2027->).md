@@ -59,7 +59,10 @@ C. The Ray Programming Language
 
 ---
 
-  
+Wrap remote executable with what to get out of global context intutively and not so verbose? is @me, the me who sent it or?
+
+---
+
 // TODO - Notes on Version Control  
 // Accessing a variable of a function (either by partially filling it), but it got renamed in a new version. Alert the user.  
 // A monkey-patched function added, is suddenly also used by the library. Notify the user it's now overriding functionality that wasnt, there before.  
