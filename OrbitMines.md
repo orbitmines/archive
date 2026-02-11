@@ -20,7 +20,7 @@ Related:
   - "[[Fadi Shawki]]"
 D-U-N-S: "493594042"
 ---
-https://developer.apple.com/enroll/purchase 99eur for mac, developmentTeam needs to be filled
+https://developer.apple.com/enroll/purchase 99eur for ios, developmentTeam needs to be filled
 
 orbitmines.com
 NODE_VERSION=18.3.0
