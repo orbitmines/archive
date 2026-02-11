@@ -18,6 +18,7 @@ KVK.nl number: 80718787 / Vestigingsnummer 000047059311
 BTW-id: NL003476517B31
 Related:
   - "[[Fadi Shawki]]"
+D-U-N-S: "493594042"
 ---
 
 
