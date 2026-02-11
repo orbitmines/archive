@@ -20,7 +20,7 @@ Related:
   - "[[Fadi Shawki]]"
 D-U-N-S: "493594042"
 ---
-
+https://developer.apple.com/enroll/purchase 99eur for mac
 
 orbitmines.com
 NODE_VERSION=18.3.0
