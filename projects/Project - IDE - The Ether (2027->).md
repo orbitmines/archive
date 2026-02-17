@@ -73,6 +73,7 @@ Wrap remote executable with what to get out of global context intutively and not
 ---
 
 // TODO - Notes on Version Control  
+// Bundle lot of user changes in a new @ether 
 // Accessing a variable of a function (either by partially filling it), but it got renamed in a new version. Alert the user.  
 // A monkey-patched function added, is suddenly also used by the library. Notify the user it's now overriding functionality that wasnt, there before.  
 // For .ray.txt editor we can inject labels before functions and hide them with some IDE plugins for non-Ether editors. So still support version control in-line  
