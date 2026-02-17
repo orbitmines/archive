@@ -72,6 +72,9 @@ Wrap remote executable with what to get out of global context intutively and not
 
 ---
 
+if @public
+elsif @,..
+
 // TODO - Notes on Version Control  
 // Bundle lot of user changes in a new @ether version
 // Accessing a variable of a function (either by partially filling it), but it got renamed in a new version. Alert the user.  
