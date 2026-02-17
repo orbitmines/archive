@@ -68,6 +68,10 @@ Should not succeed. If the pattern doesn't fully match it fails. So .not doesnt 
 
 ---
 
+Ongoing prompt like Extract this feature from this binary
+
+---
+
 Wrap remote executable with what to get out of global context intutively and not so verbose? is @me, the me who sent it or?
 
 ---
