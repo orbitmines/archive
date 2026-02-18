@@ -72,7 +72,7 @@ Ongoing prompt like Extract this feature from this binary
 
 ---
 
-"".[LANG]
+"".[LANG] to syntax highlight,.
 
 ---
 
