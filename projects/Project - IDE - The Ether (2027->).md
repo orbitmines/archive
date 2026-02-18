@@ -72,6 +72,7 @@ Class$ uses that. - in memory/disk dynamically when necessary
 	- Fastlanes, Adaptive Lossless floating Point (ALP), Fast Symbolic Symbol Table (FSST), DIctionary (dict_string), Bitpacked, RunEnd, PCodec, ZSTD, FFOR, RLE, DElta, ; these things should be part of the language index.
 	- What are data dependencies? (bad?) - probably dependent types.
 - Statistics of a column/file min/max/null count/sum/... necessary when? for what optimizations?
+- benchmarks
 
 ---
 
