@@ -76,7 +76,7 @@ Ongoing prompt like Extract this feature from this binary
 
 ---
 
-canonicalize as a filesystem, delegate certain fields to certain files/dirs.
+canonicalize as a filesystem, delegate certain fields to certain files/dirs. fields under @me.ray , other things separately like stars.
 
 ---
 
