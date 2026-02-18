@@ -70,7 +70,7 @@ Class$ uses that. - in memory/disk dynamically when necessary
 - optimiziations, when to add pathces to the data, when to rewrite completely etc..
 	- Want automaticially pick optimizations; but tradeoffs are things like how easy to change that optimization etc.
 	- Fastlanes, ALP, FSST, DIctionary, RunEnd, PCodec, ZSTD ; these things should be part of the language index.
-	- 
+	- What are data dependencies? (bad?)
 
 ---
 
