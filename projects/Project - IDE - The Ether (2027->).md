@@ -71,6 +71,7 @@ Class$ uses that. - in memory/disk dynamically when necessary
 	- Want automaticially pick optimizations; but tradeoffs are things like how easy to change that optimization etc.
 	- Fastlanes, Adaptive Lossless floating Point (ALP), Fast Symbolic Symbol Table (FSST), DIctionary (dict_string), Bitpacked, RunEnd, PCodec, ZSTD, FFOR, RLE, DElta, ; these things should be part of the language index.
 	- What are data dependencies? (bad?) - probably dependent types.
+- Statistics of a 
 
 ---
 
