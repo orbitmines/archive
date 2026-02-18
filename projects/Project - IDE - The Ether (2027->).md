@@ -67,7 +67,7 @@ Class$ uses that. - in memory/disk dynamically when necessary
 - Fields of course versioned the same way clasases/functions are; that way renaming doesnt make a whole new object and force us to rename all the records: the entire version history has an ID. (what was its id originally, probably. - perhaps the latest version if thats no overhead, to know for which version the data was created./modified last?)
 - uniqueness effectively how? Also what about eventual uniqueness, where conflicts are allowed but force one of them to change; uin case the databases are separated for a long time. -> Basically merge conflicts
 - partitioning  - based on time/hash etc. can select which bucket some value would fall into, but might be hard to change this as youd have to rewrite data.
-- optimiziations, when to add pathces to the data, when to rewrite comp
+- optimiziations, when to add pathces to the data, when to rewrite completely etc..
 
 ---
 
