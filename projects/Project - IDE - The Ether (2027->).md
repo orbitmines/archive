@@ -57,6 +57,14 @@ C. The Ray Programming Language
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
+---
+
+Database
+Class$ uses that. - in memory/disk dynamically when necessary
+
+
+---
+
   
 ```
 // Standalone: stop string hit → returns content before (stop-at, SUCCESS)
