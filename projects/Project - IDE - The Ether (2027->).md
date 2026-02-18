@@ -69,7 +69,7 @@ Class$ uses that. - in memory/disk dynamically when necessary
 - partitioning  - based on time/hash etc. can select which bucket some value would fall into, but might be hard to change this as youd have to rewrite data.
 - optimiziations, when to add pathces to the data, when to rewrite completely etc..
 	- Want automaticially pick optimizations; but tradeoffs are things like how easy to change that optimization etc.
-	- Fastlanes, ALP, FSST, DIctionary, RunEnd, PCodec, ZSTD ; these things should be part of the language index.
+	- Fastlanes, Adaptive Lossless floating Point (ALP), Fast Symbolic Symbol Table (FSST), DIctionary, RunEnd, PCodec, ZSTD, FFOR, RLE, DElta, ; these things should be part of the language index.
 	- What are data dependencies? (bad?)
 
 ---
