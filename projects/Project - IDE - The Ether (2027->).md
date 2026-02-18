@@ -76,6 +76,10 @@ Ongoing prompt like Extract this feature from this binary
 
 ---
 
+canonicalize as a filesystem, delegate certain fields to certain files/dirs.
+
+---
+
 Wrap remote executable with what to get out of global context intutively and not so verbose? is @me, the me who sent it or?
 
 ---
