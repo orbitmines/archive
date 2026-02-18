@@ -62,6 +62,7 @@ C. The Ray Programming Language
 Database
 Class$ uses that. - in memory/disk dynamically when necessary
 - Optionally distributed
+- Need something which supports arbitarry graphs not just 2d grid of columns/rows.
 - The way the object is stored vs showed to the user as a filesystem will diverge, storing isnt optimal as the same data structure. Especially if we account for the fact that we'll support a wide variety of "where data should be hosted". --> minimize reads because reading is expensive.
 - Fields of course versioned the same way clasases/functions are; that way renaming doesnt make a whole new object and force us to rename all the records: the entire version history has an ID. (what was its id originally, probably. - perhaps the latest version if thats no overhead, to know for which version the data was created./modified last?)
 - uniqueness effectively how? Also what about eventual uniqueness, where conflicts are allowed but force one of them to change; uin case the databases are separated for a long time. -> Basically merge conflicts
