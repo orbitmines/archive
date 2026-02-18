@@ -62,7 +62,7 @@ C. The Ray Programming Language
 Database
 Class$ uses that. - in memory/disk dynamically when necessary
 - Optionally distributed
-- The way the object is stored vs showed to the user as a filesystem will diverge, storing isnt optimal as the same data structure. Especially if we account for the fact that we'll support a wide variety of "where data should be hosted".
+- The way the object is stored vs showed to the user as a filesystem will diverge, storing isnt optimal as the same data structure. Especially if we account for the fact that we'll support a wide variety of "where data should be hosted". --> minimize reads because reading is expensive.
 
 ---
 
