@@ -62,7 +62,7 @@ C. The Ray Programming Language
 Database
 Class$ uses that. - in memory/disk dynamically when necessary
 - Optionally distributed
-- 
+- The way the object is stored vs showed to the user as a filesystem will diverge, storing 
 
 ---
 
