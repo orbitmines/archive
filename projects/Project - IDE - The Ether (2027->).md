@@ -61,7 +61,8 @@ C. The Ray Programming Language
 
 Database
 Class$ uses that. - in memory/disk dynamically when necessary
-
+- Optionally distributed
+- 
 
 ---
 
