@@ -87,6 +87,10 @@ COmponents which shouldn't override top-level property, but only contents of tho
 
 ---
 
+in a repl, settings such that changes art
+
+---
+
 is default set, and should it be set as a part of data storage, or should it only be set once the default changes, should it follow the default adaptively.
 
 ---
