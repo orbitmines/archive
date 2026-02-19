@@ -74,6 +74,8 @@ Class$ uses that. - in memory/disk dynamically when necessary
 - Statistics of a column/file min/max/null count/sum/... necessary when? for what optimizations?
 - benchmarks
 
+
+
 ---
 
   
