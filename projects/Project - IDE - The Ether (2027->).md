@@ -74,7 +74,7 @@ Class$ uses that. - in memory/disk dynamically when necessary
 - Statistics of a column/file min/max/null count/sum/... necessary when? for what optimizations?
 - benchmarks
 
-Essentially, all that databases, and dataformats try to do, is to optimize some more inefficient, but useful higher-level abstraction. That could be the way objects reference each-other in a typical programming language or the structure of a file system. Essentially they're just some backend to optimize some frontend access, not unlike any other problem in programming languages or compilers. What I take away from that is a few things: (1) I should always be able 
+Essentially, all that databases, and dataformats try to do, is to optimize some more inefficient, but useful higher-level abstraction. That could be the way objects reference each-other in a typical programming language or the structure of a file system. Essentially they're just some backend to optimize some frontend access, not unlike any other problem in programming languages or compilers. What I take away from that is a few things: (1) The frontend, like a file system, should in practice be disconnected from 
 
 ---
 
