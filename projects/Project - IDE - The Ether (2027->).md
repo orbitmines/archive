@@ -87,7 +87,7 @@ COmponents which shouldn't override top-level property, but only contents of tho
 
 ---
 
-in a repl, settings such that changes art
+in a repl, settings such that changes are permanent to your character.
 
 ---
 
