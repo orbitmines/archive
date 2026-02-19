@@ -82,7 +82,7 @@ Essentially, all that databases, and dataformats try to do, is to optimize some 
 
 ---
 
-is default set, and should it be set as a part of data 
+is default set, and should it be set as a part of data storage, or should it only be set once the default changes, should it follow the default adaptively.
 
 ---
 
