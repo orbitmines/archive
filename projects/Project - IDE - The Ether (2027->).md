@@ -83,6 +83,10 @@ Essentially, all that databases, and dataformats try to do, is to optimize some 
 
 ---
 
+COmponents which shouldn't override top-level property, but only contents of those properties, and overlay those. (But at what level?) How would you configure this? Set property.*
+
+---
+
 is default set, and should it be set as a part of data storage, or should it only be set once the default changes, should it follow the default adaptively.
 
 ---
