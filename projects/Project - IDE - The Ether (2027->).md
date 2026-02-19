@@ -82,7 +82,10 @@ Essentially, all that databases, and dataformats try to do, is to optimize some 
 
 ---
 
-  
+is default set, and should it be set as a part of data 
+
+---
+
 ```
 // Standalone: stop string hit → returns content before (stop-at, SUCCESS)
 const r2 = parse(ctx.not('=>'), 'hello=>world');
