@@ -78,7 +78,7 @@ Essentially, all that databases, and dataformats try to do, is to optimize some 
 - (1) The frontend, like a file system, should in practice be disconnected from how it is actually stored in practice. 
 - (2) Optimizations, like any optimization in the language, should be dynamically allocated, with some preferences defined on what to do in certain situations: Do we rewrite the data, or just adapt our future data access? What is the single-time cost to rewrite the data (energy/time/cost)? Vs the cost of overhead caused by splitting our way previous vs future data is accessed. 
 - (3) Most typical databases are only an optimization on a very restricted type of data, which is common, but still restrictive: 2D row/column data. We'd want to support arbitrary data and optimizations for that data, of which our usual databases are just a subset of a subset. 
-- (4) In our specific case of version control as well, the backend data (in whatever form it is) is just a specific way of generating frontend data (in whichever form that is) - so the version control should just support the different existing VCS's as frontends (even though they're typically seen as backends); we can compose them in that way.
+- (4) In our specific case of version control as well, the backend data (in whatever form it is) is just a specific way of generating frontend data (in whichever form that is) - so the version control should just support the different existing VCS's as frontends (even though they're typically seen as backends); we can compose them in that way. Which should be bidirectional: if I choose I want git exposed as a frontend, I should be able to write to git and it effecting our backends.
 
 ---
 
