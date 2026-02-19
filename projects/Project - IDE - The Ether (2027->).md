@@ -83,7 +83,7 @@ Essentially, all that databases, and dataformats try to do, is to optimize some 
 
 ---
 
-COmponents which shouldn't override top-level property, but only contents of those properties, and overlay those. (But at what level?) How would you configure this? Set property.* to property.components.last)
+COmponents which shouldn't override top-level property, but only contents of those properties, and overlay those. (But at what level?) How would you configure this? Set property => {property.*} to property.components.last)
 
 ---
 
