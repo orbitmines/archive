@@ -59,6 +59,9 @@ C. The Ray Programming Language
 
 ---
 
+status, custom icon
+
+---
 # Database
 Class$ uses that. - in memory/disk dynamically when necessary
 - Optionally distributed
