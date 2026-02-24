@@ -61,6 +61,8 @@ C. The Ray Programming Language
 
 status, custom icon
 
+on any icon generate a set of sub=files under it with are the file in different formats.
+
 ---
 # Database
 Class$ uses that. - in memory/disk dynamically when necessary
