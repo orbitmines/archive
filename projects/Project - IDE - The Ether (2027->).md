@@ -60,6 +60,8 @@ C. The Ray Programming Language
 ---
 
 Maybe 
+..{right: .} | {left: .}.. | .. (right?) =>
+..{right: .} | {left: .}.. | (.. (right)) => // signature per option
 
 ---
 
