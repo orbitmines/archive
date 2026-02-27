@@ -57,6 +57,10 @@ Weird bug in Book where if it has the same structure, the codeblock of the previ
 
 ---
 
+Editor up/down shuold remember where it came from and go back if no left/right has been done.
+
+---
+
 Incentivize optimization: Something like the projected use vs actual use because of optimizations, say evenly split that benifit between optimizer and the beneficiary; 50% of that optimization for 1 year after the change? or no time limit.
 Then again incentize contributions where the contributor gets a % of the total costs saved.
 
