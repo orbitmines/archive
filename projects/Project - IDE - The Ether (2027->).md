@@ -1,6 +1,4 @@
 
-See: :orbitmines: [OrbitMines as a Game Project](https://orbitmines.com/archive/2024-02-orbitmines-as-a-game-project/#:~:text=A%20quick%20step%20towards%20Design)
-
 
 # Open Problems - Quests
 
