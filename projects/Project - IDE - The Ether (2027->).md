@@ -59,6 +59,24 @@ C. The Ray Programming Language
 
 ---
 
+commit all changes made in repl session
+
+---
+
+Incentivize optimization: Something like the projected use vs actual use because of optimizations, say evenly split that benifit between optimizer and the beneficiary; 50% of that optimization for 1 year after the change? or no time limit.
+Then again incentize contributions where the contributor gets a % of the total costs saved.
+
+Basically when does the baseline optimization change every year? Every 3/5 years?
+
+How's it measured against changes that bring down the optimization for some feature etc.. should effect the baseline properly
+
+How to measure the change against the baseline and whether it is actually caused by that change?
+
+How do you disincentize making a bad baseline in order to rake in early.
+
+---
+
+
 Maybe 
 ..{right: .} | {left: .}.. | .. (right?) =>
 ..{right: .} | {left: .}.. | (.. (right)) => // signature per option
