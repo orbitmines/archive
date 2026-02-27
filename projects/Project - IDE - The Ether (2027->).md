@@ -57,7 +57,7 @@ Weird bug in Book where if it has the same structure, the codeblock of the previ
 
 ---
 
-Editor up/down shuold remember where it came from and go back if no left/right has been done.
+Editor up/down shuold remember where it came from and go back if no left/right has been done. End of the line goes to the end of the line on up/down
 
 ---
 
