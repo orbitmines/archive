@@ -138,6 +138,10 @@ in a repl, settings such that changes are permanent to your character.
 
 ---
 
+[y: 5] move in a specific dimension
+
+---
+
 is default set, and should it be set as a part of data storage, or should it only be set once the default changes, should it follow the default adaptively.
 
 ---
