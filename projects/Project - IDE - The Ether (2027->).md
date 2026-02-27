@@ -74,6 +74,15 @@ How to measure the change against the baseline and whether it is actually caused
 
 How do you disincentize making a bad baseline in order to rake in early.
 
+
+---
+
+Smaller cloud/hosting environments (which might in turn be hosted on one of the other providers)
+
+---
+
+Program filter disable certain language features like selfmodiyfing types
+
 ---
 
 
@@ -413,6 +422,20 @@ Hazy World
 ---
 
 Expand .. operator for 2D grid and graphs
+
+---
+
+Encryption key being a physical key, handing it to someone (with some extra step) transferring thst item. Putting it in a door which represents the space you want to tp to.
+
+Copyable items
+
+Can have the fact that I have a key be visible to others, but not the contents of it. (or other aspects of what type of key etc..)
+
+Screen within the vr, go into it, remember ehere you entered, allow for inception
+
+
+
+
 
 ---
 
