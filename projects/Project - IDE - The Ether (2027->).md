@@ -142,6 +142,10 @@ in a repl, settings such that changes are permanent to your character.
 
 ---
 
+Side quests, unexpected competencies, intrinsic motivation
+
+---
+
 is default set, and should it be set as a part of data storage, or should it only be set once the default changes, should it follow the default adaptively.
 
 ---
