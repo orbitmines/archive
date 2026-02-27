@@ -144,6 +144,38 @@ Is increasing temperature associated with increasing gravity? How much does that
 
 ---
 
+
+Traversing some structure to find a match, with some limit of how logn,lfar, if failing to find something else jappensm
+
+
+----
+
+Gravity rate at which we're locally adding/removing structure
+If on the surface; there's nothing to remove ; 
+Velocity adding on one side, removing on the other
+
+If you have particles is some grid
+x x x
+x x x 
+x x x
+
+What happens to the removed structure?
+How isn't everything instantly gobbled up like this? How is structure maintained/added again? Constant expansion somewhere??? Dark energy? But where is it added and why? In such a way that you still allow for the movement towards mass. 
+- Weird idea; How about added behind anything moving towards the mass. It's "shot" in the reverse direction as gravity (at something like twice the speed as gravity?) until it encounters mass and it adds it behind that?
+- What else?
+
+Perhaps removed structure isn't removed but pushed to the side, so it keeps being pushed to the side untill it can go behind the object. In the case of velocity. Not "added back behind the structure"
+
+Moving through space: "at least" removing structure. (Nothing internal needs to "collectively move" in some way) Just removing structure relatively moves closer "as a whole".
+
+--
+
+Take the example of falling to the ground. Where is structure removed in this example?
+Take the example of more mass; more local structure; how does that determine how much gets removed? Is it in one timestep multiple nodes get removed based on how much structure is there? Since gravity is not proportional to the surface area; Maybe something like; we remove until we hit some midpoint (from all directions until they merge with this midpoint); you'd expect there to be a maximum distance in this case.
+|-> Must be something cleverer than something like this; Perhaps something with what happens to the removed structure at the surface.
+
+---
+
 - AMD rant from George - some important stuff
 	- Rockchip? RK3588
 	- HSA to sidestep userend
