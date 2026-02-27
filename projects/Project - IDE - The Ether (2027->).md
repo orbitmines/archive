@@ -61,6 +61,11 @@ C. The Ray Programming Language
 
 commit all changes made in repl session
 
+
+---
+
+Weird bug in Book where if it has the same structure, the codeblock of the previous page gets displayed on the current one, is the case with A. & 3. if you remove the BR at 3
+
 ---
 
 Incentivize optimization: Something like the projected use vs actual use because of optimizations, say evenly split that benifit between optimizer and the beneficiary; 50% of that optimization for 1 year after the change? or no time limit.
