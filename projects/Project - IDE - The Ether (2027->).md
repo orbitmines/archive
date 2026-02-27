@@ -205,6 +205,7 @@ elsif @,..
 // Editor, can be rewritten into preferred level of description, like there exists instead of #.some
 // When editing inside a double ((, force ((+TAB to turn into a (( (double << might be used for subexpressions.
 // Encrypted is editable as plaintext, but then normalizes to Encrypted. Encrypted with password which is required to be filled by the user on use.,
+// Editor preference for using math symbols or not: which syntax level do you prefer
 
 ---
 Different locations have different normalizers : basically what I'm representing my thing as.
