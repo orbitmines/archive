@@ -643,7 +643,7 @@ Autogenerate some parts of this sort of environment when a user is first loading
 
 Instead of having the entire 3d structure in memory different nodes of "in between with distance x", allow overlapping 
 
-Op
+Generate room for me, or choose your own, then type of room picker and at every step describe your room.
 
 ---
 
