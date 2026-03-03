@@ -582,7 +582,6 @@ Science/research games
 - [ ] https://cybercat.institute/2024/05/09/exploiring-best-response-dynamics/
 
 #### Audio
-People: [[Pinar Temiz]], ..
 
 - Audio ; basically like [[Writing - 2025. A Universal Language]] ; 'easy-rediscoverability/seperability in a certain way if not in the obvious seperation case.'
 	- separate audio sources so disentanglement/referencing is easier ; basically separating the superposed things ; generalize
