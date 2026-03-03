@@ -643,6 +643,7 @@ Autogenerate some parts of this sort of environment when a user is first loading
 
 Instead of having the entire 3d structure in memory different nodes of "in between with distance x", allow overlapping 
 
+Op
 
 ---
 
