@@ -645,6 +645,8 @@ Instead of having the entire 3d structure in memory different nodes of "in betwe
 
 Generate room for me, or choose your own, then type of room picker and at every step describe your room.
 
+'here' triggering 
+
 ---
 
 Now how do you make it feel like a game?
