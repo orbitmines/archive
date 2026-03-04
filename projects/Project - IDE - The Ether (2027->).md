@@ -349,7 +349,7 @@ Higher spatial density & higher temporal circuit complexity -> Higher gravity
 High/low spatial/temporal abstraction 
 
 Higher temporal complexity is many in sequence layers?
-Lower spatial complexity is fewer kinds of building blocks? (What happens if there are many redundant replicas of that building block?)
+Lower spatial complexity is fewer kinds of building blAs a wayocks? (What happens if there are many redundant replicas of that building block?)
 
 resource use for certain types of algorithms
 
@@ -505,7 +505,6 @@ Projectile, or some energy(/localized updates), is a keeping a program pointer a
 	- Aspects shareable, others not
 
 - Functionality
-	- Ignorance/dropping of any structured (say explicitly kept history or others), when used for something (say matching aspects of it to others structures etc..)
 	- (Random) exploration (; worlds/items/..) ; Phrasing "random exploratory funtionality" ; "Periodic reminder/suggestion/exploration"
 		- "What are places I haven't looked? What are the places I could want to look? What are the places I decide not to look but would still want too look?"
 	- Better replay ; "replay/detective/.../fossile"
