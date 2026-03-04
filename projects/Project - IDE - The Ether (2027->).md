@@ -699,10 +699,6 @@ Non-trivial interfaces
 
 ---
 
-Features
-- [ ] Take two or more poins, collapse them all to reference one thing?.  ; either that selection, or anything else found at that selection.
-- [ ] Pulsing out, one perspective can't access but another can
-
 Keyboard
 - [ ] Singlke keybind for now to show/hide the ray disambiguation or 'dead edges/..'/
 - [ ] Numbers on keyboard to length
