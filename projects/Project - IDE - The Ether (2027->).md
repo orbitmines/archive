@@ -455,8 +455,6 @@ Copyable items
 
 World Generation
 - [ ] [DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft](https://arxiv.org/pdf/2404.15538)
-- [ ] https://www.val.town/v/thesephist/webgen
-- [ ] https://lumalabs.ai/
 - [ ] https://x.com/active_theory
 - [ ] Spatial computing
 - [ ] 
