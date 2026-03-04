@@ -437,14 +437,6 @@ Encryption key being a physical key, handing it to someone (with some extra step
 
 Copyable items
 
-Can have the fact that I have a key be visible to others, but not the contents of it. (or other aspects of what type of key etc..)
-
-Screen within the vr, go into it, remember ehere you entered, allow for inception
-
-
-
-
-
 ---
 
 #### Game Intro
@@ -581,9 +573,7 @@ Science/research games
 - [ ] https://cybercat.institute/2024/05/09/exploiring-best-response-dynamics/
 
 #### Audio
-
-- Audio ; basically like [[Writing - 2025. A Universal Language]] ; 'easy-rediscoverability/seperability in a certain way if not in the obvious seperation case.'
-	- separate audio sources so disentanglement/referencing is easier ; basically separating the superposed things ; generalize
+- separate audio sources so disentanglement/referencing is easier ; basically separating the superposed things ; generalize
 
 Rendering Engine
 - [ ] https://siboehm.com/articles/22/CUDA-MMM
