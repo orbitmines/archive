@@ -499,9 +499,7 @@ Projectile, or some energy(/localized updates), is a keeping a program pointer a
 - Use the emergent gravity idea from spatial density to construct spaces
 - 
 	- Paths already explored: Cave's, items are influencing what the caves, "what's been searched" by you/or by others/ what can you find.
-	- We use up resources to realization of some invariance (symmetry), which lowers the search space, but increases possible interactions. (Basically higher-arity again) ; Non-trivial superpositions through that invariance.
-	- From certain perspectives, how many operations need to be performed ; relative to some other thing
-	- minimization, compression, of branches basically
+	- We use up resources to realization of some invariance (symmetry), which lowers the search space, but increases possible interactions. (Basically higher-arity again)
 	- novelty; basically change parametsrs til you find somer which are so unsual to the one's currently
 
 (Cyber) Security
