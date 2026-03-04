@@ -53,7 +53,7 @@ commit all changes made in repl session
 
 ---
 
-If
+If there are genuine ambiguities in the editor youd be able to pick one and defer to that one always.
 
 ---
 
