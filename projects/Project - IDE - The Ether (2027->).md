@@ -48,7 +48,7 @@ C. The Ray Programming Language
 
 ---
 
-commit all changes made in repl session
+commit all changes made in repl session to a specific variable ; set @me @ [persistent var] = @me
 
 
 ---
