@@ -55,6 +55,10 @@ Discovery data
 
 ---
 
+- Inconsistency is statement of reprogrammability
+
+---
+
 Fadi Shawki:
 
 Like the energy depends on the frequency of the lightwave yada yada, depending on the oscillation of the wave, sure. But where I get lost is that a single photon is enough to know its energy, and thus its frequency. So a photon can't just be a single point in space moving forwards: like the updates in a graph rewriting system. But it must carry with it some structure which uniformly moves as one (so massless) without interacting with space it moves through & without inner state updates (because well we're assuming we're at the max speed limit) and there must be more of that structure the higher the frequency is.

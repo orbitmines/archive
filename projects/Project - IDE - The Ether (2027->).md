@@ -463,16 +463,10 @@ World Generation
 
 Read
 
-- Changes to a room, as moved holograms, slider to move back and forth between versions
+- Changes to a room, as moved holograms
 
 ---
-
-
-What are different perspectives, on the same object in terms of the language.
-
-Projectile, or some energy(/localized updates), is a keeping a program pointer around and stepping in forward once. then returning the program pointer again on that variable.
-
-- Function discovery###### Open explorations/quests
+###### Open explorations/quests
 *Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
 
 #### Interface Design
