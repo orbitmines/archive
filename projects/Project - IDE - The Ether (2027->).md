@@ -429,10 +429,6 @@ Hazy World
 
 ---
 
-Expand .. operator for 2D grid and graphs
-
----
-
 Encryption key being a physical key, handing it to someone (with some extra step) transferring thst item. Putting it in a door which represents the space you want to tp to.
 
 Copyable items
