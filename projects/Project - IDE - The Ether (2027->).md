@@ -276,11 +276,6 @@ difference in color mapped/filter across frequency
 
 double (()) mapped to the utf8 char 
 
-Programming language to create programming languages and IDEs for them
-- Have some language which is English compiled to Ray with some way of supporting sentence steucture. What is unsupported? ; Have some way of generating common grammatical structures from the language models. ; somehow integrate them into development here.
-- Things like collapse the Ray def to English if simpler ; link the two translations
-
-
 Any set of actions performed on a single thing, into a function, then into an animation of that function
 
 Any object as tabular rendering; have preferences for certain types to render is certain ways per user
