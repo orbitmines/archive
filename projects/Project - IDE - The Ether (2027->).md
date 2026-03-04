@@ -715,11 +715,6 @@ Keyboard
 	- Single key to show something for everything, ignored structure, could just me a simple program applied to the whole interface, show me all the 'orbits' on all the structure.
 		- Basically: use loop to create line, rolling the loop oit by introducing variance in the traversing direction  
 	- Some intuitive slider of some level of description over an existing interpretation to match it - quite dynamic
-	- Draw arbitrary continuation to another level of description, basically taking some structure, trying to hook it into another structure ; Say the 2d grid of the screen into the cells of the gpu or something etc..
-	- [ ] Which moves one can make depicted visually (<>, circular, etc..) 
-
-	- draw with mouse, multiple in a line
-	- Like a paintbrush slowly growing in certain directions having particular steuctures.
 
 - [ ] If you ahve to use mouse, force lock on the structure, close to the mouse?? ; Generalized to drawing in, but this is also a bit of a problem when generalized.
 
