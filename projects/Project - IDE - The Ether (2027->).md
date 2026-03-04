@@ -285,8 +285,6 @@ Any set of actions performed on a single thing, into a function
 
 Any object as tabular rendering; have preferences for certain types to render is certain ways per user
 
-as Renderable on String to define render func instead of the plain string
-
 Condition on source file like sort all the classes here in alphabetical order like library index
 
 Language Server Protocol support 
