@@ -22,6 +22,7 @@ TODO:
 Game industry profiles setup
 - [ ] Steam profile, gameindustry dutch signup, steam, etc...
 	- [ ] Steam distro is 100 USD fee or something?
+- [ ] https://developer.apple.com/enroll/purchase 99eur for ios, developmentTeam needs to be filled
 
 For [[Project - Social - Livestreaming]]
 - [ ] livechat on screen
