@@ -711,8 +711,6 @@ Keyboard
 - Import arbitrary structure (drag/copy/paste)
 - Control
 	- ignoring attachment of where came from, from which would follow the others as the same ignoring again the compariosn, collapsing the tei structures into each other ; ignoring the embedding. - Basically driving them to some "0 point"
-	- Expand/collapse/superpose arbitrarily.
-		- Can at each step choose which continuations to follow (`step`)
 	- Bind structures to controls ; copy/paste, this key does this
 	- Single key to show something for everything, ignored structure, could just me a simple program applied to the whole interface, show me all the 'orbits' on all the structure.
 		- Basically: use loop to create line, rolling the loop oit by introducing variance in the traversing direction  
