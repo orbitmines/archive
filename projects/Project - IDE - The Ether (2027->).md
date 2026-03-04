@@ -507,9 +507,8 @@ Projectile, or some energy(/localized updates), is a keeping a program pointer a
 
 - [ ] If I can show it in some asymmetry in multiple ways, prefer to show in multiple ways to aid disambiguation ; or not always, but a better variant of this.
 
-Server-like/find server-like functionality
-- [ ] ideas loke actually being in some servers/having some server list/-like Minecraft, publically indexable etc. for people to collaborate their work in, is an essential idea. 
-- [ ] Ways of finding you as "hook into your world"
+Server-like/find server-like functionality -> indexable is just a place in some other space.
+
 
 Interfaces
 - https://www.bigscreenvr.com/ [[Bigscreen]]
@@ -517,8 +516,6 @@ Interfaces
 - 
 
 #### Research of Games, Engines, ...
-Link to [[Project - Indexing existing Abstract Models (2024-2025?)]]
-
 - [ ] Are there people who have been thinking about game-invariant puzzles?
 - [ ] Self-modifying rendering engines?
 
