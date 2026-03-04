@@ -461,8 +461,6 @@ World Generation
 - [ ] Spatial computing
 - [ ] 
 
-Read
-
 - Changes to a room, as moved holograms
 
 ---
