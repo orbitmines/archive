@@ -281,7 +281,7 @@ Programming language to create programming languages and IDEs for them
 - Things like collapse the Ray def to English if simpler ; link the two translations
 
 
-Any set of actions performed on a single thing, into a function
+Any set of actions performed on a single thing, into a function, then into an animation of that function
 
 Any object as tabular rendering; have preferences for certain types to render is certain ways per user
 
