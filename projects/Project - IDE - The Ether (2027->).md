@@ -291,8 +291,6 @@ Condition on source file like sort all the classes here in alphabetical order li
 
 Language Server Protocol support 
 
-Of course, we all know that pretty much every language is formally equivalent. But that's not helpful for answering the questions about differences between languages: Physical implementation, energy requirements etc.
-
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
 
@@ -445,9 +443,6 @@ Copyable items
 	- *Could be like the old tv screen shutoff, sucked to the middle.*
 - Somehow the idea of "find, extend/recursive",
 	- Right from the start already dependent on user input
-	- Point to a small figure
-	- dot, line, grid, world, color, more complex world generation - till you're thrown in a more complicated world. 
-		- See some direction to move into for each step. (; small step automatically, wait for the rest) ;  "Shift the attention focus at the start as a way of guiding the first few quests to get familiar with how it works"
 - Zoom back out into a room, in front of an old screen, phase into the screen, and there the starting point of the game. Allowing you to explore the room if wanted. Or it spawns new things in the room.
 
 #### Open World Generation
