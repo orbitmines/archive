@@ -239,7 +239,7 @@ All field are instantiated with ?() that is already the default, if? then None
 
 ---
 
-Keep doing . <search inside> remove the previous searched and save them as the program run, allow ctrl z ofc. As a way of exploring existing executables/codebases etc. eith the keyboard
+Keep doing . [search inside] remove the previous searched and save them as the program run, allow ctrl z ofc. As a way of exploring existing executables/codebases etc. eith the keyboard
 
 ---
 
@@ -260,7 +260,7 @@ defining multiple entrypoints of a function with labels. Use func**.LABEL(). Als
 
   
 
-How to think about Object as a superposed Ray ; Where Object<String> is all those overlapping Rays ; resulting into Strings only.
+How to think about Object as a superposed Ray ; Where Object[String] is all those overlapping Rays ; resulting into Strings only.
 
 What about structures which define steps beyond&before the usual property getter/setter (is that just there's equipped structure on the return so .field.next if .field yields a ray
 
