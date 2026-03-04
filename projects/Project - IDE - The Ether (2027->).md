@@ -699,10 +699,7 @@ Non-trivial interfaces
 
 ---
 
-Keyboard
-- [ ] Singlke keybind for now to show/hide the ray disambiguation or 'dead edges/..'/
-- [ ] Numbers on keyboard to length
-- [ ] Number + parallel compose
+- parallel compose
 
 ---  
 
