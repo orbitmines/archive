@@ -466,7 +466,6 @@ Read
 - Changes to a room, as moved holograms, slider to move back and forth between versions
 
 ---
-- Function discovery
 - Compression/Geodesics
 - Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
 
@@ -476,9 +475,6 @@ Projectile, or some energy(/localized updates), is a keeping a program pointer a
 
 ###### Open explorations/quests
 *Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
-
-###### Items & Quests
-*Generalized variant, I see this thing in the world, in this particular place, want to decode this particular thing (some communication / item) I see. Can then unlock the ability to solve or see different items etc.. I have this other item/mod/type of vision to look through the world differently. "Portal through, see the world/inventory/server in a different way"*
 
 #### Interface Design
 
