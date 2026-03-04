@@ -499,8 +499,6 @@ Projectile, or some energy(/localized updates), is a keeping a program pointer a
 - Use the emergent gravity idea from spatial density to construct spaces
 - 
 	- Paths already explored: Cave's, items are influencing what the caves, "what's been searched" by you/or by others/ what can you find.
-	- Don't forget that it's important that the furthering of certain steps can be arbitrarily delayed ; if resources aren't spent on them. (this, and all these things should have direct translations to the programming interfaces?)
-	- How much storage?
 	- We use up resources to realization of some invariance (symmetry), which lowers the search space, but increases possible interactions. (Basically higher-arity again) ; Non-trivial superpositions through that invariance.
 	- From certain perspectives, how many operations need to be performed ; relative to some other thing
 	- minimization, compression, of branches basically
