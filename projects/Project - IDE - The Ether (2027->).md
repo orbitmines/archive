@@ -540,9 +540,6 @@ Science/research games
 [[Project - Indexing existing Abstract Models (2024-2025?)]] ; tools
 - [ ] [pixel-composer](https://makham.itch.io/pixel-composer), [aseprite](https://www.aseprite.org/), [figma](https://www.figma.com/blog/behind-our-redesign-ui3/), 
 - [ ] https://hexler.net/kodelife
-- [ ] 
-
-- [ ] https://cybercat.institute/2024/05/09/exploiring-best-response-dynamics/
 
 #### Audio
 - separate audio sources so disentanglement/referencing is easier ; basically separating the superposed things ; generalize
