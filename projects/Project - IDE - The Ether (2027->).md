@@ -473,20 +473,14 @@ What are different perspectives, on the same object in terms of the language.
 
 Projectile, or some energy(/localized updates), is a keeping a program pointer around and stepping in forward once. then returning the program pointer again on that variable.
 
-###### Open explorations/quests
+- Function discovery###### Open explorations/quests
 *Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
 
 #### Interface Design
 
 - Collapse blocks of code down to an english summarization of what the code does.
 
-- Any interface, hooks(/finds) unbound controls. Any follow-up changes hence possibly effected. Can be unbound, superposed, etc.. 
-	- ; Latching of controls, defaults of controls from context. ; Additional controls based on kind of interface etc..
-	- Basically move this aspects to [[Project - Indexing existing Abstract Models (2024-2025?)]]
-- Existing interfaces
-
-- Personalized world, ..., workspace
-	- Aspects shareable, others not
+- Any interface, hooks(/finds) unbound controls
 
 - Functionality
 	- (Random) exploration (; worlds/items/..) ; Phrasing "random exploratory funtionality" ; "Periodic reminder/suggestion/exploration"
