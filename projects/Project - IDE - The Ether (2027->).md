@@ -466,8 +466,7 @@ Read
 - Changes to a room, as moved holograms, slider to move back and forth between versions
 
 ---
-- Compression/Geodesics
-- Inconsistency is statement of reprogrammability - or multiple levels of abstraction - Overlapping multiple levels of description
+
 
 What are different perspectives, on the same object in terms of the language.
 
