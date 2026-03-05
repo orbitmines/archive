@@ -168,6 +168,9 @@ canonicalize as a filesystem, delegate certain fields to certain files/dirs. fie
 Wrap remote executable with what to get out of global context intutively and not so verbose? is @me, the me who sent it or?
 
 ---
+Use loadbalancer from some cloud or use load balancer to test a new feature from builtin
+
+---
 
 if @public
 elsif @,..
@@ -179,6 +182,9 @@ elsif @,..
 // For .ray.txt editor we can inject labels before functions and hide them with some IDE plugins for non-Ether editors. So still support version control in-line  
 // If a method doesn't exist on the variable, but it is castable to something which does define that method, say boolean and &/|. Converting it to that value and calling that method should be possible.  
 //   |-> Version control: if that method is then implemented by a library, a user should be notified the functionality changed (probably unexpectedly)  
+// Support enacting a change across many versions
+// Certain updates across functions go together; some grouping version
+
 // TODO - Notes on Type Checking  
 // If blocks like if array.length > 2 ... end, change the type of array within that block. // '{==.instance_of IP}' Automatically casts to IP.  
 // Functions should relax their arguments to 'actually used this from the type'. (So type refinements)  
