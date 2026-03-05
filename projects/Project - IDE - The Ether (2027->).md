@@ -49,8 +49,7 @@ C. The Ray Programming Language
 ---
 
 #### Proofs
-- More generally about proofs: They're simply a mechanism by means to base your decision on what is vs isn't fruitful to pursue; They're a search and memory mechanism. -> They somehow tell you something about the space.; A proof already navigates the spaces by probing it in some way, and that tells you something.  
-- But the only reason why this 'reason why' is interesting, is because it gives us (whether accurate or not) information about the search space.  
+- More generally about proofs: They're simply a mechanism by means to base your decision on what is vs isn't fruitful to pursue; They're a search and memory mechanism. -> They somehow tell you something about the space.; A proof already navigates the spaces by probing it in some way, and that tells you something.
 - What distinguishes a proof from a normal program type  
 
 
