@@ -46,11 +46,13 @@ C. The Ray Programming Language
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
-// More generally about proofs: They're simply a mechanism by means to base your decision on what is vs isn't fruitful to pursue; They're a search and memory mechanism. -> They somehow tell you something about the space.; A proof already navigates the spaces by probing it in some way, and that tells you something.  
-// This reason why, is the interesting part about proofs.  
-// But the only reason why this 'reason why' is interesting, is because it gives us (whether accurate or not) information about the search space.  
-// What distinguishes a proof from a normal program type  
-// assumptions
+---
+
+#### Proofs
+- More generally about proofs: They're simply a mechanism by means to base your decision on what is vs isn't fruitful to pursue; They're a search and memory mechanism. -> They somehow tell you something about the space.; A proof already navigates the spaces by probing it in some way, and that tells you something.  
+- But the only reason why this 'reason why' is interesting, is because it gives us (whether accurate or not) information about the search space.  
+- What distinguishes a proof from a normal program type  
+
 
 ---
 
