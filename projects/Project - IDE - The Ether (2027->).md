@@ -22,7 +22,9 @@ B. Interpretation and Reinterpretation of existing Software
 - How do you extract specific features from large executables/source code bases? And then reuse them in yours?
 - How do you generate version control for substructures when you're only given the complete current and previous states of the programs? 
 - How?
-	- Generate surface area of what the distinguishable Items are - doesnt need to adhere to the d
+	- Generate surface area of what the distinguishable Items are - doesnt need to adhere to the data schemes used in the code.
+	- Generate surface area of what actions those Items can do; Self-modifying, modifying others.
+	- Find equivalences across other things currently within the 
 C. Reprogrammable UI
 - Create a modular system for items from other interfaces to plug into.
 D. Gamification of Science, Engineering and Education
