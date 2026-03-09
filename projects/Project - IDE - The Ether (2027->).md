@@ -24,10 +24,10 @@ B. Interpretation and Reinterpretation of existing Software
 - How?
 	- Generate surface area of what the distinguishable Items are - doesnt need to adhere to the data schemes used in the code.
 	- Generate surface area of what actions those Items can do; Self-modifying, modifying others.
-	- Is it 
-	- Find equivalences across other things currently within the interface: Is this Item loosely equivalent to this other Item. ; ex. (Chat) Message across platforms.
-		- How does it differ? 
-	- Find equivalences for Actions.
+	- Equivalences?
+		- Find equivalences across other things currently within the interface (or in the library): Is this Item loosely equivalent to this other Item. ; ex. (Chat) Message across platforms.
+			- How does it differ? ; for instance messages ordering,
+		- Same for actions.
 	- 
 C. Reprogrammable UI
 - Create a modular system for items from other interfaces to plug into.
