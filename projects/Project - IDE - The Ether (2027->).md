@@ -588,13 +588,8 @@ What type of information is stored on player? Things like: Preferences, interest
 Other IDE functionality:
 - A generating file with some syntax of some alternate language with intermediate code snippets which aren't interfering with the syntax. 
 - Server discovery with possibilities of some community driven setup. So discovering ways of discovering other servers.
-	- Local servers
-		- auto-join local server if last logout was there. per device, allow to (goto position of this device)
-		- non-local servers you'd join via the menu, with a last visited on this instance? or in general.
-- location could just be a lace in a program for UI. with triggers to leave it etc.
-- Keyboard keys per context one is in, configured by looking at program graphs.
-	- in keyboard/controller settings, highlight which parts are being used at that time.
-- Hotbar is just keyboard and other controls like scroll to scroll trhrough them, items bound to them. With inventory being ordered by recent items, or a fixed amount of stuff set there. OR (can be customized)
+	- auto-join local server if last logout was there. per device, allow to (goto position of this device)
+	- non-local servers you'd join via the menu, with a last visited on this instance? or in general.
 
 ---
 
