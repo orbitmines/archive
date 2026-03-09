@@ -37,7 +37,7 @@ B. Interpretation and Reinterpretation of existing Software
 			- How does it differ? - which we deem useful to ignore for the equivalence ; for instance messages ordering, nested threads displaying beneath them in case of certain platforms etc..
 	- Customization:
 		- Themes: Use their theme - or equivalent themes. But overlay a possible way to modify it from their perspective.
-		- Version changing needs to be diff-able (visually?).
+		- Version changing needs to be diff-able (visually?). ; The interface shouldnt break if there's a breaking change which we still need to resolve because there's some conflict. Either fall back to another theme (the updated one) 
 	- Import from source, OS-specific library or drag-and-dropping a link to the start of the program.
 	- 
 C. Reprogrammable UI
