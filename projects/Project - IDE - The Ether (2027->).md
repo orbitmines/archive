@@ -29,7 +29,9 @@ B. Interpretation and Reinterpretation of existing Software
 		- Equivalences?
 			- Find equivalences across other things currently within the interface (or in the library): Is this Item loosely equivalent to this other Item. ; ex. (Chat) Message across platforms. Same for actions.
 			- How does it differ? - which we deem useful to ignore for the equivalence ; for instance messages ordering, nested threads displaying beneath them in case of certain platforms etc..
-	- Themes: Use their theme; rendering. But overlay a possible way to modify it from their perspective.
+	- Customization:
+		- Themes: Use their theme - or equivalent themes. But overlay a possible way to modify it from their perspective.
+		- 
 C. Reprogrammable UI
 - Create a modular system for items from other interfaces to plug into.
 D. Gamification of Science, Engineering and Education
