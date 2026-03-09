@@ -25,7 +25,8 @@ B. Interpretation and Reinterpretation of existing Software
 	- Generate surface area of what the distinguishable Items are - doesnt need to adhere to the data schemes used in the code.
 	- Generate surface area of what actions those Items can do; Self-modifying, modifying others.
 	- 
-	- Find equivalences across other things currently within the interface: Is this Item loosely equivalent to this other Item. ; ex. Chat Me
+	- Find equivalences across other things currently within the interface: Is this Item loosely equivalent to this other Item. ; ex. Chat Message across platforms
+	- 
 C. Reprogrammable UI
 - Create a modular system for items from other interfaces to plug into.
 D. Gamification of Science, Engineering and Education
