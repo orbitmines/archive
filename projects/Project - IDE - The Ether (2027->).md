@@ -68,7 +68,7 @@ D. Gamification of Science, Engineering and Education
 
 ---
 
-Whether it is databases, or user interfaces or programming languages, we want separability between the layers of ap
+Whether it is databases, or user interfaces or programming languages, we want separability between the layers of applications. Where interfaces are just themes. ...
 
 ---
 
