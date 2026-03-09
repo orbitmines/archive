@@ -26,8 +26,10 @@ B. Interpretation and Reinterpretation of existing Software
 	- Generate surface area of what actions those Items can do; Self-modifying, modifying others.
 	- What is the purpose of some Item?
 		- Which interfaces is it exposed to?: Is it displayed visually/auditory/...
+			- Are contents displayed? Or is it the existance o
 		- What is the visibility of that item supposed to be? Is it communicated over the network? Or never? Is it encrypted? ; this should be interpreted and respected. 
-		- How is it updated? Modified
+		- How is it updated? Modified within the code, modified externally by an updater; version tracking.
+		- 
 		- 
 		- Equivalences?
 			- Find equivalences across other things currently within the interface (or in the library): Is this Item loosely equivalent to this other Item. ; ex. (Chat) Message across platforms. Same for actions.
