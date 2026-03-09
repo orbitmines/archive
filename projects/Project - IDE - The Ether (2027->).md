@@ -25,7 +25,7 @@ B. Interpretation and Reinterpretation of existing Software
 	- Generate surface area of what the distinguishable Items are - doesnt need to adhere to the data schemes used in the code.
 	- Generate surface area of what actions those Items can do; Self-modifying, modifying others.
 	- What is the purpose of some Item?
-		- 
+		- Is it displayed visually/../what is the target use?
 		- Equivalences?
 			- Find equivalences across other things currently within the interface (or in the library): Is this Item loosely equivalent to this other Item. ; ex. (Chat) Message across platforms. Same for actions.
 			- How does it differ? - which we deem useful to ignore for the equivalence ; for instance messages ordering, nested threads displaying beneath them in case of certain platforms etc..
