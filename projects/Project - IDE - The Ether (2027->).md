@@ -28,7 +28,7 @@ B. Interpretation and Reinterpretation of existing Software
 		- Which interfaces is it exposed to?: Is it displayed visually/auditory/...
 			- Are contents displayed? Or is it the existence of the item?
 		- What is the visibility of that item supposed to be? Is it communicated over the network? Or never? Is it encrypted? ; this should be interpreted and respected. Similarly we could identify some code which checks for a license and still identify all the items within the source code if possible, but respect the license as visibility of the item. ; The visibility's visibility - so whether we can see the item, would depend on whether the source code has some preventive mechanism  where the license check is concerned. - Of course users could override this check if there's no preventative mechanism.
-			- 
+			- If accessible still equivalence with open-source free variants, and say there's free alternatives.
 		- 
 		- How is it updated? Modified within the code, modified externally by an updater; version tracking.
 		- 
