@@ -32,6 +32,7 @@ B. Interpretation and Reinterpretation of existing Software
 	- Customization:
 		- Themes: Use their theme - or equivalent themes. But overlay a possible way to modify it from their perspective.
 		- Version changing needs to be diff-able (visually?).
+	- Import from source, OS-specific library, 
 C. Reprogrammable UI
 - Create a modular system for items from other interfaces to plug into.
 D. Gamification of Science, Engineering and Education
