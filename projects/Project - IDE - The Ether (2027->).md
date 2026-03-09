@@ -31,7 +31,7 @@ B. Interpretation and Reinterpretation of existing Software
 			- How does it differ? - which we deem useful to ignore for the equivalence ; for instance messages ordering, nested threads displaying beneath them in case of certain platforms etc..
 	- Customization:
 		- Themes: Use their theme - or equivalent themes. But overlay a possible way to modify it from their perspective.
-		- 
+		- Version changing needs to be diff-able (visually?).
 C. Reprogrammable UI
 - Create a modular system for items from other interfaces to plug into.
 D. Gamification of Science, Engineering and Education
