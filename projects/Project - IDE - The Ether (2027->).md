@@ -2,7 +2,17 @@
 
 # Open Problems - Quests
 
-A. Interpretation and Reinterpretation of existing Software
+A. The Ray Programming Language
+- I. 
+	- Should you superpose concurrent accesses of a variable?
+	- Is a function's control-graph without an initial boundary: a starting point, a valid function?
+	- How do you run a function backwards?
+	- How do you call and define inverses of functions?
+	- What would be an appropriate geometrical library for describing UI languages?
+- II.
+	- How do you scale large game graphs to millions of players?
+	- How do you limit spatial propagation by means of actual computational restraints?
+B. Interpretation and Reinterpretation of existing Software
 - What is a useful Universal Language in which to compare all existing languages?
 	- [A Program in Ray](https://github.com/orbitmines/ray/blob/main/Ether/.ray/Program.ray)
 - How do you compare [thousands](https://github.com/orbitmines/ray/blob/main/Ether/library/Index.ray) of languages, without redefining all the semantics by hand? (using their existing implementations)
@@ -11,9 +21,9 @@ A. Interpretation and Reinterpretation of existing Software
 - How do you create differentiation of languages based on those measures?
 - How do you extract specific features from large executables/source code bases? And then reuse them in yours?
 - How do you generate version control for substructures when you're only given the complete current and previous states of the programs? 
-B. Reprogrammable UI
+C. Reprogrammable UI
 - 
-C. Gamification of Science, Engineering and Education
+D. Gamification of Science, Engineering and Education
 - What would be an example problem, and example reimplementation of that problem as a game?
 - How do you model the existing knowledge of a player?
 	- How do you initially calibrate the existing knowledge of a player?
@@ -31,17 +41,6 @@ C. Gamification of Science, Engineering and Education
 - How does the game start? For new sessions starting with zero knowledge of the player, to one which is calibrated to them?
 - How do you make progression feel like a videogame?
 - 
-D. The Ray Programming Language
-- I. 
-	- Should you superpose concurrent accesses of a variable?
-	- Is a function's control-graph without an initial boundary: a starting point, a valid function?
-	- How do you run a function backwards?
-	- How do you call and define inverses of functions?
-	- What would be an appropriate geometrical library for describing UI languages?
-- II.
-	- How do you scale large game graphs to millions of players?
-	- How do you limit spatial propagation by means of actual computational restraints?
-
 
 ---
 
