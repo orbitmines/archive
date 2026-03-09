@@ -68,6 +68,10 @@ D. Gamification of Science, Engineering and Education
 
 ---
 
+Whether it is databases, or user interfaces or programming languages, we want separability between the layers of ap
+
+---
+
 #### Proofs
 - More generally about proofs: They're simply a mechanism by means to base your decision on what is vs isn't fruitful to pursue; They're a search and memory mechanism. -> Useful it the sense that it unlocks something you couldnt do before -> They somehow tell you something about the space.; Both in how you arrived at your conclusion as the conclusion itself. A proof already navigates the spaces by probing it in some way, and that tells you something.
 - (1) How do you take advantage of what it tells you about a space.
