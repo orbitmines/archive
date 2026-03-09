@@ -27,7 +27,7 @@ B. Interpretation and Reinterpretation of existing Software
 	- What is the purpose of some Item?
 		- Which interfaces is it exposed to?: Is it displayed visually/auditory/...
 			- Are contents displayed? Or is it the existence of the item?
-		- What is the visibility of that item supposed to be? Is it communicated over the network? Or never? Is it encrypted? ; this should be interpreted and respected. 
+		- What is the visibility of that item supposed to be? Is it communicated over the network? Or never? Is it encrypted? ; this should be interpreted and respected. Similarly we could identify some code which checks for a license and still identify all the items within the source code if possible, but respect the licen
 		- 
 		- How is it updated? Modified within the code, modified externally by an updater; version tracking.
 		- 
