@@ -489,6 +489,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 
 - Current best, and current path.
 - Strategies: Finding a 'nearby' (nearby in the sense of close in possible operations space) number which has nice symmetry properties.
+	- Need to be able to do numeric operations on LARGE numbers.
 
 ---
 
