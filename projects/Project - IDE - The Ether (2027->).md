@@ -488,7 +488,7 @@ You want to be able to say, ditch this line of inquiry, go back and persue some 
 What if you have two worlds/locations you're at, one is some higher level location, the other details on that location; Or as a way of jumping abstraction levels; zooming in/going smaller
 
 - Current best, and current path.
-- Strategies: Finding a 'nearby' (nearby in the sense of close in possible operations space) number which has nice symmetry properties. (naieve - but probably still applicable in certain cases.)
+- Strategies: Finding a 'nearby' (nearby in the sense of close in possible operations space) number which has nice symmetry properties. (naieve for the general case - but probably still applicable in many cases)
 	- Need to be able to do numeric operations on LARGE numbers.
 
 ---
