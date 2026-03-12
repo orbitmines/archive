@@ -487,6 +487,8 @@ You want to be able to say, ditch this line of inquiry, go back and persue some 
 
 What if you have two worlds/locations you're at, one is some higher level location, the other details on that location; Or as a way of jumping abstraction levels; zooming in/going smaller
 
+- Current best, and current path.
+
 ---
 
 Encryption key being a physical key, handing it to someone (with some extra step) transferring thst item. Putting it in a door which represents the space you want to tp to.
