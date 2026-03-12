@@ -463,7 +463,7 @@ Gamification of Optimization Problems
 - There's optimization problems: So systematically steering optimization basically.
 - There's always an equivalence relationship with optimization
 
-Optimizing compression algorithms, so + an equivalence relationship on input/output given the algorithm. ; reverisibil
+Optimizing compression algorithms, so + an equivalence relationship on input/output given the algorithm. ; reversibility at every step is key. 
 - benchmarking: A specific file vs A category of files
 - tradeoffs: What category increases, what category decreases
 
