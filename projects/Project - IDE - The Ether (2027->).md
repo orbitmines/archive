@@ -456,6 +456,37 @@ Store Ray and iterate through object at that World Node, eventually going throu
 
 Hazy World
 
+# Gamification of Optimization Problems
+By playing tell the computer what to focus on, feedback means what?
+
+Gamification of Optimization Problems
+- There's optimization problems: So systematically steering optimization basically.
+- There's always an equivalence relationship with optimization
+
+Optimizing compression algorithms, so + an equivalence relationship on input/output given the algorithm. ; reverisibil
+- benchmarking: A specific file vs A category of files
+- tradeoffs: What category increases, what category decreases
+
+
+Optimizing a specific goal functionality, so + equivalence semantics 
+What if we say, the goal is to design some sorting algorithm, so there's a well-defined problem, how would you map that to something on which we have feedback on how to explore possible equivalent programs. Where complexity & size of the sorting algorithm is a resource, and we're trying to optimize speed.
+Basically we're influencing some algorithm/AI/traversing mechanism which is checking all possible programs.
+Induction/deduction again; how does one explore.
+How do you input more symbolically expressed ideas?
+How would you understand what the current state(s) are?
+You want to be able to say, ditch this line of inquiry, go back and persue some other thing; actually a 3d location?
+- A way to translate/compress the problem of moving through possible program space, into the lower dimensional which is the UI.
+- Obvious problem becomes how do you benchmark a solution; if we have access to the steps why it's an equivalence it becomes but what does it actually change?
+
+- Equipped items as what is currently being checked; obvious nonuseful paths to explore etc. You can then create new items of course to do different things 
+
+- Specific locations map to specific types of algorithms, items mined at those locations have properties based on how useful they are; They stack to stuff of the same category; similar properties. You can always retrace where you got an item based on that item; holds that history.
+- What do those items look like? Specific to a problem?
+
+- NPC which magically (at distance) influences whole world gen; or current state
+
+What if you have two worlds/locations you're at, one is some higher level location, the other details on that location; Or as a way of jumping abstraction levels; zooming in/going smaller
+
 ---
 
 Encryption key being a physical key, handing it to someone (with some extra step) transferring thst item. Putting it in a door which represents the space you want to tp to.
