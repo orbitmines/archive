@@ -501,7 +501,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - You could later imagine hiring more equipment, by which we mean literally running stuff on some server/cloud.
 
 - Capacity of GPU/CPU/PCIe buss/
-	- Purposes of what they're used for: Buffer so that 
+	- Purposes of what they're used for: Buffer so that I don't have to redo the PCI thing.
 
 ---
 
