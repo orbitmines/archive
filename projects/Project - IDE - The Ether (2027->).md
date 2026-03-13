@@ -495,6 +495,8 @@ What if you have two worlds/locations you're at, one is some higher level locati
 	- Need to be reversible, different position different model
 - Extracting modular features? ; Learn patterns, extract them and construct them using code; or compress that code into a modular model which calls code.
 
+
+
 ---
 
 Encryption key being a physical key, handing it to someone (with some extra step) transferring thst item. Putting it in a door which represents the space you want to tp to.
