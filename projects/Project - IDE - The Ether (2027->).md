@@ -506,6 +506,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - Mana of the room; max storage capacity.
 - Copying is a magic spell which might take a little bit (so it actually copies on disk); uses "Mana"; let's rephrase mana as a thing which says we have certain capacity X/GB/s write speed, and we use temporarily use it.
 	- Over network and locally too; requires Concentration. Can be interrupted. What do you call requires concentration, but we dont mind if it's interrupted?. Different levels of concentration: not every interrupt interrupt all concentration.
+	- The one who se
 - Have items be recognizable when they're only stored in memory, or not even and stored remotely. Cast a way to materialize; localize.
 - Capacity of GPU/CPU/PCIe buss; "Mana" of objects.
 	- Purposes of what they're used for: 
