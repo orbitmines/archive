@@ -500,7 +500,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 	- Or similarly some industrial factory or something, or workbench with an NPC which does work for you -> and you can give them certain
 - You could later imagine hiring more equipment, by which we mean literally running stuff on some server/cloud.
 
-- Things which have more than one 'mana bar' are actually just multiple items in some environment which all separately have a
+- Things which have more than one 'mana bar' are actually just multiple items in some environment which all separately have a mana bar, say network, disk, etc.. capacity.
 - Mana just T instead of TB etc..
 - Mana of the room; max storage capacity.
 - Copying is a magic spell which might take a little bit (so it actually copies on disk); uses "Mana"; let's rephrase mana as a thing which says we have certain capacity X/GB/s write speed, and we use temporarily use it.
