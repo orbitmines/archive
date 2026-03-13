@@ -495,7 +495,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 	- Need to be reversible, different position different model
 - Extracting modular features? ; Learn patterns, extract them and construct them using code; or compress that code into a modular model which calls code.
 
-
+Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those item
 
 ---
 
