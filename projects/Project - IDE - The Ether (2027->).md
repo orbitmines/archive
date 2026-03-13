@@ -491,7 +491,8 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - Strategies: Finding a 'nearby' (nearby in the sense of close in possible operations space) number which has nice symmetry properties. (naieve for the general case - but probably still applicable in many cases)
 	- Need to be able to do numeric operations on LARGE numbers.
 - The current cursor (how we've reshuffled the number) according to certain compression mechanisms responds like X: runs in the background because it's likely to be slow for large files.
-- 
+- Building a Model
+	- Need to be reversible, different position different model
 
 ---
 
