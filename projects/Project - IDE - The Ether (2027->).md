@@ -493,6 +493,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - The current cursor (how we've reshuffled the number) according to certain compression mechanisms responds like X: runs in the background because it's likely to be slow for large files.
 - Building a Model
 	- Need to be reversible, different position different model
+- Extracting modular features from
 
 ---
 
