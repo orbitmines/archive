@@ -500,6 +500,9 @@ What if you have two worlds/locations you're at, one is some higher level locati
 	- Or similarly some industrial factory or something, or workbench with an NPC which does work for you -> and you can give them certain
 - You could later imagine hiring more equipment, by which we mean literally running stuff on some server/cloud.
 
+- Capacity of GPU/CPU/PCIe buss/
+	- Purposes of what they're used for: Buffer so that 
+
 ---
 
 Encryption key being a physical key, handing it to someone (with some extra step) transferring thst item. Putting it in a door which represents the space you want to tp to.
