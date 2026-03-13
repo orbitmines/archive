@@ -507,7 +507,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - Copying is a magic spell which might take a little bit (so it actually copies on disk); uses "Mana"; let's rephrase mana as a thing which says we have certain capacity X/GB/s write speed, and we use temporarily use it.
 	- Over network and locally too; requires Concentration. Can be interrupted. What do you call requires concentration, but we dont mind if it's interrupted?. Different levels of concentration: not every interrupt interrupt all concentration.
 	- The one who sent it is the opposite: it's clear, because it's just a ref to the current object, and slowly it becomes less opacity; it's remote now.
-- In a similar way if the room is being downloaded it use the same opacity effect and come into view? ; 
+- In a similar way if the room is being downloaded it use the same opacity effect and come into view? ; But that only makes sense if we get an outline of the room first.
 - Have items be recognizable when they're only stored in memory, or not even and stored remotely. Cast a way to materialize; localize.
 - Capacity of GPU/CPU/PCIe buss; "Mana" of objects.
 	- Purposes of what they're used for: 
