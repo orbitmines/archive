@@ -501,7 +501,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - You could later imagine hiring more equipment, by which we mean literally running stuff on some server/cloud.
 
 - Copying is a magic spell which might take a little bit (so it actually copies on disk); uses "Mana"; let's rephrase mana as a thing which says we have certain capacity X/GB/s write speed, and we use temporarily use it.
-	- Over network and locally too; requires Concentration.
+	- Over network and locally too; requires Concentration. Can be interrupted.
 - Capacity of GPU/CPU/PCIe buss; "Mana" of objects.
 	- Purposes of what they're used for: 
 		- Buffer so that I don't have to redo the PCI thing: Moving the material from Place to Place, or keeping it in some specific place. 
