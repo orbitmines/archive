@@ -500,7 +500,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 	- Or similarly some industrial factory or something, or workbench with an NPC which does work for you -> and you can give them certain
 - You could later imagine hiring more equipment, by which we mean literally running stuff on some server/cloud.
 
-- Copying is a magic spell which might take a little bit (so it actually copies on disk).
+- Copying is a magic spell which might take a little bit (so it actually copies on disk); uses 
 - Capacity of GPU/CPU/PCIe buss/
 	- Purposes of what they're used for: 
 		- Buffer so that I don't have to redo the PCI thing: Moving the material from Place to Place, or keeping it in some specific place. 
