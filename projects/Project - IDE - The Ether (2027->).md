@@ -496,7 +496,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - Extracting modular features? ; Learn patterns, extract them and construct them using code; or compress that code into a modular model which calls code.
 - What would an architecture look like which is made for this sort of quick feedback; how do we combine ideas of statistics with this new architecture.
 
-You want existing algorithms to be importable: So a specific interpretation which is a compression algorithm to use it as a starting point. You want some way to differentiate between two of those imported implementations; how do you decide w
+You want existing algorithms to be importable: So a specific interpretation which is a compression algorithm to use it as a starting point. You want some way to differentiate between two of those imported implementations; how do you decide where to use what. Probably nestedly use as a components, or actually use aspects of that algorithm in the current one.
 
 #### Ideas for a setting which works
 - Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those items and have some predictive capability of how well it will work for that element.
