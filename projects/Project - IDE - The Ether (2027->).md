@@ -69,7 +69,7 @@ D. Gamification of Science, Engineering and Education
 
 ---
 
-3D/2D modelling app using one of the 
+3D/2D modelling app using one of the diffussion models or something.
 
 ---
 
