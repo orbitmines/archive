@@ -461,6 +461,8 @@ Store Ray and iterate through object at that World Node, eventually going throu
 Hazy World
 
 # Gamification of Optimization Problems
+- 
+
 By playing tell the computer what to focus on, feedback means what?
 
 Gamification of Optimization Problems
