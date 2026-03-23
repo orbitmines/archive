@@ -498,7 +498,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - Pattern search: High-level/low-level patterns across data. How do you guide search for that: That's like a mode on finding things to compress, then later a mode of how to compress it.
 	- How to make the strategies for searching for this configurable too, so this would mean a sub-problem which is not an optimization problem. It's an open problem to find all the patterns; how do you benchmark that? Quality/compressibility of the found pattern probably.
 	- What makes it a pattern is that we can generate it with from a lower space. So repeating is just \*, frequency is just ??
-
+	- What is training/using an embedding equivalent to in pattern sea
 
 Another issue is that sine compression like using an autoencoder/decoder is incredibly slow since we can't parallelize the token-dependence. How far can you compress without that?  
 
