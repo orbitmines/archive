@@ -500,7 +500,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 	- What makes it a pattern is that we can generate it with from a lower space. So repeating is just \*, frequency is just ??
 	- What is training/using an embedding equivalent to in pattern search?
 
-Another issue is that sine compression like using an autoencoder/decoder is incredibly slow since we can't parallelize the token-dependence. How far can you compress without that?  
+Another issue is that in compression like using an autoencoder/decoder is incredibly slow since we can't parallelize the token-dependence. How far can you compress without that?  
 
 You want existing algorithms to be importable: So a specific interpretation which is a compression algorithm to use it as a starting point. You want some way to differentiate between two of those imported implementations; how do you decide where to use what. Probably nestedly use as a components, or actually use aspects of that algorithm in the current one.
 
