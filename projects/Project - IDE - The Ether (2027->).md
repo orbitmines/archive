@@ -497,7 +497,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - What would an architecture look like which is made for this sort of quick feedback; how do we combine ideas of statistics with this new architecture.
 - Pattern search: High-level/low-level patterns across data. How do you guide search for that: That's like a mode on finding things to compress, then later a mode of how to compress it.
 	- How to make the strategies for searching for this configurable too, so this would mean a sub-problem which is not an optimization problem. It's an open problem to find all the patterns; how do you benchmark that? Quality/compressibility of the found pattern probably.
-
+	- Frequency of a p
 
 
 Another issue is that sine compression like using an autoencoder/decoder is incredibly slow since we can't parallelize the token-dependence. How far can you compress without that?  
