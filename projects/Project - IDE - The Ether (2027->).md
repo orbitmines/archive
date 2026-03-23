@@ -498,7 +498,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 - Pattern search: High-level/low-level patterns across data. How do you guide search for that: That's like a mode on finding things to compress, then later a mode of how to compress it.
 	- How to make the strategies for searching for this configurable too, so this would mean a sub-problem which is not an optimization problem. It's an open problem to find all the patterns; how do you benchmark that? Quality/compressibility of the found pattern probably.
 
-Another issue is that sine compression like using an autoencoder/decoder is incredibly slow since we can't 
+Another issue is that sine compression like using an autoencoder/decoder is incredibly slow since we can't parallelize the token-dependence. How far can you compress without that?  
 
 You want existing algorithms to be importable: So a specific interpretation which is a compression algorithm to use it as a starting point. You want some way to differentiate between two of those imported implementations; how do you decide where to use what. Probably nestedly use as a components, or actually use aspects of that algorithm in the current one.
 
