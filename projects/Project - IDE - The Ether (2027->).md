@@ -495,6 +495,7 @@ What if you have two worlds/locations you're at, one is some higher level locati
 	- Need to be reversible, different position different model
 - Extracting modular features? ; Learn patterns, extract them and construct them using code; or compress that code into a modular model which calls code.
 - What would an architecture look like which is made for this sort of quick feedback; how do we combine ideas of statistics with this new architecture.
+- Pattern search: High-level/low-level patterns across data. How do you guide search for that: That's like a mode on
 
 You want existing algorithms to be importable: So a specific interpretation which is a compression algorithm to use it as a starting point. You want some way to differentiate between two of those imported implementations; how do you decide where to use what. Probably nestedly use as a components, or actually use aspects of that algorithm in the current one.
 
