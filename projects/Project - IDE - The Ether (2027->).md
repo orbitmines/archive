@@ -464,7 +464,7 @@ Hazy World
 - Throw out the idea of having names for things.
 - Perhaps islands of competency, and connecting them?
 - Description of like a type/room for instance, being an example built from that perspective, using the objects as types, then being able to configure additional details like age etc. then saying generate something with these properties 'choose'. (Ignoring the existing structure)
-- 
+- Properties of some object being just items 
 
 # Gamification of Optimization Problems
 - Programming language for visual environment instead as step 1
