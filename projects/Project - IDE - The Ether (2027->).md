@@ -466,6 +466,8 @@ Hazy World
 - Description of like a type/room for instance, being an example built from that perspective, using the objects as types, then being able to configure additional details like age etc. then saying generate something with these properties 'choose'. (Ignoring the existing structure)
 - Properties of some object being just items put in some 3d space which together make up that item. (But in this case there's also an actual 3d orientation to it we can use.)
 - What is the main advantage gained in 3D?
+	- Can easily describe 3d relations, can layout things spatially.
+- 
 
 # Gamification of Optimization Problems
 - Programming language for visual environment instead as step 1
