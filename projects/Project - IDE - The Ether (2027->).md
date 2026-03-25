@@ -463,6 +463,8 @@ Hazy World
 # 3D Programming Language
 
 Problem categories:
+- Interface definition (frontend/intermediate/backend)
+- Optimization problems
 - 
 
 - Throw out the idea of having names for things. (Or rather make it optional?)
