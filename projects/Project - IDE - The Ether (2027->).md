@@ -460,7 +460,8 @@ Store Ray and iterate through object at that World Node, eventually going throu
 
 Hazy World
 
-# 3D Programming Language
+# 
+# Visuals
 
 Problem categories: (They're all intertwined)
 - Creation
