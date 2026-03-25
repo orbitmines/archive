@@ -463,7 +463,7 @@ Hazy World
 # 3D Programming Language
 - Throw out the idea of having names for things. (Or rather make it optional?)
 - Perhaps islands of competency, and connecting them?
-- Description of like a type/room for instance, being an example built from that perspective, using the objects as types, then being able to configure additional details like age etc. then saying generate something with these properties 'choose'. (Ignoring the existing structure). 5x for instance floating underneath
+- Description of like a type/room for instance, being an example built from that perspective, using the objects as types, then being able to configure additional details like age etc. then saying generate something with these properties 'choose'. (Ignoring the existing structure). 5x for instance floating underneath/above.
 - Properties of some object being just items put in some 3d space which together make up that item. (But in this case there's also an actual 3d orientation to it we can use.)
 - What is the main advantage gained in 3D?
 	- Can easily describe 3d relations, can layout things spatially.
@@ -475,7 +475,7 @@ Hazy World
 		- 
 - Comments as descriptions on properties and items (shown in some menu on the right); when having some Identifier toggled. (Similarly just some item)
 - UI layout just a place you can visit and move stuff around. (& Add the key item to.)
-- 
+- Worlds/scenes you can visist and connect arbitrarily (view those connections from the specific worlds as well). (Like a )
 
 # Gamification of Optimization Problems
 - Programming language for visual environment instead as step 1
