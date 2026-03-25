@@ -471,9 +471,10 @@ Problem categories:
 	- Reverse engineering problems.
 		- Cherry-picking, categorizing, taxonomy.
 		- Guided search to match a particular type of pattern?
-- Optimization
+- Optimization/Search
 	- Optimization problems: Take existing function as specification (search/sort/compression/disk access/...), and optimize.
 	- Should be guided search: Look here, etc.
+	- 
  
 
 - Have some item in hand, then do an action then get a popup on what that action should mean, and start defining it that way. Like projectile etc..
