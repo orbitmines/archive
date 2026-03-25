@@ -472,6 +472,7 @@ Problem categories:
 	- 
 - 
 
+- Have some item in hand, then do an action then get a popup on what that action should mean, and start defining it that way. Like projectile etc..
 - Throw out the idea of having names for things. (Or rather make it optional?)
 - Perhaps islands of competency, and connecting them?
 - Description of like a type/room for instance, being an example built from that perspective, using the objects as types, then being able to configure additional details like age etc. then saying generate something with these properties 'choose'. (Ignoring the existing structure). 5x for instance floating underneath/above. Also translatable to a text variant (should be the case for everything) where the 3d coordinates are modifiers or <> in front.
