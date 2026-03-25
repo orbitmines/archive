@@ -470,6 +470,7 @@ Hazy World
 - What are things lost while going 3D/visual?
 	- Arbitrary names linking - instead would have to be through items, which could still have names though.
 - So items with insides for the objects, so that would be some frontend backend. The real question is how to construct something similar to functions?
+	- One way is to record some chain of interactions, where the functions are just items within the item, but this is just a normal programming language; need something more creative.
 	- 
 - Comments as descriptions on properties and items (shown in some menu on the right); when having some Identifier toggled. (Similarly just some item)
 - UI layout just a place you can visit and move stuff around. (& Add the key item to.)
