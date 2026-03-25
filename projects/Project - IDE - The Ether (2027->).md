@@ -462,6 +462,8 @@ Hazy World
 
 # 3D Programming Language
 - Throw out the idea of having names for things.
+- Perhaps islands of competency, and connecting them?
+- 
 
 # Gamification of Optimization Problems
 - Programming language for visual environment instead as step 1
