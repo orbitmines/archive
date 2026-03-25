@@ -469,7 +469,7 @@ Hazy World
 	- Can easily describe 3d relations, can layout things spatially.
 - What are things lost while going 3D/visual?
 	- Arbitrary names linking - instead would have to be through items, which could still have names though.
-- 
+- So items with insides for the objects, so that would be  
 
 # Gamification of Optimization Problems
 - Programming language for visual environment instead as step 1
