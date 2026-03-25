@@ -461,7 +461,7 @@ Store Ray and iterate through object at that World Node, eventually going throu
 Hazy World
 
 # 3D Programming Language
-
+- Throw out the idea of having names for things.
 
 # Gamification of Optimization Problems
 - Programming language for visual environment instead as step 1
