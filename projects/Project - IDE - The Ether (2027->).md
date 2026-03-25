@@ -467,6 +467,8 @@ Hazy World
 - Properties of some object being just items put in some 3d space which together make up that item. (But in this case there's also an actual 3d orientation to it we can use.)
 - What is the main advantage gained in 3D?
 	- Can easily describe 3d relations, can layout things spatially.
+- What are things lost while going 3D/visual?
+	- Arbitrary names linking - instead would have to be through items, which could still have names though.
 - 
 
 # Gamification of Optimization Problems
