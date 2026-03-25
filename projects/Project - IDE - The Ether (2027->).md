@@ -471,6 +471,7 @@ Hazy World
 	- Arbitrary names linking - instead would have to be through items, which could still have names though.
 - So items with insides for the objects, so that would be some frontend backend. The real question is how to construct something similar to functions?
 	- 
+- Specifying 
 
 # Gamification of Optimization Problems
 - Programming language for visual environment instead as step 1
