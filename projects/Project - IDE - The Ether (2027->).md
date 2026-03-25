@@ -473,7 +473,7 @@ Hazy World
 - So items with insides for the objects, so that would be some frontend backend. The real question is how to construct something similar to functions?
 	- One way is to record some chain of interactions, where the functions are just items within the item, but this is just a normal programming language; need something more creative.
 	- Competency islands, what would be an example:
-- Instead of having events named, instead press a key, then have some event happen (record), and then something pops 
+- Instead of having events named, instead press a key, then have some event happen (record), and then something pops up which says when that happens. Taking the latest event as a default, for instance; clicking, means first hovering then clicking. Shooting means first releasing, then hitting (so if stopped in between we take the release event).;
 - Comments as descriptions on properties and items (shown in some menu on the right); when having some Identifier toggled. (Similarly just some item)
 - UI layout just a place you can visit and move stuff around. (& Add the key item to.)
 - Worlds/scenes you can visist and connect arbitrarily (view those connections from the specific worlds as well). (Like a list of worlds each of them being a possible way to render something)
