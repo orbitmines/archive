@@ -475,7 +475,8 @@ Hazy World
 		- 
 - Comments as descriptions on properties and items (shown in some menu on the right); when having some Identifier toggled. (Similarly just some item)
 - UI layout just a place you can visit and move stuff around. (& Add the key item to.)
-- Worlds/scenes you can visist and connect arbitrarily (view those connections from the specific worlds as well). (Like a )
+- Worlds/scenes you can visist and connect arbitrarily (view those connections from the specific worlds as well). (Like a list of worlds each of them being a possible way to render something)
+- 
 
 # Gamification of Optimization Problems
 - Programming language for visual environment instead as step 1
