@@ -461,7 +461,7 @@ Store Ray and iterate through object at that World Node, eventually going throu
 Hazy World
 
 # Guided Navigation Language
-Essentially what we want, is to reformalize engineering (creation), reverse-engineering (identification), optimization and search; into an intuitive language, which guides AI exploration/navigation. In such a way that whenever something can be brute-forced, it will be brute-forced.
+Essentially what we want, is to reformalize engineering (creation), reverse-engineering (identification), optimization and search; into an intuitive language, which guides computer exploration/navigation. In such a way that whenever something can be brute-forced, it will be brute-forced.
 
 # Visuals
 
