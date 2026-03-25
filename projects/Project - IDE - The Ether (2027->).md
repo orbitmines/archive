@@ -493,6 +493,7 @@ Problem categories:
 	- Competency islands (; algorithms?), what would be an example:
 		- Perhaps only works for optimization-like problems? What would an open problem look like?
 		- Navigational types/algorithms, how to search a space.
+		- 
 - Stretching to right adding points,length/count displayed bottom right
 - Something like if this screensize, is if the ray from certain square size is activiated; part of the chain. Take a ref to that item, and say This: then apply this transformation change. ; In this sense if is just an item toggle all changes made are only the case for that if.
 - Instead of having events named, instead press a key, then have some event happen (record), and then something pops up which says when that happens. Taking the latest event as a default, for instance; clicking, means first hovering then clicking. Shooting means first releasing, then hitting (so if stopped in between we take the release event).; But also events like travelling through, certain events should get priority over travelling through for instance, but be able to switch easily from event to event (group).
