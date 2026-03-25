@@ -464,7 +464,8 @@ Hazy World
 
 Problem categories:
 - Interface definition (frontend/intermediate/backend): Just item creation.
-- Function definitions: ??
+- Function definitions: Item interactions 
+	- ??
 - Optimization problems: Take existing function as specification, and optimize.
 - 
 
@@ -488,7 +489,7 @@ Problem categories:
 - Comments as descriptions on properties and items (shown in some menu on the right); when having some Identifier toggled. (Similarly just some item)
 - UI layout just a place you can visit and move stuff around. (& Add the key item to.)
 - Worlds/scenes you can visist and connect arbitrarily (view those connections from the specific worlds as well). (Like a list of worlds each of them being a possible way to render something)
-- 
+- Probably makes most sense to make a mixture of text vs visual/3d where which makes most sense, saying + 3 for instance, or move X times, doesn't work.
 - 
 
 # Gamification of Optimization Problems
