@@ -463,7 +463,7 @@ Hazy World
 # 3D Programming Language
 
 Problem categories:
-- Interface definition (frontend/intermediate/backend): Just item creation.
+- Interface definition (frontend/intermediate/backend): Just item creation. (similarly types)
 - Function definitions: Item interactions
 	- ??
 - Optimization problems: Take existing function as specification, and optimize.
