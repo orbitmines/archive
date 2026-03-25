@@ -472,9 +472,9 @@ Problem categories:
 		- Cherry-picking, categorizing, taxonomy.
 		- Guided search to match a particular type of pattern?
 - Search
-- Optimization
-	- Optimization problems: Take existing function as specification (search/sort/compression/disk access/...), and optimize.
-	- Should be guided search: Look here, etc.
+	- Optimization
+		- Optimization problems: Take existing function as specification (search/sort/compression/disk access/...), and optimize.
+		- Should be guided search: Look here, etc.
 	- Search for existing items to use (whether that's identification or ?)
  
 
