@@ -466,8 +466,10 @@ Problem categories:
 - Interface definition (frontend/intermediate/backend): Just item creation. (similarly types)
 - Function definitions: Item interactions
 	- ??
-- Optimization problems: Take existing function as specification (search/sort/compression/disk access/...), and optimize.
-	- Should be guided search: Look here, etc.
+- (guided) Search problems:
+	- Optimization problems: Take existing function as specification (search/sort/compression/disk access/...), and optimize.
+		- Should be guided search: Look here, etc.
+	- 
 - 
 
 - Throw out the idea of having names for things. (Or rather make it optional?)
