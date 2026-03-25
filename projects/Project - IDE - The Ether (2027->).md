@@ -463,15 +463,17 @@ Hazy World
 # 3D Programming Language
 
 Problem categories:
-- Interface definition (frontend/intermediate/backend): Just item creation. (similarly types) - Just interactive design
-	- Function definitions: Item interactions
-		- ??
-- (guided) Search problems:
-	- Optimization problems: Take existing function as specification (search/sort/compression/disk access/...), and optimize.
-		- Should be guided search: Look here, etc.
+- Creation
+	- Interface definition (frontend/intermediate/backend): Just item creation. (similarly types) - Just interactive design
+		- Function definitions: Item interactions
+			- ??
+- Identification
 	- Reverse engineering problems.
 		- Cherry-picking, categorizing, taxonomy.
 		- Guided search to match a particular type of pattern?
+- Optimiz
+	- Optimization problems: Take existing function as specification (search/sort/compression/disk access/...), and optimize.
+	- Should be guided search: Look here, etc.
  
 
 - Have some item in hand, then do an action then get a popup on what that action should mean, and start defining it that way. Like projectile etc..
