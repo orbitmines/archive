@@ -500,7 +500,7 @@ Problem categories:
 - UI layout just a place you can visit and move stuff around. (& Add the key item to.)
 - Worlds/scenes you can visist and connect arbitrarily (view those connections from the specific worlds as well). (Like a list of worlds each of them being a possible way to render something)
 - Probably makes most sense to make a mixture of text vs visual/3d where which makes most sense, saying + 3 for instance, or move X times, is good to type.
-- 
+- NUmber/Base with an infinity symbol bottom right is unbounded
 
 # Gamification of Optimization Problems
 - Programming language for visual environment instead as step 1
