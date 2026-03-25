@@ -461,7 +461,7 @@ Store Ray and iterate through object at that World Node, eventually going throu
 Hazy World
 
 # Guided Navigation Language
-Essentially what we want, is to reformalize engineering (creation), reverse-engineering (identification) and search/ 
+Essentially what we want, is to reformalize engineering (creation), reverse-engineering (identification), optimization 
 
 # Visuals
 
