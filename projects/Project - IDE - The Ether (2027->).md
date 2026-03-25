@@ -472,6 +472,7 @@ Hazy World
 - So items with insides for the objects, so that would be some frontend backend. The real question is how to construct something similar to functions?
 	- 
 - Comments as descriptions on properties and items (shown in some menu on the right); when having some Identifier toggled. (Similarly just some item)
+- UI layout just a place you can visit and move stuff around. (& Add )
 - 
 
 # Gamification of Optimization Problems
