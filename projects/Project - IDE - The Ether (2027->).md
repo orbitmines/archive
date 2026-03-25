@@ -460,7 +460,7 @@ Store Ray and iterate through object at that World Node, eventually going throu
 
 Hazy World
 
-# Language for 
+# Guided Navigation Language
 
 
 # Visuals
