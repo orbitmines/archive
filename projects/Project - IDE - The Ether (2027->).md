@@ -471,7 +471,7 @@ Problem categories:
 	- Reverse engineering problems.
 		- Cherry-picking, categorizing, taxonomy.
 		- Guided search to match a particular type of pattern?
-- Optimiz
+- Optimization
 	- Optimization problems: Take existing function as specification (search/sort/compression/disk access/...), and optimize.
 	- Should be guided search: Look here, etc.
  
