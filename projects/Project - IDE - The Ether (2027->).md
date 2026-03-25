@@ -467,7 +467,7 @@ Problem categories:
 - Function definitions: Item interactions
 	- ??
 - Optimization problems: Take existing function as specification, and optimize.
-- 
+- Cherry-picking 
 
 - Throw out the idea of having names for things. (Or rather make it optional?)
 - Perhaps islands of competency, and connecting them?
