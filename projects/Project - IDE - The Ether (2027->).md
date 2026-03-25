@@ -464,13 +464,12 @@ Hazy World
 
 Problem categories:
 - Interface definition (frontend/intermediate/backend): Just item creation. (similarly types) - Just interactive design
-- Function definitions: Item interactions
-	- ??
+	- Function definitions: Item interactions
+		- ??
 - (guided) Search problems:
 	- Optimization problems: Take existing function as specification (search/sort/compression/disk access/...), and optimize.
 		- Should be guided search: Look here, etc.
-	- Reverse engineering problems:
-		- 
+- Reverse engineering problems.
 - 
 
 - Have some item in hand, then do an action then get a popup on what that action should mean, and start defining it that way. Like projectile etc..
