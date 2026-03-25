@@ -462,7 +462,7 @@ Hazy World
 
 # 3D Programming Language
 
-Problem categories (Which problems can be ):
+Problem categories:
 - Interface definition (frontend/intermediate/backend): Just item creation. (similarly types) - Just interactive design
 	- Function definitions: Item interactions
 		- ??
