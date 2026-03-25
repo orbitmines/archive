@@ -462,7 +462,7 @@ Hazy World
 
 # 3D Programming Language
 
-Problem categories:
+Problem categories (Which problems can be ):
 - Interface definition (frontend/intermediate/backend): Just item creation. (similarly types) - Just interactive design
 	- Function definitions: Item interactions
 		- ??
@@ -472,8 +472,7 @@ Problem categories:
 	- Reverse engineering problems.
 		- Cherry-picking, categorizing, taxonomy.
 		- Guided search to match a particular type of pattern?
-	- 
-- 
+ 
 
 - Have some item in hand, then do an action then get a popup on what that action should mean, and start defining it that way. Like projectile etc..
 - Throw out the idea of having names for things. (Or rather make it optional?)
