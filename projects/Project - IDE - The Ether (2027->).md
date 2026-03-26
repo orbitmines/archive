@@ -411,7 +411,8 @@ Better for what?
 
 # Constrained Physical Propagation
 - Blockchains on each node, then the physical move through idea.
-- 
+- No random access, need to actually move through the graph to discover or copy the graph.
+
 # Large Game Graphs
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
 - (Hazy vs ) Can setup delay for the server: Only send my location packets after X.
