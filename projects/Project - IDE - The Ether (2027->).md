@@ -409,6 +409,9 @@ Can you use these criteria to search for new useful abstract languages? Pick/Gen
 Better for what?
 - Control over what type of system 
 
+# Constrained Physical Propagation
+- Blockchains on each node, then the physical move through idea.
+
 # Large Game Graphs
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
 - (Hazy vs ) Can setup delay for the server: Only send my location packets after X.
