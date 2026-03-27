@@ -415,6 +415,16 @@ Better for what?
 - Synchronize the past not the present.
 
 # Large Game Graphs
+Zoom in is an actual npc probe sending out in eye direction directly communicating the higher res information to you
+
+Communicate equations up to inflection points disntance away from origin at which point you communicate less polygons ; fuether away less plugons
+
+Generalize past visual text for instance keep summerizing
+
+The further away the different information like equivalent to mobile resizing of dcreens rendering differently. Like text resorting to a symbol or a bigger smaller words
+
+---
+
 Synced across regions (even planetary ones) "here is where this avatar was x ms/minutes ago".
 - (Hazy vs ) Can setup delay for the server: Only send my location packets after X.
 	- What about receiving audio and other information based on where your character was then: receive a server feed of the perspective of that server's information.
