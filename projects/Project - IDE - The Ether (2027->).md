@@ -69,7 +69,7 @@ D. Gamification of Science, Engineering and Education
 
 ---
 
-Stargate apparen
+Stargate apparently has an episode/serie on encoding a problem in a videogame.
 
 ---
 
