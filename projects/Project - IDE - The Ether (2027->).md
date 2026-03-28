@@ -69,6 +69,10 @@ D. Gamification of Science, Engineering and Education
 
 ---
 
+Stargate apparen
+
+---
+
 3D/2D modelling app using one of the diffussion models or something.
 
 ---
