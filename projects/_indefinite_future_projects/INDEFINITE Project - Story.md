@@ -1,1 +1,1 @@
-It is said that humanity estimate 
+It is said that the estimate made at the time  
