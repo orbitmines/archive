@@ -1,1 +1,3 @@
-It is said that the estimate made at the time 
+Prologue
+*It is said that the estimate made at the time *
+
