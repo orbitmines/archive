@@ -6,5 +6,5 @@
 
 ---
 
-- How is the game aspect introduc
+- How is the game aspect introduced
 - Send wormwhole probe at speed of light.
