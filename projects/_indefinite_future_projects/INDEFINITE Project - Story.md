@@ -1,1 +1,1 @@
-It is said that 
+It is said that humanity estimate 
