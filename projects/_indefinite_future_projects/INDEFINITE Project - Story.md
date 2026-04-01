@@ -3,7 +3,7 @@
 ***[], []***
 ***Bicentennial address, 2245***
 
-
+[Start story in 2045, release day of The Ether]
 
 
 ---
