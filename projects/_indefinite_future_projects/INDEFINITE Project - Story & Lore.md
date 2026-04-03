@@ -8,7 +8,7 @@
 ##### Chapter
 *It is clear to us now that we must rethink our phrasing. We tried our hand at being generalists, forgetting that one can always take that dangerous path one step further. It is perhaps this we should learn from the psychotic.*
 ***[], []***
-***Keynote Speaker - , 2077***
+***Keynote Speaker - Origin on Life, 2077***
 
 
 ---
