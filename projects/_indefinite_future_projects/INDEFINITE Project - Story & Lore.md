@@ -28,7 +28,7 @@
 
 ---
 ##### Chapter
-*There is nothing non-local about *
+*There is nothing non-local about this mechanism at the outset. We're just locally weaving two things together - *
 ***[], []***
 ***, 2132***
 
