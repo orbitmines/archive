@@ -21,7 +21,7 @@
 
 ---
 ##### Chapter
-*Though of course, reversibility of time was considered in physics. No one had dare suggest that one might*
+*Though of course, reversibility of time was considered in physics. No one had dare suggest that one could locally switch to an alternate branch at will.*
 ***[], []***
 ***, 2XXX***
 
