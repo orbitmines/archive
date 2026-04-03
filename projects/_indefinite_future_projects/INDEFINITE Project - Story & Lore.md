@@ -28,7 +28,7 @@
 
 ---
 ##### Chapter
-*There is nothing non-local about this mechanism at the outset. These kinds of systems were just locally weaved together, then move them apart - and tada! - we call it non-local now. Of course people refer to this idea as wormholes, but there's little difference to it than just normal space.*
+*There is nothing non-local about this mechanism at the outset. These kinds of systems were just locally weaved together, then move them apart - and tada! - we call it non-local now. Of course people refer to this idea as wormholes, but there's little difference to it than just normal space. People forget; we are always just manipulating spatial structure, whose to say*
 ***[], []***
 ***, 2132***
 
