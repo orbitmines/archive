@@ -6,7 +6,7 @@
 [Start story in 2045, release day of The Ether]
 
 ##### Chapter
-**
+*It is clear to us now that we must *
 ***[], []***
 ***, 2XXX***
 
