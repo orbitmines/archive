@@ -6,7 +6,7 @@
 [Start story in 2045, release day of The Ether]
 
 ##### Chapter
-*It is clear to us now that we must rethink our phrasing. We tried our hand at being generalists, only forgetting what *
+*It is clear to us now that we must rethink our phrasing. We tried our hand at being generalists, forgetting that one can always *
 ***[], []***
 ***, 2XXX***
 
