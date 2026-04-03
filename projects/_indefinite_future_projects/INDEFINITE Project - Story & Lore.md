@@ -21,7 +21,7 @@
 
 ---
 ##### Chapter
-**
+*Though of course, reversibility was considered in physics. Nobody had dared to suggest the possibility *
 ***[], []***
 ***, 2XXX***
 
