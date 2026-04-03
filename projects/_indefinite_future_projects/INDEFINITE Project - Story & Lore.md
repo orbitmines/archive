@@ -21,7 +21,7 @@
 
 ---
 ##### Chapter
-*Though of course, reversibility was considered in physics. Nobody had dared to suggest the possibility *
+*Though of course, reversibility of time was considered in physics. No one had dare suggest that one might*
 ***[], []***
 ***, 2XXX***
 
