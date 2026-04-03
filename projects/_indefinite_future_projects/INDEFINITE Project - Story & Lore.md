@@ -13,7 +13,7 @@
 
 ---
 ### Chapter
-*Dormant computation, is there anything *
+*Dormant computation, is there anything less dangerous?*
 ***[], []***
 ***, 2XXX***
 
