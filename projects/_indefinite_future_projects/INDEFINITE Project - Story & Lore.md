@@ -28,7 +28,7 @@
 
 ---
 ##### Chapter
-*There is nothing non-local about this mechanism at the outset. We're just locally weaving two things together - *
+*There is nothing non-local about this mechanism at the outset. These kinds of systems were just locally weaved together - and tada! - *
 ***[], []***
 ***, 2132***
 
