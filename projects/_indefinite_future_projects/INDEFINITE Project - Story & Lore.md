@@ -13,7 +13,7 @@
 
 ---
 ### Chapter
-*Dormant computation, *
+*Dormant computation, is there anything *
 ***[], []***
 ***, 2XXX***
 
