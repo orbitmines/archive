@@ -8,7 +8,7 @@
 ##### Chapter
 *It is clear to us now that we must rethink our phrasing. We tried our hand at being generalists, forgetting that one can always take that dangerous path one step further. *
 ***[], []***
-***, 2XXX***
+***Keynote Speaker, 2XXX***
 
 
 ---
