@@ -14,7 +14,7 @@
 
 ---
 ### Chapter []
-*Dormant computation, is there anything less dangerous?*
+*Dormant computation, is there anything more dangerous?*
 ***[], []***
 ***, 20[90]***
 
