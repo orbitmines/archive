@@ -20,14 +20,14 @@
 
 
 ---
-### Chapter b[]
+### Chapter []
 *Though of course, reversibility of time was considered in physics. No one had dare suggest that one could locally switch to an alternate branch at will. Just imagine: You project to the outside universe to be one thing - innocent and and unsuspecting -, yet in secret you explore an alternate isolated branch in time which you can switch to at any moment. Which begs the question: Which branch are we?*
 ***[], []***
 ***, 2100***
 
 
 ---
-##### Chapter
+### Chapter
 *There is nothing non-local about this mechanism at the outset. These kinds of systems were just locally weaved together, then moved apart - and tada! - we call it non-local now. Of course people refer to this idea as wormholes, but there's little difference between it and normal spatial structure. The real question is, how can we exploit the connections already there rather than creating our own?*
 ***[], []***
 ***Professor @ [] - Seminar on "", 2112***
