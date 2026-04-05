@@ -16,11 +16,11 @@
 ### Chapter []
 *Dormant computation, is there anything less dangerous?*
 ***[], []***
-***, 2XXX***
+***, 20[90]***
 
 
 ---
-##### Chapter
+### Chapter b[]
 *Though of course, reversibility of time was considered in physics. No one had dare suggest that one could locally switch to an alternate branch at will. Just imagine: You project to the outside universe to be one thing - innocent and and unsuspecting -, yet in secret you explore an alternate isolated branch in time which you can switch to at any moment. Which begs the question: Which branch are we?*
 ***[], []***
 ***, 2100***
