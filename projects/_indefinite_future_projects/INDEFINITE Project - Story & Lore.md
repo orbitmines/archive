@@ -6,14 +6,14 @@
 [Start story in 2045, release day of The Ether]
 
 ---
-##### Chapter
+### Chapter []
 *It is clear to us now that we must rethink our phrasing. We tried our hand at being generalists, forgetting that one can always take that dangerous path one step further. It is perhaps this we should learn from the psychotic.*
 ***[], []***
 ***Keynote Speaker - Origin of Life, Paris 2077***
 
 
 ---
-##### Chapter
+### Chapter []
 *Dormant computation, is there anything less dangerous?*
 ***[], []***
 ***, 2XXX***
