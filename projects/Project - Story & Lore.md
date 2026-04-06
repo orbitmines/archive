@@ -35,7 +35,7 @@
 
 ---
 ### Chapter []
-*There is nothing non-local about this mechanism at the outset. These kinds of systems were just locally weaved together, then moved apart - and tada! - we call it non-local now. Of course people refer to this idea as wormholes, but there's little difference between it and normal spatial structure. The real question is, how can we exploit the connections already there rather than creating our own?*
+*The secret to gravity is change in local spatial structure. And local structure we can change. Not radiating like mass d*
 ***[], []***
 ***Professor @ [] - Seminar on "", 2112***
 
