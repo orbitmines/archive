@@ -41,7 +41,7 @@
 
 ---
 ### Chapter []
-*Just imagine the timescales it must operate under.*
+*Just imagine the difference in perception of time. We imagine*
 ***[], []***
 ***, 2XXX***
 
