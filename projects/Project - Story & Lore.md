@@ -41,7 +41,7 @@
 
 ---
 ### Chapter []
-*Just imagine, unimaginable timescales, unimaginable power, and still being unable to have control over relative micro-events, facing imminent doom if you did not. Like being able to predict Of course you would seek out that control, of course you would dedicate unimaginable resources. *
+*Just imagine, unimaginable timescales, unimaginable power, and still being unable to have control over relative micro-events, which you need in order to survive . Of course you would seek out that control, of course you would dedicate unimaginable resources. *
 ***[], []***
 ***, 2XXX***
 
