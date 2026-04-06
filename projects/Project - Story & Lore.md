@@ -37,7 +37,7 @@
 ### Chapter []
 *Gravity is change in local spatial structure. And local structure we can change. Maintain a sufficient bubble lacking this change and we unlock the secret of anti-gravity.*
 ***[], []***
-*** - , 2184***
+***Physicist @ [] , 2184***
 
 ---
 
