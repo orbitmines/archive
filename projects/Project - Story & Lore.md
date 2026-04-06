@@ -41,7 +41,7 @@
 
 ---
 ### Chapter []
-*Just imagine, unimaginable timescales, unimaginable power, yet being blind to something moving must faster.*
+*Just imagine, unimaginable timescales, unimaginable power, and still it *
 ***[], []***
 ***, 2XXX***
 
