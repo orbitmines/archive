@@ -35,7 +35,7 @@
 
 ---
 ### Chapter []
-*Gravity is change in local spatial density. Maintain a sufficient bubble lacking this change and we unlock the secret of cancelling out gravity. Create this difference in the direction you want to go, and you unlock full anti-gravity. What we need is a theory which allows us to convert energy into pure spatial structure.*
+*Gravity is change in local spatial density. Maintain a sufficient bubble lacking this change and we unlock the secret of cancelling out gravity. Create this difference in the direction you want to go, and you unlock full anti-gravity. What we need is a way which allows us to convert energy into pure spatial structure. Are even pocket dimensions within o*
 ***[], []***
 ***Physicist @ [] , 2034***
 
