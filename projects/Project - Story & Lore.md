@@ -35,7 +35,7 @@
 
 ---
 ### Chapter []
-*The secret to gravity is change in local spatial structure. And local structure we can change.*
+*The secret to gravity is change in local spatial structure. And local structure we can change. Maintain a sufficient local bubble lacking this change*
 ***[], []***
 ***Professor @ [] - Seminar on "", 2112***
 
