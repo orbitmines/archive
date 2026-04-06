@@ -35,7 +35,7 @@
 
 ---
 ### Chapter []
-*Gravity is change in local spatial density. Maintain a sufficient bubble lacking this change and we unlock the secret of anti-gravity.*
+*Gravity is change in local spatial density. Maintain a sufficient bubble lacking this change and we unlock the secret of cancelling out gravity. Send out probes which create *
 ***[], []***
 ***Physicist @ [] , 2184***
 
