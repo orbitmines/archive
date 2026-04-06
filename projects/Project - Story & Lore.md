@@ -41,7 +41,7 @@
 
 ---
 ### Chapter []
-*Just imagine the difference in perception of time. We imagine*
+*Just imagine, the world is literally*
 ***[], []***
 ***, 2XXX***
 
