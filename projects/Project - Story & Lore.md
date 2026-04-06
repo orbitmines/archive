@@ -35,7 +35,7 @@
 
 ---
 ### Chapter []
-*Gravity is change in local spatial density. Maintain a sufficient bubble lacking this change and we unlock the secret of cancelling out gravity. Create this difference in the direction you want to go, and you unlock full 'anti-gravity' or rather just directional gravity. --- Even dark matter is just a case of decreasing amount of spatial structure. --- What we need is a theory on how to manipulate spatial structure.*
+*Gravity is change in local spatial density. Maintain a sufficient bubble lacking this change and we unlock the secret of cancelling out gravity. Create this difference in the direction you want to go, and you unlock full 'anti-gravity' or rather just directional gravity. --- Even dark matter is just a case of less spatial structure; if there's  --- What we need is a theory on how to manipulate spatial structure.*
 ***[], []***
 ***Physicist @ [] in conversation with [], 2034***
 
