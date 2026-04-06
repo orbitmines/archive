@@ -41,7 +41,7 @@
 
 ---
 ### Chapter []
-*Just imagine, the world is literally*
+*Just imagine, unimaginable timescales, unimaginable power, *
 ***[], []***
 ***, 2XXX***
 
