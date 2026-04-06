@@ -35,9 +35,9 @@
 
 ---
 ### Chapter []
-*Gravity is change in local spatial density. Maintain a sufficient bubble lacking this change and we unlock the secret of cancelling out gravity. Send out probes which create this difference in the direction you want to go, and you unlock full anti-gravity. *
+*Gravity is change in local spatial density. Maintain a sufficient bubble lacking this change and we unlock the secret of cancelling out gravity. Send out probes which create this difference in the direction you want to go, and you unlock full anti-gravity. Unlock *
 ***[], []***
-***Physicist @ [] , 2184***
+***Physicist @ [] , 2084***
 
 ---
 
