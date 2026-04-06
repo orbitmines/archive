@@ -41,7 +41,7 @@
 
 ---
 ### Chapter []
-*Just imagine, unimaginable timescales, unimaginable power, and still it *
+*Just imagine, unimaginable timescales, unimaginable power, and still being unable to have control over relative micro-even*
 ***[], []***
 ***, 2XXX***
 
