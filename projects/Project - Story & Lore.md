@@ -41,7 +41,7 @@
 
 ---
 ### Chapter []
-*Just imagine, unimaginable timescales, unimaginable power, and still being unable to have control over relative micro-events. Of course you would seek out that control, of course if you had that time*
+*Just imagine, unimaginable timescales, unimaginable power, and still being unable to have control over relative micro-events. Like being able to predicate Of course you would seek out that control, of course you would dedicate unimaginable resources. *
 ***[], []***
 ***, 2XXX***
 
