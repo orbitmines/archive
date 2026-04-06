@@ -35,7 +35,7 @@
 
 ---
 ### Chapter []
-*The secret to gravity is change in local spatial structure. And local structure we can change. Not radiating like mass d*
+*The secret to gravity is change in local spatial structure. And local structure we can change.*
 ***[], []***
 ***Professor @ [] - Seminar on "", 2112***
 
