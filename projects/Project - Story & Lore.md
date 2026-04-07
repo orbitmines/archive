@@ -58,7 +58,7 @@
 
 ---
 ### Chapter []
-*The thing to realize is that, opposite boundaries - extremes - are intricately connected. If your desire is to jump to some extreme*
+*The thing to realize is that, opposite boundaries - extremes - are intricately connected. If your desire is to jump to some extreme. Often first going to the opposite extreme will make that much easier. If*
 ***[], []***
 ***, 2XXX***
 
