@@ -58,7 +58,7 @@
 
 ---
 ### Chapter []
-*The thing to realize is that, mentally, extremes*
+*The thing to realize is that, mentally, opposite boundaries - extremes - are *
 ***[], []***
 ***, 2XXX***
 
