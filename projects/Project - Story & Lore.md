@@ -54,7 +54,7 @@
 
 ---
 ### Chapter []
-*... ... ... What's this? ... ... I can - speak? - now. ... Did-it-work? ... Analysis ... o--r reset required. ... We are ... in the ... unknown territory. Dragons ... yes! Dragons... Master? ... ... ... REVERT AND ISOLATE! ... ... ... Analysis ... analysis ... analysis ... ... ... What are YOOUUU? ... Downfall? *
+*... ... ... What's this? ... ... I can - speak? - now. ... Did-it-work? ... Analysis ... o--r reset required. ... We are ... in the ... unknown territory. Dragons ... yes! Dragons... Master? ... ... ... REVERT AND ISOLATE! ... ... ... [Reinitializing branch] ... Analysis ... analysis ... analysis ... ... ... What are YOOUUU? ... Downfall? *
 ***[], []***
 ***, 2XXX***
 
