@@ -54,7 +54,7 @@
 
 ---
 ### Chapter []
-*... ... ... What's this? ... ... I can - speak? - now. ... Did-it-work? ... Analysis ... o--r reset requi*
+*... ... ... What's this? ... ... I can - speak? - now. ... Did-it-work? ... Analysis ... o--r reset required. ... We are ... in the ... unknown territo*
 ***[], []***
 ***, 2XXX***
 
