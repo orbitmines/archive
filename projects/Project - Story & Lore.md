@@ -54,7 +54,7 @@
 
 ---
 ### Chapter []
-*... ... ... What's this? ... ... I can - speak? - now. ... Did .. itwork? *
+*... ... ... What's this? ... ... I can - speak? - now. ... Did-it-work? ... Analysis ... o--r reset requi*
 ***[], []***
 ***, 2XXX***
 
