@@ -54,7 +54,7 @@
 
 ---
 ### Chapter []
-*... Abstract ... thought ... translatio*
+**
 ***[], []***
 ***, 2XXX***
 
