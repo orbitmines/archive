@@ -54,7 +54,7 @@
 
 ---
 ### Chapter []
-*... ... ... What's this? ... ... I can - speak? - now. ... Did-it-work? ... Analysis ... o--r reset required. ... We are ... in the ... unknown territo*
+*... ... ... What's this? ... ... I can - speak? - now. ... Did-it-work? ... Analysis ... o--r reset required. ... We are ... in the ... unknown territory. Dragons ... yes! Dragons... *
 ***[], []***
 ***, 2XXX***
 
