@@ -58,7 +58,7 @@
 
 ---
 ### Chapter []
-**
+*The thing to realize is that, mentally, extremes*
 ***[], []***
 ***, 2XXX***
 
