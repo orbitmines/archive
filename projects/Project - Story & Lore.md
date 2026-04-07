@@ -58,7 +58,7 @@
 
 ---
 ### Chapter []
-*The thing to realize is that, mentally, opposite boundaries - extremes - are *
+*The thing to realize is that, mentally, opposite boundaries - extremes - are intricately connected. If your desire *
 ***[], []***
 ***, 2XXX***
 
