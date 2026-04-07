@@ -3,7 +3,6 @@
 ***[], []***
 ***Bicentennial address, 2[245]***
 
-[Or start with a teaser of thought process of it]
 [Start story in 2045, release day of The Ether]
 
 ---
