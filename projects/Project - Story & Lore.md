@@ -48,7 +48,7 @@
 
 ---
 ### Chapter []
-*Are we the conduit or are they the conduit?*
+*Whose the real conduit, us or them?*
 ***[], []***
 ***, 2XXX***
 
