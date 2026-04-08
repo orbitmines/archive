@@ -76,7 +76,7 @@
 
 ---
 ### Chapter []
-**
+*These puzzles we're confronted with, it's difficult to put into words. You simply \*feel\* the systems intentions and you guide it to where you want it to go. It is much m*
 ***[], []***
 ***, 2046***
 
