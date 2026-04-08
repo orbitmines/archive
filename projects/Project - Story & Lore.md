@@ -64,9 +64,9 @@
 
 ---
 ### Chapter []
-*Translate your problem into your current context and the possible actions you can take; make them meaningfully overlap. Do this systematically (possibly through tool use), and you achieve gamification.*
+*Translate your problem into your current context and the possible actions you can take; make them meaningfully overlap. Do this systematically (possibly through tool use), and we achieve gamification.*
 ***[], []***
-***, 2XXX***
+***Original Developer of Ether, 2026***
 
 ---
 ### Chapter []
