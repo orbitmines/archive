@@ -70,7 +70,7 @@
 
 ---
 ### Chapter []
-*Ever since the early onset of videogames. The idea has been floating around that perhaps this can be used as an educational tool. But the practical question remained: How do you *
+*Ever since the early onset of videogames. The idea has been floating around that perhaps this can be used as an educational tool. But the practical question remained: *
 ***[], []***
 ***, 2XXX***
 
