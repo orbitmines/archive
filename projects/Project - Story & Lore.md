@@ -70,7 +70,7 @@
 
 ---
 ### Chapter []
-*Ever since the early onset of videogames. The idea has been floating around that perhaps this can be used as an educational tool. How do you make education fun to play? - Achieving th*
+*Ever since the early onset of videogames. The idea has been floating around that perhaps this can be used as an educational tool. How do you make education fun to play? Perhaps the pertinent question is*
 ***[], []***
 ***, 2XXX***
 
