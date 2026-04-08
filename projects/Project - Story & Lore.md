@@ -70,9 +70,9 @@
 
 ---
 ### Chapter []
-*Ever since the early onset of videogames. The idea has been floating around that perhaps this can be used as an educational tool. How do you make education fun to play? Perhaps the pertinent question is*
+*Ever since the early onset of videogames. The idea has been floating around that perhaps this can be used as an educational tool. How do you make education fun to play? Perhaps the pertinent question is how do you make videogames of practical tools. Achieve the one - you achieve the other.*
 ***[], []***
-***, 2XXX***
+***Ether Release Live Stream, 2045***
 
 
 ---
