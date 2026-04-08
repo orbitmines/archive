@@ -64,7 +64,7 @@
 
 ---
 ### Chapter []
-*Translate your problem into your current context and the possible actions you can take; make them meaningfully overlap.*
+*Translate your problem into your current context and the possible actions you can take; make them meaningfully overlap. Do this systematically (possibly through tool use), and you achieve gamification.*
 ***[], []***
 ***, 2XXX***
 
