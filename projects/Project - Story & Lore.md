@@ -64,7 +64,7 @@
 
 ---
 ### Chapter []
-**
+*Translation, it's all about translation. Translate your problem into*
 ***[], []***
 ***, 2XXX***
 
