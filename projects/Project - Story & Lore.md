@@ -64,7 +64,7 @@
 
 ---
 ### Chapter []
-*Translation, it's all about translation. Translate your problem into your current context and the possible actions you can take. And you *
+*Translation, it's all about translation. Translate your problem into your current context and the possible actions you can take - make them meaningfully overlap.*
 ***[], []***
 ***, 2XXX***
 
