@@ -76,7 +76,7 @@
 
 ---
 ### Chapter []
-*These puzzles we're confronted with, it's difficult to put into words. You simply \*feel\* the systems intentions and you guide it to where you want it to go. It is much m*
+*These puzzles we're confronted with, it's difficult to put into words. You simply \*feel\* the systems intentions and you guide it to where you want it to go. It is much more powerful than you, but it cannot beat this intuition you start to form for the problem. That is what makes a skilled player, this *
 ***[], []***
 ***, 2046***
 
