@@ -70,7 +70,7 @@
 
 ---
 ### Chapter []
-*Ever since the early onset of videogames. The idea has been floating around that perhaps this can be used as an educational tool. How do you make videogames of practical tools? Perhaps the pertinent question is: How do you make education fun to play? Achieve the one - you achieve the other.*
+*Ever since the early onset of videogames the idea has been floating around that perhaps this can be used as an educational tool. How do you make videogames into practical tools? Perhaps the pertinent question is: How do you make education fun to play? Achieve the one - you achieve the other.*
 ***[], []***
 ***Live Stream - Ether Release, 2045***
 
