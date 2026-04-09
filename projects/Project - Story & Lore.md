@@ -85,7 +85,7 @@
 
 ---
 ### Chapter []
-*You can of course make a rock interesting by reprogramming it. But would you know what to look for if it has been? After all, it's just a rock.*
+*You can of course make a rock interesting by reprogramming it. But would you know what to look for if it had been? After all, it's just a rock.*
 ***[], []***
 ***, 2096***
 
