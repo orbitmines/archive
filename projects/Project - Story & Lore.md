@@ -91,7 +91,7 @@
 
 ---
 ### Chapter []
-*It'*
+*Your entire story, all of it, just a translation for what was actually happening.*
 ***[], []***
 ***, 2XXX***
 
