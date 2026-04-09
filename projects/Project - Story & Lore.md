@@ -83,7 +83,7 @@
 
 ---
 ### Chapter []
-*You can of course reprogram a rock to do something interesting. But can you notice that it - does - something interesting b*
+*You can of course reprogram a rock to do something interesting. But how would you know that it does something interesting?*
 ***[], []***
 ***, 2XXX***
 
