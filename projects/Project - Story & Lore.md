@@ -91,9 +91,10 @@
 
 ---
 ### Chapter []
-*Here now children, gather around, gather around. Are you ready for another story? You know, the nice thing about stories, is that we can *
+*You know, the nice thing about stories, is that we can place hidden meaning in them. Where the story is simply a translation for *
 ***[], []***
 ***, 2274***
+Here now children, gather around, gather around. Are you ready for another story?
 
 ---
 ### Chapter []
