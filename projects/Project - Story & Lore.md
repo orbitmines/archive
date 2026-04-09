@@ -96,7 +96,7 @@
 ***, 2274***
 Here now children, gather around, gather around. Are you ready for another story?
 
-[Chapter 1 after different Prologue]
+[Chapter 1 after different Prologue?]
 
 ---
 ### Chapter []
