@@ -91,8 +91,7 @@
 
 ---
 ### Chapter []
-*What if I told you, that in every story, there another hidden story. A story which we actually want to convey, but couldn't otherwise.*
-*You know, the nice thing about stories, is that in telling a story, we're actually telling another story. A hidden story. A story which we actually want to convey. A translation if you will - so that you may finally understand.*
+*What if I told you, that in every story, there's another hidden story. A story which we actually want to convey, but couldn't otherwise. A translation, if you will. So that you may finally understand our story.*
 ***[S], []***
 ***, 2274***
 Here now children, gather around, gather around. Are you ready for another story?
