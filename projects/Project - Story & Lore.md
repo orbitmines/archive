@@ -83,7 +83,7 @@
 
 ---
 ### Chapter []
-*Reprogrammability *
+*Reprogrammability*
 ***[], []***
 ***, 2XXX***
 
