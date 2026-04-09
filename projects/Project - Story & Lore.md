@@ -91,7 +91,7 @@
 
 ---
 ### Chapter []
-*Here now children, gather around, gather around. Are you ready for another story? Remember that we tell these stories so that other's understand. *
+*Here now children, gather around, gather around. Are you ready for another story?*
 ***[], []***
 ***, 2274***
 
