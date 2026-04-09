@@ -63,7 +63,8 @@
 ***[] Guild Leader, 2053***
 
 ---
-### Chapter []
+### Chapter []m
+
 *Translate your problem into your current context and the possible actions you can take; make them meaningfully overlap. Do this systematically (possibly through tool use), and we achieve gamification. Is the human psyche ready for the consequences?*
 ***[], []***
 ***Original Ether Developer, 2026***
