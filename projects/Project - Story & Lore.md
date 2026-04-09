@@ -96,10 +96,11 @@
 ***, 2274***
 Here now children, gather around, gather around. Are you ready for another story?
 
+
 ---
 ### Chapter []
-*Your entire story - all of it - just a translation for what was actually happening.*
-***[], []***
+*Your entire reality, your entire story, - all of it - just a translation for what was actually happening.*
+***[S], []***
 ***, 2274***
 
 ---
