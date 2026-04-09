@@ -30,7 +30,7 @@ For [[Project - Social - Livestreaming]]
 
 ---
 
-Scholen Minecraft server beheren IT
+Scholen Minecraft server beheren ITz
 
 ---
 
