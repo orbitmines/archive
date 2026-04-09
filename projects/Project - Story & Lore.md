@@ -4,7 +4,8 @@
 ***Bicentennial address, 2[245]***
 
 [Start story in 2045, release day of The Ether]
-[One character is S - heads the ]
+[One character is S, The other B]
+
 
 ---
 ### Chapter []
