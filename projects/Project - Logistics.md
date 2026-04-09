@@ -27,7 +27,10 @@ Game industry profiles setup
 For [[Project - Social - Livestreaming]]
 - [ ] livechat on screen
 - [ ] Scheduled (discord events) interop
-- [ ] 
+
+---
+
+Scholen Minecraft server beheren IT
 
 ---
 
