@@ -91,7 +91,7 @@
 
 ---
 ### Chapter []
-*You know, the nice thing about stories, is that in telling a story, we're actually telling an. Where the story is simply a translation for what we actually want to convey.*
+*You know, the nice thing about stories, is that in telling a story, we're actually telling another story. A hidden story. A story which we actually want to convey. A translation.*
 ***[], []***
 ***, 2274***
 Here now children, gather around, gather around. Are you ready for another story?
