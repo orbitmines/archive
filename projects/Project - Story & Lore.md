@@ -91,6 +91,12 @@
 
 ---
 ### Chapter []
+*Here now children, gather around, gather around. Are you ready for another story? You know, the nice thing about stories, is that we can *
+***[], []***
+***, 2274***
+
+---
+### Chapter []
 *Just take the idea of gamified translation another step further. Imagine your entire story - all of it - just a translation for what was actually happening.*
 ***[], []***
 ***, 2274***
