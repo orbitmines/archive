@@ -98,7 +98,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Just take the idea of gamified translation another step further. Imagine your entire story - all of it - just a translation for what was actually happening.*
+*Your entire story - all of it - just a translation for what was actually happening.*
 ***[], []***
 ***, 2274***
 
