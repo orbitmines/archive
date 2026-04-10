@@ -107,7 +107,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*The arrogance, the utter arrogance, thinking one is not susceptible to being *
+*The arrogance, the utter arrogance; thinking one is not susceptible to being hacked.*
 ***[], []***
 ***, 2XXX***
 
