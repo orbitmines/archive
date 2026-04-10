@@ -113,7 +113,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*When will we have reached our abstraction ceiling? Or will translation *
+*When will we have reached our abstraction ceiling? Or will translation always be possible. Must we alter our perception?*
 ***[], []***
 ***, 2XXX***
 
