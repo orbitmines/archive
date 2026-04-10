@@ -113,7 +113,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*When will we have reached our abstraction ceiling? Or will translation always be possible. Must we alter our perception? Or will reprogramming our current hardware be sufficOr will externalization be enough.*
+*When will we have reached our abstraction ceiling? Or will translation always be possible. Must we alter our perception? Or will reprogramming our current hardware be sufficient. In shOr will externalization be enough.*
 ***[], []***
 ***, 2063***
 
