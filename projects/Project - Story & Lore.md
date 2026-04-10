@@ -107,7 +107,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*The arrogance, the utter arrogance; thinking one is not susceptible to being hacked.*
+*The arrogance, the utter arrogance; thinking one is not susceptible to being hacked. After all, being reprogrammable is what gives you your power in the first place.*
 ***[], []***
 ***, 2XXX***
 
