@@ -125,9 +125,9 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-**
+*Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
 ***[], []***
-***, 2XXX***
+***Live Stream , 2XXX***
 
 ---
 ### Chapter []
