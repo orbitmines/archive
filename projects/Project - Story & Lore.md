@@ -119,7 +119,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Accurately modelling a player's knowledge, what a powerful thing that would be. Continuously judge one's skill level in order to present the next quest with a proper difficulty rating.*
+*Accurately modelling a player's knowledge, what a powerful thing that would be. Continuously judge one's skill level in order to present the next quest with a proper difficulty rating. But how would you judg*
 ***[], []***
 ***, 2XXX***
 
