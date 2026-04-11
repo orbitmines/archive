@@ -131,9 +131,9 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*What do you do in a world where finding something is the only scarce resource. Where copying and redistributing is effortless. *
+*What do you do in a world where finding something is the only scarce resource. Where copying and redistributing is effortless. Is this our world now? Or will we seek artificial scarcity.*
 ***[], []***
-***, 2XXX***
+***, 2024***
 
 ---
 ### Chapter []
