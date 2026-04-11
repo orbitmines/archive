@@ -119,7 +119,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-**
+* quest for modelling a player's knowledge*
 ***[], []***
 ***, 2XXX***
 
