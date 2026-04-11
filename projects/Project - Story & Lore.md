@@ -119,7 +119,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-* quest for modelling a player's knowledge*
+*Partly it became the quest for accurately modelling a player's knowledge. How do you continuously judge one's skill level in order t*
 ***[], []***
 ***, 2XXX***
 
