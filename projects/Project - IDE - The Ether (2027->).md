@@ -500,7 +500,7 @@ Problem categories: (They're all intertwined)
 	- Search for existing items to use (whether that's identification or ?)
 
 
-
+- How do you not lose the advantage text prograsmming languages have: a quick overview
 - Have some item in hand, then do an action then get a popup on what that action should mean, and start defining it that way. Like projectile etc..
 - Throw out the idea of having names for things. (Or rather make it optional?)
 - Perhaps islands of competency, and connecting them?
