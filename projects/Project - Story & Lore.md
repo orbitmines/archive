@@ -119,9 +119,9 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Accurately modelling a player's knowledge, what a powerful thing that would be. Continuously judge one's skill level in order to present the next quest with a proper difficulty rating. The possibilities for improving education are endless. But how does one do this for truely openworld p*
+*Accurately modelling a player's knowledge, what a powerful thing that would be. Continuously judge one's skill level in order to present the next quest with a proper difficulty rating. The possibilities for improving education are endless. But how does one judge truly openworld problems?*
 ***[], []***
-***, 2XXX***
+***from the original design documents of Ether, 2XXX***
 
 ---
 ### Chapter []
