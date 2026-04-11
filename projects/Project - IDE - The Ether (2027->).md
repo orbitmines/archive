@@ -506,6 +506,7 @@ Problem categories: (They're all intertwined)
 - Perhaps islands of competency, and connecting them?
 - Description of like a type/room for instance, being an example built from that perspective, using the objects as types, then being able to configure additional details like age etc. then saying generate something with these properties 'choose'. (Ignoring the existing structure). 5x for instance floating underneath/above. Also translatable to a text variant (should be the case for everything) where the 3d coordinates are modifiers or <> in front.
 - Every item being an inside room which describes it.
+- Things like all these object formats are just [Specific backend] to a [3D + Dynamics] frontend.
 - Click specific key, when hovering over item, then any keycombination to bind it there. (Can be a pattern of key combinations)
 - Properties of some object being just items put in some 3d space which together make up that item. (But in this case there's also an actual 3d orientation to it we can use.)
 - What is the main advantage gained in 3D?
