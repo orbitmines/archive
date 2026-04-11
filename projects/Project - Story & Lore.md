@@ -125,9 +125,9 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all*
+*Explorers, researchers, traders, ..., pirates: Gatherers, crafters, ..., spreaders of items unknown to some, ... all.*
 ***[], []***
-***Live Stream , 2XXX***
+***(opening line of) Live Stream - Ether Release, 2045***
 
 ---
 ### Chapter []
