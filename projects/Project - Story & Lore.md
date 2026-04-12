@@ -137,7 +137,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Does the universe allow physical access to history? Or must we always actively preserve. *
+*Does the universe allow physical access to history? Or must we always actively preserve. When does the keeping of archives and*
 ***[], []***
 ***, 2054***
 
