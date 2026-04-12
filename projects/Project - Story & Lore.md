@@ -149,7 +149,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Instead of the familiar tens, hundreds or thousands, imagine millions of people able to collaborate towards a single goal. What social technology that would be. Incentives are necessary but not sufficient, this is a real technological probl*
+*Instead of the familiar tens, hundreds or thousands, imagine millions of people able to collaborate towards a single goal. What social technology that would be. Incentives are necessary but not sufficient, this is a real technological problem our current infrastructure simply cannot support.*
 ***[], []***
 ***Transcripts of early Ether design meetings, 2024***
 
