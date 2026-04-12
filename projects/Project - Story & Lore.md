@@ -137,9 +137,9 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Does the universe allow physical access to history? Or must we always actively preserve. Does the keeping of archives and history eventually turn into a disorder? Or is preservation always a must.*
+*Does the universe allow physical access to history? Or must we always actively preserve. The answer to this question wouDoes the keeping of archives and history eventually turn into a disorder? Or is preservation always a must.*
 ***[], []***
-***, 2054***
+***On Future-proof Preservation, 2054***
 
 ---
 ### Chapter []
