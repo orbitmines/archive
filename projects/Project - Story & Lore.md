@@ -137,9 +137,9 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Then there is the possibility of the universe allowing physical access to history. Or must we always actively preserve? Exciting the world would be where preservation would be less costly, but the extend to which we would keep records would border on a disorder. We would put version control on the entire universe if we could - that is how much we value history. We can clearly see this desire to do so in Ether.*
+*Then there is the possibility of the universe allowing physical access to history. Or must we always actively preserve? Exciting the world would be where preservation would be less costly, but the extend to which we would keep records would border on a disorder. We would put version control on the entire universe if we could - that is how much we value history.*
 ***[], []***
-***On Future-proof Preservation, 2054***
+***The Future of Preservation, 2054***
 
 ---
 ### Chapter []
