@@ -143,7 +143,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*An idea's true power comes from its decentralization.*
+*An idea's true power comes from its decentralization. Millions*
 ***[], []***
 ***, 2XXX***
 
