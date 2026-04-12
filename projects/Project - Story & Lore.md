@@ -137,7 +137,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Does the universe allow physical access to history? Or must we always actively preserve. Exciting the world would be where preservation would be less costly, but the extend to which we would keep records would border on a disorder. *
+*Does the universe allow physical access to history? Or must we always actively preserve. Exciting the world would be where preservation would be less costly, but the extend to which we would keep records would border on a disorder. We would version control t*
 ***[], []***
 ***On Future-proof Preservation, 2054***
 
