@@ -143,7 +143,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-**
+*True power is decentralization of an idea.*
 ***[], []***
 ***, 2XXX***
 
