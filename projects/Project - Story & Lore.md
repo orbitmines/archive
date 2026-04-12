@@ -149,9 +149,9 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Instead of the familiar thousands, imagine millions of people able to collaborate towards a single goal. What social technology that would be.*
+*Instead of the familiar tens, hundreds or thousands, imagine millions of people able to collaborate towards a single goal. What social technology that would be.*
 ***[], []***
-***Transcript , 2024***
+***Transcripts of early Ether design meetings, 2024***
 
 ---
 ### Chapter []
