@@ -161,7 +161,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-**
+*We are translators. Sure, we make *
 ***[], []***
 ***, 2XXX***
 
