@@ -161,7 +161,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*All creators are translators at heart. The only relevant questions are: What is your frontend? What is your backend? G*
+*We are translators at heart. The only relevant questions are: What is your frontend? What is your backend?*
 ***[], []***
 ***, 2XXX***
 
