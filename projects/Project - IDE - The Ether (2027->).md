@@ -583,7 +583,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 - Upgrade capacity (mana) by adding computers to the network. Visually displayed how?
 - Aid the creation of a model while it is training
 	- Model output needs to partly be what is used for player feedback. Which becomes input as well.
-	- 
+- Multiplayer; pool together resources.
 
 
 - Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those items and have some predictive capability of how well it will work for that element.
