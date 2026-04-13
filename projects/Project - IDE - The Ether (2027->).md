@@ -580,7 +580,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 
 #### Ideas for a setting which works
 - When putting on the VR glasses zoom out to the moonbase, highlighting the accelerator, putting it into focus + the larger one, then switch to a view where it is where one is balancing the forces in the machine?
-- Upgrade capacity (mana) by adding computers to the network. 
+- Upgrade capacity (mana) by adding computers to the network. Visually displayed how?
 
 
 - Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those items and have some predictive capability of how well it will work for that element.
