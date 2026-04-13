@@ -587,6 +587,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 - Train tools independent and dependent on the model; which impact how to learn.
 - Speed being combination of relative processing speed and learning rate.
 - Mana is processing power - with an overhead mana cost to connecting many together?
+	- Required operating mana cost vs sequencing cost.
 - 
 
 
