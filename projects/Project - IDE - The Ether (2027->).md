@@ -582,7 +582,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 - When putting on the VR glasses zoom out to the moonbase, highlighting the accelerator, putting it into focus + the larger one, then switch to a view where it is where one is balancing the forces in the machine?
 - Upgrade capacity (mana) by adding computers to the network. Visually displayed how?
 - Aid the creation of a model while it is training
-	- Model output needs to partly be what is used for player feedback.
+	- Model output needs to partly be what is used for player feedback. Which becomes input as well.
 	- 
 
 
