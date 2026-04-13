@@ -155,7 +155,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Practical ignorance...*
+*Practical ignorance*
 ***[], []***
 ***, 2XXX***
 
