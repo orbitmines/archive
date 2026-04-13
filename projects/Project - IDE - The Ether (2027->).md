@@ -585,6 +585,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 	- Model output needs to partly be what is used for player feedback. Which becomes input as well.
 - Multiplayer; pool together resources.
 - Train tools independent and dependent on the model; which impact how to learn.
+- Speed being combination of relative processing speed and learning rate.
 
 
 - Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those items and have some predictive capability of how well it will work for that element.
