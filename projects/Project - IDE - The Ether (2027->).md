@@ -579,7 +579,8 @@ Another issue is that in compression like using an autoencoder/decoder is incred
 You want existing algorithms to be importable: So a specific interpretation which is a compression algorithm to use it as a starting point. You want some way to differentiate between two of those imported implementations; how do you decide where to use what. Probably nestedly use as a components, or actually use aspects of that algorithm in the current one.
 
 #### Ideas for a setting which works
-- When putting on the VR glasses zoom out to the moonbase, highlighting the accelerator, putting it into focus + the larger one, then switch to a view where it is where o
+- When putting on the VR glasses zoom out to the moonbase, highlighting the accelerator, putting it into focus + the larger one, then switch to a view where it is where one is balancing the forces in the machine?
+
 
 - Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those items and have some predictive capability of how well it will work for that element.
 	- Or similarly some industrial factory or something, or workbench with an NPC which does work for you -> and you can give them certain
