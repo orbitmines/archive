@@ -161,7 +161,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*We are translators at heart. Sure, we make actual change happen. *
+*Programmers; We are translators at heart. And only sometimes are we computers.*
 ***[], []***
 ***, 2XXX***
 
