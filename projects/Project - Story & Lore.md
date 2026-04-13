@@ -161,7 +161,7 @@ Here now children, gather around, gather around. Are you ready for another story
 
 ---
 ### Chapter []
-*Programmers; We are translators at heart. And only sometimes are we computers.*
+*Programmers; We are translators at heart. And only sometimes are we computers. Every layer *
 ***[], []***
 ***, 2XXX***
 
