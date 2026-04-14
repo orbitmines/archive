@@ -685,6 +685,9 @@ Interfaces
 - [ ] Are there people who have been thinking about game-invariant puzzles?
 - [ ] Self-modifying rendering engines?
 
+- https://www.zooniverse.org/projects
+- 
+
 Games
 - [ ] https://store.steampowered.com/app/303210/The_Beginners_Guide/
 - [ ] https://store.steampowered.com/app/221910/The_Stanley_Parable/
