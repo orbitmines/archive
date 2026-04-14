@@ -589,7 +589,8 @@ You want existing algorithms to be importable: So a specific interpretation whic
 - Mana is processing power - with an overhead mana cost to connecting many together?
 	- Required operating mana cost vs sequencing cost.
 - Problems: Speed, effectiveness (loss-entropy).
-	- Actual algorithm used?
+	- Actual algorithm used?\
+- Develop submodules you use for other expriments.
 
 
 - Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those items and have some predictive capability of how well it will work for that element.
