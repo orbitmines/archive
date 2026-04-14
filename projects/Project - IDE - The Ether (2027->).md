@@ -592,7 +592,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 - Problems: Speed, effectiveness (loss-entropy).
 	- Actual algorithm used?\
 - Develop submodules you use for other expriments.
-- For compression we essentially say: The search space of possibilities
+- For compression we essentially say: The search space of possibilities is too vast to get to the proper entropic qualities of any specific structure, so instead we analyze what happens with a distribution of similar 
 
 - Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those items and have some predictive capability of how well it will work for that element.
 	- Or similarly some industrial factory or something, or workbench with an NPC which does work for you -> and you can give them certain
