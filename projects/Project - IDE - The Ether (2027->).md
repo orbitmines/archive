@@ -588,6 +588,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 - Speed being combination of relative processing speed and learning rate.
 - Mana is processing power - with an overhead mana cost to connecting many together?
 	- Required operating mana cost vs sequencing cost.
+	- Say compress the network/prune then expand or submodule part of it. Which requires mana ofc.
 - Problems: Speed, effectiveness (loss-entropy).
 	- Actual algorithm used?\
 - Develop submodules you use for other expriments.
