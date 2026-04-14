@@ -641,6 +641,7 @@ World Generation
 ---
 ###### Open explorations/quests
 
+- What about non-technical translations, could you for instance do history in the sense of a storyline story and convey all the important information. Based on some book? 
 
 #### Interface Design
 
