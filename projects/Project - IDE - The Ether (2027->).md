@@ -52,10 +52,6 @@ C. Reprogrammable UI
 
 ---
 
-Stargate apparently has an episode/serie on encoding a problem in a videogame.
-
----
-
 3D/2D modelling app using one of the diffussion models or something.
 
 ---
