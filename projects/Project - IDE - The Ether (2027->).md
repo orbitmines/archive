@@ -580,7 +580,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 
 ---
 Functions/items made by others which are equivalent, select one, search space for new items...
-
+Combine differe
 
 #### Ideas for a setting which works
 - When putting on the VR glasses zoom out to the moonbase, highlighting the accelerator, putting it into focus + the larger one, then switch to a view where it is where one is balancing the forces in the machine?
