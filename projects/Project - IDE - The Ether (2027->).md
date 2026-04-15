@@ -506,31 +506,6 @@ Infrastructure is there for things like navigating and storing items in any stru
 
 **Central question becomes:** What is the game loop outside normal file management of an IDE.
 
----
-
-Example problems:
-- cryptography problem (for certain problems you could have a timer on how it would take some tactic to solve it)
-- theorem proving (can you reach or prove to not reach a certain state).
-  -> Every problem is like this
-- Search for equivalent but more efficient programs
-   - Some importance on their usage -> What's the effect that's caused by some optimization 
-- Search for equivalencies (vague?)
-- program writing
-- 
- 
-These are all abstract examples, I need something concrete 
----
-
-- Existing programming languages with a more constrained interface like a controller.
-
-
-Non-trivial interfaces
-- [ ] Holotile floor, and things like it, more future-oriented search
-- [ ] Tacticle/body movements, ...m anything
-
----
-
-- parallel compose
 
 ---  
 

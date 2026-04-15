@@ -313,3 +313,19 @@ What awards progress? How to combat being gamed as a metric?
 What is unlocked by progressing?
 - Used as metric for difficulty rating of quests
 - Want some way for the game's rewards to be actual computational objects somehow; where having a skill is some actual skill instead of a lifeless check. (Takes actual skill to repair something, for instance); Again this question of how you create scarcity 
+
+---
+
+
+Example problems:
+- cryptography problem (for certain problems you could have a timer on how it would take some tactic to solve it)
+- theorem proving (can you reach or prove to not reach a certain state).
+  -> Every problem is like this
+- Search for equivalent but more efficient programs
+   - Some importance on their usage -> What's the effect that's caused by some optimization 
+- Search for equivalencies (vague?)
+- program writing
+- 
+---
+
+- Existing programming languages with a more constrained interface like a controller.
