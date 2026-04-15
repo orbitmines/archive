@@ -597,7 +597,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 - Perhaps there's is a strong tradeoff between predictive power & interpretebility, which plays a role here - dani
 
 - World State, Player/Inventory State - both reflect something to about the system controls.
-- 
+	- Again, translation.
 
 - Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those items and have some predictive capability of how well it will work for that element.
 	- Or similarly some industrial factory or something, or workbench with an NPC which does work for you -> and you can give them certain
