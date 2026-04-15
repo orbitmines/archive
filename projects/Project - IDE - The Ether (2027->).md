@@ -427,9 +427,6 @@ Then you have things like "items in this room" or "items in this room I can trav
 
 Infrastructure is there for things like navigating and storing items in any structure.
 
-**Central question becomes:** What is the game loop outside normal file management of an IDE.
-
-
 ---  
 
 - Idea for chyp-like functionaltiy: Put the graphs setc at the top, invis lines, then draw them on hover, and maybe make surrounding stuff less visiable. ; context of how to apply somethig. ; minimap as ignorant ref

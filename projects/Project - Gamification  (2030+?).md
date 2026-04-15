@@ -342,6 +342,10 @@ What if we tried programming first, how would you gamify aspects of it? We're es
 
 ---
 
+**Central question becomes:** What is the game loop outside normal file management of an IDE.
+
+---
+
 - Exploratory functionality ; people explore differently.
 	- Some notion of not expecting people to explore by themselves - simplicity (vs others who do), and guiding a way to stimulate that exploration - some form of ???.
 
