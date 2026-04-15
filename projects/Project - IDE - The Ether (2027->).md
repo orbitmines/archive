@@ -295,7 +295,7 @@ That's in the language's implementation of itself
 
 ---
 
-VCS; apply change to every version where this might apply, and the 
+VCS; apply change to every version where this might apply, and respect the changes of those specific versions?
 
 ---
 
