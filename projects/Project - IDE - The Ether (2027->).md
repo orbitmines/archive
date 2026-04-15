@@ -598,7 +598,7 @@ You want existing algorithms to be importable: So a specific interpretation whic
 
 - World State, Player/Inventory State - both reflect something to about the system controls.
 	- Again, translation.
-	- Developing associations, doing stuff while it is training, those world interactions become intertwined with the model at particular times? So that would mean you could do anything in this world and it then becoming a control surface; but only possibly if the network latches onto it.
+	- Developing associations, doing stuff while it is training, those world interactions become intertwined with the model at particular times? So that would mean you could do anything in this world and it then becoming a control surface; but only possibly if the network latches onto it. Like creating a donut and it then being associated with particular a
 	- 
 
 - Science lab, you're trying to create a new element, you have your energy which you can focus on very specific instantiations of an item. Then you search for those items and have some predictive capability of how well it will work for that element.
