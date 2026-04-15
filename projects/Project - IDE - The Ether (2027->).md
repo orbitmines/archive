@@ -578,6 +578,10 @@ Another issue is that in compression like using an autoencoder/decoder is incred
 
 You want existing algorithms to be importable: So a specific interpretation which is a compression algorithm to use it as a starting point. You want some way to differentiate between two of those imported implementations; how do you decide where to use what. Probably nestedly use as a components, or actually use aspects of that algorithm in the current one.
 
+---
+Functions/items made by others which are equivalent, select one, search space for new items...
+
+
 #### Ideas for a setting which works
 - When putting on the VR glasses zoom out to the moonbase, highlighting the accelerator, putting it into focus + the larger one, then switch to a view where it is where one is balancing the forces in the machine?
 - Upgrade capacity (mana) by adding computers to the network. Visually displayed how?
