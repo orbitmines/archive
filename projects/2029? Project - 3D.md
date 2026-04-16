@@ -6,3 +6,4 @@ Moonbase
 - Placue, from when the starts at the tree in the middle. Pointing to where some star is as a time indicator for when it was built
 - Domes close at night following UTC (Trees need this to grow too)
 - Lunar south pole (90% day/year, water ice)
+- Shackleton crater?
