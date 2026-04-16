@@ -1,0 +1,1 @@
+- Shelf, room left there, still uses mana, if conmtracted, it doesn't
