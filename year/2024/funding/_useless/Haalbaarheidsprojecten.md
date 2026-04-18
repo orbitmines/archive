@@ -1,0 +1,2 @@
+Research product 40% coverage up to 25.000 ; https://www.rvo.nl/subsidies-financiering/mit/haalbaarheidsprojecten
+  - https://www.nwo.nl/en/calls/take-off-phase-1-feasibility-studies-to2 ; Done to acquire knowledge of certain instituations whether something's feasible.

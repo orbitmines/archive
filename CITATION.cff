@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Citation magic will become obsolete."
+authors:
+- family-names: "Fadi"
+  given-names: "Shawki"
+  orcid: "https://orcid.org/0009-0009-9288-992X"
+- name: "OrbitMines"
+title: "Public Excerpt of OrbitMines' Research Journal & Archive"
+abstract: "A log of OrbitMines, exposed, through time: Technical Tangents, Research and Literary Exposure."
+version: 4.2.0
+url: "https://github.com/orbitmines/archive"
+repository-code: "https://github.com/orbitmines/archive"
