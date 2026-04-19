@@ -14,5 +14,6 @@
 - allow rooms to grow beyond the main size.
 - when needing different lobbies, create different galaxies of the same base type, just changing the carpet. Positioned when possible in the position of the actual galaxies?
 - tab a player's shoulder, have their room highlighted on the map, go there if its not private.
+- Forum: typing or recently online means around some table, allow to walk beside a table to watch a transcript of VC.
 
 - 2d/3d editing, add more space in some place, so you can zoom in further in a file.
