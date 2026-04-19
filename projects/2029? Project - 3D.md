@@ -8,4 +8,4 @@
 - Lunar south pole (90% day/year, water ice)
 - Shackleton crater?
 - hahaha https://arxiv.org/pdf/2106.02048
-- 
+- Originally the section names where given them as latin translations of what the purpose of that section was, now they're used as the names of sections of the galaxy
