@@ -52,6 +52,10 @@ C. Reprogrammable UI
 
 ---
 
+Benchmark/timing buttonfor each function
+
+---
+
 3D/2D modelling app using one of the diffussion models or something.
 
 ---
