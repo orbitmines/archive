@@ -10,5 +10,6 @@
 - hahaha https://arxiv.org/pdf/2106.02048
 - Originally the section names where given them as latin translations of what the purpose of that section was, now they're used as the names of sections of the galaxy
 - VR in room take off to leave the homescreen (which is the login screen), navigate in VR around the base, then *teleport* there
+- When leaving the room/prompted to go online or to stay offline, when in VR and zooming out too. "Always go online" checked/not checked
 
 - 2d/3d editing, add more space in some place, so you can zoom in further in a file.
