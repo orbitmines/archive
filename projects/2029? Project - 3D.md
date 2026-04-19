@@ -12,6 +12,6 @@
 - VR in room take off to leave the homescreen (which is the login screen), navigate in VR around the base, then *teleport* there
 - When leaving the room/prompted to go online or to stay offline, when in VR and zooming out too. "Always go online" checked/not checked.
 - allow rooms to grow beyond the main size.
-- 
+- when needing different lobbies, create different galaxies of the same base type, just changing the carpet.
 
 - 2d/3d editing, add more space in some place, so you can zoom in further in a file.
