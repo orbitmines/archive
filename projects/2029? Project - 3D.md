@@ -13,5 +13,6 @@
 - When leaving the room/prompted to go online or to stay offline, when in VR and zooming out too. "Always go online" checked/not checked.
 - allow rooms to grow beyond the main size.
 - when needing different lobbies, create different galaxies of the same base type, just changing the carpet. Positioned when possible in the position of the actual galaxies?
+- tab a player's shoulder, have their room highlighted on the map, go there if its not private.
 
 - 2d/3d editing, add more space in some place, so you can zoom in further in a file.
