@@ -11,4 +11,4 @@
 - Originally the section names where given them as latin translations of what the purpose of that section was, now they're used as the names of sections of the galaxy
 - VR in room take off to leave the homescreen (which is the login screen), navigate in VR around the base, then *teleport* there
 
-- 2
+- 2d/3d editing, add more space in some place, so you can zoom in further in a file.
