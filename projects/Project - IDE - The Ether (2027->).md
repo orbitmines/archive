@@ -52,7 +52,10 @@ C. Reprogrammable UI
 
 ---
 
+Abstract Interpretation
 
+Actually Running
+- Store objects in cache, but which ones do we use for then providing the value? Might no
 
 ---
 
