@@ -58,6 +58,7 @@ Abstract Interpretation
 	- Needs to know when to cache the results, if they're IO or nondeterministic?
 
 - Different levels of trust of whether to execute the code. (Who's the author, run the code as them on my pc, so the @player is set) ; and then we can configure them not to allow to run HTTP requests for instance. ; Prompted with a ; trust this author to run network requests: Or only specifically certain domains, with/without data attached etc..
+- Extra level of dont give full write access to drive for instance; only in specific folders things like that. You can override it, but you have to manually change that configuration.
 
 - Different levels of execution. 
 	- [FULL RUNTIME] Say we run classes because we flag them as `initializer`? Then we execute all code inside. (actual execution) 
