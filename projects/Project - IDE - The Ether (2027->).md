@@ -53,8 +53,8 @@ C. Reprogrammable UI
 ---
 
 Abstract Interpretation
-- Needs access to something like `speculatable`
-	- Need to explicitely specify, needs to be smart as to not accedentially run something like rm -rf on the whole directory, if the user is for instance rewriting something like speculatable rm -rf SOME_DIR and removes SOME_DIR
+- Needs access to something like `speculatable`, but something more intuitive `interpretable?`.
+	- Need to explicitely specify, needs to be smart as to not accedentially run something like rm -rf on the whole directory, if the user is for instance rewriting something like speculatable rm -rf SOME_DIR and removes SOME_DIR. -> Perhaps after a change need to reflag as interpretable.
 	- 
 
 Actually Running
