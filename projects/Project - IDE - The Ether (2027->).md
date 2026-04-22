@@ -76,6 +76,10 @@ URLs have developer caches, in case the original domain goes down/no longer work
 
 ---
 
+Each project has a .ether with configuration for that specific project
+
+---
+
 Benchmark/timing buttonfor each function
 
 ---
