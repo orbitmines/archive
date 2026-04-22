@@ -65,7 +65,7 @@ Abstract Interpretation
 		- [OPTIONALLY PARTIAL] But we also want to support large functions just partially running them and storing the partial stuff and showing that off. Even just normal interpretation.
 	- [ABSTRACT INTERPRETATION] Then for other methods, we just run it with the abstract class just put on the variable. And only call all other initializer methods like =/:.
 
-- anything IO flagged returns the abstract class; unless flagged with `interpret`
+- anything IO flagged returns the abstract class; unless flagged with `speculate`
 	- First pass, abstract interpretation; call all functions with the abstract classes.
 	- Always full runtime, but we flag stuff getting information from outside like environment return the abstract class.
 - 
