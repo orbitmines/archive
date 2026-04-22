@@ -56,7 +56,8 @@ Abstract Interpretation
 - Needs access to something like `speculatable`, but something more intuitive `interpretable?`.
 	- Need to explicitely specify, needs to be smart as to not accedentially run something like rm -rf on the whole directory, if the user is for instance rewriting something like speculatable rm -rf SOME_DIR and removes SOME_DIR. -> Perhaps after a change need to reflag as interpretable.
 	- Needs to know when to cache the results, if they're IO or nondeterministic?
-	- 
+
+- Different levels of execution. Say we run classes because we flag them as `initializer`? Then we execute all code inside 
 
 Actually Running
 - Store objects in cache, but which ones do we use for then providing the value? Might not be constant.
