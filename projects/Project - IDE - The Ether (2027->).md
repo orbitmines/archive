@@ -57,6 +57,8 @@ Abstract Interpretation
 	- Need to explicitely specify, needs to be smart as to not accedentially run something like rm -rf on the whole directory, if the user is for instance rewriting something like speculatable rm -rf SOME_DIR and removes SOME_DIR. -> Perhaps after a change need to reflag as interpretable.
 	- Needs to know when to cache the results, if they're IO or nondeterministic?
 
+- Different levels of trust of whether to execute the code. (Who's the author, run the code as them on my pc, so the @player is set)
+
 - Different levels of execution. 
 	- [FULL RUNTIME] Say we run classes because we flag them as `initializer`? Then we execute all code inside. (actual execution) 
 		- [OPTIONALLY PARTIAL] But we also want to support large functions just partially running them and storing the partial stuff and showing that off. Even just normal interpretation.
