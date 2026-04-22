@@ -70,7 +70,7 @@ Actually Running
 
 ---
 
-URLs have developer caches, in case the original domain goes down/no longer works. ; publish those cashes optionally, by default yes
+URLs have developer caches, in case the original domain goes down/no longer works. ; publish those cashes optionally, by default yes/no?
 
 ---
 
