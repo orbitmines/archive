@@ -65,7 +65,7 @@ Abstract Interpretation
 	- [ABSTRACT INTERPRETATION] Then for other methods, we just run it with the abstract class just put on the variable. And only call all other initializer methods like =/:.
 
 - Always full runtime, but we flag stuff getting information from outside like environment return the abstract class; anything IO flagged returns the abstract class.
-	- With the abstract interpretation change being LOOPs are never repeated. Functions are never visited more than
+	- With the abstract interpretation change being LOOPs are never repeated. Functions are never visited more than once. And that once is the abstract class.
 
 Actually Running
 - Store objects in cache, but which ones do we use for then providing the value? Might not be constant.
