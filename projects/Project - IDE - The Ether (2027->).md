@@ -57,7 +57,7 @@ Abstract Interpretation
 	- Need to explicitely specify, needs to be smart as to not accedentially run something like rm -rf on the whole directory, if the user is for instance rewriting something like speculatable rm -rf SOME_DIR and removes SOME_DIR. -> Perhaps after a change need to reflag as interpretable.
 	- Needs to know when to cache the results, if they're IO or nondeterministic?
 
-- Different levels of trust of whether to execute the code. (Who's the author, run the code as them on my pc, so the @player is set)
+- Different levels of trust of whether to execute the code. (Who's the author, run the code as them on my pc, so the @player is set) ; and then we can configure them not to allow to run HTTP requests for instance. ; Prompted with a ; trust this author to run network requests: Or only specifically certain domains, with/without data attached etc..
 
 - Different levels of execution. 
 	- [FULL RUNTIME] Say we run classes because we flag them as `initializer`? Then we execute all code inside. (actual execution) 
