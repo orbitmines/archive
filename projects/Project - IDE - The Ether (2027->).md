@@ -57,7 +57,9 @@ Abstract Interpretation
 	- Need to explicitely specify, needs to be smart as to not accedentially run something like rm -rf on the whole directory, if the user is for instance rewriting something like speculatable rm -rf SOME_DIR and removes SOME_DIR. -> Perhaps after a change need to reflag as interpretable.
 	- Needs to know when to cache the results, if they're IO or nondeterministic?
 
-- Different levels of execution. Say we run classes because we flag them as `initializer`? Then we execute all code inside 
+- Different levels of execution. 
+	- [FULL R] Say we run classes because we flag them as `initializer`? Then we execute all code inside. (actual execution) 
+	- Then for other methods, we just run it with the abstract class just put on the variable. And only call all other initializer methods like =/:.
 
 Actually Running
 - Store objects in cache, but which ones do we use for then providing the value? Might not be constant.
