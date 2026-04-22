@@ -58,8 +58,10 @@ Abstract Interpretation
 	- Needs to know when to cache the results, if they're IO or nondeterministic?
 
 - Different levels of execution. 
-	- [FULL R] Say we run classes because we flag them as `initializer`? Then we execute all code inside. (actual execution) 
-	- Then for other methods, we just run it with the abstract class just put on the variable. And only call all other initializer methods like =/:.
+	- [FULL RUNTIME] Say we run classes because we flag them as `initializer`? Then we execute all code inside. (actual execution) 
+	- [ABSTRACT INTERPRETATION] Then for other methods, we just run it with the abstract class just put on the variable. And only call all other initializer methods like =/:.
+
+- But we also want to support large functions just partially running them and storing the partial stuff 
 
 Actually Running
 - Store objects in cache, but which ones do we use for then providing the value? Might not be constant.
