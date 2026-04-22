@@ -72,7 +72,7 @@ Actually Running
 
 ---
 
-URLs have developer caches, in case the original domain goes down/no longer works. ; publish those cashes optionally, by default yes/no?
+URLs have developer caches, in case the original domain goes down/no longer works. ; publish those cashes optionally, by default yes/no?. Require cache for publishing for when the direct one fails at runtime. (Can be skipped)
 
 ---
 
