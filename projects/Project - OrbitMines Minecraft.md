@@ -9,6 +9,9 @@ loadout
 
 - Specific chaces to drop some item, as enchant
 
+Abilities
+- Rain ar
+
 /
 Rogue like game thing
 How does the game work
