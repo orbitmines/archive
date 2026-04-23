@@ -9,8 +9,10 @@ loadout
 
 - Specific chaces to drop some item, as enchant
 
-Abilities
-- Rain arrows from above
+Abilities/Enchantments
+- 
+- Combat
+	- Rain arrows from above
 
 - Expand region being expand
 Galactic Prison Planet
