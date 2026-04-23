@@ -37,8 +37,10 @@ Levels (choose one out 3 each time.)
 	- Lumberjack
 	- Fishing
 	- 
-- Unlock Mines Drops.
-- 
+- Unlock Ores
+	- Copper, Cobalt, Strontium, Amethyst, Uranium, Iridium, Francium, ...
+- Unlock Trees
+	- .
 
 Shop
 - Buy Keys: Crates
