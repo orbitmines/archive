@@ -18,7 +18,7 @@ Difficulties
 - Hard (Lose X x 2 levels on death)
 - Hardcore (full reset on death) ; can still visit the map as a spectator.
 
-Losing 
+Losing progress, disables the selection you had (highlights that you lost it on death and can be regained.) Then you can reselect it on lvl-up or choose something else.
 
 Levels (choose one out 3 each time.)
 - Choose Faction
@@ -37,6 +37,7 @@ Levels (choose one out 3 each time.)
 	- Lumberjack
 	- Fishing
 	- 
+
 
 Shop
 - Buy Keys: Crates
