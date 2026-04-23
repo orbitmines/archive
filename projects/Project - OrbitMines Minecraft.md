@@ -47,6 +47,7 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 	- Craft Suits from Ores.
 - Unlock Items
 - Unlock Questlines
+- Backpack; Better bundles
 
 Shop
 - Buy Keys: Crates
