@@ -38,8 +38,9 @@ Levels (choose one out 3 each time.)
 	- Fishing
 	-  
 - Unlock Ores
-	- Copper, Cobalt, Strontium, Amethyst, Uranium, Iridium, Francium, ...
+	- (Usual Ores too) Copper, Cobalt, Strontium, Amethyst, Uranium, Iridium, Francium, ...
 - Unlock Trees
+- Unlock Honey
 - 
 
 Shop
