@@ -17,7 +17,7 @@ Levels (choose one out 3 each time.)
 	- Omega
 	- Alpha
 	- Beta
-- Choose Suit
+- Choose Suit (base HP)
 	- 
 - (after X) Get Drone (max 9)
 
