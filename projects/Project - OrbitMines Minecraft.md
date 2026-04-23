@@ -3,6 +3,7 @@
 - javelin attack speed noticed somewhere
 
 
+- version in glass packets sent? not laggy?
 
 /
 Rogue like game thing
