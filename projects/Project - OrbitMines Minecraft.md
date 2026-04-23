@@ -37,6 +37,7 @@ Levels (choose one out 3 each time.)
 	- Lumberjack
 	- Fishing
 	- 
+- Unlock Mine 
 
 Shop
 - Buy Keys: Crates
@@ -70,7 +71,7 @@ Quests
 Enemies
 - 
 
-- COunt blocks broken, per drone per player.
+- Count blocks broken, per drone per player.
 
 Galactic Prison Planet
 
