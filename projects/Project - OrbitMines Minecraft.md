@@ -33,7 +33,7 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - New Structures/Compartiments
 	- Farm areas
 	- Unlock Daily Crate
-	- 
+	- Enchanting Area
 - Tree Regeneration
 - Botany X: Increased Tree/Crop growth
 - Unlock Skill (decreases effect of other traits. the more traits you have.)
