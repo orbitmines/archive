@@ -18,6 +18,8 @@ Levels (choose one out 3 each time.)
 	- Beta
 - Choose Suit
 	- 
+- (after X) Get Drone (max 9)
+- 
 
 Abilities/Enchantments
 - 
