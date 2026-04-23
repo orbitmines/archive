@@ -10,7 +10,7 @@ loadout
 - Specific chaces to drop some item, as enchant
 
 Abilities
-- Rain ar
+- Rain arrows from above
 
 /
 Rogue like game thing
