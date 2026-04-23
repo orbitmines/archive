@@ -4,6 +4,7 @@
 
 
 - version in glass packets sent? not laggy?
+loadout
 - -drones which do something different near you based on modules
 
 - Specific chaces to drop some item, as enchant
