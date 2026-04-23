@@ -14,7 +14,9 @@ loadout
 - Duration of play for each run
 
 Difficulties
-- Normal 
+- Normal (Lose X levels on death)
+- Hard (Lose X*2 )
+- Hardcore (full reset on death) ; can still visit the map as a spectator.
 
 Levels (choose one out 3 each time.)
 - Choose Faction
