@@ -15,8 +15,8 @@ loadout
 
 Difficulties
 - Normal (Lose X levels on death)
-- Hard (Lose X x 2 levels on death)
-- Hardcore (full reset on death) ; can still visit the map as a spectator.
+- Hard (Lose X x 2 levels on death, harder mobs)
+- Same as hard Hardcore (full reset on death) ; can still visit the map as a spectator.
 
 Losing progress, disables the selection you had (highlights that you lost it on death and can be regained.) Then you can reselect it on lvl-up or choose something else.
 
@@ -61,6 +61,11 @@ Abilities/Enchantments
 	- Rain arrows from above
 
 - Expand region being expand
+
+Quests
+- Collect X
+- Defeat X
+- 
 
 Enemies
 - 
