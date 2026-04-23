@@ -74,6 +74,23 @@ Abstract Interpretation
 Actually Running
 - Store objects in cache, but which ones do we use for then providing the value? Might not be constant.
 
+
+---
+
+```
+a = obj
+  .func
+  .func2
+
+```
+a here is obj, not the result of func2. since it accepts the block func2
+```
+a = obj.
+  .func
+  .func2
+```
+this would call func2.
+
 ---
 
 URLs have developer caches, in case the original domain goes down/no longer works. ; publish those cashes optionally, by default yes/no?. Require cache for publishing for when the direct one fails at runtime.
