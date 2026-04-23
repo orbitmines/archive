@@ -27,8 +27,7 @@ Levels (choose one out 3 each time.)
 	- Alpha
 		- Botany
 	- Beta
-- Choose Suit (base HP)
-	- 
+- Base HP
 - (after X) Get Drone (max 9) Allays
 - Map Expansion (selection of; go into spectate mode to select one.)
 - Tree Regeneration
@@ -41,12 +40,14 @@ Levels (choose one out 3 each time.)
 	- (Usual Ores too) Copper, Cobalt, Strontium, Amethyst, Uranium, Iridium, Francium, ...
 - Unlock Trees
 - Unlock Honey
-- 
+- Unlock Recipes
+	- Craft Suits from Ores.
 
 Shop
 - Buy Keys: Crates
 - Buy Enchantments (very expensive, selective)
 - Buy experience bottles (faster progression)
+- Buy Recipes
 - Upgrade enchantment to Module with money.
 - Remove enchantment from tool.
 
