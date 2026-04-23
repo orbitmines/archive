@@ -12,12 +12,12 @@ loadout
 - 
 
 Levels (choose one out 3 each time.)
-- (1) Choose Faction
-		- Omega
-		- Alpha
-		- Beta
-- (X) Choose Suit
-- (X) Swap Suit
+- Choose Faction
+	- Omega
+	- Alpha
+	- Beta
+- Choose Suit
+	- 
 
 Abilities/Enchantments
 - 
