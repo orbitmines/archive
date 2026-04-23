@@ -36,11 +36,11 @@ Levels (choose one out 3 each time.)
 - Unlock Skill (decreases effect of other traits. the more traits you have.)
 	- Lumberjack
 	- Fishing
-	- 
+	-  
 - Unlock Ores
 	- Copper, Cobalt, Strontium, Amethyst, Uranium, Iridium, Francium, ...
 - Unlock Trees
-	- .
+- 
 
 Shop
 - Buy Keys: Crates
