@@ -28,11 +28,12 @@ Levels (choose one out 3 each time.)
 - Botany X: Increased Tree/Crop growth
 - Unlock Skill (decreases effect of other traits. the more traits you have.)
 	- Lumberjack
+	- Fishing
 	- 
 
 
 Abilities/Enchantments
-- 
+- Scale by the number of skills you've unlocked. ?
 - Combat
 	- Absorption; Shield Generator only regens out of comabt, but regens fast.
 	- Rain arrows from above
