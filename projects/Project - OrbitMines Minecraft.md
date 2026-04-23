@@ -31,6 +31,9 @@ Levels (choose one out 3 each time.)
 	- Fishing
 	- 
 
+Shop
+
+- Buy Enchantments
 
 Abilities/Enchantments
 - Scale by the number of skills you've unlocked. ?
@@ -39,6 +42,10 @@ Abilities/Enchantments
 	- Rain arrows from above
 
 - Expand region being expand
+
+Enemies
+- 
+
 Galactic Prison Planet
 
 /
