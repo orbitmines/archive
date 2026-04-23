@@ -32,6 +32,7 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - Map Expansion (selection of; go into spectate mode to select one.)
 - New Structures/Compartiments
 	- Farm areas
+	- Unlock Daily Crate
 	- 
 - Tree Regeneration
 - Botany X: Increased Tree/Crop growth
@@ -48,7 +49,6 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - Unlock Items
 - Unlock Questlines
 - Backpack; Better bundles
-- Unlock 
 
 Shop
 - Buy Keys: Crates
