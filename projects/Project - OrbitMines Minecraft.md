@@ -30,6 +30,9 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - Base HP
 - (after X) Get Drone (max 9) Allays
 - Map Expansion (selection of; go into spectate mode to select one.)
+- New Structures/Compartiments
+	- Farm areas
+	- 
 - Tree Regeneration
 - Botany X: Increased Tree/Crop growth
 - Unlock Skill (decreases effect of other traits. the more traits you have.)
@@ -129,7 +132,7 @@ Kitpvp
 - Cyclone still destroys map
 - ]ENchanter info that it gets random item from each class.
 - Boots not in kit selector?
-- Anti-chea
+- Anti-cheat
 
 
 Add bots that fight others in the kitpvp arena so that even if no one else is online people can still play kitpvp of course the rewards of killing such bots should be lower than killing actual players and only give coins no xp and they dont help with quests bots can spawn with any kit
