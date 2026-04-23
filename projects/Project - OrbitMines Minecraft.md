@@ -32,8 +32,12 @@ Levels (choose one out 3 each time.)
 	- 
 
 Shop
+- Buy Keys: Crates
+- Buy Enchantments (very expensive, selective)
+- Buy experience bottles (faster progression)
 
-- Buy Enchantments
+Crates
+- 
 
 Abilities/Enchantments
 - Scale by the number of skills you've unlocked. ?
