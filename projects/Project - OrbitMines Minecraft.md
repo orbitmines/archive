@@ -19,12 +19,12 @@ Levels (choose one out 3 each time.)
 - Choose Suit
 	- 
 - (after X) Get Drone (max 9)
-- Absorption, Shield G
 
 
 Abilities/Enchantments
 - 
 - Combat
+	- Absorption; Shield Generator only regens out of comabt, but regens fast.
 	- Rain arrows from above
 
 - Expand region being expand
