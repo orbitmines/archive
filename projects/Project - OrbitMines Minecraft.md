@@ -73,6 +73,7 @@ Abilities/Enchantments
 Quests
 - Collect X
 - Defeat X
+- 
 Gain experience, specific items etc..
 
 Enemies
@@ -128,6 +129,7 @@ Kitpvp
 - Cyclone still destroys map
 - ]ENchanter info that it gets random item from each class.
 - Boots not in kit selector?
+- Anti-chea
 
 
 Add bots that fight others in the kitpvp arena so that even if no one else is online people can still play kitpvp of course the rewards of killing such bots should be lower than killing actual players and only give coins no xp and they dont help with quests bots can spawn with any kit
