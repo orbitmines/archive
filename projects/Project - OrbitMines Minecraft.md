@@ -15,8 +15,10 @@ loadout
 
 Difficulties
 - Normal (Lose X levels on death)
-- Hard (Lose X*2 )
+- Hard (Lose X x 2 levels on death)
 - Hardcore (full reset on death) ; can still visit the map as a spectator.
+
+Losing 
 
 Levels (choose one out 3 each time.)
 - Choose Faction
