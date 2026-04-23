@@ -37,7 +37,8 @@ Levels (choose one out 3 each time.)
 	- Lumberjack
 	- Fishing
 	- 
-- Unlock Mine 
+- Unlock Mines Drops.
+- 
 
 Shop
 - Buy Keys: Crates
