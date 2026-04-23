@@ -30,7 +30,7 @@ Levels (choose one out 3 each time.)
 - Choose Suit (base HP)
 	- 
 - (after X) Get Drone (max 9)
-- Map Expansion
+- Map Expansion (selection of; go into spectate mode to select one.)
 - Tree Regeneration
 - Botany X: Increased Tree/Crop growth
 - Unlock Skill (decreases effect of other traits. the more traits you have.)
