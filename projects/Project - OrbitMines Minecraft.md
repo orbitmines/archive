@@ -6,6 +6,8 @@
 - version in glass packets sent? not laggy?
 - -drones which do something different near you based on modules
 
+- Specific chaces to drop some item, as enchant
+
 /
 Rogue like game thing
 How does the game work
