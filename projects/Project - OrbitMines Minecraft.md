@@ -11,6 +11,11 @@ loadout
 
 - 
 
+Faction
+- Omega
+- Alpha
+- Beta
+
 Abilities/Enchantments
 - 
 - Combat
