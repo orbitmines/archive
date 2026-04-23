@@ -12,6 +12,9 @@ loadout
 Abilities
 - Rain arrows from above
 
+- Expand region being expand
+Galactic Prison Planet
+
 /
 Rogue like game thing
 How does the game work
