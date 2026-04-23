@@ -19,7 +19,8 @@ Levels (choose one out 3 each time.)
 - Choose Suit
 	- 
 - (after X) Get Drone (max 9)
-- 
+- Absorption, Shield G
+
 
 Abilities/Enchantments
 - 
