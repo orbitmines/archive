@@ -11,7 +11,7 @@ loadout
 
 - 
 
-- Duration of play for each rrun
+- Duration of play for each run
 
 Levels (choose one out 3 each time.)
 - Choose Faction
@@ -26,7 +26,9 @@ Levels (choose one out 3 each time.)
 - Map Expansion
 - Tree Regeneration
 - Botany X: Increased Tree/Crop growth
-- Unlock Skill (decreases effect of other traits. the more traits you have, the l)
+- Unlock Skill (decreases effect of other traits. the more traits you have.)
+	- Lumberjack
+	- 
 
 
 Abilities/Enchantments
