@@ -5,7 +5,6 @@
 
 
 /
-
 Rogue like game thing
 How does the game work
 
@@ -29,6 +28,13 @@ Instead of having prestiges simply give the players currency depending on the cl
 
 Add a purchasable option to make the start go faster or skip a few levels
 
+coop/towerdefense 
+Add a coop option where it is more like a tower defense game (can be played solo as well) you have to defend a certain village/building etc. each class has its certain strengths in the way that they can help protect it
+
+
+--- 
+Kitpvp
+
 Raid boss for fun team pve which rewards the players with coins consumables as well as items used to unlock a new kit and items to upgrade a kit each kit requires different items those upgrades can be small for example +2 hearts (1 full heart) 
 How the raid boss works
 Each person gets rewards if they contribute at least a certain amount and if they contribute a lot they get some extra rewards or higher chance of getting better loot
@@ -45,7 +51,11 @@ Add consumables to the shop to spend coins for example a hp pot but add cooldown
 
 Add temporary buffs to specific kits for coins for example with archer reduce the arrow regain by 1 second 
 Can also be generic for example if you are 10 seconds out of combat for this life you get an extra little bit of regeneration or can be to get a small xp and coin boost for a couple of minutes/1 life
-[10:56 PM]Wednesday, April 22, 2026 at 10:56 PM
+
+---
+
+
+
 Add weekly quests
 
 Add custom texture pack to make it very easy for everyone to see which kit the other person is using 
@@ -64,5 +74,4 @@ Juggernaut every 30 min 1 person will randomly become the juggernaut if there is
 they get increased health regen good armour with some projectile protection high dmg melee weapon but slower attack speed
 If someone kills the juggernaut they get increased xp and coins
 
-make it so that all the kits are sorted based on price so its easier for players to know what the price of kits are maybe make kits shiny of the player can buy m or something just for quality of life (edited)
-
+make it so that all the kits are sorted based on price so its easier for players to know what the price of kits are maybe make kits shiny of the player can buy m or something just for quality of life
