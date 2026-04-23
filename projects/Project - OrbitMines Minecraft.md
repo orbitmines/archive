@@ -20,7 +20,7 @@ Difficulties
 
 Losing progress, disables the selection you had (highlights that you lost it on death and can be regained.) Then you can reselect it on lvl-up or choose something else.
 
-Levels (choose one out 3 each time.)
+Levels (choose one out 3 each time.) 
 - Choose Faction
 	- (Unlocks faction-specific choices: new abilities, suits, modules.)
 	- Omega
