@@ -31,6 +31,7 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - (after X) Get Drone (max 9) Allays
 - Map Expansion (selection of; go into spectate mode to select one.)
 - New Structures/Compartiments
+	- Dungeons to unlock them when building; they need to be captured.
 	- Farm areas
 	- Unlock Daily Crate
 	- Enchanting Area
