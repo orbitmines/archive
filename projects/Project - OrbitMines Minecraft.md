@@ -21,7 +21,8 @@ Levels (choose one out 3 each time.)
 	- 
 - (after X) Get Drone (max 9)
 - Map Expansion
-- 
+- Tree Regeneration
+- Crop growth
 
 
 Abilities/Enchantments
