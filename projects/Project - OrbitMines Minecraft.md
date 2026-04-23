@@ -1,2 +1,68 @@
 - Prison gamemode generate worlds with certain features. ? Mathematical way of doing this? Or using /locate things like that.
 - Survival/creative/lobbies claims new events
+
+
+
+
+/
+
+Rogue like game thing
+How does the game work
+
+Core gameplay
+After every level up you can choose between 1 of 3 temporary upgrades/buffs which will be lost upon dying or prestiging 
+
+Classes
+Miner mines in caves explore them loot chest and fight mobs 
+Fisherman explores underwater lost cities like atlantis fights mobs but can also be fighting fishes in the sea without going in the lost cities
+Lumberjack cuts down trees in the forests can find cabins in the wood to explore can build bridges to unlock new areas 
+Farmer explores small villages open fields and gardens can summon animals to help him as well as buff the summons
+
+Each class has a safe way of playing with no mobs but the rewards from there are very low for example with fishing instead of using the harpoon/trident to kill monsters under the water you can use your fishing rod in a safe area to get some stuff
+
+prestige
+One tries to get to prestige if they prestige they will get a bit of a permanent upgrade depending on which class they used the upgrade will be different but you will have multiple options for each class for example with fisherman the first 10 prestiges you get +1 speed in water after that 0.1+ or you can choose to increase your luck
+If you die you have to start over again of course you still keep the bonuses from the prestiges
+
+V2 of prestige
+Instead of having prestiges simply give the players currency depending on the class they played where they can use those currencies for upgrading stats unlocking new abilities and cosmetics
+
+Add a purchasable option to make the start go faster or skip a few levels
+
+Raid boss for fun team pve which rewards the players with coins consumables as well as items used to unlock a new kit and items to upgrade a kit each kit requires different items those upgrades can be small for example +2 hearts (1 full heart) 
+How the raid boss works
+Each person gets rewards if they contribute at least a certain amount and if they contribute a lot they get some extra rewards or higher chance of getting better loot
+There are multiple phases of the riad boss so it will do different moves depending on the hp threshold 
+Monthly/weekly rotation of the raid bosses which give different rewards to keep the playbase from having reasons to check back
+
+Add bots that fight others in the kitpvp arena so that even if no one else is online people can still play kitpvp of course the rewards of killing such bots should be lower than killing actual players and only give coins no xp and they dont help with quests bots can spawn with any kit
+
+Instead of using hearts use health where it says in numbers so for example 100 and thats how much health you have then you can write on every weapon easily how much damage that they do as well as with defense add numbers to it as well to make it easily seen by people hey he has that much defense which can also mean you have 100 armour normally but against ranged attacks its 150 for example etc.
+
+After getting a kill heal instantly 2 full hearts and give reduce dmg taken by 10% for 1 second to reduce cleaning a bit but not stop it
+
+Add consumables to the shop to spend coins for example a hp pot but add cooldown on those consumables and you can only carry 2 at the same time before having to purchase them again
+
+Add temporary buffs to specific kits for coins for example with archer reduce the arrow regain by 1 second 
+Can also be generic for example if you are 10 seconds out of combat for this life you get an extra little bit of regeneration or can be to get a small xp and coin boost for a couple of minutes/1 life
+[10:56 PM]Wednesday, April 22, 2026 at 10:56 PM
+Add weekly quests
+
+Add custom texture pack to make it very easy for everyone to see which kit the other person is using 
+
+Add a rotating maps so that every week there is a new map which people pvp on
+
+Give tree (the kit) 5% knockback resist it doesnt make sense why a tree doesnt have knockback resist
+
+Add a prestige option based on account level to kitpvp which will unlock new things mainly cosmetics that can be bought or buffs/consumables people can buy can only be bought from a certain prestige onward it can also give other rewards for example getting a triple kill (killing 3 people within a certain timer) will give you health regen the way to unlock this is by prestigeing but it resets all kits purchased/upgraded
+Add a prestige option based on kit xp where you have to do certain challenges with the kit as well inorder to be capable of prestigeing a specific kit this will not bring any benefits just cosmetics do note that the kit prestige does not reset by prestigeing your account
+
+Add a 1v1 game mode add an option so that the player can choose if their winrates are public or not and keep all the other data private like winrate of kits etc. so that better balancing decisions can be made
+
+Weekend events 
+Juggernaut every 30 min 1 person will randomly become the juggernaut if there is no other juggernaut
+they get increased health regen good armour with some projectile protection high dmg melee weapon but slower attack speed
+If someone kills the juggernaut they get increased xp and coins
+
+make it so that all the kits are sorted based on price so its easier for players to know what the price of kits are maybe make kits shiny of the player can buy m or something just for quality of life (edited)
+
