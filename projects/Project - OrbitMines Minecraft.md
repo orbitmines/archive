@@ -13,7 +13,7 @@ loadout
 
 Levels (choose one out 3 each time.)
 - Choose Faction
-	- (Unlocks faction-specific choices abilities)
+	- (Unlocks faction-specific choices: new abilities, suits, modules.)
 	- Omega
 	- Alpha
 	- Beta
