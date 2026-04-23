@@ -72,6 +72,9 @@ Abilities/Enchantments
 - Combat
 	- Absorption; Shield Generator only regens out of comabt, but regens fast.
 	- Rain arrows from above
+- Axe
+	- Chop down whole tree.
+	- 
 
 - Expand region being expand
 
