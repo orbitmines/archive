@@ -38,11 +38,12 @@ Levels (choose one out 3 each time.)
 	- Fishing
 	- 
 
-
 Shop
 - Buy Keys: Crates
 - Buy Enchantments (very expensive, selective)
 - Buy experience bottles (faster progression)
+- Upgrade enchantment to Module with money.
+- Remove enchantment from tool.
 
 Crates
 - 
@@ -51,7 +52,7 @@ Drone Modules
 - Collect Module
 - Skill Module
 - Enchantment Module
-- Upgrade enchantment to 
+
 
 Abilities/Enchantments
 - Scale by the number of skills you've unlocked. ?
@@ -63,6 +64,8 @@ Abilities/Enchantments
 
 Enemies
 - 
+
+- COunt blocks broken, per drone per player.
 
 Galactic Prison Planet
 
