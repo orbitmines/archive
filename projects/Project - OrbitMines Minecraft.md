@@ -13,6 +13,9 @@ loadout
 
 - Duration of play for each run
 
+Difficulties
+- Normal 
+
 Levels (choose one out 3 each time.)
 - Choose Faction
 	- (Unlocks faction-specific choices: new abilities, suits, modules.)
