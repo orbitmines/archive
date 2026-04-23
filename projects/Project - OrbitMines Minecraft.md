@@ -4,6 +4,7 @@
 
 
 - version in glass packets sent? not laggy?
+- -drones which do something different near you based on modules
 
 /
 Rogue like game thing
