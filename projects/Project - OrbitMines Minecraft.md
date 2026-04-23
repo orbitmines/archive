@@ -46,6 +46,7 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - Unlock Honey
 - Unlock Recipes
 	- Craft Suits from Ores.
+	- Pickaxe upgrade, by crafting with the existing pickaxe.
 - Unlock Items
 - Unlock Questlines
 - Backpack; Better bundles
