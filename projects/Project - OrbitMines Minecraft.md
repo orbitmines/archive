@@ -34,14 +34,15 @@ coop/towerdefense
 Add a coop option where it is more like a tower defense game (can be played solo as well) you have to defend a certain village/building etc. each class has its certain strengths in the way that they can help protect it
 
 
---- 
-Kitpvp
-
 Raid boss for fun team pve which rewards the players with coins consumables as well as items used to unlock a new kit and items to upgrade a kit each kit requires different items those upgrades can be small for example +2 hearts (1 full heart) 
 How the raid boss works
 Each person gets rewards if they contribute at least a certain amount and if they contribute a lot they get some extra rewards or higher chance of getting better loot
 There are multiple phases of the riad boss so it will do different moves depending on the hp threshold 
 Monthly/weekly rotation of the raid bosses which give different rewards to keep the playbase from having reasons to check back
+
+--- 
+Kitpvp
+
 
 Add bots that fight others in the kitpvp arena so that even if no one else is online people can still play kitpvp of course the rewards of killing such bots should be lower than killing actual players and only give coins no xp and they dont help with quests bots can spawn with any kit
 
