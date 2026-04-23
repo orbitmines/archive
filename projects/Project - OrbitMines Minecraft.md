@@ -42,6 +42,8 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - Unlock Honey
 - Unlock Recipes
 	- Craft Suits from Ores.
+- Unlock Items
+- Unlock Questlines
 
 Shop
 - Buy Keys: Crates
@@ -71,7 +73,7 @@ Abilities/Enchantments
 Quests
 - Collect X
 - Defeat X
-- 
+Gain experience, specific items etc..
 
 Enemies
 - 
