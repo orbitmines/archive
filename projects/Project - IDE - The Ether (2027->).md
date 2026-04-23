@@ -78,9 +78,10 @@ Actually Running
 ---
 
 ```
-a = obj
-  .func
-  .func2
+a = 
+  obj
+    .func
+    .func2
 
 ```
 a here is obj, not the result of func2. since it accepts the block func2
@@ -89,7 +90,9 @@ a = obj.
   .func
   .func2
 ```
-this would call func2.
+this would call func2 explicitely.
+
+Or force the . usage to be the 'typical' call the obj on the next line.
 
 ---
 
