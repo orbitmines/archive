@@ -16,6 +16,7 @@ Levels (choose one out 3 each time.)
 	- (Unlocks faction-specific choices: new abilities, suits, modules.)
 	- Omega
 	- Alpha
+		- Botany
 	- Beta
 - Choose Suit (base HP)
 	- 
