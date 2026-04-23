@@ -11,10 +11,12 @@ loadout
 
 - 
 
-Faction
+(1) Choose Faction
 - Omega
 - Alpha
 - Beta
+
+Suits
 
 Abilities/Enchantments
 - 
