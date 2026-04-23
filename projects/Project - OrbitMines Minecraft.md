@@ -11,6 +11,8 @@ loadout
 
 - 
 
+- Duration of play for each rrun
+
 Levels (choose one out 3 each time.)
 - Choose Faction
 	- (Unlocks faction-specific choices: new abilities, suits, modules.)
@@ -24,7 +26,7 @@ Levels (choose one out 3 each time.)
 - Map Expansion
 - Tree Regeneration
 - Botany X: Increased Tree/Crop growth
-- 
+- Unlock Skill (decreases effect of other traits. the more traits you have, the l)
 
 
 Abilities/Enchantments
