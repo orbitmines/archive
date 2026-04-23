@@ -20,6 +20,8 @@ Levels (choose one out 3 each time.)
 - Choose Suit (base HP)
 	- 
 - (after X) Get Drone (max 9)
+- Map Expansion
+- 
 
 
 Abilities/Enchantments
