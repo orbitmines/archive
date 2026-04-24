@@ -62,15 +62,15 @@ Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendar
 	- Fishing
 - Unlock Ores
 	- (Usual Ores too) Copper, Cobalt, Strontium, Amethyst, Uranium, Iridium, Francium, ...
-- Unlock Trees
+- Unlock Trees (create like ores a list of how valueable each tree-type is.)
 - Unlock Honey; randomly scattered around trees, (which will then become unbreakable); the drones dont target these trees anymore.
 - Unlock Recipes
 	- Craft Suits from Ores.
 	- Pickaxe upgrade, by crafting with the existing pickaxe.
 - Unlock Items
 - Unlock Questlines
-	- Generate like 
-- Backpack; Better bundles
+	- Generate like types of quests in SkyBlock's style.
+- Backpack; Better bundles. These are bundles which allow increased stacking if we can enable that, so that more than 64 items go in those bags.
 
 - Empower weapons with ores for some duration.
 
