@@ -35,7 +35,7 @@ What information should be tracked? (each a separate database model)
 		- `member:<UUID>:stats:tool:TOOL_TYPE:blocks_broken`: The number of blocks broken, we also keep track of that separately on the NMS of the tools as well; periodically update the database.
 		- `member:<UUID>:drone:DRONE_ID:[All the same stats fields also used for players]` So an example would be `member:<UUID>:drone:1:tool:TOOL_TYPE:blocks_broken
 
-Each level the player chooses one of three options. The player is flaoted up into the world, up into the air through blocks teleported if they're there. Then they see three options in the air, using person
+Each level the player chooses one of three options. The player is flaoted up into the world, up into the air through blocks teleported if they're there. Then they see three options in the air, using personalized holograms showing them what, the description (on several lines ofc, padded such that it's nicely readable and each line is the same length. Padded with dark gray .), then the name and an appropraite floating item representing the choice. Click on it makes the choice. Then b
 
 On Death:
 - All Items, enchantments, unlockables are ALL tied to a specific level choice. When that level is taken away on death, those items enter a stage called: "DAMAGED" all the custom enchantments will say in a strike through and "DAMAGED" in red in front of. If a Map upgrade was unlocked with this level, that area will now be set as off-limits, creating a stainglass red barrier around it.
