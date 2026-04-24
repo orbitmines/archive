@@ -39,7 +39,7 @@ Each level the player chooses one of three options.
 
 On Death:
 - All Items, enchantments, unlockables are ALL tied to a specific level choice. When that level is taken away on death, those items enter a stage called: "DAMAGED" all the custom enchantments will say in a strike through and "DAMAGED" in red in front of. If a Map upgrade was unlocked with this level, that area will now be set as off-limits, creating a stainglass red barrier around it.
-	- When a
+	- When a person re-levels up, one of the choices is garanteed to be the choice they previously made on that level. If the person choosse a different one, this unlock is lost. If that was a map upgrade, that map upgrade comes available again in the pool of possible upgrades for other playu 
 
 Losing progress, disables the selection you had (highlights that you lost it on death and can be regained.) Then you can reselect it on lvl-up or choose something else.
 
