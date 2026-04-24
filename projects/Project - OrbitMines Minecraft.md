@@ -56,12 +56,10 @@ Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendar
 	- Unlock 4-hourly Crate [stackable up to 5]
 	- Enchanting Area; Unlocks custom enchantments
 	- [Garanteed at lvl 10, and random afterwards if not unlocked] Unique Drone Factory
-- [RARE] Tree Regeneration
-- [RARE] Botany X + 1: Increased Tree/Crop growth
-- Unlock Skill (decreases effect of other traits. the more traits you have.)
+- [RARE] Botany X + 1: Increased Tree/Crop growth ; can be increased 
+- Unlock Skill (decreases effect of other traits. the more traits you have, but certain effects and enchantments scale with number of skills you have.)
 	- Lumberjack
 	- Fishing
-	-  
 - Unlock Ores
 	- (Usual Ores too) Copper, Cobalt, Strontium, Amethyst, Uranium, Iridium, Francium, ...
 - Unlock Trees
