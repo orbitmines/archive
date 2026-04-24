@@ -68,7 +68,7 @@ Drone Modules
 - Skill Module
 - Enchantment Module
 - Combat Module
-	- 
+- 
 
 
 Abilities/Enchantments
