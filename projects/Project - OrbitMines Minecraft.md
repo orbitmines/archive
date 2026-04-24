@@ -39,7 +39,7 @@ Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendar
 - (after lvl 10) [EPIC] Get Drone (max 9) Allays which are equipable and can do stuff for you.
 	- All tools, enchantments buffs, everything which is applicable to a player, can also be applicable to an Allay. They swarm around you when idle, and when activated (this is togglable item in the hotbar) they do whatever they have equipped. If they have a Skill equipped, they do that skill. For instance if there's a tree nearby and they're a lumberjack, they'll have the axe in their hand and chop down nearby trees. They have a sphere of influence for status effects which affect all players. They have a health bar and can get damaged. The player should be able to repair them in the Drone Factory.
 - [LEGENDARY] Map Expansion (selection of; go into spectate mode to select one.)
-- [EPIC] New Structures/Compartiments (When generated they are in decayed form, spawning a dungeon of mobs until claimed); they need to be captured. These should be generated and places into the 
+- [EPIC] New Structures/Compartiments (When generated they are in decayed form, spawning a dungeon of mobs until claimed); they need to be captured. These should be generated and places into the worlds city in a place which isn't occupied yet, placing them somewhat near each-other.
 	- Farm areas
 	- [LEGENDARY] Unlock 4-hourly Crate [stackable up to 5]
 	- Enchanting Area; Unlocks custom enchantments
@@ -156,7 +156,7 @@ If he is below 50% hp he will randomly charge towards someone knocking them up i
 Once he is below 25% hp he will do so again and continue to do so every 15 seconds
 
 
-
+For the generated parts of the maps, just use placeholders for now well create something nice 
 
 Be sure to ask as many questions as you want at any stage of the process, this is a big project, so let's get a proof of concept working. Feel free to take some liberties to add some ideas here and there.
 
