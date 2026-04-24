@@ -171,6 +171,10 @@ There's no need for the SPAWN X/Y/Z just set the world setSpawnLocation and save
 Create a bunge of helper methods for all the store accesss like levels etc.. that way we separate the logic from how it's stored.
 RunSelectionGUI shouldnt be a GUI, but rather a selector like the choice, with holograms. And for the hol9ograms in choice as for this one, we already have an abstraction for holograms/FloatingItems refactor to use that. Same with Bossbar if I recall correctly, if not ignore that.
 
+### 3
+Honey should've been Bee hives with smoke under them and spawned bees near each of them, and flowers around them. Not honey blocks.
+
+
 
 ---
 
