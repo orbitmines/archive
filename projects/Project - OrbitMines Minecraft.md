@@ -156,7 +156,7 @@ If he is below 50% hp he will randomly charge towards someone knocking them up i
 Once he is below 25% hp he will do so again and continue to do so every 15 seconds
 
 
-For the generated parts of the maps, just use placeholders for now well create something nice 
+For the generated parts of the maps, just generate nice placeholders ideas for now well create something nice to use later.
 
 Be sure to ask as many questions as you want at any stage of the process, this is a big project, so let's get a proof of concept working. Feel free to take some liberties to add some ideas here and there.
 
