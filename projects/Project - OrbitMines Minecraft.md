@@ -38,7 +38,7 @@ What information should be tracked? (each a separate database model)
 Each level the player chooses one of three options.
 
 On Death:
-- All Items, enchantments, unlockables are ALL tied to a specific level choice.
+- All Items, enchantments, unlockables are ALL tied to a specific level choice. When that level is taken away on death, those items enter a stage called: "DAMAGED" all the custom enchantments will say in dark red a strike through and "DAMAGED" 
 
 Losing progress, disables the selection you had (highlights that you lost it on death and can be regained.) Then you can reselect it on lvl-up or choose something else.
 
