@@ -47,10 +47,10 @@ Levels (choose one out 3 each time.)  Common/Rare/Epic/Legendary
 	- Omega
 	- Alpha
 	- Beta
-- + 4 Hearts Base HP
-- (after lvl ) [EPIC] Get Drone (max 9) Allays
-- Map Expansion (selection of; go into spectate mode to select one.)
-- New Structures/Compartiments
+- `member:<UUID>:extra_hp` + 4 Hearts Base HP
+- (after lvl 10) [EPIC] Get Drone (max 9) Allays which are equ
+- [LEGENDARY] Map Expansion (selection of; go into spectate mode to select one.)
+- [EPIC] New Structures/Compartiments
 	- Dungeons to unlock them when building; they need to be captured.
 	- Farm areas
 	- Unlock Daily Crate
