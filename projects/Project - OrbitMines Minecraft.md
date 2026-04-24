@@ -172,7 +172,6 @@ Create a bunge of helper methods for all the store accesss like levels etc.. tha
 RunSelectionGUI shouldnt be a GUI, but rather a selector like the choice, with holograms. And for the hol9ograms in choice as for this one, we already have an abstraction for holograms/FloatingItems refactor to use that. Same with Bossbar if I recall correctly, if not ignore that.
 
 ### 3
-Difficulty selector after start a new run should similarly just be using the Hol
 Honey should've been Bee hives with smoke under them and spawned bees near each of them, and flowers around them. Not honey blocks.
 Also we already have a way to make interractable items clickable, reuse that infrastructure. WIth the Right CLick on use actionbars and everything. Then use the Toggle to display wherther drones are activated or IDLE in the actionbar. Make sure though that the names of those itesms are actually provided unlike other lobby items in other gamemodes. What else did you not reuse?
 I want a way to trigger a level-up choice with a command for DEV+ /choice, then with the second argument autocompleted the actual choice made, if not supplied that argument just get an actual choice trigger, /choice DRONE_UNLOCK for instance for an actual drone.
