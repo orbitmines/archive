@@ -97,7 +97,9 @@ Drone Modules
 - Shield Module
 - Inspire Module (more attack if they're nearby)
 Drone Repairing
-- Based on the types of modules used on the drone different ores a
+- Based on the types of modules used on the drone different ores are required to repair a drone if damaged.
+Removing Modules from Drones
+- Removing modules from drones is costly, but you can do so using ores; depending on what was used for the 
 
 
 Abilities/Enchantments
