@@ -189,7 +189,7 @@ You should not be able to start a new choice if you're currently choosing betwee
 Place the recipe book in the inventory in the middle. drones on the 3rd slot and the spectate/switch run all the way on the top-right of the inventory unable to move, just like how creative does it with those items.
 Switch run should be in dark green.
 The player is slowly draggerd down after making the choice to start a new run before it can select the difficulty, also the dragging down is really laggy.
-The dragging down shouldnt happen after preparing after clicking difficulty either. And the dragging down moves you inside blocks to suffocate if you're no 
+The dragging down shouldnt happen after preparing after clicking difficulty either. And the dragging down moves you inside blocks to suffocate if you're not high enough that shouldnt happen. Never drag down exactly, just let the player drop to the ground when he doesnt need to make another choice. Making another choice should keep the player in place, not tp him again.
 Drop the .... dot padding in the holograms btw its not working.
 
 
