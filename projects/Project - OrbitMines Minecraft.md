@@ -16,7 +16,11 @@ Ok so this gamemode will combine ideas from Fractals of the Galaxy (FoG), Prison
 
 Take inspiration from the current `@orbitmines/minecraft/remastered` setup for KitPvP for items, custom enchants, Creative for the world loading, and Survival for the usual setup. We'll call the gamemode FoG so create the associated boilerplate for a new server, but under FoG.
 
-What information should be tracked? - Using the achievement
+It's like a Rogue-like 
+
+What information should be tracked? - Using the achievement system (not necessarily with an achievement attached at first.)
+- 
+Not using the achievement system.
 - Duration of play for each run
 
 Difficulties
