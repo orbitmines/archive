@@ -39,7 +39,7 @@ Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendar
 - (after lvl 10) [EPIC] Get Drone (max 9) Allays which are equipable and can do stuff for you.
 	- All tools, enchantments buffs, everything which is applicable to a player, can also be applicable to an Allay. They swarm around you when idle, and when activated (this is togglable item in the hotbar) they do whatever they have equipped. If they have a Skill equipped, they do that skill. For instance if there's a tree nearby and they're a lumberjack, they'll have the axe in their hand and chop down nearby trees. They have a sphere of influence for status effects which affect all players. They have a health bar and can get damaged. The player should be able to repair them in the Drone Factory.
 - [LEGENDARY] Map Expansion (selection of; go into spectate mode to select one.)
-- [EPIC] New Structures/Compartiments (When generated they are in decayed form, spawning a dungeon of mobs until claimed); they need to be captured.
+- [EPIC] New Structures/Compartiments (When generated they are in decayed form, spawning a dungeon of mobs until claimed); they need to be captured. These should be generated and places into the 
 	- Farm areas
 	- [LEGENDARY] Unlock 4-hourly Crate [stackable up to 5]
 	- Enchanting Area; Unlocks custom enchantments
@@ -140,8 +140,6 @@ Bull charges at you knocking you up in the air if it hits you
 
 Bee flies towards you and tries to sting you. The sting has a chance of poisoning you for 2 seconds
 
-  
-  
 
 Undead knight (first boss)
 
@@ -157,7 +155,6 @@ If he is below 50% hp he will randomly charge towards someone knocking them up i
 
 Once he is below 25% hp he will do so again and continue to do so every 15 seconds
 
-**
 
 
 
