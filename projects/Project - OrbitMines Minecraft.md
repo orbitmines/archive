@@ -254,6 +254,7 @@ Kitpvp
 - Boots not in kit selector?
 - Anti-cheat
 - 1. zou t mogelijk zijn dat je mij in de toekomst een item kan geven wat 0 attack heeft maar een bleed effect wil dat effect namelijk testen aan gezien jente gisteren zij dat bleed veel dmg doet --> items with custom enchants give to others. or on current held and allow to drop in opmode. (mayb ein creative, with a /survival)
+- hp regen the same for all
 
 
 Add bots that fight others in the kitpvp arena so that even if no one else is online people can still play kitpvp of course the rewards of killing such bots should be lower than killing actual players and only give coins no xp and they dont help with quests bots can spawn with any kit
