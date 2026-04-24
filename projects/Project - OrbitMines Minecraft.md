@@ -112,8 +112,9 @@ Quests
 - 
 Gain experience, specific items etc..
 
-On first join the player is teleported into a freshly generated world for them creative-style, a random location is chosen, the player is teleported there. It has to be a location where there's a big cave, and the biome is randomized, so not sure how taht would work but maybe use /locate to a big cave. Then the player is floating in the air, jsut like when choosing a level, and the options are "Start a new Run", "Join someone else's run" in the same style as the level up, but then those two. Underneath him the world for his new run is already being generated, generating a city-like
+On first join the player is teleported into a freshly generated world for them creative-style, a random location is chosen, the player is teleported there. It has to be a location where there's a big cave, and the biome is randomized, so not sure how taht would work but maybe use /locate to a big cave. Then the player is floating in the air, jsut like when choosing a level, and the options are "Start a new Run", "Join someone else's run" in the same style as the level up, but then those two. Underneath him the world for his new run is already being generated, generating a city-like wall around the premises where the player is allowed to explore pre-map upgrades. Map upgrades- expand this area, and then of course generate the area accordingly.
 
+During the time that there are members online, there are Raids, they show up as raids in the t
 Enemies
 - 
 
