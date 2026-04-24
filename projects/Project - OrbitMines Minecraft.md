@@ -188,6 +188,7 @@ the Coop run should be a two grass blocks side by side.
 You should not be able to start a new choice if you're currently choosing between something. So disable the interactions with those items.
 Place the recipe book in the inventory in the middle. drones on the 3rd slot and the spectate/switch run all the way on the top-right of the inventory unable to move, just like how creative does it with those items.
 Switch run should be in dark green.
+The player is slowly draggerd down after making the choice to start a new run before it can select the difficulty, also the dragging down is really laggy.
 
 
 ---
