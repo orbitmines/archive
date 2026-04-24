@@ -185,8 +185,8 @@ The Codex/recipe book dissappears when y9ou click on it. perhaps that's fixed in
 Join a RUn (Spectator) should be Spectate a RUn.
 The Start a new RUn should be a grass block light creative
 the Coop run should be a two grass blocks side by side.
-
-
+You should not be able to start a new choice if you're currently choosing between something. So disable the interactions with those items.
+Place the recipe bo
 
 
 ---
