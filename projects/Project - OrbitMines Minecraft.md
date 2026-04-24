@@ -14,7 +14,7 @@ loadout
 # FoG / Prison / SkyBlock gamemode
 Ok so this gamemode will combine ideas from Fractals of the Galaxy (FoG), Prison and Skyblock into a single experience. So see `cd @orbitmines/minecraft/archive/code & workspace/arcs/4-2015-2016-split/FoG`, `arcs/5-2016-17-workspace/Prison`, `arcs/5-2016-17-workspace/SkyBlock` & `.orbitmines/repositories/servers/prison` (especially for the blocks-mined counter here).
 
-Take inspiration from the cu
+Take inspiration from the current `@orbitmines/minecraft/remastered` setup for KitPvP for items, custom enchants, Creative for the world loading, and Survival for the usual setup. We'll call the gamemode FoG so
 
 - Duration of play for each run
 
