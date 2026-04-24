@@ -1,12 +1,3 @@
-- Prison gamemode generate worlds with certain features. ? Mathematical way of doing this? Or using /locate things like that.
-- Survival/creative/lobbies claims new events
-- javelin attack speed noticed somewhere
-
-
-- version in glass packets sent? not laggy?
-- Specific chaces to drop some item, as enchant
-
-- 
 
 # FoG / Prison / SkyBlock gamemode
 Ok so this gamemode will combine ideas from Fractals of the Galaxy (FoG), Prison and Skyblock into a single experience. So see `cd @orbitmines/minecraft/archive/code & workspace/arcs/4-2015-2016-split/FoG`, `arcs/5-2016-17-workspace/Prison`, `arcs/5-2016-17-workspace/SkyBlock` & `.orbitmines/repositories/servers/prison` (especially for the blocks-mined counter here).
@@ -121,7 +112,7 @@ Quests
 - 
 Gain experience, specific items etc..
 
-On first join the 
+On first join the player is teleported into a freshly generated world for them creative-style, a random location is chosen, the player is teleported there. It has to be a location wher
 
 Enemies
 - 
@@ -136,6 +127,16 @@ After every level up you can choose between 1 of 3 temporary upgrades/buffs whic
 
 Prestige at Lvl 100
 
+
+---
+
+- Prison gamemode generate worlds with certain features. ? Mathematical way of doing this? Or using /locate things like that.
+- Survival/creative/lobbies claims new events
+- javelin attack speed noticed somewhere
+
+
+- version in glass packets sent? not laggy?
+- Specific chaces to drop some item, as enchant
 
 ---
 
