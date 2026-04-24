@@ -162,7 +162,7 @@ Be sure to ask as many questions as you want at any stage of the process, this i
 
 ---
 
-Also the difficulty selection after hitting start a new run in the same way. (1) place it in com.orbitmines.minecraft.spigot.servers.fog (2) It is the creator/owner, permadeath is per-player so others can still keep playing. Allow people to keep spectating the runs if they wish as gamemode spectator (Alsoa dd an item for that to join other worlds as spectator from a list of online players or a command like /world <PLAYER>)
+Also the difficulty selection after hitting start a new run in the same way. (1) place it in com.orbitmines.minecraft.spigot.servers.fog (2) It is the creator/owner, permadeath is per-player so others can still keep playing. Allow people to keep spectating the runs if they wish as gamemode spectator (Alsoa dd an item for that to join other worlds as spectator from a list of online players or a command like /world [PLAYER], selecting their active run). (3)No do proper cave-scoring I want the base situated above a 
 
 
 ---
