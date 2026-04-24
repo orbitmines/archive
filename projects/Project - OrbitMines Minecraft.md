@@ -14,13 +14,13 @@ loadout
 # FoG / Prison / SkyBlock gamemode
 Ok so this gamemode will combine ideas from Fractals of the Galaxy (FoG), Prison and Skyblock into a single experience. So see `cd @orbitmines/minecraft/archive/code & workspace/arcs/4-2015-2016-split/FoG`, `arcs/5-2016-17-workspace/Prison`, `arcs/5-2016-17-workspace/SkyBlock` & `.orbitmines/repositories/servers/prison` (especially for the blocks-mined counter here).
 
-Take inspiration from the current `@orbitmines/minecraft/remastered` setup for KitPvP for items, custom enchants, Creative for the world loading, and Survival for the usual setup. We'll call the gamemode FoG so create the associated boilerplate for a new server, but under FoG.
+Take inspiration from the current `@orbitmines/minecraft/remastered` setup for KitPvP for items, custom enchants, Creative for the world loading, and Survival for the usual setup. We'll call the gamemode FoG so create the associated boilerplate for a new server, but under FoG. So this is the typical player/model record specific to the gamemode.
 
 It's like a Rogue-like Prison/SkyBlock/DarkOrbit-kind of PvE gamemode. There's a `Run`, which should be a database record, which stored information specific to that run.
 
-What information should be tracked? - Using the achievement system (not necessarily with an achievement attached at first.)
+What information should be tracked?
+- The Player model: `Which`
 - 
-Not using the achievement system.
 - Duration of play for each run
 
 Difficulties
