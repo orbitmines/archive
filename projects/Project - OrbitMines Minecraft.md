@@ -4,9 +4,6 @@
 
 
 - version in glass packets sent? not laggy?
-loadout
-- -drones which do something different near you based on modules
-
 - Specific chaces to drop some item, as enchant
 
 - 
@@ -137,20 +134,10 @@ How does the game work
 Core gameplay
 After every level up you can choose between 1 of 3 temporary upgrades/buffs which will be lost upon dying or prestiging 
 
-Classes
+Prestige at Lvl 100
 
-prestige
-One tries to get to prestige if they prestige they will get a bit of a permanent upgrade depending on which class they used the upgrade will be different but you will have multiple options for each class for example with fisherman the first 10 prestiges you get +1 speed in water after that 0.1+ or you can choose to increase your luck
-If you die you have to start over again of course you still keep the bonuses from the prestiges
 
-V2 of prestige
-Instead of having prestiges simply give the players currency depending on the class they played where they can use those currencies for upgrading stats unlocking new abilities and cosmetics
-
-Add a purchasable option to make the start go faster or skip a few levels
-
-coop/towerdefense 
-Add a coop option where it is more like a tower defense game (can be played solo as well) you have to defend a certain village/building etc. each class has its certain strengths in the way that they can help protect it
-
+---
 
 Raid boss for fun team pve which rewards the players with coins consumables as well as items used to unlock a new kit and items to upgrade a kit each kit requires different items those upgrades can be small for example +2 hearts (1 full heart) 
 How the raid boss works
