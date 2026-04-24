@@ -178,6 +178,8 @@ I want a way to trigger a level-up choice with a command for DEV+ /choice, then 
 The spawn inventory should only be given when a player starts a run; since those items are of no use before starting a run, and shouldnt replace items during a run if the player relogs.
 The blocks broken etc. other stats should be displayed on the tools metadata.
 
+### 4
+It says &amp; in the Mine & Expand selector the &amp; isnt right.
 
 ---
 
