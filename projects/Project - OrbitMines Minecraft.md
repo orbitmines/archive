@@ -35,8 +35,10 @@ What information should be tracked? (each a separate database model)
 		- `member:<UUID>:stats:tool:TOOL_TYPE:blocks_broken`: The number of blocks broken, we also keep track of that separately on the NMS of the tools as well; periodically update the database.
 		- `member:<UUID>:drone:DRONE_ID:[All the same stats fields also used for players]` So an example would be `member:<UUID>:drone:1:tool:TOOL_TYPE:blocks_broken
 
+Each level the player chooses one of three options.
+
 On Death:
-- All Items, enchantments, unlock
+- All Items, enchantments, unlockables are ALL tied to a specific level choice.
 
 Losing progress, disables the selection you had (highlights that you lost it on death and can be regained.) Then you can reselect it on lvl-up or choose something else.
 
