@@ -41,7 +41,7 @@ On Death:
 - All Items, enchantments, unlockables are ALL tied to a specific level choice. When that level is taken away on death, those items enter a stage called: "DAMAGED" all the custom enchantments will say in a strike through and "DAMAGED" in red in front of. If a Map upgrade was unlocked with this level, that area will now be set as off-limits, creating a stainglass red barrier around it.
 	- When a person re-levels up, one of the choices is garanteed to be the choice they previously made on that level. If the person choosse a different one, this unlock is lost. If that was a map upgrade, that map upgrade comes available again in the pool of possible upgrades for other players/members (and themselves too). Still holding the red stained glass barrier. If a person then levels up again, it's the second thing they chose etc..  The choice is highlighted that it was previously made in the hologram selection, more on that later.
 
-Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendary, potentially unique: applicable only once per run for all players.
+Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendary, potentially unique: applicable only once per run for all players. ; All choices are stored under `member:<UUID>:choice:<LEVEL>:<`
 - field `faction`: Choose Faction, Unique
 	- description: Unlocks faction-specific choices: abilities, upgrades, modules.
 	- Omega
@@ -77,6 +77,8 @@ Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendar
 Like the greenbook recipes system, the player should have an item in their inventory for all the things they have seen and unlocked in a specific run, that way they can navigate recipes, see why and how certain mechanics works. (Like the fact that the Drone Factory unlocks and is garanteed at lvl 10) etc..
 
 Shop
+Monetary system is Credits like Survival.
+
 - Buy Keys: Crates
 - Buy Enchantments (very expensive, selective)
 - Buy experience bottles (faster progression)
