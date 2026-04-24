@@ -180,7 +180,9 @@ The blocks broken etc. other stats should be displayed on the tools metadata.
 
 ### 4
 It says &amp; in the Mine & Expand selector the &amp; isnt right. On first join the choices of starting a run is spawned behind the player, it should be in front. The choices should be further from each other; they're too close and overlap. While making a choice the player should be in range from the choices and not be able to move. Just turning their head to make the choice.
-Remove the "Choose in pink" above each of the choices. The choice to join a run as  a spectator should be separate from another Option called Coop: Join an existing Run. Which should open an inventory of players online and should send a request to the given player like the /tphere requests in survival which the player can acce
+Remove the "Choose in pink" above each of the choices. The choice to join a run as  a spectator should be separate from another Option called Coop: Join an existing Run. Which should open an inventory of players online and should send a request to the given player like the /tphere requests in survival which the player can accept, with either the /accept command or by click on the "Click here to accept" just like the tp.
+The Codex/recipe book dissappears when y9ou click on it. perhaps that's fixed in the new interractle items.
+
 
 
 ---
