@@ -11,6 +11,8 @@ loadout
 
 - 
 
+# FoG / Prison / SkyBlock gamemode
+Ok so this gamemode will combine ideas from Fractals of the Galaxy (FoG), Prison and Skyblock into a single experience. So 
 - Duration of play for each run
 
 Difficulties
