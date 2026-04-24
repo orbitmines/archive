@@ -21,7 +21,11 @@ It's like a Rogue-like Prison/SkyBlock/DarkOrbit-kind of PvE gamemode. There's a
 What information should be tracked? (each a separate database model)
 - `The Player model`: Which run is currently active.
 - `Run`: Like creative this generates a world (just an Overworld), that world will be given a name like creative [UUID]_fog_[ID], which we'll put in the OMMap entries, then refer to the world file name of that world in this `Run` entry.
-	- `difficulty`
+	- a field `difficulty`
+		- Normal (Lose max 5 levels on death)
+		- Hard (Lose max 10 levels on death, harder mobs)
+		- Same as hard Hardcore (Hard + Permedeath) ; can still visit the map as a spectator.
+	- 
 - `RunStore`: A key-value store assocaited with a specific run
 	- `Run Members`; all the players who are added to a run; like how creative/survival add players to claims/worlds.
 		- `member:play-time` Duration of play for each run per player in that run, using the same system we currently use to keep track of player online information, but then a hook into it such that we record it per-run per-member.
@@ -29,10 +33,6 @@ What information should be tracked? (each a separate database model)
 		- `stats:member:tool:TOOL_TYPE:blocks_broken`: The number of blocks broken, we also keep track of that separately on the NMS of the tools as well; periodically update the database.
 		- `stats:member:drone:DRONE_ID:[All the same stats fields also used for players]` So an example would be `stats:member:drone:1:tool:TOOL_TYPE:blocks_broken
 
-Difficulties
-- Normal (Lose X levels on death)
-- Hard (Lose X x 2 levels on death, harder mobs)
-- Same as hard Hardcore (full reset on death) ; can still visit the map as a spectator.
 
 Losing progress, disables the selection you had (highlights that you lost it on death and can be regained.) Then you can reselect it on lvl-up or choose something else.
 
