@@ -35,7 +35,7 @@ What information should be tracked? (each a separate database model)
 		- `member:<UUID>:stats:tool:TOOL_TYPE:blocks_broken`: The number of blocks broken, we also keep track of that separately on the NMS of the tools as well; periodically update the database.
 		- `member:<UUID>:drone:DRONE_ID:[All the same stats fields also used for players]` So an example would be `member:<UUID>:drone:1:tool:TOOL_TYPE:blocks_broken
 
-Each level the player chooses one of three options.
+Each level the player chooses one of three options. The player is flaoted up into the world, up into the air through blocks teleported if they're there. Then they see three options in the air, using person
 
 On Death:
 - All Items, enchantments, unlockables are ALL tied to a specific level choice. When that level is taken away on death, those items enter a stage called: "DAMAGED" all the custom enchantments will say in a strike through and "DAMAGED" in red in front of. If a Map upgrade was unlocked with this level, that area will now be set as off-limits, creating a stainglass red barrier around it.
@@ -102,7 +102,7 @@ Drone Repairing
 Removing Modules from Drones
 - Removing modules from drones is costly, but you can do so using ores; depending on what is currently on the drone tells you how much it will cost. It will always have to do with what was put there in the first place, its recipe costs etc.
 
-Add FoG to server selector, in the description is should list Prison/SkyBlock themes.
+Add FoG to server selector, in the description is should list; Galactic Prison Planet, Prison/SkyBlock themes.
 Make sure to translate everything into dutch as well, use the translation files for every message.
 
 Abilities/Enchantments
