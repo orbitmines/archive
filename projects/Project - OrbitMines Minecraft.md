@@ -194,7 +194,9 @@ Drop the .... dot padding in the holograms btw its not working.
 
 ### 5
 Stats should have a per-player date from when the run started and a global when the run started.
-If I dont have an active run I should get that start run choice, and I actually should get the items in the top-right of my inventory to switch a run so that I can escape the spectating of someone else's world without having to relog. The choices should be in an arc around the player so they're in range, not a straight line.
+If I dont have an active run I should get that start run choice, and I actually should get the items in the top-right of my inventory to switch a run so that I can escape the spectating of someone else's world without having to relog. The choices should be in an arc around the player so they're in range, not a straight line. And I'm not being put into the sky when I join.
+
+### 
 
 
 ---
