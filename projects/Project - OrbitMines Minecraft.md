@@ -23,8 +23,8 @@ What information should be tracked? (each a separate database model)
 - `Run`:
 - `RunStore`: A key-value store assocaited with a specific run
 	- `Run Members`; all the players who are added to a run; like how creative/survival add players to claims/worlds.
-		- Duration of play for each run per player in that run, using the same system we currently use to keep track of player online information, but then a hook into it such that we record it per-run per-member.
-	- ``
+		- `member:play-time` Duration of play for each run per player in that run, using the same system we currently use to keep track of player online information, but then a hook into it such that we record it per-run per-member.
+	- `member:too`
 
 Difficulties
 - Normal (Lose X levels on death)
