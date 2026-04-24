@@ -76,7 +76,8 @@ Abilities/Enchantments
 	- Rain arrows from above
 - Axe
 	- Chop down whole tree.
-	- 
+- Homing Arrow launcher
+	- Automatic homing arrow launchers
 
 - Expand region being expand
 
