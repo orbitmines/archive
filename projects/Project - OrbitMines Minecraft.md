@@ -35,7 +35,7 @@ What information should be tracked? (each a separate database model)
 		- `member:<UUID>:stats:tool:TOOL_TYPE:blocks_broken`: The number of blocks broken, we also keep track of that separately on the NMS of the tools as well; periodically update the database.
 		- `member:<UUID>:drone:DRONE_ID:[All the same stats fields also used for players]` So an example would be `member:<UUID>:drone:1:tool:TOOL_TYPE:blocks_broken
 
-Each level the player chooses one of three options. The player is flaoted up into the world, up into the air through blocks teleported if they're there. Then they see three options in the air, using personalized holograms showing them what, the description (on several lines ofc, padded such that it's nicely readable and each line is the same length. Padded with dark gray .), then the name and an appropraite floating item representing the choice. Click on it makes the choice. Then b
+Each level the player chooses one of three options. The player is flaoted up into the world, up into the air through blocks teleported if they're there. Then they see three options in the air, using personalized holograms showing them what, the description (on several lines ofc, padded such that it's nicely readable and each line is the same length. Padded with dark gray .), then the name and an appropraite floating item representing the choice. Click on it makes the choice. Then brings the player slowly back down.
 
 On Death:
 - All Items, enchantments, unlockables are ALL tied to a specific level choice. When that level is taken away on death, those items enter a stage called: "DAMAGED" all the custom enchantments will say in a strike through and "DAMAGED" in red in front of. If a Map upgrade was unlocked with this level, that area will now be set as off-limits, creating a stainglass red barrier around it.
@@ -124,6 +124,8 @@ Quests
 - 
 Gain experience, specific items etc..
 
+On first join the 
+
 Enemies
 - 
 
@@ -136,12 +138,6 @@ Core gameplay
 After every level up you can choose between 1 of 3 temporary upgrades/buffs which will be lost upon dying or prestiging 
 
 Classes
-Miner mines in caves explore them loot chest and fight mobs 
-Fisherman explores underwater lost cities like atlantis fights mobs but can also be fighting fishes in the sea without going in the lost cities
-Lumberjack cuts down trees in the forests can find cabins in the wood to explore can build bridges to unlock new areas 
-Farmer explores small villages open fields and gardens can summon animals to help him as well as buff the summons
-
-Each class has a safe way of playing with no mobs but the rewards from there are very low for example with fishing instead of using the harpoon/trident to kill monsters under the water you can use your fishing rod in a safe area to get some stuff
 
 prestige
 One tries to get to prestige if they prestige they will get a bit of a permanent upgrade depending on which class they used the upgrade will be different but you will have multiple options for each class for example with fisherman the first 10 prestiges you get +1 speed in water after that 0.1+ or you can choose to increase your luck
