@@ -52,6 +52,8 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - Unlock Questlines
 - Backpack; Better bundles
 
+- Empower weapons with 
+
 Shop
 - Buy Keys: Crates
 - Buy Enchantments (very expensive, selective)
