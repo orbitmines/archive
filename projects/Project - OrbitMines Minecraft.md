@@ -179,7 +179,8 @@ The spawn inventory should only be given when a player starts a run; since those
 The blocks broken etc. other stats should be displayed on the tools metadata.
 
 ### 4
-It says &amp; in the Mine & Expand selector the &amp; isnt right.
+It says &amp; in the Mine & Expand selector the &amp; isnt right. On first join the choices of starting a run is spawned behind the player, it should be in front. The choices should be further from each other; they're too close and overlap.
+
 
 ---
 
