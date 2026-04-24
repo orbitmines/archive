@@ -39,9 +39,7 @@ Each level the player chooses one of three options.
 
 On Death:
 - All Items, enchantments, unlockables are ALL tied to a specific level choice. When that level is taken away on death, those items enter a stage called: "DAMAGED" all the custom enchantments will say in a strike through and "DAMAGED" in red in front of. If a Map upgrade was unlocked with this level, that area will now be set as off-limits, creating a stainglass red barrier around it.
-	- When a person re-levels up, one of the choices is garanteed to be the choice they previously made on that level. If the person choosse a different one, this unlock is lost. If that was a map upgrade, that map upgrade comes available again in the pool of possible upgrades for other players/members (and themselves too). Still holding the red stained glass barrier. If a person then levels uyp again, it's the second thing they chose. This  
-
-Losing progress, disables the selection you had (highlights that you lost it on death and can be regained.) Then you can reselect it on lvl-up or choose something else.
+	- When a person re-levels up, one of the choices is garanteed to be the choice they previously made on that level. If the person choosse a different one, this unlock is lost. If that was a map upgrade, that map upgrade comes available again in the pool of possible upgrades for other players/members (and themselves too). Still holding the red stained glass barrier. If a person then levels up again, it's the second thing they chose etc..  The choice is highlighted that it was previously made in the hologram selection, more on that later.
 
 Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - Choose Faction
