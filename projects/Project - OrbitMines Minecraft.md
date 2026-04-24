@@ -21,8 +21,8 @@ It's like a Rogue-like Prison/SkyBlock/DarkOrbit-kind of PvE gamemode. There's a
 What information should be tracked? (each a separate database model)
 - `The Player model`: Which run is currently active.
 - `Run`:
-	- `Run Members`; all the players who are added to a run; like how creative 
-- 
+	- `Run Members`; all the players who are added to a run; like how creative/survival add players to claims/worlds.
+- `Run-KV`
 - Duration of play for each run
 
 Difficulties
