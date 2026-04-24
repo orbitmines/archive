@@ -53,7 +53,7 @@ Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendar
 - [LEGENDARY] Map Expansion (selection of; go into spectate mode to select one.)
 - [EPIC] New Structures/Compartiments (When generated they are in decayed form, spawning a dungeon of mobs until claimed); they need to be captured.
 	- Farm areas
-	- Unlock 4-hourly Crate [stackable up to 5]
+	- [LEGENDARY] Unlock 4-hourly Crate [stackable up to 5]
 	- Enchanting Area; Unlocks custom enchantments
 	- [Garanteed at lvl 10, and random afterwards if not unlocked] Unique Drone Factory
 - [RARE] Botany X + 1: Increased Tree/Crop growth ; can be increased 
@@ -87,7 +87,7 @@ Monetary system is Credits like Survival.
 - Remove enchantment from tool.
 
 Crates
-- Get level-up triggers from crates with different percentages towards 
+- Get level-up triggers from crates with different percentages towards the rarities. Different crates have different rate drops.
 
 Drone Modules
 - Collect Module
@@ -96,6 +96,7 @@ Drone Modules
 - Combat Module
 - Shield Module
 - Inspire Module (more attack if they're nearby)
+- -> Like I said everything that can be put on a player can be put on a drone and then has an effect. Certain 
 Drone Repairing
 - Based on the types of modules used on the drone different ores are required to repair a drone if damaged.
 Removing Modules from Drones
