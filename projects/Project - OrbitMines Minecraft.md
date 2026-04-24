@@ -20,7 +20,7 @@ It's like a Rogue-like Prison/SkyBlock/DarkOrbit-kind of PvE gamemode. There's a
 
 What information should be tracked? (each a separate database model)
 - `The Player model`: Which run is currently active.
-- `Run`:
+- `Run`: Like creative this generates a world (just an Overworld), taht world will be given a name like creative
 - `RunStore`: A key-value store assocaited with a specific run
 	- `Run Members`; all the players who are added to a run; like how creative/survival add players to claims/worlds.
 		- `member:play-time` Duration of play for each run per player in that run, using the same system we currently use to keep track of player online information, but then a hook into it such that we record it per-run per-member.
