@@ -173,7 +173,7 @@ RunSelectionGUI shouldnt be a GUI, but rather a selector like the choice, with h
 
 ### 3
 Honey should've been Bee hives with smoke under them and spawned bees near each of them, and flowers around them. Not honey blocks.
-
+Also we already have a way to make interractable items c
 
 
 ---
