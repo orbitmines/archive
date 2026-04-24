@@ -160,6 +160,12 @@ For the generated parts of the maps, just generate nice placeholders ideas for n
 
 Be sure to ask as many questions as you want at any stage of the process, this is a big project, so let's get a proof of concept working. Feel free to take some liberties to add some ideas here and there.
 
+---
+
+
+
+
+---
 
 /
 Rogue like game thing
