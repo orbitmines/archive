@@ -51,9 +51,9 @@ Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendar
 - (after lvl 10) [EPIC] Get Drone (max 9) Allays which are equipable and can do stuff for you.
 	- All tools, enchantments buffs, everything which is applicable to a player, can also be applicable to an Allay. They swarm around you when idle, and when activated (this is togglable item in the hotbar) they do whatever they have equipped. If they have a Skill equipped, they do that skill. For instance if there's a tree nearby and they're a lumberjack, they'll have the axe in their hand and chop down nearby trees. They have a sphere of influence for status effects which affect all players. They have a health bar and can get damaged. The player should be able to repair them in the Drone Factory.
 - [LEGENDARY] Map Expansion (selection of; go into spectate mode to select one.)
-- [EPIC] New Structures/Compartiments (When generated they are in decayed form, spawning )
+- [EPIC] New Structures/Compartiments (When generated they are in decayed form, spawning a dungeon of mobs until claimed); they need to be captured.
 	- Farm areas
-	- Unlock Daily Crate
+	- Unlock Daily Crate 
 	- Enchanting Area; Unlocks custom enchantments
 	- [Garanteed at lvl 10, and random afterwards if not unlocked] Unique Drone Factory
 - Tree Regeneration
