@@ -12,7 +12,7 @@ loadout
 - 
 
 # FoG / Prison / SkyBlock gamemode
-Ok so this gamemode will combine ideas from Fractals of the Galaxy (FoG), Prison and Skyblock into a single experience. So 
+Ok so this gamemode will combine ideas from Fractals of the Galaxy (FoG), Prison and Skyblock into a single experience. So see `cd @orbitmines/minecraft/archive/code & workspace/arcs` then `4-2015-2016`
 - Duration of play for each run
 
 Difficulties
