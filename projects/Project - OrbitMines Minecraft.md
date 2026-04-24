@@ -102,6 +102,8 @@ Drone Repairing
 Removing Modules from Drones
 - Removing modules from drones is costly, but you can do so using ores; depending on what is currently on the drone tells you how much it will cost. It will always have to do with what was put there in the first place, its recipe costs etc.
 
+Add FoG to server selector, in the description is should list Prison/SkyBlock themes.
+Make sure to translate everything into dutch as well, use the translation files for every message.
 
 Abilities/Enchantments
 - Scale by the number of skills you've unlocked. ?
@@ -125,9 +127,6 @@ Gain experience, specific items etc..
 Enemies
 - 
 
-- Count blocks broken, per drone per player.
-
-Galactic Prison Planet
 
 /
 Rogue like game thing
