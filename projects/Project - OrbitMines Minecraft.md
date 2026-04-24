@@ -42,7 +42,7 @@ On Death:
 	- When a person re-levels up, one of the choices is garanteed to be the choice they previously made on that level. If the person choosse a different one, this unlock is lost. If that was a map upgrade, that map upgrade comes available again in the pool of possible upgrades for other players/members (and themselves too). Still holding the red stained glass barrier. If a person then levels up again, it's the second thing they chose etc..  The choice is highlighted that it was previously made in the hologram selection, more on that later.
 
 Levels (choose one out 3 each time.)  Common/Rare/Epic/Legendary, potentially unique: applicable only once per run for all players.
-- field `faction`: Choose Faction, ONLY ONCE PER RUN for ALL players.
+- field `faction`: Choose Faction, Unique
 	- description: Unlocks faction-specific choices: abilities, upgrades, modules.
 	- Omega
 	- Alpha
@@ -56,7 +56,7 @@ Levels (choose one out 3 each time.)  Common/Rare/Epic/Legendary, potentially un
 	- Farm areas
 	- Unlock Daily Crate
 	- Enchanting Area
-	- [Garanteed at lvl 10, and random afterwards if not unlocked] Drone Factory
+	- [Garanteed at lvl 10, and random afterwards if not unlocked] Unique Drone Factory
 - Tree Regeneration
 - Botany X: Increased Tree/Crop growth
 - Unlock Skill (decreases effect of other traits. the more traits you have.)
@@ -75,6 +75,8 @@ Levels (choose one out 3 each time.)  Common/Rare/Epic/Legendary, potentially un
 - Backpack; Better bundles
 
 - Empower weapons with ores for some duration.
+
+Like the greenbook recipes system, the player should have an item in their inventory for all the things they have seen and unlocked in a specific run, that way they can navigate recipes, see why and how certain mechanics works. (Like the fact that the Drone Factory un)
 
 Shop
 - Buy Keys: Crates
