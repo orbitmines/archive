@@ -48,7 +48,8 @@ Levels (choose one out 3 each time.)  Common/Rare/Epic/Legendary
 	- Alpha
 	- Beta
 - `member:<UUID>:extra_hp` + 4 Hearts Base HP
-- (after lvl 10) [EPIC] Get Drone (max 9) Allays which are equ
+- (after lvl 10) [EPIC] Get Drone (max 9) Allays which are equipable and can do stuff for you.
+	- All tools, enchantments buffs, everything which is applicable to a player, can also be applicable to an Allay. They swarm around you when idle, and when activated (this is an item in the hotbar)
 - [LEGENDARY] Map Expansion (selection of; go into spectate mode to select one.)
 - [EPIC] New Structures/Compartiments
 	- Dungeons to unlock them when building; they need to be captured.
