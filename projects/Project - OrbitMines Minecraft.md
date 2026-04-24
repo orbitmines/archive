@@ -124,7 +124,41 @@ During the time that there are members online, there are Raids, they show up as 
 
 Mobs have a sphere of influence, based on nearby players their difficulty goes up/down. Lower-level players increase the mobs difficulty less than higher-level players.
 Enemies
-- 
+
+**
+
+Fire undead mage throws fire balls 4 sec cd at you from a distance that do aoe dmg and leave a lingering fire on the slowing field (goes away once the slowing field is gone as well). While walking it leaves behind a fire trail that lingers for 10 seconds. Explodes on death
+
+Debuff undead mage who throws a lingering slow field for 30 seconds and can recast it every 20 seconds (so eventually everything could be slowed) throws a withering skull towards you if it hits get the withering effect for 1 seconds 5 sec cd. 
+
+Zombies if a zombie attacks you you have a chance to get the hunger debuff if your food bar is completely empty you can't run for a couple of seconds before it recharges.
+
+  
+  
+
+Bull charges at you knocking you up in the air if it hits you
+
+Bee flies towards you and tries to sting you. The sting has a chance of poisoning you for 2 seconds
+
+  
+  
+
+Undead knight (first boss)
+
+every 30 seconds summons a random undead mage
+
+Every 15 seconds he will summon 2 zombies if below 75% its 3 below 50% 4 and below 25% 5 (please note that the zombies can not be hit by any attacks or abilities from other enemies like the undead mages or the undead knight)
+
+Every 10 seconds pulls all enemies in front of him towards him make the area shown where he is going to attack so that if youre fast enough you can dodge this
+
+Uses melee attacks 
+
+If he is below 50% hp he will randomly charge towards someone knocking them up into the air
+
+Once he is below 25% hp he will do so again and continue to do so every 15 seconds
+
+**
+
 
 
 Be sure to ask as many questions as you want at any stage of the process, this is a big project, so let's get a proof of concept working. Feel free to take some liberties to add some ideas here and there.
