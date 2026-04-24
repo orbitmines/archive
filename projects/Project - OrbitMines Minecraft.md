@@ -49,7 +49,7 @@ Levels (choose one out 3 each time.)  Common/Rare/Epic/Legendary, potentially un
 	- Beta
 - `member:<UUID>:extra_hp` + 4 Hearts Base HP
 - (after lvl 10) [EPIC] Get Drone (max 9) Allays which are equipable and can do stuff for you.
-	- All tools, enchantments buffs, everything which is applicable to a player, can also be applicable to an Allay. They swarm around you when idle, and when activated (this is togglable item in the hotbar) they do whatever they have equipped. If they have a Skill equipped, they do that skill. For instance if there's a tree nearby and they're a lumberjack, they'll have the axe in their hand and chop down nearby trees. They have a sphere of influence for status effects which affect all players. They have a health bar and can get damaged. The player should be able to repair them 
+	- All tools, enchantments buffs, everything which is applicable to a player, can also be applicable to an Allay. They swarm around you when idle, and when activated (this is togglable item in the hotbar) they do whatever they have equipped. If they have a Skill equipped, they do that skill. For instance if there's a tree nearby and they're a lumberjack, they'll have the axe in their hand and chop down nearby trees. They have a sphere of influence for status effects which affect all players. They have a health bar and can get damaged. The player should be able to repair them in the Drone Factory.
 - [LEGENDARY] Map Expansion (selection of; go into spectate mode to select one.)
 - [EPIC] New Structures/Compartiments
 	- Dungeons to unlock them when building; they need to be captured.
@@ -76,7 +76,7 @@ Levels (choose one out 3 each time.)  Common/Rare/Epic/Legendary, potentially un
 
 - Empower weapons with ores for some duration.
 
-Like the greenbook recipes system, the player should have an item in their inventory for all the things they have seen and unlocked in a specific run, that way they can navigate recipes, see why and how certain mechanics works. (Like the fact that the Drone Factory un)
+Like the greenbook recipes system, the player should have an item in their inventory for all the things they have seen and unlocked in a specific run, that way they can navigate recipes, see why and how certain mechanics works. (Like the fact that the Drone Factory unlocks and is garanteed at lvl 10) etc..
 
 Shop
 - Buy Keys: Crates
@@ -96,7 +96,8 @@ Drone Modules
 - Combat Module
 - Shield Module
 - Inspire Module (more attack if they're nearby)
-- 
+Drone Repairing
+- Based on the types of modules used on the drone different ores a
 
 
 Abilities/Enchantments
