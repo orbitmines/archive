@@ -198,6 +198,8 @@ If I dont have an active run I should get that start run choice, and I actually 
 
 ### 6
 While not in a run: You should be immune to dying, food change, damage.
+The choice needs to be further apart and closer to the player needs to be in range of players reach. Join an existing should be renamed to Join a Coop.    
+  And for that new run choice drop the descriptions. And it needs to be a little more down as well. For Coop use  
 
 
 ---
