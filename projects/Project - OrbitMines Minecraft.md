@@ -29,11 +29,14 @@ What information should be tracked? (each a separate database model)
 - `RunStore`: A key-value store assocaited with a specific run
 	- `member:<UUID>`; all the players who are added to a run; like how creative/survival add players to claims/worlds.
 		- `member:<UUID>:play-time` Duration of play for each run per player in that run, using the same system we currently use to keep track of player online information, but then a hook into it such that we record it per-run per-member.
-		- `member:<UUID>:level`
+		- `member:<UUID>:level`: The level the member is currently at
+		- `member:<UUID>:experience`: The experience they've currently gained for the current level.
 	- There needs to be a modular class used for both Drones & Players which keeps track of all the stats and whether something else we'll yet define applies to them.
 		- `member:<UUID>:stats:tool:TOOL_TYPE:blocks_broken`: The number of blocks broken, we also keep track of that separately on the NMS of the tools as well; periodically update the database.
 		- `member:<UUID>:drone:DRONE_ID:[All the same stats fields also used for players]` So an example would be `member:<UUID>:drone:1:tool:TOOL_TYPE:blocks_broken
 
+On Death:
+- All Items, enchantments, unlock
 
 Losing progress, disables the selection you had (highlights that you lost it on death and can be regained.) Then you can reselect it on lvl-up or choose something else.
 
