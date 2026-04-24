@@ -52,7 +52,7 @@ Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
 - Unlock Questlines
 - Backpack; Better bundles
 
-- Empower weapons with 
+- Empower weapons with ores for some duration.
 
 Shop
 - Buy Keys: Crates
