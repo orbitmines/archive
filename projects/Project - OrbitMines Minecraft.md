@@ -49,13 +49,14 @@ Levels (choose one out 3 each time.)  Common/Rare/Epic/Legendary
 	- Beta
 - `member:<UUID>:extra_hp` + 4 Hearts Base HP
 - (after lvl 10) [EPIC] Get Drone (max 9) Allays which are equipable and can do stuff for you.
-	- All tools, enchantments buffs, everything which is applicable to a player, can also be applicable to an Allay. They swarm around you when idle, and when activated (this is togglable item in the hotbar) they do whatever they have equipped. If they have a Skill equipped, they do that skill. For instance if there's a tree nearby and they're a lumberjack, they'll have the axe in their hand and 
+	- All tools, enchantments buffs, everything which is applicable to a player, can also be applicable to an Allay. They swarm around you when idle, and when activated (this is togglable item in the hotbar) they do whatever they have equipped. If they have a Skill equipped, they do that skill. For instance if there's a tree nearby and they're a lumberjack, they'll have the axe in their hand and chop down nearby trees. They have a sphere of influence for status effects which affect all players. They have a health bar and can get damaged. The player should be able to repair them 
 - [LEGENDARY] Map Expansion (selection of; go into spectate mode to select one.)
 - [EPIC] New Structures/Compartiments
 	- Dungeons to unlock them when building; they need to be captured.
 	- Farm areas
 	- Unlock Daily Crate
 	- Enchanting Area
+	- Drone Factory
 - Tree Regeneration
 - Botany X: Increased Tree/Crop growth
 - Unlock Skill (decreases effect of other traits. the more traits you have.)
