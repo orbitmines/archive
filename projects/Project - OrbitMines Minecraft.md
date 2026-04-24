@@ -96,7 +96,7 @@ Drone Modules
 - Combat Module
 - Shield Module
 - Inspire Module (more attack if they're nearby)
-- -> Like I said everything that can be put on a player can be put on a drone and then has an effect. Certain 
+- -> Like I said everything that can be put on a player can be put on a drone and then has an effect. Certain things can only be put on drones.
 Drone Repairing
 - Based on the types of modules used on the drone different ores are required to repair a drone if damaged.
 Removing Modules from Drones
@@ -108,6 +108,7 @@ Abilities/Enchantments
 - Combat
 	- Absorption; Shield Generator only regens out of comabt, but regens fast.
 	- Rain arrows from above
+	- Shield: 
 - Axe
 	- Chop down whole tree.
 - Homing Arrow launcher
