@@ -27,7 +27,7 @@ What information should be tracked? (each a separate database model)
 		- Same as hard Hardcore (Hard + Permedeath) ; can still visit the map as a spectator.
 	- 
 - `RunStore`: A key-value store assocaited with a specific run
-	- `Run Members`; all the players who are added to a run; like how creative/survival add players to claims/worlds.
+	- `member:<UUID>`; all the players who are added to a run; like how creative/survival add players to claims/worlds.
 		- `member:play-time` Duration of play for each run per player in that run, using the same system we currently use to keep track of player online information, but then a hook into it such that we record it per-run per-member.
 	- There needs to be a modular class used for both Drones & Players which keeps track of all the stats and whether something else we'll yet define applies to them.
 		- `stats:member:tool:TOOL_TYPE:blocks_broken`: The number of blocks broken, we also keep track of that separately on the NMS of the tools as well; periodically update the database.
