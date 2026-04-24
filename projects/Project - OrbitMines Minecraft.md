@@ -127,6 +127,11 @@ Each person gets rewards if they contribute at least a certain amount and if the
 There are multiple phases of the riad boss so it will do different moves depending on the hp threshold 
 Monthly/weekly rotation of the raid bosses which give different rewards to keep the playbase from having reasons to check back
 
+---
+Survival
+- Lobby eating should be allowed.
+- 
+
 --- 
 Kitpvp
 
