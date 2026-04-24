@@ -168,7 +168,7 @@ Also the difficulty selection after hitting start a new run in the same way. (1)
 ### 2
 I see description in Choice.java is in english only, like I said every message should use the translation files, and then the dutch translations should be added as well. So revert to using that. where else was this placed improperly? Only make use of the resources for text.
 There's no need for the SPAWN X/Y/Z just set the world setSpawnLocation and save it.
-Create a bunge of helper methods for all the store acce
+Create a bunge of helper methods for all the store accesss like levels etc.. that way we separate the logic from how it's stored.
 
 
 ---
