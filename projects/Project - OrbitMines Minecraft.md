@@ -42,11 +42,10 @@ On Death:
 	- When a person re-levels up, one of the choices is garanteed to be the choice they previously made on that level. If the person choosse a different one, this unlock is lost. If that was a map upgrade, that map upgrade comes available again in the pool of possible upgrades for other players/members (and themselves too). Still holding the red stained glass barrier. If a person then levels up again, it's the second thing they chose etc..  The choice is highlighted that it was previously made in the hologram selection, more on that later.
 
 Levels (choose one out 3 each time.)  Common/Uncommon/Rare/Epic/Legendary
-- Choose Faction
-	- (Unlocks faction-specific choices: new abilities, suits, modules.)
+- field `faction`: Choose Faction, ONLY ONCE PER RUN for ALL players.
+	- description: Unlocks faction-specific choices: abilities, upgrades, modules.
 	- Omega
 	- Alpha
-		- Botany
 	- Beta
 - Base HP
 - (after X) Get Drone (max 9) Allays
