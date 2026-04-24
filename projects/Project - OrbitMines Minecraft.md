@@ -162,7 +162,7 @@ Be sure to ask as many questions as you want at any stage of the process, this i
 
 ---
 
-
+Also the difficulty selection after hitting start a new run in the same way. (1) place it in com.orbitmines.minecraft.spigot.servers.fog (2) 
 
 
 ---
