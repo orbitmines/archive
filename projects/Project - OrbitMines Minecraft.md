@@ -63,12 +63,13 @@ Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendar
 - Unlock Ores
 	- (Usual Ores too) Copper, Cobalt, Strontium, Amethyst, Uranium, Iridium, Francium, ...
 - Unlock Trees
-- Unlock Honey
+- Unlock Honey; randomly scattered around trees, (which will then become unbreakable); the drones dont target these trees anymore.
 - Unlock Recipes
 	- Craft Suits from Ores.
 	- Pickaxe upgrade, by crafting with the existing pickaxe.
 - Unlock Items
 - Unlock Questlines
+	- Generate like 
 - Backpack; Better bundles
 
 - Empower weapons with ores for some duration.
