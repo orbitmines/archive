@@ -53,11 +53,11 @@ Levels (choose one out 3 each time.)  50% Common/ 30% Rare/15% Epic/ 5% Legendar
 - [LEGENDARY] Map Expansion (selection of; go into spectate mode to select one.)
 - [EPIC] New Structures/Compartiments (When generated they are in decayed form, spawning a dungeon of mobs until claimed); they need to be captured.
 	- Farm areas
-	- Unlock Daily Crate 
+	- Unlock 4-hourly Crate [stackable up to 5]
 	- Enchanting Area; Unlocks custom enchantments
 	- [Garanteed at lvl 10, and random afterwards if not unlocked] Unique Drone Factory
-- Tree Regeneration
-- Botany X: Increased Tree/Crop growth
+- [RARE] Tree Regeneration
+- [RARE] Botany X + 1: Increased Tree/Crop growth
 - Unlock Skill (decreases effect of other traits. the more traits you have.)
 	- Lumberjack
 	- Fishing
