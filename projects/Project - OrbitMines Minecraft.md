@@ -109,14 +109,14 @@ Abilities/Enchantments
 Quests
 - Collect X
 - Defeat X
-- 
+- What else?
 Gain experience, specific items etc..
 
 On first join the player is teleported into a freshly generated world for them creative-style, a random location is chosen, the player is teleported there. It has to be a location where there's a big cave, and the biome is randomized, so not sure how taht would work but maybe use /locate to a big cave. Then the player is floating in the air, jsut like when choosing a level, and the options are "Start a new Run", "Join someone else's run" in the same style as the level up, but then those two. Underneath him the world for his new run is already being generated, generating a city-like wall around the premises where the player is allowed to explore pre-map upgrades. Map upgrades- expand this area, and then of course generate the area accordingly. You also gain an item in your hotbar whenever you to change to a different run. Your inventory and everything should be stored in the store with serialized nms and everything so that when you switch to a different run you get all your items back properly and in the right place.
 
 When you start a new run, you're instantly confronted with a Lvl 0 challenge choice. You can pick the one of three.
 
-Your level should just like KitPvP be shared in the chat and reflected in the experience bar. No other experience can be allowed to change this experience, but ofc we keep track of the experience separately to
+Your level should just like KitPvP be shared in the chat and reflected in the experience bar. No other experience can be allowed to change this experience, but ofc we keep track of the experience separately too.
 
 You cannot drop the custom items.
 
@@ -125,6 +125,9 @@ During the time that there are members online, there are Raids, they show up as 
 Mobs have a sphere of influence, based on nearby players their difficulty goes up/down. Lower-level players increase the mobs difficulty less than higher-level players.
 Enemies
 - 
+
+
+Be sure to ask as many questions as you want at any stage of the process, this is a big project, so let's get a proof of concept working. Feel free to take some liberties to add some ideas here and there.
 
 
 /
