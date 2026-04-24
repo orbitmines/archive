@@ -18,8 +18,10 @@ Take inspiration from the current `@orbitmines/minecraft/remastered` setup for K
 
 It's like a Rogue-like Prison/SkyBlock/DarkOrbit-kind of PvE gamemode. There's a `Run`, which should be a database record, which stored information specific to that run.
 
-What information should be tracked?
-- The Player model: `Which`
+What information should be tracked? (each a separate database model)
+- `The Player model`: Which run is currently active.
+- `Run`:
+	- `Run Members`; all the players who are added to a run; like how creative 
 - 
 - Duration of play for each run
 
