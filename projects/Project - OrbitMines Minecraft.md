@@ -192,6 +192,10 @@ The player is slowly draggerd down after making the choice to start a new run be
 The dragging down shouldnt happen after preparing after clicking difficulty either. And the dragging down moves you inside blocks to suffocate if you're not high enough that shouldnt happen. Never drag down exactly, just let the player drop to the ground when he doesnt need to make another choice. Making another choice should keep the player in place, not tp him again.
 Drop the .... dot padding in the holograms btw its not working.
 
+### 5
+Stats should have a per-player date from when the run started and a global when the run started.
+
+
 
 ---
 
