@@ -99,7 +99,7 @@ Drone Modules
 Drone Repairing
 - Based on the types of modules used on the drone different ores are required to repair a drone if damaged.
 Removing Modules from Drones
-- Removing modules from drones is costly, but you can do so using ores; depending on what was used for the 
+- Removing modules from drones is costly, but you can do so using ores; depending on what is currently on the drone tells you how much it will cost. It will always have to do with what was put there in the first place, its recipe costs etc.
 
 
 Abilities/Enchantments
