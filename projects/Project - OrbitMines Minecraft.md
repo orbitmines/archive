@@ -116,7 +116,9 @@ On first join the player is teleported into a freshly generated world for them c
 
 You cannot drop the custom items.
 
-During the time that there are members online, there are Raids, they show up as raids in the top bar as well, using like the number of stuff still required to kill as the progressive healthbar. They change/increase in difficulty depending on the level.
+During the time that there are members online, there are Raids, they show up as raids in the top bar as well, using like the number of stuff still required to kill as the progressive healthbar. They change/increase in difficulty depending on the level. The amount of players online and their level respectively goes into this calculation.
+
+Mobs have a sphere of influence, based on nearby players their difficulty goes up/down. Lower-level players increase the mobs difficulty less than higher-level players.
 Enemies
 - 
 
