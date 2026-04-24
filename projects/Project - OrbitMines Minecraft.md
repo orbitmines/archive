@@ -68,6 +68,8 @@ Drone Modules
 - Skill Module
 - Enchantment Module
 - Combat Module
+- Shield Module
+- Inspire Module (more attack if they're nearby)
 - 
 
 
