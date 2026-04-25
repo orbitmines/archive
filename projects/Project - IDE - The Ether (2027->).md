@@ -84,7 +84,7 @@ all the forward references
 
 ---
 
-Create virtual filesystems into the ether database.
+Create virtual filesystems into the ether
 
 ---
 
