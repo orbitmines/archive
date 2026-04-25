@@ -81,7 +81,10 @@ Building, just from the perspective of some directory; it resolves everything in
 all the forward references     
   which will have to be resolved. So a loading of a particular file might  
   also send diagnostics of other effected files. 
-  
+
+---
+
+Create virtual filesystems into the ether database.
 
 ---
 
