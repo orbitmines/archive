@@ -76,7 +76,7 @@ Actually Running
 
 ---
 
-Building, just from the perspective of some directory; it resolves everything inside it. Force entrypoints to be flagged.
+Building, just from the perspective of some directory; it resolves everything inside it. 
 
 
 ---
