@@ -74,6 +74,10 @@ Abstract Interpretation
 Actually Running
 - Store objects in cache, but which ones do we use for then providing the value? Might not be constant.
 
+---
+
+Building, just from the perspective of some directory; it resolves everything inside it. Force entrypoints to be flagged.
+
 
 ---
 
