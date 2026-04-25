@@ -78,6 +78,10 @@ Actually Running
 
 Building, just from the perspective of some directory; it resolves everything inside it. If there are duplicate identifiers used by the classes, it should resolve to the closest one in directory form? TAnd ofc select the other ones by hand by a tool to disambiguate. -> add VS code functionality.  
 
+all the forward references     
+  which will have to be resolved. So a loading of a particular file might  
+  also send diagnostics of other effected files. 
+  
 
 ---
 
