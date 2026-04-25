@@ -76,7 +76,7 @@ Actually Running
 
 ---
 
-Building, just from the perspective of some directory; it resolves everything inside it. 
+Building, just from the perspective of some directory; it resolves everything inside it. If there are duplicate identifiers used by the classes, it should resolve to the closest one in directory form? TAnd ofc select the other ones by hand by a tool to disambiguate. -> add VS code functonality.  
 
 
 ---
