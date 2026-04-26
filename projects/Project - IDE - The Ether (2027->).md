@@ -93,7 +93,7 @@ Mixed RTL/LTR syntax
 
 ---
 
-error[X] where X is the version the error type got introduced.
+error[X] where X is the version the error type got introduced. + a number
 
 ---
 
