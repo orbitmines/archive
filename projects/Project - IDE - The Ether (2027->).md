@@ -84,6 +84,11 @@ all the forward references
 
 ---
 
+`var: class`
+`var: class & String`
+
+---
+
 Create virtual filesystems into the ether
 
 ---
