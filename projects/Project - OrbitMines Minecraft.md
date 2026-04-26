@@ -236,6 +236,11 @@ There are multiple phases of the riad boss so it will do different moves dependi
 Monthly/weekly rotation of the raid bosses which give different rewards to keep the playbase from having reasons to check back
 
 ---
+Bungeecord
+- server restarter
+- cant talk in own discord squad
+
+---
 Survival
 - Lobby eating should be allowed.
 - item frames can be destroyed in the spawn area? InteractAt not cancelled?
