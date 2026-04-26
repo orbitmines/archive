@@ -93,6 +93,10 @@ Mixed RTL/LTR syntax
 
 ---
 
+error[X] where X is the version the error type got introduced.
+
+---
+
 Create virtual filesystems into the ether
 
 ---
