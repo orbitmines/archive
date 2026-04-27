@@ -93,6 +93,10 @@ Mixed RTL/LTR syntax
 
 ---
 
+tests for syntax, which alter the existing external methods etc..
+
+---
+
 error[X] where X is the version the error type got introduced. + a number
 
 ---
