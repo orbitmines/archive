@@ -100,6 +100,10 @@ Versioning: My current thinking is that even though SemVer is widely adopted, th
 
 ---
 
+Event system in which you (the user) can inject events into other's code.
+
+---
+
 Hot reloading abstract & production code, introduce migrations at every level of the stack; how does this look in the editor. Test properly? What happens inside loops, are they broken, what else is done differently etc..
 
 Not a single file only dependencise:
