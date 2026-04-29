@@ -107,7 +107,7 @@ Variants on the same idea:
   until you give it back (Rust's &mut)                                          
   - Quantitative — the type says "0, 1, or many uses" (Idris 2's QTT)
 
-dynamically assert the number of references to a variable basically.
+dynamically assert the number of references to a variable basically. Similarly other memory-related things.
 
 ---
 
