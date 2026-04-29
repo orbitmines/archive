@@ -100,6 +100,17 @@ Same shape as
 
 ---
 
+Variants on the same idea:                                                    
+  - Linear — must be used exactly once (Linear Haskell, Granule)                
+  - Affine — must be used at most once (Rust by default for non-Copy types)     
+  - Borrow — temporarily unique within a scope, original ref can't be touched
+  until you give it back (Rust's &mut)                                          
+  - Quantitative — the type says "0, 1, or many uses" (Idris 2's QTT)
+
+dynamically
+
+---
+
 Version control Hybrid logical clocks /CRDTs
 
 ---
