@@ -96,7 +96,7 @@ Generate under/above a function, applicable to these versions etc.. ; migrations
 
 ---
 
-Versioning: My current thinking is that even though SemVer is widely adopted, the meaning of what is a major/minor/patch is a bit diluted. This is probably because there are multiple levels of arbitrariness to the version number. So approach is rather simple; reduce this to just a single point of arbitrariness the major version, wh 
+Versioning: My current thinking is that even though SemVer is widely adopted, the meaning of what is a major/minor/patch is a bit diluted. This is probably because there are multiple levels of arbitrariness to the version number. So approach is rather simple; reduce this to just a single point of arbitrariness the major version, which is increased after a simple question is answered, is there a breaking change? With the exception of the version number 0;  
 
 ---
 
