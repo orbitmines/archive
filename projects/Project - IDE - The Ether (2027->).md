@@ -96,6 +96,10 @@ Generate under/above a function, applicable to these versions etc.. ; migrations
 
 ---
 
+Versioning: 
+
+---
+
 Hot reloading abstract & production code, introduce migrations at every level of the stack; how does this look in the editor. Test properly? What happens inside loops, are they broken, what else is done differently etc..
 
 Not a single file only dependencise:
