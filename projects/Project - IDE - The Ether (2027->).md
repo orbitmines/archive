@@ -91,7 +91,7 @@ Only reload a single file and all the dependencies it touches, resolutions; then
 
 ---
 
-Hot reloading abstract & production code, introduce migrations at every level of the stack; how does this look in the editor. Test properly? What happens inside loops, are they broken
+Hot reloading abstract & production code, introduce migrations at every level of the stack; how does this look in the editor. Test properly? What happens inside loops, are they broken, what else is done differently etc..
 
 ---
 
