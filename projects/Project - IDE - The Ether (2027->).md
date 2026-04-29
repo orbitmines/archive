@@ -93,6 +93,11 @@ Only reload a single file and all the dependencies it touches, resolutions; then
 
 Hot reloading abstract & production code, introduce migrations at every level of the stack; how does this look in the editor. Test properly? What happens inside loops, are they broken, what else is done differently etc..
 
+Not a si
+Same shape as 
+  the dependency tracking we just discussed for hot-reload, but generalized:
+  every computed value memoizes against a content-hash of its inputs;
+
 ---
 
 Mixed RTL/LTR syntax
