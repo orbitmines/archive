@@ -96,7 +96,7 @@ Generate under/above a function, applicable to these versions etc.. ; migrations
 
 ---
 
-Versioning: 
+Versioning: My current thinking is that even though SemVer is widely adopted, the meaning of what is a major/minor/patch is a bit diluted.
 
 ---
 
