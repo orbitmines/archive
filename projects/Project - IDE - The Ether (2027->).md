@@ -108,6 +108,10 @@ Event system in which you (the user) can inject events into other's code.
 
 ---
 
+Env variable at that moment or at startup
+
+---
+
 Hot reloading abstract & production code, introduce migrations at every level of the stack; how does this look in the editor. Test properly? What happens inside loops, are they broken, what else is done differently etc..
 
 Not a single file only dependencise:
