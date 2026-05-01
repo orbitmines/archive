@@ -120,7 +120,7 @@ console.log(res);
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- :youtube: :lex_fridman_podcast: [State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | #490 (2026)](https://www.youtube.com/watch?v=EV7WhVT270Q&t=2s) ;  **
+- :youtube: :lex_fridman_podcast: [State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | #490 (2026)](https://www.youtube.com/watch?v=EV7WhVT270Q&t=2s) ;  *Nathan Lambert, Sebastian Raschka, Lex Fridman*
 - :youtube: [Dan Ghica: Designing and developing an industrial-strength programming language 56 minutes             (2025)](https://www.youtube.com/watch?v=oFGc4hGJRJQ) ;  **
 
 # 2025, October-2026 January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
