@@ -120,7 +120,7 @@ console.log(res);
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### :orbitmines: OrbitMines Excerpt
-- :orbitmines: [2025 Progress Update: Towards A Universal Language (2025)](https://orbitmines.com/archive/towards-a-universal-language)
+- :orbitmines: [The OrbitMines Minecraft Server (2013-2019) (2026)](https://orbitmines.com/archive/the-orbitmines-minecraft-server)
 
 ### Literary Exposure
 - [An Infinity of Worlds: Cosmic Inflation and the Beginning of the Universe (2022)](https://books.google.nl/books/about/An_Infinity_of_Worlds.html?id=G3aMEAAAQBAJ&source=kp_book_description&redir_esc=y) ; *Will Kinney*
@@ -132,6 +132,9 @@ console.log(res);
 - :youtube: :lex_fridman_podcast: [Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | #495 (2026)](https://www.youtube.com/watch?v=iKx3gAODybU) ;  *Lars Brownworth, Lex Fridman*
 - :youtube: :cool_worlds_podcast: [#31 Joshua Winn - Exoplanet New Discoveries, History and Future (2026)](https://www.youtube.com/watch?v=ISZHVwY5YjE) ;  *Joshua Winn, David Kipping*
 - :youtube: :topos_institute: [Dan Ghica: Designing and developing an industrial-strength programming language (2026)](https://www.youtube.com/watch?v=oFGc4hGJRJQ) ;  *Dan Ghica*
+- :youtube: [Where We’re Going, We Don’t Need Rows: Columnar Data Connectivity with Apache Arrow ADBC (Ian Cook) 1 hour, 3 minutes             (2026)](https://www.youtube.com/watch?v=TjlmNGNx77E&t=3130s) ;  **
+- :youtube: [Vortex: LLVM for File Formats (Will Manning) 1 hour, 1 minute             (2026)](https://www.youtube.com/watch?v=zyn_T5uragA&t=2778s) ;  **
+- :youtube: [DuckLake: Learning from Cloud Data Warehouses to Build a Robust “Lakehouse” (Jordan Tigani) 55 minutes             (2026)](https://www.youtube.com/watch?v=z2GhznqtIz0&t=2163s) ;  **
 
 # 2025, October-2026 January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 ### :orbitmines: OrbitMines Excerpt
