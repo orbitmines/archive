@@ -121,7 +121,7 @@ console.log(res);
 
 ### Literary Exposure
 - :youtube: :lex_fridman_podcast: [State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | #490 (2026)](https://www.youtube.com/watch?v=EV7WhVT270Q&t=2s) ;  *Nathan Lambert, Sebastian Raschka, Lex Fridman*
-- :youtube: :lex_fridman[Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | #495 (2026)](https://www.youtube.com/watch?v=iKx3gAODybU) ;  *Lars Brownworth, Lex Fridman*
+- :youtube: :lex_fridman_podcast: [Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | #495 (2026)](https://www.youtube.com/watch?v=iKx3gAODybU) ;  *Lars Brownworth, Lex Fridman*
 - :youtube: :cool_worlds_podcast: [#31 Joshua Winn - Exoplanet New Discoveries, History and Future (2026)](https://www.youtube.com/watch?v=ISZHVwY5YjE) ;  *Joshua Winn, David Kipping*
 - :youtube: :topos_institute: [Dan Ghica: Designing and developing an industrial-strength programming language (2026)](https://www.youtube.com/watch?v=oFGc4hGJRJQ) ;  *Dan Ghica*
 
