@@ -132,9 +132,9 @@ console.log(res);
 - :youtube: :lex_fridman_podcast: [Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | #495 (2026)](https://www.youtube.com/watch?v=iKx3gAODybU) ;  *Lars Brownworth, Lex Fridman*
 - :youtube: :cool_worlds_podcast: [#31 Joshua Winn - Exoplanet New Discoveries, History and Future (2026)](https://www.youtube.com/watch?v=ISZHVwY5YjE) ;  *Joshua Winn, David Kipping*
 - :youtube: :topos_institute: [Dan Ghica: Designing and developing an industrial-strength programming language (2026)](https://www.youtube.com/watch?v=oFGc4hGJRJQ) ;  *Dan Ghica*
-- :youtube: [Where We’re Going, We Don’t Need Rows: Columnar Data Connectivity with Apache Arrow ADBC (Ian Cook) 1 hour, 3 minutes             (2026)](https://www.youtube.com/watch?v=TjlmNGNx77E&t=3130s) ;  **
-- :youtube: [Vortex: LLVM for File Formats (Will Manning) 1 hour, 1 minute             (2025)](https://www.youtube.com/watch?v=zyn_T5uragA&t=2778s) ;  **
-- :youtube: [DuckLake: Learning from Cloud Data Warehouses to Build a Robust “Lakehouse” (Jordan Tigani) (2025)](https://www.youtube.com/watch?v=z2GhznqtIz0&t=2163s) ;  **
+- :youtube: [Where We’re Going, We Don’t Need Rows: Columnar Data Connectivity with Apache Arrow ADBC (2025)](https://www.youtube.com/watch?v=TjlmNGNx77E&t=3130s) ;  *Ian Cook*
+- :youtube: [Vortex: LLVM for File Formats (2025)](https://www.youtube.com/watch?v=zyn_T5uragA&t=2778s) ;  *Will Manning*
+- :youtube: [DuckLake: Learning from Cloud Data Warehouses to Build a Robust “Lakehouse” (2025)](https://www.youtube.com/watch?v=z2GhznqtIz0&t=2163s) ;  *Jordan Tigani*
 - :youtube: [An Extremely Technical Overview of How Apache Iceberg Planning Actually Works (Russell Spitzer) (2025)](https://www.youtube.com/watch?v=kJaD0WuQ1Bg&t=695s) ;  **
 
 # 2025, October-2026 January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
