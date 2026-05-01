@@ -134,7 +134,7 @@ dynamically assert the number of references to a variable basically. Similarly o
 
 Version control Hybrid logical clocks /CRDTs
 
-Local version of the codeba
+Local version of the codebase and then your fork of the codebase easily accessible to others working in the repo. -> Can always push
 
 ---
 
