@@ -29,10 +29,41 @@ find ./_/attachments/read/ -type f -newermt 2023-12-01 | sort | uniq | grep /rea
 
 const policy = window.trustedTypes?.createPolicy("default", {createHTML: (input) => input});
 
+[...document.querySelectorAll(".ytLockupMetadataViewModelTitle")]             
+    .filter(v => v.getAttribute('aria-label'))                                
+    .forEach(video => {                                                         
+      const label = video.getAttribute('aria-label').replaceAll('"', "&quot;");
+      const text  = `- :youtube: [${video.getAttribute('aria-label')}           
+  (2025)](${video.href}) ;  **`;                                                
+                                                                                
+      const wrap = document.createElement('div');                               
+      const input = document.createElement('input');
+      input.type = 'text';                                                      
+      input.readOnly = true;
+      input.value = text;
+
+      const btn = document.createElement('button');                             
+      btn.textContent = 'Copy';
+      btn.addEventListener('click', async () => {                               
+        try {     
+          await navigator.clipboard.writeText(input.value);
+          btn.textContent = 'Copied';                                           
+          setTimeout(() => btn.textContent = 'Copy', 1000);
+        } catch (e) {                                                           
+          input.select();                                                       
+          document.execCommand('copy');
+        }                                                                       
+      });         
+
+      wrap.append(input, ' ', btn);
+      video.insertAdjacentElement('afterend', wrap);
+    });
+
+
+
 console.log([...document.querySelectorAll(".ytLockupMetadataViewModelTitle")].filter(video => video.getAttribute('aria-label') !== '' && video.getAttribute('aria-label') !== null).forEach(video => {
 	video.insertAdjacentHTML("afterend", policy.createHTML(`<div><input type="text" value="- :youtube: [${video.getAttribute('aria-label').replaceAll("\"", "&quot;")} (2025)](${video.href}) ;  **" readonly> <button onclick="this.previousElementSibling.select();document.execCommand('copy');">Copy</button></div>`));
 }))
-
 
 console.log([...document.querySelectorAll("#video-title")].filter(video => video.title !== '').forEach(video => {
 	video.insertAdjacentHTML("afterend", policy.createHTML(`<div><input type="text" value="- :youtube: [${video.title.replaceAll("\"", "&quot;")} (2025)](${video.href}) ;  **" readonly> <button onclick="this.previousElementSibling.select();document.execCommand('copy');">Copy</button></div>`));
@@ -89,7 +120,7 @@ console.log(res);
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-
+- :youtube: [State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490 (2026)](https://www.youtube.com/watch?v=EV7WhVT270Q&t=2s) ;  **
 
 # 2025, October-2026 January - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 ### :orbitmines: OrbitMines Excerpt
