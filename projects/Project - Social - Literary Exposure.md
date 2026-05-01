@@ -121,6 +121,9 @@ console.log(res);
 
 ### Literary Exposure
 - :youtube: :lex_fridman_podcast: [State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | #490 (2026)](https://www.youtube.com/watch?v=EV7WhVT270Q&t=2s) ;  *Nathan Lambert, Sebastian Raschka, Lex Fridman*
+- :youtube: [OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | #491 (2026)](https://www.youtube.com/watch?v=YFjfBk8HI5o&t=2s) ;  **
+- :youtube: [Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | #493 (2026)](https://www.youtube.com/watch?v=H9rF1CSSh-w&t=8566s&pp=0gcJCd4KAYcqIYzv) ;  **
+- :youtube: [Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | #494 (2026)](https://www.youtube.com/watch?v=vif8NQcjVf0&t=1s) ;  **
 - :youtube: :lex_fridman_podcast: [Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | #495 (2026)](https://www.youtube.com/watch?v=iKx3gAODybU) ;  *Lars Brownworth, Lex Fridman*
 - :youtube: :cool_worlds_podcast: [#31 Joshua Winn - Exoplanet New Discoveries, History and Future (2026)](https://www.youtube.com/watch?v=ISZHVwY5YjE) ;  *Joshua Winn, David Kipping*
 - :youtube: :topos_institute: [Dan Ghica: Designing and developing an industrial-strength programming language (2026)](https://www.youtube.com/watch?v=oFGc4hGJRJQ) ;  *Dan Ghica*
