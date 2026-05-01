@@ -136,6 +136,8 @@ Version control Hybrid logical clocks /CRDTs
 
 Local version of the codebase and then your fork of the codebase easily accessible to others working in the repo. -> Can always push
 
+Apply a change to all stable versions.
+
 Test my changes against the latest changes, instead of merging the latest changes into my own.
 
 ---
