@@ -131,7 +131,7 @@ console.log(res);
 - :youtube: :lex_fridman_podcast: [Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | #494 (2026)](https://www.youtube.com/watch?v=vif8NQcjVf0&t=1s) ;  *Jensen Huang, Lex Fridman*
 - :youtube: :lex_fridman_podcast: [Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | #495 (2026)](https://www.youtube.com/watch?v=iKx3gAODybU) ;  *Lars Brownworth, Lex Fridman*
 - :youtube: :cool_worlds_podcast: [#31 Joshua Winn - Exoplanet New Discoveries, History and Future (2026)](https://www.youtube.com/watch?v=ISZHVwY5YjE) ;  *Joshua Winn, David Kipping*
-- :youtube: :cool_worlds_pod [#32 Chris Lintott - Technosignatures, Citizen Science, Scicomm (2026)](https://www.youtube.com/watch?v=qI3DAXM0-do) ;  *Chris Lintott, David Kipping*
+- :youtube: :cool_worlds_podcast: [#32 Chris Lintott - Technosignatures, Citizen Science, Scicomm (2026)](https://www.youtube.com/watch?v=qI3DAXM0-do) ;  *Chris Lintott, David Kipping*
 - :youtube: :topos_institute: [Dan Ghica: Designing and developing an industrial-strength programming language (2026)](https://www.youtube.com/watch?v=oFGc4hGJRJQ) ;  *Dan Ghica*
 - :youtube: [Where We’re Going, We Don’t Need Rows: Columnar Data Connectivity with Apache Arrow ADBC (2025)](https://www.youtube.com/watch?v=TjlmNGNx77E) ;  *Ian Cook*
 - :youtube: [Vortex: LLVM for File Formats (2025)](https://www.youtube.com/watch?v=zyn_T5uragA) ;  *Will Manning*
