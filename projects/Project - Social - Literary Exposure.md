@@ -119,8 +119,11 @@ console.log(res);
 ![[Pasted image 20240604084826.png]]
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
+### :orbitmines: OrbitMines Excerpt
+- :orbitmines: [2025 Progress Update: Towards A Universal Language (2025)](https://orbitmines.com/archive/towards-a-universal-language)
+
 ### Literary Exposure
-- 
+- [An Infinity of Worlds: Cosmic Inflation and the Beginning of the Universe (2022)](https://books.google.nl/books/about/An_Infinity_of_Worlds.html?id=G3aMEAAAQBAJ&source=kp_book_description&redir_esc=y) ; *Will Kinney*
 
 - :youtube: :lex_fridman_podcast: [State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | #490 (2026)](https://www.youtube.com/watch?v=EV7WhVT270Q&t=2s) ;  *Nathan Lambert, Sebastian Raschka, Lex Fridman*
 - :youtube: :lex_fridman_podcast: [OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | #491 (2026)](https://www.youtube.com/watch?v=YFjfBk8HI5o&t=2s) ;  *Peter Steinberger, Lex Fridman*
