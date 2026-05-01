@@ -138,7 +138,7 @@ Local version of the codebase and then your fork of the codebase easily accessib
 
 Apply a change to all stable versions.
 
-Commit/flagging a change as the thing which actually works.
+Commit/flagging a change as the thing which actually works. Also group like all the changes in a single merge or something like that.
 
 Test my changes against the latest changes, instead of merging the latest changes into my own.
 
