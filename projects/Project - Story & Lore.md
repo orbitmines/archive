@@ -3,10 +3,10 @@
   [IA] - 
   [IB] - 
   [IC] - 
-**[II]** - University student, comp (24), brother of [I]
+**[II]** - University student, computer science (24), brother of [I]
   [IIA] - 
   [IIB] - 
-  [IIC] - 
+  [IIC] - Professor 
 **[III]** - "Researcher @ Ether"
   [IIIA] - 
   [IIIB] - 
