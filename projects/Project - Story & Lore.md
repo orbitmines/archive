@@ -1,15 +1,15 @@
 #### Characters
-**[I]** - 
+**[I]** - Highschool student (16), sister of [II]
   [IA]
   [IB]
   [IC]
-**[II]** - "Uni"
+**[II]** - University student, brother of [I]
   [IIA] - 
   [IIB] -
   [IIC] - 
 **[III]** - "Researcher @ Ether"
-  [IIIA]
-  [IIIB]
+  [IIIA] -
+  [IIIB] - 
   [IIIC]
 **[S]** - "Professor"
 **[B]** - "Head of University"
