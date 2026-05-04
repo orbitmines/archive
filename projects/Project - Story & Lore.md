@@ -1,7 +1,12 @@
 #### Characters
 **[I]** - 
+  [IA]
 **[II]** - ""
+  [IIA]
 **[III]** - "Researcher @ Ether"
+  [IIIA]
+  [IIIB]
+  [IIIC]
 **[S]** - "Professor"
 **[B]** - "Head of University"
 
