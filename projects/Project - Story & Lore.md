@@ -1,8 +1,8 @@
 #### Characters
 **[I]** - Highschool student (16), sister of [II]
   [IA] - Friend from highschool
-  [IB] - Online Friend 
-  [IC] - 
+  [IB] - Online Friend
+  [IC] - Parent
 **[II]** - University student, computer science (24), brother of [I]
   [IIA] - Friend A
   [IIB] - Friend B
@@ -12,6 +12,7 @@
   [IIIB] - 
   [IIIC] - 
 **[S]** - "Professor"
+  Uncanny. All characters occur as students?
 **[B]** - "Head of University"
 
 #### Story Choices
