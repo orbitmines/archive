@@ -1,10 +1,10 @@
 #### Characters
-**[I]** - Highschool student (16), brother of [II]
+**[I]** - Highschool student (16), sister of [II]
   Tech-savy, confident
   [IA] - Friend from highschool
   [IB] - Online Friend
   [IC] - Parent
-**[II]** - University student, computer science (24), sister of [I]
+**[II]** - University student, computer science (24), brother of [I]
   [IIA] - Friend A (from highschool)
   [IIB] - Friend B (from uni)
   [IIC] - Friend B (from uni)
