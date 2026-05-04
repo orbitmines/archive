@@ -1,9 +1,9 @@
 #### Characters
-**I** - 
-**II** - ""
-**III** - "Researcher @ Ether"
-**S** - "Professor"
-**B** - "Head of University"
+**[I]** - 
+**[II]** - ""
+**[III]** - "Researcher @ Ether"
+**[S]** - "Professor"
+**[B]** - "Head of University"
 
 #### Story Choices
 - Programmed vs already the case?
