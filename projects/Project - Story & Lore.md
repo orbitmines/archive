@@ -1,7 +1,7 @@
 #### Characters
 **I** - 
-**II** - 
-**III** - "R"
+**II** - ""
+**III** - "Researcher @ Ether"
 **S** - "Professor"
 **B** - "Head of University"
 #### Prologue
