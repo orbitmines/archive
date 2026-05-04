@@ -7,7 +7,7 @@
 **[II]** - University student, computer science (24), sister of [I]
   [IIA] - Friend A (from highschool)
   [IIB] - Friend B (from uni)
-  [IIC] - Friend B (from uni)
+  [IIC] - Friend C (from uni)
   [IID] - Professor Computer Science
 **[III]** - "Researcher @ Ether"
   [IIIA] - 
