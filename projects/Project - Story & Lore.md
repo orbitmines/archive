@@ -1,7 +1,7 @@
 #### Characters
 **[I]** - Highschool student (16), sister of [II]
-  [IA] - 
-  [IB] - 
+  [IA] - Friend from highschool
+  [IB] - Online Friend 
   [IC] - 
 **[II]** - University student, computer science (24), brother of [I]
   [IIA] - Friend A
