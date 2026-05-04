@@ -4,9 +4,9 @@
   [IB] - 
   [IC] - 
 **[II]** - University student, computer science (24), brother of [I]
-  [IIA] - 
-  [IIB] - 
-  [IIC] - Professor 
+  [IIA] - Friend A
+  [IIB] - Friend B
+  [IIC] - Professor Computer Science
 **[III]** - "Researcher @ Ether"
   [IIIA] - 
   [IIIB] - 
