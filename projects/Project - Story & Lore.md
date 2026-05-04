@@ -1,5 +1,7 @@
 #### Characters
-
+**I** - 
+**II** - 
+**III** - "R"
 **S** - "Professor"
 **B** - "Head of University"
 #### Prologue
