@@ -91,7 +91,7 @@ Only reload a single file and all the dependencies it touches, resolutions; then
 
 ---
 
-Warning on multiline () with a , missing or 
+Warning on multiline () with a , either you want it there or add a newline between the two.
 
 ---
 
