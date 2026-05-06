@@ -93,6 +93,8 @@ Only reload a single file and all the dependencies it touches, resolutions; then
 
 Warning on multiline () with a , either you want it there or add a newline between the two.
 
+Warning first statement not allowed to contain leading whitespaces.
+
 ---
 
 Generate under/above a function, applicable to these versions etc.. ; migrations from many versions to a new version.
