@@ -86,7 +86,7 @@ Only reload a single file and all the dependencies it touches, resolutions; then
 
 ---
 
-mixed lang .js.ray where the .js is interpreted and the primitives of ray are underneath the ether package.
+mixed lang .js.ray where the .js is interpreted and the primitives of ray are underneath the ether package. Extension support for mixed syntax icon half .ray hald /.js for instance.
 
 ---
 
