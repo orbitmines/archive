@@ -53,7 +53,7 @@ e2e2e2f327f69667163502e2e2e202f3c6c61666e677f64402e2e2e202f3555555f4f49502562716
 
 ---
 
-The sun burned brightly even though it was an early spring day. 
+The sun burned brightly even though it was an early spring day. I
 
 
 [Start story in 2045, release day of The Ether]
