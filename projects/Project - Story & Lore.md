@@ -41,6 +41,7 @@
 [Ether 0.E2045.0A.0] Initializing...
 
 
+
 [Start story in 2045, release day of The Ether]
 [One character is [S], The other B]
 
