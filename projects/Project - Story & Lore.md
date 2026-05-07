@@ -34,7 +34,7 @@
 ***[I]?, Ether's Director***
 ***Bicentennial address, 2[245]***
 
-
+[]
 [Ether 0.E2045.0A.0] Initializing...
 
 
