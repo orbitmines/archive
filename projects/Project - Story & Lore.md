@@ -22,7 +22,7 @@
 - S going through the stages
 
 #### Prologue
-*After breaking down all your layers of abstraction. When you climb the ladder of steps to where your mind becomes more reprogrammable. When you're primed to believe reality is much stranger than it originally appeared. When you're left only one of two possibilities. Which do you believe in the moment? That it is **you** who has lost touch with reality, or do you dare go the other route. Was it your idea of reality which was out of touch?*
+*After breaking down all your layers of abstraction. When you climb the ladder of steps to where your mind becomes more reprogrammable. When you're primed to believe reality is much stranger than it originally appeared. When you're left only one of two possibilities. Which do you believe in the moment? That it is **you** who has lost touch with reality, or do you dare go . Was it your idea of reality which was out of touch?*
 
 *It is said that the estimate at the time was made in terms of output energy. Theirs they put at [400 septillion] of these 'energy' every standard time step, an unfathomably large number. By which they meant to of course to estimate our modern notion of [influence]. That estimate however is too ignorant to be translated usefully, a proper translation would be into [influence] scale. Focus on this metric made them blind. Of course today we know better...*
 ***[], []***
