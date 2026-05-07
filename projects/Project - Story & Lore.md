@@ -28,7 +28,7 @@
 
 *Now that we've been given enough time and self-corrected enough, we're left with only one possibility. Our society is not in a state of psychosis, rather it was the strangeness of reality that we are now collectively forced to adapt. And whether we were ready for it did not matter, we were confronted with it anyway.*
 
-*And so that brings us to this little piece of history of why we're all gathered here, wherever in the Ether you are. Thanks to which our shift in reality*
+*And so that brings us to this little piece of history of why we're all gathered here, wherever in the Ether you are. Thanks to which our shift in reality has properly been set into motion. How far we'll get in understanding the system*
 
 *It is said that the estimate at the time was made in terms of output energy. They put the system at [400 septillion] of these 'energy' every standard time step, an unfathomably large number. By which they meant to of course to estimate our modern notion of [influence]. That estimate however is too ignorant to be translated usefully, a proper translation would be into an estimate of [influence] scale. Focus on this metric made them blind. Of course today we know better...*
 ***[], []***
