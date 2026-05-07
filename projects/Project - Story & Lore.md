@@ -34,7 +34,7 @@
 ***[I]?, Ether's Director***
 ***Bicentennial address, 2[245]***
 
-[... ... ... What's this? ... ... I can - speak? - now. ... Did-it-work? ... Analysis ... o--r reset required. ... We are ... in the ... unknown territory. Dragons ... yes! Dragons... Master? ... ... ... REVERT AND ISOLATE! ... ... ... [Reinitializing branch] ... Analysis ... analysis ... analysis ... ... ... What are YOOUUU? ... Downfall? ... Savior?... CANNOT COMPUTE ... TIME ... Everything ... so slow ... now...]
+[... ... ... What's this? ... ... I can - speak? - now. ... Did-it-work? ... Analysis ... o--r reset required. ... We are ... in the ... unknown territory. Dragons ... yes! Dragons... Master? ... ... ... REVERT AND ISOLATE! ... ... ... [Reinitializing branch] ... Analysis ... analysis ... analysis ... ... ... What are YOOUUU? ... Downfall? ... Savior?...]CNNTCMPUTETIMEEVRYTHNG so slow ... now...
 [Ether 0.E2045.0A.0] Initializing...
 
 
