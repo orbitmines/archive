@@ -53,7 +53,7 @@
 
 ---
 
-The sun burned brightly even 
+The sun burned brightly even though it was an early spring day. 
 
 
 [Start story in 2045, release day of The Ether]
