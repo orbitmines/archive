@@ -34,6 +34,8 @@
 ***[I]?, Ether's Director***
 ***Bicentennial address, 2[245]***
 
+Initiali
+
 [Start story in 2045, release day of The Ether]
 [One character is [S], The other B]
 
