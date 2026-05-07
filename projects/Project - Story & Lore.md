@@ -26,7 +26,7 @@
 
 *After breaking down all your layers of abstraction. When you climb the ladder of steps to where your mind becomes more reprogrammable. When you're primed to believe the first thing that **explains**. When you're left only one of two possibilities. Which do you believe in the moment? That it is **you** who has lost touch with reality, or do you dare go to more treacherous ground. Was it your idea of reality which was out of touch?*
 
-The only thing that makes sense to us now, is th
+Given enough time and enough self-correcting, we're left with only one possibility. Our 
 
 *It is said that the estimate at the time was made in terms of output energy. Theirs they put at [400 septillion] of these 'energy' every standard time step, an unfathomably large number. By which they meant to of course to estimate our modern notion of [influence]. That estimate however is too ignorant to be translated usefully, a proper translation would be into [influence] scale. Focus on this metric made them blind. Of course today we know better...*
 ***[], []***
