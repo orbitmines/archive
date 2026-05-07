@@ -47,7 +47,6 @@
 
 07:32:03.014   INSTANCE   @ether/@eu-west-8   >   @public   :   EP,   length 2cm
 07:32:03.014   INSTANCE   @ether/@eu-west-8   >   @public   :   EP,   length 2cm
-
 [Ether 0.E2045.0A.0] Initializing...
 
 
