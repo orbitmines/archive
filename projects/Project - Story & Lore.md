@@ -23,7 +23,7 @@
 
 #### Prologue
 *After breaking down all your layers of abstraction. When you climb the ladder of steps to where your mind becomes more reprogrammable. When you're primed to believe the first thing that makes sense. When you're left only one of two possibilities. Which do you believe in the moment? That it is **you** who has lost touch with reality, or do you dare go to more treacherous ground. Was it your idea of reality which was out of touch?*
-*A mind incapable of being reprogrammed is a vulnerable one. But one is never more vulnerable when one is being reprogrammed! *
+*A mind incapable of being reprogrammed is a vulnerable one. But you are never more vulnerable when you are being reprogrammed! *
 
 *It is said that the estimate at the time was made in terms of output energy. Theirs they put at [400 septillion] of these 'energy' every standard time step, an unfathomably large number. By which they meant to of course to estimate our modern notion of [influence]. That estimate however is too ignorant to be translated usefully, a proper translation would be into [influence] scale. Focus on this metric made them blind. Of course today we know better...*
 ***[], []***
