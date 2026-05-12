@@ -61,7 +61,7 @@ The sun burned brightly even though it was an early spring day. In particular it
 
 The next instant he found himself walking in a university, students scurrying all around him. Though unlike the ones from earlier, these ones barely recognized his existence. Once the hall cleared he heard a rather demanding voice from behind him: 
 .    "Ah, [S], you're finally here."
-.    He turned around
+.    He turned around at the strong gravity of the voice.
 
 
 [Start story in 2045, release day of The Ether]
