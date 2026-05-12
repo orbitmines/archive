@@ -57,7 +57,8 @@ e2e2e2f327f69667163502e2e2e202f3c6c61666e677f64402e2e2e202f3555555f4f49502562716
 
 The sun burned brightly even though it was an early spring day. In particular it seemed the rays of light had chosen a particular person that day, casually sitting on a bench in a small park. Perhaps it was the fact that against the background he stood out particularly, the brightest of green colors around him, against his casual black outfit which blended well with his skin. He remembered not exactly how he got there but time seemed to fly by.
 While alone at first, in the constant state of day he noticed all kinds of people orbiting around him. Children at first, who were playing around all the park, one of them even walked up to him and lightly tugged on his knee, he smiled at her lightly before she went off again. Then came the students a little later always formed in their little groups, some eerily gave him a distant feeling remembrance while the greeted him. And eventually some young parents came along, though their kids didn't explore as much, they liked to stay close to their parents apparently.
-It appeared to him that he hadn't thought about anything at all, his mind was completely empty right up until the moment of that thought. Rudely interrupting his state of inner peace. It was the sequentialness of thought that made time suddenly flow much, much slower.   
+It appeared to him that he hadn't thought about anything at all, his mind was completely empty right up until the moment of that thought. Rudely interrupting his state of inner peace. It was the sequentialness of thought that made time suddenly flow much, much slower.
+
 
 
 [Start story in 2045, release day of The Ether]
