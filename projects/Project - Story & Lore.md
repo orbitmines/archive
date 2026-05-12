@@ -61,6 +61,7 @@ It appeared to him that he hadn't thought about anything at all, his mind was co
 
 
 
+
 [Start story in 2045, release day of The Ether]
 [One character is [S], The other B]
 
