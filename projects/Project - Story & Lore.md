@@ -71,7 +71,7 @@ The next instant he found himself walking in a university, students scurrying al
 .    Again looking at him briefly, this moment a little longer. No response came from him, but he seemed to be processing the information. So she continued once again, while she guided him towards something:
 .    "I've been given partial access to the system too, though the actions I can take are different but much more restricted than yours. If you notice any mistakes you've made in steering the students, come to me and I'll see what I can do to adjust for those mistakes!"
 
-.    "Thanks." he said, while she nodded at him
+.    "Thanks." he said, while she nodded at him.
 .    "Good."
 .    "Oh, and I almost forgot, I'm called [B], so you know how to refer to me. Now this whole thing has kept me quite busy, I've got a meeting with the other universities about all this coming up. I'll let you know how that all goes."
 .    They turned a corner and there was the auditorium [B] had been guiding him towards.
