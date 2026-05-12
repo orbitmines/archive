@@ -61,7 +61,7 @@ The sun burned brightly even though it was an early spring day. In particular it
 
 The next instant he found himself walking in a university, students scurrying all around him. Though unlike the ones from earlier, these ones barely recognized his existence. Once the hall cleared he heard a rather demanding voice from behind him: 
 .    "Ah, [S]! You're finally here."
-.    He turned around at the strong gravity of the voice. Curious to see what could possibly have produced it. Evidently it matched with the only person standing nearby, ponytailed with distinct set of glasses, 
+.    He turned around at the strong gravity of the voice. Curious to see what could possibly have produced it. Evidently it matched with the only person standing nearby, ponytailed with distinct set of glasses, she was almost the exact opposite of him. 
 .    "I've been expecting you!" while pointing her finger at him and smiling greatly.
 .    "You've got a lot to learn, and very little time to do so, so let me quickly walk you through it."
 .    Without him getting a word in, she went off:
