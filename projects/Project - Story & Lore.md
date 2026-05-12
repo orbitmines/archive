@@ -66,7 +66,8 @@ The next instant he found himself walking in a university, students scurrying al
 .    "You've got a lot to learn, and very little time to do so, so let me quickly walk you through it."
 .    Without him getting a word in, she went off:
 .    "In your area they're testing a new system, which will allow you to, instead of your typical few hundred, address millions upon millions of students. Now I know what you're thinking, it's not the typical make-it-once-for-everyone: You'll be able to steer each of them individually. Not just at our university, but people from all ages."
-.    Looking at 
+.    Looking at him in a brief moment of understanding, before continuing:
+.    "You'"
 
 [Start story in 2045, release day of The Ether]
 [One character is [S], The other B]
