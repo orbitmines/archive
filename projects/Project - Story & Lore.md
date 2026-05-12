@@ -70,13 +70,12 @@ The next instant he found himself walking in a university, students scurrying al
 .    "As far as I know your area is the first time we're testing such a system. So there's still a lot of uncertainty into play. Now it's happening to you first, but if this experiment is successful I'm sure that it'll allow the other professors to accelerate their timelines in also supporting such a system for their areas. While I can facilitate your communication with the other professors, I can do little to support your communication with your students during the semesters. So the moment you feel confident your setup is working, come to me to broaden the scope a bit."
 .    Again looking at him briefly, this moment a little longer. No response came from him, but he seemed to be processing the information. So she continued once again, while she guided him towards something:
 .    "I've been given partial access to the system too, though the actions I can take are different but much more restricted than yours. If you notice any mistakes you've made in steering the students, come to me and I'll see what I can do to adjust for those mistakes!"
-
 .    "Thanks." he said, while she nodded at him.
 .    "Good."
 .    "Oh, and I almost forgot, I'm called [B], so you know how to refer to me. Now this whole thing has kept me quite busy, I've got a meeting with the other universities about all this coming up. I'll let you know how that all goes."
 .    They turned a corner and there was the auditorium [B] had been guiding him towards.
 .    "Before you go in there and start experimenting, one note of caution: They're actively relying on you for this, it's rare that we get to try something like this. I know you like the other professors like to move slowly here, but we cannot afford it this time."
-.    And just like that she was gone, [S] stood there for a little while; collecting himself. Before heading towards the large door and placing hi
+.    And just like that she was gone, [S] stood there for a little while; collecting himself. Before heading towards the large door and placing his hand on the handle.
 
 
 [Start story in 2045, release day of The Ether]
