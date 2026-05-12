@@ -59,7 +59,7 @@ The sun burned brightly even though it was an early spring day. In particular it
 While alone at first, in the constant state of day he noticed all kinds of people orbiting around him. Children at first, who were playing around all the park, one of them even walked up to him and lightly tugged on his knee, he smiled at her lightly before she went off again. Then came the students a little later always formed in their little groups, some eerily gave him a distant feeling remembrance while the greeted him. And eventually some young parents came along, though their kids didn't explore as much, they liked to stay close to their parents apparently.
 It appeared to him that he hadn't thought about anything at all, his mind was completely empty right up until the moment of that thought. Rudely interrupting his state of inner peace. It was the sequentialness of thought that made time suddenly flow much, much slower.
 
-The next instant he found himself walking in a university, students scurrying all around him. Though unlike the ones from earlier, these ones barely recognized his existence. Once the  
+The next instant he found himself walking in a university, students scurrying all around him. Though unlike the ones from earlier, these ones barely recognized his existence. Once the hall cleared he heard a 
 
 
 [Start story in 2045, release day of The Ether]
