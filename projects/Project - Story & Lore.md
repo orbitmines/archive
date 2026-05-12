@@ -67,7 +67,7 @@ The next instant he found himself walking in a university, students scurrying al
 .    Without him getting a word in, she went off:
 .    "In your area they're testing a new system, which will allow you to, instead of your typical few hundred, address millions upon millions of students. Now I know what you're thinking, it's not the typical make-it-once-for-everyone: You'll be able to steer each of them individually. Not just at our university, but people from all ages."
 .    Looking at him in a brief moment of understanding, before continuing:
-.    "As far as I know your area is the first time we're testing such a system. So there's still a lot of uncertainty into play, now it's happening for you first"
+.    "As far as I know your area is the first time we're testing such a system. So there's still a lot of uncertainty into play. Now it's happening for you first, but if this experiment is successful I'm sure that it'll allow the other professors to accelerate their timelines in also supporting such a system for their areas."
 
 [Start story in 2045, release day of The Ether]
 [One character is [S], The other B]
