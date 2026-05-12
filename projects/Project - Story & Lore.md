@@ -55,7 +55,7 @@ e2e2e2f327f69667163502e2e2e202f3c6c61666e677f64402e2e2e202f3555555f4f49502562716
 
 [ Player select in the middle [S]]
 
-The sun burned brightly even though it was an early spring day. In particular it seemed the rays of light had chosen a particular person that day, casually sitting on a bench in a small park. Perhaps it was the fact that against the background he stood out particularly, the brightest of green colors around him, his black-on-blac 
+The sun burned brightly even though it was an early spring day. In particular it seemed the rays of light had chosen a particular person that day, casually sitting on a bench in a small park. Perhaps it was the fact that against the background he stood out particularly, the brightest of green colors around him, his black  
 
 
 [Start story in 2045, release day of The Ether]
