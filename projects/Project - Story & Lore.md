@@ -73,6 +73,7 @@ The next instant he found himself walking in a university, students scurrying al
 
 .    "Thanks." he said, while she nodded at him
 .    "Good."
+.    "Oh, and I almost forgot, I am [B]"
 
 
 [Start story in 2045, release day of The Ether]
