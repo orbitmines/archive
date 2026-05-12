@@ -61,8 +61,8 @@ The sun burned brightly even though it was an early spring day. In particular it
 
 The next instant he found himself walking in a university, students scurrying all around him. Though unlike the ones from earlier, these ones barely recognized his existence. Once the hall cleared he heard a rather demanding voice from behind him: 
 .    "Ah, [S]! You're finally here."
-.    He turned around at the strong gravity of the voice. Curious to see what could possibly have produced it. There she was, a rather tall 
-.    "I've been expecting you!" while she poin
+.    He turned around at the strong gravity of the voice. Curious to see what could possibly have produced it. There she was, a rather  
+.    "I've been expecting you!" while she pointed her finger at him.
 
 
 [Start story in 2045, release day of The Ether]
