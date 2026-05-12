@@ -56,7 +56,7 @@ e2e2e2f327f69667163502e2e2e202f3c6c61666e677f64402e2e2e202f3555555f4f49502562716
 [ Player select in the middle [S]]
 
 The sun burned brightly even though it was an early spring day. In particular it seemed the rays of light had chosen a particular person that day, casually sitting on a bench in a small park. Perhaps it was the fact that against the background he stood out particularly, the brightest of green colors around him, against his casual black outfit which blended well with his skin. He remembered not exactly how he got there but time seemed to fly by.
-While alone at first, in the constant state of day he noticed all kinds of people around him. Children at first
+While alone at first, in the constant state of day he noticed all kinds of people around him. Children at first, then came 
 It appeared to him that he hadn't thought about anything at all, his mind was completely empty right up until the moment of that thought. Rudely interrupting his state of inner peace. 
 
 
