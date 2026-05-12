@@ -65,7 +65,7 @@ The next instant he found himself walking in a university, students scurrying al
 .    "I've been expecting you!" while pointing her finger at him and smiling greatly.
 .    "You've got a lot to learn, and very little time to do so, so let me quickly walk you through it."
 .    Without him getting a word in, she went off:
-.    "In your area they're testing a new system[, called Ether], which will allow you to, instead of your typical few hundred, address millions upon millions of students, and offer help to each of them individually. Not just at our university, but people from all ages. Of course you won't control the minu"
+.    "In your area they're testing a new system[, called Ether], which will allow you to, instead of your typical few hundred, address millions upon millions of students, and offer help to each of them individually. Not just at our university, but people from all ages."
 
 [Start story in 2045, release day of The Ether]
 [One character is [S], The other B]
