@@ -75,7 +75,8 @@ The next instant he found himself walking in a university, students scurrying al
 .    "Good."
 .    "Oh, and I almost forgot, I'm called [B], so you know how to refer to me. Now this whole thing has kept me quite busy, I've got a meeting with the other universities about all this coming up. I'll let you know how that all goes."
 .    They turned a corner and there was the auditorium [B] had been guiding him towards.
-.    "Before you go in there and start experimenting, one note of caution: They're actively relying on you for this, it's rare that we get to try something like this. I know you like the other professors like to move slowly here, but we cannot afford it this time. "
+.    "Before you go in there and start experimenting, one note of caution: They're actively relying on you for this, it's rare that we get to try something like this. I know you like the other professors like to move slowly here, but we cannot afford it this time."
+.    And just like that she was gone, [S] stood there for a little while; collecting himself. Before heading towards the large door and placing hi
 
 
 [Start story in 2045, release day of The Ether]
