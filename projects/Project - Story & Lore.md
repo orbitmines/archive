@@ -60,7 +60,8 @@ The sun burned brightly even though it was an early spring day. In particular it
 .    It appeared to him that he hadn't thought about anything at all, his mind was completely empty right up until the moment of that thought. Rudely interrupting his state of inner peace. It was the sequentialness of thought that made time suddenly flow much, much slower.
 
 The next instant he found himself walking in a university, students scurrying all around him. Though unlike the ones from earlier, these ones barely recognized his existence. Once the hall cleared he heard a rather demanding voice from behind him: 
-.    "Ah, [S], you're finally he"
+.    "Ah, [S], you're finally here."
+.    He turned around
 
 
 [Start story in 2045, release day of The Ether]
