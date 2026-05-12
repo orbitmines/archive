@@ -71,6 +71,10 @@ The next instant he found himself walking in a university, students scurrying al
 .    Again looking at him briefly, this moment a little longer. No response came from him, but he seemed to be processing the information, so she continued once again, while she guided him towards something:
 .    "I've been given partial access to the system too, though the actions I can take are different but much more restricted than yours. One of th"
 
+.    "Thanks." he said, while she nodded at him
+.    "Good."
+
+
 [Start story in 2045, release day of The Ether]
 [One character is [S], The other B]
 
