@@ -63,8 +63,9 @@ The next instant he found himself walking in a university, students scurrying al
 .    "Ah, [S]! You're finally here."
 .    He turned around at the strong gravity of the voice. Curious to see what could possibly have produced it. Evidently it matched with the only person standing nearby, ponytailed and glasses
 .    "I've been expecting you!" while pointing her finger at him and smiling greatly.
-.    "You've got a lot to learn, and little time to do so, so let me quickly walk you through it."
-.    Without him getting a
+.    "You've got a lot to learn, and very little time to do so, so let me quickly walk you through it."
+.    Without him getting a word in, she went off:
+.    ""
 
 [Start story in 2045, release day of The Ether]
 [One character is [S], The other B]
