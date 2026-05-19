@@ -289,6 +289,9 @@ Generate room for me, or choose your own, then type of room picker and at every 
 Now how do you make it feel like a game?
 
 # **Avatar**
+as 2D + Square
+as 3D
+
 Can optionally reserve another username specific to your avatar. ; or reuse ones from old Avatars
 Is a set of unlocked skills and paths traversed with that avatar
 Allow merging and copying of your own avatar
