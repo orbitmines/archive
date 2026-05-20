@@ -88,3 +88,5 @@ Can you use these criteria to search for new useful abstract languages? Pick/Gen
 
 Better for what?
 - Control over what type of system 
+
+https://github.com/FFmpeg/asm-lessons
