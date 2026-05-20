@@ -297,6 +297,10 @@ Essentially, all that databases, and dataformats try to do, is to optimize some 
 
 ---
 
+Video formats, just like databases. 
+
+---
+
 COmponents which shouldn't override top-level property, but only contents of those properties, and overlay those. (But at what level?) How would you configure this? Set property => {property.* to property.components.last) - Want to say property = property.map dynamically how? Then make an extension for this; components.merge/##.merge or something
 
 ---
