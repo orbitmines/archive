@@ -297,7 +297,7 @@ Essentially, all that databases, and dataformats try to do, is to optimize some 
 
 ---
 
-Video formats, just like databases. 
+Video/Multimedia formats, just like databases. Optimizations for a very simply language interface: 2D/3D scenes + temporal, which need to be optimized for CPU time, storage, same considerations as the databases --> do you reformat, what.
 
 ---
 
