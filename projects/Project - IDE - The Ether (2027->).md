@@ -57,6 +57,8 @@ entry is origin no self.
 
 "A" is a char, unless explicitely a string
 
+[] and () are interchangable for array creation?
+
 ---
 
 ++ alias of + for numbers?
