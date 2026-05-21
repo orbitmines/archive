@@ -52,6 +52,10 @@ C. Reprogrammable UI
 
 ---
 
+"A" is a char, unless explicitely a string
+
+---
+
 ["A", "B", "C"].map(entry: String + Ray => entry.index)
 ["A", "B", "C"].map(entry: + Ray => entry.index)
 Only provide the + Ray when mentioned explicitely.
