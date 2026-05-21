@@ -53,9 +53,7 @@ C. Reprogrammable UI
 ---
 
 ["A", "B", "C"].map(entry: String + Ray => entry.index)
-["A", "B", "C"].map(entry: String + (Ray - Iterable) => entry.index)
-["A", "B", "C"].map(entry: String => entry.index)
-["A", "B", "C"].map(entry: - Ray => entry.index)
+Only provide the + Ray when mentioned explicitely.
 forcing to be string here ignores the Ray component
 
 ---
