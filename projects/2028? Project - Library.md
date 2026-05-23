@@ -13,8 +13,9 @@
 		2. Other languages represented in it
 		3. Walk forward & backward, recur, and repeat for all versions.
 - Possibilities
-	- Operating system executables (pro: many of them, con: interpretability harder: reverse engineering necessary)
-	- 
+	- Operating system executables (pro: few of them, con: interpretability harder: reverse engineering necessary)
+	- A compilerstack like LLVM (pro: handles many languages, con: less future-proof)
+	- A language like
 
 
 # Tools for Excavation of Languages
