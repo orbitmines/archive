@@ -9,6 +9,8 @@
 Getting other programming languages inside the Ray ecosystem:
 - Getting inside a first language
 - Extracting other languages it supports.
+	1. Frontends/backends it has.
+	2. 
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
