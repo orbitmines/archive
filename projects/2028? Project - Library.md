@@ -19,7 +19,7 @@
 	- A language like C (pro: handles many languages, con: too many variants/versions/compiler options as a first.)
 
 How hard would it be to go from assembly -> lift to a C/LLVM compiler -> lift to other languages. ; Superposing language abstractions.
-Can go:
+Can go: (Binary Linux X64)
 - `llc` Binary -> LLVM -> [LANG]
 - `clang` Binary -> LLVM -> C++ (inside a single executable)
 - Want to try Binary -> LLVM -> C++ -> Javascript V8
