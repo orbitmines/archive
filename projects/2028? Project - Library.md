@@ -13,11 +13,12 @@
 		2. Other languages represented in it
 		3. Walk forward & backward, recur, and repeat for all versions.
 - Possibilities
-	- Operating system executables (pro: few of them, pretty much already acts a u, con: interpretability harder: reverse engineering necessary)
+	- Operating system executables (pro: few of them, pretty much already acts as a cultural universal language, con: interpretability harder: reverse engineering necessary)
 		- How variable or system-dependent are executables?
 	- A compilerstack like LLVM (pro: handles many languages, con: less future-proof)
 	- A language like C (pro: handles many languages, con: too many variants/versions/compiler options as a first.)
 
+How hard would it be to go from assembly -> lift to a C/LLVM compiler -> lift to other languages. ; Superposin
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
