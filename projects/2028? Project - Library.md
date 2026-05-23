@@ -24,8 +24,7 @@ Can go: (Binary Linux X64)
 - `clang` Binary -> LLVM -> C++ (inside a single executable)
 - Want to try 
 	- Binary -> LLVM -> C++ -> Javascript V8
-	- Binary -> Javascript V8
-	- (multiple sources)
+	- Binary ->                               Javascript V8
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
