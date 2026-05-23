@@ -19,6 +19,9 @@
 	- A language like C (pro: handles many languages, con: too many variants/versions/compiler options as a first.)
 
 How hard would it be to go from assembly -> lift to a C/LLVM compiler -> lift to other languages. ; Superposing language abstractions.
+Can go:
+- Binary -> LLVM -> [LANG]
+- Binary -> LLVM ->
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
