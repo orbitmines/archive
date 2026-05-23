@@ -22,7 +22,7 @@ How hard would it be to go from assembly -> lift to a C/LLVM compiler -> lift to
 Can go:
 - `llc` Binary -> LLVM -> [LANG]
 - `clang` Binary -> LLVM -> C++ (inside a single executable)
-- Want to try Binary -> LLVM -> C++ -> 
+- Want to try Binary -> LLVM -> C++ -> Javascript V8
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
