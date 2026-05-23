@@ -6,13 +6,15 @@
 
 ---
 
-Getting other programming languages inside the Ray ecosystem:
-- Getting inside a first language
-- Extracting other languages it supports.
-	1. Frontends/backends it has.
-	2. Other languages represented in it
-	3. Walk forward & backward, recur, and repeat for all versions.
-
+- Getting other programming languages inside the Ray ecosystem:
+	- Getting inside a first language
+	- Extracting other languages it supports.
+		1. Frontends/backends it has.
+		2. Other languages represented in it
+		3. Walk forward & backward, recur, and repeat for all versions.
+- Possibilities
+	- Operating system executables (pro: many of them, con: interpretability harder: reverse engineering necessary)
+	- 
 
 
 # Tools for Excavation of Languages
