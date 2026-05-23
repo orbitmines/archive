@@ -50,7 +50,7 @@ C. Reprogrammable UI
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
-
+PATTERN* maps to PATTERN, * so that we can have "PATH/"*
 
 ---
 
