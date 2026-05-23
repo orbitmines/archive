@@ -18,7 +18,6 @@
 	- A compilerstack like LLVM (pro: handles many languages, con: less future-proof)
 	- A language like C (pro: handles many languages, con: too many variants/versions/compiler options as a first.)
 
-https://refspecs.linuxfoundation.org/
 How hard would it be to go from assembly -> lift to a C/LLVM compiler -> lift to other languages. ; Superposing language abstractions.
 Can go: (Binary Linux X64)
 - `llc` Binary -> LLVM -> [LANG]
@@ -26,6 +25,9 @@ Can go: (Binary Linux X64)
 - Want to try 
 	- Binary -> LLVM -> C++ -> Javascript V8
 	- Binary ->                               Javascript V8
+
+https://refspecs.linuxfoundation.org/
+
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
