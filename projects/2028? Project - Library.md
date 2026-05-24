@@ -40,7 +40,8 @@ Say you're able to achieve some level of interpretability here, what would you w
 - Map to semantics the compiler understands and can remap itself. 
 	- Two-way compiler setup? Or is reverse-engineered necessarily different primitives.
 	- -> Compile to Ray or have the assembly itself contained in Ray.
-- 
+- Inject a new feature
+	- Either in the recompiled code, or in that binary itself, latter is more difficult probably, bec
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
