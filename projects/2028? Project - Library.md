@@ -31,8 +31,10 @@ https://refspecs.linuxfoundation.org/
 Say you're able to achieve some level of interpretability here, what would you want to be able to do?
 - Track and extract features.
 	- What is a feature?
-	- Extract things like account services.
+	- Extract things like account services. -> Map to @-space.
 	- Extract APIs: the frontends/backends (+intermediates)
+	- Extract permissions it needs -> What is it accessing.
+	- 
 - Map to semantics the compiler understands and can remap itself. 
 	- -> Compile to Ray or have the assembly itself contained in Ray.
 - 
