@@ -34,6 +34,7 @@ Say you're able to achieve some level of interpretability here, what would you w
 	- Map visual/interactions to functionality.
 	- Extract things like account services. -> Map to @-space.
 	- Extract APIs: the frontends/backends (+intermediates) -> Extract Grammars as Types. Extract Compilers between grammars as programs.
+		- Extract features from grammars too:
 	- What is it accessing.
 		- Extract permissions it needs
 		- Extract assets if any. Or extract them from where they're supposed to be stored on the machine.
