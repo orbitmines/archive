@@ -42,7 +42,8 @@ Say you're able to achieve some level of interpretability here, what would you w
 	- -> Compile to Ray or have the assembly itself contained in Ray.
 - Inject a new feature
 	- Either in the recompiled code, or in that binary itself, latter is more difficult probably, rerun, need to change things that check the integrity of that executable etc.
-- Interop libraries from that frontend/ba
+- Interop libraries from that frontend/backend into other languages.
+	- Say C++ -> Ruby would be easier, primitives can be nicely mapped, but the other way around Ruby -> C++ is harder, no type information etc.. semantics overlap less. How to account for that?
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
