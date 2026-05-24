@@ -36,6 +36,7 @@ Say you're able to achieve some level of interpretability here, what would you w
 	- Extract APIs: the frontends/backends (+intermediates)
 	- Extract permissions it needs -> What is it accessing.
 	- Supported for what ISA?
+	- Extract optimi
 - Diff across versions (all the feature extraction..)
 	- Is an extracted API backwards compatible?
 	- 
