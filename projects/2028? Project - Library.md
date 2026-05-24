@@ -44,7 +44,7 @@ Say you're able to achieve some level of interpretability here, what would you w
 	- 
 - Map to semantics the compiler understands and can remap itself. 
 	- Two-way compiler setup? Or is reverse-engineered necessarily different primitives.
-	- -> Compile to Ray or have the assembly itself contained in Ray.
+	- -> Compile to Ray or have the assembly itself contained in Ray. ;
 - Inject a new feature
 	- Either in the recompiled code, or in that binary itself, latter is more difficult probably, rerun, need to change things that check the integrity of that executable etc.
 - Interop libraries from that frontend/backend into other languages.
