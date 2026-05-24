@@ -31,6 +31,7 @@ https://refspecs.linuxfoundation.org/
 Say you're able to achieve some level of interpretability here, what would you want to be able to do?
 - Track and extract features.
 	- What is a feature? (Some 'language' - which interacts with others but is a clear thing on its own)
+	- Extract assets if any. Or extract them from where they're suppoe
 	- Map visual/interactions to functionality.
 	- Extract things like account services. -> Map to @-space.
 	- Extract APIs: the frontends/backends (+intermediates)
