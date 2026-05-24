@@ -38,6 +38,7 @@ Say you're able to achieve some level of interpretability here, what would you w
 	- Supported for what ISA?
 	- 
 - Map to semantics the compiler understands and can remap itself. 
+	- Two-way compiler setup? Or is reverse-engineered necessarily different primitives.
 	- -> Compile to Ray or have the assembly itself contained in Ray.
 - 
 
