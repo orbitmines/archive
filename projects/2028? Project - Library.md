@@ -31,7 +31,9 @@ https://refspecs.linuxfoundation.org/
 Say you're able to achieve some level of interpretability here, what would you want to be able to do?
 - Track and extract features.
 	- What is a feature?
-	- Extract things like account services, 
+	- Extract things like account services.
+	- Extract APIs: the frontends/backends (+intermediates)
+- Map to semantics the compiler understands and can r
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
