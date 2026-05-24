@@ -28,6 +28,7 @@ Can go: (Binary Linux X64)
 
 https://refspecs.linuxfoundation.org/
 
+Say you're able to achieve some level of interpretability here 
 
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
