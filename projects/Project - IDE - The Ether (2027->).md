@@ -50,6 +50,10 @@ C. Reprogrammable UI
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
+@https:// should work. only not accepting spaces, use @" " for that.
+
+---
+
 PATTERN* maps to PATTERN, * so that we can have "PATH/"* ?
 
 ---
