@@ -50,6 +50,8 @@ Say you're able to achieve some level of interpretability here, what would you w
 - Interop libraries from that frontend/backend into other languages.
 	- Say C++ -> Ruby would be easier, primitives can be nicely mapped, but the other way around Ruby -> C++ is harder, no type information etc.. semantics overlap less. How to account for that?
 
+- You can imagine if this is taken far enough that one can design an operating system that takes all the other operating systems' executables and can execute them.
+
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
 
