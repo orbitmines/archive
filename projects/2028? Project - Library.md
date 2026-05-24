@@ -36,7 +36,7 @@ Say you're able to achieve some level of interpretability here, what would you w
 	- Extract APIs: the frontends/backends (+intermediates)
 	- Extract permissions it needs -> What is it accessing.
 	- Supported for what ISA?
-	- 
+- Diff across versions (all the feature extraction..)
 - Map to semantics the compiler understands and can remap itself. 
 	- Two-way compiler setup? Or is reverse-engineered necessarily different primitives.
 	- -> Compile to Ray or have the assembly itself contained in Ray.
