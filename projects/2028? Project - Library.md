@@ -31,11 +31,12 @@ https://refspecs.linuxfoundation.org/
 Say you're able to achieve some level of interpretability here, what would you want to be able to do?
 - Track and extract features.
 	- What is a feature? (Some 'language' - which interacts with others but is a clear thing on its own)
-	- Extract assets if any. Or extract them from where they're suppoe
 	- Map visual/interactions to functionality.
 	- Extract things like account services. -> Map to @-space.
 	- Extract APIs: the frontends/backends (+intermediates)
-	- Extract permissions it needs -> What is it accessing.
+	- What is it accessing.
+		- Extract permissions it needs
+		- Extract assets if any. Or extract them from where they're supposed to be stored on the machine.
 	- Supported for what ISA?
 	- Extract optimizations of some kind of simpler spec.
 - Diff across versions (all the feature extraction..)
