@@ -50,7 +50,7 @@ C. Reprogrammable UI
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
-Interface not just 100% width means a box, but that's everywhere a 100% width which couold be a triangle or other forms.
+Interface not just 100% width means a box, but that's everywhere a 100% width which couold be a triangle or other forms. whatever width is available for the height it has. -> Basically wrap around stuff automatically.
 
 ---
 
