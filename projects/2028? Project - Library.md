@@ -27,6 +27,7 @@ Can go: (Binary Linux X64)
 	- Binary ->                               Javascript V8
 
 https://refspecs.linuxfoundation.org/
+https://decompilation.wiki/fundamentals/cfg-recovery/lifting/
 
 Say you're able to achieve some level of interpretability here, what would you want to be able to do?
 - Track and extract features.
