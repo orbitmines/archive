@@ -120,6 +120,8 @@ console.log(res);
 # 2026, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
+- [The Metaverse: Building the Spatial Internet (2024)](https://books.google.nl/books/about/The_Metaverse.html?id=BirjEAAAQBAJ) ; *Matthew Ball*
+
 - [The Decompilation Wiki](https://decompilation.wiki/) ; *Zion Leonahenahe Basque*
 - [Decompiling 2024: A Year of Resurgence in Decompilation Research (2025)](https://mahaloz.re/dec-progress-2024) ; *Zion Leonahenahe Basque*
 - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)](https://mahaloz.re/dec-history-pt1) ; *Zion Leonahenahe Basque*
