@@ -120,8 +120,8 @@ console.log(res);
 # 2026, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- [The Decompilation Wiki](https://decompilation.wiki/) *Zion Leonahenahe Basque*
-- 
+- [The Decompilation Wiki](https://decompilation.wiki/) ; *Zion Leonahenahe Basque*
+- [Decompiling 2024: A Year of Resurgence in Decompilation Research (2024)]()
 
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
