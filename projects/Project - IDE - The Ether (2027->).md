@@ -54,7 +54,7 @@ C. Reprogrammable UI
 
 What about a model where we don't setup the infrastructure ourselves, but privately host a cloud account for each separate user, with credentials tied to their stuff and potentially only backups of credentials through us. [prompt to backup?]
 
-X cost associated with complicated access permissions; have to run those 'functions' on the providers.
+X cost associated with complicated access permissions; have to run those 'functions' on the providers. (on the @X m$)
 Show random provider order.
 
 But how to integrate free stuff for accounts?; Just on a separate account which invoices orbitmines directly? ; When moving to a paid setup interop sharded or give the option to move to a fully charged setup (have to pay the cost of the free stuff themselves too).
