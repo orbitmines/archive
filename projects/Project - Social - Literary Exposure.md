@@ -121,7 +121,8 @@ console.log(res);
 
 ### Literary Exposure
 - [The Decompilation Wiki](https://decompilation.wiki/) ; *Zion Leonahenahe Basque*
-- [Decompiling 2024: A Year of Resurgence in Decompilation Research (2024)]()
+- [Decompiling 2024: A Year of Resurgence in Decompilation Research (2025)](https://mahaloz.re/dec-progress-2024) ; *Zion Leonahenahe Basque*
+- [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)](https://mahaloz.re/dec-history-pt1)
 
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
