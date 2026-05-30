@@ -120,6 +120,7 @@ console.log(res);
 # 2026, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
+- [The Decompilation Wiki](https://decompilation.wiki/)
 - 
 
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
