@@ -63,7 +63,7 @@ But how to integrate free stuff for accounts?; Just on a separate account which 
 How does the indexing work? What is indexed and how? How do you do code search or more general search, 3d search eventually?
 
 Allow turning of indexes, but then those features will be disabled for those repositories.
-Allow to say can find in the index, but you dont h
+Allow to say can find in the index, but you dont have access to it (visibility of visibility).
 
 Auto-update off on those servers by default.
 
