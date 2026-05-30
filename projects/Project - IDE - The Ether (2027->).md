@@ -50,6 +50,12 @@ C. Reprogrammable UI
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
+
+|           |                |        |                                                                                                                                                                    |
+| --------- | -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Plaintext | `NODE_VERSION` | 18.3.0 | [](https://developers.cloudflare.com/pages/functions/wrangler-configuration/)<br><br>[](https://developers.cloudflare.com/pages/functions/wrangler-configuration/) |
+| Plaintext | `NPM_VERSION`  | 9.6.6  |                                                                                                                                                                    |
+
 Interface not just 100% width means a box, but that's everywhere a 100% width which couold be a triangle or other forms. whatever width is available for the height it has. -> Basically wrap around stuff automatically.
 
 ---
