@@ -71,6 +71,9 @@ Provide machine details and login through ssh or something, then install and rep
 
 Probably have to OAuth for cloud providers until they allow direct integration into their platforms. So an account per user probably doesnt work for free tier.
 
+---
+
+Same code for CLI vs frontend interface -> just different frontends to a program type, just another hook into it.
 
 ---
 
