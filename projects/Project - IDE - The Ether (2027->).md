@@ -66,6 +66,8 @@ Allow turning of indexes, but then those features will be disabled for those rep
 
 Auto-update off on those servers by default.
 
+Provide machine details and login through ssh or 
+
 ---
 
 |           |                |        |                                                                                                                                                                    |
