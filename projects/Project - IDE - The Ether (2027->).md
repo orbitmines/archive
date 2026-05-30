@@ -57,7 +57,8 @@ What about a model where we don't setup the infrastructure ourselves, but privat
 X cost associated with complicated access permissions; have to run those 'functions' on the providers.
 Show random provider order.
 
-But how to integrate free stuff for accounts?; Just on a separate account which invoices orbitmines directly? ; When moving to a paid setup interop sharded or give the option to move to a fully 
+But how to integrate free stuff for accounts?; Just on a separate account which invoices orbitmines directly? ; When moving to a paid setup interop sharded or give the option to move to a fully charged setup (have to pay the cost of the free stuff themselves too).
+- Or change the billing to Ether, but can we limit the spending.
 
 
 ---
