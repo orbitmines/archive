@@ -69,7 +69,8 @@ Auto-update off on those servers by default.
 
 Provide machine details and login through ssh or something, then install and report back.
 
-Probably have to OAuth for cloud providers until they allow direct integration into their platforms. 
+Probably have to OAuth for cloud providers until they allow direct integration into their platforms. So an account per user probably doesnt work for free tier.
+
 
 ---
 
