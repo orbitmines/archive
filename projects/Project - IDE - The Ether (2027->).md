@@ -60,6 +60,9 @@ Show random provider order.
 But how to integrate free stuff for accounts?; Just on a separate account which invoices orbitmines directly? ; When moving to a paid setup interop sharded or give the option to move to a fully charged setup (have to pay the cost of the free stuff themselves too).
 - Or change the billing to Ether, but can we limit the spending which cannot be changed by the user themselves.
 
+How does the indexing work? What is indexed and how? How do you do code search or more general search, 3d search eventually?
+
+Auto-update off on those servers by default.
 
 ---
 
