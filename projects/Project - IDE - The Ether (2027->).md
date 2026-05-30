@@ -71,7 +71,7 @@ Provide machine details and login through ssh or something, then install and rep
 
 Probably have to OAuth for cloud providers until they allow direct integration into their platforms. So an account per user probably doesnt work for free tier.
 
-User-controlled ownership of data: By creating a new VCS in which the central platform (i.e. the GitHub) is only an index akin to DNS. What I'd need from et al is a way to:
+User-controlled ownership of data: By creating a new VCS in which the central platform (i.e. the GitHub) is only an index akin to DNS. What I'd need from  et al is a way to:
 (1) for convenience: create accounts for those users and 
 (2) allow restricted financial commitment by a 3rd party to the billings account for a free tier.
 
