@@ -81,6 +81,8 @@ Reserve .ray for the mapping @ray/@c++ which wraps the characters which flag the
 `ether @c++.ray @windows %0.16.0`
 
 `ether @c++ download`
+`ether @c++ install`
+`ether @c++ install`
 
 expects a `entrypoint.cli.ray` entrypoint. 
 
