@@ -80,6 +80,8 @@ Reserve .ray for the mapping @ray/@c++ which wraps the characters which flag the
 `ether @c++.ray @x86-64 %0.16.0`
 `ether @c++.ray @windows %0.16.0`
 
+`ether @c++ download`
+
 expects a `entrypoint.cli.ray` entrypoint. 
 
 versions themselves might be versioned (if there was a patch without a version number change for some reason)
