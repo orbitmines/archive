@@ -52,6 +52,10 @@ C. Reprogrammable UI
 
 ---
 
+Seperate direcorties for different names like orbitmines.com or @orbitmines. (Mainly legacy support)
+
+---
+
 `ether l c++ %` - list versions
 @clang/@linux/@apt %(0.16.0 | 0.15.0)
 @clang/@windows %(0.16.0 | 0.15.0)
