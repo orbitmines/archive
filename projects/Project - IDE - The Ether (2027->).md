@@ -65,6 +65,7 @@ latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
 `ether l c++ @` - list locations
 @clang/@linux/@apt | @clang/@windows
 
+All the paths from `@c++` to backend `@<>`
 `ether @c++`
 `ether @c++ @clang`
 `ether @c++ @gcc`
