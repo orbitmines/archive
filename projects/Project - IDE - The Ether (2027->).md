@@ -60,10 +60,6 @@ latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
 
 `ether l c++ @` - list locations
 @clang/@linux/@apt | @clang/@windows
-@clang
-  @linux
-    / @apt | @dnf |
-  @windows
 
 `ether l c++`
 `ether l c++ @clang`
