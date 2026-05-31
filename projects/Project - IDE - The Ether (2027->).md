@@ -67,16 +67,16 @@ latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
 
 All the paths from `@c++` to backend `@<>`
 `ether @c++`
-`ether @c++ @clang`
-`ether @c++ @gcc`
-`ether @c++ @zig`
-`ether @c++ @github/releases %0.16.0`
-`ether @c++ @github/releases/@linux/@x86-64 %0.16.0`
-`ether @c++ @github %0.16.0`
-`ether @c++ @github %specific-branch`
-`ether @c++ @clang/@windows/@x86-64 %0.16.0`
-`ether @c++ @x86-64 %0.16.0`
-`ether @c++ @windows %0.16.0`
+`ether @c++ +ray @clang`
+`ether @c++ +ray @gcc`
+`ether @c++ +ray @zig`
+`ether @c++ +ray @github/releases %0.16.0`
+`ether @c++ +ray @github/releases/@linux/@x86-64 %0.16.0`
+`ether @c++ +ray @github %0.16.0`
+`ether @c++ +ray @github %specific-branch`
+`ether @c++ +ray @clang/@windows/@x86-64 %0.16.0`
+`ether @c++ +ray @x86-64 %0.16.0`
+`ether @c++ +ray @windows %0.16.0`
 
 `.ether/external/@/@clang/@windows/@x86-64/%/0.16.0`
 
