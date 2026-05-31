@@ -66,16 +66,17 @@ latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
 @clang/@linux/@apt | @clang/@windows
 
 All the paths from `@c++` to backend `@<>`
-`ether @c++ +ray`
-`ether @c++ +ray @clang`
-`ether @c++ +ray @gcc`
-`ether @c++ +ray @zig`
-`ether @c++ +ray @github/releases %0.16.0`
-`ether @c++ +ray @github/releases/@linux/@x86-64 %0.16.0`
-`ether @c++ +ray @github %0.16.0`
-`ether @c++ +ray @github %specific-branch`
-`ether @c++ ray @clang/@windows/@x86-64 %0.16.0`
-`ether @c++ ray @x86-64 %0.16.0`
+Reserve .ray for the mapping @ray/@c++ which wraps the programming languages
+`ether @c++.ray`
+`ether @c++.ray @clang`
+`ether @c++.ray @gcc`
+`ether @c++.ray @zig`
+`ether @c++.ray @github/releases %0.16.0`
+`ether @c++.ray @github/releases/@linux/@x86-64 %0.16.0`
+`ether @c++.ray @github %0.16.0`
+`ether @c++.ray @github %specific-branch`
+`ether @c++.ray @clang/@windows/@x86-64 %0.16.0`
+`ether @c++.ray @x86-64 %0.16.0`
 `ether @c++.ray @windows %0.16.0`
 
 `.ether/external/@/@clang/@windows/@x86-64/%/0.16.0`
