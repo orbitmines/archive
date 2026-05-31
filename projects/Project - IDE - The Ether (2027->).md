@@ -70,6 +70,7 @@ latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
 `ether @c++ @clang/@windows/@x86-64 %0.16.0`
 `ether @c++ @x86-64 %0.16.0`
 `ether @c++ @windows %0.16.0`
+`ether @c++ @ether`
 
 `.ether/external/@/@clang/@windows/@x86-64/%/0.16.0`
 
