@@ -56,13 +56,13 @@ Seperate direcorties for different names like orbitmines.com or @orbitmines. (Ma
 
 ---
 
-`ether l c++ %` - list versions
+`ether @c++ %` - list versions
 @clang/@linux/@apt %(0.16.0 | 0.15.0)
 @clang/@windows %(0.16.0 | 0.15.0)
 %0.15.0 @clang/@linux/@apt | @clang/@windows
 latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
 
-`ether l c++ @` - list locations
+`ether @c++ @` - list locations
 @clang/@linux/@apt | @clang/@windows
 
 All the paths from `@c++` to backend `@<>`
