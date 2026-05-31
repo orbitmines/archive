@@ -53,6 +53,8 @@ C. Reprogrammable UI
 ---
 
 `ether l c++ %` - list versions
+@clang/@linux/@apt %(0.16.0 | 0.15.0)
+
 `ether l c++ @` - list locations
 `ether l c++`
 `ether l c++ @clang`
