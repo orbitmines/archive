@@ -52,6 +52,10 @@ C. Reprogrammable UI
 
 ---
 
+`ether l C++ @github %0.16.0`
+
+---
+
 Use bash/sh autocmopleteing once a variable is marked for being a CLI tool.
 
 ---
