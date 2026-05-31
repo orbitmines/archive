@@ -52,7 +52,7 @@ C. Reprogrammable UI
 
 ---
 
-`ether l c++ @github %0.16.0`
+`ether Lang.c++@github %0.16.0`
 
 ---
 
