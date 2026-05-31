@@ -93,6 +93,7 @@ versions themselves might be versioned (if there was a patch without a version n
 `ray` // maps to `ether @ray`
 
 `.ether/external/@/@clang/@windows/@x86-64/%/0.16.0`
+// Legacy support is @dir top-level and only @/ is used for users. Then only @ is a directory name that's not allowed.
 
 ---
 
