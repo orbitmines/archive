@@ -52,11 +52,11 @@ C. Reprogrammable UI
 
 ---
 
-`ether lang c++`
-`ether lang c++ @clang`
-`ether lang c++ @gcc`
-`ether lang c++ @zig`
-`ether lang c++ @github %0.16.0`
+`ether # c++`
+`ether # c++ @clang`
+`ether # c++ @gcc`
+`ether # c++ @zig`
+`ether # c++ @github %0.16.0`
 
 ---
 
