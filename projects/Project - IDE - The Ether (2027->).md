@@ -70,6 +70,7 @@ latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
 `ether @c++ @gcc`
 `ether @c++ @zig`
 `ether @c++ @github/releases %0.16.0`
+`ether @c++ @github/releases/@linux/@x86-64 %0.16.0`
 `ether @c++ @github %0.16.0`
 `ether @c++ @github %specific-branch`
 `ether @c++ @clang/@windows/@x86-64 %0.16.0`
