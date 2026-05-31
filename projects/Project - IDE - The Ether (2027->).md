@@ -81,6 +81,7 @@ Reserve .ray for the mapping @ray/@c++ which wraps the characters which flag the
 `ether @c++.ray @windows %0.16.0`
 
 `ether @ray []`
+`ray` // maps to `ether @ray`
 
 `.ether/external/@/@clang/@windows/@x86-64/%/0.16.0`
 
