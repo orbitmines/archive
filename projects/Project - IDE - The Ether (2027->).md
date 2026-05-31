@@ -52,6 +52,10 @@ C. Reprogrammable UI
 
 ---
 
+Use bash/sh autocmopleteing once a variable is marked for being a CLI tool.
+
+---
+
 What about a model where we don't setup the infrastructure ourselves, but privately host a cloud account for each separate user, with credentials tied to their stuff and potentially only backups of credentials through us. [prompt to backup?]
 
 X cost associated with complicated access permissions; have to run those 'functions' on the providers. (on the @X m$)
