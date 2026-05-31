@@ -58,17 +58,18 @@ C. Reprogrammable UI
 %0.15.0 @clang/@linux/@apt | @clang/@windows
 latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
 
-
 `ether l c++ @` - list locations
+@clang/@linux/@apt | @clang/@windows
+
 `ether l c++`
 `ether l c++ @clang`
 `ether l c++ @gcc`
 `ether l c++ @zig`
 `ether l c++ @github %0.16.0`
-`ether $ c++ @github %specific-branch`
-`ether $ c++ @clang/@windows/@x86-64 %0.16.0`
-`ether $ c++ @x86-64 %0.16.0`
-`ether $ c++ @windows %0.16.0`
+`ether l c++ @github %specific-branch`
+`ether l c++ @clang/@windows/@x86-64 %0.16.0`
+`ether l c++ @x86-64 %0.16.0`
+`ether l c++ @windows %0.16.0`
 
 `.ether/external/@/@clang/@windows/@x86-64/%/0.16.0`
 
