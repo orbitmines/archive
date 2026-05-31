@@ -96,7 +96,7 @@ versions themselves might be versioned (if there was a patch without a version n
 // Legacy support is @dir top-level and only @/ is used for users. Then only @ is a directory name that's not allowed. How to differentiate between @ usage though. escaped or something?
 That way we can say the top-level `.ether/external/@/@clang` is the currently checked out version, with all the versions in the `nested @`. After a change is made, but switched to a diff version, we put it under `.ether/external/@/@clang/@<USER>`
 
-`.ether/external/@/@clang/@windows/@x86-64/%/0.16.0`
+`.ether/external/@/@clang/$/@windows/@x86-64/%/0.16.0`
 
 ---
 
