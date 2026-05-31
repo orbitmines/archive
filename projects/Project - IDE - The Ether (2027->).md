@@ -80,9 +80,9 @@ Reserve .ray for the mapping @ray/@c++ which wraps the characters which flag the
 `ether @c++.ray @x86-64 %0.16.0`
 `ether @c++.ray @windows %0.16.0`
 
-`ether @c++ download`
-`ether @c++ install`
-`ether @c++ install`
+`ether clone @c++`
+`ether @c++`
+`ether @c++`
 
 expects a `entrypoint.cli.ray` entrypoint. 
 
