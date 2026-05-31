@@ -66,7 +66,7 @@ latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
 @clang/@linux/@apt | @clang/@windows
 
 All the paths from `@c++` to backend `@<>`
-Reserve .ray for the mapping @ray/@c++ which wraps the characters which flag themselves as languages. Syntax sugar to differentiate with the @ to make more readable.
+Reserve .ray for the mapping @ray/@c++ which wraps the characters which flag themselves as languages. Syntax sugar to differentiate with the @ to make more readable. Protection from typos because .[] are reserved for domains, is .ra something?
 `ether @c++`
 `ether @c++.ray`
 `ether @c++.ray @clang`
