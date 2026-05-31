@@ -63,6 +63,8 @@ C. Reprogrammable UI
 `ether l c++ @x86-64 %0.16.0`
 `ether l c++ @windows %0.16.0`
 
+`.ether/external/@/@clang/@windows/@x86-64/%/0.16.0`
+
 ---
 
 Use bash/sh autocmopleteing once a variable is marked for being a CLI tool.
