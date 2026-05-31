@@ -59,6 +59,7 @@ C. Reprogrammable UI
 `ether l c++ @gcc`
 `ether l c++ @zig`
 `ether l c++ @github %0.16.0`
+`ether l c++ @github %specific-branch`
 `ether l c++ @clang/@windows/@x86-64 %0.16.0`
 `ether l c++ @x86-64 %0.16.0`
 `ether l c++ @windows %0.16.0`
