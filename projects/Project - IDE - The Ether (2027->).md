@@ -97,8 +97,10 @@ versions themselves might be versioned (if there was a patch without a version n
 That way we can say the top-level `.ether/external/@/@clang` is the currently checked out version, with all the versions in the `nested @`. After a change is made, but switched to a diff version, we put it under `.ether/external/@/@clang/@<USER>`
 
 `.ether/external/@/@clang/@windows/@x86-64/%/0.16.0`
-is actually
-`.ether/external/@/@clang/@ether/@windows/@ether/@x86-64/%/0.16.0`
+
+---
+
+what to do with the platforms which have a @ether name registered?
 
 ---
 
