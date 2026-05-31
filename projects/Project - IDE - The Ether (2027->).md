@@ -82,7 +82,7 @@ Reserve .ray for the mapping @ray/@c++ which wraps the characters which flag the
 
 `ether clone @c++`
 `ether install @c++`
-`ether use @c++`
+`ether use @c++` // Is like a checkout to a branch
 `ether use --global @c++`
 
 expects a `entrypoint.cli.ray` entrypoint. 
