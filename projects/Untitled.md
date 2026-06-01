@@ -5,4 +5,8 @@ Two distinct futures:
 - Dynamic Interfaces
 	- 
 
+- 'Universal' Standards
+
 - Reuse existing software
+
+- 
