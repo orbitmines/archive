@@ -7,7 +7,7 @@ Two distinct futures:
 	- Enabling citizen scientists
 	- Tool -> Education
 - Dynamic Interfaces
-	- 
+	- Platforms go away, and instead we have people doing optimization (databases, dataformats etc.), 
 
 - 'Universal' Standards
 
@@ -15,3 +15,5 @@ Two distinct futures:
 
 - Doing this on the level of applications is too hard right now, start with languages.
 - 'Universal' Language
+
+
