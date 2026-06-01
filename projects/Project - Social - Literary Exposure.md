@@ -129,7 +129,8 @@ console.log(res);
 
 - :youtube: :lex_fridman_podcast: [FFmpeg: The Incredible Technology Behind Video on the Internet | #496 (2026)](https://www.youtube.com/watch?v=nepKKz-MzFM) ;  *Jean-Baptiste Kempf, Kieran Kunhya, Lex Fridman*
 - :youtube: [Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup (2026)](https://www.youtube.com/watch?v=U46fJ2bJ-co) ;  *Bjarne Stroustrup, Ryan Peterman*
-- :youtube: [The Magic Of ARM w/ Casey Muratori (2026)](https://www.youtube.com/watch?v=Zr09I5OlOjs) ;  *Casey Muratori, ThePrimeagen*
+- :youtube: [The Magic Of ARM w/ Casey Muratori (2024)](https://www.youtube.com/watch?v=Zr09I5OlOjs) ;  *Casey Muratori, ThePrimeagen*
+- :youtube: [X86 Needs To Die (2024)](https://www.youtube.com/watch?v=xCBrtopAG80) ;  *Casey Muratori, ThePrimeagen*
 
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
