@@ -131,7 +131,7 @@ console.log(res);
 - :youtube: [Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup (2026)](https://www.youtube.com/watch?v=U46fJ2bJ-co) ;  *Bjarne Stroustrup, Ryan Peterman*
 - :youtube: [The Magic Of ARM w/ Casey Muratori (2024)](https://www.youtube.com/watch?v=Zr09I5OlOjs) ;  *Casey Muratori, ThePrimeagen*
 - :youtube: [X86 Needs To Die (2024)](https://www.youtube.com/watch?v=xCBrtopAG80) ;  *Casey Muratori, ThePrimeagen*
-- :youtube: [The Real Problems w/ Git (2025)](https://www.youtube.com/watch?v=t6qL_FbLArk) ;  *TJ DeVries*
+- :youtube: [The Real Problems w/ Git (2025)](https://www.youtube.com/watch?v=t6qL_FbLArk) ;  *ThePrimeagen, Casey Muratori, TJ DeVries, *
 - :youtube: [The Only Unbreakable Law (2022)](https://www.youtube.com/watch?v=5IUj1EZwpJY) ;  *Casey Muratori*
 
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
