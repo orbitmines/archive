@@ -1,4 +1,4 @@
-
+Attempt
 
 Two distinct futures:
 - Gamification
@@ -13,4 +13,5 @@ Two distinct futures:
 
 - Reuse existing software
 
-- 
+- Doing thi
+- 'Universal' Language
