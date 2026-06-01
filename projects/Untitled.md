@@ -7,7 +7,7 @@ Two distinct futures:
 	- Enabling citizen scientists
 	- Tool -> Education
 - Dynamic Interfaces
-	- Platforms go away, and instead we have people doing optimization (databases, dataformats etc.), 
+	- Platforms go away, and instead we have people doing optimization (databases, dataformats etc.), picking representations (UI), where it is hosted (servers).
 
 - 'Universal' Standards
 
