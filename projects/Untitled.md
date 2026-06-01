@@ -13,5 +13,5 @@ Two distinct futures:
 
 - Reuse existing software
 
-- Doing thi
+- Doing this on the level of applications is too hard right now, start with languages.
 - 'Universal' Language
