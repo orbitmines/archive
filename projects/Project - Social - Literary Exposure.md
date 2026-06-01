@@ -127,8 +127,8 @@ console.log(res);
 - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)](https://mahaloz.re/dec-history-pt1) ; *Zion Leonahenahe Basque*
 - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 2 (2024)](https://mahaloz.re/dec-history-pt2) ; *Zion Leonahenahe Basque*
 
-- :youtube: :lex_fridman_podcast: [FFmpeg: The Incredible Technology Behind Video on the Internet | #496 (2026)](https://www.youtube.com/watch?v=nepKKz-MzFM) ;  **
-- :youtube: [Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup (2026)](https://www.youtube.com/watch?v=U46fJ2bJ-co&t=1s) ;  **
+- :youtube: :lex_fridman_podcast: [FFmpeg: The Incredible Technology Behind Video on the Internet | #496 (2026)](https://www.youtube.com/watch?v=nepKKz-MzFM) ;  *Jean-Baptiste Kempf, Kieran Kunhya, Lex Fridman*
+- :youtube: [Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup (2026)](https://www.youtube.com/watch?v=U46fJ2bJ-co) ;  *Bjarne Stroustrup*
 
 # 2026, February-April - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
