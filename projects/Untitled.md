@@ -11,7 +11,7 @@ Two distinct futures:
 
 - 'Universal' Standards
 
-- Reuse existing software
+- Reuse existing software, forcing collaboration
 
 - Doing this on the level of applications is too hard right now, start with languages.
 - 'Universal' Language
