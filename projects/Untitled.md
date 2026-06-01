@@ -5,6 +5,7 @@ Two distinct futures:
 	- Conceptually hard, no good example exists 
 	- You can imagine small rudimentary tool use
 	- Enabling citizen scientists
+	- Tool -> Education
 - Dynamic Interfaces
 	- 
 
