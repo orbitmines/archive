@@ -117,6 +117,12 @@ console.log(res);
 ---
 
 ![[Pasted image 20240604084826.png]]
+
+# 2026, June - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+
+### Literary Exposure
+- [The next unit of science: Is the scientific paper due to be replaced? (2026)](https://www.thetransmitter.org/from-bench-to-bot/the-next-unit-of-science-is-the-scientific-paper-due-to-be-replaced/) ; *Tim Requarth*
+
 # 2026, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
