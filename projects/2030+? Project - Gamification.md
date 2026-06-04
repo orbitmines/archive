@@ -339,6 +339,10 @@ Open hud hand swipe right, left to close
   
 actual encryption schemes linked to a spatial graph to hide things in a world
 
+While the world is loading first load a skeleton than fill in - hologram version of the world, load textures required first. Start downloading friends' worlds in advance or the ones you're browsing through 
+
+Public lobby in which the popup appears to enter the world if it's a paid one like a game
+
 ---
 
 What if we tried programming first, how would you gamify aspects of it? We're essentially saying how do you compress something which has so many degrees of freedom, into something which is much less flexible; less degrees of freedom, yet maintain the same sort of functionality.

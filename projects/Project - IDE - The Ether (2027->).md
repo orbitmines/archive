@@ -256,6 +256,14 @@ Method for checking whether something came from the STD or from some other packa
 
 ---
 
+A chat which just hosts the diff of what you last saw from it
+
+---
+
+resolve ambiguity through rhe editor
+
+---
+
 Versioning: My current thinking is that even though SemVer is widely adopted, the meaning of what is a major/minor/patch is a bit diluted. This is probably because there are multiple levels of arbitrariness to the version number. So approach is rather simple; reduce this to just a single point of arbitrariness: the major version, which is increased after a simple question is answered: Is there a breaking change in its publicly facing API? With the exception of the major version number 0; it is allowed to introduce breaking changes at will.
 
 ---
