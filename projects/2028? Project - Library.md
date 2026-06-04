@@ -54,6 +54,16 @@ Say you're able to achieve some level of interpretability here, what would you w
 
 - You can imagine if this is taken far enough that one can design an operating system that takes all the other operating systems' executables and can execute them.
 
+---
+
+The Ether Library Project - Unification; Interoperability of Programming Languages
+
+ Superposing languages, influence graph cross languages.
+
+Auto-equivalence language features where possible
+
+---
+
 # Tools for Excavation of Languages
 Reverse equivalence graph - add abstract definitions instead of specific code
 

@@ -112,6 +112,14 @@ Recognizing the language like ffempeg does and tthe version
 
 sesrch for equivalences or possible generalizability hint suggest
 
+How to say parent shouldn't be visible but I should be readable, or the other? Which is the default.
+
+Can a program access network? modifier for it / not just a status for @me
+
+---
+
+Non returning functions
+
 ---
 
 Use bash/sh autocmopleteing once a variable is marked for being a CLI tool.
