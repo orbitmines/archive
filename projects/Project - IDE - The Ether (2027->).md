@@ -105,6 +105,14 @@ what to do with the platforms which have a @ether name registered?
 
 ---
 
+optimization per function
+
+Recognizing the language like ffempeg does and tthe version
+
+
+
+---
+
 Use bash/sh autocmopleteing once a variable is marked for being a CLI tool.
 
 ---
