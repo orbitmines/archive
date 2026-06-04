@@ -286,6 +286,10 @@ Generate room for me, or choose your own, then type of room picker and at every 
 
 ---
 
+image shown in the game is a compressed variant actually transferring transfers the whole file
+
+---
+
 Now how do you make it feel like a game?
 
 # **Avatar**
