@@ -126,6 +126,10 @@ Use bash/sh autocmopleteing once a variable is marked for being a CLI tool.
 
 ---
 
+Some screen ; or location, modify what it is allowed to see; which permission level it has, @public for instance - streaming for instance.
+
+---
+
 Put private stuff on a separate setup? what are the pros/cons of doing that; mixing in different repos for instance would have to get it from multiple machines.
 
 ---
