@@ -218,6 +218,36 @@ warp-level primitives?
 - Spatial separation is what allows for parallel/simultaneous rewrites under some maximum travel speed (for causality) 
 
 ---
+
+[2026-03-13]
+
+A pattern means we're on a bridge between a low entropy region and a high entropy region?
+
+or rather
+
+A pattern means we're on a bridge between a smaller-size region, which maps to the higher-size region.
+
+So low entropy means these bridges exist for me.
+You can go from low entropy to high easily (many paths away from low entropy) Not many to.
+
+Is it that, the closer you are to a low entropy node the less paths exist? Lower entropy nodes are more part of loops?
+
+Because closeness to low entropy means things close to me are also closer to low entropy. So it must be gradual: Every transformation means I'm either staying in the same group which all share the same symmetry. Or I'm moving closer/further from a low entropy node.
+
+So if there's a loop; Say something which loops every 3 steps -A-B-C- then either they're all in the same symmetry; and have the same entropy, or one is lowerentropy; there's a step from there to some other group. Or two of them are lowentropy and the other higher.
+Even if you have a loop you cannot tell which it is 
+
+Then methods which are generally reversible; for all inputs always stay within the same symmetry; everything in that loop has the same entropy.
+
+So we only consider transformations which increase or decrease the amount of bits. Or which are reversible for our input, but not generally. 
+
+---
+
+criticality diamond
+
+macro/micro is islands
+
+---
 [[2025-02-28]]
 Particles as tangled space
 

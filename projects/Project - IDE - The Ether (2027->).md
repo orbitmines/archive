@@ -431,6 +431,20 @@ status, custom icon
 on any icon generate a set of sub=files under it with are the file in different formats.
 
 ---
+
+Use loadbalancer from some cloud or use load balancer to test a new feature from builtin
+
+Certain updates across functions go together; some grouping version
+
+Applications run some code as their application creator for permissions? When is @me used then? (for your own code, or if you lifted the code to your own permissions) Because if I want to execute on someone elses device it should probably say @company wants to execute on your device originating from @me; this originating from; would you want a chain of characters there? Or just a single
+
+Default ether code is just @ether too? But we say locally @ether has access, nonlocally they don't. ; Then allow/disallow derivatives of that data to go over the network. So separate permission for whether it and its derivatives can be communicated across the network; or specific derivatives like a count of something.
+
+Then you give the local version of that @company access to certain information (on disk) or whatever.
+
+If conditional on their thing running have a dynamically if on their
+
+---
 # Database
 Class$ uses that. - in memory/disk dynamically when necessary
 - Optionally distributed
