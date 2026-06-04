@@ -245,6 +245,10 @@ mixed lang .js.ray where the .js is interpreted and the primitives of ray are un
 
 ---
 
+Semantics preserving refactor if deemed equivalent or not
+
+---
+
 Warning on multiline () with a , either you want it there or add a newline between the two.
 
 Warning first statement not allowed to contain leading whitespaces.
