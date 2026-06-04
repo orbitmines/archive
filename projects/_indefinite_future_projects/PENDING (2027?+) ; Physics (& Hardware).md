@@ -180,6 +180,12 @@ Take the example of more mass; more local structure; how does that determine how
 
 ---
 
+Science communication platform; Alex; would need some way of promoting the idea of open science communication incentivize; integrated platform where credit is properly assigned in different degrees of casaul power. Adnthings like semantic search of ideas whether there's overlap in ideas.
+
+Could be achieved my modelling the knowledge of some player, and (while not publicizing it), make parts of it viewable when wanting to attribute certain works.
+
+---
+
 - AMD rant from George - some important stuff
 	- Rockchip? RK3588
 	- HSA to sidestep userend
