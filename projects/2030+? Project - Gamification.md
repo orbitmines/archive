@@ -336,9 +336,7 @@ Example problems:
 ---
 
 Open hud hand swipe right, left to close
-
   
-
 actual encryption schemes linked to a spatial graph to hide things in a world
 
 ---

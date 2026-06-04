@@ -79,6 +79,7 @@ Reserve .ray for the mapping @ray/@c++ which wraps the characters which flag the
 `ether @c++.ray @clang/@windows/@x86-64 %0.16.0`
 `ether @c++.ray @x86-64 %0.16.0`
 `ether @c++.ray @windows %0.16.0`
+`ether @c++ @local` // use locally installed version
 
 `ether clone @c++`
 `ether install @c++`
@@ -109,7 +110,7 @@ optimization per function
 
 Recognizing the language like ffempeg does and tthe version
 
-
+sesrch for equivalences or possible generalizability hint suggest
 
 ---
 
