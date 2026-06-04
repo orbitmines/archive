@@ -290,6 +290,13 @@ image shown in the game is a compressed variant actually transferring transfers 
 
 ---
 
+Universe determines global rules for each world.
+World can change those rules
+
+Certaiin regions dropping items is public
+
+---
+
 Now how do you make it feel like a game?
 
 # **Avatar**
