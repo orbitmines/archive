@@ -124,7 +124,9 @@ Can a program access network? modifier for it / not just a status for @me
 %1..5 field
 field %1..5
 ```
-keybiunding to see all versions intermingled, 
+keybiunding to see all versions intermingled, go through each version etc.
+
+support both forward and backwards compatability if desired.
 
 ---
 
