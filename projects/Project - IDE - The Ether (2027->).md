@@ -102,6 +102,29 @@ $ dir in a repository is all the difference branches.
 
 ---
 
+Type ? + Error
+Grammar would be interpreted differently for different types so throw error
+
+optimizations 
+- joint allocation 
+
+explicit as flag for equiv graph
+program defines build like style and optimizations
+
+multineline comments nest /* /*
+
+---
+
+var :
+var =
+how to distinguish new vs out if scope assignment copatible
+
+---
+
+namespaces per project : repository
+
+---
+
 what to do with the platforms which have a @ether name registered?
 
 ---
