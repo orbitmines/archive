@@ -230,6 +230,10 @@ entry is origin no self.
 
 ---
 
+reserve macids too?
+
+---
+
 ["A", "B", "C"].map(entry: String + Ray => entry.index)
 ["A", "B", "C"].map(entry: + Ray => entry.index)
 Only provide the + Ray when mentioned explicitely.
