@@ -106,6 +106,10 @@ collapse tests inline iun ide
 
 ---
 
+`:=` by initializing. or `: String = `
+
+---
+
 
 Type ? + Error
 Grammar would be interpreted differently for different types so throw error
