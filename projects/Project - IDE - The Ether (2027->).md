@@ -102,6 +102,11 @@ $ dir in a repository is all the difference branches.
 
 ---
 
+collapse tests inline iun ide
+
+---
+
+
 Type ? + Error
 Grammar would be interpreted differently for different types so throw error
 
