@@ -60,6 +60,10 @@ If user introduced functionality on the same thing we add later in the language 
 
 ---
 
+Syntax highlight red green blue as red green blue. SO highlight the thing calling it too.
+
+---
+
 `ether @c++ %` - list versions
 @clang/@linux/@apt %(0.16.0 | 0.15.0)
 @clang/@windows %(0.16.0 | 0.15.0)
