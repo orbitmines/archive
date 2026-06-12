@@ -56,6 +56,10 @@ Seperate direcorties for different names like orbitmines.com or @orbitmines. (Ma
 
 ---
 
+If user introduced functionality on the same thing we add later in the language def, it should still work, that thing o
+
+---
+
 `ether @c++ %` - list versions
 @clang/@linux/@apt %(0.16.0 | 0.15.0)
 @clang/@windows %(0.16.0 | 0.15.0)
