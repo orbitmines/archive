@@ -60,7 +60,7 @@ If user introduced functionality on the same thing we add later in the language 
 
 ---
 
-Ship with implementation of langauge spec we depended on, that way if the interpreter doesnt support that version yet we can still run on older versions. (forwards-compat)
+Ship with implementation of langauge spec we depended on, that way if the interpreter doesnt support that version yet we can still run on older versions. (forwards-compatibility)
 
 ---
 
