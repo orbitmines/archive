@@ -146,6 +146,10 @@ namespaces per project : repository
 
 ---
 
+Things like an externally controlled mouse with different permissions; or keybaord for that matter.
+
+---
+
 what to do with the platforms which have a @ether name registered?
 
 ---
