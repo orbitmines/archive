@@ -182,7 +182,8 @@ Non returning functions
 
 ---
 
-Call something which isnt filled yet lazily, a
+Call something which isnt filled yet lazily, and assume it can only be put there after it's filled.
+
 
 ---
 
