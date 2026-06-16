@@ -182,6 +182,10 @@ Non returning functions
 
 ---
 
+Call something which isnt filled yet lazily, a
+
+---
+
 Use bash/sh autocmopleteing once a variable is marked for being a CLI tool.
 
 ---
