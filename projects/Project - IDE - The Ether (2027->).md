@@ -60,6 +60,11 @@ If user introduced functionality on the same thing we add later in the language 
 
 ---
 
+`->` exchangable with `,` in most scenarios?
+
+
+---
+
 Ship with implementation of langauge spec we depended on, that way if the interpreter doesnt support that version yet we can still run on older versions. (forwards-compatibility)
 
 ---
