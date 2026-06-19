@@ -52,6 +52,10 @@ C. Reprogrammable UI
 
 ---
 
+^ is right-associtive?
+
+---
+
 Seperate direcorties for different names like orbitmines.com or @orbitmines. (Mainly legacy support)
 
 ---
