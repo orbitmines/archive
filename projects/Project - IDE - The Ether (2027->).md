@@ -56,6 +56,10 @@ Seperate direcorties for different names like orbitmines.com or @orbitmines. (Ma
 
 ---
 
+rty catch implementable with with Diagnostics override the different error levels.
+
+---
+
 If user introduced functionality on the same thing we add later in the language def, it should still work, that thing of isolating the things we override with.
 
 ---
