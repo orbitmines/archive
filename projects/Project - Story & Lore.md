@@ -49,7 +49,7 @@ e2e2e2f327f69667163502e2e2e202f3c6c61666e677f64402e2e2e202f3555555f4f49502562716
 07:40:13.529   INSTANCE   @ether/@eu-west-8   >   @me   :   EP,   length 2cm
 07:40:13.530   INSTANCE   @ether/@eu-west-8   >   @me   :   EP,   length 2cm
 07:40:13.530   INSTANCE   @ether/@eu-west-8   >   @me   :   EP,   length 2cm
-[Ether 0.E2045.0A.0] Initializing...
+[Ether 1.E2047.0A.1] Initializing...
 
 ---
 
