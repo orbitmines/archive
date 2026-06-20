@@ -53,31 +53,6 @@ e2e2e2f327f69667163502e2e2e202f3c6c61666e677f64402e2e2e202f3555555f4f49502562716
 
 ---
 
-[ Player select in the middle [S]]
-
-The sun burned brightly even though it was an early spring day. In particular it seemed the rays of light had chosen a particular person that day, casually sitting on a bench in a small park. Perhaps it was the fact that against the background he stood out particularly, the brightest of green colors around him, against his casual black outfit which blended well with his skin. He remembered not exactly how he got there but time seemed to fly by.
-.    While alone at first, in the constant state of day he noticed all kinds of people orbiting around him. Children at first, who were playing around all the park, one of them even walked up to him and lightly tugged on his knee, he smiled at her lightly before she went off again. Then came the students a little later always formed in their little groups, some eerily gave him a distant feeling remembrance while the greeted him. And eventually some young parents came along, though their kids didn't explore as much, they liked to stay close to their parents apparently.
-.    It appeared to him that he hadn't thought about anything at all, his mind was completely empty right up until the moment of that thought. Rudely interrupting his state of inner peace. It was the sequentialness of thought that made time suddenly flow much, much slower.
-
-The next instant he found himself walking in a university, students scurrying all around him. Though unlike the ones from earlier, these ones barely recognized his existence. Once the hall cleared he heard a rather demanding voice from behind him: 
-.    "Ah, [S]! You're finally here."
-.    He turned around at the strong gravity of the voice. Curious to see what could possibly have produced it. Evidently it matched with the only person standing nearby, ponytailed with distinct set of glasses, she looked almost the exact opposite of him. 
-.    "I've been expecting you!" while pointing her finger at him and smiling greatly.
-.    "You've got a lot to learn, and very little time to do so, so let me quickly walk you through it."
-.    Without him getting a word in, she went off:
-.    "In your area they're testing a new system, which will allow you to, instead of your typical few hundred, address millions upon millions of students. Now I know what you're thinking, it's not the typical make-it-once-for-everyone: You'll be able to steer each of them individually. Not just at our university, but people from all ages."
-.    Looking at him in a brief moment of understanding, before continuing:
-.    "As far as I know your area is the first time we're testing such a system. So there's still a lot of uncertainty into play. Now it's happening to you first, but if this experiment is successful I'm sure that it'll allow the other professors to accelerate their timelines in also supporting such a system for their areas. While I can facilitate your communication with the other professors, I can do little to support your communication with your students during the semesters. So the moment you feel confident your setup is working, come to me to broaden the scope a bit."
-.    Again looking at him briefly, this moment a little longer. No response came from him, but he seemed to be processing the information. So she continued once again, while she guided him towards something:
-.    "I've been given partial access to the system too, though the actions I can take are different but much more restricted than yours. If you notice any mistakes you've made in steering the students, come to me and I'll see what I can do to adjust for those mistakes!"
-.    "Thanks." he said, while she nodded at him.
-.    "Good."
-.    "Oh, and I almost forgot, I'm called [B], so you know how to refer to me. Now this whole thing has kept me quite busy, I've got a meeting with the other universities about all this coming up. I'll let you know how that all goes."
-.    They turned a corner and there was the auditorium [B] had been guiding him towards.
-.    "Before you go in there and start experimenting, one note of caution: They're actively relying on you for this, it's rare that we get to try something like this. I know you like the other professors like to move slowly here, but we cannot afford it this time."
-.    And just like that she was gone, [S] stood there for a little while; collecting himself. Before heading towards the large door and placing his hand on the handle.
-
-
 [Start story in 2045, release day of The Ether]
 [One character is [S], The other B]
 
