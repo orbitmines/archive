@@ -131,6 +131,10 @@ collapse tests inline iun ide
 
 ---
 
+temporary
+
+---
+
 `:=` by initializing. or `: String = `
 
 ---
