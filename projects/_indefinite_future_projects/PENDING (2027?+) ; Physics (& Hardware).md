@@ -59,7 +59,7 @@ Discovery data
 
 ---
 
-Infinitely divisible in the sense that you can always put more stuff in bet
+Infinitely divisible in the sense that you can always put more stuff in between, but at any point in time it is not.
 
 ---
 
