@@ -43,12 +43,12 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 ---
 
-- Wait for 
+- Wait for [[Ready]], while loading the transporter pod.
 
 - "Hi! My name is [[R]], I'll be doing your onboarding today!"
 - [Optional] "Ether's Universe is large. What're you here for?"
 	- Everything.
-	- The minimum. *Skip most dialogue and lore.*
+	- The minimum. *Skip most dialogue, cut scenes and lore.*
 - "Understood. Other than myself, other NPCs (other non-players that is) will keep their interactions at a minimum. Only for purposes like tutorials will we introduce dialogue."
 
 ---
