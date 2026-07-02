@@ -60,6 +60,10 @@ Seperate direcorties for different names like orbitmines.com or @orbitmines. (Ma
 
 ---
 
+visibility, and contract (license).
+
+---
+
 rty catch implementable with with Diagnostics override the different error levels.
 
 ---
