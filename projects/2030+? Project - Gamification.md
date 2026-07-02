@@ -43,7 +43,8 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 ---
 
-- Optional
+- [Optional] Keep lore to a minimum
+- 
 
 ---
 
