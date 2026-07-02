@@ -43,7 +43,9 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 ---
 
-- "Hi! My name is [[R]], "
+- Wait for 
+
+- "Hi! My name is [[R]], I'll be doing your onboarding today!"
 - [Optional] "Ether's Universe is large. What're you here for?"
 	- Everything.
 	- The minimum. *Skip most dialogue and lore.*
