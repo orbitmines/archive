@@ -43,6 +43,10 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 ---
 
+- Optional
+
+---
+
 # Constrained Physical Propagation
 - Blockchains on each node, then the physical move through idea.
 - No random access, need to actually move through the graph to discover or copy the graph.
