@@ -27,7 +27,7 @@ Stargate apparently has an episode/serie on encoding a problem in a videogame.
 ---
 
 - 
-- Archivist: *Make old stuff work again.*
+- Archivist: *Make old stuff work again.* -> Interface into old applications. Turn surface area into a puzzle.
 - Optimizer: *A game of tradeoffs.*
 
 ---
