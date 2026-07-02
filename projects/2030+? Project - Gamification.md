@@ -48,7 +48,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 - "Hi! My name is [[R]], I'll be doing your onboarding today as we approach our destination!"
 - [Optional] "Ether's Universe is large. What're you here for?"
 	- Everything.
-	- The minimum. *Skip most dialogue, cut scenes and lore.*
+	- Tools only. *Skip most dialogue, cut scenes and lore.*
 - "Understood. Other than myself, other NPCs (other non-players that is) will keep their interactions at a minimum. Only for purposes like tutorials will we introduce dialogue."
 
 ---
