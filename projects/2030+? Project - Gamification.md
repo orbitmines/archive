@@ -28,8 +28,10 @@ Stargate apparently has an episode/serie on encoding a problem in a videogame.
 
 - 
 - Archivist: *Make old stuff work again.* -> Interface into old applications. Turn surface area into a puzzle.
-- I
+- Interoperator: *Draw equivalences between interfaces.*
 - Optimizer: *A game of tradeoffs.*
+
+Non-programming things for later? 
 
 ---
 
