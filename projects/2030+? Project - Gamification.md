@@ -49,6 +49,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 - [Optional] "Ether's Universe is large. What're you here for?"
 	- Everything.
 	- Tools only. *Skip most dialogue, cut scenes and lore.*
+- "Alrighty, just got to tune one the gadgets installed in your eye back on Earth, and then we're ready to go. "
 - "Great! Then let me without further ado... \*static\*" *crash out of view*
 - "Understood. Other than myself, other NPCs (other non-players that is) will keep their interactions at a minimum. Only for purposes like tutorials will we introduce dialogue. If you once again want to introduce the other elements back into your experience, you need only change this toggle right here in your settings."
 
