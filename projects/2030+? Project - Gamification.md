@@ -30,9 +30,10 @@ Browse applications applicable to specific interface. (currently interopable). B
 
 Software-world "Real jobs from the Ether":
 - Designer: *Pick target Interface, create an U-Interface for it.*
-- Archivist: *Make old stuff work again.* -> Interface into old applications. Turn surface area into a puzzle.
+- Archivist: *Make old stuff work again. (shared between it and interoperator)* -> Interface into old applications. Turn surface area into a puzzle.
 - Interoperator: *Draw equivalences between interfaces.*
 - Optimizer: *A game of tradeoffs.*
+- 
 
 Non-programming things for later? Understanding of chemistry/biology/etc. whatever field needed to properly create avenues there.
 
