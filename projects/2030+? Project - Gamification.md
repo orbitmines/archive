@@ -49,6 +49,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 - [Optional] "Ether's Universe is large. What're you here for?"
 	- Everything.
 	- Tools only. *Skip most dialogue, cut scenes and lore.*
+- "Great! "
 - "Understood. Other than myself, other NPCs (other non-players that is) will keep their interactions at a minimum. Only for purposes like tutorials will we introduce dialogue."
 
 ---
