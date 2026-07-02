@@ -26,8 +26,9 @@ Stargate apparently has an episode/serie on encoding a problem in a videogame.
 
 ---
 
-Optimizer
-*A game of tradeoffs.*
+- 
+- Archivist: *Make old stuff work again.*
+- Optimizer: *A game of tradeoffs.*
 
 ---
 
