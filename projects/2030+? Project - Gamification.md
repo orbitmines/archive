@@ -27,7 +27,7 @@ Stargate apparently has an episode/serie on encoding a problem in a videogame.
 ---
 
 Software-world "Real jobs from the Ether":
-- 
+- Designer: *PIck target Interface, create an Interf*
 - Archivist: *Make old stuff work again.* -> Interface into old applications. Turn surface area into a puzzle.
 - Interoperator: *Draw equivalences between interfaces.*
 - Optimizer: *A game of tradeoffs.*
