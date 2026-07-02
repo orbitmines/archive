@@ -26,7 +26,7 @@ Stargate apparently has an episode/serie on encoding a problem in a videogame.
 
 ---
 
-Browse applications applicable to specific interface. (currently interopable). Browse In
+Browse applications applicable to specific interface. (currently interopable). Browse U-Interfaces currently designed for specific interfaces.
 
 Software-world "Real jobs from the Ether":
 - Designer: *Pick target Interface, create an U-Interface for it.*
