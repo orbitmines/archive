@@ -26,8 +26,10 @@ Stargate apparently has an episode/serie on encoding a problem in a videogame.
 
 ---
 
+Browse applications applicable to specific interface. (currently interopable). Browse In
+
 Software-world "Real jobs from the Ether":
-- Designer: *PIck target Interface, create an Interf*
+- Designer: *Pick target Interface, create an U-Interface for it.*
 - Archivist: *Make old stuff work again.* -> Interface into old applications. Turn surface area into a puzzle.
 - Interoperator: *Draw equivalences between interfaces.*
 - Optimizer: *A game of tradeoffs.*
