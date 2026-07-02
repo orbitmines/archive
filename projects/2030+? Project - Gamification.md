@@ -26,6 +26,14 @@ Stargate apparently has an episode/serie on encoding a problem in a videogame.
 
 ---
 
+Optimizer
+*A game of tradeoffs.*
+
+---
+
+- Real jobs from the Ether
+
+---
 
 # Constrained Physical Propagation
 - Blockchains on each node, then the physical move through idea.
