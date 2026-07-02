@@ -45,8 +45,8 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 - ""
 - [Optional] ""
-	- Work & Play. **
-	- Work only. *Skip all dialogue and lore.*
+	- Work & Play.
+	- Work only. *Skip most dialogue and lore.*
 
 ---
 
