@@ -43,9 +43,9 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 ---
 
-- "As we near "
+- ""
 - [Optional] ""
-	- Work & Play.
+	- Full exp.
 	- Work only. *Skip most dialogue and lore.*
 - "Understood. Other than myself, other NPCs (other non-players that is) will keep their interactions at a minimum. Only for purposes like tutorials will we introduce dialogue."
 
