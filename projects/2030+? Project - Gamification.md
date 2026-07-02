@@ -45,7 +45,8 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 - ""
 - [Optional] ""
-	- 
+	- Full
+	- Learni
 	- Work only. *Skip all dialogue and lore.*
 
 ---
