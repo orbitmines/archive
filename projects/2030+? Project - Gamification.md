@@ -47,6 +47,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 - [Optional] ""
 	- Work & Play.
 	- Work only. *Skip most dialogue and lore.*
+- "Good. Other than myself, other NPCs, other non-players that is, will keep their interactions at a minimum. Only for"
 
 ---
 
