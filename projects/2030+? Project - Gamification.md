@@ -44,9 +44,9 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 ---
 
 - ""
-- [Optional] ""
-	- Full exp.
-	- Work only. *Skip most dialogue and lore.*
+- [Optional] "Firstly, let's get"
+	- Everything.
+	- The minimum. *Skip most dialogue and lore.*
 - "Understood. Other than myself, other NPCs (other non-players that is) will keep their interactions at a minimum. Only for purposes like tutorials will we introduce dialogue."
 
 ---
