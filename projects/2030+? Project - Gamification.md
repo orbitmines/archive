@@ -45,7 +45,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 - Wait for [[Ready]] / while having the luna base in view, while loading the transporter pod.
 
-*During onboarding saying something sel*
+*During onboarding saying something selects that option: but doesn't lock it in yet.*
 
 *Quick onboarding*
 - "Hi! ... Hello! My name is [[R]], I'll be doing your onboarding today as we approach our destination!"
