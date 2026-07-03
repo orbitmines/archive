@@ -59,6 +59,8 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 *Arrival*
 Welcome to [[Luna]], you're currently on the [[Galaxy]] base. Each base on [[Luna]] is designated the name and layout of a galaxy out there in deep space (of course as we can see it now). If we've accidentally put you in the wrong galaxy you can always go to the check-in desk to get transferred - which we'll arrive at momentarily. / prefer to put where their friends are.
 
+
+
 *Check-in desk*
 
 -- New character flash their initials next to them when focus is on them long enough.
