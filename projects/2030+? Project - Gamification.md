@@ -57,7 +57,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 - "Understood. Other than myself, other NPCs (other non-players that is) will keep their interactions at a minimum. Only for purposes like tutorials will we introduce dialogue. If you once again want to introduce the other elements back into your experience, you need only change this toggle right here in your settings."
 
 *Check-in desk*
-Welcome to [[Luna]], you're currently on the [[Galaxy]] base. Each base on [[Luna]] is designated the name of a galaxy, if we've accidentally   
+Welcome to [[Luna]], you're currently on the [[Galaxy]] base. Each base on [[Luna]] is designated the name and layout of a galaxy out there in deep space, of course as we can se, if we've accidentally put you in the wrong galaxy  
 
 ---
 
