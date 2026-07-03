@@ -63,7 +63,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 *Check-in desk*
 
 *Guide*
-If you'll follow me I can show you the way to 
+[[R]] If you'll follow me I can show you the way to your room. It's on the other end of the base. Or feel free to explore a little first! In that case I'll guide you where 
 
 
 -- New character flash their initials next to them when focus is on them long enough.
