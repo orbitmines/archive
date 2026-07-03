@@ -43,7 +43,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 ---
 
-- Wait for [[Ready]], while loading the transporter pod.
+- Wait for [[Ready]] / while having the luna base in view, while loading the transporter pod.
 
 - "Hi! My name is [[R]], I'll be doing your onboarding today as we approach our destination!"
 - [Optional] "Ether's Universe is large. What're you here for?"
