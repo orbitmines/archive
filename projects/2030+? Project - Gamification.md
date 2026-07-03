@@ -45,10 +45,12 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 - Wait for [[Ready]] / while having the luna base in view, while loading the transporter pod.
 
+*During onboarding saying something sel*
+
 *Quick onboarding*
 - "Hi! ... Hello! My name is [[R]], I'll be doing your onboarding today as we approach our destination!"
 - "Sorry, before I forget, which language would you like me to speak? I'm afraid we didn't get your preferences from Earth. I'll make a best effort translation until we get proper translations in our system."
-	- Language
+	- Language (flashing in and out different language's translations of the word language) - [Type/Speak something]
 - [Optional] "Ether's Universe is large. What're you here for?"
 	- Everything.
 	- Tools only. *Skip most dialogue, cut scenes and lore.*
