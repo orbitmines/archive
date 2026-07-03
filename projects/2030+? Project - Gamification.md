@@ -57,7 +57,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 - "Understood. Other than myself, other NPCs (other non-players that is) will keep their interactions at a minimum. Only for purposes like tutorials will we introduce dialogue. If you once again want to introduce the other elements back into your experience, you need only change this toggle right here in your settings."
 
 *Check-in desk*
-Welcome 
+Welcome to 
 
 ---
 
