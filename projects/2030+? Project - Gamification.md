@@ -62,7 +62,9 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 *Check-in desk*
 
-**
+*Guide*
+
+
 
 -- New character flash their initials next to them when focus is on them long enough.
 
