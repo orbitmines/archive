@@ -47,7 +47,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 
 *Quick onboarding*
 - "Hi! ... Hello! My name is [[R]], I'll be doing your onboarding today as we approach our destination!"
-- "Sorry, before I forget, which Language would you like me to speak? I'm afraid we didn't "
+- "Sorry, before I forget, which language would you like me to speak? I'm afraid we didn't get your preferences from Earth. I'll make a best effort "
 - [Optional] "Ether's Universe is large. What're you here for?"
 	- Everything.
 	- Tools only. *Skip most dialogue, cut scenes and lore.*
