@@ -63,7 +63,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 *Check-in desk*
 
 *Guide*
-
+If you'll follow me I can show you the way to 
 
 
 -- New character flash their initials next to them when focus is on them long enough.
