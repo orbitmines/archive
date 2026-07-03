@@ -56,7 +56,8 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 	- *Fly out of the window quickly to the moon base.*  ; *Ether*. *See the ship approaching*, then fly back into the head and shock the character back. Now standing at the window themselves.
 - "Understood. Other than myself, other NPCs (other non-players that is) will keep their interactions at a minimum. Only for purposes like tutorials will we introduce dialogue. If you once again want to introduce the other elements back into your experience, you need only change this toggle right here in your settings."
 
-
+*Check-in desk*
+Welcome 
 
 ---
 
