@@ -55,7 +55,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 - [Optional] "Ether's Universe is large. What're you here for?"
 	- Everything.
 	- Tools only. *Skip most dialogue, cut scenes and lore.*
-- "Our technology has brought us the unique opportunity where we can branch off a particular state in the world. We'll go through a @public lobby in order to get to your private"
+- "We'll need to go through a @public lobby in order to get to your @private room. Our technology has brought us the unique opportunity where we can branch off a particular state in the world which you can explore without the in"
 - "Alrighty, just got to tune one this one knob here on reality and we're ready to go."
 	- Realistic
 	- Voxel
