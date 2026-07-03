@@ -57,7 +57,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 	- Tools only. *Skip most dialogue, cut scenes and lore.*
 - "We'll need to go through a @public lobby in order to get to your @private room. Our technology has brought us the unique opportunity where we can branch off a particular state in the world which you can explore in private, you can of course return to the current world at any time."
 	- Go online. *You'll be online in @public lobbies, your @private room is optimistically offline.*
-	- Pessimistically online. *You'll be off* 
+	- Pessimistically online. *You'll be online, but you'll have to confirm when you're about to enter a @public area.*
 	- Invisible. *You'll be online, but only visible to us (@ether).*
 	- Optimistically offline. *You'll be forced to confirm any type of network access each time.*
 	- Always offline. *No network access is allowed.*
