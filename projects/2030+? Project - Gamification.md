@@ -55,7 +55,7 @@ Non-programming things for later? Understanding of chemistry/biology/etc. whatev
 - [Optional] "Ether's Universe is large. What're you here for?"
 	- Everything.
 	- Tools only. *Skip most dialogue, cut scenes and lore.*
-- "We "
+- "Our technology has brought us the unique opportunity where we can branch off a pocket "
 - "Alrighty, just got to tune one this one knob here on reality and we're ready to go."
 	- Realistic
 	- Voxel
