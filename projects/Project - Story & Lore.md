@@ -65,6 +65,9 @@ e2e2e2f327f69667163502e2e2e202f3c6c61666e677f64402e2e2e202f3555555f4f49502562716
 [One character is [S], The other B]
 
 
+*Then there is the possibility of the universe allowing physical access to history. Or must we always actively preserve? Exciting the world would be where preservation would be less costly, but the extend to which we would keep records would border on a disorder. We would put version control on the entire universe if we could - that is how much we value history.*
+***from [[2054.A]] 2054***
+
 ---
 ### Chapter []
 *It is clear to us now that we must rethink our phrasing. We tried our hand at being generalists, forgetting that one can always take that dangerous path one step further. It is perhaps this we should learn from the psychotic.*
