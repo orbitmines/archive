@@ -22,6 +22,7 @@
 - S going through the stages
 - I suppose the closest translation would be Ramses
 - Herein lies the account of
+- Following Armac's bicentennial address
 
 - Rafar Kemet
 - Kyra Empson
