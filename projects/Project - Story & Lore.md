@@ -9,7 +9,7 @@
   [IIB] - Friend B (from uni)
   [IIC] - Friend C (from uni)
   [IID] - Professor Computer Science
-**[III]** - "Researcher @ Ether" - Reverse story telli
+**[III]** - "Researcher @ Ether" - Reverse story telling, going into the past?
   [IIIA] - 
   [IIIB] - 
   [IIIC] - 
