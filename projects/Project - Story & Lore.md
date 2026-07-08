@@ -9,7 +9,7 @@
   [IIB] - Friend B (from uni)
   [IIC] - Friend C (from uni)
   [IID] - Professor Computer Science
-**[III]** - "Researcher @ Ether"
+**[III]** - "Researcher @ Ether" - Reverse story telli
   [IIIA] - 
   [IIIB] - 
   [IIIC] - 
