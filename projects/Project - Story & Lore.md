@@ -21,10 +21,12 @@
 - Programmed vs already the case?
 - S going through the stages
 - I suppose the closest translation would be Ramses
+- Herein lies the account of
 
 - Rafar Kemet
 - Kyra Empson
 - The X siblings
+
 
 #### Prologue
 *A mind incapable of being reprogrammed is a vulnerable one. But you are never more vulnerable when you are being reprogrammed! Whether this is self-inflicted or is done so by your environment is of little consequence. After you're in a more stable state, can you more closely represent what reality is?*
