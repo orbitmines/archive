@@ -29,6 +29,45 @@
 - The X siblings
 
 
+Prologue
+
+II.1
+
+Incident
+Opposite boundaries - extremes - are intricately connected. If your desire is to jump to some extreme: Go to the opposite extreme and jump from there. If your desire is to cancel out an extreme and return to neutral ground: cancel it with its opposite.
+
+
+
+
+
+There was an eerie look to him. As if two puppeteers were battling for control. With every swing to an extreme emotion he wirled to lay on his other side. Going back and forth at each turn, each sentence, each feeling.
+
+
+
+
+
+
+Interlude
+Regramance - the state of reaching total reprogrammability. Criticality. A systems ability operate as a universal computer. In psychological terms partially achievable through means of psychosis.
+
+Drop after drop, rain dripped heavily on the pavement. A dark night sky overseeing the city, became hazy through the veil of rain. Complementary with the veil, the street lights made the street feel warm. Warmth which couldn't be felt by being right in the middle of it. 
+A hooded figure strolled along the streets as a permeating shadow. One of their hands around themselves, while the other was keeping their hood steady. They walked in a quick pace through the street.
+
+
+In an alley in the middle of the city, a hooded figure ran through heavy rain.
+
+
+Solvergence
+
+
+
+
+
+
+
+----
+
+
 #### Prologue
 *A mind incapable of being reprogrammed is a vulnerable one. But you are never more vulnerable when you are being reprogrammed! Whether this is self-inflicted or is done so by your environment is of little consequence. After you're in a more stable state, can you more closely represent what reality is?*
 
