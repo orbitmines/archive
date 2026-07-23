@@ -29,6 +29,7 @@ Can go: (Binary Linux X64)
 https://refspecs.linuxfoundation.org/
 https://decompilation.wiki/fundamentals/cfg-recovery/lifting/
 https://decbench.com/
+https://macabeus.github.io/asmlift/?s=N4IgLghgTg5gpmEAuEEYCMDGmQBoToSYDWcAdgCbIg74QDOAttQAIAEA4uXFBGHBTboAnmxjY2AJgB0ATgC00RvIAMagKwBGSWwBmAeyhsAKgAsAro3QB6OABtdAHTKOw0zPopxXmgGzPpcUxJAH0PRgAHAEs7AWkkAP4ADzBnV2kIOyiYFzBJXDYVNLcYO310O1dMOwhIotzpMGEI7zA2atqIlVxdczJMMCj9FwawCysQ3v7nDrqE3MxI1yhutgBietd0eHSAGQAWVxYPShD0Xn7TYsZ9ADdl1Y2k%2BukD%2Ba2k1zsoAN3dOE07zc9CiAC9Wu0anVcK9-pp5LMus4QABfIA&view=benchmark
 
 Say you're able to achieve some level of interpretability here, what would you want to be able to do?
 - Track and extract features.
