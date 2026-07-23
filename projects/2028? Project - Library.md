@@ -97,6 +97,7 @@ Anything is editable, structure, where outputs happen etc. expandable during exe
 - How to tie in space/time-like complexity to inform learning decisions. Like letting geometry inform decisions on whether something is a useful island (prefer bridges which connect islands.) Space complexity goes down as we use higher-level abstractions.
 - Find higher-level abstractions which would cut down space complexity.
 - Can we somehow encode what we have explored in the network? WIthout having to store all the different paths. In the sense that the state of the network uniquely determines which paths are explored.
+- Develop a program which is encoded in the network?
 
 ### Judgements
 - What does "useful" mean here?
