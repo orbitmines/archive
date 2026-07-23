@@ -94,7 +94,7 @@ Once we have that setup you can ask: How useful is our universal language, impor
 Any order as the learned order
 Anything is editable, structure, where outputs happen etc. expandable during execution, training whatever
 - MOP-like model, but we need some way of judging whether something is its own island in the sence of criticality -> is it hard to find this island?  What does this island allow us to find which other things don't. Energy is how many resources we have already dedicated to this line of inquiry.
-- How to tie in space/time-like complexity to inform learning decisions. Like letting geometry inform decisions on whether something is a useful island (prefer bridges which con)
+- How to tie in space/time-like complexity to inform learning decisions. Like letting geometry inform decisions on whether something is a useful island (prefer bridges which connect islands.) Space complexity goes down as we use higher-level abstra
 - Can we somehow encode what we have explored in the network? WIthout having to store all the different paths. In the sense that the state of the network uniquely determines which paths are explored.
 
 ### Judgements
