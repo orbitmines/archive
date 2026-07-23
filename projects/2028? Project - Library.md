@@ -93,7 +93,10 @@ Once we have that setup you can ask: How useful is our universal language, impor
 ## Model
 Any order as the learned order
 Anything is editable, structure, where outputs happen etc. expandable during execution, training whatever
-- MOP-like model, but we need some way of judging whether something is its own island in the sence of criticality -> is it hard to find this island?  What does this island allow us to find which 
+- MOP-like model, but we need some way of judging whether something is its own island in the sence of criticality -> is it hard to find this island?  What does this island allow us to find which other things don't.
+- How to tie in space/time-like complexity to inform learning decisions.
+- 
+
 ### Judgements
 - What does "useful" mean here?
 	- Lowest complexity of existing languages
