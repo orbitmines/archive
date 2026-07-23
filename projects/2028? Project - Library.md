@@ -100,7 +100,7 @@ Anything is editable, structure, where outputs happen etc. expandable during exe
 - Can we somehow encode what we have explored in the network? WIthout having to store all the different paths. In the sense that the state of the network uniquely determines which paths are explored.
 - Develop a program which is encoded in the network?
 
-
+Is there a hashing algorithm given a fixed number of possible operations w
 
 ### Judgements
 - What does "useful" mean here?
