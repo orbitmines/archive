@@ -96,7 +96,7 @@ Anything is editable, structure, where outputs happen etc. expandable during exe
 - MOP-like model, but we need some way of judging whether something is its own island in the sence of criticality -> is it hard to find this island?  What does this island allow us to find which other things don't. Energy is how many resources we have already dedicated to this line of inquiry.
 - How to tie in space/time-like complexity to inform learning decisions. Like letting geometry inform decisions on whether something is a useful island (prefer bridges which connect islands.) Space complexity goes down as we use higher-level abstractions.
 - Find higher-level abstractions which would cut down space complexity.
-- You'd describe gradient descent as simply stating that the observed geometry is curved. That curve might lead to tunnels.
+- You'd describe gradient descent as simply stating that the observed geometry is curved. --> More spatially dense such that a random walk would land you inside it more often than not. That curve might lead to tunnels.
 - Can we somehow encode what we have explored in the network? WIthout having to store all the different paths. In the sense that the state of the network uniquely determines which paths are explored.
 - Develop a program which is encoded in the network?
 
