@@ -24,4 +24,4 @@ Or if you then make the general leap to the following:
 
 You might also introduce some loops in this, create some branches, add a few fields in there. Our inside joke being everything is everything is everything.
 
-The point again being that these terms. What is your frontend, what is your backend. Are relative once again. One of the bigger philosophical results from computer science, is that the requirements for creating a loop in a hierarchy of systems like this, are incredibly small. By which I mean to say that
+The point again being that these terms. What is your frontend, what is your backend. Are relative once again. One of the more famous philosophical results from computer science, is that the requirements for creating a loop in a hierarchy of systems like this, are incredibly small. By which I mean to say that I can turn any language
