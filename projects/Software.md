@@ -22,4 +22,6 @@ Or if you then make the general leap to the following:
 
 ![[Pasted image 20260726154515.png]]
 
-You might also introduce some loop in this, add a few fields in there.
+You might also introduce some loops in this, create some branches, add a few fields in there.
+
+The point again being that these terms. What is your frontend, what is your backend. A
