@@ -1,1 +1,1 @@
-If I were to cater to an interdisciplinary audience, how would I be of use as a lowly programmer. I could title it something pretentious like "The Future of Software" which doesn't sit quite well with me in the same sense 
+If I were to cater to an interdisciplinary audience, how would I be of use as a lowly programmer. I could title it something pretentious like "The Future of Software" which doesn't sit quite well with me in the same sense that the connotation of 'modern X', albeit art/.../tools. Just means contemporary with 
