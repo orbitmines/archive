@@ -5,4 +5,7 @@ I could make great claims like saying we all write software, interact with softw
 I could draw graphs, making conclusions about when hardware turns into software, and software turns into hardware. Describing different levels of emergence.
 
 
+
 But that wouldn't be particularly useful.
+
+I mean of course to describe 
