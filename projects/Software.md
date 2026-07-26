@@ -1,1 +1,1 @@
-If I were to cater to an interdisciplinary audience, how would I be of use as a lowly programmer. I could name the title of my talk something pretentious like "The Future of Software"
+If I were to cater to an interdisciplinary audience, how would I be of use as a lowly programmer. I could name the title something pretentious like "The Future of Software".
