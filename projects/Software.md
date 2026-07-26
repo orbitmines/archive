@@ -16,3 +16,5 @@ Let me instead describe a problem, which you may or may not identify with. Witho
 
 I mean of course to describe... Biology. No wait, I mean, Physics. No wait I mean science in general. No wait, I mean programming languages, I'm a programmer after all.
 
+![[Pasted image 20260726154515.png]]
+
