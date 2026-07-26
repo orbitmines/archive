@@ -30,4 +30,6 @@ The point again being that these terms. What is your frontend, what is your back
 
 Now I've kind of set the stage in a very high-level way for what I actually want to talk about. Something hopefully more technical than just babble.
 
-This is the idea of some Universal Language. The thing to take away from this being, that any language, any level of description can serve as a universal language. But practically the question is really: Is culturally everything expressed within that language or not? 
+This is the idea of some Universal Language. The thing to take away from this being, that any language, any level of description can serve as a universal language. But practically the question is really: Is culturally everything expressed within that language or not? Of course we know it's possible to describe all the languages in terms of it. But is it useful? How verbose is it? Etc.? Those are the more relevant questions.
+
+Let's 
