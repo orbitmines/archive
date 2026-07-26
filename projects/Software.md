@@ -8,6 +8,6 @@ I could draw graphs, making conclusions about when hardware turns into software,
 
 But that wouldn't be particularly useful.
 
-Let me instead describe a problem, which you may or may not identify with
+Let me instead describe a problem, which you may or may not identify with. Without placing any names on what the things are. This may be a little abstract, but hopefully you'll see my point.
 
 I mean of course to describe... Biology. No wait, I mean, Physics. No wait, I mean programming languages.
