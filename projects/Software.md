@@ -12,7 +12,7 @@ And in all of those cases I would be right in doing so. Whether that is to make 
 
 Let me instead describe a problem, which you may or may not identify with. Without placing any names on what the things are. This may be a little abstract, but afterwards you'll see my point.
 
-In everything the pattern
+In everything the pattern is always the following. As we call it in programming (languages). Some frontend, some mechanism is goes through
 
 I mean of course to describe... Biology. No wait, I mean, Physics. No wait I mean science in general. No wait, I mean programming languages, I'm a programmer after all.
 
