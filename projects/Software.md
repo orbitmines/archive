@@ -8,4 +8,6 @@ I could draw graphs, making conclusions about when hardware turns into software,
 
 But that wouldn't be particularly useful.
 
-I mean of course to describe 
+Let me instead describe a problem, which you may or may not identify with
+
+I mean of course to describe... Biology. No wait, I mean, Physics. No wait, I mean programming languages.
