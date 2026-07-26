@@ -30,4 +30,4 @@ The point again being that these terms. What is your frontend, what is your back
 
 Now I've kind of set the stage in a very high-level way for what I actually want to talk about. Something hopefully more technical than just babble.
 
-This is the idea of some Universal Language, a 
+This is the idea of some Universal Language. The thing to take away from this being, that any language, any level of description can serve as a universal language. But practically i
