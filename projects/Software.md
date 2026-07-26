@@ -22,6 +22,6 @@ Or if you then make the general leap to the following:
 
 ![[Pasted image 20260726154515.png]]
 
-You might also introduce some loops in this, create some branches, add a few fields in there.
+You might also introduce some loops in this, create some branches, add a few fields in there. Our inside joke bein
 
-The point again being that these terms. What is your frontend, what is your backend. A
+The point again being that these terms. What is your frontend, what is your backend. Are relative once again. One of the bigger philosophical results from computer science, is that the requirements for creating a loop in 
