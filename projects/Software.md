@@ -14,7 +14,7 @@ Let me instead describe a problem, which you may or may not identify with. Witho
 
 In everything the pattern is always the following. As we call it in programming (languages). Some frontend, some mechanism/function is goes through, in programming languages called the compiler, and you're left with something at the end we call a backend. Just see the general pattern: Input, function, output. Frontend, compiler, Backend.
 
-Now as a good graph te
+Now as a good graph theorists you are, you know of course that we can compose these, create loops and the like. 
 
 I mean of course to describe... Biology. No wait, I mean, Physics. No wait I mean science in general. No wait, I mean programming languages, I'm a programmer after all.
 
