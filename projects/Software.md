@@ -6,8 +6,10 @@ I could draw graphs, making conclusions about when hardware turns into software,
 
 I could go to either extreme, and describe everything as hardware or everything as software.
 
-And in all of those cases I would be right in doing so. Whether that is to make certain distinctions or not to. The point I'm trying to get across here is that this is all a relative concept. If you choose *this* to be your software, then from that follows what your hardware is. 
+And in all of those cases I would be right in doing so. Whether that is to make certain distinctions or not to. The point I'm trying to get across here is that this is all a relative concept. If you choose *this* to be your software, then from that follows what your hardware is. A relative complement if you will.
 
-Let me instead describe a problem, which you may or may not identify with. Without placing any names on what the things are. This may be a little abstract, but hopefully you'll see my point.
+Let me instead describe a problem, which you may or may not identify with. Without placing any names on what the things are. This may be a little abstract, but afterwards you'll see my point.
 
-I mean of course to describe... Biology. No wait, I mean, Physics. No wait, I mean programming languages.
+
+
+I mean of course to describe... Biology. No wait, I mean, Physics. No wait I mean science in general. No wait, I mean programming languages.
