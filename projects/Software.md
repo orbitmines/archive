@@ -42,5 +42,5 @@ If we take the idea of a 'cultural' universal language seriously. We can again s
 
 One of my projects then being, how do you turn, not just those relative backends into universal languages. But ALL of them. The very naive approach would of course be to implement each language within each other language. But if I've learned anything from combinatorics that's Definitely a great idea. Instead we already have access to the semantics of all languages, because we already have a universal language!
 
-There is of course the (obvious) problem of the fact that these assembly languages are not so interpretable. This is the next step in this project. Turning 
+There is of course the (obvious) problem of the fact that these assembly languages are not so interpretable. 
 
