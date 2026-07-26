@@ -6,7 +6,7 @@ I could draw graphs, making conclusions about when hardware turns into software,
 
 I could go to either extreme, and describe everything as hardware or everything as software.
 
-And in all of those cases I would be right in doing so. Whether that is to make certain distinctions or not to. The point I'm trying to get across here is that this is all a relative concept. If you choose *this* to be your software, then from that follows what your hardware is. A relative complement if you will.
+And in all of those cases I would be right in doing so. Whether that is to make certain distinctions or not to. The point I'm trying to get across here is that this is all a relative concept. If you choose *this* to be your software, then from that follows what your hardware is. In this case a relative complement if you will.
 
 ---
 
