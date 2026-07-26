@@ -34,11 +34,13 @@ This is the idea of some Universal Language. The thing to take away from this be
 
 Let me lead with an example. Let's take the complexity of programming languages once again. 
 
+"Software" -> "Hardware"
+
 We have high-level descriptions of 'languages' all the way on the left. We have many languages as layers in between, and we end up at several possible languages (assembly languages) on the backend side of things. Now if you were ambitious like before, you could then of course compose additional layers in this diagram by for instance implementing these abstractions in physics, or encoding them in biology for some ungodly reason, you can! And then closing the loop by implementing physics or biology back into a language... Ok maybe not that for practical reasons, yet... But anyway! You could!
 
 If we take the idea of a 'cultural' universal language seriously. We can again say that's relative too. Within the context of programming languages. These assembly languages right here, are in fact already universal languages! All the other languages are expressed in terms of them.
 
 One of my projects then being, how do you turn, not just those relative backends into universal languages. But ALL of them. The very naive approach would of course be to implement each language within each other language. But if I've learned anything from combinatorics that's Definitely a great idea. Instead we already have access to the semantics of all languages, because we already have a universal language!
 
-There is of course the obvious problem of 
+There is of course the (obvious) problem of the fact that these assembly languages are 
 
