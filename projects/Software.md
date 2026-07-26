@@ -28,4 +28,4 @@ The point again being that these terms. What is your frontend, what is your back
 
 ---
 
-Now we've arrived at the post-introduction of what I was planning to
+Now I've kind of set the stage in a very high-level way for what I actually want to talk about. Something much more technical 
