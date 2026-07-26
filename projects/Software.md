@@ -34,4 +34,4 @@ This is the idea of some Universal Language. The thing to take away from this be
 
 Let me lead with an example. Let's take the complexity of programming languages once again. 
 
-We have high-level descriptions of 'languages' all the way on the left. We have many languages as layers in between, and we end up at several possible languages (assembly languages) on the backend side of things. Now if you were ambitious like before, you could then of course compose additional layers in this diagram by for instance implementing thes
+We have high-level descriptions of 'languages' all the way on the left. We have many languages as layers in between, and we end up at several possible languages (assembly languages) on the backend side of things. Now if you were ambitious like before, you could then of course compose additional layers in this diagram by for instance implementing these abstractions in physics, or encoding them in biology for some ungodly reason, you can!
