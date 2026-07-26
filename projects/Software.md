@@ -1,3 +1,3 @@
 If I were to cater to an interdisciplinary audience, how would I be of use as a lowly programmer. I could title it something pretentious like "The Future of Software" which doesn't sit quite well with me. In the same sense that the connotation of 'modern X', albeit art/.../tools. Just means contemporary but with that same pretentious connotation. There's something untoward about saying this is what the future will look like. So strip away all the fluff and we're left with just 'Software'.
 
-I could abstractly point at 
+I could make great claims like saying we all write software, interact with software, are software. But that wouldn't be particularly useful.
