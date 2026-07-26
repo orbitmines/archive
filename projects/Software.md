@@ -4,9 +4,9 @@ I could make great claims like saying we all write software, interact with softw
 
 I could draw graphs, making conclusions about when hardware turns into software, and software turns into hardware. Describing different levels of emergence.
 
-I could go to either extreme, and describe everything as hardware
+I could go to either extreme, and describe everything as hardware or everything as software.
 
-But that wouldn't be particularly useful.
+And in all of those cases I would be right in doing so. Whether that is to 
 
 Let me instead describe a problem, which you may or may not identify with. Without placing any names on what the things are. This may be a little abstract, but hopefully you'll see my point.
 
