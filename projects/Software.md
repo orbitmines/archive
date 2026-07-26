@@ -32,4 +32,4 @@ Now I've kind of set the stage in a very high-level way for what I actually want
 
 This is the idea of some Universal Language. The thing to take away from this being, that any language, any level of description can serve as a universal language. But practically the question is really: Is culturally everything expressed within that language or not? Of course we know it's possible to describe all the languages in terms of it. But is it useful? How verbose is it? Etc.? Those are the more relevant questions.
 
-Let's 
+Let me lead with an example. Let's take the complexity of programming languages once again. We have high-level descriptions of 'languages' all the way on the left. We have man
