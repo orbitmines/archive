@@ -12,7 +12,7 @@ And in all of those cases I would be right in doing so. Whether that is to make 
 
 Let me instead describe a problem, which you may or may not identify with. Without placing any names on what the things are. This may be a little abstract, but afterwards you'll see my point.
 
-In everything the pattern is always the following. As we call it in programming (languages). Some frontend, some mechanism/function is goes through, in programming languages called the compiler, and you're left with something at the end we call a backend. Just see the general pattern: Input, function, output. Frontend, compiler, Backend. A package like, which is nontrivial in some way I'd generally call what we mean by a 'language'.
+In everything the pattern is always the following. As we call it in programming (languages). Some frontend, some mechanism/function is goes through, in programming languages called the compiler, and you're left with something at the end we call a backend. Just see the general pattern: Input, function, output. Frontend, compiler, Backend. (A package like this, in order to call it a language, this mapping needs to be very structured and be somewhat nontrivial in some way, but that's not that important.)
 
 Now as a good graph theorists you are, you know of course that we can compose these, create loops and the like. 
 
