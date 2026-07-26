@@ -2,8 +2,7 @@ If I were to cater to an interdisciplinary audience, how would I be of use as a 
 
 I could make great claims like saying we all write software, interact with software, are software. Whether that's with computers or biology. (For those that make a distinction between the two.) 
 
-I could draw graphs, making conclusions about when hardware turns into software, and software turns into hardware.
-
+I could draw graphs, making conclusions about when hardware turns into software, and software turns into hardware. Describing different levels of emergence.
 
 
 But that wouldn't be particularly useful.
