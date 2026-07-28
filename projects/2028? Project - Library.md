@@ -102,7 +102,7 @@ Anything is editable, structure, where outputs happen etc. expandable during exe
 - Change a number in the code, change the code whatever.
 
 - Minimize space complexity. (Sometimes adding to it makes it less, since we can then abstract more)
-- Maximize useful abstractions.
+- Maximize useful abstractions (possible actions).
 - Maximize 
 
 ### Judgements
