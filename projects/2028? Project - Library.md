@@ -103,7 +103,9 @@ Anything is editable, structure, where outputs happen etc. expandable during exe
 
 - Minimize space complexity. (Sometimes adding to it makes it less, since we can then abstract more)
 - Maximize useful abstractions (possible actions).
-- Maximize 
+	- Judge abstraction quality.
+- Maximize  (possible states) 
+- 
 
 ### Judgements
 - What does "useful" mean here?
