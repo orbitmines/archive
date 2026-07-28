@@ -345,7 +345,7 @@ image shown in the game is a compressed variant actually transferring transfers 
 
 ---
 
-emulation of different abstract levels of science as a prerequisite for creating learning environmen
+emulation of different abstract levels of science as a prerequisite for creating learning environments.
 
 ---
 
