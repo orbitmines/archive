@@ -1,4 +1,5 @@
 
+Beginner use a whole code setup and only take highlights from it, so users can decode the whole thing.
 
 # Open Problems - Quests
 
