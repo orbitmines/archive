@@ -33,3 +33,4 @@ Experimenting with creating a thread instead of a post in structured discussion.
 
 @Daniel and I were discussing some related topic, and this came up. So I'm moving it into the SEMF discord.
 
+The topic being how 
