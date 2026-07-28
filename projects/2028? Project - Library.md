@@ -102,7 +102,8 @@ Anything is editable, structure, where outputs happen etc. expandable during exe
 - Change a number in the code, change the code whatever.
 
 - Minimize space complexity. (Sometimes adding to it makes it less, since we can then abstract more)
-- Maximize f
+- Maximize useful abstractions.
+- Maximize 
 ### Judgements
 - What does "useful" mean here?
 	- Lowest complexity of existing languages
