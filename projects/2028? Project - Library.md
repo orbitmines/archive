@@ -101,6 +101,8 @@ Anything is editable, structure, where outputs happen etc. expandable during exe
 - Develop a program which is encoded in the network?
 - Change a number in the code, change the code whatever.
 
+4 Modules. Each with a different permut
+- Minimize time complexity.
 - Minimize space complexity. (Sometimes adding to it makes it less, since we can then abstract more)
 - Maximize useful abstractions (possible actions).
 	- Judge abstraction quality.
