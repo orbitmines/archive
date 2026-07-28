@@ -342,6 +342,11 @@ Generate room for me, or choose your own, then type of room picker and at every 
 
 image shown in the game is a compressed variant actually transferring transfers the whole file
 
+
+---
+
+emulation of different abstract levels of science as a prerequisite for creating learning environmen
+
 ---
 
 Universe determines global rules for each world.
