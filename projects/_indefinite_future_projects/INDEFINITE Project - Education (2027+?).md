@@ -47,3 +47,9 @@ Some excerpts from our conversation:
 
 > Many things are effectively just a UI problem. How do you usefully show that information without cluttering the screen. 
 
+> I'm also thinking about stuff like at first doing some sort of test of how much the user already knows, and letting that influence what kind of thing the user is taught and it what way
+> 
+> But you want to extract that information in some subtle way, not 10 questions before the fun can begin
+
+> This way you could also measure how quickly certain learning techniques (if you can think of enough different ones of them) work. Of course the data would be very noisy in the sense that certain people will likely expose themselves to much more outside this application, but I'm sure you can create a useful metric here
+
