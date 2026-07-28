@@ -33,6 +33,6 @@ Read
 
 @Daniel and I were discussing some related topic, and this came up. So I'm moving it into the SEMF discord.
 
-The topic being what would education look like if we had more radical systems for them? Generally: How do you improve learning capability massively/interactively.
+The topic being what would education look like if we had more radical systems for them? Generally: **How do you improve learning capability massively/interactively beyond rote learning?**
 
 People who know me know I love to talk about a possible future where 
