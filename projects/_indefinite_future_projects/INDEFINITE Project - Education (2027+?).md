@@ -57,4 +57,4 @@ Some excerpts from our conversation:
 
 > One of the things I also think about is how do you mark progression in something which you can partially forget and still feel good. I'm thinking about some leveling system/metric which is some function of how well you're doing. For certain things this is extremely hard. Would you want something like that? Or do you say you don't need this to know that you're progressing
 
-Another thing is also difficulty rating
+Another thing is also difficulty rating when you have some assortment of possible things the user could learn, how do you decide what is an appropriate challenge.
