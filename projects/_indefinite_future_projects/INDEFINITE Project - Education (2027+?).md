@@ -28,4 +28,6 @@ Read
 
 ---
 
-Experimenting with creating a thread instead of a post in str 
+Experimenting with creating a thread instead of a post in structured discussion. 
+
+@Daniel and I were discussing some relevan
