@@ -53,3 +53,4 @@ Some excerpts from our conversation:
 
 > This way you could also measure how quickly certain learning techniques (if you can think of enough different ones of them) work. Of course the data would be very noisy in the sense that certain people will likely expose themselves to much more outside this application, but I'm sure you can create a useful metric here
 
+> One of the things I also think about is how do you mark progression in something which you can partially forget and still feel good. I'm thinking about some leveling system/metric which is some function of how well you're doing. For certain things this is extremely hard to measure but I think for language capability this is definitely possible. Would you want something like that? Or do you say you don't need this to know that you're progressing
