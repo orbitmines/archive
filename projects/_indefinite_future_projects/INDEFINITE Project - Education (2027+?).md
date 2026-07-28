@@ -28,3 +28,4 @@ Read
 
 ---
 
+Experimenting with creating a thread instead of a post in str 
