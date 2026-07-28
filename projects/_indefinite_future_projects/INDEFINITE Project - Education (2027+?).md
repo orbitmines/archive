@@ -33,4 +33,6 @@ Experimenting with creating a thread instead of a post in structured discussion.
 
 @Daniel and I were discussing some related topic, and this came up. So I'm moving it into the SEMF discord.
 
-The topic being what would education look like if we had more radical systems for them? Independent of fiel
+The topic being what would education look like if we had more radical systems for them? Generally: How do you improve learning capability massively/interactively.
+
+People
