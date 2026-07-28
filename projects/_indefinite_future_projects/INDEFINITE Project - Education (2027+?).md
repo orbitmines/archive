@@ -37,4 +37,8 @@ The topic being what would education look like if we had more radical systems fo
 
 People who know me know I love to talk about a possible future where you learn and work in a gamified arena. Essentially how do you make steps towards a word like that? How do you make learning more accessible, more fun?
 
-Some excerpts from our convers 
+Some excerpts from our conversation:
+
+> This almost feels like learning how to program vs learning how mathematics work. In mathematics you always have these rudimentary steps your learn for some arbitrary reason, one after the other. Programming on the other end you're thrown into the deep end, and you can view some program in its entirety and you have to slowly decode what it means. You cán of course learn programming by first going through all the different icons, but that's only much more effective when learning programming languages is already your forte. Perhaps that's true here as well? Perhaps when you already have many languages under your belt stupidly going through the whole encyclopedia becomes efficient?
+
+> I'm a big proponent of actively doing something with what you're learning. 
