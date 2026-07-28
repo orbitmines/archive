@@ -101,7 +101,7 @@ Anything is editable, structure, where outputs happen etc. expandable during exe
 - Develop a program which is encoded in the network?
 - Change a number in the code, change the code whatever.
 
-Goal: Learn how to represent 
+Goal: Learn how to represent assembly minimally.
 
 Each module with learnable time/space min/max complexity.
 - Minimize time complexity.
