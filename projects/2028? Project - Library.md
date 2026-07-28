@@ -99,7 +99,6 @@ Anything is editable, structure, where outputs happen etc. expandable during exe
 - You'd describe gradient descent as simply stating that the observed geometry is curved. --> More spatially dense such that a random walk would land you inside it more often than not. That curve might lead to tunnels.
 - Can we somehow encode what we have explored in the network? WIthout having to store all the different paths. In the sense that the state of the network uniquely determines which paths are explored.
 - Develop a program which is encoded in the network?
-
 - Change a number in the code, change the code whatever.
 
 ### Judgements
