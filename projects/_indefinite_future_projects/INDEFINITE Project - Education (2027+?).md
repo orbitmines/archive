@@ -39,8 +39,11 @@ People who know me know I love to talk about a possible future where you learn a
 
 Some excerpts from our conversation:
 
+> This is exactly the sort of thing I want to think about tbh. Education in general.
+
 > This almost feels like learning how to program vs learning how mathematics work. In mathematics you always have these rudimentary steps your learn for some arbitrary reason, one after the other. Programming on the other end you're thrown into the deep end, and you can view some program in its entirety and you have to slowly decode what it means. You cán of course learn programming by first going through all the different icons, but that's only much more effective when learning programming languages is already your forte. Perhaps that's true here as well? Perhaps when you already have many languages under your belt stupidly going through the whole encyclopedia becomes efficient?
 
 > I'm a big proponent of actively doing something with what you're learning. Building something useful to you is the best way to learn in my experience.
 
-> Many things are effectively just a UI problem. How do you usefully show that information without cluttering the 
+> Many things are effectively just a UI problem. How do you usefully show that information without cluttering the screen. 
+
