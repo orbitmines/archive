@@ -106,6 +106,7 @@ Goal: Learn how to represent assembly minimally.
 Each module with learnable time/space min/max complexity.
 - Minimize time complexity.
 - Minimize space complexity. (Sometimes adding to it makes it less, since we can then abstract more)
+Abstract vs non-abstract
 
 - Maximize useful abstractions (possible actions).
 	- Judge abstraction quality.
