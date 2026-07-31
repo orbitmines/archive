@@ -53,6 +53,10 @@ C. Reprogrammable UI
 
 ---
 
+Many initial/terminal ternary etc..
+
+---
+
 ^ is right-associtive?
 
 ---
