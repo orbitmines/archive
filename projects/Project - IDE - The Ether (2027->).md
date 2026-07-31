@@ -60,7 +60,10 @@ What rewrite primitives, what if some spatial-like folded structure being the en
 . =  .next
 . = .previous
 
+The goal b
+
 "Movement as antiparallel annihilation/creation of spatial structure" 
+
 
 ---
 
