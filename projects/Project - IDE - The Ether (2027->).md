@@ -65,7 +65,7 @@ The goal being that this is a physically plausible model. Or rather that's it's 
 "Everything is spatial structure + movement"
 local rewriting: "Movement as antiparallel annihilation/creation of spatial structure" 
 
-Is there a physics theory which suggests all boundaries of the universe are expanding and at some distance stars arent fro
+Is there a physics theory which suggests all boundaries of the universe are expanding and at some distance stars arent formed yet as the primeordeal setup is still active there: and we keep expanding still.
 
 ---
 
