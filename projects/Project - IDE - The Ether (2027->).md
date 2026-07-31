@@ -60,6 +60,7 @@ What rewrite primitives, what if some spatial-like folded structure being the en
 . =  .next
 . = .previous
 
+"Movement as Annihilation/Creation of  
 
 ---
 
