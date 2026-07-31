@@ -54,6 +54,7 @@ C. Reprogrammable UI
 ---
 
 What rewrite primitives, what if some spatial-like folded structure being the encoding then rewriting locally always!
+- How do you get massively parrallel from local rewrites: no dependence on more than local stucture. But at some point you have to!
 
 ---
 
