@@ -53,6 +53,10 @@ C. Reprogrammable UI
 
 ---
 
+What rewrite primitives, what if some spatial-like folded structure being the encoding then rewriting locally always!
+
+---
+
 Many initial/terminal ternary etc..
 
 ---
