@@ -65,6 +65,10 @@ visibility, and contract (license).
 
 ---
 
+Timed/instance permissions (allow this time) or when some condition is true (like app started).
+
+---
+
 rty catch implementable with with Diagnostics override the different error levels.
 
 ---
