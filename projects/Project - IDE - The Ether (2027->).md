@@ -65,7 +65,7 @@ The goal being that this is a physically plausible model. Or rather that's it's 
 "Everything is spatial structure + annihiliation/creation of spatial structure"
 local rewriting: "Movement as antiparallel annihilation/creation of spatial structure" 
 
-"Everything always moves at the speed of light, it's just that spatial structure constrain"
+"Everything always moves at the speed of light, it's just that spatial structure constrains"
 
 Is there a physics theory which suggests all boundaries of the universe are expanding and at some distance stars arent formed yet as the primeordeal setup is still active there: and we keep expanding still.
 
