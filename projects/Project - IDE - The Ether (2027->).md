@@ -73,6 +73,8 @@ Many on one node meaning higher eneergy, they still explroe the paths, but are m
 
 A pure + create a 'random'/ossiclating -/+ again.
 
+Photon, only existance of -+ at each direction. (or none).
+
 ---
 
 Many initial/terminal ternary etc..
