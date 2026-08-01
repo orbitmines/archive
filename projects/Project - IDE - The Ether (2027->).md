@@ -76,7 +76,7 @@ A pure + create a 'random'/ossiclating -/+ again.
 Photon, only existance of -+ at each direction. (or none).
 
 "single absorbed, many get through." - space isnt passed if there isnt another - behind it.
-<- - - -> 
+<- - <- - turns around, repls?
 
 ---
 
