@@ -71,6 +71,8 @@ Is there a physics theory which suggests all boundaries of the universe are expa
 
 Many on one node meaning higher eneergy, they still explroe the paths, but are more likely to explore a larger away path thus we preceive that as higher amplitude.
 
+A pure + create a 'random'/ossiclating -/+ again.
+
 ---
 
 Many initial/terminal ternary etc..
