@@ -79,7 +79,10 @@ Photon, only existance of -+ at each direction. (or none).
 <- - <- - turns around, repls?
 
 Charge: Creation - Annihilation. Positive: More creation, Negative: More annihilation
-+
+
+The annihilation point and creation point are connected through several possible spatial paths.
+Spin could mean:
+> The preferred path between creation and annihilation continuously changes.
 
 ---
 
