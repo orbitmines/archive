@@ -84,6 +84,10 @@ The annihilation point and creation point are connected through several possible
 Spin could mean:
 > The preferred path between creation and annihilation continuously changes.
 
+A photon is emitted whenever the internal creation/annihilation topology of a charged particle is forced to change in time.
+
+
+
 ---
 
 Many initial/terminal ternary etc..
