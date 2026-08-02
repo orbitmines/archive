@@ -78,6 +78,8 @@ Photon, only existance of -+ at each direction. (or none).
 "single absorbed, many get through." - space isnt passed if there isnt another - behind it.
 <- - <- - turns around, repls?
 
+Charge: Creation - Annihilation. Positive: More creation, Negative: More annihilat
+
 ---
 
 Many initial/terminal ternary etc..
