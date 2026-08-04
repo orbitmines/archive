@@ -86,7 +86,7 @@ Spin could mean:
 
 A photon is emitted whenever the internal creation/annihilation topology of a charged particle is forced to change in time.
 
-
+Expansion ; cloud at the edge.assumption of cant process time on infinite space.
 
 ---
 
