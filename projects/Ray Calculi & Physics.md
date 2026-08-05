@@ -47,4 +47,6 @@ So yeah I was trying to come with ideas on how to recover electromagnetism & gra
 
 I came to the idea by thinking about what fundamentally is necessary for things like electrons/positrons, negative/positive charges existing. And them repelling/attracting and then in this example annihilating each-other.
 
-So how to explain this idea.
+So to expand on the idea...
+
+
