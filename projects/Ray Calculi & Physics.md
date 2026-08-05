@@ -43,4 +43,4 @@ A perfect magnet would be maximally resistant to gravity in this setting 🤔
 # XOR Universe
 Ok the last week I've been thinking about physics a lot, and would like to hear what someone thinks who knows more of physics than I do about one of the specific ideas I had.
 
-So the idea currently is that
+So yeah I was trying to come with ideas on how to recover electromagnetism & gravity-like things from local rules only. So the idea is currently that it's caused by some preference the universe has for locally satisfying XOR s 
