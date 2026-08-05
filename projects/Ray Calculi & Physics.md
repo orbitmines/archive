@@ -37,3 +37,7 @@ Expansion ; cloud at the edge.assumption of cant process time on infinite space.
 Tractor beam, specific magnetic pulsing/flipping?
 
 A perfect magnet would be maximally resistant to gravity in this setting 🤔
+
+---
+
+Ok the last week I've been thinking about physics a lot, and would like to hear someone
