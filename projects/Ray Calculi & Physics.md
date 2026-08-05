@@ -40,4 +40,6 @@ A perfect magnet would be maximally resistant to gravity in this setting 🤔
 
 ---
 
-Ok the last week I've been thinking about physics a lot, and would like to hear someone
+# XOR Universe
+Ok the last week I've been thinking about physics a lot, and would like to hear what someone thinks who knows more of physics than I do about one of the specific ideas I had.
+
