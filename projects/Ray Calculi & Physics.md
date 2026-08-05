@@ -49,4 +49,6 @@ I came to the idea by thinking about what fundamentally is necessary for things 
 
 So to expand on the idea...
 
+Let's take a simple 1D example, have yet to figure it out properly with movement in fractal and integer dimensions, but the basis of the idea is there.
+
 
