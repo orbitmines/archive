@@ -45,13 +45,13 @@ Ok the last week I've been thinking about physics a lot, and would like to hear 
 
 So yeah I was trying to come with ideas on how to recover electromagnetism & gravity-like things from local rules only. So the idea is currently that it's caused by some preference the universe has for locally satisfying XOR spatial relationships.
 
-I came to the idea by thinking about what fundamentally is necessary for things like electrons/positrons, negative/positive charges existing. And them repelling/attracting and then in this example annihilating each-other.
+I came to the idea by thinking about what fundamentally is necessary for things like electrons/positrons, negative/positive charges existing. And them repelling/attracting and then in this example annihilating each-other. (Difference annihilates, sameness repells --> XOR)
 
 So to expand on the idea...
 
 Let's take a simple 1D example, have yet to figure it out properly with movement in fractal and integer dimensions, but the basis of the idea is there.
 
-You annihilate when interacting with an opposite polarity:
+You annihilate when interacting with an opposite polarity (thus attr):
 ![[Pasted image 20260805184141.png]]
 
 Or turn around when interacting with the same polarity:
