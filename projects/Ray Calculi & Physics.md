@@ -51,4 +51,6 @@ So to expand on the idea...
 
 Let's take a simple 1D example, have yet to figure it out properly with movement in fractal and integer dimensions, but the basis of the idea is there.
 
+You annihilate when encountering an opposite polarity:
+![[Pasted image 20260805184141.png]]
 
