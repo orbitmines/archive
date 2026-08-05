@@ -57,4 +57,8 @@ You annihilate when interacting with an opposite polarity (thus attracting):
 Or turn around when interacting with the same polarity (thus repelling):
 ![[Pasted image 20260805184218.png]]
 
-Then in this setup, if we say had perfectly charged fields (charge meaning a dominance of some polarity in some region), and aimed them at each-other. They would annihilate if they were opposite, 
+Then in this setup, if we say had perfectly charged fields (charge meaning a dominance of some polarity in some region), and aimed them at each-other. They would annihilate if they were opposite, move away if they were the same.
+
+![[Screencast from 2026-08-04 17-39-29.webm]]
+
+
