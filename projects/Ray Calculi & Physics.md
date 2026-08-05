@@ -62,5 +62,6 @@ Then in this setup, if we say had perfectly charged fields (charge meaning a dom
 ![[Screencast from 2026-08-04 17-39-29.webm]]
 
 Then the interesting thing happens when you do the following: Gravitational waves are achieved by spinning a magnet real fast getting alternating waves of "positive/negative charges" -> which on net then are uncharged. Causing space to be annihilated when reaching other waves from other sources - All from local interactions.
+![[Screencast from 2026-08-05 16-29-52.webm]]
 
-So yeah was wondering if this was an interesting way of unifying  
+So yeah was wondering if this was an interesting property for a way of unifying some ideas in physics. Or at least to get a physicists opinion on it. Ofc this would be more complicated in a 3d setting, but the base idea would be the same.
