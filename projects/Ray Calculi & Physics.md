@@ -61,4 +61,4 @@ Then in this setup, if we say had perfectly charged fields (charge meaning a dom
 
 ![[Screencast from 2026-08-04 17-39-29.webm]]
 
-
+Then the interesting thing happens when you do the following: Gravitational waves are achieved by spinning a magnet real fast getting alternating waves of "positive/negative charges" -> which on net then are uncharged. Causing space to be annihilated when reaching other waves from other sources - All from local interactions.
