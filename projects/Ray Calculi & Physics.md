@@ -35,3 +35,5 @@ A photon is emitted whenever the internal creation/annihilation topology of a ch
 Expansion ; cloud at the edge.assumption of cant process time on infinite space.
 
 Tractor beam, specific magnetic pulsing/flipping?
+
+A perfect magnet would be maximally resistant to gravity in this setting 🤔
