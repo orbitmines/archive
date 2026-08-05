@@ -57,4 +57,4 @@ You annihilate when interacting with an opposite polarity (thus attracting):
 Or turn around when interacting with the same polarity (thus repelling):
 ![[Pasted image 20260805184218.png]]
 
-Then in this setu
+Then in this setup, if we say had perfectly charged fields (charge meaning a dominance of some polarity in some region), and aimed them at each-other. They would annihilate if they were opposite, 
