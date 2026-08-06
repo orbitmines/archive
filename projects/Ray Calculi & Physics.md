@@ -38,6 +38,8 @@ Tractor beam, specific magnetic pulsing/flipping?
 
 A perfect magnet would be maximally resistant to gravity in this setting 🤔
 
+Space not interacted with expands?
+
 ---
 
 # XOR Universe
