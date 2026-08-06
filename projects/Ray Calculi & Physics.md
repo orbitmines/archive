@@ -46,6 +46,8 @@ Gravity in both directions meeting in the middle.
 
 So magnetic field is putting a different direction on something flying toward it, one way for positron, the other for electron.
 
+Orthogonal movement change based on positive/negative.
+
 ---
 
 # XOR Universe
