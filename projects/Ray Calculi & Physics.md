@@ -50,7 +50,8 @@ Orthogonal movement change based on positive/negative.
 
 Rotate between Negative/Positive constantly in some direction, allows you to move through any field.
 "Or always move through"
-"Neutral s"
+"Neutral space with a direction"
+...
 
 ---
 
