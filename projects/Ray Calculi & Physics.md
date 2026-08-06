@@ -42,8 +42,7 @@ Space not interacted with expands?
 
 Magnet, gravity produced on North side 
 Slight gravity on the sides, pulling in the gravity from North, making it go south. Strong sink south?
-
-Or
+Gravity in both directions meeting in the middle.
 
 
 ---
