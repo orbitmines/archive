@@ -42,7 +42,6 @@ Space not interacted with expands?
 
 Magnet, gravity produced on North side 
 
-0 1 [1 0] 1 0
 
 
 ---
