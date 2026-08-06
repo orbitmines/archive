@@ -48,7 +48,9 @@ So magnetic field is putting a different direction on something flying toward it
 
 Orthogonal movement change based on positive/negative.
 
-Rotate between Negative/Positive constantly in some direction, allows you to move through any field
+Rotate between Negative/Positive constantly in some direction, allows you to move through any field.
+"Or always move through"
+"Neutral s"
 
 ---
 
