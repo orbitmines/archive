@@ -44,6 +44,7 @@ Magnet, gravity produced on North side
 Slight gravity on the sides, pulling in the gravity from North, making it go south. Strong sink south?
 Gravity in both directions meeting in the middle.
 
+So magnetic field is putting a different direction on something flying toward it, one way for positron, the other for electron.
 
 ---
 
