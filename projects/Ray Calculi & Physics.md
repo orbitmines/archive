@@ -48,6 +48,8 @@ So magnetic field is putting a different direction on something flying toward it
 
 Orthogonal movement change based on positive/negative.
 
+Rotate between Negative/Posi
+
 ---
 
 # XOR Universe
