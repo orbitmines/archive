@@ -40,7 +40,7 @@ A perfect magnet would be maximally resistant to gravity in this setting 🤔
 
 Space not interacted with expands?
 
-Magnet, gravity produced on North side, meeting in the middle of both sides. Why XOR?
+Magnet, gravity produced on North side 
 
 ---
 
