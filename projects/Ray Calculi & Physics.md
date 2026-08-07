@@ -53,7 +53,7 @@ Rotate between Negative/Positive constantly in some direction, allows you to mov
 "Neutral space with a direction"
 ...
 
-Prediction: space contracts when two gravitational wa
+Prediction: space contracts when two gravitational waves meet.
 
 ---
 
