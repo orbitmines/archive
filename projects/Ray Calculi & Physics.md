@@ -59,6 +59,8 @@ SOme percentage chance the wave continues to mdoel the discrterte version where 
 
 directional, or on a specific axis gravity becomes possibly.
 
+Gravity reduced if another body passed in front of y
+
 ---
 
 # XOR Universe
