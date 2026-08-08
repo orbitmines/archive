@@ -57,6 +57,8 @@ Prediction: space contracts when two gravitational waves meet.
 
 SOme percentage chance the wave continues to mdoel the discrterte version where not everything meets headon.
 
+directional, or on a specific axis gravity becomes possibly.
+
 ---
 
 # XOR Universe
