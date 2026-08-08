@@ -55,6 +55,8 @@ Rotate between Negative/Positive constantly in some direction, allows you to mov
 
 Prediction: space contracts when two gravitational waves meet.
 
+SOme percentage chance the wave continues to mdoel the discrterte version where not everything meets headon.
+
 ---
 
 # XOR Universe
