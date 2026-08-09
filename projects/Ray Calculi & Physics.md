@@ -63,6 +63,7 @@ Gravity reduced if another body passed in front of you to that body.
 
 DIscrete meet at the same point nedxt tick we annihilate
 
+Grav waves changing directional state on arrival? passing through eachother?
 
 ---
 
