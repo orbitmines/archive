@@ -61,6 +61,9 @@ directional, or on a specific axis gravity becomes possibly.
 
 Gravity reduced if another body passed in front of you to that body.
 
+DIscrete meet at the same point nedxt tick we annihilate
+
+
 ---
 
 # XOR Universe
