@@ -1,4 +1,6 @@
 
+Average of blackhole measurement should increase still with the 5% (ndg)
+
 What rewrite primitives, what if some spatial-like folded structure being the encoding then rewriting locally always!
 - How do you get massively parrallel from local rewrites: no dependence on more than local stucture. But at some point you have to!
 - parallel is parallel instruction to one thing. then moving in parrallel to ". = .next". SO program on the program is always ". = .next" looped. -> could be something different. Meta-meta-...
