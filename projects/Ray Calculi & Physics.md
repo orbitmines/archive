@@ -67,6 +67,8 @@ DIscrete meet at the same point nedxt tick we annihilate
 
 Grav waves changing directional state on arrival? passing through eachother?
 
+TRiangles instead of squares, 6 spokes!
+
 ---
 
 # XOR Universe
