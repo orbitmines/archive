@@ -1,4 +1,6 @@
 
+Ray takes x steps to cross x density, what if it's a probabiltiy , or needsw to traverse some local structure that it 
+
 Average of blackhole measurement should increase still with the 5% (ndg)
 
 What rewrite primitives, what if some spatial-like folded structure being the encoding then rewriting locally always!
