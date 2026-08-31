@@ -1,5 +1,5 @@
 
-Ray takes x steps to cross x density, what if it's a probabiltiy , or needsw to traverse some local structure that it 
+Ray takes x steps to cross x density, what if it's a probabiltiy , or needsw to traverse some local structure that has some chance of deviating from the density x
 
 Average of blackhole measurement should increase still with the 5% (ndg)
 
