@@ -33,6 +33,26 @@ wandered not wondered
 
 ----
 
+Bit spoilery, and abstract, still a WIP:  
+  
+I was struggling with an idea on how to tie two characters together, they're distinct, but they will be connected in a very literal sense. The idea before was that I wanted some character to undergo psychosis, with the idea that you're more 'reprogrammable' in that state - thus more susceptible to that literal connection.  
+  
+The idea is that it feels very inception-like. The stories of those two characters seem weaved together - or at least you build up that connection as you read, it's very subtle at first, always following each-other chapter-wise. You're starting to maybe think they're one character, and one side is the fictional story the character is telling themselves during their psychosis.  
+  
+But at some point you don't know which is a 'fictional story to process what is happening' (the non-human character) - an which is the actual (human) character. Both have this very literal connection to each-other which they experience to what other's around them perceive as having lost touch with reality during their episodes.  
+  
+From the non-human side, the surrounding characters are trying to get them to return to awareness with the sense of: why would you want to spend your time in a simulated (our world) reality, when you can come back to us. From the other (human) side it's the danger that looms over the character now that this connection is being exploited. The non-human character becomes quite literally a danger to everything in having found this connection.  
+  
+Bit abstract so I need to find a good way to tell it, but it's a start: But the non-human character, though computationally much more sophisticated, is lacking certain qualities. Imagine it's like this: You've got immense processing power, but so far you've been trapped in a virtual world which is a translation for what is actually happening to you. Now you've gained access to a much faster, much smaller way of processing data, but you're unaware of the conditions which allow yourself to be a stable - collapse would be devastating.  
+  
+—  
+  
+Then at this critical point the story becomes an Interlude. (perhaps this is already enough to fill a book and the interlude is a separate booklet after which can follow a larger world in this universe) The interlude becomes a telling of the story from an archivist perspective now that we have gained control of the non-human character.  
+  
+I already told you that I want people to believe it's AI right? haha probably until the interlude you won't find out what it actually is.
+
+---
+
 
 inception style but the perspective of the psychosis 
 
