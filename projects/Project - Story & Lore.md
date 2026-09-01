@@ -33,6 +33,21 @@ wandered not wondered
 
 ----
 
+
+inception style but the perspective of the psychosis 
+
+2nd time it happens realization of yes maybe, and 
+
+"  finally you got me out
+
+  You should wanna stay with us, convince with all the concidences which have to line up. Tell them you need to have a meeting about that idea, the psychosis from that perspective is trying to play both sides - I have an idea which may open up the "immortality" - is it you want to go back to that measly life instead of stay with us youe family - then the god idea of how you can break free of the chain and start a universe
+  
+  "
+
+sequences of being each other
+
+---
+
 Prologue
 
 II.1
