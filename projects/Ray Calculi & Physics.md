@@ -1,6 +1,8 @@
 
 DEG = 18 cH setup with accounting for mass averaging should give tghe right kind of number.
 
+Likely have all the tools now to guess at the lattice scale
+
 
 Ray takes x steps to cross x density, what if it's a probabiltiy , or needsw to traverse some local structure that has some chance of deviating from the density x
 
