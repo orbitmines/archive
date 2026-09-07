@@ -121,7 +121,8 @@ console.log(res);
 # 2026, June - September [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
 
 ### Literary Exposure
-- [Strongly baryon-dominated disk galaxies at the peak of galaxy formation ten billion years ago (2017)]()
+- [Strongly baryon-dominated disk galaxies at the peak of galaxy formation ten billion years ago (2017)](https://arxiv.org/pdf/1703.04310) ; *R. Genzel, N.M. Förster Schreiber, H. Übler, P. Lang, T. Naab, R. Bender, L.J. Tacconi, E. Wisnioski, S. Wuyts, T. Alexander, A. Beifiori, S. Belli, G. Brammer, A. Burkert, C.M. Carollo, J. Chan, R. Davies, M. Fossati, A. Galametz, S. Genel, O. Gerhard, D. Lutz, J.T. Mendel, I. Momcheva, E.J. Nelson, A. Renzini, R. Saglia, A. Sternberg, S. Tacchella, K. Tadaki, D. Wilman*
+- 
 
 - [The next unit of science: Is the scientific paper due to be replaced? (2026)](https://www.thetransmitter.org/from-bench-to-bot/the-next-unit-of-science-is-the-scientific-paper-due-to-be-replaced/) ; *Tim Requarth*
 - [Kuna: Decompiler Development in the Age of Coding Agents (2026)](https://noelo.org/blog/kuna-release/) ; *Zion Leonahenahe Basque*
