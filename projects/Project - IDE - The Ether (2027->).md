@@ -59,6 +59,8 @@ Many initial/terminal ternary etc..
 
 ^ is right-associtive?
 
+@/ and @./ are reserved for path names
+
 ---
 
 Seperate direcorties for different names like orbitmines.com or @orbitmines. (Mainly legacy support)
