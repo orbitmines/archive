@@ -17,6 +17,8 @@ What rewrite primitives, what if some spatial-like folded structure being the en
 . =  .next
 . = .previous
 
+deprecated keyword
+
 The goal being that this is a physically plausible model. Or rather that's it's a step in the right direction. More likely it is some permutation of the ideas used here which yields something physically plausible.
 
 "Everything is spatial structure + annihiliation/creation of spatial structure"
