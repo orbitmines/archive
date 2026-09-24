@@ -1,4 +1,9 @@
 
+
+There's some issues with the rule. and space. visualizations, empty points arent properly aligned to the center. nor is the whole visualization. Creation rule should just show a singgle point expanding into two rays, not three into whatever that is. And I expect it to be the two rays on each a seaprate point, you said dynamics might change and downstream stuff because of it, can you measure its impact first, while ensuring you dont break the other claude session next to this. Movement rule doesn't move in the example. And the space. example should be a nice animation of the points expanding and then reaching the place for new points then again expanding from that not what it is now, in the git history of ../orbitmines.com is a proper example of how that needed to look, but it is no longer there and was under a different name. And I expect it will all be derived/read off the rules, dont hardcode the visualizations in.
+
+---
+
 DEG = 18 cH setup with accounting for mass averaging should give tghe right kind of number.
 
 Likely have all the tools now to guess at the lattice scale
