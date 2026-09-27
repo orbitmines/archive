@@ -6,4 +6,5 @@
 ->can you offer half a day // 1 day // 2 days // 3 days? -> between 10:30 am until 13:00, then lunch, then 15:30 to 18. -> Max 8-10 people. -> Dates: 11th-13th // 18th-20th december
 
 
-# Meetup in The Nether
+# Meetup in The Netherlands, Early-Mid December 2026
+Hi everyone! As we've been discussing lately, some of us be meeting up in The Netherlands
