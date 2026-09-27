@@ -17,6 +17,8 @@ The meeting will be about discussing the concepts of **interoperability** and **
 
 When is the most convenient for you?
 [Poll for when]
+11-13th of December (+ till the 17th)
+18-20th of December (+ till the 17th)
 
 
 I can 6-7 people in 3-4 rooms
