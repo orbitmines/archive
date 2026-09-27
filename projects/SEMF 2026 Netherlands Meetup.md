@@ -7,4 +7,4 @@
 
 
 # Meetup in The Netherlands, Early-Mid December 2026
-Hi everyone! As we've been discussing lately, some of us be meeting up in The Netherlands
+Hi everyone! As we've been discussing lately, some of us will be meeting up in The Netherlands in Early-Mid December. Here for logistics several things I need to know:
