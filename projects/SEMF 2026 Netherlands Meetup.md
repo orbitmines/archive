@@ -9,11 +9,14 @@
 # Meetup in The Netherlands, Early-Mid December 2026
 Hi everyone! As we've been discussing lately, some of us will be meeting up in The Netherlands in Early-Mid December.
 
-We're meeting (informally) for 3 days, then an extended 4 days for people who want to linger longer. Though the focus is collectively learning from each other's interests, we'
+We're meeting (informally) for 3 days, then an extended 4 days for people who want to linger longer. (Though the focus is collectively learning from each other's interests, we'll make an attempt at a collective output as well.)
 
+### Topic
 The meeting will be about discussing the concepts of **interoperability** and **reprogramming** across areas of knowledge, whether it's AI, biology, sociology, philosophy... with the intention to draw insights, analogies or applications from any field.  
 
 *Keywords including but not restricted to*: hardware and software, constraints and state space, design and navigation,...
+
+### Logistics
 
 When is the most convenient for you?
 [Poll for when]
@@ -21,4 +24,4 @@ When is the most convenient for you?
 18-20th of December (+ till the 24th)
 
 
-I can 6-7 people in 3-4 rooms
+I can host 6-7 people in 3-4 rooms in a small v
