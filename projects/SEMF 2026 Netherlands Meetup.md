@@ -11,4 +11,6 @@ Hi everyone! As we've been discussing lately, some of us will be meeting up in T
 
 We're meeting (informally) for 3 days, then an extended 4 days for people who want to linger longer. 
 
+The meeting will be about discussing the concepts of **interoperability** and **reprogramming** across areas of knowledge, whether it's AI, biology, sociology, philosophy... with the intention to draw insights, analogies or applications from any field.  
 
+*Keywords including but not restricted to*: hardware and software, constraints and state space, design and navigation,...
