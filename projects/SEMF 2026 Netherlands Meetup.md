@@ -9,6 +9,6 @@
 # Meetup in The Netherlands, Early-Mid December 2026
 Hi everyone! As we've been discussing lately, some of us will be meeting up in The Netherlands in Early-Mid December.
 
-We're meeting informally for 3 days, then an extended 4 days for people who want to linger longer. 
+We're meeting (informally) for 3 days, then an extended 4 days for people who want to linger longer. 
 
 
