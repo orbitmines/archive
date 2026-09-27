@@ -24,4 +24,4 @@ When is the most convenient for you?
 18-20th of December (+ till the 24th)
 
 
-I can host 6-7 people in 3-4 rooms in a small v
+I can host 6-7 people in 3-4 rooms in a small village near Leiden called Koudekerk aan den Rijn. (2 busses away from the airport - through Alphen). If you're interested in one of those spots react t
