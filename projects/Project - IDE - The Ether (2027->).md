@@ -821,4 +821,5 @@ One last note: I think these two types of complexities and costs can be consider
 
 ---
 
-`ether cli` - Same interface as ether, but as a CLI, render restrictions to text.
+`ether cli` - Same interface as ether, but as a CLI, render restrictions to text. - just a frontend to the geometry library
+
