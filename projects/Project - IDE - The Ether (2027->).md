@@ -818,3 +818,7 @@ One last note: I think these two types of complexities and costs can be consider
 - agents' cost of "deployment" or use: cost of forward problem solving (using the model to predict things; ""generative"" or predictive cost). Basically deduction cost  
   
 ~ Alex
+
+---
+
+`ether cli` - Same interface as ether, but as a CLI, render restrictions to text.
