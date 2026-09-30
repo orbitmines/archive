@@ -118,7 +118,7 @@ console.log(res);
 
 ![[Pasted image 20240604084826.png]]
 
-# 2026, June - September [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
+# 2026, June - September [Fadi Shawki](https://orbitmines.com/@fadi-shawki)
 
 ### Literary Exposure
 - [Strongly baryon-dominated disk galaxies at the peak of galaxy formation ten billion years ago (2017)](https://arxiv.org/pdf/1703.04310) ; *R. Genzel, N.M. Förster Schreiber, H. Übler, P. Lang, T. Naab, R. Bender, L.J. Tacconi, E. Wisnioski, S. Wuyts, T. Alexander, A. Beifiori, S. Belli, G. Brammer, A. Burkert, C.M. Carollo, J. Chan, R. Davies, M. Fossati, A. Galametz, S. Genel, O. Gerhard, D. Lutz, J.T. Mendel, I. Momcheva, E.J. Nelson, A. Renzini, R. Saglia, A. Sternberg, S. Tacchella, K. Tadaki, D. Wilman*
