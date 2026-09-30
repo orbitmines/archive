@@ -130,6 +130,7 @@ console.log(res);
 - [Complex behavior from intrinsic motivation to occupy future action-state path space (2024)](https://arxiv.org/abs/2205.10316) ; *Jorge Ramírez-Ruiz, Dmytro Grytskyy, Chiara Mastrogiuseppe, Yamen Habib, Rubén Moreno-Bote*
 
 - :youtube: [Co-Creator of Haskell: Functional Programming, Thinking in Types, Useless Languages | Simon Jones (2026)](https://www.youtube.com/watch?v=xcB_LF3cdqw&t=3161s) ;  *Simon Jones, Ryan Peterman*
+- :youtube: [Creator of OCaml: Functional Programming, Formal Verification, Programming Languages | Xavier Leroy (2026)](https://www.youtube.com/watch?v=9Cswiqrq6So&t=4s) ;  *Xavier Leroy, Ryan Peterman*
 
 
 # 2026, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
