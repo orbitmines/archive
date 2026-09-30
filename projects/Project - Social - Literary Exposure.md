@@ -123,7 +123,6 @@ console.log(res);
 ### Literary Exposure
 - [Strongly baryon-dominated disk galaxies at the peak of galaxy formation ten billion years ago (2017)](https://arxiv.org/pdf/1703.04310) ; *R. Genzel, N.M. Förster Schreiber, H. Übler, P. Lang, T. Naab, R. Bender, L.J. Tacconi, E. Wisnioski, S. Wuyts, T. Alexander, A. Beifiori, S. Belli, G. Brammer, A. Burkert, C.M. Carollo, J. Chan, R. Davies, M. Fossati, A. Galametz, S. Genel, O. Gerhard, D. Lutz, J.T. Mendel, I. Momcheva, E.J. Nelson, A. Renzini, R. Saglia, A. Sternberg, S. Tacchella, K. Tadaki, D. Wilman*
 - [BIG-SPARC: The new SPARC database (2024)](https://arxiv.org/pdf/2411.13329) ; *Konstantin Haubner, Federico Lelli, Enrico Di Teodoro, Francis Duey, Stacy McGaugh, James Schombert, Kelley M. Hess, Apertif Team*
-- 
 
 - [The next unit of science: Is the scientific paper due to be replaced? (2026)](https://www.thetransmitter.org/from-bench-to-bot/the-next-unit-of-science-is-the-scientific-paper-due-to-be-replaced/) ; *Tim Requarth*
 - [Kuna: Decompiler Development in the Age of Coding Agents (2026)](https://noelo.org/blog/kuna-release/) ; *Zion Leonahenahe Basque*
@@ -133,7 +132,7 @@ console.log(res);
 - :youtube: [Creator of OCaml: Functional Programming, Formal Verification, Programming Languages | Xavier Leroy (2026)](https://www.youtube.com/watch?v=9Cswiqrq6So&t=4s) ;  *Xavier Leroy, Ryan Peterman*
 - :youtube: [Turing Award Winner: Early AI, LLM Predictions, Causality | Judea Pearl (2026)](https://www.youtube.com/watch?v=FleTXB1fAcQ&t=2840s) ;  *Judea Pearl, Ryan Peterman*
 - :youtube: [Casey Muratori: The Anatomy of a 35-Year Mistake, "Clean Code" Horrible Performance (2026)](https://www.youtube.com/watch?v=jHLbL1Eg4gM&pp=0gcJCTMMAYcqIYzv) ;  *Casey Muratori, Ryan Peterman*
-- :youtube: :lex_fridman_podcast: [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501 (2026)](https://www.youtube.com/watch?v=NYFGCESmikA&t=4s&pp=0gcJCTMMAYcqIYzv) ;  **
+- :youtube: :lex_fridman_podcast: [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | #501 (2026)](https://www.youtube.com/watch?v=NYFGCESmikA&t=4s&pp=0gcJCTMMAYcqIYzv) ;  *David Heinemeier Hansson, Lex Fridman
 
 
 # 2026, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
