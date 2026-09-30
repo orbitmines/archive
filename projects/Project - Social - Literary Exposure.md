@@ -131,6 +131,7 @@ console.log(res);
 
 - :youtube: [Co-Creator of Haskell: Functional Programming, Thinking in Types, Useless Languages | Simon Jones (2026)](https://www.youtube.com/watch?v=xcB_LF3cdqw&t=3161s) ;  *Simon Jones, Ryan Peterman*
 - :youtube: [Creator of OCaml: Functional Programming, Formal Verification, Programming Languages | Xavier Leroy (2026)](https://www.youtube.com/watch?v=9Cswiqrq6So&t=4s) ;  *Xavier Leroy, Ryan Peterman*
+- :youtube: [Turing Award Winner: Early AI, LLM Predictions, Causality | Judea Pearl (2026)](https://www.youtube.com/watch?v=FleTXB1fAcQ&t=2840s) ;  *Judea Pearl, Ryan Peterman*
 
 
 # 2026, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
