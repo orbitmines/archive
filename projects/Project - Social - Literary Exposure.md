@@ -132,7 +132,7 @@ console.log(res);
 - :youtube: [Creator of OCaml: Functional Programming, Formal Verification, Programming Languages | Xavier Leroy (2026)](https://www.youtube.com/watch?v=9Cswiqrq6So&t=4s) ;  *Xavier Leroy, Ryan Peterman*
 - :youtube: [Turing Award Winner: Early AI, LLM Predictions, Causality | Judea Pearl (2026)](https://www.youtube.com/watch?v=FleTXB1fAcQ&t=2840s) ;  *Judea Pearl, Ryan Peterman*
 - :youtube: [Casey Muratori: The Anatomy of a 35-Year Mistake, "Clean Code" Horrible Performance (2026)](https://www.youtube.com/watch?v=jHLbL1Eg4gM&pp=0gcJCTMMAYcqIYzv) ;  *Casey Muratori, Ryan Peterman*
-- :youtube: :lex_fridman_podcast: [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | #501 (2026)](https://www.youtube.com/watch?v=NYFGCESmikA&t=4s&pp=0gcJCTMMAYcqIYzv) ;  *David Heinemeier Hansson, Lex Fridman
+- :youtube: :lex_fridman_podcast: [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | #501 (2026)](https://www.youtube.com/watch?v=NYFGCESmikA&t=4s&pp=0gcJCTMMAYcqIYzv) ;  *David Heinemeier Hansson, Lex Fridman*
 
 
 # 2026, May - [Fadi Shawki](https://orbitmines.com/profiles/fadi-shawki)
