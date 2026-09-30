@@ -101,7 +101,7 @@ const authors = [...l.matchAll(/\*(.+)\*$/g)]
             .replaceAll(/[- ]/g, "_")  
             .toUpperCase();  
   
-        return `REFERENCES.${ref}`; 
+        //return `REFERENCES.${ref}`; 
         return `${ref}: <Content>{  
             reference: {                 title: '${title}',      
                  authors: [${authors.map(author => `{name: '${author}'}`).join(',')}],      
