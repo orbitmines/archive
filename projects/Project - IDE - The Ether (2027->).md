@@ -827,3 +827,5 @@ sample images with textual equivs
 preferred rewrites as (optional)
 
 when not a None the ? after is just the boolean version does this property hold. instead of the is_X? everywhere
+
+types which match, findinb
