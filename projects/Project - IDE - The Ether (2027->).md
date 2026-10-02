@@ -825,3 +825,5 @@ One last note: I think these two types of complexities and costs can be consider
 sample images with textual equivs
 
 preferred rewrites as (optional)
+
+when not a None the ? after is just the boolean version does this property hold. instead of the is_X? everywhere
