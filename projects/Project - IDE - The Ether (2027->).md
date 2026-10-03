@@ -845,3 +845,5 @@ dynamiacally {
 }
 
 steramer mode is the screen renderer doesnt have view access to the @player information (so the name cant be displayed)
+
+cli shell replacement for terminals running as the language
