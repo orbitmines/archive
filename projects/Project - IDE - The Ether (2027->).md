@@ -829,3 +829,6 @@ preferred rewrites as (optional)
 when not a None the ? after is just the boolean version does this property hold. instead of the is_X? everywhere
 
 types which match, findinble through references, like Program with cycles, findable. or assert that theyre shouldnt be any. or recurison not allowed etc...
+
+x: Type
+(x = a: b) // x needs to be set in this cotnext? nbot where it is inlined.
