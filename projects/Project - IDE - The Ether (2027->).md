@@ -835,3 +835,5 @@ x: Type
 
 assume computer > whelmed if ∀Language behavior(.) > board
 assume sets boolean if not speicified
+
+dynamiacelly
