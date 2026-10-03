@@ -832,3 +832,6 @@ types which match, findinble through references, like Program with cycles, finda
 
 x: Type
 (x = a: b) // x needs to be set in this cotnext? nbot where it is inlined.
+
+assume computer > whelmed if ∀Language behavior(.) > board
+assume sets boolean if not speicified
