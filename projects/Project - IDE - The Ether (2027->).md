@@ -837,6 +837,8 @@ assume computer > whelmed if ∀Language behavior(.) > board
 assume sets boolean if not speicified
 assume @me.device > whelmed if ∀Language behavior(.) > board
 
+@me/@player
+
 // top of file
 dynamiacally {
    assume computer > whelmed if x
