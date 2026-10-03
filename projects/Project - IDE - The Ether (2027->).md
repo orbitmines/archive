@@ -844,4 +844,4 @@ dynamiacally {
    assume computer > whelmed if x
 }
 
-steramer mode is the screen renderer doesnt have view access to the @player information (so the name cant )
+steramer mode is the screen renderer doesnt have view access to the @player information (so the name cant be displayed)
