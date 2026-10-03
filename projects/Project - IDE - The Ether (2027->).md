@@ -843,3 +843,5 @@ assume @me.device > whelmed if ∀Language behavior(.) > board
 dynamiacally {
    assume computer > whelmed if x
 }
+
+steramer mode is the screen renderer doesnt have view access to the @player information (so the name cant )
