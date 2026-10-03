@@ -836,4 +836,7 @@ x: Type
 assume computer > whelmed if ∀Language behavior(.) > board
 assume sets boolean if not speicified
 
-dynamiacelly
+// top of file
+dynamiacally {
+   assume computer > whelmed if x
+}
