@@ -849,3 +849,5 @@ steramer mode is the screen renderer doesnt have view access to the @player info
 cli shell replacement for terminals running as the language mapping to usual cli behavior
 
 decentralized index of all other applications and their functionality (how to safely seaparte user data vs public data) - Project Archive
+
+while loop should work as filling lazy partial.
