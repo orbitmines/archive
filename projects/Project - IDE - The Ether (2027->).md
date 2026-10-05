@@ -853,3 +853,5 @@ decentralized index of all other applications and their functionality (how to sa
 while loop should work as filling lazy partial.
 
 if instead of match if == , 0 => etc..
+
+automatically compiling a program to be equived to a bunch of API calls wthen let opeople switch to the API call version of remote code execution version.
