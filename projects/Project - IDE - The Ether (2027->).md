@@ -861,3 +861,5 @@ allow people to claim reservedf names through dns text records.
 program in memory idea, repeated parts for hot paths that go wide? can that work?
 
 abstractions like pi =/ javasxcript Math.PI need to come with types of approximations so the compiler nknows the information loss and can tell the user.
+
+move OS specifci stuff to the package stuff that needs them.
