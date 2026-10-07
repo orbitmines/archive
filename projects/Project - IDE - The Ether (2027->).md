@@ -857,3 +857,5 @@ if instead of match if == , 0 => etc..
 automatically compiling a program to be equived to a bunch of API calls wthen let opeople switch to the API call version of remote code execution version.
 
 allow people to claim reservedf names through dns text records.
+
+program in memory idea, repeated parts for hot paths that go wide? can that work?
