@@ -859,3 +859,5 @@ automatically compiling a program to be equived to a bunch of API calls wthen le
 allow people to claim reservedf names through dns text records.
 
 program in memory idea, repeated parts for hot paths that go wide? can that work?
+
+abstractions like pi =/ javasxcript Math.PI need to come with types of app
