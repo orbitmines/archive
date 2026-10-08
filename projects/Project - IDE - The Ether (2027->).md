@@ -865,3 +865,5 @@ abstractions like pi =/ javasxcript Math.PI need to come with types of approxima
 move OS specifci stuff to the package stuff that needs them.
 
 route exsting OS through a fitlered FS
+
+if # is used it's on the whole thing instead of per.
