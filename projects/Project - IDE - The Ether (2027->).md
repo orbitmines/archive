@@ -867,3 +867,7 @@ move OS specifci stuff to the package stuff that needs them.
 route exsting OS through a fitlered FS
 
 if # is used it's on the whole thing instead of per.
+
+
+
+asserts green, if fails red, need to separate syntax etc. other errors from actually failing the condition
