@@ -877,3 +877,5 @@ https://github.com/jj-vcs/jj
 how to say if not fulfilled default to 1 or max(1, etc)
 
 \n\n needs to work.
+
+recur should be within a closure recurring the closure
