@@ -873,3 +873,5 @@ if # is used it's on the whole thing instead of per.
 asserts green, if fails red, need to separate syntax etc. other errors from actually failing the condition
 
 https://github.com/jj-vcs/jj
+
+how to say if not fulfilled default to 1 or max(1, etc)
