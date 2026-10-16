@@ -883,3 +883,5 @@ recur should be within a closure recurring the closure
 [] == false
 
 is a number shift a decimal shift/
+
+!~= as ~= should be general pattern on operator which returns a boolean.
