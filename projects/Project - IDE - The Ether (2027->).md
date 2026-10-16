@@ -885,3 +885,27 @@ recur should be within a closure recurring the closure
 is a number shift a decimal shift/
 
 !~= as ~= should be general pattern on operator which returns a boolean.
+
+TODO Unit.ray, Unicode.ray, Time.ray, String.ray
+
+---
+
+upper_case? -> boolean automatically checks?
+
+---
+
+secure from UUID v4 goes away, not necessary according to the standard right? 'secure UUID.v4()' remains possible.
+
+The generate\ in UUID should be within the constructor of UUID as defaults.
+
+is compounds really necessary, shouldnt that already by default work or not? 1 + 2 + 3, already compounds by default?
+
+Move roman to a separate roman/ project.
+
+
+I dont think there's anything left in entrypoint.ray which isnt also in entrypoint.ray2 right? If so move .entrypoint.ray2 to .entrypoint.ray
+.
+
+
+remove same_characters.
+
