@@ -882,4 +882,4 @@ recur should be within a closure recurring the closure
 
 [] == false
 
-is a number shift a 
+is a number shift a decimal shift/
