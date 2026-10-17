@@ -909,3 +909,5 @@ I dont think there's anything left in entrypoint.ray which isnt also in entrypoi
 
 remove same_characters.
 
+
+asserts need their values decorated on hover or something or i
