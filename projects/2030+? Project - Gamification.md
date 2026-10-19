@@ -504,3 +504,4 @@ script ww
 
 ---
 
+![[Pasted image 20261019132050.png]]
