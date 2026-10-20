@@ -920,6 +920,6 @@ doublecheck if all dependencies for each project are necessary.
 
 
 Name registration
-- Names are not to be claimed for reselling purposes. (How to enforce?). Superposition; Enumeration of names not permitted - Guideline is max 10 aliases per person; though not enforced through anonymity. 
+- Names are not to be claimed for reselling purposes. (How to enforce?). Superposition; Enumeration of names not permitted.
 - Standards may reserve ranges to redistribute/Company exists before X date.
 - After X free reign on who grabs the name first.
