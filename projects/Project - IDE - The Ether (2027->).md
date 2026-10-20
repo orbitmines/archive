@@ -920,7 +920,6 @@ doublecheck if all dependencies for each project are necessary.
 
 
 Name registration
-- Names are not to be used for reselling purposes.
-- Standard exists before X date.
-- Company exists before X date.
+- Names are not to be claimed for reselling purposes. (How to enforce?)
+- Standard/Company exists before X date.
 - After X free reign on who grabs the name first.
