@@ -915,3 +915,5 @@ asserts need their values decorated on hover or something or setting it inline.
 create a general measure of what something costs relative to what is executing it. static analyhzable
 
 UNICODE CHARACTER NEXT = STGRING
+
+doublecheck if all dependencies for each project are necessary.
