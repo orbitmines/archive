@@ -925,3 +925,5 @@ Name registration
 - After X free reign on who grabs the name first.
 
 inline versions/vc
+
+superposition nseeds to cgo all if/else branches if first one matches and there's still left. (with &)
