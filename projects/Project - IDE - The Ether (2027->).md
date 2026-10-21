@@ -929,3 +929,5 @@ inline versions/vc
 superposition nseeds to cgo all if/else branches if first one matches and there's still left. (with &)
 
 statically; compile-time
+
+Access nbo method thing, just location. location needs to be set.
