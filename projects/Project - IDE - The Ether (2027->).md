@@ -940,4 +940,4 @@ Location is Program
 genrel ! for booolean funcs
 
 `Choice := Program{.name == "choose"}`
-`Choice() ne`
+`Choice() needs to work`
