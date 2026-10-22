@@ -938,3 +938,6 @@ Multiple users with the same name, disambiguated by some other field like geoloc
 Location is Program
 
 genrel ! for booolean funcs
+
+`Choice := Program{.name == "choose"}`
+`Choice() ne`
