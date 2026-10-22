@@ -941,3 +941,6 @@ genrel ! for booolean funcs
 
 `Choice := Program{.name == "choose"}`
 `Choice() needs to work`
+
+minimize X
+maximize X (in a file fo)
