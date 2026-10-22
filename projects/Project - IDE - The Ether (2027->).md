@@ -943,4 +943,4 @@ genrel ! for booolean funcs
 `Choice() needs to work`
 
 minimize X
-maximize X (in a file fo)
+maximize X (in a file for readability vs etc..)
