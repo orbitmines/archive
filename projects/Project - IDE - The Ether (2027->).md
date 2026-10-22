@@ -933,3 +933,6 @@ statically; compile-time
 Access nbo method thing, just location. location needs to be set.
 
 Multiple users with the same name, disambiguated by some other field like geolocation in the case of 911 for instance.
+
+
+Location is Program
