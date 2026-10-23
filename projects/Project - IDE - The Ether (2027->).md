@@ -11,46 +11,12 @@ A. The Ray Programming Language
 	- How do you call and define inverses of functions?
 	- What would be an appropriate geometrical library for describing UI languages?
 
-B. Interpretation and Reinterpretation of existing Software
-- Which categories do you use to measure all the diversity?
-	- Grammars (verbosity), Runtime Complexity (which abstraction layer), Parallel/Sequential Time/Spatial complexity (??), Measurement of how complex the access to spatial structure of a Program is
-- How do you create differentiation of languages based on those measures?
-- How do you extract specific features from large executables/source code bases? And then reuse them in yours?
-- How do you generate version control for substructures when you're only given the complete current and previous states of the programs? 
-- How?
-	- What is the purpose of some Item?
-		- What is the visibility of that item supposed to be? Is it communicated over the network? Or never? Is it encrypted? ; this should be interpreted and respected. Similarly we could identify some code which checks for a license and still identify all the items within the source code if possible, but respect the license as visibility of the item. ; The visibility's visibility - so whether we can see the item, would depend on whether the source code has some preventive mechanism  where the license check is concerned. - Of course users could override this check if there's no preventative mechanism.
-			- If accessible still equivalence with open-source free variants, and say there's free alternatives.
-		- 
-		- How is it updated? Modified within the code, modified externally by an updater; version tracking.
-		- 
-		- 
-		- Equivalences?
-			- Find equivalences across other things currently within the interface (or in the library): Is this Item loosely equivalent to this other Item. ; ex. (Chat) Message across platforms. Same for actions.
-			- How does it differ? - which we deem useful to ignore for the equivalence ; for instance messages ordering, nested threads displaying beneath them in case of certain platforms etc..
-	- Customization:
-		- Themes: Use their theme - or equivalent themes. But overlay a possible way to modify it from their perspective.
-		- Version changing needs to be diff-able (visually?). ; The interface shouldnt break if there's a breaking change which we still need to resolve because there's some conflict. Either fall back to another theme (the updated one) 
-	- Import from source, OS-specific library or drag-and-dropping a link to the start of the program.
-	- 
-C. Reprogrammable UI
-- Create a modular system for items from other interfaces to plug into.
-
-
 ---
 
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
 ---
-
-Many initial/terminal ternary etc..
-
----
-
-^ is right-associtive?
-
-@/ and @./ are reserved for path names
 
 ---
 
