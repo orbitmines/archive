@@ -944,3 +944,5 @@ genrel ! for booolean funcs
 
 minimize X
 maximize X (in a file for readability vs etc..)
+
+Explciit `= None` in `a: Test?` shoudlnt be necessary
