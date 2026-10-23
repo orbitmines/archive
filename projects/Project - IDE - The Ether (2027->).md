@@ -18,46 +18,9 @@ A. The Ray Programming Language
 
 - DNS TXT reserve of domainnames and claiming users already defined.
 - Timed/instance permissions (allow this time) or when some condition is true (like app started).
-
+- collapse tests inline iun ide
+- Devices as permission lev
 ---
-
-collapse tests inline iun ide
-
----
-
-temporary
-
----
-
-`:=` by initializing. or `: String = `
-
----
-
-
-Type ? + Error
-Grammar would be interpreted differently for different types so throw error
-
-optimizations 
-- joint allocation 
-
-explicit as flag for equiv graph
-program defines build like style and optimizations
-
-multineline comments nest /* /*
-
----
-
-var :
-var =
-how to distinguish new vs out if scope assignment copatible
-
----
-
-namespaces per project : repository
-
----
-
-Things like an externally controlled mouse with different permissions; or keybaord for that matter.
 
 ---
 
