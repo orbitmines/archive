@@ -16,19 +16,8 @@ A. The Ray Programming Language
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
----
-
----
-
-Seperate direcorties for different names like orbitmines.com or @orbitmines. (Mainly legacy support)
-
----
-
-visibility, and contract (license).
-
----
-
-Timed/instance permissions (allow this time) or when some condition is true (like app started).
+- DNS TXT reserve of domainnames and claiming users already defined.
+- Timed/instance permissions (allow this time) or when some condition is true (like app started).
 
 ---
 
