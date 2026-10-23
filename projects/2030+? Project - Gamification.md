@@ -29,6 +29,9 @@ Stargate apparently has an episode/serie on encoding a problem in a videogame.
 
 ---
 
+Oh btw where do you want us to store all your data? (The moment one goes online), we can pick something if you ask for it, or jsut X.
+
+---
 
 - Server discovery with possibilities of some community driven setup. So discovering ways of discovering other servers.
 	- auto-join local server if last logout was there. per device, allow to (goto position of this device)
