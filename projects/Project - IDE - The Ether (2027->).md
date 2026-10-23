@@ -26,6 +26,9 @@ A. The Ray Programming Language
 
 - @ether index decentralized (where certain people host their servers if they want to change the visibility to @public)
 
+- Checker whether access permissions dont leave the network as the network doesnt have access if not so defined. (any derivative)
+- Abstraction interpretation flag anything that is not Pure, refuse to execute those.
+
 ---
 
 keybiunding to see all versions intermingled, go through each version etc.
@@ -33,20 +36,6 @@ keybiunding to see all versions intermingled, go through each version etc.
 ---
 
 ---
-
-Abstract Interpretation
-- Needs access to something like `speculatable`, but something more intuitive `interpretable?`.
-	- Need to explicitely specify, needs to be smart as to not accedentially run something like rm -rf on the whole directory, if the user is for instance rewriting something like speculatable rm -rf SOME_DIR and removes SOME_DIR. -> Perhaps after a change need to reflag as interpretable.
-	- Needs to know when to cache the results, if they're IO or nondeterministic?
-
-- Different levels of trust of whether to execute the code. (Who's the author, run the code as them on my pc, so the @player is set) ; and then we can configure them not to allow to run HTTP requests for instance. ; Prompted with a ; trust this author to run network requests: Or only specifically certain domains, with/without data attached etc..
-- Extra level of dont give full write access to drive for instance; only in specific folders things like that. You can override it, but you have to manually change that configuration.
-- How do you say: Can not send data over the network, only receive? Pretty impossible, get maybe fix the addresses and then no body. But timings can still be used to communicate. It is much easier to say: It may not send any of this data or its derivatives over the network.
-
-- Different levels of execution. 
-	- [FULL RUNTIME] Say we run classes because we flag them as `initializer`? Then we execute all code inside. (actual execution) 
-		- [OPTIONALLY PARTIAL] But we also want to support large functions just partially running them and storing the partial stuff and showing that off. Even just normal interpretation.
-	- [ABSTRACT INTERPRETATION] Then for other methods, we just run it with the abstract class just put on the variable. And only call all other initializer methods like =/:.
 
 - anything IO flagged returns the abstract class; unless flagged with `speculate`. Ignored when flagged with `refuse` - It only effects the actual IO, not the downstream things done with that IO.
 	- First pass, abstract interpretation; call all functions with the abstract classes.
