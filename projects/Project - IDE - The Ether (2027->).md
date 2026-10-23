@@ -19,18 +19,14 @@ A. The Ray Programming Language
 - DNS TXT reserve of domainnames and claiming users already defined.
 - Timed/instance permissions (allow this time) or when some condition is true (like app started).
 - collapse tests inline iun ide
-- Devices as permission lev
----
+- Devices as permission levels; Display can see (streamer mode), mouse can edit certain things.
+
+- Ambiguities 
+	- (what to do with the platforms which have a @ether name registered?)
 
 ---
 
-what to do with the platforms which have a @ether name registered?
 
----
-
-optimization per function
-
-Recognizing the language like ffempeg does and tthe version
 
 sesrch for equivalences or possible generalizability hint suggest
 
