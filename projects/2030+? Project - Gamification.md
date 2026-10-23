@@ -30,7 +30,18 @@ Stargate apparently has an episode/serie on encoding a problem in a videogame.
 ---
 
 
+- Server discovery with possibilities of some community driven setup. So discovering ways of discovering other servers.
+	- auto-join local server if last logout was there. per device, allow to (goto position of this device)
+	- non-local servers you'd join via the menu, with a last visited on this instance? or in general.
+
+---
+
 Video/Multimedia formats, just like databases. Optimizations for a very simply language interface: 2D/3D scenes + temporal, which need to be optimized for CPU time, storage, same considerations as the databases --> do you reformat, what do you need available. How does the optimizations come into play here (incentivizing it).
+
+---
+
+	- You want to do things like "include this thing like a video", if one has access to that - for instance if it needs to be paid for conditionally, in this place in the rest of the structure. That way you can conditionally include things and get around ownership issues, since it'll only be displayed to ones that do have access. -> For certain things a feature like this would be obnoxious though, so what's a good usage for a thing like this.
+
 
 ---
 

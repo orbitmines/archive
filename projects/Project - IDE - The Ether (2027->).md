@@ -60,18 +60,6 @@ Create virtual filesystems into the ether
 ---
 
 
-	- You want to do things like "include this thing like a video", if one has access to that - for instance if it needs to be paid for conditionally, in this place in the rest of the structure. That way you can conditionally include things and get around ownership issues, since it'll only be displayed to ones that do have access. -> For certain things a feature like this would be obnoxious though, so what's a good usage for a thing like this.
-
-
-
-
----
-
-What type of information is stored on player? Things like: Preferences, interested in these fields, these types of knowledge trees already unlocked (can autogenerate these to some extent?).
-
-- Server discovery with possibilities of some community driven setup. So discovering ways of discovering other servers.
-	- auto-join local server if last logout was there. per device, allow to (goto position of this device)
-	- non-local servers you'd join via the menu, with a last visited on this instance? or in general.
 
 ---
 
