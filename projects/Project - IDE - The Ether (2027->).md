@@ -26,34 +26,11 @@ A. The Ray Programming Language
 
 ---
 
-
-
-sesrch for equivalences or possible generalizability hint suggest
-
-How to say parent shouldn't be visible but I should be readable, or the other? Which is the default.
-
-Can a program access network? modifier for it / not just a status for @me
-
----
-
-```
-<&VER..&VER> field
-//names of versions so
-%1..5 field
-field %1..5
-```
 keybiunding to see all versions intermingled, go through each version etc.
-
-support both forward and backwards compatability if desired.
-
----
-
-Non returning functions
 
 ---
 
 Call something which isnt filled yet lazily, and assume it can only be put there after it's filled.
-
 
 ---
 

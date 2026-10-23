@@ -59,6 +59,10 @@ $ dir in a repository is all the difference branches.
 
 ---
 
+Recognizing the language like ffempeg does and tthe version
+
+---
+
 - Getting other programming languages inside the Ray ecosystem:
 	- Getting inside a first language
 	- Extracting other languages it supports.
