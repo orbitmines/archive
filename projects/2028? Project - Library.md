@@ -12,6 +12,53 @@ B. Interpretation and Reinterpretation of existing Software
 
 ---
 
+
+`ether @c++ %` - list versions
+@clang/@linux/@apt %(0.16.0 | 0.15.0)
+@clang/@windows %(0.16.0 | 0.15.0)
+%0.15.0 @clang/@linux/@apt | @clang/@windows
+latest - %0.16.0 @clang/@linux/@apt | @clang/@windows
+
+`ether @c++ @` - list locations
+@clang/@linux/@apt | @clang/@windows
+
+All the paths from `@c++` to backend `@<>`
+Reserve .ray for the mapping @ray/@c++ which wraps the characters which flag themselves as languages. Syntax sugar to differentiate with the @ to make more readable. Protection from typos because .[] are reserved for domains, is .ra something?
+`ether @c++`
+`ether @c++.ray`
+`ether @c++.ray @clang`
+`ether @c++.ray @gcc`
+`ether @c++.ray @zig`
+`ether @c++.ray @github/releases %0.16.0`
+`ether @c++.ray @github/releases/@linux/@x86-64 %0.16.0`
+`ether @c++.ray @github %0.16.0`
+`ether @c++.ray @github %specific-branch`
+`ether @c++.ray @clang/@windows/@x86-64 %0.16.0`
+`ether @c++.ray @x86-64 %0.16.0`
+`ether @c++.ray @windows %0.16.0`
+`ether @c++ @local` // use locally installed version
+
+`ether clone @c++`
+`ether install @c++`
+`ether use @c++` // Is like a checkout to a branch
+`ether use --global @c++`
+
+expects a `entrypoint.cli.ray` entrypoint. 
+
+versions themselves might be versioned (if there was a patch without a version number change for some reason)
+
+`ether @ray []`
+`ray` // maps to `ether @ray`
+
+`.ether/external/@/@clang/$/@windows/@x86-64/%/0.16.0`
+// Legacy support is @dir top-level and only @/ is used for users. Then only @ is a directory name that's not allowed. How to differentiate between @ usage though. escaped or something?
+That way we can say the top-level `.ether/external/@/@clang` is the currently checked out version, with all the versions in the `nested @`. After a change is made, but switched to a diff version, we put it under `.ether/external/@/@clang/$/@<USER>%branch`
+
+$ dir in a repository is all the difference branches.
+`.ether/external/@/@clang/$/@windows/@x86-64/%/0.16.0`
+
+---
+
 - Getting other programming languages inside the Ray ecosystem:
 	- Getting inside a first language
 	- Extracting other languages it supports.
