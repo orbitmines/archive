@@ -24,34 +24,11 @@ A. The Ray Programming Language
 - Ambiguities 
 	- (what to do with the platforms which have a @ether name registered?)
 
+- @ether index decentralized (where certain people host their servers if they want to change the visibility to @P
+
 ---
 
 keybiunding to see all versions intermingled, go through each version etc.
-
----
-
-What about a model where we don't setup the infrastructure ourselves, but privately host a cloud account for each separate user, with credentials tied to their stuff and potentially only backups of credentials through us. [prompt to backup?]
-
-X cost associated with complicated access permissions; have to run those 'functions' on the providers. (on the @X m$)
-Show random provider order.
-
-But how to integrate free stuff for accounts?; Just on a separate account which invoices orbitmines directly? ; When moving to a paid setup interop sharded or give the option to move to a fully charged setup (have to pay the cost of the free stuff themselves too).
-- Or change the billing to Ether, but can we limit the spending which cannot be changed by the user themselves.
-
-How does the indexing work? What is indexed and how? How do you do code search or more general search, 3d search eventually?
-
-Allow turning of indexes, but then those features will be disabled for those repositories.
-Allow to say can find in the index, but you dont have access to it (visibility of visibility).
-
-Auto-update off on those servers by default.
-
-Provide machine details and login through ssh or something, then install and report back.
-
-Probably have to OAuth for cloud providers until they allow direct integration into their platforms. So an account per user probably doesnt work for free tier.
-
-User-controlled ownership of data: By creating a new VCS in which the central platform (i.e. the GitHub) is only an index akin to DNS. What I'd need from @googlecloud, @awscloud, @Azure et al is a way to:
-(1) for convenience: create accounts for those users and 
-(2) allow restricted financial commitment by a 3rd party to the billings account for a free tier.
 
 ---
 
