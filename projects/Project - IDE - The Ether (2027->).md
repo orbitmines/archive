@@ -30,22 +30,6 @@ keybiunding to see all versions intermingled, go through each version etc.
 
 ---
 
-Call something which isnt filled yet lazily, and assume it can only be put there after it's filled.
-
----
-
-Use bash/sh autocmopleteing once a variable is marked for being a CLI tool.
-
----
-
-Some screen ; or location, modify what it is allowed to see; which permission level it has, @public for instance - streaming for instance.
-
----
-
-Put private stuff on a separate setup? what are the pros/cons of doing that; mixing in different repos for instance would have to get it from multiple machines.
-
----
-
 What about a model where we don't setup the infrastructure ourselves, but privately host a cloud account for each separate user, with credentials tied to their stuff and potentially only backups of credentials through us. [prompt to backup?]
 
 X cost associated with complicated access permissions; have to run those 'functions' on the providers. (on the @X m$)
