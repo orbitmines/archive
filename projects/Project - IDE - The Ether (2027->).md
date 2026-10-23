@@ -63,50 +63,6 @@ Create virtual filesystems into the ether
 
 ---
 
-A stack is an arbitrary graph of some type, so say a stack of keys/credentials
-
-Whether a graph allows programmatic cursors to traverse it to find items like files in it. ; Or it requires a player to move there or be close to it. 
-Then you have things like "items in this room" or "items in this room I can traverse now"
-
-Infrastructure is there for things like navigating and storing items in any structure.
-
----  
-
-- Idea for chyp-like functionaltiy: Put the graphs setc at the top, invis lines, then draw them on hover, and maybe make surrounding stuff less visiable. ; context of how to apply somethig. ; minimap as ignorant ref
-
-- Import arbitrary structure (drag/copy/paste)
-- Control
-	- ignoring attachment of where came from, from which would follow the others as the same ignoring again the compariosn, collapsing the tei structures into each other ; ignoring the embedding. - Basically driving them to some "0 point"
-	- Bind structures to controls ; copy/paste, this key does this
-	- Single key to show something for everything, ignored structure, could just me a simple program applied to the whole interface, show me all the 'orbits' on all the structure.
-		- Basically: use loop to create line, rolling the loop oit by introducing variance in the traversing direction  
-	- Some intuitive slider of some level of description over an existing interpretation to match it - quite dynamic
-
-- [ ] If you ahve to use mouse, force lock on the structure, close to the mouse?? ; Generalized to drawing in, but this is also a bit of a problem when generalized.
-
-Always, how detailed, how much context, how much can it latch on etc..
-- Drag from one point of contact on the background to another place
-
-- 'Install app' in browser for desktop/mobile
-
- - [ ] Time & Spatial (Circuit) complexity  
-   One complexity is related to sequential processing capacity (hence circuit or time complexity, a very well known concept in computer science)  
-  
-The other is related to parallel processing capacity  
-  
-   For instance what is usually called high level languages (far from just zeros and ones), I think that affords higher parallel processing.  
-  
-Robustness of code etc I think is very connected to this too. More complex is usually less robust, but this means there will be two types of robustness I guess  
-  
-One last note: I think these two types of complexities and costs can be considered also "inverse problem solving" and "forward problem solving":  
-  
-- agents' cost of training: cost of inverse problem solving (forming the model, building it). Basically induction cost  
-- agents' cost of "deployment" or use: cost of forward problem solving (using the model to predict things; ""generative"" or predictive cost). Basically deduction cost  
-  
-~ Alex
-
----
-
 `ether cli` - Same interface as ether, but as a CLI, render restrictions to text. - just a frontend to the geometry library
 sample images with textual equivs
 

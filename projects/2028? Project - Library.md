@@ -12,6 +12,9 @@ B. Interpretation and Reinterpretation of existing Software
 
 ---
 
+ - [ ] Time & Spatial (Circuit) complexity  
+   One complexity is related to sequential processing capacity (hence circuit or time complexity, a very well known concept in computer science)  
+  
 
 `ether @c++ %` - list versions
 @clang/@linux/@apt %(0.16.0 | 0.15.0)
@@ -229,3 +232,20 @@ Better for what?
 
 https://github.com/FFmpeg/asm-lessons
 https://github.com/Noelo-Lab/kuna/tree/main
+
+
+---
+
+
+The other is related to parallel processing capacity  
+  
+   For instance what is usually called high level languages (far from just zeros and ones), I think that affords higher parallel processing.  
+  
+Robustness of code etc I think is very connected to this too. More complex is usually less robust, but this means there will be two types of robustness I guess  
+  
+One last note: I think these two types of complexities and costs can be considered also "inverse problem solving" and "forward problem solving":  
+  
+- agents' cost of training: cost of inverse problem solving (forming the model, building it). Basically induction cost  
+- agents' cost of "deployment" or use: cost of forward problem solving (using the model to predict things; ""generative"" or predictive cost). Basically deduction cost  
+  
+~ Alex
