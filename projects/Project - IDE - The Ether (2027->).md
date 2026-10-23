@@ -55,61 +55,12 @@ Create virtual filesystems into the ether
 
 ---
 
-
-
----
-
-
----
-
-COmponents which shouldn't override top-level property, but only contents of those properties, and overlay those. (But at what level?) How would you configure this? Set property => {property.* to property.components.last) - Want to say property = property.map dynamically how? Then make an extension for this; components.merge/##.merge or something
-
----
-
-in a repl, settings such that changes are permanent to your character.
-
----
-
 [y: 5] move in a specific dimension
 
 ---
 
-Side quests, unexpected competencies, intrinsic motivation
 
----
 
-is default set, and should it be set as a part of data storage, or should it only be set once the default changes, should it follow the default adaptively.
-
----
-
-```
-// Standalone: stop string hit → returns content before (stop-at, SUCCESS)
-const r2 = parse(ctx.not('=>'), 'hello=>world');
-assert('stops at =>, returns "hello"', r2.success && r2.value === 'hello');
-```
-
-Should not succeed. If the pattern doesn't fully match it fails. So .not doesnt stop at => it just says it must not continue with that. So the pattern fully fails, of course unless there's another Any which does in fact match.
-
----
-
-Ongoing prompt like Extract this feature from this binary
-
----
-
-"".[LANG] to syntax highlight,.
-
----
-
-canonicalize as a filesystem, delegate certain fields to certain files/dirs. fields under @me.ray , other things separately like stars.
-
----
-
-Wrap remote executable with what to get out of global context intutively and not so verbose? is @me, the me who sent it or?
-
----
-Use loadbalancer from some cloud or use load balancer to test a new feature from builtin
-
----
 
 if @public
 elsif @,..
