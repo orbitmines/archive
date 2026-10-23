@@ -26,6 +26,12 @@ D. Gamification of Science, Engineering and Education
 
 Stargate apparently has an episode/serie on encoding a problem in a videogame.
 
+
+---
+
+
+Video/Multimedia formats, just like databases. Optimizations for a very simply language interface: 2D/3D scenes + temporal, which need to be optimized for CPU time, storage, same considerations as the databases --> do you reformat, what do you need available. How does the optimizations come into play here (incentivizing it).
+
 ---
 
 Browse applications applicable to specific interface. (currently interopable). Browse U-Interfaces currently designed for specific interfaces.

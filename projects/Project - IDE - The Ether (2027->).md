@@ -57,33 +57,8 @@ Create virtual filesystems into the ether
 
 
 
-
----
-# Database
-Class$ uses that. - in memory/disk dynamically when necessary
-- Optionally distributed
-- Need something which supports arbitarry graphs not just 2d grid of columns/rows.
-- The way the object is stored vs showed to the user as a filesystem will diverge, storing isnt optimal as the same data structure. Especially if we account for the fact that we'll support a wide variety of "where data should be hosted". --> minimize reads because reading is expensive.
-- Fields of course versioned the same way clasases/functions are; that way renaming doesnt make a whole new object and force us to rename all the records: the entire version history has an ID. (what was its id originally, probably. - perhaps the latest version if thats no overhead, to know for which version the data was created./modified last?)
-- uniqueness effectively how? Also what about eventual uniqueness, where conflicts are allowed but force one of them to change; uin case the databases are separated for a long time. -> Basically merge conflicts
-- partitioning  - based on time/hash etc. can select which bucket some value would fall into, but might be hard to change this as youd have to rewrite data.
-- optimiziations, when to add pathces to the data, when to rewrite completely etc..
-	- Want automaticially pick optimizations; but tradeoffs are things like how easy to change that optimization etc.
-	- Fastlanes, Adaptive Lossless floating Point (ALP), Fast Symbolic Symbol Table (FSST), DIctionary (dict_string), Bitpacked, RunEnd, PCodec, ZSTD, FFOR, RLE, DElta, ; these things should be part of the language index.
-	- What are data dependencies? (bad?) - probably dependent types.
-- Statistics of a column/file min/max/null count/sum/... necessary when? for what optimizations?
-- benchmarks
-
-Essentially, all that databases, and dataformats try to do, is to optimize some more inefficient, but useful higher-level abstraction. That could be the way objects reference each-other in a typical programming language or the structure of a file system. Essentially they're just some backend to optimize some frontend access, not unlike any other problem in programming languages or compilers. What I take away from that is a few things:
-- (1) The frontend, like a file system, should in practice be disconnected from how it is actually stored in practice. 
-- (2) Optimizations, like any optimization in the language, should be dynamically allocated, with some preferences defined on what to do in certain situations: Do we rewrite the data, or just adapt our future data access? What is the single-time cost to rewrite the data (energy/time/cost)? Vs the cost of overhead caused by splitting our way previous vs future data is accessed. 
-- (3) Most typical databases are only an optimization on a very restricted type of data, which is common, but still restrictive: 2D row/column data. We'd want to support arbitrary data and optimizations for that data, of which our usual databases are just a subset of a subset. 
-- (4) In our specific case of version control as well, the backend data (in whatever form it is) is just a specific way of generating frontend data (in whichever form that is) - so the version control should just support the different existing VCS's as frontends (even though they're typically seen as backends); we can compose them in that way. Which should be bidirectional: if I choose I want git exposed as a frontend, I should be able to write to git and it effecting our backends.
-- (5) The contents of a file are similarly just a frontend. If it is useful to destruct it into components which are stored and searchable separately, that is another place for optimization.
-
 ---
 
-Video/Multimedia formats, just like databases. Optimizations for a very simply language interface: 2D/3D scenes + temporal, which need to be optimized for CPU time, storage, same considerations as the databases --> do you reformat, what do you need available. How does the optimizations come into play here (incentivizing it).
 
 ---
 
