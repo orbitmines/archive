@@ -36,18 +36,6 @@ keybiunding to see all versions intermingled, go through each version etc.
 ---
 
 
-
----
-
-Hot reloading abstract & production code, introduce migrations at every level of the stack; how does this look in the editor. Test properly? What happens inside loops, are they broken, what else is done differently etc..
-
-Not a single file only dependencise:
-Same shape as 
-  the dependency tracking we just discussed for hot-reload, but generalized:
-  every computed value memoizes against a content-hash of its inputs;
-
----
-
 Variants on the same idea:                                                    
   - Linear — must be used exactly once (Linear Haskell, Granule)                
   - Affine — must be used at most once (Rust by default for non-Copy types)     
@@ -59,15 +47,7 @@ dynamically assert the number of references to a variable basically. Similarly o
 
 ---
 
-Version control Hybrid logical clocks /CRDTs
-
-Local version of the codebase and then your fork of the codebase easily accessible to others working in the repo. -> Can always push
-
-Apply a change to all stable versions.
-
-Commit/flagging a change as the thing which actually works. Also group like all the changes in a single merge or something like that.
-
-Test my changes against the latest changes, instead of merging the latest changes into my own.
+Apply a change to all stable versions. / inline version control
 
 ---
 
