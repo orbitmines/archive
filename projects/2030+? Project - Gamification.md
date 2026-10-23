@@ -15,7 +15,9 @@ D. Gamification of Science, Engineering and Education
 - Translatability: What makes a problem translatable into a game? And what determines how hard it is to translate that problem?
 - How does the game start? For new sessions starting with zero knowledge of the player, to one which is calibrated to them?
 - How do you make progression feel like a videogame?
-
+- II.
+	- How do you scale large game graphs to millions of players?
+	- How do you limit spatial propagation by means of actual computational restraints?
 ---
 # UNPROCESSED
 *Tread carefully, confusion abound*

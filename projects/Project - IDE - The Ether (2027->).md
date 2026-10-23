@@ -10,13 +10,8 @@ A. The Ray Programming Language
 	- How do you run a function backwards?
 	- How do you call and define inverses of functions?
 	- What would be an appropriate geometrical library for describing UI languages?
-- II.
-	- How do you scale large game graphs to millions of players?
-	- How do you limit spatial propagation by means of actual computational restraints?
+
 B. Interpretation and Reinterpretation of existing Software
-- What is a useful Universal Language in which to compare all existing languages?
-	- [A Program in Ray](https://github.com/orbitmines/ray/blob/main/Ether/.ray/Program.ray)
-- How do you compare [thousands](https://github.com/orbitmines/ray/blob/main/Ether/library/Index.ray) of languages, without redefining all the semantics by hand? (using their existing implementations)
 - Which categories do you use to measure all the diversity?
 	- Grammars (verbosity), Runtime Complexity (which abstraction layer), Parallel/Sequential Time/Spatial complexity (??), Measurement of how complex the access to spatial structure of a Program is
 - How do you create differentiation of languages based on those measures?
