@@ -24,58 +24,13 @@ A. The Ray Programming Language
 - Ambiguities 
 	- (what to do with the platforms which have a @ether name registered?)
 
-- @ether index decentralized (where certain people host their servers if they want to change the visibility to @P
+- @ether index decentralized (where certain people host their servers if they want to change the visibility to @public)
 
 ---
 
 keybiunding to see all versions intermingled, go through each version etc.
 
 ---
-
-Same code for CLI vs frontend interface -> just different frontends to a program type, just another hook into it.
-
----
-
-|           |                |        |                                                                                                                                                                    |
-| --------- | -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Plaintext | `NODE_VERSION` | 18.3.0 | [](https://developers.cloudflare.com/pages/functions/wrangler-configuration/)<br><br>[](https://developers.cloudflare.com/pages/functions/wrangler-configuration/) |
-| Plaintext | `NPM_VERSION`  | 9.6.6  |                                                                                                                                                                    |
-
-Interface not just 100% width means a box, but that's everywhere a 100% width which couold be a triangle or other forms. whatever width is available for the height it has. -> Basically wrap around stuff automatically.
-
----
-
-@https:// should work. only not accepting spaces, use @" " for that.
-
----
-
-PATTERN* maps to PATTERN, * so that we can have "PATH/"* ?
-
----
-
-entry is origin no self.
-.index is from origin.
-
----
-
-"A" is a char, unless explicitely a string
-
-[] and () are interchangable for array creation?
-
----
-
-++ alias of + for numbers?
-
----
-
-reserve macids too?
-
----
-
-["A", "B", "C"].map(entry: String + Ray => entry.index)
-["A", "B", "C"].map(entry: + Ray => entry.index)
-Only provide the + Ray when mentioned explicitely.
-forcing to be string here ignores the Ray component
 
 ---
 
