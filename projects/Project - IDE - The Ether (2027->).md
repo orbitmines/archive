@@ -29,6 +29,8 @@ A. The Ray Programming Language
 - Checker whether access permissions dont leave the network as the network doesnt have access if not so defined. (any derivative)
 - Abstraction interpretation flag anything that is not Pure, refuse to execute those.
 
+- Approximate optimizations
+
 ---
 
 keybiunding to see all versions intermingled, go through each version etc.
@@ -62,65 +64,6 @@ Create virtual filesystems into the ether
 
 
 ---
-
-`ether cli` - Same interface as ether, but as a CLI, render restrictions to text. - just a frontend to the geometry library
-sample images with textual equivs
-
-preferred rewrites as (optional)
-
-when not a None the ? after is just the boolean version does this property hold. instead of the is_X? everywhere
-
-types which match, findinble through references, like Program with cycles, findable. or assert that theyre shouldnt be any. or recurison not allowed etc...
-
-x: Type
-(x = a: b) // x needs to be set in this cotnext? nbot where it is inlined.
-
-assume computer > whelmed if ∀Language behavior(.) > board
-assume sets boolean if not speicified
-assume @me.device > whelmed if ∀Language behavior(.) > board
-
-@me/@player
-
-// top of file
-dynamiacally {
-   assume computer > whelmed if x
-}
-
-steramer mode is the screen renderer doesnt have view access to the @player information (so the name cant be displayed)
-
-cli shell replacement for terminals running as the language mapping to usual cli behavior
-
-decentralized index of all other applications and their functionality (how to safely seaparte user data vs public data) - Project Archive
-
-while loop should work as filling lazy partial.
-
-if instead of match if == , 0 => etc..
-
-automatically compiling a program to be equived to a bunch of API calls wthen let opeople switch to the API call version of remote code execution version.
-
-allow people to claim reservedf names through dns text records.
-
-program in memory idea, repeated parts for hot paths that go wide? can that work?
-
-abstractions like pi =/ javasxcript Math.PI need to come with types of approximations so the compiler nknows the information loss and can tell the user.
-
-move OS specifci stuff to the package stuff that needs them.
-
-route exsting OS through a fitlered FS
-
-if # is used it's on the whole thing instead of per.
-
-
-
-asserts green, if fails red, need to separate syntax etc. other errors from actually failing the condition
-
-https://github.com/jj-vcs/jj
-
-how to say if not fulfilled default to 1 or max(1, etc)
-
-\n\n needs to work.
-
-recur should be within a closure recurring the closure
 
 [] == false
 
