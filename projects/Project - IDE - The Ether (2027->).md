@@ -159,4 +159,6 @@ with Random.seed = 42
 
 likes: ≈Number
 
-</CodeBlock>
+</CodeBlock
+
+Set := Structure{.unordered & .unique}
