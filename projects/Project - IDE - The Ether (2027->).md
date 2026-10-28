@@ -130,3 +130,5 @@ All == variants are callable with === too, generalized, so that we can always sa
 
 Allow with as suffix so
 f *== g with O = @wasm
+
+Statuses are different now, check the almanac for their proper implementation in the Player instances section
