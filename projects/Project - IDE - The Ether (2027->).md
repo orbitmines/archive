@@ -139,6 +139,8 @@ Statuses are different now, check the almanac for their proper implementation in
 rename none.read to @none.read
 confindental to @confidential simlarly.
 
+Make @ default to .read, and .write needs to be explicit. (unless )
+
 [TODO] For randomness itself, there's one method: (.random). Saying (secure) asks for a cryptographic source, and fixing the seed is a setting like any other:
 
 <CodeBlock>
