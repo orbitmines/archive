@@ -143,6 +143,8 @@ Make @ default to .read, and .write needs to be explicit. unless ofc its that @ 
 
 [TODO] For randomness itself, there's one method: (.random). Saying (secure) asks for a cryptographic source, and fixing the seed is a setting like any other:
 
+! program returnin
+
 <CodeBlock>
 
 secure Number{'{'}{'<'} 100{'}'}.random<BR/>
