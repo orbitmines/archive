@@ -135,3 +135,5 @@ Statuses are different now, check the almanac for their proper implementation in
 @public.read? or @public? is accessible whether something has that permission
 
 @ether @public.read SOMETHING, means @ether SOMETHING, it overrides it such that @ether Online is overriding the @pbulic.read
+
+rename none.read to @none.read
