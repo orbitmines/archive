@@ -126,3 +126,4 @@ String internationaliation + interpolation
 
 Rename location aware === to @==, then use ==<in: None> to be ===
 All == variants are callable with === too, generalized, so that we can always say this sort of equivalence, with <in: None>
+@== is reserved for the operator, it cannot be claimed. (ether)
