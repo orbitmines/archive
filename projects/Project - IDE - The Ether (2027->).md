@@ -125,3 +125,4 @@ Explciit `= None` in `a: Test?` shoudlnt be necessary
 String internationaliation + interpolation
 
 Rename location aware === to @==, then use ==<in: None> to be ===
+All == variants are callable with === too, generalized, so that we can always say this sort of equivalence, with <in: None>
