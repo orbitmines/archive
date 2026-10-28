@@ -132,3 +132,4 @@ Allow with as suffix so
 f *== g with O = @wasm
 
 Statuses are different now, check the almanac for their proper implementation in the Player instances section
+@public.read? or @public? is accessible whether something has that permission
