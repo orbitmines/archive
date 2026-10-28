@@ -138,3 +138,21 @@ Statuses are different now, check the almanac for their proper implementation in
 
 rename none.read to @none.read
 confindental to @confidential simlarly.
+
+[TODO] For randomness itself, there's one method: (.random). Saying (secure) asks for a cryptographic source, and fixing the seed is a setting like any other:
+
+<CodeBlock>
+
+secure Number{'{'}{'<'} 100{'}'}.random<BR/>
+
+with Random.seed = 42
+
+</CodeBlock>
+
+[TODO] As a last thing: a value which might still be corrected, like (Time.now), carries an uncertainty around what was read. And saying that an approximate value is fine, is then just another type:
+
+<CodeBlock>
+
+likes: ≈Number
+
+</CodeBlock>
