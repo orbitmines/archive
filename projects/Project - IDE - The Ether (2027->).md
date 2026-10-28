@@ -137,3 +137,4 @@ Statuses are different now, check the almanac for their proper implementation in
 @ether @public.read SOMETHING, means @ether SOMETHING, it overrides it such that @ether Online is overriding the @pbulic.read
 
 rename none.read to @none.read
+confindental to @confidential simlarly.
