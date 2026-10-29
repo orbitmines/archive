@@ -172,3 +172,5 @@ Program(code: {  }) is not necessary any block is already that. { something } wo
 sleep 10 s 
 sleep 100 ms
 needs to be implemented. how??
+
+filesystem needs to reserve @~/ too.
