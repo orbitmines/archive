@@ -166,3 +166,5 @@ Set := Structure{.unordered & .unique}
 @ether => @ether.orbitmines.com:37839
 @localhost => @127.0.0.1
 these work with dots/:/. instead of being property accesses. Only a .@ maps so @github.@FadiShawki works as a property access. And ofc all / remain as property accesses @github/@FadiShawki
+
+Program(code: {  }) is not necessary any block is already that. { something } works
