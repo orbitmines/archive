@@ -10,7 +10,10 @@ B. Interpretation and Reinterpretation of existing Software
 # UNPROCESSED
 *Tread carefully, confusion abound*
 
+create the interface with which to do this,
+
 ---
+
 
  - [ ] Time & Spatial (Circuit) complexity  
    One complexity is related to sequential processing capacity (hence circuit or time complexity, a very well known concept in computer science)  
