@@ -168,3 +168,7 @@ Set := Structure{.unordered & .unique}
 these work with dots/:/. instead of being property accesses. Only a .@ maps so @github.@FadiShawki works as a property access. And ofc all / remain as property accesses @github/@FadiShawki
 
 Program(code: {  }) is not necessary any block is already that. { something } works
+
+sleep 10 s 
+sleep 100 ms
+needs to be implemented. how??
