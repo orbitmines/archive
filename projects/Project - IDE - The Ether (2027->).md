@@ -176,3 +176,5 @@ needs to be implemented. how??
 filesystem needs to reserve @~/ too.
 
 error handling $something.{*} allow to catch anything named starting with something.
+
+(Binary32, "A", Binary8).random
